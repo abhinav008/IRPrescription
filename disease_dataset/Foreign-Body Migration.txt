@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Loteprednol
+2. Groups:  Approved
+3. Description:  Loteprednol (as Loteprednol Etabonate) is a topical corticoid antiinflammatory. It is used in ophthalmic solution for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, is used for the treatment and management of seasonal allergic rhinitis.
+4. Indication:  As an ophthalmic it is used for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, used for the treatment and management of seasonal allergic rhinitis.
+DrugId:  2
+1. Name:  Albinterferon Alfa-2B
+2. Groups:  Investigational
+3. Description:  Albumin-interferon alpha (Albuferon) is a novel, long-acting form of interferon alpha. Recombinant interferon alpha is approved for the treatment of hepatitis C, hepatitis B, and a broad range of cancers. Human Genome Sciences modified interferon alpha to improve its pharmacological properties by using the company's proprietary albumin fusion technology. Human Genome Sciences is developing Albuferon as a potential treatment for chronic hepatitis C. The drug was under investigation as an alternative to pegylated IFN-α-2a for the treatment of hepatitis C. In response to an FDA ruling, Novartis and Human Genome Sciences announced on October 5, 2010 that they ceased development of the drug.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  3
+1. Name:  YSIL6
+2. Groups:  Investigational
+3. Description:  YSIL6 is a small-molecule drug in development for the treatment of inflammatory diseases, including rheumatoid arthritis and psoriasis. The molecule works by inhibiting TNF-alpha and IL-6 production in T-cells and macrophages, and by inhibiting T-cell proliferation and migration.
+4. Indication:  Investigated for use/treatment in crohn's disease, psoriasis and psoriatic disorders, and rheumatoid arthritis.
+DrugId:  4
+1. Name:  ATN-161
+2. Groups:  Investigational
+3. Description:  ATN-161 is a non-RGD based integrin binding peptide targeting alpha-5 beta-1 and alpha-v beta-3. It inhibits the migration and adhesion of particular integrins on activated endothelial cells that play a critical role in tumor angiogenesis. This approach targeting both the tumor vasculature and the cancer cells themselves, may be effective in single therapy as well as combination therapy. Since the expression of alpha(5)beta(1) integrin by cancer cells and the role of this molecule in tumor angiogenesis is similar across a range of different cancers, the therapeutic benefit of ATN-161 is expected to extend to a variety of cancers.
+4. Indication:  Investigated for use/treatment in brain cancer and cancer/tumors (unspecified).
+DrugId:  5
+1. Name:  WF10
+2. Groups:  Approved, Investigational
+3. Description:  WF10 is a chlorite-based, immunomodulating drug is developed by Nuvo Research Inc. Certain preclinical evidence and clinical pilot data suggest that WF10 may be effective in treating certain cancers. The Corporation believes the research to-date demonstrates that WF10 acts on macrophages (a type of white blood cell) by modulating the balance between inflammation and phagocytosis, a state in which the body digests foreign, potentially harmful substances. The Corporation has commenced a Phase II clinical trial in an effort to demonstrate the efficacy of WF10 in combination with Xeloda (capecitabine) in the treatment of pancreatic cancer. The trial is being conducted in Germany at the University of Heidelberg and the National Centre for Tumor Diseases.
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, cancer/tumors (unspecified), HIV infection, and inflammatory disorders (unspecified).
+DrugId:  6
+1. Name:  CCX915
+2. Groups:  Investigational
+3. Description:  CCX915 is developed by ChemoCentryx which targets the chemokine receptor CCR2 and is in phase 1 of clinical trial for the treatment of Multiple Sclerosis and Neurologic Disorders. The CCR2 receptor is thought to be of central importance to inflammatory diseases, such as multiple sclerosis (MS), Type II diabetes and atherosclerosis.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and neurologic disorders.
+DrugId:  7
+1. Name:  REN-850
+2. Groups:  Investigational
+3. Description:  REN-850 is an oral drug for multiple sclerosis which is in Phase I of clinical trials.
+4. Indication:  Investigated for use/treatment in multiple sclerosis.
+DrugId:  8
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  9
+1. Name:  Eldelumab
+2. Groups:  Investigational
+3. Description:  MDX-1100, a fully human antibody that targets IP10 (also known as CXCL10), a chemokine expressed in association with multiple inflammatory disease indications, such as rheumatoid arthritis, inflammatory bowel disease and multiple sclerosis.
+4. Indication:  Investigated for use/treatment in ulcerative colitis.
+DrugId:  10
+1. Name:  Basiliximab
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant chimeric (murine/human) monoclonal antibody (IgG1k) that functions as an immunosuppressive agent, specifically binding to and blocking the interleukin-2 receptor a-chain (IL-2R alpha, also known as CD25 antigen) on the surface of activated T-lymphocytes. It is a 144 kDa glycoprotein obtained from fermentation of an established mouse myeloma cell line genetically engineered to express plasmids containing the human heavy and light chain constant region genes and mouse heavy and light chain variable region genes encoding the RFT5 antibody that binds selectively to the IL-2R alpha.
+4. Indication:  For prophylactic treatment of kidney transplant rejection
+DrugId:  11
+1. Name:  Piroxicam
+2. Groups:  Approved, Investigational
+3. Description:  A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily. [PubChem]
+4. Indication:  For treatment of osteoarthritis and rheumatoid arthritis.
+DrugId:  12
+1. Name:  Hyaluronic acid
+2. Groups:  Approved, Vet approved
+3. Description:  Hyaluronic acid (HA) is an anionic, nonsulfated glycosaminoglycan distributed widely throughout connective, epithelial, and neural tissues. It is unique among glycosaminoglycans in that it is nonsulfated, forms in the plasma membrane instead of the Golgi, and can be very large, with its molecular weight often reaching the millions. One of the chief components of the extracellular matrix, hyaluronic acid contributes significantly to cell proliferation and migration, and may also be involved in the progression of some malignant tumors.
+4. Indication:  Used to treat knee pain in patients with joint inflammation (osteoarthritis). It is usually used in patients who have not responded to other treatments such as acetaminophen, exercise, or physical therapy. Hyaluronic acid may also be used in plastic surgery to reduce wrinkles on the face or as a filler in other parts of the body. May be used in ophthalmology to assist in the extraction of cataracts, the implantation of intraocular lenses, corneal transplants, glaucoma filtration, retinal attachment and in the treatment of dry eyes. Finally, hyaluronic acid is also used to coat the bladder lining in treating interstitial cystitis.
+DrugId:  13
+1. Name:  Fluoride ion F-18
+2. Groups:  Approved
+3. Description:  Sodium Fluoride F 18 Injection is a positron emitting radiopharmaceutical, no-carrier added. It contains radioactive fluoride F 18 that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging and is administered by intravenous injection. Its primary indication is for bone imaging. Increased deposition around joints can occur in arthritis and following trauma and increased deposition in bone has been noted around fracture sites, in osteomyelitis, fibrous dysplasia, spondylitis tuberculosa, and Paget's disease. No adverse reactions have been reported.
+4. Indication:  18F is used as a bone imaging agent to define areas of altered osteogenic activity. It has been indicated for back pain and otherwise unexplained bone pain, child abuse, abnormal radiographic or laboratory findings, osteomyelitis, trauma, inflammatory and degenerative arthritis, avascular necrosis. Osteonecrosis of the mandible, condylar hyperplasia, and metabolic bone disease are also among the indications for fluoride imaging. 
+DrugId:  14
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  15
+1. Name:  Benralizumab
+2. Groups:  Approved, Investigational
+3. Description:  Benralizumab is a humanized recombinant monoclonal antibody of the isotype IgG1k immunoglobulin that specifically binds to the alpha chain of the interleukin 5 receptor (IL-5R) expressed on eosinophils and basophils.[2] It inhibits the binding of IL-5 as well as the hetero-oligomerization of the alpha and beta subunits of the IL-5R, thus blocking, signal transduction. Besides, it is an afucosylated IgG which gives it high affinity for the FcγRIIIα receptor in natural killer cells, macrophages and neutrophils.[1] Benralizumab, FDA approved on November 14, 2017, was developed by MedImmune, the AstraZeneca's global biologic research and development arm.[6]
+4. Indication:  Benralizumab is indicated as a maintenance treatment of patients 12 years or older with severe asthma and an eosinophilic phenotype.[7] The pathology of severe asthma with eosinophilic phenotype is also denotated as TH2-high phenotype. The patients with this phenotype are characterized by the expression of IL-5 and IL-13, airway hyperresponsiveness, responsiveness to inhaled corticosteroids, high serum IgE and eosinophilia in blood and airway. In the TH2-high phenotype, IL-5 presents a central role as it is responsible for eosinophil differentiation, survival, activation and migration to the lungs.[3]
+DrugId:  16
+1. Name:  Trafermin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in coronary artery disease, peripheral vascular disease, periodontal disease, bone fractures, entero-related fistulae, and diabetic foot ulcers.
+DrugId:  17
+1. Name:  FX06
+2. Groups:  Investigational
+3. Description:  FX06 is a naturally occurring peptide derived from the neo-N-terminus of fibrin (Bbeta(15-42)). It prevents leukocyte migration through the gap junctions of endothelial cells. FX06 has proven safe in acute and subchronic toxicological studies and recently entered clinical development. It is being developed by Fibrex Medical Inc.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury and myocardial infarction.
+DrugId:  18
+1. Name:  anti-alpha5Beta1-integrin antibody
+2. Groups:  Investigational
+3. Description:  Integrins are important adhesion molecules that regulate tumor and endothelial cell survival, proliferation and migration. The integrin alpha5beta1 has been shown to play a critical role during angiogenesis. anti-alpha5beta1 integrin antibody inhibits angiogenesis, including vessel formation induced by vascular endothelial growth factor (VEGF), basic fibroblast growth factor (bFGF), as well as other pro-angiogenic growth factors.
+4. Indication:  Investigated for use/treatment in colorectal cancer, pancreatic cancer, and solid tumors.
+DrugId:  19
+1. Name:  Difluocortolone
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Difluocortolone is a potent topical corticosteroid. It is commonly used in dermatology for the reduction of inflammation and itching. It was submited to the FDA in July 1984 by the pharmaceutical company Schering AG.[3]
+4. Indication:  Difluocortolone is used as a topical treatment of the symptoms of inflammatory skin disorders like eczema, seborrheic eczema, lichen planus and psoriasis. All these disorders present as a common characteristic the occurrence of symptoms as itching, swelling, redness and scaling.[4]
+DrugId:  20
+1. Name:  Oxybuprocaine
+2. Groups:  Approved, Investigational
+3. Description:  Oxybuprocaine is the name of a local anesthetic, which is used especially in ophthalmology and otolaryngology. Oxybuprocaine binds to sodium channels and reversibly stabilizes the neuronal membrane which decreases its permeability to sodium ions.
+4. Indication:  Used to temporarily numb the front surface of the eye so that the eye pressure can be measured or a foreign body removed.
+DrugId:  21
+1. Name:  NS-3728
+2. Groups:  Investigational
+3. Description:  NS3728 is an orally active chloride channel blocker for the treatment of cancer.
+4. Indication:  Investigated for use/treatment in anemia (sickle cell) and cancer/tumors (unspecified).
+DrugId:  22
+1. Name:  ATL1102
+2. Groups:  Investigational
+3. Description:  ATL1102 is a second-generation antisense inhibitor of CD49d, an immunesystem protein known as VLA-4, an immune cell molecule. It works by entering cells and targeting genes.
+4. Indication:  Investigated for use/treatment in asthma and multiple sclerosis.
+DrugId:  23
+1. Name:  CDP323
+2. Groups:  Investigational
+3. Description:  CDP323 is a small-molecule prodrug antagonist of the vascular cell adhesion molecule 1 (VCAM-1) binding to alpha4-integrins. It was originally developed by the British biopharmaceutical company Celltech plc. (now UCB S.A.) and is a putative new drug for oral treatment of multiple sclerosis.
+4. Indication:  Investigated for use/treatment in multiple sclerosis.
+DrugId:  24
+1. Name:  Clobetasone
+2. Groups:  Approved
+3. Description:  Clobetasone is a corticosteroid used in dermatology, for treating such skin inflammation as seen in eczema, psoriasis and other forms of dermatitis, and ophthalmology. Topical clobetasone butyrate has shown minimal suppression of the Hypothalamic-pituitary-adrenal axis.
+4. Indication:  In dermatology, topical clobestasone butyrate helps to reduce the itchiness and erythema associated with eczema and dermatitis.In ophthalmology, clobetasone butyrate 0.1% eye drops have been shown to be safe and effective in the treatment of dry eyes in Sjögren's Syndrome.
+DrugId:  25
+1. Name:  Remestemcel-L
+2. Groups:  Approved, Investigational
+3. Description:  Remestemcel-L is a third-party, off-the-shelf suspension of ex-vivo cultured adult human mesenchymal stem cells intended for intravenous infusion. The mesenchymal stem cells are derived from the bone marrow of unrelated and human leukocyte antigen (HLA)–unmatched healthy adult donors and have the ability to differentiate into different tissue cells. It was approved for use in Canada in May 2012 as Prochymal for the management of refractory acute Graft versus Host Disease (aGvHD) in children who are unresponsive to systemic steroid therapies, with the approval conditional upon further trials being conducted.aGvHD is a T-cell mediated disease that occurs after allogeneic hematopoietic stem cell transplant and is a reaction of donor immune cells against host tissues [A31822] developed by 30-80% of the recipients [1]. aGvHD is often characterized by the presence of inflammatory cascades through signalling of activated T cells. While systemic corticosteroids and other immunosuppressive agents are commonly used as first-line treatments to manage aGvHD, about 30-50% of patients with aGvHD experience inadequately control of disease with first-line therapies, putting them in a risk for poor outcomes and creating a significant clinical challenge [1]. It is estimated that the patients with the most severe forms of refractory aGvHD that do not respond to steroid therapy have expected one-year survival rates of only 5% to 30% [6]. Human mesenchymal stem cells (hMSCs) serve to down-regulate inflammatory responses and produce anti-inflammatory cytokines and growth factors to promote tissue repair [1]. In clinical studies, patients treated with remestemcel-L demonstrated an improvement in their aGvHD and improved survival rates at subsequent days following intravenous infusion [6]. Based on its tolerability and safety profile, remestemcel-L is a promising alternative to second-line immunosuppressive agents [1].
+4. Indication:  Indicated for in the management of acute Graft versus Host Disease (aGvHD) in pediatric patients. Acute GvHD should be refractory to treatment with systemic corticosteroid therapy and/or other immunosuppressive agents. Remestemcel-L may be used for Grades C and D of the disease in any organ. Remestemcel-L may also be used in the management of Grade B aGvHD involving any visceral organ, including the GI tract and the liver, but excluding skin [6].

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Anagrelide
+2. Groups:  Approved
+3. Description:  Anagrelide is a drug used for the treatment of essential thrombocytosis (ET; essential thrombocythemia). It also has been used in the treatment of chronic myeloid leukemia. [Wikipedia]
+4. Indication:  For the treatment of patients with thrombocythemia, secondary to myeloproliferative disorders, to reduce the elevated platelet count and the risk of thrombosis and to ameliorate associated symptoms including thrombo-hemorrhagic events.
+DrugId:  2
+1. Name:  Pipobroman
+2. Groups:  Approved
+3. Description:  An antineoplastic agent that acts by alkylation. [PubChem]
+4. Indication:  For the treatment of polycythaemia vera and refractory chronic myeloid leukaemia.
+DrugId:  3
+1. Name:  Gandotinib
+2. Groups:  Investigational
+3. Description:  Gandotinib has been used in trials studying the treatment of Myelofibrosis, Polycythemia Vera, Primary Myelofibrosis, Thrombocythemia, Essential, and Myeloproliferative Disorders, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Momelotinib
+2. Groups:  Investigational
+3. Description:  Momelotinib has been used in trials studying the treatment of Polycythemia Vera, Primary Myelofibrosis, Post-Polycythemia Vera, Essential Thrombocythemia, and Primary Myelofibrosis (PMF), among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Ruxolitinib
+2. Groups:  Approved
+3. Description:  Ruxolitinib is a janus-associated kinase inhibitor indicated to treat bone marrow cancer, specifically intermediate or high-risk myelofibrosis. FDA approved on November 16, 2011. 
+4. Indication:  Treatment of intermediate or high-risk myelofibrosis, including primary myelofibrosis, post-polycythemia vera (post-PV) myelofibrosis and post-essential thrombocythemia (post-ET) myelofibrosis. [Lexicomp] Myeolofibrosis is the proliferation of abnormal bone marrow stem cells which cause fibrosis (the excessive formation of connective tissue).
+DrugId:  6
+1. Name:  NS-018
+2. Groups:  Investigational
+3. Description:  NS-018 has been used in trials studying the treatment of Primary Myelofibrosis, Post-Polycythemia Vera Myelofibrosis, and Post-Essential Thrombocythemia Myelofibrosis.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Erlotinib
+2. Groups:  Approved, Investigational
+3. Description:  Erlotinib hydrochloride (trade name Tarceva, Genentech/OSIP, originally coded as OSI-774) is a drug used to treat non-small cell lung cancer, pancreatic cancer and several other types of cancer.Similar to gefitinib, erlotinib specifically targets the epidermal growth factor receptor (EGFR) tyrosine kinase. It binds in a reversible fashion to the adenosine triphosphate (ATP) binding site of the receptor. Erlotinib has recently been shown to be a potent inhibitor of JAK2V617F activity. JAK2V617F is a mutant of tyrosine kinase JAK2, is found in most patients with polycythemia vera (PV) and a substantial proportion of patients with idiopathic myelofibrosis or essential thrombocythemia. The study suggests that erlotinib may be used for treatment of JAK2V617F-positive PV and other myeloproliferative disorders.
+4. Indication:  For the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen. Also for use, in combination with gemcitabine, as the first-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer.
+DrugId:  8
+1. Name:  Chymotrypsin
+2. Groups:  Approved, Vet approved
+3. Description:  Chymotrypsin is a digestive enzyme synthesized in the pancreas that plays an essential role in proteolysis, or the breakdown of proteins and polypeptides. As a component in the pancreatic juice, chymotrypsin aids in the digestion of proteins in the duodenum by preferentially cleaving peptide amide bonds where the side-chain of the amino acid N-terminal to the scissile amide bond (the P1 position) is a large hydrophobic amino acid (tyrosine, tryptophan, and phenylalanine) [Wikipedia]. Chymotrypsin also hydrolyzes other amide bonds in peptides at slower rates. Through the cleavage of enzymatically inactive precursor chymotrypsinogen by trypsin, chymotrypsin is activated. It also induces its own activation by cleaving essential amino acid residues in the oxyanion hole to produce α-Chymotrypsin, which is a more stable form than π-Chymotrypsin.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Fish oil
+2. Groups:  Approved, Nutraceutical
+3. Description:  Fish oil is a component of SMOFLIPID, which was FDA approved in July 2016. It is indicated in adults as a source of calories and essential fatty acids for parenteral nutrition when oral or enteral nutrition is not possible, insufficient, or contraindicated.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Ammonium molybdate
+2. Groups:  Approved
+3. Description:  Ammonium molybdate is a source of molybdenum that exists in several hydrate forms. It is intravenously administered as an additive to solutions for Total Parenteral Nutrition (TPN). Molybdenum is an essential element that is present in enzymes including xanthine oxidase, sulfite oxidase, and aldehyde oxidase.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  RG2417
+2. Groups:  Investigational
+3. Description:  RG2417 is a proprietary formulation of uridine, a biological compound essential for the synthesis of DNA and RNA, the basic hereditary material found in all cells, and numerous other factors essential for cell metabolism. Uridine is synthesized by the mitochondria, the power plant of the human cell responsible for energy metabolism. The rationale for uridine therapy in neuropsychiatric disorders is supported by preclinical and clinical research. Recent reports indicate that certain genes that encode for mitochondrial proteins are significantly down regulated in the brains of bipolar patients. This new insight suggests that the symptoms of bipolar disorder may be linked to dysregulation of energy metabolism of the brain. 
+4. Indication:  Investigated for use/treatment in bipolar disorders and manic disorders.
+DrugId:  12
+1. Name:  Docosahexaenoate
+2. Groups:  Approved, Investigational
+3. Description:  Docosahexaenoate (DHA) is a long-chain, highly unsaturated omega-3 (n-3) fatty acid with 22-carbon chain and six cis double bonds. It can be synthesised from the plant essential fatty acid α-linolenic acid (ALA) or obtained from other sources such as breast milk, fish oil and algae oil. As a major structural component in human brain tissues, retina and skin, DHA plays an essential role in growth and functional development of the brain in infants as well as maintenance of normal brain function in adults [1]. DHA is available as oral dietary supplements and added in food products.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Leucine Phosphonic Acid
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Ferrous asparto glycinate
+2. Groups:  Approved
+3. Description:  Ferrous asparto glycinate is an iron-amino acid chelate. It is available as a dietary supplement used in the treatment of iron deficiency and iron deficiency anemia.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  L-Valinol
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  NM100060
+2. Groups:  Investigational
+3. Description:  NM100060 is NexMed's proprietary nail lacquer treatment for onychomycosis (nail fungal infection).
+4. Indication:  Investigated for use/treatment in onychomycosis.
+DrugId:  17
+1. Name:  T-2000
+2. Groups:  Investigational
+3. Description:  T2000 has been used in trials studying the treatment of Myoclonus and Essential Tremor.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  L-Cysteine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A thiol-containing non-essential amino acid that is oxidized to form cystine.
+4. Indication:  For the prevention of liver damage and kidney damage associated with overdoses of acetaminophen
+DrugId:  19
+1. Name:  D-Tryptophan
+2. Groups:  Experimental
+3. Description:  Tryptophan is one of the 20 standard amino acids, as well as an essential amino acid in the human diet. It is encoded in the standard genetic code as the codon UGG. The D-stereoisomer is occasionally found in naturally produced peptides (for example, the marine venom peptide contryphan). The distinguishing structural characteristic of tryptophan is that it contains an indole functional group. It is an essential amino acid as defined by its growth effects on rats.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Thioredoxin
+2. Groups:  Approved
+3. Description:  Thioredoxin is a small dithiol protein and specific reductant for major allergenic proteins present in foods from animal and plant products. It is a 12-kD oxidoreductase enzyme encoded by TXN and TXN2 genes that contains a dithiol-disulfide active site. It plays an essential role as an antioxidant in neutralizing food allergens and redox signalling. Allergens containing disulfide bonds are inactivated when reduced by thioredoxin.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Caprylic alcohol
+2. Groups:  Investigational
+3. Description:  Caprylic alcohol has been used in trials studying the treatment of Essential Tremor.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Arachidonic Acid
+2. Groups:  Experimental
+3. Description:  An unsaturated, essential fatty acid. It is found in animal and human fat as well as in the liver, brain, and glandular organs, and is a constituent of animal phosphatides. It is formed by the synthesis from dietary linoleic acid and is a precursor in the biosynthesis of prostaglandins, thromboxanes, and leukotrienes. [PubChem]
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  L-methionine (R)-S-oxide
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  N2-(Carboxyethyl)-L-Arginine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  CDP323
+2. Groups:  Investigational
+3. Description:  CDP323 is a small-molecule prodrug antagonist of the vascular cell adhesion molecule 1 (VCAM-1) binding to alpha4-integrins. It was originally developed by the British biopharmaceutical company Celltech plc. (now UCB S.A.) and is a putative new drug for oral treatment of multiple sclerosis.
+4. Indication:  Investigated for use/treatment in multiple sclerosis.

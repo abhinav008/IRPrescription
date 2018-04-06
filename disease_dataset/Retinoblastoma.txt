@@ -1,0 +1,20 @@
+DrugId:  1
+1. Name:  Racotumomab
+2. Groups:  Investigational
+3. Description:  Racotumomab has been used in trials studying the treatment of Glioma, Wilm's Tumor, Neuroblastoma, Retinoblastoma, and Ewing's Sarcoma.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Palbociclib
+2. Groups:  Approved, Investigational
+3. Description:  Palbociclib is an oral, reversible, selective, small-molecule inhibitor of CDK4 and CDK6 indicated in combination with letrozole for the treatment of postmenopausal women with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced breast cancer as initial endocrine-based therapy for their metastatic disease. CDK4 and CDK6 along with their regulatory partner cyclin D1 play a key role in regulating the G1- to S-phase cell-cycle transition via regulation of phosphorylation of the retinoblastoma (Rb) protein. Inhibition of these proteins leads to reduced phosphorylation of Rb, inhibition of downstream signalling, and increased tumor growth arrest. Palbociclib received an accelerated approval from the Food and Drug Administration on February 3, 2015.
+4. Indication:  Palbociclib is indicated in combination with letrozole for the treatment of postmenopausal women with estrogen receptor (ER)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced breast cancer as initial endocrine-based therapy for their metastatic disease. This indication is approved under accelerated approval based on progression-free survival (PFS). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. 
+DrugId:  3
+1. Name:  Abemaciclib
+2. Groups:  Approved, Investigational
+3. Description:  Abemaciclib is an antitumor agent and dual inhibitor of cyclin-dependent kinases 4 (CDK4) and 6 (CDK6) that are involved in the cell cycle and promotion of cancer cell growth in case of unregulated activity. On September 28, 2017, FDA granted approval of abemaciclib treatment under the market name Verzenio for the treatment of HR-positive and HER2-negative advanced or metastatic breast cancer that has progressed after unsuccessful endocrine therapy. It is either given alone in patients who has undergone endocrine therapy and chemotherapy after the metastasis of cancer, or in combination with Fulvestrant. Following oral treatment in patients with HR-positive, HER2-negative breast cancer, abemaciclib demonstrated increased progression-free survival rates and objective response rates. Abemaciclib has been used in trials studying the treatment of melanoma, lymphoma, neoplasm, solid tumor, and glioblastoma.
+4. Indication:  Indicated in combination with fulvestrant for the treatment of women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer with disease progression following endocrine therapy. Inidicated as monotherapy for the treatment of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting. 
+DrugId:  4
+1. Name:  Cyclophosphamide
+2. Groups:  Approved, Investigational
+3. Description:  Precursor of an alkylating nitrogen mustard antineoplastic and immunosuppressive agent that must be activated in the liver to form the active aldophosphamide. It has been used in the treatment of lymphoma and leukemia. Its side effect, alopecia, has been used for defleecing sheep. Cyclophosphamide may also cause sterility, birth defects, mutations, and cancer. [PubChem]
+4. Indication:  Cyclophosphamide is indicated for the treatment of malignant lymphomas, multiple myeloma, leukemias, mycosis fungoides (advanced disease), neuroblastoma (disseminated disease), adenocarcinoma of the ovary, retinoblastoma, and carcinoma of the breast. It is also indicated for the treatment of biopsy-proven minimal change nephrotic syndrome in pediatric patients. 

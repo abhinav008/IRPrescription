@@ -1,0 +1,15 @@
+DrugId:  1
+1. Name:  Lumefantrine
+2. Groups:  Approved
+3. Description:  Lumefantrine is an antimalarial agent used to treat acute uncomplicated malaria. It is administered in combination with artemether for improved efficacy. This combination therapy exerts its effects against the erythrocytic stages of Plasmodium spp. and may be used to treat infections caused by P. falciparum and unidentified Plasmodium species, including infections acquired in chloroquine-resistant areas.
+4. Indication:  Lumefantrine and artemether combination therapy is indicated for the treatment of acute uncomplicated malaria caused by Plasmodium falciparum, including malaria acquired in chloroquine-resistant areas. May also be used to treat uncomplicated malaria when the Plasmodium species has not been identified. Indicated for use in adults and children greater than 5 kg. 
+DrugId:  2
+1. Name:  Bictegravir
+2. Groups:  Approved, Investigational
+3. Description:  Bictegravir is a recently approved investigational drug that has been used in trials studying the treatment of HIV-1 and HIV-2 infection. It has been approved for HIV-1 monotherapy combined with 2 other antiretrovirals in a single tablet.
+4. Indication:  Bictegravir is indicated in the management of HIV-1 infection in patients not previously treated with antiretroviral therapy. Additionally, Bictegravir is indicated in the management of HIV-1 infection in patients who are virologically suppressed (HIV-1 RNA <50 c/mL) on a regular antiretroviral regimen for a minimum of three months without a history of failure in treatment and no known factors associated with the resistance to the individual components of the medication. It is used in combination with tenofovir and emtricitabine [3, 4].
+DrugId:  3
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.

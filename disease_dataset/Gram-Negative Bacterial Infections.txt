@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  REP8839
+2. Groups:  Investigational
+3. Description:  REP8839 is a novel methionyl-tRNA synthetase (MetS) inhibitor being developed by Replidyne (GlaxoSmithKline licensed REP8839 to Replidyne in June of 2003).
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms (Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA), and Streptococcus pyogenes).
+DrugId:  2
+1. Name:  Aztreonam
+2. Groups:  Approved
+3. Description:  A monocyclic beta-lactam antibiotic originally isolated from Chromobacterium violaceum. It is resistant to beta-lactamases and is used in gram-negative infections, especially of the meninges, bladder, and kidneys. It may cause a superinfection with gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of the following infections caused by susceptible gram-negative microorganisms: urinary tract infections, lower respiratory tract infections, septicemia, skin and skin-structure infections, intra-abdominal infections, and gynecologic infections.
+DrugId:  3
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  4
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Garenoxacin
+2. Groups:  Investigational
+3. Description:  Garenoxacin (INN) is a quinolone antibiotic undergoing regulatory review for the treatment of gram-positive and gram-negative bacterial infections. [Wikipedia]
+4. Indication:  Investigated for use/treatment in bacterial infection.
+DrugId:  6
+1. Name:  Cefacetrile
+2. Groups:  Approved
+3. Description:  A derivative of 7-aminocephalosporanic acid.
+4. Indication:  Cefacetrile is a broad-spectrum first generation cephalosporin antibiotic effective in Gram-positive and Gram-negative bacterial infections.
+DrugId:  7
+1. Name:  Amdinocillin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Amidinopenicillanic acid derivative with broad spectrum antibacterial action. It is poorly absorbed if given orally and is used in urinary infections and typhus. Amdinocillin is not available in the United States.
+4. Indication:  Used in the treatment of urinary tract infections caused by some strains of E. coli and klebsiella and enterobacter species. Used mainly against Gram negative organisms.
+DrugId:  8
+1. Name:  Hetacillin
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  Hetacillin is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. The name "penicillin" can either refer to several variants of penicillin available, or to the group of antibiotics derived from the penicillins. Hetacillin has in vitro activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of Hetacillin results from the inhibition of cell wall synthesis and is mediated through Hetacillin binding to penicillin binding proteins (PBPs). Hetacillin has been withdrawn from the market since it has been discovered that it has no therapeutic advantage compared to non-ester derivatives like ampicillin. 
+4. Indication:  Hetacillin is a beta-lactam antibiotic prodrug used to treat bacterial infections. In the body it gets converted to ampicillin.
+DrugId:  9
+1. Name:  Pefloxacin
+2. Groups:  Approved
+3. Description:  A synthetic broad-spectrum fluoroquinolone antibacterial agent active against most gram-negative and gram-positive bacteria. [PubChem]
+4. Indication:  For the treatment of uncomplicated gonococcal urethritis in males and for gram-negative-bacterial infections in the gastrointestinal system and the genitourinary tract.
+DrugId:  10
+1. Name:  Temafloxacin
+2. Groups:  Withdrawn
+3. Description:  Temafloxacin is a fluoroquinolone antibiotic drug which was withdrawn from sale in the U.S. shortly after its approval in 1992 because of serious adverse reactions resulting in three deaths. [Wikipedia]
+4. Indication:  For the treatment of lower respiratory tract infections, genital and urinary infections like prostatitis, and skin infections.
+DrugId:  11
+1. Name:  Lomefloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Lomefloxacin is a fluoroquinolone antibiotic, used to treat bacterial infections including bronchitis and urinary tract infections. It is also used to prevent urinary tract infections prior to surgery.
+4. Indication:  For the treatment of bacterial infections of the respiratory tract (chronic bronchitis) and urinary tract, and as a pre-operative prophylactic to prevent urinary tract infection caused by: S.pneumoniae, H.influenzae, S.aureus, P.aeruginosa, E. cloacae, P. mirabilis, C. civersus, S. asprphyticus, E.coli, and K.pneumoniae.
+DrugId:  12
+1. Name:  Ceftizoxime
+2. Groups:  Approved, Investigational
+3. Description:  A semisynthetic cephalosporin antibiotic which can be administered intravenously or by suppository. The drug is highly resistant to a broad spectrum of beta-lactamases and is active against a wide range of both aerobic and anaerobic gram-positive and gram-negative organisms. It has few side effects and is reported to be safe and effective in aged patients and in patients with hematologic disorders. [PubChem]
+4. Indication:  For the treatment of infections due to susceptible strains of microorganisms.
+DrugId:  13
+1. Name:  Cefmetazole
+2. Groups:  Approved, Investigational
+3. Description:  A semisynthetic cephamycin antibiotic with a broad spectrum of activity against both gram-positive and gram-negative microorganisms. It has a high rate of efficacy in many types of infection and to date no severe side effects have been noted. [PubChem]
+4. Indication:  For the treatment of infections caused by susceptible organisms.
+DrugId:  14
+1. Name:  Sulfacytine
+2. Groups:  Approved
+3. Description:  Sulfacytine is a short-acting sulfonamide. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of p-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections.Sulfacytine is a competitive inhibitor of the enzyme dihydropteroate synthetase. It inhibits bacterial synthesis of of dihydrofolic acid by preventing the condensation of the pteridine with para-aminobenzoic acid (PABA), a substrate of the enzyme dihydropteroate synthetase. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.
+4. Indication:  Used orally in the treatment of acute urinary tract infections.
+DrugId:  15
+1. Name:  Secnidazole
+2. Groups:  Approved
+3. Description:  Secnidazole is a second-generation 5-nitroimidazole antimicrobial that is structurally related to other 5-nitroimidazoles including Metronidazole and Tinidazole, but displays improved oral absorption and longer terminal elimination half-life than antimicrobial agents in this class [1]. Secnidazole is selective against many anaerobic Gram-positive and Gram-negative bacteria and protozoa. In September 2017, FDA granted approval to secnidazole under the market name Solosec as a single-dose oral treatment for bacterial vaginosis, which is a common vaginal infection in women aged 15 to 44 years. The antimicrobial therapy is only intended to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria [FDA Label].
+4. Indication:  Indicated for the treatment of bacterial vaginosis in adult women . 
+DrugId:  16
+1. Name:  Ceftazidime
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibacterial derived from cephaloridine and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+4. Indication:  For the treatment of patients with infections caused by susceptible strains of organisms in the following diseases: lower respiratory tract infections,skin and skin structure infections, urinary tract infections, bacterial septicemia, bone and joint infections, gynecologic infections, intra abdominal infections (including peritonitis), and central nervous system infections (including meningitis).
+DrugId:  17
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  18
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  19
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  20
+1. Name:  Cefpodoxime
+2. Groups:  Approved, Vet approved
+3. Description:  Cefpodoxime is an oral third generation cephalosporin antibiotic. It is active against most Gram positive and Gram negative bacteria. It is commonly used to treat acute otitis media, pharyngitis, and sinusitis. Cefpodoxime proxetil is a prodrug which is absorbed and de-esterified by the intestinal mucosa to Cefpodoxime.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms.
+DrugId:  21
+1. Name:  Cefotiam
+2. Groups:  Approved, Investigational
+3. Description:  One of the cephalosporins that has a broad spectrum of activity against both gram-positive and gram-negative microorganisms. [PubChem]
+4. Indication:  For treatment of severe infections caused by susceptible bacteria.
+DrugId:  22
+1. Name:  Pivmecillinam
+2. Groups:  Approved
+3. Description:  Pivmecillinam is a mecillinam prodrug, a pivaloyloxymethyl ester of amdinocillin that is well absorbed orally, but broken down to amdinocillin in the intestinal mucosa. It is active against gram-negative organisms and used as for amdinocillin. [PubChem]
+4. Indication:  Used to treat infections due to mecillinam-sensitive organisms such as urinary tract infections, salmonellosis and typhoid fever.
+DrugId:  23
+1. Name:  P113D
+2. Groups:  Investigational
+3. Description:  P113D is a novel 12 amino-acid antimicrobial peptide drug derived from histatins, which are compounds found naturally in human saliva. It is being pursued as a potential treatment for cystic fibrosis by Demegen, Inc.
+4. Indication:  For the potential treatment of cystic fibrosis and bacterial infections.
+DrugId:  24
+1. Name:  Meropenem
+2. Groups:  Approved, Investigational
+3. Description:  Meropenem is a broad-spectrum carbapenem antibiotic. It is active against Gram-positive and Gram-negative bacteria. Meropenem exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death.In August 2017, a combination antibacterial therapy under the market name vabomere was approved for treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of meropenem and Vaborbactam and is intravenously admininstered. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  For use as single agent therapy for the treatment of the following infections when caused by susceptible isolates of the designated microorganisms: complicated skin and skin structure infections due to Staphylococcus aureus (b-lactamase and non-b-lactamase producing, methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (excluding vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis and Peptostreptococcus species; complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species. Also for use in the treatment of bacterial meningitis caused by Streptococcus pneumoniae, Haemophilus influenzae (b-lactamase and non-b-lactamase-producing isolates), and Neisseria meningitidis.
+DrugId:  25
+1. Name:  faropenem medoxomil
+2. Groups:  Investigational
+3. Description:  Faropenem medoxomil is an ester prodrug derivative of the beta-lactam antibiotic faropenem. The prodrug form of faropenem offers dramatically improved oral bioavailability and leads to higher systemic concentrations of the drug. Faropenem medoxomil is a broad-spectrum antibiotic that is highly resistant to beta-lactamase degradation. It is being developed jointly by Replidyne, Inc. and Forest Laboratories, Inc.
+4. Indication:  Investigated for use/treatment in bacterial infection, bronchitis, otitis media, and pediatric indications.

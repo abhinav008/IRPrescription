@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  2
+1. Name:  Zimelidine
+2. Groups:  Withdrawn
+3. Description:  Zimelidine has been banned worldwide due to serious, sometimes fatal, cases of central and/or peripheral neuropathy known as Guillain-Barré syndrome and due to a peculiar hypersensitivity reaction involving many organs including skin exanthema, flu-like symptoms, arthralgias, and sometimes eosinophilia. Additionally, zimelidine was charged to cause an increase in suicidal ideation and/or attempts among depressive patients. After its ban, it was succeeded by fluvoxamine and fluoxetine (derived from the antihistamine diphenhydramine) in that order, and the other SSRIs.
+4. Indication:  For the treatment of depression.
+DrugId:  3
+1. Name:  Cytarabine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)
+4. Indication:  For the treatment of acute non-lymphocytic leukemia, acute lymphocytic leukemia and blast phase of chronic myelocytic leukemia.
+DrugId:  4
+1. Name:  Imipramine
+2. Groups:  Approved
+3. Description:  Imipramine, the prototypical tricyclic antidepressant (TCA), is a dibenzazepine-derivative TCA. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, imipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, imipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as imipramine and amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also block histamine H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively [5]. Imipramine has less sedative and anticholinergic effects than the tertiary amine TCAs, amitriptyline and clomipramine. Imipramine may be used to treat depression and nocturnal enuresis in children [FDA Label]. Unlabeled indications include chronic and neuropathic pain (including diabetic neuropathy), panic disorder, attention-deficit/hyperactivity disorder (ADHD), and post-traumatic stress disorder (PTSD) [12, 11, 1, 13, 14, 15, 2].
+4. Indication:  For the relief of symptoms of depression and as temporary adjunctive therapy in reducing enuresis in children aged 6 years and older [FDA Label]. May also be used off-label to manage panic disorders with or without agoraphobia, as a second line agent for ADHD in children and adolescents, to manage bulimia nervosa, for short-term management of acute depressive episodes in bipolar disorder and schizophrenia, for the treatment of acute stress disorder and posttraumatic stress disorder, and for symptomatic treatment of postherpetic neuralgia and painful diabetic neuropathy [12, 11, 1, 13, 14, 15, 2]. 
+DrugId:  5
+1. Name:  Telaprevir
+2. Groups:  Approved, Withdrawn
+3. Description:  Telaprevir is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [7]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as Telaprevir. Telaprevir is an inhibitor of NS3/4A, a serine protease enzyme, encoded by HCV genotype 1 [FDA Label]. These enzymes are essential for viral replication and serve to cleave the virally encoded polyprotein into mature proteins like NS4A, NS4B, NS5A and NS5B. The barrier for develoment of resistance to NS3/4A inhibitors is lower than that of NS5B inhibitors, another class of DAAs [6]. Subtitutions at amino acid positions 155, 156, or 168 are known to confer resistance. The substitutions of the enzyme's catalytic triad consisting of H58, D82, and S139 are also likely to alter the affinity of the drug for NS3/4A or the activity of the enzyme itself. Despite this disadvantage Telaprevir is still effective against HCV when paired with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b.Telaprevir, Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b were used with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily administration of the combination therapy followed by 12 or 36 weeks of therapy with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [5].Telaprevir was available as a fixed dose product (tradename Incivek) used for the treatment of chronic Hepatitis C. Approved in May 2011 by the FDA, Incivek was indicated for the treatment of HCV genotype 1 in combination with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b [FDA Label]. Incivek has since been withdrawn from the market.
+4. Indication:  Telaprevir, when used in combination with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b is indicated for use in the treatment of chronic HCV genotype 1 infection in adults [FDA Label].
+DrugId:  6
+1. Name:  Moexipril
+2. Groups:  Approved
+3. Description:  Moexipril is a non-sulfhydryl containing precursor of the active angiotensin-converting enzyme (ACE) inhibitor moexiprilat. It is used to treat high blood pressure (hypertension). It works by relaxing blood vessels, causing them to widen. Lowering high blood pressure helps prevent strokes, heart attacks and kidney problems.
+4. Indication:  For the treatment of hypertension.
+DrugId:  7
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  9
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  11
+1. Name:  TC-5231
+2. Groups:  Investigational
+3. Description:  TC-5231 is a small molecule that has been under investigation as an oral treatment for ADHD (Attention Deficit/Hyperactivity Disorder). TC-5231 is mecamylamine hydrochloride, the active ingredient in FDA-approved product, Inversine, but in a lower dose than Inversine. 
+4. Indication:  Investigated for use/treatment in attention deficit/hyperactivity disorder (ADHD), neurologic disorders, and tourette's syndrome.
+DrugId:  12
+1. Name:  Strontium ranelate
+2. Groups:  Approved, Withdrawn
+3. Description:  Strontium ranelate, a strontium (II) salt of ranelic acid, is a medication for osteoporosis. Studies indicate it can also slow the course of osteoarthritis of the knee. The drug is unusual in that it both increases deposition of new bone by osteoblasts and reduces the resorption of bone by osteoclasts. It is therefore promoted as a "dual action bone agent" (DABA) indicated for use in treatment of severe osteoporosis.Furthermore, various clinical studies demonstrate the ability of strontium ranelate to improve and strengthen intrinsic bone tissue quality and microarchitecture in osteoporosis by way of a number of cellular and microstructural changes by which anti-fracture efficacy is enhanced.Available for prescription use for a time in some parts of the world as Protelos (strontium ranelate) 2 g granules for oral suspension by Servier, it was ultimately discontinued in 2016-2017 owing to an increased adverse cardiac effects profile along with increased risk of venous thromboembolism (VTE) and various life threatening allergic reactions.
+4. Indication:  Strontium ranelate is therapeutically indicated for the treatement of severe osteoperosis in: a) postmenopasual women, and b) adult men, who are at high risk of fractures, for whom treatment with other medical products approved for the treatment of osteoperosis is not possible due to, for example, contraindications or intolerance. [6]In postmenopausal women, strontium ranelate can also reduce the risk of vertebral and hip fractures [6].
+DrugId:  13
+1. Name:  Glucagon-like peptide II
+2. Groups:  Investigational
+3. Description:  Glucagon-like peptide II is under investigation for the basic science of Short Bowel Syndrome.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  15
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Nitazoxanide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Nitazoxanide belongs to the class of drugs known as thiazolides. Nitazoxanide (NTZ) is a broad-spectrum anti-infective drug that markedly modulates the survival, growth, and proliferation of a range of extracellular and intracellular protozoa, helminths, anaerobic and microaerophilic bacteria, in addition to viruses. This drug is effective in the treatment of gastrointestinal infections including Cryptosporidium parvum or Giardia lamblia in healthy subjects. It is generally well tolerated. Nitazoxanide is a first-line, standard treatment for illness caused by C. parvum or G. lamblia infection in healthy (not immunosuppressed) adults and children and may also be considered in the treatment of illnesses caused by other protozoa or helminths [2]. Recently, this drug has been studied as a broad-spectrum antiviral agent due to its ability to inhibit the replication of several RNA and DNA viruses [3].
+4. Indication:  For the treatment of diarrhea in adults and children caused by the protozoa Giardia lamblia, and for the treatment of diarrhea in children caused by the protozoan, Cryptosporidium parvum [FDA Label].Nitazoxanide has not been shown to be superior to placebo medication for the management of diarrhea caused by Cryptosporidium parvum in patients with HIV/immunodeficiency [FDA Label]. 
+DrugId:  17
+1. Name:  LX1031
+2. Groups:  Investigational
+3. Description:  LX1031 is an orally-dosed drug candidate for irritable bowel syndrome and other gastrointestinal disorders. LX1031 was generated by Lexicon medicinal chemists, and its target was internally identified as a key control point for the regulation of peripheral serotonin levels. LX1031 is designed to act locally in the gastrointestinal tract by reducing the serotonin available for receptor activation, without affecting serotonin levels in the brain or its central nervous system functions.
+4. Indication:  Irritable bowel syndrome (IBS) and other gastrointestinal disorders
+DrugId:  18
+1. Name:  CAM-2029
+2. Groups:  Investigational
+3. Description:  CAM2029 is a new ready-to-use, long-acting octreotide formulation being developed for the long-term treatment of acromegaly, carcinoid syndrome and vasoactive intestinal peptide (VIP)-producing tumours. CAM2029 was found to provide long-acting release of octreotide resulting in a statistically significant suppression of a clinical biomarker insulin-like growth factor 1 (IGF-1) over the target one-month therapeutic period.
+4. Indication:  Investigated for use/treatment in acromegaly and cancer/tumors (unspecified).
+DrugId:  19
+1. Name:  Milatuzumab
+2. Groups:  Investigational
+3. Description:  Milatuzumab has been used in trials studying the treatment of Lupus Nephritis, Multiple Myeloma (MM), GVHD (Acute or Chronic), Myelodysplastic Syndrome, and Chronic Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Calfactant
+2. Groups:  Approved
+3. Description:  Calfactant is a sterile, non-pyrogenic lung surfactant intended for intratracheal instillation. It is an off-white suspension of an extract of natural surfactant from calf lungs suspended in 0.9% saline. Each milliliter of calfactant contains 35mg of phospholipids (including 26 mg phosphatidylcholine of which 16 mg is disaturated phosphatidylcholine) and 0.65mg of proteins including surfactant-associated proteins B and C.Calfactant is approved for use in the United States of America. It is used to prevent or treat respiratory distress syndrome in premature infants with lung surfactant deficiency. Calfactant has been shown to decrease the incidence of respiratory distress syndrome, mortality due to respiratory distress syndrome, and air leaks associated with respiratory distress syndrome in clinical trials. It adsorbs to the air:fluid interface in the lungs and works to reduce surface tension, in a manner similar to endogenous pulmonary surfactant.
+4. Indication:  Calfactant is indicated for prophylaxis therapy to prevent respiratory distress syndrome (RDS) in premature infants <29 weeks of gestational age with low lung surfactant and at high risk for RDS. Calfactant therapy is also indicated for the treatment of respiratory distress syndrome in infants 72 hours or less of age with RDS confirmed by clinical and radiologic findings and requiring endotracheal intubation.
+DrugId:  21
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  22
+1. Name:  Ghrelin
+2. Groups:  Investigational
+3. Description:  Ghrelin has been investigated for the treatment and basic science of Cancer, Alcoholism, Metabolism, Hypopituitarism, and Frailty Syndrome, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Thymosin beta-4
+2. Groups:  Investigational
+3. Description:  Thymosin Beta 4 has been investigated for the treatment of STEMI, Dry Eye, Diabetes, Pressure Ulcers, and Dry Eye Syndrome, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  AT7519
+2. Groups:  Investigational
+3. Description:  AT7519 is a selective inhibitor of certain Cyclin Dependent Kinases (CDKs) leading to tumour regression. It is developed by Astex for the treatment of solid tumours and haematological malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (unspecified), lymphoma (unspecified), myelodysplastic syndrome, and solid tumors.
+DrugId:  25
+1. Name:  Evening primrose oil
+2. Groups:  Approved, Investigational
+3. Description:  Evening primrose oil is extracted fromthe seeds of Oenothera biennis, a plant native to eastern and central North America. It contains about 7-10% of gamma-linolenic acid (GLA), which is involved in the synthesis of prostaglandin. Evening primrose oil is used in skin disorders such as eczema, psoriasis, and acne for temporary symptomatic relief. It is also used in temporary pain management for conditions such as rheumatoid arthritis, osteoporosis, Raynaud’s syndrome, and multiple sclerosis. It is also used in chronic fatigue, asthma, hyperactivity in children, gastrointestinal disorders including ulcerative colitis, irritable bowel syndrome, and peptic ulcer disease. Uses of evening primrose oil in women for premenstrual syndrome (PMS), breast pain, endometriosis, and symptoms of menopause such as hot flashes are reported.
+4. Indication:  Not Available

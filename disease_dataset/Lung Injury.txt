@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Solnatide
+2. Groups:  Investigational
+3. Description:  Solnatide has been used in trials studying the treatment of Acute Lung Injury.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Nitrogen
+2. Groups:  Approved, Vet approved
+3. Description:  Nitrogen is a chemical element with symbol N and atomic number 7. At room temperature, it is a transparent, odorless diatomic gas.Liquid nitrogen is used principally in cryotherapy for removal of diseased skin. Liquid nitrogen helps in removal of skin lesions through necrosis, which results from the freezing and thawing of cells. Cryotherapy usually done in doctors' office. Also, nitrogen is very famous component in fertilizers and energy-stores.
+4. Indication:  Liquid nitrogen is used mainly as a cryogenic agent for the treatment of various benign and malignant skin lesions. 
+DrugId:  3
+1. Name:  Pumactant
+2. Groups:  Investigational
+3. Description:  Pumactant is a synthetic surfactant used for treating respiratory distress syndrome in neonates. It is a unique formulation of the naturally occurring phospholipids Dipalmitoylphosphatidycholine (DPPC) and Phosphatidyl Glycerol (PG).
+4. Indication:  Investigated for use/treatment in asthma, lung injury, and surgical adhesions.
+DrugId:  4
+1. Name:  Sodium sulfide
+2. Groups:  Approved
+3. Description:  Sodium sulfide is a chemical compound with a chemical formula Na2S. Sodium sulfide is used in the pulp and paper industry, water treatment, textile industry, and various chemical manufacturing processes including the production of rubber chemicals, sulfur dyes and oil recovery. Along with its hydrate form, sodium sulfide releases hydrogen sulfide (H2S) when in contact with moist air. H2S is an endogenous gaseous transmitter that exhibits anti-inflammatory and antiapoptotic properties. Along with other sulfides, the anti-inflammatory and tissue-protective effects of sodium sulfide have been investigated in models of inflammation and oxidative stress. Interestingly, sodium sulfide was shown to have some cardioprotective role against cardiac ischemia or reperfusion injury, as well as protect lungs against ventilator-induced lung injury [1]. However the clinical significance and mechanism of action of sodium sulfide and replication of results across other studies are not yet fully determined.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Sivelestat
+2. Groups:  Investigational
+3. Description:  Sivelestat has been used in trials studying the treatment of Acute Lung Injury and Respiratory Distress Syndrome, Adult.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Torapsel
+2. Groups:  Investigational
+3. Description:  Torapsel has been used in trials studying the prevention of Ischemia Reperfusion Injury.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  SB-249553
+2. Groups:  Investigational
+3. Description:  SB-249553 is a vaccine that has MAGE-3 cancer antigen and the Adjuvant SBAS-2. It is also under by GlaxoSmithKline to treat melanoma and lung cancer.
+4. Indication:  lung cancer/melanoma 
+DrugId:  8
+1. Name:  Edaravone
+2. Groups:  Approved, Investigational
+3. Description:  Edaravone is a free radical scavenger approved in May, 2017 for the treatment of amyotrophic lateral scleorosis (ALS). Clinical studies showed that the treatment attenuated deterioration of the disease when compared to placebo. It has been previously investigated for the treatment of ischemic stroke, reperfusion Injury, and myocardial Infarction as it possesses antioxidant and anti-apoptotic properties. Being a low molecular weight molecule with good water and lipid-soluble properies, it therapeutically advantageous in crossing the blood-brain barrier to mediate nootropic and neuroprotective effects. Oral formulation of edaravone is currently under development.
+4. Indication:  Indicated for improving neurological symptoms and damage from acute ischemic stroke and delaying disease progression of ALS.
+DrugId:  9
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  10
+1. Name:  Mirostipen
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in breast cancer, lung cancer, and ovarian cancer.
+DrugId:  11
+1. Name:  Nintedanib
+2. Groups:  Approved
+3. Description:  Nintedanib is a drug indicated for the treatment of idiopathic pulmonary fibrosis (IPF) that targets multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs). Nintedanib inhibits the following RTKs: platelet-derived growth factor receptor (PDGFR) α and β, fibroblast growth factor receptor (FGFR) 1-3, vascular endothelial growth factor receptor (VEGFR) 1-3, and Fms-like tyrosine kinase-3 (FLT3). Among them, FGFR, PDGFR, and VEGFR have been implicated in IPF pathogenesis. Nintedanib binds competitively to the adenosine triphosphate (ATP) binding pocket of these receptors and blocks the intracellular signaling which is crucial for the proliferation, migration, and transformation of fibroblasts representing essential mechanisms of the IPF pathology. In addition, nintedanib inhibits the following nRTKs: Lck, Lyn and Src kinases. The contribution of FLT3 and nRTK inhibition to IPF efficacy is unknown.Idiopathic pulmonary fibrosis (IPF) is a progressive and ultimately fatal lung disease characterized by a progressive loss of lung function with worsening dyspnoea and cough. Development is thought to be instigated by repetitive lung injury (such as by cigarette smoke, industrial dusts, gastrooesophageal reflux and viral infection) leading to destruction of epithelial alveolar cells. Subsequent dysregulation of the repair process results in the proliferation/migration of fibroblasts and their differentiation into myofibroblasts, abnormal extracellular matrix deposition and excessive collagen accumulation in the lung interstitium and alveolar space, leading to progressive fibrosis and stiffening of the lungs. Vascular endothelial growth factor (VEGF), fibroblast growth factor (FGF) and platelet-derived growth factor (PDGF) mediate various processes, including fibrogenesis and angiogenesis, and are implicated in the pathogenesis of IPF. By blocking substrate binding and downstream signalling cascades, nintedanib interferes with processes active in fibrosis such as fibroblast proliferation, migration and differentiation, and the secretion of extracellular matrix.
+4. Indication:  Nintedanib is indicated for the treatment of idiopathic pulmonary fibrosis (IPF).
+DrugId:  12
+1. Name:  CTCE-9908
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lung cancer, and sarcoma.
+DrugId:  13
+1. Name:  Sprifermin
+2. Groups:  Investigational
+3. Description:  Sprifermin has been used in trials studying the treatment of Osteoarthritis, Knee and Cartilage Injury of Knee.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  AI-128
+2. Groups:  Investigational
+3. Description:  AI-128 is the first human demonstration of sustained release drug administration in the lung. AI-128 consists of slowly dissolving microspheres designed to control where drug particles go in the lung and how quickly they release their drug.
+4. Indication:  Investigated for use/treatment in asthma.
+DrugId:  15
+1. Name:  INS 316
+2. Groups:  Investigational
+3. Description:  INS316 belongs to the family of drugs called nucleoside triphosphates.It is studied in the diagnosis of lung diseases, including lung cancer. It is selective P2y2 receptor antagonists claimed to be useful as anti-inflammatory agents.
+4. Indication:  Investigated for use/treatment in lung cancer.
+DrugId:  16
+1. Name:  Perfluoro tert-butylcyclohexane
+2. Groups:  Investigational
+3. Description:  Oxycyte has been used in trials studying the treatment of Traumatic Brain Injury.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Lumretuzumab
+2. Groups:  Investigational
+3. Description:  Lumretuzumab has been used in trials studying the treatment of Neoplasms, Breast Cancer, Squamous Non-Small Cell Lung Cancer, and Non-Squamous Non-Small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Ethyl pyruvate
+2. Groups:  Investigational
+3. Description:  CTI-01 (ethyl pyruvate) is a novel anti-inflammatory agent for the treatment of critical inflammatory conditions. CTI-01 shows a potent anti-inflammatory and tissue protection activity in multiple animal models of disease including pancreatitis, ischemia-reperfusion injury, sepsis, renal injury and endotoxemia.
+4. Indication:  Investigated for use/treatment in burns and burn infections, cardiac surgery, inflammatory disorders (unspecified), ischemic reperfusion injury, and sepsis and septicemia.
+DrugId:  19
+1. Name:  Pexelizumab
+2. Groups:  Investigational
+3. Description:  Pexelizumab is a humanized monoclonal antibody used as an immunosuppressive drug. It is being investigated by Alexion Pharmaceuticals.
+4. Indication:  For the treatment of inflammation during cardiac surgery.
+DrugId:  20
+1. Name:  Nerve Growth Factor
+2. Groups:  Investigational
+3. Description:  Nerve Growth Factor has been used in trials studying the prevention and treatment of Mental Handicap, Alzheimer's Disease, Traumatic Brain Injury, Cerebral Palsy Children, and Delayed Speech Development, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Patritumab
+2. Groups:  Investigational
+3. Description:  Patritumab has been used in trials studying the treatment of LUNG CANCER, Solid Tumors, Neoplasms by Site, Head and Neck Neoplasms, and Non-small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Bleomycin A6
+2. Groups:  Investigational
+3. Description:  Bleomycin A6 has been used in trials studying the treatment of Squamous Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Mitometh
+2. Groups:  Investigational
+3. Description:  Mitometh is under investigation for the treatment of Adenocarcinoma, Oropharyngeal Neoplasms, Nasopharyngeal Carcinoma, Non-small Cell Lung Cancer, and Stage IV Non-small Cell Lung Cancer, among others. Mitometh has been investigated for the treatment of Lung Neoplasms, Untreated Childhood Medulloblastoma, and Untreated Childhood Supratentorial Primitive Neuroectodermal Tumor.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  IGN301
+2. Groups:  Investigational
+3. Description:  IGN301 is a cancer vaccine based on an anti-idiotypic antibody which provokes an immune response to Lewis Y. Lewis Y is a carbohydrate molecule expressed on the surface of tumor cells of epithelial origin (e.g. lung, intestinal, breast, prostate or ovarian cancers).
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).

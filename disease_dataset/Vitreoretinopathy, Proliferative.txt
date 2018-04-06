@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  VIT-100
+2. Groups:  Investigational
+3. Description:  VIT-100 was developed by ItherX Pharmaceuticals of San Diego. In preclinical studies, companyl has shown that VIT-100 inhibits the growth of cells taken from multiple keloid biopsies as compared to the same keloidal cells treated with a control. It is believed that similar effects would be seen in cells isolated from hypertrophic scars.
+4. Indication:  Investigated for use/treatment in diabetic retinopathy, scar tissue, and vitreous hemorrhage.
+DrugId:  2
+1. Name:  CGC-11047
+2. Groups:  Investigational
+3. Description:  CGC-11047 is a polyamine analog designed to halt cell growth and induce apoptosis.
+4. Indication:  Investigated for use/treatment in lymphoma (unspecified), macular degeneration, prostate cancer, and solid tumors.
+DrugId:  3
+1. Name:  Ellagic Acid
+2. Groups:  Investigational
+3. Description:  Ellagic acid is present in several fruits such as cranberries, strawberries, raspberries, and pomegranates. In pomegranates, there are several therapeutic compounds but ellagic acid is the most active and abundant. Ellagic acid is also present in vegetables. Ellagic acid is an investigational drug studied for treatment of Follicular Lymphoma (phase 2 trial), protection from brain injury of intrauterine growth restricted babies (phase 1 and 2 trial), improvement of cardiovascular function in adolescents who are obese (phase 2 trial), and topical treatment of solar lentigines. Ellagic acid's therapeutic action mostly involves antioxidant and anti-proliferative effects.
+4. Indication:  Ellagic acid is being investigated for use in follicular lymphoma, brain injury in intrauterine growth restricted babies, obese adolescents, and solar lentigines.
+DrugId:  4
+1. Name:  IC41
+2. Groups:  Investigational
+3. Description:  IC41 is a therapeutic peptide vaccine. It is being devloped by Intercell AG for the treatment of hepatitis C. The vaccine consists of five synthetic peptides (IPEP83, 84, 87, 89,1426) harboring HCV CD4 and CD8 T-cell epitopes and the synthetic adjuvant poly-L-arginine. 
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  5
+1. Name:  Tosedostat
+2. Groups:  Investigational
+3. Description:  Tosedostat has been used in trials studying the treatment and supportive care of AML, Leukemia, Pancreas Cancer, Multiple Myeloma, and Pancreatic Cancer, among others.Tosedostat is an inhibitor of the M1 family of aminopeptidases, in particular PuSA, and LTA4 hydrolase. It has demonstrated anti-tumour activity in a number of models of cancer, both as a single agent and in synergy with cytotoxic agents such as carboplatin and paclitaxel. It entered the clinical trial in patients with haematological malignancies.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Anthralin
+2. Groups:  Approved
+3. Description:  Anthralin (1,8‐dihydroxy‐9anthrone, dithranol) is an older anti-psoriatic agent that was first synthesized as a derivative of chrysarobin, obtained from the araroba tree in Brazil over 100 years ago. Adverse effects of anthralin include irritation and discoloration of the skin [2].This specific property of the molecule inspired workers to study details of its pharmacology. It is important to consider that the drug is relatively innocuous, yet effective, and systemic side effects have not been observed with this anthralin, in contrast to a wide variety of systemic and topical therapies for psoriasis [9]. Anthralin is also known as dithranol. It is a main active ingredient in topical skin formulations for the treatment of psoriasis. Various formulations of the drug are available, including solutions, foams, and shampoos [13]. The chemical structure of anthralin allows for dual solubility, permitting the compound to be absorbed well through the epidermis [1]. Anthralin has also been studied in the treatment of warts, showing promising results [3]. Salicylic acid is frequently added to anthralin to augment the stability of anthralin and to increase its penetration and efficacy [13].
+4. Indication:  Stable plaque psoriasis of the skin and scalp [8].It is also used topically in the management of psoriasis, dermatoses, and alopecia areata. Anthralin is also used in biomedical research due to its effect on EGFR autophosphorylation [10].
+DrugId:  7
+1. Name:  MF101
+2. Groups:  Investigational
+3. Description:  MF101 is a novel estrogen receptor beta (ERβ) selective agonist and unlike currently available hormone therapies, does not activate the estrogen receptor alpha (ERα), known to be implicated in tumor formation. MF101 is an oral drug designed for the treatment of hot flashes and night sweats in peri-menopausal and menopausal women.
+4. Indication:  Investigated for use/treatment in hormone replacement therapy: menopause and menopause.
+DrugId:  8
+1. Name:  ZEN-012
+2. Groups:  Investigational
+3. Description:  ZEN-012 is a novel small molecule and the first anti-cancer drug in development involving two mechanisms of action: tubulin and topoisomerase II inhibition. ZEN-012 also expresses additional modes of action such as pro-apoptotic and anti-angiogenic properties. It is developed for the treatment of solid tumors.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  9
+1. Name:  ABT-869
+2. Groups:  Investigational
+3. Description:  ABT-869 is a small molecule vascular endothelial growth factor (VEGF) receptor-based kinase inhibitor that is designed to suppress tumor growth by preventing the formation of new blood vessels that supply the tumor with oxygen and nutrients and by inhibiting key angiogenic signaling pathways. ABT-869 is intended for the treatment of hematologic malignancies and the solid tumors.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid), myelodysplastic syndrome, and solid tumors.
+DrugId:  10
+1. Name:  Mycophenolic acid
+2. Groups:  Approved
+3. Description:  Mycophenolic acid is an an immunosuppresant drug and potent anti-proliferative, and can be used in place of the older anti-proliferative azathioprine. It is usually used as part of triple therapy including a calcineurin inhibitor (ciclosporin or tacrolimus) and prednisolone. It is also useful in research for the selection of animal cells that express the E. coli gene coding for XGPRT (xanthine guanine phosphoribosyltransferase).
+4. Indication:  For the prophylaxis of organ rejection in patients receiving allogeneic renal transplants, administered in combination with cyclosporine and corticosteroids.
+DrugId:  11
+1. Name:  AGRO100
+2. Groups:  Investigational
+3. Description:  AGRO100 is an oligonucleotide that functions as an aptamer and binds to nucleolin, a protein found intranuclear in all cells, but uniquely expressed on the surface of tumor cells. Such binding leads to internalization of the complex, and a strong anti-proliferative response in the tumor cell.Pre-clinical testing demonstrates that the AGRO100 inhibition of nucleolin function produces anti-cancer effects against multiple types of the disease, including lung, prostate, breast, cervical, and colon cancer, as well as malignant melanoma and leukemia.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), kidney cancer, leukemia (myeloid), and pancreatic cancer.
+DrugId:  12
+1. Name:  TG-100801
+2. Groups:  Investigational
+3. Description:  TG100801 is a topically applied kinase inhibitor in macular degeneration patients. It is administered noninvasivelyas an eye drop and is designed to suppress VEGF mediated leakage and additional kinase targets associated with inflammation, edema, and angiogenesis which are the pathological hallmarks of AMD and other back of the eye diseases including diabetic macular edema and proliferative diabetic retinopathy.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  13
+1. Name:  Alpha-Linolenic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alpha-linolenic acid (ALA) is a polyunsaturated omega-3 fatty acid. It is a component of many common vegetable oils and is important to human nutrition.
+4. Indication:  For nutritional supplementation and for treating dietary shortage or imbalance.
+DrugId:  14
+1. Name:  Selexipag
+2. Groups:  Approved
+3. Description:  Selexipag was approved by the United States FDA on December 22, 2015 for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization. PAH is a relatively rare disease with usually a poor prognosis requiring more treatment options to prolong long-term outcomes. Marketed by Actelion Pharmaceuticals under brand name Uptravi, selexipag and its active metabolite, ACT-333679 (MRE-269), act as agonists of the prostacyclin receptor to increase vasodilation in the pulmonary circulation and decrease elevated pressure in the blood vessels supplying blood to the lungs. 
+4. Indication:  Selexipag is indicated for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization.
+DrugId:  15
+1. Name:  Sulodexide
+2. Groups:  Approved, Investigational
+3. Description:  Sulodexide is a mixture of glycosaminoglycans (GAGs) composed of dermatan sulfate (DS) and fast moving heparin (FMH).
+4. Indication:  Sulodexide has been used clinically for the prophylaxis and treatment of vascular diseases with increased risk of thrombosis, including intermittent claudication, peripheral arterial occlusive disease and post-myocardial infarc-tion. Also investigated in the treatment of diabetic kidney disease and diabetic neuropathy. New anti-inflammatory properties have also extended its use in venous disease.
+DrugId:  16
+1. Name:  Allylestrenol
+2. Groups:  Approved
+3. Description:  A synthetic steroid with progestational activity. It is widely marketed throughout Europe, including Russia and many other European countries, and is also available in Japan, Hong Kong, India, Bangladesh, Indonesia, and much of Southeast Asia, though notably not in the United States or Canada.
+4. Indication:  Allylestrenol was designed to be used for miscarriage prevention, prevention of premature labour and has been investigated for possible use in men for treatment for benign prostatic hyperplasia.
+DrugId:  17
+1. Name:  PPI-2458
+2. Groups:  Investigational
+3. Description:  PPI-2458 represents a potentially new and important addition to the growing list of therapeutics aimed at specific molecular oncology targets. PPI-2458 is a novel, proprietary molecule belonging to the fumagillin class of compounds that specifically targets the MetAP-2 enzyme. This class of compounds has been shown to prevent both abnormal cell growth and the formation of new blood vessels (known as angiogenesis), which contribute to the growth of aberrant tissues in diseases such as cancer and rheumatoid arthritis. Clinical development with previous fumagillin derivatives has been limited by their toxicity profile. In preclinical studies to date, PPI-2458 has demonstrated the potent pharmacologic activity of this class of compounds while displaying an improved pharmacokinetic and toxicity profile.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and solid tumors.
+DrugId:  18
+1. Name:  Mycophenolate mofetil
+2. Groups:  Approved, Investigational
+3. Description:  Mycophenolate mofetil is the 2-morpholinoethyl ester of mycophenolic acid (MPA), an immunosuppressive agent, inosine monophosphate dehydrogenase (IMPDH) inhibitor.
+4. Indication:  For the prophylaxis of organ rejection in patients receiving allogeneic renal, cardiac or hepatic transplants. Mycophenolate mofetil should be used concomitantly with cyclosporine and corticosteroids. 
+DrugId:  19
+1. Name:  Minoxidil
+2. Groups:  Approved, Investigational
+3. Description:  A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure. (From Martindale, The Extra Pharmacopoeia, 30th ed, p371)
+4. Indication:  For the treatment of severe hypertension and in the topical treatment (regrowth) of androgenic alopecia in males and females and stabilisation of hair loss in patients with androgenic alopecia.
+DrugId:  20
+1. Name:  Progesterone
+2. Groups:  Approved, Vet approved
+3. Description:  The major progestational steroid that is secreted primarily by the corpus luteum and the placenta. Progesterone acts on the uterus, the mammary glands, and the brain. It is required in embryo implantation, pregnancy maintenance, and the development of mammary tissue for milk production. Progesterone, converted from pregnenolone, also serves as an intermediate in the biosynthesis of gonadal steroid hormones and adrenal corticosteroids.
+4. Indication:  For progesterone supplementation or replacement as part of an Assisted Reproductive Technology (ART) treatment for infertile women with progesterone deficiency and for the treatment of secondary amenorrhea. Also used for the reduction of the incidence of endometrial hyperplasia and the attendant risk of endometrial carcinoma in postmenopausal women receiving estrogen replacement therapy, as well as treatment of abnormal uterine bleeding due to hormonal imbalance in the absence of organic pathology such as fibroids or uterine cancer.
+DrugId:  21
+1. Name:  Metreleptin
+2. Groups:  Approved
+3. Description:  Metreleptin, a recombinant analog of the human hormone leptin, is an orphan drug used to treat complications of leptin deficiency in people with congenital or acquired lipodystrophy. Affecting less than 500 people worldwide, lipodystrophy is characterized by a lack of adipose tissue, fat deposition in the muscles and liver, and metabolic complications such as hypertriglyceridemia, insulin resistance, diabetes mellitus, and fatty liver disease. These metabolic abnormalities are often aggravated by excessive food intake, which is further aggravated by leptin deficiency, a protein secreted by adipose tissue. Administration of Metreleptin results in improvement of metabolic symptoms including improvements in insulin resistance, reduced HbA1c and fasting glucose, reduced triglycerides, and reductions in food intake. Metreleptin is produced in E. coli and differs from native human leptin by the addition of a methionine residue at its amino terminus. It is administered as a once daily subcutaneous injection. On Feb. 24, 2014, Metreleptin was approved by the FDA for the treatment of complications of leptin deficiency, in addition to diet, in patients with congenital generalized or acquired generalized lipodystrophy. Metreleptin is marketed under the brand Myalept® by Aegerion Pharmaceuticals, Inc.
+4. Indication:  Metreleptin is indicated as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy.
+DrugId:  22
+1. Name:  Raloxifene
+2. Groups:  Approved, Investigational
+3. Description:  A second generation selective estrogen receptor modulator (SERM) used to prevent osteoporosis in postmenopausal women. It has estrogen agonist effects on bone and cholesterol metabolism but behaves as a complete estrogen antagonist on mammary gland and uterine tissue. [PubChem]
+4. Indication:  For the prevention and treatment of osteoporosis in post-menopausal women, as well as prevention and treatment of corticosteroid-induced bone loss. Also for the reduction in the incidence of invasive breast cancer in postmenopausal women with osteoporosis or have a high risk for developing breast cancer.
+DrugId:  23
+1. Name:  Lanreotide
+2. Groups:  Approved
+3. Description:  Lanreotide (INN) is a medication used in the management of acromegaly and symptoms caused by neuroendocrine tumors, most notably carcinoid syndrome. It is a long-acting analogue of somatostatin, like octreotide. Its sequence is H-D-2Nal-Cys(1)-Tyr-D-Trp-Lys-Val-Cys(1)-Thr-NH2. Lanreotide (as lanreotide acetate) is manufactured by Ipsen, and marketed under the trade name Somatuline. It is available in several countries, including the United Kingdom, Australia and Canada, and was approved for sale in the United States by the Food and Drug Administration (FDA) on August 30, 2007.
+4. Indication:  Lanreotide is a somatostatin analog approved for treatment of neuroendocrine tumours and acromegaly. (2)
+DrugId:  24
+1. Name:  Candesartan cilexetil
+2. Groups:  Approved
+3. Description:  Candesartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. It is administered orally as the prodrug, candesartan cilexetil, which is rapidly converted to its active metabolite, candesartan, during absorption in the gastrointestinal tract. Candesartan lowers blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); it competes with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Candesartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of heart failure, systolic dysfunction, myocardial infarction and coronary artery disease.
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Candesartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  25
+1. Name:  Remestemcel-L
+2. Groups:  Approved, Investigational
+3. Description:  Remestemcel-L is a third-party, off-the-shelf suspension of ex-vivo cultured adult human mesenchymal stem cells intended for intravenous infusion. The mesenchymal stem cells are derived from the bone marrow of unrelated and human leukocyte antigen (HLA)–unmatched healthy adult donors and have the ability to differentiate into different tissue cells. It was approved for use in Canada in May 2012 as Prochymal for the management of refractory acute Graft versus Host Disease (aGvHD) in children who are unresponsive to systemic steroid therapies, with the approval conditional upon further trials being conducted.aGvHD is a T-cell mediated disease that occurs after allogeneic hematopoietic stem cell transplant and is a reaction of donor immune cells against host tissues [A31822] developed by 30-80% of the recipients [1]. aGvHD is often characterized by the presence of inflammatory cascades through signalling of activated T cells. While systemic corticosteroids and other immunosuppressive agents are commonly used as first-line treatments to manage aGvHD, about 30-50% of patients with aGvHD experience inadequately control of disease with first-line therapies, putting them in a risk for poor outcomes and creating a significant clinical challenge [1]. It is estimated that the patients with the most severe forms of refractory aGvHD that do not respond to steroid therapy have expected one-year survival rates of only 5% to 30% [6]. Human mesenchymal stem cells (hMSCs) serve to down-regulate inflammatory responses and produce anti-inflammatory cytokines and growth factors to promote tissue repair [1]. In clinical studies, patients treated with remestemcel-L demonstrated an improvement in their aGvHD and improved survival rates at subsequent days following intravenous infusion [6]. Based on its tolerability and safety profile, remestemcel-L is a promising alternative to second-line immunosuppressive agents [1].
+4. Indication:  Indicated for in the management of acute Graft versus Host Disease (aGvHD) in pediatric patients. Acute GvHD should be refractory to treatment with systemic corticosteroid therapy and/or other immunosuppressive agents. Remestemcel-L may be used for Grades C and D of the disease in any organ. Remestemcel-L may also be used in the management of Grade B aGvHD involving any visceral organ, including the GI tract and the liver, but excluding skin [6].

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Penbutolol
+2. Groups:  Approved, Investigational
+3. Description:  Penbutolol is a drug in the beta-blocker class used to treat hypertension. Penbutolol binds both beta-1 and beta-2 adrenergic receptors, rendering it a non-selective beta-blocker. Penbutolol can act as a partial agonist at beta adrenergic receptors, since it is a sympathomimetric drug. Penbutolol also demonstrates high binding affinity to the 5-hydroxytryptamine receptor 1A with antagonistic effects. This binding characteristic of penbutolol is being investigated for its implications in Antidepressant Therapy. Penbutolol is contraindicated in patients with cardiogenic shock, sinus bradycardia, second and third degree atrioventricular conduction block, bronchial asthma, and those with known hypersensitivity.
+4. Indication:  Penbutolol is indicated in the treatment of mild to moderate arterial hypertension. It may be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics.Penbutolol is contraindicated in patients with cardiogenic shock, sinus bradycardia, second and third degree atrioventricular conduction block, bronchial asthma, and those with known hypersensitivity.
+DrugId:  2
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  3
+1. Name:  Mexiletine
+2. Groups:  Approved, Investigational
+3. Description:  Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties. [PubChem]
+4. Indication:  For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.
+DrugId:  4
+1. Name:  Glycopyrronium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Glycopyrronium (as the bromide salt glycopyrrolate) is a synthetic anticholinergic agent with a quaternary ammonium structure. A muscarinic competitive antagonist used as an antispasmodic, in some disorders of the gastrointestinal tract, and to reduce salivation with some anesthetics. In October 2015, glycopyrrolate was approved by the FDA for use as a standalone treatment for Chronic obstructive pulmonary disease (COPD), as Seebri Neohaler.
+4. Indication:  For use as a preoperative antimuscarinic to reduce salivary, tracheobronchial, and pharyngeal secretions, to reduce the volume and free acidity of gastric secretions and to block cardiac vagal inhibitory reflexes during induction of anesthesia and intubation. Also used to treat chronic obstructive pulmonary disease (COPD).
+DrugId:  5
+1. Name:  Acebutolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-adrenergic antagonist with little effect on the bronchial receptors. The drug has stabilizing and quinidine-like effects on cardiac rhythm as well as weak inherent sympathomimetic action.
+4. Indication:  For the management of hypertension and ventricular premature beats in adults.
+DrugId:  6
+1. Name:  Moxonidine
+2. Groups:  Approved, Investigational
+3. Description:  Moxonidine is a new-generation centrally acting antihypertensive drug approved for the treatment of mild to moderate essential hypertension. It may have a role when thiazides, beta-blockers, ACE inhibitors and calcium channel blockers are not appropriate or have failed to control blood pressure. In addition, it demonstrates favourable effects on parameters of the insulin resistance syndrome, apparently independent of blood pressure reduction.
+4. Indication:  For the treatment of mild to moderate essential or primary hypertension [7]. Effective as most first-line antihypertensives when used as monotherapy [2].
+DrugId:  7
+1. Name:  Bupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  A widely used local anesthetic agent. [PubChem]
+4. Indication:  For the production of local or regional anesthesia or analgesia for surgery, for oral surgery procedures, for diagnostic and therapeutic procedures, and for obstetrical procedures.
+DrugId:  8
+1. Name:  Barnidipine
+2. Groups:  Approved
+3. Description:  Barnidipine is a long-acting novel calcium antagonist that belongs to the dihydropyridine (DHP) group of calcium channel blockers. Used in the treatment of hypertension, barnidipine displays high affinity for the calcium channels of the smooth muscle cells in the vascular wall [6] and selectivity against cardiovascular L-type calcium channels [1]. Barnidipine contains two chiral centres thus can have four possible enantiomers. The active component is composed of a single optical isomer (3'S, 4S configuration), which is the most potent and longest-acting of the four enantiomers [3]. Compared to several other calcium antagonists which are racemates, the barnidipine compound consisting of a single enantiomer may offer a high degree of pharmacological selectivity [3].According to a dose-ranging, multicentre, placebo-controlled, double-blind study in patients with mild to moderate hypertension, the antihypertensive response from barnidipine treatment was maintained after a 1-year and 2-year follow-up period in 91% of the patients who had an initial response to the drug [1]. In two European multicentre randomized, double-blind trials, barnidipine was shown to possess equivalent antihypertensive efficacy to amlodipine and nitrendipine, but produced fewer class-specific side-effects [4]. It also demonstrated clinical efficacy which is similar to that of atenolol, enalapril and hydrochlorothiazide [1]. It is available in modified-release oral tablets under the brand name Vasexten to be taken once daily in the morning. Barnidipine has a gradual onset of action and is shown to be well tolerated in patients. It does not produce reflex tachycardia [1].
+4. Indication:  Indicated for the treatment of mild to moderate essential hypertension and management of chronic stable angina.
+DrugId:  9
+1. Name:  Berkelium
+2. Groups:  Investigational
+3. Description:  Berkelium is under investigation in clinical trial NCT02189122 (Comparative Effects of Aspirin and NHP-544C).
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Epinephrine
+2. Groups:  Approved, Vet approved
+3. Description:  The active sympathomimetic hormone from the adrenal medulla in most species. It stimulates both the alpha- and beta- adrenergic systems, causes systemic vasoconstriction and gastrointestinal relaxation, stimulates the heart, and dilates bronchi and cerebral vessels. It is used in asthma and cardiac failure and to delay absorption of local anesthetics. [PubChem]
+4. Indication:  Used to treat anaphylaxis and sepsis. Also one of the body's main adrenergic neurotransmitters.
+DrugId:  11
+1. Name:  CAD106
+2. Groups:  Investigational
+3. Description:  CAD106 is an immunotherapeutic product in development for the treatment of Alzheimer's disease. It is designed to induce antibodies against the beta-amyloid-protein that inhibit the formation of plaques in the brain of Alzheimer's disease patients. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease.
+DrugId:  12
+1. Name:  MLN-977
+2. Groups:  Investigational
+3. Description:  MLN-977 is a small molecule compound that inhibits the production of leukotrienes, especially 5-lipoxygenase. It is developed by PharmaEngine to treat asthma and chronic obstructive pulmonary disease. 
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  13
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  14
+1. Name:  INCB7839
+2. Groups:  Investigational
+3. Description:  INCB7839 is a novel, orally available ADAM metalloprotease inhibitor that is designed to block activation of the epidermal growth factor (EGFR) pathways. It represents a potentially important new class of targeted breast cancer therapy. It has shown promising clinical activity in heavily pretreated, refractory breast cancer patients.
+4. Indication:  Investigated for use/treatment in breast cancer.
+DrugId:  15
+1. Name:  Samarium
+2. Groups:  Investigational
+3. Description:  Samarium has been used in trials studying the treatment and prevention of Pain, Cancer, Metastasis, Prostate Cancer, and Metastatic Osteosarcoma, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Actinium
+2. Groups:  Investigational
+3. Description:  Actinium has been investigated for the treatment of Breast Cancer and Pulmonary Disease, Chronic Obstructive.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Atractylodes japonica root oil
+2. Groups:  Approved
+3. Description:  Atractylodes japonica root oil is obtained from the roots of Atractylodes japonica, which is a herb native to eastern Asia. It is present in some cosmetic products such as whitening creams as an active ingredient and lubricant for skin irritation. Atractylodes japonica is reported to have anti-inflammatory and antinociceptive effects [1].
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Poloxamer 407
+2. Groups:  Approved, Investigational
+3. Description:  Poloxamer 407 is a polyoxyethylene polymer and hydrophilic non-ionic surfactant. It is a triblock copolymer consisting of a central hydrophobic block of polypropylene glycol flanked by two hydrophilic blocks of polyethylene glycol. It is used as an emulsifying agent and solubilizing agent in cosmetic and personal products such as contact lens cleaning solutions.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  21
+1. Name:  Anisotropine Methylbromide
+2. Groups:  Approved
+3. Description:  Anisotropine methylbromide is a quaternary ammonium compound. Its use as treatment adjunct in peptic ulcer has been replaced by the use of more effective agents. Depending on the dose, anisotropine methylbromide may reduce the motility and secretory activity of the gastrointestinal system, and the tone of the ureter and urinary bladder and may have a slight relaxant action on the bile ducts and gallbladder. In general, smaller doses of anisotropine methylbromide inhibit salivary and bronchial secretions, sweating, and accommodation; cause dilatation of the pupil; and increase the heart rate. Larger doses are required to decrease motility of the gastrointestinal and urinary tracts and to inhibit gastric acid secretion.
+4. Indication:  For use in conjunction with antacids or histamine H2-receptor antagonists in the treatment of peptic ulcer, to reduce further gastric acid secretion and delay gastric emptying.
+DrugId:  22
+1. Name:  Doxacurium chloride
+2. Groups:  Approved
+3. Description:  Doxacurium chloride is a long-acting, nondepolarizing skeletal muscle relaxant for intravenous administration.
+4. Indication:  Used to provide skeletal muscle relaxation as an adjunct to general anesthesia, for endotracheal intubation or to facilitate mechanical ventilation.
+DrugId:  23
+1. Name:  Mivacurium
+2. Groups:  Approved
+3. Description:  Mivacurium is a bisbenzylisoquinolinium based neuromuscular blocker or muscle relaxant. It binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in a block of neuromuscular transmission.
+4. Indication:  For inpatients and outpatients, as an adjunct to general anesthesia, to facilitate tracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  24
+1. Name:  Mibefradil
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mibefradil was withdrawn from the market in 1998 because of potentially harmful interactions with other drugs.
+4. Indication:  For the treatment of angina and high blood pressure.
+DrugId:  25
+1. Name:  Nesiritide
+2. Groups:  Approved, Investigational
+3. Description:  Nesiritide is a medication used to treat acutely decompensated congestive heart failure with dyspnea at rest or with minimal exertion (such as talk, eating or bathing). Nesiritide is the recombinant form of the 32 amino acid human B-type natriuretic peptide, which is normally produced by the ventricular myocardium.
+4. Indication:  For the intravenous treatment of patients with acutely decompensated congestive heart failure who have dyspnea at rest or with minimal activity.

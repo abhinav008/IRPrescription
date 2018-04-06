@@ -1,0 +1,45 @@
+DrugId:  1
+1. Name:  Vonoprazan
+2. Groups:  Investigational
+3. Description:  Vonoprazan has been used in trials studying the treatment of Erosive Esophagitis.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Magaldrate
+2. Groups:  Approved, Withdrawn
+3. Description:  Magaldrate is an antacid drug used for the treatment of esophagitis, duodenal and gastric ulcers, and gastroesophageal reflux. Magaldrate has been discontinued in the US market.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Dexlansoprazole
+2. Groups:  Approved, Investigational
+3. Description:  Dexlansoprazole is an oral delayed-release drug for the treatment of erosive esophagitis and gastro-oesophageal reflux disease for adult patients as well as patients aged 12-17. Approved in 2009 by FDA, it is available as a delayed-release capsule and delayed-release orally disintegrating tablets (SoluTab). Dexlansoprazole is a proton pump inhibitor and R-enantiomer of lansoprazole. Its dual-delivery system is intended for extended plasma concentration and therapeutic effects, in comparison to other single-release proton pump inhibitors. Capsule formulation of dexlansoprazole also allows dosing at any time of the day without regard to meals [1].
+4. Indication:  Indicated for healing all grades of erosive esophagitis (EE), maintaining and healing of EE and relief of heartburn, and treating heartburn associated with symptomatic non-erosive gastroesophageal reflux disease (GERD). 
+DrugId:  4
+1. Name:  Pantoprazole
+2. Groups:  Approved
+3. Description:  Pantoprazole is a proton pump inhibitor drug used for short-term treatment of erosion and ulceration of the esophagus caused by gastroesophageal reflux disease.
+4. Indication:  Short-term (up to 16 weeks) treatment of erosive esophagitis.
+DrugId:  5
+1. Name:  Spiramycin
+2. Groups:  Approved
+3. Description:  Spiramycin is a macrolide antimicrobial agent with activity against gram-positive organisms, including Streptococcus pyogenes (group A beta-hemolytic streptococci), S. viridans, Corynebacterium diphtheriae, and methicillin-sensitive Staphylococcus aureus.Spiramycin is a 16-membered ring macrolide. It was discovered in 1952 as a product of Streptomyces ambofaciens. As a preparation for oral administration it has been used since 1955, in 1987 also the parenteral form was introduced into practice.The antibacterial spectrum comprises Gram-positive cocci and rods, Gram-negative cocci and also Legionellae, mycoplasmas, chlamydiae, some types of spirochetes, Toxoplasma gondii and Cryptosporidium species. Enterobacteria, pseudomonads and pathogenic moulds are resistant. Its action is mainly bacteriostatic, on highly sensitive strains it exerts a bactericide action.
+4. Indication:  Macrolide antibiotic for treatment of various infections.
+DrugId:  6
+1. Name:  Lansoprazole
+2. Groups:  Approved, Investigational
+3. Description:  Lansoprazole is a proton pump inhibitor which prevents the stomach from producing acid. It is manufactured by TAP Pharmaceutical Products. Lansoprazole has been marketed for many years and is one of several PPI's available.
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.
+DrugId:  7
+1. Name:  Alendronic acid
+2. Groups:  Approved
+3. Description:  Alendronic acid (alendronate) is a nitrogen-containing, second generation bisphosphonate. Bisphosphonates were first used to treat Paget’s disease in 1971. This class of medications is comprised of inorganic pyrophosphate analogues that contain non-hydrolyzable P-C-P bonds. Similar to other bisphosphonates, alendronate has a high affinity for bone mineral and is taken up during osteoclast resorption. Alendronate inhibits farnesyl pyrophosphate synthetase, one of the enzymes in the mevalonic acid pathway involved in producing isoprenoid compounds that are essential for post-translational modification of small guanosine triphosphate (GTP)-binding proteins, such as Rho, Ras and Rab. Inhibition of this process interferes with osteoclast function and survival. Alendronate is used for the treatment of osteoporosis and Paget’s disease. 
+4. Indication:  For the treatment and prevention of osteoporosis in women and Paget's disease of bone in both men and women.
+DrugId:  8
+1. Name:  Esomeprazole
+2. Groups:  Approved, Investigational
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and zollinger-ellison syndrome. The drug inhibits the H(+)-K(+)-ATPase (H(+)-K(+)-exchanging ATPase) in the proton pump of gastric parietal cells. [PubChem]
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.
+DrugId:  9
+1. Name:  Omeprazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and Zollinger-Ellison syndrome. Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+4. Indication:  Omeprazole is indicated for the treatment of duodenal ulcers, benign gastric ulcers, gastroesophageal reflux disease (GERD), heartburn and other symptoms associated with GERD, erosive esophagitis, and long-term treatment of pathological hypersecretory conditions like Zollinger-Ellison syndrome, multiple endocrine adenomas, and systemic mastocytosis. 

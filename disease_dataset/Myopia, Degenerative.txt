@@ -1,0 +1,85 @@
+DrugId:  1
+1. Name:  Creatinolfosfate
+2. Groups:  Investigational
+3. Description:  COP is under investigation for the treatment of Rheumatoid Arthritis, Mature B-Cell Lymphoma, and Noninflammatory Degenerative Joint Disease. COP has been investigated for the treatment of Diabetic Retinopathy.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Oxibendazole
+2. Groups:  Investigational, Vet approved
+3. Description:  Oxibendazole is a polymerase inhibitor in phase III trials for the treatment of helminth intestinal infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and pediatric indications.
+DrugId:  3
+1. Name:  Mebendazole
+2. Groups:  Approved, Vet approved
+3. Description:  A benzimidazole that acts by interfering with carbohydrate metabolism and inhibiting polymerization of microtubules. [PubChem]
+4. Indication:  For the treatment of Enterobius vermicularis (pinworm), Trichuris trichiura (whipworm), Ascaris lumbricoides (common roundworm), Ancylostoma duodenale (common hookworm), Necator americanus (American hookworm) in single or mixed infections.
+DrugId:  4
+1. Name:  Albendazole
+2. Groups:  Approved, Vet approved
+3. Description:  A benzimidazole broad-spectrum anthelmintic structurally related to mebendazole that is effective against many diseases. (From Martindale, The Extra Pharmacopoeia, 30th ed, p38)
+4. Indication:  For the treatment of parenchymal neurocysticercosis due to active lesions caused by larval forms of the pork tapeworm, Taenia solium and for the treatment of cystic hydatid disease of the liver, lung, and peritoneum, caused by the larval form of the dog tapeworm, Echinococcus granulosus.
+DrugId:  5
+1. Name:  Verteporfin
+2. Groups:  Approved, Investigational
+3. Description:  Verteporfin, otherwise known as benzoporphyrin derivative (trade name Visudyne®), is a medication used as a photosensitizer for photodynamic therapy to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.
+4. Indication:  For the treatment of patients with predominantly classic subfoveal choroidal neovascularization due to age-related macular degeneration, pathologic myopia or presumed ocular histoplasmosis syndrome. Verteporfin can also be used to destroy tumors.
+DrugId:  6
+1. Name:  Demecarium
+2. Groups:  Approved
+3. Description:  Demecarium is an indirect-acting parasympathomimetic agent that is used to treat glaucoma. It is a cholinesterase inhibitor or an anticholinesterase. Cholinesterase inhibitors prolong the effect of acetylcholine, which is released at the neuroeffector junction of parasympathetic postganglion nerves, by inactivating the cholinesterases that break it down. Demecarium inactivates both pseudocholinesterase and acetylcholinesterase. In the eye, this causes constriction of the iris sphincter muscle (causing miosis) and the ciliary muscle. The outflow of the aqueous humor is facilitated, which leads to a reduction in intraocular pressure.
+4. Indication:  For the topical treatment of chronic open-angle glaucoma.
+DrugId:  7
+1. Name:  Fluoride ion F-18
+2. Groups:  Approved
+3. Description:  Sodium Fluoride F 18 Injection is a positron emitting radiopharmaceutical, no-carrier added. It contains radioactive fluoride F 18 that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging and is administered by intravenous injection. Its primary indication is for bone imaging. Increased deposition around joints can occur in arthritis and following trauma and increased deposition in bone has been noted around fracture sites, in osteomyelitis, fibrous dysplasia, spondylitis tuberculosa, and Paget's disease. No adverse reactions have been reported.
+4. Indication:  18F is used as a bone imaging agent to define areas of altered osteogenic activity. It has been indicated for back pain and otherwise unexplained bone pain, child abuse, abnormal radiographic or laboratory findings, osteomyelitis, trauma, inflammatory and degenerative arthritis, avascular necrosis. Osteonecrosis of the mandible, condylar hyperplasia, and metabolic bone disease are also among the indications for fluoride imaging. 
+DrugId:  8
+1. Name:  Piperaquine
+2. Groups:  Approved, Investigational
+3. Description:  Piperaquine is an antimalarial agent first synthesized in the 1960's and used throughout China [1]. Its use declined in the 1980's as piperaquine resistant strains of Plasmodium falciparum appeared and artemisinin derivatives became available. It has come back into use in combination with the artemisinin derivative Artenimol as part of the combination product Eurartesim [FDA Label]. Eurartesim was first authorized for market by the European Medicines Agency in October 2011.
+4. Indication:  For the treatment of uncomplicated Plasmodium falciparum infection in adults, children, and infants aged 6 months and up weighing over 5 kg [FDA Label]. Used in combination with Artenimol.
+DrugId:  9
+1. Name:  N-Acetylglucosamine
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  The N-acetyl derivative of glucosamine.
+4. Indication:  For the treatment and prevention of osteoarthritis, by itself or in combination with chondroitin sulfate.
+DrugId:  10
+1. Name:  Naphazoline
+2. Groups:  Approved
+3. Description:  Naphazoline is a rapid acting sympathomimetic vasoconstrictor of occular artierioles. It acts to decrease congestion of the conjunctiva and is found in many over-the-counter eye drops.
+4. Indication:  Naphazoline is primarily indicated in conditions like Corneal vascularity, Hyperaemia, Itching, Nasal congestion, and can also be given in adjunctive therapy as an alternative drug of choice in Sinusitis
+DrugId:  11
+1. Name:  Edaravone
+2. Groups:  Approved, Investigational
+3. Description:  Edaravone is a free radical scavenger approved in May, 2017 for the treatment of amyotrophic lateral scleorosis (ALS). Clinical studies showed that the treatment attenuated deterioration of the disease when compared to placebo. It has been previously investigated for the treatment of ischemic stroke, reperfusion Injury, and myocardial Infarction as it possesses antioxidant and anti-apoptotic properties. Being a low molecular weight molecule with good water and lipid-soluble properies, it therapeutically advantageous in crossing the blood-brain barrier to mediate nootropic and neuroprotective effects. Oral formulation of edaravone is currently under development.
+4. Indication:  Indicated for improving neurological symptoms and damage from acute ischemic stroke and delaying disease progression of ALS.
+DrugId:  12
+1. Name:  Ondansetron
+2. Groups:  Approved
+3. Description:  A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, postoperation, and radiation. Also used for the treatment of postoperative nausea and vomiting.
+DrugId:  13
+1. Name:  Palonosetron
+2. Groups:  Approved, Investigational
+3. Description:  Palonosetron (INN, trade name Aloxi) is a 5-HT3 antagonist used in the prevention and treatment of chemotherapy-induced nausea and vomiting (CINV). It is the most effective of the 5-HT3 antagonists in controlling delayed CINV nausea and vomiting that appear more than 24 hours after the first dose of a course of chemotherapy and is the only drug of its class approved for this use by the U.S. Food and Drug Administration. As of 2008, it is the most recent 5-HT3 antagonist to enter clinical use.
+4. Indication:  For the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy, as well as prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy. Also used for the prevention of postoperative nausea and vomiting for up to 24 hours post operation.
+DrugId:  14
+1. Name:  Dolasetron
+2. Groups:  Approved, Investigational
+3. Description:  Dolasetron is an antinauseant and antiemetic agent indicated for the prevention of nausea and vomiting associated with moderately-emetogenic cancer chemotherapy and for the prevention of postoperative nausea and vomiting. Dolasetron is a highly specific and selective serotonin 5-HT3 receptor antagonist. This drug is not shown to have activity at other known serotonin receptors, and has low affinity for dopamine receptors.
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, including initial and repeat courses of chemotherapy. Also used for the prevention of postoperative nausea and vomiting. This drug can be used intravenously for the treatment of postoperative nausea and vomiting.
+DrugId:  15
+1. Name:  Dibotermin alfa
+2. Groups:  Approved, Investigational
+3. Description:  Dibotermin alfa is a recombinant human bone morphogenetic protein-2 (rhBMP-2) derived from a recombinant Chinese Hamster Ovary (CHO) cell line [FDA Label]. It is implanted in patients undergoing bone surgeries or those with fractures. BMPs are subfamily of the transforming growth factor-β (TGF-β) superfamily that have different actions on the bone matrix [2]. BMP-2 is a potent osteoinductive protein that plays a critical role in the differentiation of osteoprogenitor cells into osteoblasts, thus promoting bone and cartilage formation [3]. Through enhancing osteogenesis at the site of implantation, dibotermin alfa accelerates the healing of open tibial shaft fractures and reduces the need for secondary intervention [1]. In a prospective clinical study of patients with an open tibial fracture, administration of dibotermin alfa resulted in faster fracture- or wound-healing, significantly fewer secondary invasive interventions, and reduced infection rate post-operation [1]. Dibotermin alfa was approved by the EMA in 2002 as Inductos for implantation matrix. In 2004, it was approved by the FDA and is marketed as Infuse. In Infuse, rhBMP is a disulfide-linked dimeric protein molecule with two major subunit species of 114 and 131 amino acids. Each subunit is glycosylated with high-mannose-type glycans [FDA Label].
+4. Indication:  indicated for the treatment of acute tibia fractures in adults, as an adjunct to standard care using open fracture reduction and intramedullary unreamed nail fixation [FDA Label].indicated for single-level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non-operative treatment for this condition [5].
+DrugId:  16
+1. Name:  Acemetacin
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Acemetacin is a carboxymethyl ester of indometacin. It is a potent non-steroidal anti-inflammatory drug, derived from the indol-3-acetic acid, whose activity is thought to be mainly through its active metabolite indomethacin.[1] In clinical trials, acemetacin exhibits a better gastric tolerability compared to its active metabolite indometacin.[6] It was developed by E. Merck and Company in Germany as an attempt to provide a safer drug but other than the amelioration on the gastrointestinal effects, the metabolism of acetamicin led to the formation of indomethacin and it kept the same side effects.[7]
+4. Indication:  Acemetacin is not FDA, Canada or EMA approved, but in the countries where it is marketed it is indicated for the symptomatic treatment of pain and swelling in acute inflammation of the joints in rheumathoid arthritis, osteoarthritis, low back pain and post-surgical pain.[11] It is also indicated for the treatment of chronic inflammation of the joints in presence of rheumatoid arthritis, treatment of ankylosing spondylitis, treatment of irritation in the joints and spinal column caused by degenerative disorders, treatment of inflammatory soft-tissue rheumatism syndrome and painful swelling and inflammation caused by injury.[10, 12]
+DrugId:  17
+1. Name:  Granisetron
+2. Groups:  Approved, Investigational
+3. Description:  A serotonin receptor (5HT-3 selective) antagonist that has been used as an antiemetic and antinauseant for cancer chemotherapy patients. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with initial and repeat courses of emetogenic cancer therapy (including high dose cisplatin), postoperation, and radiation (including total body irradiation and daily fractionated abdominal radiation).

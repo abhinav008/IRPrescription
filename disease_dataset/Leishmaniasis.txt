@@ -1,0 +1,70 @@
+DrugId:  1
+1. Name:  Pentavalent Antimony
+2. Groups:  Investigational
+3. Description:  Pentavalent Antimony has been investigated for the treatment of Cutaneous Leishmaniasis.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Antimony
+2. Groups:  Investigational
+3. Description:  Antimony has been used in trials studying the treatment of Cutaneous Leishmaniasis.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Meglumine antimoniate
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Sodium stibogluconate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium stibogluconate is a medicine used to treat leishmaniasis and is only available for administration by injection. It belongs to the class of medicines known as the pentavalent antimonials. Sodium stibogluconate is sold in the UK as Pentostam (manufactured by GlaxoSmithKline). Widespread resistance has limited the utility of sodium stibogluconate, and in many parts of the world, amphotericin or miltefosine are used instead. It is also being investigated as an anti-tumor agent.
+4. Indication:  For the treatment of various types of a protozoal infection called leishmaniasis, which may result from sandfly bites in tropical and temperate parts of the world. Also investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  5
+1. Name:  Melarsoprol
+2. Groups:  Investigational
+3. Description:  Melarsoprol is under investigation in clinical trial NCT00330148 (Randomized Clinical Trial of Three Drug Combinations for Late-Stage Gambiense Human African Trypanosomiasis).
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Pentamidine
+2. Groups:  Approved, Investigational
+3. Description:  Antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of pneumocystis pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects. [PubChem]
+4. Indication:  For the treatment of pneumonia due to Pneumocystis carinii.
+DrugId:  7
+1. Name:  Sitamaquine
+2. Groups:  Investigational
+3. Description:  Sitamaquine (WR-6026) is an orally active 8-aminoquinoline analog in development by the Walter Reed Army Institute, in collaboration with GlaxoSmithKline (formerly SmithKline Beecham), for the potential treatment of visceral leishmaniasis.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  8
+1. Name:  Nifurtimox
+2. Groups:  Investigational
+3. Description:  Nifurtimox has been investigated for the treatment of Sleeping Sickness and Human African Trypanosomiasis.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Miltefosine
+2. Groups:  Approved, Investigational
+3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  10
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  11
+1. Name:  Benznidazole
+2. Groups:  Approved, Investigational
+3. Description:  Benznidazole was granted accelerated approval for the treatment of Chagas disease in children 2-12 years of age by the FDA on August 29, 2017 [9]. It is the first treatment made available in the United States for Chagas disease.
+4. Indication:  For use in the treatment of Chagas disease in children 2-12 years of age [9].
+DrugId:  12
+1. Name:  Eflornithine
+2. Groups:  Approved, Withdrawn
+3. Description:  Eflornithine is a prescription drug indicated in the treatment of facial hirsutism (excessive hair growth). Eflornithine hydrochloride cream for topical application is intended for use in women suffering from facial hirsutism and is sold by Allergan, Inc. under the brand name Vaniqa. Besides being a non-mechanical and non-cosmetic treatment, eflornithine is the only non-hormonal and non-systemic prescription option available for women who suffer from facial hirsutism. Eflornithine for injection against sleeping sickness was manufactured by Sanofi Aventis and sold under the brand name Ornidyl in the USA. It is now discontinued. Eflornithine is on the World Health Organization's List of Essential Medicines.
+4. Indication:  Eflornithine is indicated in the treatment of facial hirsutism (excessive hair growth).
+DrugId:  13
+1. Name:  Suramin
+2. Groups:  Approved, Investigational
+3. Description:  A polyanionic compound with an unknown mechanism of action. It is used parenterally in the treatment of African trypanosomiasis and it has been used clinically with diethylcarbamazine to kill the adult Onchocerca. (From AMA Drug Evaluations Annual, 1992, p1643) It has also been shown to have potent antineoplastic properties. Suramin is manufactured by Bayer in Germany as Germanin®.
+4. Indication:  For treatment of human sleeping sickness, onchocerciasis and other diseases caused by trypanosomes and worms.
+DrugId:  14
+1. Name:  Quinacrine
+2. Groups:  Approved, Investigational
+3. Description:  An acridine derivative formerly widely used as an antimalarial but superseded by chloroquine in recent years. It has also been used as an anthelmintic and in the treatment of giardiasis and malignant effusions. It is used in cell biological experiments as an inhibitor of phospholipase A2.
+4. Indication:  For the treatment of giardiasis and cutaneous leishmaniasis and the management of malignant effusions.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Insulin Beef
+2. Groups:  Approved
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Insulin Pork
+2. Groups:  Approved
+3. Description:  Insulin isolated from pig pancreas. Composed of alpha and beta chains, processed from pro-insulin. Forms a hexameric structure.
+4. Indication:  For the treatment of type I and II diabetes mellitus.
+DrugId:  3
+1. Name:  XL228
+2. Groups:  Investigational
+3. Description:  XL228 is a novel anticancer compound designed to inhibit the insulin-like growth factor type-1 receptor (IGF1R), Src and Abl tyrosine kinases – targets that play crucial roles in cancer cell proliferation, survival and metastasis.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and leukemia (myeloid).
+DrugId:  4
+1. Name:  INCB13739
+2. Groups:  Investigational
+3. Description:  INCB13739 is developed as a new treatment for type 2 diabetes.It is an orally available small molecule inhibitor of 11beta-HSD1 (11-beta hydroxysteroid dehydrogenase type 1). 11beta-HSD1 is an enzyme that appears to be critical to the development of type 2 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and diabetes prevention.
+DrugId:  5
+1. Name:  Dichloroisoproterenol
+2. Groups:  Investigational
+3. Description:  Dichloroisoproterenol has been used in trials studying the treatment and basic science of Insulin Resistance and Polycystic Ovary Syndrome.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Tesaglitazar
+2. Groups:  Investigational
+3. Description:  Tesaglitazar is a dual peroxisome proliferator-activated receptor alpha/gamma agonist which improves apolipoprotein levels in non-diabetic subjects with insulin resistance. Tesaglitazar is a proposed treatment for type 2 diabetes and has completed several phase III clinical trials, however in May 2006 AstraZeneca announced that they had discontinued further development.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  7
+1. Name:  Troglitazone
+2. Groups:  Investigational, Withdrawn
+3. Description:  Troglitazone was withdrawn in 2000 due to risk of hepatotoxicity. It was superseded by pioglitazone and rosiglitazone.
+4. Indication:  For the treatment of Type II diabetes mellitus. It is used alone or in combination with a sulfonylurea, metformin, or insulin as an adjunct to diet and exercise.
+DrugId:  8
+1. Name:  Pioglitazone
+2. Groups:  Approved, Investigational
+3. Description:  Pioglitazone is a medication belonging to the thiazolidinedione class of drugs that are used as adjuncts to diet, exercise, and other diabetes medications to manage type 2 diabetes mellitus. The thiazolidinedione class of medications exerts its pharmacological effect primarily by promoting insulin sensitivity and the improved uptake of blood glucose. Following entry into fat cell nuclei, pioglitazone selectively binds to the Peroxisome Proliferator-Activated Receptor Gamma (PPARγ)[4]. PPARs are ligand-activated transcription factors that are involved in the expression of more than 100 genes, and affect numerous metabolic processes, notably lipid and glucose homeostasis [5]. PPARγ in particular is abundantly expressed in lipid cells (adipocytes), where it plays a central role in lipid production and regulation of lipid metabolism.
+4. Indication:  Pioglitazone is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus [FDA Label].
+DrugId:  9
+1. Name:  Semaglutide
+2. Groups:  Approved, Investigational
+3. Description:  Semaglutide is a once-daily glucagon-like peptide-1 analog that differs to others by the presence of an acyl group with a steric diacid at Lys26 and a large synthetic spacer and modified by the presence of a α-aminobutyric acid in position 8 which gives stability against the dipeptidylpeptidase-4.[1] The stability of semaglutide by the acylation permits a high-affinity albumin binding and gives it a long plasma half-life which allows the once-daily dosage. It was developed by the Danish pharmaceutical company Novo Nordisk and FDA approved on December 5, 2017.[6]
+4. Indication:  Semaglutide is indicated to improve glycemic control in adults with type 2 diabetes mellitus as an adjunct of diet and exercise. The approved therapeutic doses are 0.5 mg and 1 mg.[7] Diabetes mellitus type 2 is a long-term metabolic disorder characterized by high blood sugar, insulin resistance and lack of insulin. Its onset is determined by the loss ability of beta cells to respond to an increased plasma glucose. This disease is predominantly caused by lifestyle factors like overweight and obesity. The key feature on type 2 diabetes is the presence of insulin resistance which reduced the capacity of insulin to exert its functions at normal at any given concentration. The secretion of insulin is stimulated by the action of incretins in the gut like glucagon-like peptide 1, which also delays gastric emptying and induces satiety, and glucose-dependent insulinotropic polypeptide.[5]
+DrugId:  10
+1. Name:  Insulin Lispro
+2. Groups:  Approved
+3. Description:  Insulin lispro is a recombinant human insulin analogue produced in a specialized laboratory strain of Escherischia coli. Plasmid DNA transfected into the bacteria encodes for an analogue of human insulin that has a lysine at residuce B28 and proline at B29; these residues are reversed in endogenous human insulin. Reversal of these amino acid residues produces a rapid-acting insulin analogue. FDA approved on 1996.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. To be used in conjunction with an intermediate or long-acting insulin except when used in a continuous insulin infusion pump. 
+DrugId:  11
+1. Name:  Insulin Human
+2. Groups:  Approved, Investigational
+3. Description:  Insulin human is a 51 residue peptide hormone, composed of two amino acid chains covalently linked by disulfide bonds. The structure is identical to native human insulin. Recombinant insulin is synthesized by recombinant DNA techncology. Inserting the human insulin gene into the Escherichia coli bacteria or Saccharomyces cerevisiae produces insulin for human use.Inhalable insulin is a powdered form of insulin regular, delivered with a nebulizer into the lungs where it is absorbed. Exubera, developed by Inhale Therapeutics (later named Nektar Therapeutics), became the first inhaled insulin product to be marketed in 2006 by Pfizer, but poor sales led Pfizer to withdraw it in 2007. Afrezza, a monomeric inhaled insulin developed by Mannkind, was approved by the FDA in 2014.
+4. Indication:  Indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 1 and type 2 diabetes mellitus. 
+DrugId:  12
+1. Name:  Quercetin-3'-O-phosphate
+2. Groups:  Investigational
+3. Description:  Quercetin-3'-O-phosphate has been used in trials studying the treatment of Insulin Resistance and Impaired Glucose Tolerance.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Prasterone sulfate
+2. Groups:  Investigational
+3. Description:  DHEA sulfate is the major steroid of the fetal adrenal. DHEA-S is the principal adrenal androgen and is secreted together with cortisol under the control of ACTH and prolactin. DHEA-S is elevated with hyperprolactinemia.
+4. Indication:  Investigated for use/treatment in asthma and burns and burn infections.
+DrugId:  14
+1. Name:  Insulin Aspart
+2. Groups:  Approved
+3. Description:  Insulin aspart is a recombinant, biosynthetic, fast-acting insulin analogue. It has a single amino acid substitution at position B28 where proline is replaced with aspartic acid. This substitution decreases its propensity to form hexamers and gives it a higher rate of absorption following subcutaneous administration compared to native insulin. Insulin aspart is produced in a genetically modified strain of Saccharomyces cerevisiae and harvested from a bioreactor.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. Should normally be used in conjunction with an intermediate or long-acting insulin. 
+DrugId:  15
+1. Name:  Insulin Glargine
+2. Groups:  Approved
+3. Description:  Insulin glargine is produced by recombinant DNA technology using a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism. It is an analogue of human insulin made by replacing the asparagine residue at position A21 of the A-chain with glycine and adding two arginines to the C-terminus (positions B31 and 32) of the B-chain. The resulting protein is soluble at pH 4 and forms microprecipitates at physiological pH 7.4. Small amounts of insulin glargine are slowly released from microprecipitates giving the drug a long duration of action (up to 24 hours) and no pronounced peak concentration. 
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus in patients over 17 years old who require a long-acting (basal) insulin for the control of hyperglycemia. May be used in pediatric patients with Type 1 diabetes mellitus who require a long-acting (basal) insulin for glycemic control. 
+DrugId:  16
+1. Name:  Tauroursodeoxycholic acid
+2. Groups:  Approved, Investigational
+3. Description:  Tauroursodeoxycholic acid is the more hydrophilic form of ursodeoxycholic acid, which is the more abundant naturally produced bile acid in humans. Tauroursodeoxycholic acid, on the other hand, is produced abundantly in bears and has been used for centuries as a natural remedy in some Asian countries. It is approved in Italy and Turkey for the treatment of cholesterol gallstones and is an investigational drug in China, Unites States, and Italy. Tauroursodeoxycholic acid is being investigated for use in several conditions such as Primary Biliary Cirrhosis (PBC), insulin resistance, amyloidosis, Cystic Fibrosis, Cholestasis, and Amyotrophic Lateral Sclerosis. The only completed clinical trial thus far is a phase III clinical trial comparing tauroursodeoxycholic acid and ursofalk in PBC adult patients, but as of June 2013 no results of this trial have been published. 
+4. Indication:  Used in the treatment of cholesterol gallstones. Tauroursodeoxycholic acid is also being investigated for use in several conditions such as Primary Biliary Cirrhosis (PBC), insulin resistance, amyloidosis, Cystic Fibrosis, Cholestasis, and Amyotrophic Lateral Sclerosis.
+DrugId:  17
+1. Name:  Ertugliflozin
+2. Groups:  Approved, Investigational
+3. Description:  Ertugliflozin belongs to the class of potent and selective inhibitors of the sodium-dependent glucose cotransporters (SGLT), more specifically the type 2 which is responsible for about 90% of the glucose reabsorption from glomerulus.[1] This drug was developed under the collaboration of Merck and Pfizer. It was FDA approved as monotherapy and in combination with sitagliptin or metformin hydrochloride on December 22, 2017.[6]
+4. Indication:  Ertugliflozin as a monotherapy is indicated to improve the glycemic control in adult patients with type 2 diabetes.[FDA Label] Ertugliflozin, in combination with metformin hydrochloride, is indicated to improve glycemic control in patients with diabetes type 2 who are not controlled on a regimen of ertugliflozin or metformin or in patients who are already treated with both ertugliflozin and metformin.[7] The administration of ertugliflozin in combination with sitagliptin is indicated to improve glycemic control in adult patients with type 2 diabetes when treatment with ertugliflozin and sitagliptin is appropriate.[8] It is pointed out that the use of ertugliflozin has to be an adjunct therapy to the use of diet and exercise.The type 2 diabetes mellitus is characterized by insulin resistance in muscle and liver, which results in the elevation of glucose levels in blood, or by presence of insulin deficiency. The insulin resistance is related to genetic factors, obesity, sedentary lifestyle or/and aging. This increase in the blood glucose can cause severe damage to kidney, eyes and vascular system.[2]
+DrugId:  18
+1. Name:  Metreleptin
+2. Groups:  Approved
+3. Description:  Metreleptin, a recombinant analog of the human hormone leptin, is an orphan drug used to treat complications of leptin deficiency in people with congenital or acquired lipodystrophy. Affecting less than 500 people worldwide, lipodystrophy is characterized by a lack of adipose tissue, fat deposition in the muscles and liver, and metabolic complications such as hypertriglyceridemia, insulin resistance, diabetes mellitus, and fatty liver disease. These metabolic abnormalities are often aggravated by excessive food intake, which is further aggravated by leptin deficiency, a protein secreted by adipose tissue. Administration of Metreleptin results in improvement of metabolic symptoms including improvements in insulin resistance, reduced HbA1c and fasting glucose, reduced triglycerides, and reductions in food intake. Metreleptin is produced in E. coli and differs from native human leptin by the addition of a methionine residue at its amino terminus. It is administered as a once daily subcutaneous injection. On Feb. 24, 2014, Metreleptin was approved by the FDA for the treatment of complications of leptin deficiency, in addition to diet, in patients with congenital generalized or acquired generalized lipodystrophy. Metreleptin is marketed under the brand Myalept® by Aegerion Pharmaceuticals, Inc.
+4. Indication:  Metreleptin is indicated as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy.
+DrugId:  19
+1. Name:  AT1391
+2. Groups:  Investigational
+3. Description:  AT1391 is a daily insulin skin patch designed to provide continuous basal levels of insulin for patients with diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1 and 2.
+DrugId:  20
+1. Name:  Insulin tregopil
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Insulin Degludec
+2. Groups:  Approved
+3. Description:  Insulin Degludec is an ultra-long-acting insulin analogue used for glycemic control in Diabetes Mellitus. Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake and by preventing hepatic glucose production. Compared to endogenous insulin, this product has an added hexadecanedioic acid to lysine at the B29 position which allows for the formation of multi-hexamers. When injected subcutaneously, these multi-hexamers form a drug depot store from which monomers are slowly and continuously absorbed into the circulation. As a result, Insulin Degludec has a protracted time action profile due to the delayed absorption from subcutaneous tissue depots into the systemic circulation. Compared to available long-acting analogues such as insulin glargine and insulin detemir, which have a duration of action of 20-24 hours, insulin degludec provides a consistent level of basal insulin over 42 hours with a low peak:trough ratio. Limitations of shorter acting analogues include more frequent dosing and less stable pharmacokinetics, which may negatively impact patient adherence and glucose control, particularly nocturnal control.Insulin Degludec was approved by the FDA in September 2015 as the product Tresiba, for use in providing glycemic control to adults with diabetes mellitus.
+4. Indication:  Insulin degludec is indicated to improve glycemic control in adults with diabetes mellitus.
+DrugId:  22
+1. Name:  Rosiglitazone
+2. Groups:  Approved, Investigational
+3. Description:  Rosiglitazone is an anti-diabetic drug in the thiazolidinedione class of drugs. It is marketed by the pharmaceutical company GlaxoSmithKline as a stand-alone drug (Avandia) and in combination with metformin (Avandamet) or with glimepiride (Avandaryl). Like other thiazolidinediones, the mechanism of action of rosiglitazone is by activation of the intracellular receptor class of the peroxisome proliferator-activated receptors (PPARs), specifically PPARγ. Rosiglitazone is a selective ligand of PPARγ, and has no PPARα-binding action. Apart from its effect on insulin resistance, it appears to have an anti-inflammatory effect: nuclear factor kappa-B (NFκB) levels fall and inhibitor (IκB) levels increase in patients on rosiglitazone. Recent research has suggested that rosiglitazone may also be of benefit to a subset of patients with Alzheimer's disease not expressing the ApoE4 allele. This is the subject of a clinical trial currently underway.
+4. Indication:  Rosiglitazone is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. 
+DrugId:  23
+1. Name:  Insulin Detemir
+2. Groups:  Approved
+3. Description:  Insulin detemir is a long-acting human insulin analogue used to maintain basal levels of insulin in diabetic individuals. It is produced using recombinant DNA technology in yeast cells. This insulin analogue has a 14-C fatty acid, myristic acid, bound to the lysine amino acid at position B29. The myristoyl side chain increases self-association and albumin binding. This along with slow systemic absorption from the injection site prolongs distribution of the hormone into tissues and results in a long duration of action. Novo Nordisk markets insulin detemir under the trade name Levemir.
+4. Indication:  For the treatment of type 1 or 2 diabetes mellitus. May be used in combination with oral anti-diabetic agents in type 2 diabetic patients who are not in adequate metabolic control with oral anti-diabetic agents alone. 
+DrugId:  24
+1. Name:  Glycodiazine
+2. Groups:  Approved, Investigational
+3. Description:  Glycodiazine is used with diet to lower blood glucose by increasing the secretion of insulin from pancreas and increasing the sensitivity of peripheral tissues to insulin. The mechanism of action of glycodiazine in lowering blood glucose appears to be dependent on stimulating the release of insulin from functioning pancreatic beta cells, and increasing sensitivity of peripheral tissues to insulin. Glycodiazine likely binds to ATP-sensitive potassium channel receptors on the pancreatic cell surface, reducing potassium conductance and causing depolarization of the membrane. Membrane depolarization stimulates calcium ion influx through voltage-sensitive calcium channels. This increase in intracellular calcium ion concentration induces the secretion of insulin. It is used for the concomitant use with insulin for the treatment of noninsulin-dependent (type 2) diabetes mellitus.
+4. Indication:  Glycodiazine is used concomitantly with insulin for the treatment of noninsulin-dependent (type 2) diabetes mellitus. 
+DrugId:  25
+1. Name:  Insulin Glulisine
+2. Groups:  Approved
+3. Description:  Insulin glulisine is a biosynthetic, rapid-acting human insulin analogue produced in a non-pathogenic laboratory strain of Escherichia coli (K12). This recombinant hormone differs from native human insulin in that the amino acid arginine at position B3 is replaced by lysine and the lysine at position B29 is replaced by glutamic acid. These structural modifications decrease hexamer formation, stabilize insulin glulisine monomers and increase the rate of absorption and onset of action compared to human insulin. 
+4. Indication:  For the treatment of Type 1 and 2 diabetes mellitus. Should be used in regimens including a long-acting or basal insulin analogue unless it is used in a continuous infusion pump. May be used with oral antidiabetic agents. 

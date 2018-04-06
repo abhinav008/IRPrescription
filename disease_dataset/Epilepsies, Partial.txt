@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  OBE101
+2. Groups:  Investigational
+3. Description:  OBE101 is a new weight loss drug developed by Obecure Ltd. It is a new formulation that is based on the vertigo medication, Betahistine. Obecure is repurposing betahistine, which is an H1 receptor agonist and partial H3 receptor antagonist for the treatment of obese individuals and for other weight management indications. 
+4. Indication:  Investigated for use/treatment in adverse effects (drug), hyperlipidemia, and obesity.
+DrugId:  2
+1. Name:  Pardoprunox
+2. Groups:  Investigational
+3. Description:  Pardoprunox has been used in trials studying the treatment of Early Stage Parkinson's Disease and Advanced Stage Parkinson's Disease. Pardoprunox is a partial dopamine D2 agonist and noradrenergic agonist with serotonin 5-HT1A agonist properties.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  V1003
+2. Groups:  Investigational
+3. Description:  V1003 is an intranasal formulation of buprenorphine, an opiate analgesic, for the management of post-operative pain in hospital and home settings. Buprenorphine is a well-known analgesic and the intranasal formulation has the potential to provide a convenient alternative to other treatments, allowing patients to manage their post-operative pain both prior to discharge from hospital and at home during their recovery period.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  4
+1. Name:  Acetazolamide
+2. Groups:  Approved, Vet approved
+3. Description:  One of the carbonic anhydrase inhibitors that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)
+4. Indication:  For adjunctive treatment of: edema due to congestive heart failure; drug-induced edema; centrencephalic epilepsies; chronic simple (open-angle) glaucoma
+DrugId:  5
+1. Name:  ACP-104
+2. Groups:  Investigational
+3. Description:  ACP-104, or N-desmethylclozapine, is the major metabolite of clozapine, and is being developed by ACADIA as a novel, stand-alone therapy for schizophrenia. It combines an atypical antipsychotic efficacy profile with the added potential benefit of enhanced cognition, thereby addressing one of the major challenges in treating schizophrenia today.
+4. Indication:  Investigated for use/treatment in schizophrenia and schizoaffective disorders.
+DrugId:  6
+1. Name:  WX-G250
+2. Groups:  Investigational
+3. Description:  WX-G250 is a monoclonal chimeric (mouse/human) antibody directed against carbonic anhydrase IX, an antigen expressed in 95% of clear cell renal cell carcinomas (RCC). 
+4. Indication:  Investigated for use/treatment in gall bladder cancer and renal cell carcinoma.
+DrugId:  7
+1. Name:  Mephenytoin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mephenytoin is used for the treatment of refractory partial epilepsy. Mephenytoin is a solid. This compound belongs to the phenylhydantoins. These are heterocyclic aromatic compounds containing an imiazolidinedione moiety substituted by a phenyl group. Mephenytoin is known to target sodium channel protein type 5 subunit alpha. Cytochrome P450 2C19, Cytochrome P450 2C8, Cytochrome P450 2C9, Cytochrome P450 2B6, Cytochrome P450 1A2, and Cytochrome P450 2D6 are known to metabolize mephenytoin. Mephenytoin is a hydantoin-derivative anticonvulsant used to control various partial seizures. Mephenytoin and oxazolidinedione derivatives are associated with higher incidences of blood dyscrasias compared to other anticonvulsants. It is still studied largely because of its interesting hydroxylation polymorphism.
+4. Indication:  For the treatment of refractory partial epilepsy.
+DrugId:  8
+1. Name:  Bifeprunox
+2. Groups:  Investigational
+3. Description:  Bifeprunox is a novel atypical antipsychotic agent which, along with SLV313, aripiprazole and SSR-181507 combines minimal D2 receptor agonism with 5-HT receptor agonism. [Wikipedia]
+4. Indication:  Bifeprunox is being evaluated for the treatment of schizophrenia, psychosis, and Parkinson's disease.
+DrugId:  9
+1. Name:  S-8510
+2. Groups:  Investigational
+3. Description:  S-8510 / SB-737552 is a BZD inverse agonist investigated for the treatment of Alzheimer’s disease and mild to moderate senile dementia. It was being codeveloped by Shionogi and GlaxoSmithKline.
+4. Indication:  Investigated for use/treatment in alzheimer's disease and dementia.
+DrugId:  10
+1. Name:  Varenicline
+2. Groups:  Approved, Investigational
+3. Description:  Varenicline is a prescription medication used to treat smoking addiction. This medication is the first approved nicotinic receptor partial agonist. Specifically, varenicline is a partial agonist of the alpha4/beta2 subtype of the nicotinic acetylcholine receptor. In addition it acts on alpha3/beta4 and weakly on alpha3beta2 and alpha6-containing receptors. A full agonism was displayed on alpha7-receptors.On March 9, 2015, the U.S. Food and Drug Administration warned that Varenicline, in the form of Pfizer Inc's quit-smoking drug, Chantix, has been associated with seizures and that some patients who drink while taking the drug may become aggressive or black out. Pfizer is conducting an additional safety study of the drug, results of which are expected in late 2015. The FDA said it is keeping the black box in place at least until the results of the trial are announced.
+4. Indication:  For use as an aid in smoking cessation.
+DrugId:  11
+1. Name:  Levetiracetam
+2. Groups:  Approved, Investigational
+3. Description:  Levetiracetam is an anticonvulsant medication used to treat epilepsy. Levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity. Levetiracetam binds to the synaptic vesicle protein SV2A, which is thought to be involved in the regulation of vesicle exocytosis. Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice.
+4. Indication:  Used as adjunctive therapy in the treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.
+DrugId:  12
+1. Name:  Gelatin
+2. Groups:  Approved, Vet approved
+3. Description:  Gelatin is a hydrolyzate derived from naturally occuring collagen. It is composed a mixture of peptides and proteins with varying molecular weights. They are produced from partial hydrolysis of collagen extracted from the skin, bones, and connective tissues of animals such as cattle and pigs [Wikipedia], resulting in individual collagen strands that are more readily rearranged. For over 125 years, gelatin has been used as a food gelling agent in manufacturing practice and ingredient in cosmetic products and pharmaceutical formulations [2]. Gelaltin is generally recognized as safe (GRAS) by the FDA to be a non-hazardous food or food ingredient.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  14
+1. Name:  Vilazodone
+2. Groups:  Approved
+3. Description:  Vilazodone is a novel compound with combined high affinity and selectivity for the 5-hydroxytryptamine (5-HT) transporter and 5-HT(1A) receptors. It has been shown to be equally efficacious as other antidepressants with similar gastrointestinal side effects and possibly with reduced sexual side effects and weight gain. Vilazodone is an antidepressant agent that can used as an alternative for patients who cannot tolerate therapy with other antidepressant classes such as selective serotonin reuptake inhibitors or serotonin norepinephrine reuptake inhibitors. Treatment should be titrated towards the target dose, which is 40mg per day.
+4. Indication:  Vilazodone is approved for treatment of acute episodes of major depression. Labeling of vilazodone describes an increased risk of suicidal thoughts in children, adolescents and young adults. The use of vilazodone in pediatrics is not indicated. Its use with monoamine oxidase inhibitors (MAOI) is contraindicated due to increased risk of serotonin syndome. Once the MAOI is discontinued, a 14-day washout period must pass before starting vilazodone.
+DrugId:  15
+1. Name:  Oxcarbazepine
+2. Groups:  Approved
+3. Description:  Oxcarbazepine is structurally a derivative of carbamazepine, adding an extra oxygen atom to the benzylcarboxamide group. This difference helps reduce the impact on the liver of metabolizing the drug, and also prevents the serious forms of anemia occasionally associated with carbamazepine. Aside from this reduction in side effects, it is thought to have the same mechanism as carbamazepine - sodium channel inhibition - and is generally used to treat partial seizures in epileptic children and adults.
+4. Indication:  For use as monotherapy or adjunctive therapy in the treatment of partial seizures in adults with epilepsy and as adjunctive therapy in the treatment of partial seizures in children ages 4-16 with epilepsy.
+DrugId:  16
+1. Name:  Aripiprazole
+2. Groups:  Approved, Investigational
+3. Description:  Aripiprazole is an atypical antipsychotic medication used for the treatment of schizophrenia. It has also recently received FDA approval for the treatment of acute manic and mixed episodes associated with bipolar disorder. Aripiprazole appears to mediate its antipsychotic effects primarily by partial agonism at the D2 receptor. In addition to partial agonist activity at the D2 receptor, aripiprazole is also a partial agonist at the 5-HT1A receptor, and like the other atypical antipsychotics, aripiprazole displays an antagonist profile at the 5-HT2A receptor. Aripiprazole has moderate affinity for histamine and alpha adrenergic receptors, and no appreciable affinity for cholinergic muscarinic receptors.
+4. Indication:  For the treatment of schizophrenia and related psychotic disorders.
+DrugId:  17
+1. Name:  Felbamate
+2. Groups:  Approved
+3. Description:  Felbamate is an anticonvulsant drug used in the treatment of epilepsy. It is used to treat partial seizures (with and without generalization) in adults and partial and generalized seizures associated with Lennox-Gastaut syndrome in children. It has a weak inhibitory effect on GABA receptor binding sites.
+4. Indication:  For use only in those patients who respond inadequately to alternative treatments and whose epilepsy is so severe that a substantial risk of aplastic anemia and/or liver failure is deemed acceptable in light of the benefits conferred by its use.
+DrugId:  18
+1. Name:  Ganaxolone
+2. Groups:  Investigational
+3. Description:  Ganaxolone is the 3β-methylated synthetic analog of allopregnanolone; it belongs to a class of compounds referred to as neurosteroids. Ganaxolone is an allosteric modulator of GABAA receptors acting through binding sites which are distinct from the benzodiazepine binding site. It has activity in a broad range of animal models of epilepsy. Ganaxolone has been shown to be well tolerated in adults and children. In early phase II studies, Ganaxolone has been shown to have activity in adult patients with partial-onset seizures and epileptic children with history of infantile spasms. It is currently undergoing further development in infants with newly diagnosed infantile spasms, in women with catamenial epilepsy, and in adults with refractory partial-onset seizures.
+4. Indication:  Investigated for use/treatment in pediatric indications and seizure disorders.
+DrugId:  19
+1. Name:  Perampanel
+2. Groups:  Approved
+3. Description:  Perampanel is a noncompetitive AMPA glutamate receptor antagonist. It is marketed under the name Fycompa™ and is indicated as an adjunct in patients over 12 years old for the treatment of partial-onset seizures that may or may not occur with generalized seizures. The FDA label includes an important black-boxed warning of serious or life-threatening behavioral and psychiatric reactions in patients taking Fycompa™.
+4. Indication:  Used in patients over 12 years old for the treatment of partial-onset seizures that may or may not occur with generalized seizures.
+DrugId:  20
+1. Name:  Nalbuphine
+2. Groups:  Approved
+3. Description:  A narcotic used as a pain medication. It appears to be an agonist at kappa opioid receptors and an antagonist or partial agonist at mu opioid receptors. Nalbuphine is the only opioid analgesic that is not a controlled substance in the United States. 
+4. Indication:  For the relief of moderate to severe pain.
+DrugId:  21
+1. Name:  Cariprazine
+2. Groups:  Approved, Investigational
+3. Description:  Cariprazine is an antipsychotic drug developed by Gedeon Richter and marketed by Actavis under the trade name Vraylar. Cariprazine acts as a D2 and D3 receptor partial agonist, with high selectivity towards the D3 receptor. This mechanism is relatively unique, since many other antipsychotics are D2 and 5-HT2A agonists. Cariprazine was approved by the FDA in September 2015 and is indicated in the treatment of schizophrenia and bipolar disorder. Action on the dopaminergic systems makes it also potentially useful as an add-on therapy in major depressive disorder. 
+4. Indication:  Cariprazine is an atypical antipsychotic indicated for the treatment of schizophrenia and for the acute treatment of manic or mixed episodes associated with bipolar Idisorder.
+DrugId:  22
+1. Name:  Brivaracetam
+2. Groups:  Approved, Investigational
+3. Description:  Brivaracetam is a racetam derivative of levetiracetam used in the treatment of partial-onset seizures. Brivaracetam binds SV2A with 20 times higher affinity than levetiracetam [2]. It is available under the brand name Briviact made by UCB. Briviact received FDA approval on February 19, 2016 [7].
+4. Indication:  Used as adjunctive therapy for partial-onset seizures in patients 16 years of age or older.
+DrugId:  23
+1. Name:  Lumateperone
+2. Groups:  Investigational
+3. Description:  Lumateperone (ITI-722/ITI-007) is a novel, first-in-class dual 5HT2A receptor antagonist/dopamine phosphoprotein modulator (DPPM) for schizophrenia. It is an orally available compound which combines potent 5HT2A receptor antagonism with cell-type-specific modulation of phosphoprotein pathways downstream of dopamine receptors. As of May 2015, Lumateperone is in phase III clinical trials for schizophrenia.
+4. Indication:  Investigated for use/treatment in schizophrenia and schizoaffective disorders.
+DrugId:  24
+1. Name:  Brexpiprazole
+2. Groups:  Approved, Investigational
+3. Description:  Brexpiprazole is a novel D2 dopamine and serotonin 1A partial agonist, called serotonin-dopamine activity modulator (SDAM), and a potent antagonist of serotonin 2A receptors, noradrenergic alpha 1B and 2C receptors. Brexpiprazole is approved for the treatment of schizophrenia, and as an adjunctive treatment for major depressive disorder (MDD). Although it failed Phase II clinical trials for ADHD, it has been designed to provide improved efficacy and tolerability (e.g., less akathisia, restlessness and/or insomnia) over established adjunctive treatments for major depressive disorder (MDD).
+4. Indication:  As an adjunctive treatment of major depressive disorder (MDD) and for treatment of schizophrenia. 
+DrugId:  25
+1. Name:  Cholestyramine
+2. Groups:  Approved, Investigational
+3. Description:  Cholestyramine or colestyramine is a bile acid sequestrant. Bile acid sequestrants are polymeric compounds which serve as ion exchange resins. Cholestyramine resin is quite hydrophilic, but insoluble in water.
+4. Indication:  Indicated as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low density lipoprotein [LDL] cholesterol) who do not respond adequately to diet. Also for the relief of pruritus associated with partial biliary obstruction.

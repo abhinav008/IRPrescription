@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Thrombopoietin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombocytopenia.
+DrugId:  2
+1. Name:  Avatrombopag
+2. Groups:  Investigational
+3. Description:  Avatrombopag has been used in trials studying the treatment of Thrombocytopenia, Idiopathic Thrombocytopenia Purpura, Idiopathic Thrombocytopenic Purpura (ITP), Thrombocytopenia Associated With Liver Disease, and Thrombocytopenia Related to Chronic Liver Disease, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  SYM001
+2. Groups:  Investigational
+3. Description:  Sym001 is a recombinant polyclonal antibody consisting of 25 different anti-Rhesus D (RhD) antibodies to replace existing anti-RhD hyperimmune immunoglobulins for the treatment of Idiopathic Thrombocytopenic Purpura (ITP) and the prevention of Hemolytic Disease of Newborns (HDN).
+4. Indication:  Investigated for use/treatment in thrombocytopenia.
+DrugId:  4
+1. Name:  SB-559448
+2. Groups:  Investigational
+3. Description:  SB-559448 is a small-molecule drug that mimics the activity of thrombopoietin (TPO), a protein factor that promotes growth and production of blood platelets. This drug is developed by GlaxoSmithKline and used to treat Thrombocytopenia.Thrombocytopenia (decreased platelet count) is a common side effect of many chemotherapies and can lead to uncontrolled bleeding, thus representing a significant problem in the treatment of cancer patients.
+4. Indication:  Investigated for use/treatment in thrombocytopenia.
+DrugId:  5
+1. Name:  Imiglucerase
+2. Groups:  Approved
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  6
+1. Name:  Ruplizumab
+2. Groups:  Investigational
+3. Description:  Ruplizumab is a humanized monoclonal antibody used as an immunosuppressive drug and is a component of Antova.
+4. Indication:  Investigated for use/treatment in thrombocytopenia, systemic lupus erythematosus, transplant (rejection), blood (blood forming organ disorders, unspecified), and multiple sclerosis.
+DrugId:  7
+1. Name:  Argatroban
+2. Groups:  Approved, Investigational
+3. Description:  Argatroban is a direct, selective thrombin inhibitor. The American College of Cardiologists (ACC) recommend using bivalirudin or argatroban in patients who have had, or at risk for, heparin induced thrombocytopenia (HIT) and are undergoing percutaneous coronary intervention. Argatroban is a non-heparin anticoagulant shown to both normalize platelet count in patients with HIT and prevent the formation of thrombi. Parental anticoagulants must be stopped and a baseline activated partial thromboplastin time must be obtained prior to administering argatroban.
+4. Indication:  Argatroban is indicated for prevention and treatment of thrombosis caused by heparin induced thrombocytopenia (HIT). It is also indicated for use in patients with, or at risk for, HIT who are undergoing percutaneous coronary intervention.
+DrugId:  8
+1. Name:  Lepirudin
+2. Groups:  Approved
+3. Description:  Lepirudin is identical to natural hirudin except for substitution of leucine for isoleucine at the N-terminal end of the molecule and the absence of a sulfate group on the tyrosine at position 63. It is produced via yeast cells. Bayer ceased the production of lepirudin (Refludan) effective May 31, 2012.
+4. Indication:  For the treatment of heparin-induced thrombocytopenia
+DrugId:  9
+1. Name:  Oprelvekin
+2. Groups:  Approved, Investigational
+3. Description:  Oprelvekin, the active ingredient in Neumega® is recombinant Interleukin eleven, which is produced in Escherichia coli (E. coli) by recombinant DNA technology. The protein has a molecular mass of approximately 19,000 daltons, and is non-glycosylated. The polypeptide is 177 amino acids in length (the natural IL-11 has 178). This alteration has not resulted in measurable differences in bioactivity either in vitro or in vivo.The primary hematopoietic activity of Neumega® is stimulation of megakaryocytopoiesis and thrombopoiesis. In mice and nonhuman primate studies Neumega® has shown potent thrombopoietic activity in compromised hematopoiesis, including moderately to severely myelosuppressed animals. In these studies, Neumega® improved platelet nadirs and accelerated platelet recoveries compared to controls.In animal studies Oprelvekin also has non-hematopoetic activities. This includes the regulation of intestinal epithelium growth (enhanced healing of gastrointestinal lesions), the inhibition of adipogenesis, the induction of acute phase protein synthesis (e.g., fibrinogen), and inhibition of macrophageal released pro-inflammatory cytokines.
+4. Indication:  Increases reduced platelet levels due to chemotherapy
+DrugId:  10
+1. Name:  Alglucerase
+2. Groups:  Approved, Investigational
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues.
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  11
+1. Name:  Taliglucerase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Taliglucerase alfa is the recombinant active form of the human lysosomal enzyme, β-glucocerebrosidase. It was approved in 2012 and is marketed under the name Elelyso for use in patients with type 1 Gaucher's disease.
+4. Indication:  For the treatment of adult Type 1 Gaucher disease. 
+DrugId:  12
+1. Name:  Lusutrombopag
+2. Groups:  Investigational
+3. Description:  Lusutrombopag has been used in trials studying the treatment of Thrombocytopenia and Chronic Liver Disease.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  14
+1. Name:  Eltrombopag
+2. Groups:  Approved
+3. Description:  Eltrombopag is used to treat low blood platelet counts in adults with chronic immune (idiopathic) thrombocytopenia (ITP), when certain other medicines, or surgery to remove the spleen, have not worked well enough. ITP is a condition that may cause unusual bruising or bleeding due to an abnormally low number of platelets in the blood. Eltrombopag has also been recently approved (late 2012) for the treatment of thrombocytopenia (low blood platelet counts) in patients with chronic hepatitis C to allow them to initiate and maintain interferon-based therapy.
+4. Indication:  Thrombopoietin receptor agonists are pharmaceutical agents that stimulate platelet production in the bone marrow. In this, they differ from the previously discussed agents that act by attempting to curtail platelet destruction. 
+DrugId:  15
+1. Name:  Quinine
+2. Groups:  Approved
+3. Description:  An alkaloid derived from the bark of the cinchona tree. It is used as an antimalarial drug, and is the active ingredient in extracts of the cinchona that have been used for that purpose since before 1633. Quinine is also a mild antipyretic and analgesic and has been used in common cold preparations for that purpose. It was used commonly and as a bitter and flavoring agent, and is still useful for the treatment of babesiosis. Quinine is also useful in some muscular disorders, especially nocturnal leg cramps and myotonia congenita, because of its direct effects on muscle membrane and sodium channels. The mechanisms of its antimalarial effects are not well understood. [PubChem]
+4. Indication:  For the treatment of malaria and leg cramps
+DrugId:  16
+1. Name:  Bemiparin
+2. Groups:  Approved, Investigational
+3. Description:  Bemiparin is an antithrombotic and belongs to the group of drugs known as the low molecular weight heparins (LMWH). Like semuloparin, bemiparin is classified as an ultra-LMH because of its low mean molecular mass of 3600 daltons, which is a unique property of this class [1]. These heparins have lower anti-thrombin activity than the traditional low molecular weight heparins and act mainly on factor-Xa, reducing the risk of bleeding due to selectivity for this specific clotting factor. Interestingly, current research is underway for the potential benefit of bemiparin in the treatment of tumors and diabetic foot ulcers [12, 1].
+4. Indication:  Bemiparin is indicated in the following cases: To prevent blood clots in the veins after general abdominal surgery in patients with a moderate risk of venous thromboembolism; in the prevention of the thromboembolic disease in non-surgical patients; prevention of clotting in the extracorporeal circuit during hemodialysis; to prevent blood clots in the veins after a major orthopedic surgery in patients with high risk of venous thromboembolism; secondary prevention of venous thromboembolism; recurrence in patients with deep vein thrombosis; transient prevention and treatment of deep vein thrombosis (DVT) [8].
+DrugId:  17
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  18
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  19
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  20
+1. Name:  Nadroparin
+2. Groups:  Approved, Investigational
+3. Description:  Nadroparin is a low molecular weight heparin (LMWH) which, when bound to antithrombin III (ATIII), accelerates the inactivation of factor II and factor Xa. Nadroparin halts the coagulation pathway by inhibiting the activation of thrombin (factor IIa) by factor Xa. The amplification of the fibrin clotting cascade is stopped once factors Xa and IIa are inactivated. It is derived from porcine sources and has a mean molecular size of 5000 daltons. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Nadroparin is used for prophylaxis of thromboembolic disorders and general surgery in orthopedic surgery, treatment of deep vein thrombosis, prevention of clotting during hemodialysis and treatment of unstable angina and non-Q wave myocardial infarction
+DrugId:  21
+1. Name:  Carmustine
+2. Groups:  Approved, Investigational
+3. Description:  A cell-cycle phase nonspecific alkylating antineoplastic agent. It is used in the treatment of brain tumors and various other malignant neoplasms. (From Martindale, The Extra Pharmacopoeia, 30th ed, p462) This substance may reasonably be anticipated to be a carcinogen according to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985). (From Merck Index, 11th ed)
+4. Indication:  For the treatment of brain tumors, multiple myeloma, Hodgkin's disease and Non-Hodgkin's lymphomas.
+DrugId:  22
+1. Name:  Romiplostim
+2. Groups:  Approved
+3. Description:  Romiplostim is a thrombopoiesis stimulating dimer Fc-peptide fusion protein (peptibody) to increase platelet production through activation of the thrombopoietin receptor. The peptibody molecule has two identical single-chain subunits, each one is made up of 269 amino acid residues. Each subunit consists of an IgG1 Fc carrier domain that is covalently attached to a polypeptide sequence that contains two binding domains to interact with thrombopoietin receptor c-Mpl. Each domain consists of 14 amino acids. Interestingly, romiplostim's amino acid sequence is not similar to that of endogenous thrombopoietin. Romiplostim is produced by recombinant DNA technology in Escherichia coli. FDA approved on August 22, 2008.
+4. Indication:  Treatment of chronic immune thrombocytopenic purpura. 
+DrugId:  23
+1. Name:  Ethchlorvynol
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Ethchlorvynol is a sedative and hypnotic drug. It has been used to treat insomnia, but has been largely superseded and is only offered where an intolerance or allergy to other drugs exists. [Wikipedia]
+4. Indication:  Used for short-term hypnotic therapy in the management of insomnia for periods of up to one week in duration; however, this medication generally has been replaced by other sedative-hypnotic agents.
+DrugId:  24
+1. Name:  Obinutuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Obinutuzumab is a humanized monoclonal antibody used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia. It was approved by the FDA in November 2013 and is marketed under the brand name Gazyva. There is a black box warning of fatal Hepatitis B Virus (HBV) reactivation and fatal Progressive Multifocal Leukoencephalopathy (PML).
+4. Indication:  Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
+DrugId:  25
+1. Name:  Ferric pyrophosphate
+2. Groups:  Experimental
+3. Description:  Ferric pyrophosphate is an iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate.[1] It presents an increasing interest as this insoluble form can be milder in the gastrointestinal tract and present higher bioavailability.[10]
+4. Indication:  Ferric pyrophosphate is intended to be indicated for the treatment of iron loss or iron deficiency as a formulation with a milder gastrointestinal effect.[9, 10] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]

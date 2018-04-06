@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Alpha-Linolenic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alpha-linolenic acid (ALA) is a polyunsaturated omega-3 fatty acid. It is a component of many common vegetable oils and is important to human nutrition.
+4. Indication:  For nutritional supplementation and for treating dietary shortage or imbalance.
+DrugId:  2
+1. Name:  Grepafloxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Grepafloxacin is an oral broad-spectrum quinoline antibacterial agent used to treat bacterial infections. Grepafloxacin was withdrawn in the United States due to its side effect of lengthening the QT interval on the electrocardiogram, leading to cardiac events and sudden death. [Wikipedia]
+4. Indication:  For treatment of adults with mild to moderate infections caused by susceptible strains of Haemophilus influenzae, Streptococcus pneumoniae, or Moraxella catarrhalis.
+DrugId:  3
+1. Name:  Mersalyl
+2. Groups:  Approved
+3. Description:  Mersalyl is the sodium salt form of mersalyl acid, a mercurial diuretic. It is an outdated drug, and its approval has been discontinued by the FDA. Mersalyl acid is currently replaced by less toxic non-mercury containing diuretics [4, 6]. The sodium salt of a mercury-containing derivative of salicylamide, was formerly used (often in combination with theophylline) to treat edema, due to its powerful diuretic properties [6]. Interestingly, it has been found to have antiviral properties in mice [13].
+4. Indication:  Elevated blood pressure, edema [6, 14].
+DrugId:  4
+1. Name:  Proscillaridin
+2. Groups:  Experimental
+3. Description:  Proscillaridin is a cardiac glycoside that is derived from plants of the genus Scilla and in Drimia maritima (Scilla maritima). Studies suggest the potential cytotoxic and anticancer property of proscillaridin, based on evidence of the drug potently disrupting topoisomerase I and II activity at nanomolar drug concentrations [1] and triggering cell death and blocking cell proliferation of glioblastoma cell lines [2].
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Levosimendan
+2. Groups:  Approved, Investigational
+3. Description:  Levosimendan is a calcium sensitiser used in the management of acutely decompensated congestive heart failure. It increases the sensitivity of the heart to calcium, thus increasing cardiac contractility without a rise in intracellular calcium. Levosimendan exerts its effect by increasing calcium sensitivity of myocytes by binding to cardiac troponin C in a calcium-dependent manner. It also has a vasodilatory effect, by opening adenosine triphosphate (ATP)-sensitive potassium channels in vascular smooth muscle to cause smooth muscle relaxation.
+4. Indication:  For short term treatment of acutely decompensated severe chronic heart failure (CHF). Also being investigated for use/treatment in heart disease.
+DrugId:  6
+1. Name:  Benzyl Benzoate
+2. Groups:  Approved
+3. Description:  Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+4. Indication:  Used to kill lice and the mites responsible for the skin condition scabies.
+DrugId:  7
+1. Name:  Droxidopa
+2. Groups:  Approved, Investigational
+3. Description:  Droxidopa is a precursor of noradrenaline that is used in the treatment of Parkinsonism. It is approved for use in Japan and is currently in trials in the U.S. The racaemic form (dl-threo-3,4-dihydroxyphenylserine) has also been used, and has been investigated in the treatment of orthostatic hypotension. There is a deficit of noradrenaline as well as of dopamine in Parkinson's disease and it has been proposed that this underlies the sudden transient freezing seen usually in advanced disease.Though L-DOPS has been used in Japan and Southeast Asia already for some time, it is also currently in clinical trials at the phase III point in the United States (U.S.), Canada, Australia, and throughout Europe. Provided L-DOPS successfully completes clinical trials, it could be approved for the treatment of neurogenic orthostatic hypotension (NOH) as early as 2011. Additionally, phase II clinical trials for intradialytic hypotension are also underway. Chelsea Therapeutics obtained orphan drug status (ODS) for L-DOPS in the U.S. for NOH, and that of which associated with Parkinson's disease , pure autonomic failure, and multiple system atrophy, and is the pharmaceutical company developing it in that country.
+4. Indication:  For treatment of neurogenic orthostatic hypotension (NOH) associated with various disorders including Multiple System Atrophy, Familial Amyloid Polyneuropathy, hemodialysis induced hypotension and Parkinson's Disease. Also investigated for use/treatment in neurologic disorders, nephropathy, blood (blood forming organ disorders, unspecified), and dizzy/fainting spells.
+DrugId:  8
+1. Name:  Nafamostat
+2. Groups:  Approved, Investigational
+3. Description:  Nafamostat is a synthetic serine protease inhibitor that is commonly formulated with hydrochloric acid due to its basic properties. It has been used in trials studying the prevention of Liver Transplantation and Postreperfusion Syndrome. The use of nafamostat in Asian countries is approved as an anticoagulant therapy for patients undergoing continuous renal replacement therapy due to acute kidney injury.
+4. Indication:  Used as an anticoagulant in patients with disseminative blood vessel coagulation, hemorrhagic lesions, and hemorrhagic tendencies. It prevents blood clot formation during extracorporeal circulation in patients undergoing continuous renal replacement therapy and extra corporeal membrane oxygenation. 
+DrugId:  9
+1. Name:  Hydroxychloroquine
+2. Groups:  Approved
+3. Description:  A chemotherapeutic agent that acts against erythrocytic forms of malarial parasites.
+4. Indication:  For the suppressive treatment and treatment of acute attacks of malaria due to Plasmodium vivax, P. malariae, P. ovale, and susceptible strains of P. falciparum. It is also indicated for the treatment of discoid and systemic lupus erythematosus, and rheumatoid arthritis.
+DrugId:  10
+1. Name:  Bisoprolol
+2. Groups:  Approved
+3. Description:  Bisoprolol is a cardioselective β1-adrenergic blocking agent used for secondary prevention of myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. Bisoprolol is structurally similar to metoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At lower doses (less than 20 mg daily), bisoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with daily doses of 20 mg or greater. Unlike propranolol and pindolol, bisoprolol does not exhibit membrane-stabilizing or sympathomimetic activity. Bisoprolol possesses a single chiral centre and is administered as a racemic mixture. Only l-bisoprolol exhibits significant β-blocking activity.
+4. Indication:  For management of heart failure, angina pectoris, and mild to moderate hypertension and for secondary prevention of myocardial infarction (MI). 
+DrugId:  11
+1. Name:  Dosulepin
+2. Groups:  Approved
+3. Description:  Dosulepin (INN, BAN) formerly known as dothiepin (USAN), is a tricyclic antidepressant with anxiolytic properties that is used in several European and South Asian countries, as well as Australia, South Africa, and New Zealand. It is not FDA-approved due to low therpeutic index and significant toxicity in overdose. Dosulepin inhibits the reuptake of biogenic amines, increasing available neurotransmitter levels at the synaptic cleft. The use of dosulepsin is only recommended in patients who are intolerant or unresponsive to alternative antidepressant therapies. Dosulepsin is a thio derivative of Amitriptyline with a similar efficacy to that of Amitriptyline, and also exhibits anticholinergic, antihistamine and central sedative properties [8].Its hydrochloride form is a common active ingredient in different drug formulations.
+4. Indication:  Indicated in the treatment of symptoms of depressive illness, especially where an anti-anxiety effect is required.
+DrugId:  12
+1. Name:  Acadesine
+2. Groups:  Investigational
+3. Description:  Acadesine (AICA-riboside) is a purine nucleoside analog with anti-ischemic properties that is currently being studied (Phase 3) for the prevention of adverse cardiovascular outcomes in patients undergoing coronary artery bypass graft (CABG) surgery. It is being developed jointly by PeriCor and Schering-Plough. Acadesine has been granted Orphan Drug Designation for B-CLL in the EU.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury, cardiovascular disorders, and coronary artery disease.
+DrugId:  13
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  14
+1. Name:  Methaqualone
+2. Groups:  Illicit, Withdrawn
+3. Description:  Methaqualone is a sedative-hypnotic drug that is similar in effect to barbiturates, a general central nervous system depressant. The sedative-hypnotic activity was first noted by Indian researchers in the 1950s and in 1962 methaqualone itself was patented in the US by Wallace and Tiernan. Its use peaked in the early 1970s as a hypnotic, for the treatment of insomnia, and as a sedative and muscle relaxant. It has also been used illegally as a recreational drug, commonly known as Quaaludes, Sopors, Ludes or Mandrax (particularly in the 1970s in North America) depending on the manufacturer. Since at least 2001, it has been widely used in South Africa, where it is commonly referred to as "smarties" or "geluk-tablette" (meaning happy tablets). Clandestinely produced methaqualone is still seized by government agencies and police forces around the world. [Wikipedia]
+4. Indication:  For the treatment of insomnia, and as a sedative and muscle relaxant.
+DrugId:  15
+1. Name:  Cariporide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery.
+DrugId:  16
+1. Name:  Promethazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals. [PubChem]
+4. Indication:  For the treatment of allergic disorders, and nausea/vomiting.
+DrugId:  17
+1. Name:  Norepinephrine
+2. Groups:  Approved
+3. Description:  Precursor of epinephrine that is secreted by the adrenal medulla and is a widespread central and autonomic neurotransmitter. Norepinephrine is the principal transmitter of most postganglionic sympathetic fibers and of the diffuse projection system in the brain arising from the locus ceruleus. It is also found in plants and is used pharmacologically as a sympathomimetic. [PubChem]
+4. Indication:  Mainly used to treat patients in vasodilatory shock states such as septic shock and neurogenic shock and has shown a survival benefit over dopamine. Also used as a vasopressor medication for patients with critical hypotension.
+DrugId:  18
+1. Name:  Minoxidil
+2. Groups:  Approved, Investigational
+3. Description:  A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure. (From Martindale, The Extra Pharmacopoeia, 30th ed, p371)
+4. Indication:  For the treatment of severe hypertension and in the topical treatment (regrowth) of androgenic alopecia in males and females and stabilisation of hair loss in patients with androgenic alopecia.
+DrugId:  19
+1. Name:  Busulfan
+2. Groups:  Approved, Investigational
+3. Description:  Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen. [PubChem]
+4. Indication:  For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.
+DrugId:  20
+1. Name:  Arformoterol
+2. Groups:  Approved, Investigational
+3. Description:  Arformoterol is a bronchodilator. It works by relaxing muscles in the airways to improve breathing. Arformoterol inhalation is used to prevent bronchoconstriction in people with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema. The use of arformoterol is pending revision due to safety concerns in regards to an increased risk of severe exacerbation of asthma symptoms, leading to hospitalization as well as death in some patients using long acting beta agonists for the treatment of asthma.
+4. Indication:  A bronchodilator used for the long term, symptomatic treatment of reversible bronchoconstriction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema. 
+DrugId:  21
+1. Name:  Deutetrabenazine
+2. Groups:  Approved, Investigational
+3. Description:  Deutetrabenazine is a novel, highly selective vesicular monoamine transporter 2 (VMAT2) inhibitor indicated for the management of chorea associated with Huntington’s disease. It is a hexahydro-dimethoxybenzoquinolizine derivative and a deuterated Tetrabenazine [5]. The presence of deuterium in deutetrabenazine increases the half-lives of the active metabolite and prolongs their pharmacological activity by attenuating CYP2D6 metabolism of the compound [5]. This allows less frequent dosing and a lower daily dose with improvement in tolerability [2]. Decreased plasma fluctuations of deutetrabenazine due to attenuated metabolism may explain a lower incidence of adverse reactions associated with deutetrabenazine [1]. Deutetrabenazine is a racemic mixture containing RR-Deutetrabenazine and SS-Deutetrabenazine [FDA Label]. Huntington's disease (HD) is a hereditary, progressive neurodegenerative disorder characterized by motor dysfunction, cognitive decline, and neuropsychiatric disturbances [2] that interfere with daily functioning and significantly reduce the quality of life. The most prominent physical symptom of HD that may increase the risk of injury is chorea, which is an involuntary, sudden movement that can affect any muscle and flow randomly across body regions [5]. Psychomotor symptoms of HD, such as chorea, are related to hyperactive dopaminergic neurotransmission [6]. Deutetrabenazine depletes the levels of presynaptic dopamine by blocking VMAT2, which is responsible for the uptake of dopamine into synaptic vesicles in monoaminergic neurons and exocytotic release [6]. As with other agents for the treatment of neurodegenerative diseases, deutetrabenazine is a drug to alleviate the motor symptoms of HD and is not proposed to halt the progression of the disease [7]. In clinical trials of patients with HD, 12 weeks of treatment of deutetrabenazine resulted in overall improvement in mean total maximal chorea scores and motor signs than placebo [5]. It was approved by FDA in April 2017 and is marketed under the trade name Austedo as oral tablets.
+4. Indication:  Indicated for the treatment of chorea associated with Huntington’s disease [FDA Label]. 
+DrugId:  22
+1. Name:  Nitroglycerin
+2. Groups:  Approved, Investigational
+3. Description:  A volatile vasodilator which relieves angina pectoris by stimulating guanylate cyclase and lowering cytosolic calcium. [PubChem]
+4. Indication:  For the prevention of angina
+DrugId:  23
+1. Name:  Dexfenfluramine
+2. Groups:  Approved, Illicit, Investigational, Withdrawn
+3. Description:  Dexfenfluramine, also marketed under the name Redux, is a serotoninergic anorectic drug. It was for some years in the mid-1990s approved by the United States Food and Drug Administration for the purposes of weight loss. However, following multiple concerns about the cardiovascular side-effects of the drug, such approval was withdrawn.
+4. Indication:  For the management of obesity including weight loss and maintenance of weight loss in patients on a reduced calorie diet
+DrugId:  24
+1. Name:  Thallous Chloride
+2. Groups:  Approved
+3. Description:  Thallous chloride (also known as Thallium(I) chloride) is a chemical compound with the formula TlCl. This colourless solid is an intermediate in the isolation of thallium from its ores. Typically, an acidic solution of thallium(I) sulfate is treated with hydrochloric acid to precipitate insoluble thallium(I) chloride. This solid crystallizes in the caesium chloride motif. It is used as a diagnostic radiopharmaceutical. It is used for diagnosis of heart and parathyroid problems. The following are among the possible side effects: Blurred vision, chest pain or discomfort, chills, confusion, cough, difficulty with breathing, difficulty with swallowing, and dizziness.
+4. Indication:  For use as a diagnostic radiopharmaceutical.It is indicated to help diagnose heart disease (eg, coronary artery disease, heart attack). It is also used for the diagnosis of parathyroid problems. 
+DrugId:  25
+1. Name:  Trastuzumab emtansine
+2. Groups:  Approved, Investigational
+3. Description:  Trastuzumab emtansine, formerly called Trastuzumab-DM1 (T-DM1) is a first-in-class HER2 antibody drug conjugate (ADC) comprised of Genentech's trastuzumab antibody linked to ImmunoGen's cell-killing agent, DM1. T-DM1 combines two strategies-- anti-HER2 activity and targeted intracellular delivery of the potent anti-microtubule agent, DM1 (a maytansine derivative)--to produce cell cycle arrest and apoptosis. Trastuzumab emtansine is marketed under the brand name Kadcyla and is indicated for use in HER2-positive, metastatic breast cancer patients who have already used taxane and/or trastuzumab for metastatic disease or had their cancer recur within 6 months of adjuvant treatment. The FDA label has two precautions. First that trastuzumab emtansine and trastuzumab cannot be interchanged. Second that there is a black box warning of serious side effects such as hepatotoxicity, embryo-fetal toxicity, and cardiac toxicity. 
+4. Indication:  Used in HER2-positive, metastatic breast cancer patients who have already used taxane and/or trastuzumab for metastatic disease or had their cancer recur within 6 months of adjuvant treatment.

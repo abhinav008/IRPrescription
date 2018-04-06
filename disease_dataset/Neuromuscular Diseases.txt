@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Atracurium
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Pipecuronium
+2. Groups:  Approved
+3. Description:  Pipecuronium is a piperazinyl androstane derivative which is a non-depolarizing neuromuscular blocking agent.
+4. Indication:  Used as a muscle relaxant during anesthesia and surgical procedures.
+DrugId:  3
+1. Name:  Pancuronium
+2. Groups:  Approved
+3. Description:  A bis-quaternary steroid that is a competitive nicotinic antagonist. As a neuromuscular blocking agent it is more potent than curare but has less effect on the circulatory system and on histamine release.
+4. Indication:  Used as a muscle relaxant during anesthesia and surgical procedures.
+DrugId:  4
+1. Name:  Canakinumab
+2. Groups:  Approved, Investigational
+3. Description:  Canakinumab is a recombinant, human anti-human-IL-1β monoclonal antibody that belongs to the IgG1/κ isotype subclass. It is expressed in a murine Sp2/0-Ag14 cell line and comprised of two 447- (or 448-) residue heavy chains and two 214-residue light chains, with a molecular mass of 145157 Daltons when deglycosylated. Both heavy chains of canakinumab contain oligosaccharide chains linked to the protein backbone at asparagine 298 (Asn 298). Canakinumab binds to human IL-1β and neutralizes its inflammatory activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1alpha or IL-1 receptor antagonist (IL-1ra). Canakinumab is marketed under the brand name Ilaris and indicated for patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). Clinical trials have established the administration of canakinumab every 2 weeks to be safe and effective, offering a considerable advantage over the existing treatment with the human IL-1 receptor antagonist, anakinra, which must be injected daily and which is often poorly tolerated by patients.
+4. Indication:  Used in patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). 
+DrugId:  5
+1. Name:  Mivacurium
+2. Groups:  Approved
+3. Description:  Mivacurium is a bisbenzylisoquinolinium based neuromuscular blocker or muscle relaxant. It binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in a block of neuromuscular transmission.
+4. Indication:  For inpatients and outpatients, as an adjunct to general anesthesia, to facilitate tracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  6
+1. Name:  Doxacurium chloride
+2. Groups:  Approved
+3. Description:  Doxacurium chloride is a long-acting, nondepolarizing skeletal muscle relaxant for intravenous administration.
+4. Indication:  Used to provide skeletal muscle relaxation as an adjunct to general anesthesia, for endotracheal intubation or to facilitate mechanical ventilation.
+DrugId:  7
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Atracurium besylate
+2. Groups:  Approved
+3. Description:  A non-depolarizing neuromuscular blocking agent with short duration of action. Its lack of significant cardiovascular effects and its lack of dependence on good kidney function for elimination provide clinical advantage over alternate non-depolarizing neuromuscular blocking agents. [PubChem]
+4. Indication:  For use, as an adjunct to general anesthesia, to facilitate endotracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  9
+1. Name:  Rapacuronium
+2. Groups:  Withdrawn
+3. Description:  Rapacuronium was withdrawn in 2001 in many countries due to risk of fatal bronchospasm.
+4. Indication:  Used in anaesthesia, to aid and enable endotracheal intubation.
+DrugId:  10
+1. Name:  Decamethonium
+2. Groups:  Approved
+3. Description:  Decamethonium is a short acting depolarizing muscle relaxant or neuromuscular blocking agent, and is used in anesthesia to induce paralysis. It is similar to acetylcholine and acts as a partial agonist of the nicotinic acetylcholine receptor.
+4. Indication:  For use as a skeletal muscle relaxant
+DrugId:  11
+1. Name:  Cisatracurium besylate
+2. Groups:  Approved
+3. Description:  Cisatracurium is a nondepolarizing skeletal muscle relaxant for intravenous administration. Cisatracurium acts on cholinergic receptors, blocking neuromuscular transmission. This action is antagonized by acetylcholinesterase inhibitors such as neostigmine. The neuromuscular block produced by cisatracurium besylate is readily antagonized by anticholinesterase agents once recovery has started. As with other nondepolarizing neuromuscular blocking agents, the more profound the neuromuscular block at the time of reversal, the longer the time required for recovery of neuromuscular function. Compared to other neuromuscular blocking agents, it is intermediate in its onset and duration of action.
+4. Indication:  For inpatients and outpatients as an adjunct to general anesthesia, to facilitate tracheal intubation, and to provide skeletal muscle relaxation during surgery or mechanical ventilation in the ICU.
+DrugId:  12
+1. Name:  Vecuronium
+2. Groups:  Approved
+3. Description:  Monoquaternary homolog of pancuronium. A non-depolarizing neuromuscular blocking agent with shorter duration of action than pancuronium. Its lack of significant cardiovascular effects and lack of dependence on good kidney function for elimination as well as its short duration of action and easy reversibility provide advantages over, or alternatives to, other established neuromuscular blocking agents. [PubChem]
+4. Indication:  Vecuronium is a muscle relaxing agent and is used as an ajunct in general anesthesia.
+DrugId:  13
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  14
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Domoic Acid
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Metocurine Iodide
+2. Groups:  Approved, Withdrawn
+3. Description:  Metocurine iodide is a benzylisoquinolinium competitive nondepolarizing neuromuscular blocking agent. It is used as an anesthesia adjunct to induce skeletal muscle relaxation and to reduce the intensity of muscle contractions in convulsive therapy Metocurine iodide has a moderate risk of inducing histamine release and has some ganglion blocking activity. Metocurine iodide can be used most advantageously if muscle twitch response to peripheral nerve stimulation is monitored to assess degree of muscle relaxation. Metocurine Iodide is no longer available on the US market. 
+4. Indication:  For use as an anesthesia adjunct to induce skeletal muscle relaxation and to reduce the intensity of muscle contractions in convulsive therapy.
+DrugId:  17
+1. Name:  Rocuronium
+2. Groups:  Approved
+3. Description:  Rocuronium (rapid onset-curonium) is a desacetoxy analogue of vecuronium with a more rapid onset of action. It is an aminosteroid non-depolarizing neuromuscular blocker or muscle relaxant used in modern anaesthesia, to facilitate endotracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.Introduced in 1994, rocuronium has rapid onset, and intermediate duration of action. It is marketed under the trade name of Zemuron in the United States and Esmeron in most other countries.There is considered to be a risk of allergic reaction to the drug in some patients (particularly those with asthma), but a similar incidence of allergic reactions has been observed by using other members of the same drug class (non-depolarizing neuromuscular blocking drugs). The γ-cyclodextrin derivative sugammadex (trade name Bridion) has been recently introduced as a novel agent to reverse the action of rocuronium.
+4. Indication:  For inpatients and outpatients as an adjunct to general anesthesia to facilitate both rapid sequence and routine tracheal intubation, and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  18
+1. Name:  Pyrantel
+2. Groups:  Approved, Vet approved
+3. Description:  Pyrantel is a pyrimidine-derivative anthelmintic agent for the oral treatment of various parasitic worm infections including ascariasis, hookworm infections, enterobiasis (pinworm infection), trichostrongyliasis, and trichinellosis [17].Pyrantel was initially described in 1965 by researchers from Pfizer who sought cyclic amidines with suitable pharmacokinetic properties (specifically, duration of action) for use as an anthelmintic drug. Pyrantel is mainly available in formulations for dogs and cats as the embonate salt, containing a 34.7% pyrantel base [14]. Pyrantel is on the World Health Organization's List of Essential Medicines, which are the safest and most effective medicines required in a functioning health system [15], [16]. A depolarizing neuromuscular-blocking agent causing longstanding nicotinic receptor activation, resulting in spastic paralysis of susceptible nematodes (worms). Pyrantel has shown to be effective after a single dose [18].In humans, it is administered as pyrantel pamoate [3],[4],[8],[12].
+4. Indication:  For the treatment of enterobiasis including roundworm (ascariasis), pinworm (enterobius) and hookworm (strongyloides) and hookworm (ancylostoma) in the pyrantel pamoate form [8].Pyrantel is available in various formulations for humans, dogs, and cats as the pamoate (US Pharmacopeia nomenclature) or embonate (European Pharmacopoeia nomenclature) salt, which contains 34.7% pyrantel base combined with pamoic acid [8]. [14], [4].Pyrantel pamoate (embonate) ingested orally is effective for removal and control of ascarid and hookworm infections in puppies and dogs (adult Toxocara canis, Toxascaris leonina, Ancylostoma tubaeforme, An. braziliense, Uncinaria stenocephala), cats (adult Toxocara cati, Toxa. leonina, An. caninum, An. braziliense, U. stenocephala), horses and ponies (adult and immature Parascaris equorum, adult Strongylus vulgaris, S. edentatus, S. equinus, Cyathostomes (Triodontophorus spp., Cyathostomum spp., Cylicodontophorus spp., Cylicocyclus spp., Cylicostephanus spp., Poteriostomum spp.), Oxyuris equi, Anoplocephala perfoliata), swine (adult Ascaris suum, Oesophagostomum dentatum), and humans (adult A. lumbricoides, Enterobius vermicularis, An. duodenale, Necator americanus) [14].
+DrugId:  19
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  20
+1. Name:  Metocurine
+2. Groups:  Approved
+3. Description:  Dimethyltubocurarinium (INN) or metocurine (USAN), also known as dimethyltubocurarine, is a non-depolarizing muscle relaxant. Patients on chronic anticonvulsant drugs are relatively resistant to metocurine. [1]
+4. Indication:  Metocurine is a muscle relaxant.
+DrugId:  21
+1. Name:  Cisatracurium
+2. Groups:  Approved, Experimental
+3. Description:  Cisatracurium is a stereoisomer of atracurium and an intermediate-onset/intermediate-duration neuromuscular blocking agent. It is a nondepolarizing skeletal muscle relaxant that competitively blocks the neurotraminssion by binding to cholinergic receptors. Cisatracurium besylate is an active ingredient in intravenously administered treatment indicated for use during surgery or other procedures as an adjunct therapy to general anesthesia in the intensive care unit to relax skeletal muscles and facilitate tracheal intubation and mechanical ventilation. It is only available as a prescription drug as designated by the FDA.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Tubocurarine
+2. Groups:  Approved
+3. Description:  A neuromuscular blocker and active ingredient in curare; plant based alkaloid of Menispermaceae. [PubChem]
+4. Indication:  Used as a diagnosis agent for myasthenia gravis, and also to facilitate the intubation after induction of anesthesia in surgical procedure
+DrugId:  23
+1. Name:  Sugammadex
+2. Groups:  Approved
+3. Description:  Sugammadex is a selective relaxant binding agent indicated for reversal of neuromuscular blockade induced by rocuronium bromide and vecuronium bromide during surgery in adults. Rocuronium bromide and vecuronium bromide are neuromuscular blocking medications that cause temporary paralysis and are especially useful for general anesthesia, ventilation, or tracheal intubation that patients may require for surgery. Sugammadex provides a new treatment option to reverse the effects of those medications and possibly help patients recover sooner post-surgery. Sugammadex (brand name Bridion) is marketed by Merck Sharp and Dohme, and was approved by the United States FDA on December 15, 2015. 
+4. Indication:  Sugammadex is indicated for the reversal of neuromuscular blockade induced by rocuronium bromide and vecuronium bromide in adults undergoing surgery.
+DrugId:  24
+1. Name:  Succinylcholine
+2. Groups:  Approved
+3. Description:  A quaternary skeletal muscle relaxant usually used in the form of its bromide, chloride, or iodide. It is a depolarizing relaxant, acting in about 30 seconds and with a duration of effect averaging three to five minutes. Succinylcholine is used in surgical, anesthetic, and other procedures in which a brief period of muscle relaxation is called for. [PubChem]
+4. Indication:  Used in surgical procedures where a rapid onset and brief duration of muscle relaxation is needed (includes intubation, endoscopies, and ECT)
+DrugId:  25
+1. Name:  Ceftazidime
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibacterial derived from cephaloridine and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+4. Indication:  For the treatment of patients with infections caused by susceptible strains of organisms in the following diseases: lower respiratory tract infections,skin and skin structure infections, urinary tract infections, bacterial septicemia, bone and joint infections, gynecologic infections, intra abdominal infections (including peritonitis), and central nervous system infections (including meningitis).

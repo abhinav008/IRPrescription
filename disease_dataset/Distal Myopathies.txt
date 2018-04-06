@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Cyclothiazide
+2. Groups:  Approved
+3. Description:  As a diuretic, cyclothiazide inhibits active chloride reabsorption at the early distal tubule via the Na-Cl cotransporter, resulting in an increase in the excretion of sodium, chloride, and water. Thiazides like cyclothiazide also inhibit sodium ion transport across the renal tubular epithelium through binding to the thiazide sensitive sodium-chloride transporter. This results in an increase in potassium excretion via the sodium-potassium exchange mechanism. The antihypertensive mechanism of cyclothiazide is less well understood although it may be mediated through its action on carbonic anhydrases in the smooth muscle or through its action on the large-conductance calcium-activated potassium (KCa) channel, also found in the smooth muscle. Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+4. Indication:  Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  2
+1. Name:  Aceneuramic acid
+2. Groups:  Investigational
+3. Description:  Aceneuramic acid has been used in trials studying the treatment of Distal Myopathy, Nonaka Type, Hereditary Inclusion Body Myopathy, and Distal Myopathy With Rimmed Vacuoles.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Hydroflumethiazide
+2. Groups:  Approved, Investigational
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p822)
+4. Indication:  Used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. Also used in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  4
+1. Name:  Quinethazone
+2. Groups:  Approved
+3. Description:  Quinethazone (INN, brand name Hydromox) is a thiazide diuretic used to treat hypertension. Common side effects include dizziness, dry mouth, nausea, and low potassium levels.
+4. Indication:  Used to treat hypertension.
+DrugId:  5
+1. Name:  Chlorothiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p812)
+4. Indication:  Chlorothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  6
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.
+DrugId:  7
+1. Name:  Benzthiazide
+2. Groups:  Approved
+3. Description:  Benzthiazide is used to treat hypertension and edema. Like other thiazides, benzthiazide promotes water loss from the body (diuretics). They inhibit Na+/Cl- reabsorption from the distal convoluted tubules in the kidneys. Thiazides also cause loss of potassium and an increase in serum uric acid. Thiazides are often used to treat hypertension, but their hypotensive effects are not necessarily due to their diuretic activity. Thiazides have been shown to prevent hypertension-related morbidity and mortality although the mechanism is not fully understood. Thiazides cause vasodilation by activating calcium-activated potassium channels (large conductance) in vascular smooth muscles and inhibiting various carbonic anhydrases in vascular tissue.
+4. Indication:  For the treatment of high blood pressure and management of edema.
+DrugId:  8
+1. Name:  Torasemide
+2. Groups:  Approved
+3. Description:  Torasemide (rINN) or torsemide (USAN) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. It is also used at low doses for the management of hypertension. It is marketed under the brand name Demadex. [Wikipedia]
+4. Indication:  For the treatment of edema associated with congestive heart failure, renal disease, or hepatic disease. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  9
+1. Name:  Spironolactone
+2. Groups:  Approved
+3. Description:  A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)
+4. Indication:  Used primarily to treat low-renin hypertension, hypokalemia, and Conn's syndrome.
+DrugId:  10
+1. Name:  Aldosterone
+2. Groups:  Experimental, Investigational
+3. Description:  A hormone secreted by the adrenal cortex that regulates electrolyte and water balance by increasing the renal retention of sodium and the excretion of potassium. [PubChem]
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Amiloride
+2. Groups:  Approved
+3. Description:  A pyrazine compound inhibiting sodium reabsorption through sodium channels in renal epithelial cells. This inhibition creates a negative potential in the luminal membranes of principal cells, located in the distal convoluted tubule and collecting duct. Negative potential reduces secretion of potassium and hydrogen ions. Amiloride is used in conjunction with diuretics to spare potassium loss. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p705)
+4. Indication:  For use as adjunctive treatment with thiazide diuretics or other kaliuretic-diuretic agents in congestive heart failure or hypertension.
+DrugId:  12
+1. Name:  Bendroflumethiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. It has been used in the treatment of familial hyperkalemia, hypertension, edema, and urinary tract disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p810)
+4. Indication:  For the treatment of high blood pressure and management of edema related to heart failure.
+DrugId:  13
+1. Name:  Trichlormethiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with properties similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p830)
+4. Indication:  Used in the treatment of oedema (including that associated with heart failure) and hypertension.
+DrugId:  14
+1. Name:  Fludrocortisone
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic mineralocorticoid with anti-inflammatory activity. [PubChem]
+4. Indication:  For partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenogenital syndrome.
+DrugId:  15
+1. Name:  Probenecid
+2. Groups:  Approved, Investigational
+3. Description:  The prototypical uricosuric agent. It inhibits the renal excretion of organic anions and reduces tubular reabsorption of urate. Probenecid has also been used to treat patients with renal impairment, and, because it reduces the renal tubular excretion of other drugs, has been used as an adjunct to antibacterial therapy. [PubChem]
+4. Indication:  For the reduction of serum uric acid concentrations in chronic gouty arthritis and tophaceous gout in patients with frequent disabling gout attacks. Has also been effectively used to promote uric acid excretion in hyperuricemia secondary to the administration of thiazide and related diuretics. 
+DrugId:  16
+1. Name:  Teduglutide
+2. Groups:  Approved
+3. Description:  Teduglutide is a glucagon-like peptide-2 (GLP-2) analogue. It is made up of 33 amino acids and is manufactured using a strain of Escherichia coli modified by recombinant DNA technology. Teduglutide differs from GLP-2 by one amino acid (alanine is substituted by glycine). The significance of this substitution is that teduglutide is longer acting than endogenous GLP-2 as it is more resistant to proteolysis from dipeptidyl peptidase-4. FDA approved on December 21, 2012.
+4. Indication:  Treatment of short bowel syndrome (SBS), malabsorption associated with the removal of the intestine, in adults patients who are dependent on parenteral support. 
+DrugId:  17
+1. Name:  Helium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Helium is a second most abundant chemical element in the universe with symbol He and atomic number 2. It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas that heads the noble gas group in the periodic table. Its boiling and melting points are the lowest among all the elements. Its clinical benefit in inhalation therapy arises from its advantageous physical properties than ambient air. Helium has lower density than air and generates less resistance than to provide improved lung ventilation. It is also used as an analytical reagent in diagnostic/imaging tests to detect respiratory function of the patient.
+4. Indication:  For use in patients who are not getting enough oxygen into their blood due to blockages in the lungs from pathological conditions or injuries. Suggested potential benefit in upper airway obstruction, in severe asthma, and in exacerbations of COPD/COLD. Helium may be used in place of carbon monoxide during laparoscopic surgeries as it lowers the risk of developing respiratory acidosis in selected patients. 
+DrugId:  18
+1. Name:  Vasopressin
+2. Groups:  Approved
+3. Description:  Antidiuretic hormone, also known as vasopressin, is a nine amino acid peptide secreted from the posterior pituitary. Antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation
+4. Indication:  For the treatment of enuresis, polyuria, diabetes insipidus, polydipsia and oesophageal varices with bleeding
+DrugId:  19
+1. Name:  Iophendylate
+2. Groups:  Approved
+3. Description:  Iophendylate is a mixture of isomers used as contrast medium, mainly for brain and spinal cord visualization. Iophendylate is a myelographic oil-ester (U.S. Patent 2,348,231). Iophendylate, which was never shown to be safe, was initially introduced for use in small amounts (1-2cc) for locating spinal tumors. It next appeared on the world scene for high volume (12-15cc), routine use, in diagnosing disc herniations. A number of clinicians have published on the dangers of oil myelography. In 1942 Van Wagenen (a neurosurgical colleague of Warrens, at the University of Rochester) identified Iophendylate as causing chemical meningitis in 30 patients where "space-displacing masses within the spinal canal were suspected".
+4. Indication:  Iophendylate is used as a contrast agent to locate spinal tumors.
+DrugId:  20
+1. Name:  Polythiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p826)
+4. Indication:  Polythiazide is a thiazide diuretic used to decrease edema and decrease blood pressure.
+DrugId:  21
+1. Name:  Chlormerodrin
+2. Groups:  Approved, Withdrawn
+3. Description:  Chlormerodrin is a mercurial compound with toxic side effects that was previously used as a diuretic. The radiolabeled form has been used as a diagnostic and research tool. It is no longer used and has been replaced with new classes of diuretic drugs.
+4. Indication:  Previously used as a diuretic. The radiolabeled form has been used as a diagnostic and research tool.
+DrugId:  22
+1. Name:  Diazoxide
+2. Groups:  Approved
+3. Description:  A benzothiadiazine derivative that is a peripheral vasodilator used for hypertensive emergencies. It lacks diuretic effect, apparently because it lacks a sulfonamide group. [PubChem]
+4. Indication:  Used parentally to treat hypertensive emergencies. Also used to treat hypoglycemia secondary to insulinoma.
+DrugId:  23
+1. Name:  Dexamethasone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anti-inflammatory 9-fluoro-glucocorticoid. [PubChem]
+4. Indication:  Injection: for the treatment of endocrine disorders, rheumatic D=disorders, collagen diseases, dermatologic diseases, allergic statesc, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, cerebral edema.Ophthalmic ointment and solution: for the treatment of steroid responsive inflammatory conditions of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe.Ophthalmic solution only: for the treatment of steroid responsive inflammatory conditions of the external auditory meatusTopic cream: for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatosesOral aerosol: for the treatment of bronchial asthma and related corticosteroid responsive bronchospastic states intractable to adequate trial of conventional therapyIntranasal aerosol: for the treatment of allergic ot inflammatory nasal conditions, and nasal polyps
+DrugId:  24
+1. Name:  Apixaban
+2. Groups:  Approved
+3. Description:  Apixaban is an oral, direct, and highly selective factor Xa (FXa) inhibitor (of both free and prothrombinase-bound FXa independently of antithrombin III) for the prevention and treatment of thromboembolic diseases. It is marketed under the name Eliquis. FDA approved on December 28, 2012.
+4. Indication:  Apixaban is to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. It has also been used to lower the risk of developing venous thrombosis post-orthopedic surgical procedures. 
+DrugId:  25
+1. Name:  Nisoldipine
+2. Groups:  Approved
+3. Description:  Nisoldipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nisoldipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Nisoldipine may be used in alone or in combination with other agents in the management of hypertension. 
+4. Indication:  For the treatment of hypertension. It may be used alone or in combination with other antihypertensive agents.

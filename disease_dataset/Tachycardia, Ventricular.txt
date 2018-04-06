@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bretylium
+2. Groups:  Approved
+3. Description:  Bretylium blocks the release of noradrenaline from the peripheral sympathetic nervous system, and is used in emergency medicine, cardiology, and other specialties for the acute management of ventricular tachycardia and ventricular fibrillation. The primary mode of action for bretylium is thought to be inhibition of voltage-gated K(+) channels. Recent evidence has shown that bretylium may also inhibit the Na,K-ATPase by binding to the extracellular K-site.
+4. Indication:  For use in the prophylaxis and therapy of ventricular fibrillation. Also used in the treatment of life-threatening ventricular arrhythmias, such as ventricular tachycardia, that have failed to respond to adequate doses of a first-line antiarrhythmic agent, such as lidocaine.
+DrugId:  2
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  3
+1. Name:  Disopyramide
+2. Groups:  Approved
+3. Description:  A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.
+DrugId:  4
+1. Name:  Mexiletine
+2. Groups:  Approved, Investigational
+3. Description:  Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties. [PubChem]
+4. Indication:  For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.
+DrugId:  5
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  6
+1. Name:  Amiodarone
+2. Groups:  Approved, Investigational
+3. Description:  An antianginal and antiarrhythmic drug. It increases the duration of ventricular and atrial muscle action by inhibiting Na,K-activated myocardial adenosine triphosphatase. There is a resulting decrease in heart rate and in vascular resistance. [PubChem]
+4. Indication:  Intravenously, for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation and hemodynamically unstable ventricular tachycardia in patients refractory to other therapy. Orally, for the treatment of life-threatening recurrent ventricular arrhythmias such as recurrent ventricular fibrillation and recurrent hemodynamically unstable ventricular tachycardia.
+DrugId:  7
+1. Name:  Tocainide
+2. Groups:  Approved
+3. Description:  An antiarrhythmic agent which exerts a potential- and frequency-dependent block of sodium channels. [PubChem]
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, that, in the judgment of the physician, are life-threatening.
+DrugId:  8
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  9
+1. Name:  Procainamide
+2. Groups:  Approved
+3. Description:  A derivative of procaine with less CNS action. [PubChem]
+4. Indication:  For the treatment of life-threatening ventricular arrhythmias.
+DrugId:  10
+1. Name:  Deslanoside
+2. Groups:  Approved
+3. Description:  Deacetyllanatoside C. A cardiotonic glycoside from the leaves of Digitalis lanata. [PubChem]
+4. Indication:  For the treatment and management of Congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  11
+1. Name:  Fenfluramine
+2. Groups:  Approved, Illicit, Investigational, Withdrawn
+3. Description:  Fenfluramine was withdrawn from the U.S. market in 1997 after reports of heart valve disease and pulmonary hypertension, including a condition known as cardiac fibrosis.
+4. Indication:  For the management of exogenous obesity as a short-term (a few weeks) adjunct in a regimen of weight reduction based on caloric restriction.
+DrugId:  12
+1. Name:  Digoxin
+2. Groups:  Approved
+3. Description:  A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone digoxigenin. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  13
+1. Name:  Propafenone
+2. Groups:  Approved
+3. Description:  An antiarrhythmia agent that is particularly effective in ventricular arrhythmias. It also has weak beta-blocking activity. The drug is generally well tolerated. [PubChem]
+4. Indication:  Used to prolong the time to recurrence of paroxysmal atrial fibrillation/flutter (PAF) associated with disabling symptoms in patients without structural heart disease. Also used for the treatment of life-threatening documented ventricular arrhythmias, such as sustained ventricular tachycardia.
+DrugId:  14
+1. Name:  Acetyldigitoxin
+2. Groups:  Approved
+3. Description:  Cardioactive derivative of lanatoside A or of digitoxin used for fast digitalization in congestive heart failure.
+4. Indication:  Used for fast digitalization in congestive heart failure.
+DrugId:  15
+1. Name:  Phenylpropanolamine
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  Phenylpropanolamine has been withdrawn in Canada and the United States. In November 2000, the Food and Drug Administration (FDA) issued a public health advisory against the use of the drug.
+4. Indication:  For the treatment of nasal congestion, control of urinary incontinence, priapism and obesity.
+DrugId:  16
+1. Name:  Esmolol
+2. Groups:  Approved
+3. Description:  Esmolol (trade name Brevibloc) is a cardioselective beta1 receptor blocker with rapid onset, a very short duration of action, and no significant intrinsic sympathomimetic or membrane stabilizing activity at therapeutic dosages.Esmolol decreases the force and rate of heart contractions by blocking beta-adrenergic receptors of the sympathetic nervous system, which are found in the heart and other organs of the body. Esmolol prevents the action of two naturally occurring substances: epinephrine and norepinephrine.
+4. Indication:  For the rapid control of ventricular rate in patients with atrial fibrillation or atrial flutter in perioperative, postoperative, or other emergent circumstances where short term control of ventricular rate with a short-acting agent is desirable. Also used in noncompensatory sinus tachycardia where the rapid heart rate requires specific intervention.
+DrugId:  17
+1. Name:  Phentolamine
+2. Groups:  Approved
+3. Description:  A nonselective alpha-adrenergic antagonist. It is used in the treatment of hypertension and hypertensive emergencies, pheochromocytoma, vasospasm of raynaud disease and frostbite, clonidine withdrawal syndrome, impotence, and peripheral vascular disease. [PubChem]
+4. Indication:  Used as an aid for the diagnosis of pheochromocytoma, and may be administered immediately prior to or during pheochromocytomectomy to prevent or control paroxysmal hypertension resulting from anesthesia, stress, or operative manipulation of the tumor. Phentolamine has also been used to treat hypertensive crisis caused by sympathomimetic amines or catecholamine excess by certain foods or drugs in patients taking MAO inhibitors, or by clonidine withdrawal syndrome. Other indications include the prevention of dermal necrosis and sloughing following IV administration or extravasation of norepinephrine, decrease in impedance to left ventricular ejection and the infarct size in patients with MI associated with left ventricular failure, treatment of erectile dysfunction through self-injection of small doses combined with papaverine hydrochloride into the corpus cavernosum, and as an adjunct to the management of cocaine overdose to reverse coronary vasoconstriction following use of oxygen, benzodiazepines,and nitroglycerin. 
+DrugId:  18
+1. Name:  Formoterol
+2. Groups:  Approved, Investigational
+3. Description:  Formoterol is a long-acting (12 hours) beta2-agonist used in the management of asthma and/or chronic obstructive pulmonary disease (COPD). Inhaled formoterol works like other beta2-agonists, causing bronchodilatation through relaxation of the smooth muscle in the airway so as to treat the exacerbation of asthma.
+4. Indication:  For use as long-term maintenance treatment of asthma in patients 6 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma, who are using optimal corticosteroid treatment and experiencing regular or frequent breakthrough symptoms requiring use of a short-acting bronchodilator. Not indicated for asthma that can be successfully managed with occasional use of an inhaled, short-acting beta2-adrenergic agonist. Also used for the prevention of exercise-induced bronchospasm, as well as long-term treatment of bronchospasm associated with COPD.
+DrugId:  19
+1. Name:  Isosorbide Mononitrate
+2. Groups:  Approved
+3. Description:  Isosorbide mononitrate is a drug used principally in the treatment of angina pectoris and acts by dilating the blood vessels so as to reduce the blood pressure. It is sold by AstraZeneca under the trade name Imdur.Isosorbide mononitrate is used to for the the prophylactic treatment of angina pectoris; that is, it is taken in order to prevent or at least reduce the occurrence of angina. Research on Isosorbide mononitrate as a cervical ripener to reduce time at hospital to birth is supportive.Isosorbide mononitrate is an active metabolite of isosorbide dinitrate and exerts qualitatively similar effects. Isosorbide mononitrate reduces the workload of the heart by producing venous and arterial dilation. By reducing the end diastolic pressure and volume, isosorbide mononitrate lowers intramural pressure, hence leading to an improvement in the subendocardial blood flow. The net effect when administering isosorbide mononitrate is therefore a reduced workload for the heart and an improvement in the oxygen supply/demand balance of the myocardium.The adverse reactions which follow have been reported in studies with isosorbide mononitrate:Very common. Headache predominates (up to 30%) necessitating withdrawal of 2 to 3 % of patients, but the incidence reduces rapidly as treatment continues .Common. Tiredness, sleep disturbances (6%) and gastrointestinal disturbances (6%) have been reported during clinical trials with isosorbide mononitrate modified release tablets, but at a frequency no greater than for placebo. Hypotension (4 to 5%), poor appetite (2.5%), nausea (1%).Adverse effects associated with the clinical use of the drug are as expected with all nitrate preparations. They occur mainly in the early stages of treatment.Hypotension (4%) with symptoms such as dizziness and nausea (1%) have been reported. These symptoms generally disappear during long-term treatment.Other reactions that have been reported with isosorbide mononitrate modified release tablets include tachycardia, vomiting, diarrhoea, vertigo and heartburn
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease and the treatment of acute and chronic angina pectoris, hypertension, and myocardial infarction.
+DrugId:  20
+1. Name:  Epoprostenol
+2. Groups:  Approved
+3. Description:  A prostaglandin that is a powerful vasodilator and inhibits platelet aggregation. It is biosynthesized enzymatically from prostaglandin endoperoxides in human vascular tissue. The sodium salt has been also used to treat primary pulmonary hypertension.
+4. Indication:  For the long-term intravenous treatment of primary pulmonary hypertension and pulmonary hypertension associated with the scleroderma spectrum of disease in NYHA Class III and Class IV patients who do not respond adequately to conventional therapy.
+DrugId:  21
+1. Name:  Losartan
+2. Groups:  Approved
+3. Description:  Losartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. Losartan and its longer acting metabolite, E-3174, lower blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); they compete with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Losartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of systolic dysfunction, myocardial infarction, coronary artery disease, and heart failure. 
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Losartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  22
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  23
+1. Name:  Tetrofosmin
+2. Groups:  Approved
+3. Description:  Tetrofosmin was developed to overcome the non-target uptake of radioligands by the generation of hetero-atomic compounds. It presents a molecular formula of 1,2-bis(bis(2-ethoxyethyl)phosphino)ethane. Tetrofosmin is part of the group of diphosphines. The sell of tetrofosmin in a freeze-dried kit is FDA approved and it is always accompanied by technetium Tc-99m as a radiopharmaceutical.[1]
+4. Indication:  Tetrofosmin is indicated to be used as a complex with technetium Tc-99m for scintigraphic imaging of the myocardium following separate administrations under exercise and/or resting conditions. It helps in the delineation of regions of reversible myocardial ischemia in absence of infarcted myocardium.[4]This complex is also used for scintigraphic imaging of the myocardium to identify changes in perfusion induced by pharmacologic stress in patients with known or suspected coronary artery disease.[4]This complex is indicated for the assessment of left ventricular function in patients evaluated for heart disease.[4]
+DrugId:  24
+1. Name:  Dextran 75
+2. Groups:  Approved
+3. Description:  Dextran 75 is a complex branched glucan with an average molecular weight 75000 Daltons. It is produced from certain bacteria that with α-1,6 glycosidic linkages between glucose molecules and α-1,3 linkages between branches. Dextrans are used therapeutically as plasma volume expanders in hypovolemia and antithrombin agents to reduce blood viscosity. When labelled with technetium Tc99m, dextran 75 is intravenously administered as an imaging agent to detect and diagnose conditions in the vascular compartment such as pericardial effusion or ventricular aneurysm.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Sulfur hexafluoride
+2. Groups:  Approved
+3. Description:  Sulfur hexafluoride is an ultrasound contrast agent indicated for use•in echocardiography to opacify the left ventricular chamber and to improve the delineation of the left ventricular endocardial border in adult patients with suboptimal echocardiograms•in ultrasonography of the liver for characterization of focal liver lesions in adult and pediatric patients
+4. Indication:  Echocardiography: Sulfur hexafluoride is indicated for use in adult patients with suboptimal echocardiograms to opacify the left ventricular chamber and to improve the delineation of the left ventricularendocardial border.Ultrasonography of the Liver: Sulfur hexafluoride is indicated for use with ultrasound of the liver in adult and pediatric patients to characterize focal liver lesions.

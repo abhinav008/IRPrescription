@@ -1,0 +1,115 @@
+DrugId:  1
+1. Name:  Tifacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in sepsis and septicemia and pneumonia.
+DrugId:  2
+1. Name:  Resatorvid
+2. Groups:  Investigational
+3. Description:  Resatorvid is an investigational compound designed for the treatment of severe sepsis.
+4. Indication:  Investigated for use/treatment in sepsis and septicemia.
+DrugId:  3
+1. Name:  Afelimomab
+2. Groups:  Investigational
+3. Description:  Afelimomab (also known as Fab 2 or MAK 195F) is an anti-TNF-α monoclonal antibody. Administration of 195F reduces the concentration of interleukin-6 in patients with sepsis.
+4. Indication:  Investigated for use/treatment in sepsis and septicemia.
+DrugId:  4
+1. Name:  Ethyl pyruvate
+2. Groups:  Investigational
+3. Description:  CTI-01 (ethyl pyruvate) is a novel anti-inflammatory agent for the treatment of critical inflammatory conditions. CTI-01 shows a potent anti-inflammatory and tissue protection activity in multiple animal models of disease including pancreatitis, ischemia-reperfusion injury, sepsis, renal injury and endotoxemia.
+4. Indication:  Investigated for use/treatment in burns and burn infections, cardiac surgery, inflammatory disorders (unspecified), ischemic reperfusion injury, and sepsis and septicemia.
+DrugId:  5
+1. Name:  Haemophilus influenzae type b strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen
+2. Groups:  Approved, Investigational
+3. Description:  Haemophilus influenzae type b strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen is a vaccine for intramuscular injection used in the prevention of invasive disease caused by Haemophilus influenzae type b. H. influenzae is a Gram-negative coccobacillus that can cause infections including sepsis and meningitis. The vaccine contains the Haemophilus influenzae type b capsular polysaccharide (polyribosyl-ribitol-phosphate, PRP), a high-molecular-weight polymer prepared from the H. influenzae type b strain 1482 grown in a semi-synthetic medium, covalently bound to tetanus toxoid [1]. The toxoid antigen is purified and toxin-inactivated.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  NOX-100
+2. Groups:  Investigational
+3. Description:  NOX-100 is the new nitric oxide (NO) neutralizing agent being developed by San Diego-based Medinox -- demonstrated its effectiveness and potential as a therapeutic to treat hemorrhagic shock. NOX-100 is the first in a series of proprietary NO neutralizing compounds Medinox is developing to bind and inactivate NO, a simple gas molecule that is a key biological messenger in the body.
+4. Indication:  Investigated for use/treatment in sepsis and septicemia.
+DrugId:  7
+1. Name:  Drotrecogin alfa
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Drotrecogin alfa is activated human protein C that is synthesized by recombinant DNA technology. It is a glycoprotein of approximately 55 kilodalton molecular weight, consisting of a heavy chain and a light chain linked by a disulfide bond. Drotrecogin alfa was withdrawn from the market after a major study indicated that it was not effective in improving outcomes in patients with sepsis. 
+4. Indication:  For reduction of mortality in patients with severe sepsis.
+DrugId:  8
+1. Name:  Eritoran
+2. Groups:  Investigational
+3. Description:  Eritoran is a structural analogue of the lipid A portion of lipopolysaccharide (LPS). It is being developed by Eisai Research Institute of Boston for the treatment of severe sepsis.
+4. Indication:  Investigated for use/treatment in sepsis and septicemia.
+DrugId:  9
+1. Name:  Thrombomodulin Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Thrombomodulin Alfa is a novel, recombinant and soluble thrombomodulin (ART-123). It is a human protein with both thrombin inhibiting and protein C stimulating activities, for the potential treatment of thromboembolism and blood clotting disorders, such as disseminated intravascular thromboembolism. [5]
+4. Indication:  Investigated for use/treatment in blood preservative, blood (blood forming organ disorders, unspecified), sepsis and septicemia, and thrombosis.
+DrugId:  10
+1. Name:  Ketanserin
+2. Groups:  Investigational
+3. Description:  Ketanserin has been investigated for the treatment of Septic Shock, Severe Sepsis, and Diabetic Foot Ulcer.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  SRT-2104
+2. Groups:  Investigational
+3. Description:  SRT2104 has been investigated for the basic science and treatment of Sepsis, PSORIASIS, Atrophy, Muscular, and Diabetes Mellitus, Type 2.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Bevacizumab
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant humanized monoclonal IgG1 antibody that binds to and inhibits the biologic activity of human vascular endothelial growth factor (VEGF). Bevacizumab contains human framework regions and the complementarity-determining regions of a murine antibody that binds to VEGF. Bevacizumab is produced in a Chinese Hamster Ovary mammalian cell expression system in a nutrient medium containing the antibiotic gentamicin and has a molecular weight of approximately 149 kilodaltons.
+4. Indication:  As part of combination therapy for metastatic colorectal cancer and HER2-negative metastatic breast cancer.
+DrugId:  13
+1. Name:  Panitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Panitumumab (ABX-EGF) is a recombinant human IgG2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (EGFR). This drug is an antineoplastic agent.
+4. Indication:  For the treatment of EGFR-expressing, metastatic colorectal carcinoma that is refractory to fluoropyrimidine-, oxaliplatin-, and irinotecan- containing chemotherapy regimens.
+DrugId:  14
+1. Name:  Tobramycin
+2. Groups:  Approved, Investigational
+3. Description:  An aminoglycoside, broad-spectrum antibiotic produced by Streptomyces tenebrarius. It is effective against gram-negative bacteria, especially the pseudomonas species. It is a 10% component of the antibiotic complex, nebramycin, produced by the same species. [PubChem]
+4. Indication:  For the treatment of pseudomonas aeruginosa lung infections. Also being investigated for use in the treatment of sinus infections.
+DrugId:  15
+1. Name:  Golimumab
+2. Groups:  Approved
+3. Description:  Golimumab is a human IgG1қ monoclonal antibody derived from immunizing genetically engineered mice with human TNFα. Golimumab binds and inhibits soluble and transmembrane human TNFα. Increased TNFα is associated with chronic inflammation. Thus golimumab is indicated for use in adults (i) as an adjunct to methotrexate treatment in patients with moderate to severe active rheumatoid arthritis (RA), (ii) alone or as an adjunct to methotrexate treatment in patients with active psoriatic arthritis (PsA), (iii) as a single agent in patients with active ankylosing spondylitis (AS), and (iv) as a single agent in patients with moderate to severe ulcerative colitis (UC) who require chronic steroids or have experienced intolerance or only a partial response to previous medications. In the U.S. and Canada, golimumab is marketed under the brand name Simponi®. The FDA label includes a black box warning of serious infections and malignancy. Additionally in children and adolescents taking golimumab, there have been lymphoma and other malignancies observed.
+4. Indication:  Used in adults (i) as an adjunct to methotrexate treatment in patients with moderate to severe active rheumatoid arthritis (RA), (ii) alone or as an adjunct to methotrexate treatment in patients with active psoriatic arthritis (PsA), (iii) as a single agent in patients with active ankylosing spondylitis (AS), and (iv) as a single agent in patients with moderate to severe ulcerative colitis (UC) who require chronic steroids or have experienced intolerance or only a partial response to previous medications.
+DrugId:  16
+1. Name:  Antithrombin III human
+2. Groups:  Approved
+3. Description:  A plasma alpha 2 glycoprotein that accounts for the major antithrombin activity of normal plasma and also inhibits several other enzymes. It is a member of the serpin superfamily.
+4. Indication:  Antithrombin III human is a human antithrombin (AT) indicated in patients with hereditary antithrombin deficiency for the treatment and prevention of thromboembolism and prevention of peri-operative and peri-partum thromboembolism
+DrugId:  17
+1. Name:  Nitric Oxide
+2. Groups:  Approved
+3. Description:  Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants.Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant.The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+4. Indication:  For the treatment of term and near-term (>34 weeks) neonates with hypoxic respiratory failure
+DrugId:  18
+1. Name:  Silver sulfadiazine
+2. Groups:  Approved, Vet approved
+3. Description:  Silver sulfadiazine is a sulfa derivative topical antibacterial used primarily on second- and third-degree burns. [Wikipedia]
+4. Indication:  Indicated as an adjunct for the prevention and treatment of wound sepsis in patients with second- and third-degree burns.
+DrugId:  19
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  20
+1. Name:  Belinostat
+2. Groups:  Approved, Investigational
+3. Description:  Belinostat is a novel agent that inhibits the enzyme histone deacetylase (HDAC) with a sulfonamide-hydroxamide structure. It was developed as an orphan drug to target hematological malignancies and solid tumors by TopoTarget. The safety and efficacy of belinostat is currently being evaluated for use in combination with traditional front-line therapies for the treatment of PTCL. Intravenous administration of the agent is available as Beleodaq as monotherapy and the dosing regimen involves a 21-day cycle. It was US-approved in July 2014 as a therapeutic agent for relapsed or refractory peripheral T-cell lymphoma.
+4. Indication:  Belinostat is indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL) with manageable safety profile. It is a potential alternative therapy for patients who did not experience adequate response to first-line drugs for PTCL. It can be used in patients with baseline thrombocytopenia [2]. 
+DrugId:  21
+1. Name:  Bendamustine
+2. Groups:  Approved, Investigational
+3. Description:  Bendamustine is a nitrogen mustard drug indicated for use in the treatment of chronic lymphocytic leukemia (CLL) and indolent B-cell non-Hodgkin lymphoma (NHL) that has progressed during or within six months of treatment with rituximab or a rituximab-containing regimen. Bendamustine is a bifunctional mechlorethamine derivative capable of forming electrophilic alkyl groups that covalently bond to other molecules. Through this function as an alkylating agent, bendamustine causes intra- and inter-strand crosslinks between DNA bases resulting in cell death. It is active against both active and quiescent cells, although the exact mechanism of action is unknown.
+4. Indication:  Bendamustine is indicated for use in the treatment of chronic lymphocytic leukemia (CLL) and indolent B-cell non-Hodgkin lymphoma (NHL) that has progressed during or within six months of treatment with rituximab or a rituximab-containing regimen.
+DrugId:  22
+1. Name:  Angiotensin II
+2. Groups:  Approved, Investigational
+3. Description:  Angiotensin II is under investigation for the treatment of Sepsis, Septic Shock, Diabetes Mellitus, and Acute Renal Failure. Angiotensin II has been investigated for the treatment, basic science, and diagnostic of Hypertension, Renin Angiotensin System, and Idiopathic Membranous Nephropathy.As of December 21, 2017 the FDA approved La Jolla Pharmaceutical's Giapreza (angiotensin II) Injection for Intravenouse Infusion for the indication of acting as a vasoconstrictor to increase blood pressure in adults with septic or other distributive shock. The novelty of the medication lies in the fact that it is the first and only use of synthetic human angiotensin II to help maintain body blood pressure. Shock is the inability to maintain blood flow to vital tissues and the potential resultant organ failure and death within hours, no matter young or o ld. As distributive shock is the most common type of shock in the inpatient setting and affects up to one third of patients in the intensive care unit, the FDA determined that there is a need for treatment options for critically ill hypotensive patients who do not adequately respond to currently available therapies.
+4. Indication:  Angiotensin II is a vasoconstrictor indicated for increasing blood pressure in adults with septic or other distributive shock [FDA Label].
+DrugId:  23
+1. Name:  Epinephrine
+2. Groups:  Approved, Vet approved
+3. Description:  The active sympathomimetic hormone from the adrenal medulla in most species. It stimulates both the alpha- and beta- adrenergic systems, causes systemic vasoconstriction and gastrointestinal relaxation, stimulates the heart, and dilates bronchi and cerebral vessels. It is used in asthma and cardiac failure and to delay absorption of local anesthetics. [PubChem]
+4. Indication:  Used to treat anaphylaxis and sepsis. Also one of the body's main adrenergic neurotransmitters.

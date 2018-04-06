@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Tesidolumab
+2. Groups:  Investigational
+3. Description:  Tesidolumab has been used in trials studying the treatment of Geographic Atrophy, Non-infectious Panuveitis, Exudative Macular Degeneration, Non-infectious Posterior Uveitis, and Age-related Macular Degeneration, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Latanoprostene Bunod
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprostene Bunod has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, Open-Angle Glaucoma, Open Angle Glaucoma, and Intraocular Pressure.As of November 2, 2017 the FDA approved Bausch + Lomb's Vyzulta (latanoprostene bunod opthalmic solution), 0.024% for the indication of reducing intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Latanoprostene bunod is the first prostaglandin analog with one of its metabolites being nitric oxide (NO). The novelty of this agent subsequently lies in the proposed dual mechanism of action that stems from both its prostaglandin F2-alpha analog latanoprost acid metabolite and its ability to donate NO for proposed tissue/cell relaxation effects.In comparison, both latanoprost and latanoprostene bunod contain a latanoprost acid backbone. Conversely however, latanoprostene bunod integrates an NO-donating moiety in lieu of the isopropyl ester typically found in latanoprost.
+4. Indication:  Latanoprostene bunod opthalmic solution is indicated for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  3
+1. Name:  Vasopressin
+2. Groups:  Approved
+3. Description:  Antidiuretic hormone, also known as vasopressin, is a nine amino acid peptide secreted from the posterior pituitary. Antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation
+4. Indication:  For the treatment of enuresis, polyuria, diabetes insipidus, polydipsia and oesophageal varices with bleeding
+DrugId:  4
+1. Name:  Diclofenamide
+2. Groups:  Approved, Investigational
+3. Description:  A carbonic anhydrase inhibitor that is used in the treatment of glaucoma. [PubChem]
+4. Indication:  For adjunctive treatment of: chronic simple (open-angle) glaucoma, secondary glaucoma, and preoperatively in acute angle-closure glaucoma where delay of surgery is desired in order to lower intraocular pressure
+DrugId:  5
+1. Name:  Felypressin
+2. Groups:  Approved
+3. Description:  A synthetic nonapeptide comprising cysteinyl, phenylalanyl, phenylalanyl, glutaminyl, asparaginyl, cysteinyl, prolyl, lysyl, and glycinamide residues in sequence, with a disulfide bridge joining the two cysteine residues. Its antidiuretic effects are less than those of vasopressin. It is used as a vasoconstrictor in local anaesthetic injections for dental use, and is an ingredient of preparations that have been used for treatment of pain and inflammation of the mouth.
+4. Indication:  For use as an alternative to adrenaline as a localising agent, provided that local ischaemia is not essential.
+DrugId:  6
+1. Name:  Carbetocin
+2. Groups:  Approved, Investigational
+3. Description:  Carbetocin is a drug used to control postpartum hemorrhage, bleeding after giving birth. It is an analogue of oxytocin, and its action is similar to that of oxytocin -- it causes contraction of the uterus.
+4. Indication:  Used to control postpartum hemorrhage and bleeding after giving birth.
+DrugId:  7
+1. Name:  Gadoteridol
+2. Groups:  Approved, Investigational
+3. Description:  Gadoteridol provides contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies. n MRI, visualization of normal and pathological brain tissue depends in part on variations in the radiofrequency signal intensity that occur with changes in proton density, alteration of the T1, and variation in T2. When placed in a magnetic field, gadoteridol shortens the T1 relaxation time in tissues where it accumulates. Abnormal vascularity or disruption of the blood-brain barrier allows accumulation of gadoteridol in lesions such as neoplasms, abscesses, and subacute infarcts.
+4. Indication:  Gadoteridol is an MRI contrast agent used for contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies.
+DrugId:  8
+1. Name:  Gadobenic acid
+2. Groups:  Approved, Investigational
+3. Description:  Gadobenic acid (in the form of gadobenate dimeglumine) is an MRI contrast agent used primarily for MR imaging of the liver. It can also be used for visualizing the CNS and heart. In contrast to conventional extracellular fluid contrast agents, gadobenate dimeglumine is characterized by a weak and transient binding capacity to serum proteins. This binding leads to an increased relaxivity of gadobenate dimeglumine and, consequently, to a considerably increased signal intensity over that of other agents.
+4. Indication:  Gadobenate Dimeglumine is an MRI contrast agent used primarily for MR imaging of the liver. It can also be used for MRI of the heart, as well as and central nervous system in adults to visualize lesions with abnormal brain vascularity or abnormalities in the blood brain barrier, the brain, spine, or other associated tissues.
+DrugId:  9
+1. Name:  Mangafodipir
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Mangafodipir is a contrast agent used as a diagnostic tool administered intravenously to enhance contrast in magnetic resonance imaging (MRI) of the liver and pancreas. It consists of two parts, the paramagnetic manganese (II) ions and the chelating agent fodipir (dipyridoxyl diphosphate, DPDP). Manganese absorption into the tissues that makes the normal tissue appear brighter in MRI is limited in abnormal or cancerous tissue. Enhanced contrast by mangafodipir improves visualization and detection of lesions of the liver formed from metastatic disease or hepatocellular carcinomas. The contrast agent is present as mangafodipir trisodium marketed under the name Teslascan. Teslascan has been removed from the Drug Product List by FDA in 2003, and withdrawn from the European market in 2012.
+4. Indication:  Indicated for use as an organ-specific paramagnetic contrast agent developed for imaging of the hepatobiliary system and detecting lesions in liver and pancreas.
+DrugId:  10
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  11
+1. Name:  Selepressin
+2. Groups:  Investigational
+3. Description:  Selepressin has been used in trials studying the treatment of Septic Shock.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Gadobutrol
+2. Groups:  Approved
+3. Description:  Intravenous gadobutrol is a second-generation extracellular non-ionic macrocyclic GBCA (gadolinium-based contrast agent) used in magnetic resonance imaging (MRI) in adults and children older than 2 years of age. It may help visualize and detect vascular abnormalities in the blood brain barrier (BBB) and central nervous system (CNS). In patients with impaired renal function, gadolinium based contrast agents increase the risk of nephrogenic systemic fibrosis (NSF). A physician should be contacted if symptoms of NSF are encountered, such as dark or red patches on the skin; stiffness in joints; trouble moving, bending or straightening arms, hands, legs or feet; burning, itching, swelling, scaling, hardening and tightening of skin; pain in hip bones or ribs; or muscle weakness. Common adverse reactions that may be experienced include headache, nausea, feeling hot, abnormal taste, and warmth, burning or pain local to the injection site. General precautions should be taken in patients who are pregnant or breastfeeding, or who have a history of allergic reaction to contrast media, bronchial asthma or an allergic respiratory disorder.
+4. Indication:  For diagnostic use only. Indicated for adults and children age 2 and over for contrast enhancement during cranial and spinal MRI, and for contrast-enhanced magnetic resonance angiography (CE-MRA). Gadobutrol is particularly suited for the detection of very small lesions and for the visualization of tumors that do not readily take up contrast media. It may be a desired agent when the exclusion or demonstration of an additional pathology may influence the choice of therapy or patient management. It may also be suitable for perfusion studies in the diagnosis of stroke, detection of focal cerebral ischemia, and in studies of tumor perfusion. 
+DrugId:  13
+1. Name:  Loperamide
+2. Groups:  Approved
+3. Description:  One of the long-acting synthetic antidiarrheals; it is not significantly absorbed from the gut, and has no effect on the adrenergic system or central nervous system, but may antagonize histamine and interfere with acetylcholine release locally. [PubChem]
+4. Indication:  For the control and symptomatic relief of acute nonspecific diarrhea and of chronic diarrhea associated with inflammatory bowel disease or gastroenteritis. Also used for reducing the volume of discharge from ileostomies.
+DrugId:  14
+1. Name:  Terlipressin
+2. Groups:  Approved, Investigational
+3. Description:  Terlipressin is an analogue of vasopressin used as a vasoactive drug in the management of hypotension. It has been found to be effective when norepinephrine does not help. [Wikipedia]
+4. Indication:  Commonly used to stop bleeding of varices in the food pipe (oesophagus).
+DrugId:  15
+1. Name:  Dibotermin alfa
+2. Groups:  Approved, Investigational
+3. Description:  Dibotermin alfa is a recombinant human bone morphogenetic protein-2 (rhBMP-2) derived from a recombinant Chinese Hamster Ovary (CHO) cell line [FDA Label]. It is implanted in patients undergoing bone surgeries or those with fractures. BMPs are subfamily of the transforming growth factor-β (TGF-β) superfamily that have different actions on the bone matrix [2]. BMP-2 is a potent osteoinductive protein that plays a critical role in the differentiation of osteoprogenitor cells into osteoblasts, thus promoting bone and cartilage formation [3]. Through enhancing osteogenesis at the site of implantation, dibotermin alfa accelerates the healing of open tibial shaft fractures and reduces the need for secondary intervention [1]. In a prospective clinical study of patients with an open tibial fracture, administration of dibotermin alfa resulted in faster fracture- or wound-healing, significantly fewer secondary invasive interventions, and reduced infection rate post-operation [1]. Dibotermin alfa was approved by the EMA in 2002 as Inductos for implantation matrix. In 2004, it was approved by the FDA and is marketed as Infuse. In Infuse, rhBMP is a disulfide-linked dimeric protein molecule with two major subunit species of 114 and 131 amino acids. Each subunit is glycosylated with high-mannose-type glycans [FDA Label].
+4. Indication:  indicated for the treatment of acute tibia fractures in adults, as an adjunct to standard care using open fracture reduction and intramedullary unreamed nail fixation [FDA Label].indicated for single-level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non-operative treatment for this condition [5].
+DrugId:  16
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  17
+1. Name:  Gadoversetamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadoversetamide is a gadolinium compound used as a contrast agent in magnetic resonance imaging (MRI), particularly imaging of the brain, spine and liver. It is marketed under the trade name OptiMARK.
+4. Indication:  Gadoversetamide is an MRI contrast agent used for MRI diagnostic procedures to provide increased enhancement and visualization of lesions of the brain, spine and liver, including tumors.
+DrugId:  18
+1. Name:  Ramucirumab
+2. Groups:  Approved, Investigational
+3. Description:  Ramucirumab is a human monoclonal antibody (IgG1) against vascular endothelial growth factor receptor 2 (VEGFR2), a type II trans-membrane tyrosine kinase receptor expressed on endothelial cells. By binding to VEGFR2, ramucirumab prevents binding of its ligands (VEGF-A, VEGF-C, and VEGF-D), thereby preventing VEGF-stimulated receptor phosphorylation and downstream ligand-induced proliferation, permeability, and migration of human endothelial cells. VEGFR stimulation also mediates downstream signalling required for angiogenesis and is postulated to be heavily involved in cancer progression, making it a highly likely drug target. In contrast to other agents directed against VEGFR-2, ramucirumab binds a specific epitope on the extracellular domain of VEGFR-2, thereby blocking all VEGF ligands from binding to it. Ramucirumab is indicated for us in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+4. Indication:  For use in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+DrugId:  19
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  20
+1. Name:  Ethylmorphine
+2. Groups:  Approved, Illicit
+3. Description:  A narcotic analgesic and antitussive. It is metabolized in the liver by ethylmorphine-N-demethylase and used as an indicator of liver function. It is not marketed in the US but is approved for use in various countries around the world. In the US it is a schedule II drug (single-entity) and schedule III drug (in combination products).
+4. Indication:  Ethylmorphine is an analgesic used for pain relief.
+DrugId:  21
+1. Name:  Doripenem
+2. Groups:  Approved, Investigational
+3. Description:  Doripenem is a broad-spectrum, carbapenem antibiotic marketed under the brand name Doribax by Janssen. Doripenem injection was approved by the FDA in 2007 to treat complicated urinary tract and intra-abdominal infections. In a clinical trial of doripenem treatment in ventilator associated pneumonia (vs. imipenem and cilastatin), it was found that doripenem carried an increased risk of death and lower clinical cure rates, resulting in a premature termination of the trial. The FDA revised the doripenem label in 2014 to include a warning against use in ventilator-associated pneumonia and to reiterate its safety and efficacy for its approved indications. 
+4. Indication:  Doripenem is indicated in the treatment of complicated intra-abdominal infections and complicated urinary tract infections, including pyelonephritis, caused by designated susceptible bacteria.
+DrugId:  22
+1. Name:  Atosiban
+2. Groups:  Approved, Investigational
+3. Description:  Atosiban is an inhibitor of the hormones oxytocin and vasopressin. It is used as an intravenous medication as a labour repressant (tocolytic) to halt premature labor. Although initial studies suggested it could be used as a nasal spray and hence would not require hospital admission, it is not used in that form. It was developed by Ferring Pharmaceuticals in Sweden and first reported in the literature in 1985. Originally marketed by Ferring Pharmaceuticals, it is licensed in proprietary and generic forms for the delay of imminent pre-term birth in pregnant adult women.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Trypan blue
+2. Groups:  Approved
+3. Description:  Trypan blue is a diazo dye used in ophthalmic cataract surgery to stain the anterior capsule in the presence of a mature cataract, to aid in visualization, before creating the continuous curvilinear capsulorhexis.
+4. Indication:  Trypan blue is indicated for use as an aid in ophthalmic surgery by staining the epiretinal membranes during ophthalmic surgical vitrectomy procedures, facilitating removal of the tissue. 
+DrugId:  24
+1. Name:  Desmopressin
+2. Groups:  Approved
+3. Description:  Desmopressin (dDAVP), a synthetic analogue of 8-arginine vasopressin (ADH), is an antidiuretic peptide drug modified by deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. ADH is an endogenous pituitary hormone that has a crucial role in the control of the water content in the body. Upon release from the stimulation of increased plasma osmolarity or decreased circulating blood volume, ADH mainly acts on the cells of the distal part of the nephron and the collecting tubules in the kidney [6]. The hormone interacts with V1, V2 or V3 receptors with differing signal cascade systems.Desmopressin displays enhanced antidiuretic potency, fewer pressor effects due to V2-selective actions, and a prolonged half-life and duration of action compared to endogenous ADH [2]. It has been employed clinically since 1972 and is available in various formulations including intranasal solution, intravenous solution, oral tablet and oral lyophilisate [3]. Desmopressin is indicated for the treatment of polyuric conditions including primary nocturnal enuresis, nocturia, and diabetes insipidus. It was also newly approved for the treatment of mild classical hemophilia and von Willebrand's disease for minor surgeries. The active ingredient in most formulations is desmopressin acetate.
+4. Indication:  Indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void (intranasal). Indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region (intranasal/parenteral).Indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5% or mild to moderate classic von Willebrand's Disease (Type I) with factor VIII levels greater than 5% during surgical procedures and postoperatively to maintain hemostasis (parenteral).
+DrugId:  25
+1. Name:  Etidronic acid
+2. Groups:  Approved
+3. Description:  A diphosphonate which affects calcium metabolism. It inhibits ectopic calcification and slows down bone resorption and bone turnover.
+4. Indication:  For the treatment of symptomatic Paget's disease of bone and in the prevention and treatment of heterotopic ossification following total hip replacement or due to spinal cord injury.

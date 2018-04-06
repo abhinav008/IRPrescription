@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lefradafiban
+2. Groups:  Investigational
+3. Description:  Lefradafiban is an oral platelet glycoprotein IIb/IIIa receptor antagonist being investigated in the treatment of angina.
+4. Indication:  For the treatment of unstable angina.
+DrugId:  2
+1. Name:  CMX-2043
+2. Groups:  Investigational
+3. Description:  CMX-2043 has been used in trials studying the treatment and prevention of Non STEMI, Unstable Angina, Stable Coronary Artery Disease, and Percutaneous Coronary Intervention.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Nadroparin
+2. Groups:  Approved, Investigational
+3. Description:  Nadroparin is a low molecular weight heparin (LMWH) which, when bound to antithrombin III (ATIII), accelerates the inactivation of factor II and factor Xa. Nadroparin halts the coagulation pathway by inhibiting the activation of thrombin (factor IIa) by factor Xa. The amplification of the fibrin clotting cascade is stopped once factors Xa and IIa are inactivated. It is derived from porcine sources and has a mean molecular size of 5000 daltons. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Nadroparin is used for prophylaxis of thromboembolic disorders and general surgery in orthopedic surgery, treatment of deep vein thrombosis, prevention of clotting during hemodialysis and treatment of unstable angina and non-Q wave myocardial infarction
+DrugId:  4
+1. Name:  Abciximab
+2. Groups:  Approved
+3. Description:  Abciximab is a Fab fragment of the chimeric human-murine monoclonal antibody 7E3. Abciximab binds to the glycoprotein (GP) IIb/IIIa receptor of human platelets and inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive molecules. It also binds to vitronectin (αvβ3) receptor found on platelets and vessel wall endothelial and smooth muscle cells.
+4. Indication:  Abciximab is indicated as an adjunct to percutaneous coronary intervention for the prevention of cardiac ischemic complications in patients undergoing percutaneous coronary intervention and in patients with unstable angina not responding to conventional medical therapy when percutaneous coronary intervention is planned within 24 hours. Abciximab is intended for use with aspirin and heparin and has been studied only in that setting.
+DrugId:  5
+1. Name:  Tirofiban
+2. Groups:  Approved
+3. Description:  Tirofiban prevents the blood from clotting during episodes of chest pain or a heart attack, or while the patient is undergoing a procedure to treat a blocked coronary artery. It is a non-peptide reversible antagonist of the platelet glycoprotein (GP) IIb/IIIa receptor, and inhibits platelet aggregation.
+4. Indication:  For treatment, in combination with heparin, of acute coronary syndrome, including patients who are to be managed medically and those undergoing PTCA or atherectomy.
+DrugId:  6
+1. Name:  Enoxaparin
+2. Groups:  Approved
+3. Description:  Enoxaparin is a low molecular weight heparin. Enoxaparin is used to prevent and treat deep vein thrombosis or pulmonary embolism, and is given as a subcutaneous injection. Enoxaparin binds to and accelerates the activity of antithrombin III. By activating antithrombin III, enoxaparin preferentially potentiates the inhibition of coagulation factors Xa and IIa. Factor Xa catalyzes the conversion of prothrombin to thrombin, so enoxaparin's inhibition of this process results in decreased thrombin and ultimately the prevention of fibrin clot formation. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  For the prophylaxis of deep vein thrombosis, which may lead to pulmonary embolism, and also for the prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin.
+DrugId:  7
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  8
+1. Name:  Bivalirudin
+2. Groups:  Approved, Investigational
+3. Description:  Bivalirudin is a synthetic 20 residue peptide (thrombin inhibitor) which reversibly inhibits thrombin. Once bound to the active site, thrombin cannot activate fibrinogen into fibrin, the crucial step in the formation of thrombus. It is administered intravenously. Because it can cause blood stagnation, it is important to monitor changes in hematocrit, activated partial thromboplastin time, international normalized ratio and blood pressure.
+4. Indication:  For treatment of heparin-induced thrombocytopenia and for the prevention of thrombosis. Bivalirudin is indicated for use in patients undergoing percutaneous coronary intervention (PCI), in patients at moderate to high risk acute coronary syndromes due to unstable angina or non-ST segment elevation in whom a PCI is planned.
+DrugId:  9
+1. Name:  Prasugrel
+2. Groups:  Approved
+3. Description:  Prasugrel, a thienopyridine derivative, is a platelet activation and aggregation inhibitor structurally and pharmacologically related to clopidogrel and ticlopidine. Similar to clopidogrel, prasugrel is a prodrug that requires enzymatic transformation in the liver to its active metabolite, R-138727. R-138727 irreversibly binds to P2Y12 type ADP receptors on platelets thus preventing activation of the GPIIb/IIIa receptor complex. As a result, inhibition of ADP-mediated platelet activation and aggregation occurs. Prasugrel was developed by Daiichi Sankyo Co. and is currently marketed in the United States and Canada in cooperation with Eli Lilly and Company for acute coronary syndromes planned for percutaneous coronary intervention (PCI). FDA approved in 2009. 
+4. Indication:  Indicated in combination with acetylsalicylic acid (ASA) to prevent atherothrombotic events in patients with acute coronary syndrome (ACS) who are to be managed with percutaneous coronary intervention (PCI). May be used in patients with unstable angina (UA), non-ST elevation myocardial infarction (NSTEMI), ST-elevation myocardial infarction (STEMI) who are to be managed with PCI. Prasugrel is not recommended in patients 75 years of age or greater, those that weigh<60kg, and patients with a history of stroke or transient ischemic attack due to increased risk of fatal and intracranial bleeding. 
+DrugId:  10
+1. Name:  Moxonidine
+2. Groups:  Approved, Investigational
+3. Description:  Moxonidine is a new-generation centrally acting antihypertensive drug approved for the treatment of mild to moderate essential hypertension. It may have a role when thiazides, beta-blockers, ACE inhibitors and calcium channel blockers are not appropriate or have failed to control blood pressure. In addition, it demonstrates favourable effects on parameters of the insulin resistance syndrome, apparently independent of blood pressure reduction.
+4. Indication:  For the treatment of mild to moderate essential or primary hypertension [7]. Effective as most first-line antihypertensives when used as monotherapy [2].
+DrugId:  11
+1. Name:  Alferminogene Tadenovec
+2. Groups:  Investigational
+3. Description:  Alferminogene Tadenovec is Cardium’s lead product candidate, is being developed for the potential treatment of myocardial ischemia that gives rise to angina symptoms associated with coronary heart disease. Alferminogene tadenovec represents a new therapeutic class of biologics designed to promote angiogenesis and thereby improve blood flow following a one-time intracoronary administration from a standard cardiac infusion catheter.
+4. Indication:  Investigated for use/treatment in angina, coronary artery disease, and heart disease.
+DrugId:  12
+1. Name:  Fondaparinux sodium
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux (Arixtra) is a synthetic pentasaccharide anticoagulant. Apart from the O-methyl group at the reducing end of the molecule, the identity and sequence of the five monomeric sugar units contained in fondaparinux is identical to a sequence of five monomeric sugar units that can be isolated after either chemical or enzymatic cleavage of the polymeric glycosaminoglycan heparin and heparan sulfate (HS). This monomeric sequence in heparin and HS is thought to form the high affinity binding site for the natural anti-coagulant factor, antithrombin III (ATIII). Binding of heparin/HS to ATIII has been shown to increase the anti-coagulant activity of antithrombin III 1000-fold. Fondaparinux potentiates the neutralizing action of ATIII on activated Factor X 300-fold. Fondaparinux may be used: to prevent venous thromboembolism in patients who have undergone orthopedic surgery of the lower limbs (e.g. hip fracture, hip replacement and knee surgery); to prevent VTE in patients undergoing abdominal surgery who are are at high risk of thromboembolic complications; in the treatment of deep vein thrombosis (DVT) and pumonary embolism (PE); in the management of unstable angina (UA) and non-ST segment elevation myocardial infarction (NSTEMI); and in the management of ST segment elevation myocardial infarction (STEMI).
+4. Indication:  Approved for: (1) prophylaxis of VTE for up to one month post surgery in patients undergoing orthopedic surgery of the lower limbs such as hip fracture, hip replacement and knee surgery; (2) prophylaxis of VTE patients undergoing abdominal surgery who are at high risk of thromboembolic complications (e.g. patients undergoing abdominal cancer surgery); (3) treatment of acute DVT and PE; (4) management of UA and NSTEMI for the prevention of death and subsequent myocardial infarction (MI); and (5) management of STEMI for the prevention of death and myocardial reinfarction in patients who are managed with thrombolytics or who are initially to receive no form of reperfusion therapy. Fondaparinux should not be used as the sole anticoagulant during percutaneous coronary intervention (PCI) due to an increased risk of guiding catheter thrombosis. 
+DrugId:  13
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  14
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  15
+1. Name:  Perhexiline
+2. Groups:  Approved, Investigational
+3. Description:  2-(2,2-Dicyclohexylethyl)piperidine. Coronary vasodilator used especially for angina of effort. It may cause neuropathy and hepatitis. [PubChem]
+4. Indication:  For the management of severe angina pectoris.
+DrugId:  16
+1. Name:  Bevantolol
+2. Groups:  Approved
+3. Description:  Bevantolol is a beta-1 adrenoceptor antagonist that has been shown to be as effective as other beta blockers for the treatment of angina pectoris and hypertension. Mechanism of Action Animal experiments confirm both agonist and antagonist effects on alpha-receptors, in addition to antagonist activity at beta-1 receptors.
+4. Indication:  For the treatment of angina pectoris and hypertension.
+DrugId:  17
+1. Name:  Fradafiban
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in angina.
+DrugId:  18
+1. Name:  Fenoxaprop-ethyl
+2. Groups:  Investigational
+3. Description:  Fenoxaprop-ethyl (organic nitrate combined with L-arginine), is an oral proprietary nitrate therapeutic shown to induce coronary vasodilation while overcoming the significant problem of drug tolerance. Fenoxaprop-ethyl has been investigated to treat chronic angina, the chest pain that occurs from inadequate blood flow to the coronary arteries around the heart.
+4. Indication:  Chronic angina and Coronary Artery Disease 
+DrugId:  19
+1. Name:  Bromelains
+2. Groups:  Approved, Experimental
+3. Description:  Bromelain is a protease enzyme derived from the stems of pineapples that is composed of a mixture of different thiol endopeptidases and other components like phosphatase, glucosidase, peroxidase, cellulase, escharase, and several protease inhibitors [2]. It works by selectively inhibiting the biosynthesis of proinflammatory prostaglandins [1] and also has analgesic properties, as well as anticancerous and pro-apoptotic effects. Bromelain holds potential therapeutic effect as a treatment of conditions including angina pectoris, bronchitis, sinusitis, surgical trauma, and osteoarthritis. It is considered as a safe food supplement.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Hypochlorite
+2. Groups:  Approved
+3. Description:  Hypochlorite is an ion composed of chlorine and oxygen with the chemical formula ClO−. Being unstable in the pure form, hypochlorite is present in aqueous solutions and is used for bleaching, disinfectation, and water treatment purposes. It is commonly used as a chemical reagent for chlorination and oxidation reactions.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Iroxanadine
+2. Groups:  Investigational
+3. Description:  BRX-235 (iroxanadine) is a a novel small molecule synthesized by Biorex, Hungary that acts as a cardioprotective agent. It induces phosphorylation of p38 SAPK, which plays an important role in EC homeostasis. endothelial cell (EC). EC function plays a central role in vascular diseases (e.g. atherosclerosis, restenosis, diabetic angiopathies, microvascular angina, peripheral arterial disease). BRX-235 also causes translocation of calcium-dependent protein kinase C isoform to membranes.
+4. Indication:  Investigated for use/treatment in atherosclerosis and vascular diseases as a cardioprotective agent. Its use has also been suggested for the prevention of early restenosis following vascular surgery or balloon angioplasty.
+DrugId:  22
+1. Name:  Isosorbide Mononitrate
+2. Groups:  Approved
+3. Description:  Isosorbide mononitrate is a drug used principally in the treatment of angina pectoris and acts by dilating the blood vessels so as to reduce the blood pressure. It is sold by AstraZeneca under the trade name Imdur.Isosorbide mononitrate is used to for the the prophylactic treatment of angina pectoris; that is, it is taken in order to prevent or at least reduce the occurrence of angina. Research on Isosorbide mononitrate as a cervical ripener to reduce time at hospital to birth is supportive.Isosorbide mononitrate is an active metabolite of isosorbide dinitrate and exerts qualitatively similar effects. Isosorbide mononitrate reduces the workload of the heart by producing venous and arterial dilation. By reducing the end diastolic pressure and volume, isosorbide mononitrate lowers intramural pressure, hence leading to an improvement in the subendocardial blood flow. The net effect when administering isosorbide mononitrate is therefore a reduced workload for the heart and an improvement in the oxygen supply/demand balance of the myocardium.The adverse reactions which follow have been reported in studies with isosorbide mononitrate:Very common. Headache predominates (up to 30%) necessitating withdrawal of 2 to 3 % of patients, but the incidence reduces rapidly as treatment continues .Common. Tiredness, sleep disturbances (6%) and gastrointestinal disturbances (6%) have been reported during clinical trials with isosorbide mononitrate modified release tablets, but at a frequency no greater than for placebo. Hypotension (4 to 5%), poor appetite (2.5%), nausea (1%).Adverse effects associated with the clinical use of the drug are as expected with all nitrate preparations. They occur mainly in the early stages of treatment.Hypotension (4%) with symptoms such as dizziness and nausea (1%) have been reported. These symptoms generally disappear during long-term treatment.Other reactions that have been reported with isosorbide mononitrate modified release tablets include tachycardia, vomiting, diarrhoea, vertigo and heartburn
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease and the treatment of acute and chronic angina pectoris, hypertension, and myocardial infarction.
+DrugId:  23
+1. Name:  Nilvadipine
+2. Groups:  Approved, Investigational
+3. Description:  Nilvadipine is a calcium channel blocker (CCB) for treatment of hypertension.
+4. Indication:  For the management of vasospastic angina, chronic stable angina and hypertension.
+DrugId:  24
+1. Name:  Varespladib methyl
+2. Groups:  Investigational
+3. Description:  Varespladib methyl has been investigated for the treatment of Acute Coronary Syndrome. Studies showed that Varespladib methyl treatment resulted in significant positive changes on lipoproteins and inflammation.
+4. Indication:  Investigated for use/treatment in atherosclerosis and coronary artery disease.
+DrugId:  25
+1. Name:  Isosorbide Dinitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator used in the treatment of angina pectoris. Its actions are similar to nitroglycerin but with a slower onset of action. [PubChem]
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease.

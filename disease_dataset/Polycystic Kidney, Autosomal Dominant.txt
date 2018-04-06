@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Imidapril
+2. Groups:  Investigational
+3. Description:  Imidapril has been investigated for the treatment of Kidney, Polycystic, Autosomal Dominant.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Emodin
+2. Groups:  Investigational
+3. Description:  Emodin has been investigated for the treatment of Polycystic Kidney.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Alirocumab
+2. Groups:  Approved
+3. Description:  Alirocumab is a biopharmaceutical drug approved by the FDA in July 2015 as a second line treatment for high cholesterol for adults whose LDL-cholesterol (LDL-C) is not controlled by diet and statin treatment. It is a human monoclonal antibody administered by subcutaneous injection that belongs to a novel class of anti-cholesterol drugs, known as PCSK9 inhibitors, and it was the first such agent to receive FDA approval. The FDA approval was contingent on the completion of further clinical trials to better determine efficacy and safety. PCSK9 inhibition facilitates more LDL-C clearance from the blood.
+4. Indication:  Alirocumab is indicated as an adjunct to diet and maximally tolerated statin therapy in adults who require additional LDL-cholesterol (LDL-C) lowering due to heterozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease.
+DrugId:  4
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  5
+1. Name:  Kidney bean
+2. Groups:  Approved
+3. Description:  Kidney bean allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ecallantide
+2. Groups:  Approved, Investigational
+3. Description:  Ecallantide is a potent and selective human plasma kallikrein inhibitor that is indicated for the symptomatic treatment of hereditary angioedema. Ecallantide is a recombinant 60-amino-acid protein produced in Pichia pastoris yeast cells that contains three intramolecular disulfide bonds [FDA Label]. It was discovered by phage display technology [4]. It shares sequence similarities with the naturally occurring human protein tissue-factor pathway inhibitor (TFPI), which is also known lipoprotein-associated coagulation inhibitor (LACI) [5]. The amino acid sequence of two compounds differ by seven amino acids [5]. Ecallantide works by blocking kallikrein to participate in the kallikrein-kinin system, which is a complex proteolytic cascade that initiates inflammatory and coagulation pathways [FDA Label]. The protease plasma kallikerin facilitates the conversion of kininogen to bradykinin, which is a pro-inflammatory vasodilator that increases vascular permeability and induces pain [1]. Hereditary angioedema is a rare autosomal dominant disorder with mutations to C1-esterase-inhibitor (C1-INH) located on Chromosome 11q, resulting in substantially lower levels of C4 and C1-INH activity [FDA Label]. The disorder is associated with recurrent attacks of severe swelling and is thought to be caused by unregulated activity of kallikrein and excessive bradykinin production [FDA Label]. By reversibly binding to plasma kallikrein, ecallantide displays a rapid on-rate and a slow off-rate that results in high affinity inhibition in the picomolar range [5]. Ecallantide is marketed by FDA and EMA under the trade name Kalbitor for subcutaneous injection. Apart from its FDA and EMA indication, ecallantide has been used off label in the management of nonhistaminergic angioedema, not due to HAE [4].
+4. Indication:  Indicated for the symptomatic treatment of acute attacks of hereditary angioedema (HAE) in patients 12 years of age and older [FDA Label].
+DrugId:  7
+1. Name:  Q-Derp1
+2. Groups:  Investigational
+3. Description:  Q-Derp1 is developed by Cytos Biotechnology as an immunodrug. It is an antigen for the prevention of various major chronic diseases. Derp1 is the dominant allergic protein found in dust mite feces.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Dichloroisoproterenol
+2. Groups:  Investigational
+3. Description:  Dichloroisoproterenol has been used in trials studying the treatment and basic science of Insulin Resistance and Polycystic Ovary Syndrome.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Romiplostim
+2. Groups:  Approved
+3. Description:  Romiplostim is a thrombopoiesis stimulating dimer Fc-peptide fusion protein (peptibody) to increase platelet production through activation of the thrombopoietin receptor. The peptibody molecule has two identical single-chain subunits, each one is made up of 269 amino acid residues. Each subunit consists of an IgG1 Fc carrier domain that is covalently attached to a polypeptide sequence that contains two binding domains to interact with thrombopoietin receptor c-Mpl. Each domain consists of 14 amino acids. Interestingly, romiplostim's amino acid sequence is not similar to that of endogenous thrombopoietin. Romiplostim is produced by recombinant DNA technology in Escherichia coli. FDA approved on August 22, 2008.
+4. Indication:  Treatment of chronic immune thrombocytopenic purpura. 
+DrugId:  10
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Dirucotide
+2. Groups:  Investigational
+3. Description:  Dirucotide is a synthetic peptide that consists of 17 amino acids linked in a sequence identical to that of a portion of human myelin basic protein (MBP). Dirucotide has been developed for the treatment of multiple sclerosis (MS). Developed at the University of Alberta, dirucotide is being investigated by BioMS Medical Corp.
+4. Indication:  For the treatment of multiple sclerosis (MS).
+DrugId:  12
+1. Name:  Ferric cation
+2. Groups:  Approved
+3. Description:  Ferric citrate (tetraferric tricitrate decahydrate) is a phosphate binder indicated for the control of serum phosphorus levels in patients with chronic kidney disease on dialysis.
+4. Indication:  For the control of serum phosphorus levels in patients with chronic kidney disease on dialysis.
+DrugId:  13
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  14
+1. Name:  Vonapanitase
+2. Groups:  Investigational
+3. Description:  Vonapanitase is under investigation for the treatment of Chronic Kidney Disease.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Edifoligide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, peripheral vascular disease, and kidney disease.
+DrugId:  16
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Glucarpidase
+2. Groups:  Approved, Investigational
+3. Description:  Glucarpidase is the recombinant form of the Pseudomonas sp. (strain RS-16) enzyme carboxypeptidase G2 that is produced in Escherichia coli. In patients, glucarpidase inactivates methotrexate, and other antifolates, by hydrolyzing glutamate on the carboxyl terminal of these compounds. Therefore since methotrexate is eliminated enzymatically and not by the kidneys, glucarpidase is indicated in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (>1 micromole per liter). Glucarpidase is marketed under the brand name Voraxaze®.
+4. Indication:  Used in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (> 1 micromole per liter).
+DrugId:  18
+1. Name:  Methoxyamine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  19
+1. Name:  Pimagedine
+2. Groups:  Investigational
+3. Description:  Pimagedine has been developed by Synvista Therapeutics, Inc for the treatment of diabetic kidney disease. It is an advanced glycation end product inhibitor which manages diabetic nephropathy, either alone or in combination with other therapies. It is beneficial in treating patients with diabetic nephropathy.
+4. Indication:  Investigated for use/treatment in diabetic kidney disease.
+DrugId:  20
+1. Name:  Methoxy polyethylene glycol-epoetin beta
+2. Groups:  Approved
+3. Description:  Methoxy polyethylene glycol-epoetin beta is a chemically synthesised Erythropoiesis Stimulating Agent (ESA) with a longer half-life than erythropoietin. ESA is used to increase synthesis of red blood cells to treat chronic kidney disease associated anemia.
+4. Indication:  For the treatment of patients with anaemia associated with chronic kidney disease. Not a substitute for RBC transfusion if immediate correction of anemia is required.
+DrugId:  21
+1. Name:  Technetium Tc-99m nofetumomab merpentan
+2. Groups:  Approved, Withdrawn
+3. Description:  Technetium Tc-99m nofetumomab merpentan (Tc-99m nm) consists of a Fab fragment of an IgG2b of the pancarcinoma murine antibody NR-LU-10.[1] The NR-LU-10 antibody is directed against a 40 kDa glycoprotein antigen expressed in a variety of cancers and some normal tissues.[FDA Label] Tc-99m nm was developed by Boehringer Ingelheim Pharma KG and FDA approved on September 14, 1992. It was after discontinued on August 13, 2013, but in the 2018 FDA submission list, it can be found as a substance type II (Drug substance) with an active status.[8, 9]
+4. Indication:  Tc-99m nm is one of the technetium-labeled antibodies and it is indicated for the detection of small-cell lung cancer.[3] The small cell lung cancer is a syndrome characterized by the abnormal and uncontrolled cell growth and it is characterized by a shorter doubling time, higher growth fraction and earlier development of metastases.[4]
+DrugId:  22
+1. Name:  CR002
+2. Groups:  Investigational
+3. Description:  CR002 is a novel investigational fully human monoclonal antibody that blocks the activity of excess platelet-derived growth factor-D (PDGF-D), a target shown to play a role in kidney inflammation. This is a novel therapeutic approach to treat kidney inflammation.
+4. Indication:  Investigated for use/treatment in nephropathy.
+DrugId:  23
+1. Name:  Tabalumab
+2. Groups:  Investigational
+3. Description:  Tabalumab has been used in trials studying the treatment of Autoimmune Disease, Rheumatoid Arthritis, Kidney Failure, Chronic, Connective Tissue Disease, and Systemic Lupus Erythematosus, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Coagulation factor X human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation Factor X (Human), is a plasma-derived human blood coagulation factor is used by adults and children (aged 12 years and above) with hereditary Factor X deficiency. However its use is limited in the perioperative setting for the management of bleeding in major surgery in patients with moderate and severe hereditary Factor X deficiency. Coagulation Factor X is a vitamin K-dependent, liver-produced serine protease that serves as the first enzyme in the coagulation cascade to form fibrin. It is a two-chain glycoprotein with the molecular weight of approximately 59 kDa [2]. While Factor X normally circulates in the plasma as inactive molecules, the activation of Factor X is involved in both the intrinsic and extrinsic coagulation pathways. Inherited factor X deficiency is a rare autosomal recessive bleeding disorder that is estimated to occur in 1:1 000 000 individuals up to 1:500 carriers [1]. Administration of coagulation Factor X from healthy donor serves to restore and achieve effective hemostasis. Coagulation Factor X (Human) solution is approved by the FDA for intravenous injection under the market name Coagadex which contains normally 100 IU/mL of coagulation Factor X derived from healthy donors who have passed viral screening tests [FDA Label].
+4. Indication:  Indicated in adults and children (aged 12 years and above) with hereditary Factor X deficiency for on-demand treatment and control of bleeding episodes, or for perioperative management of bleeding in patients with mild hereditary Factor X deficiency [FDA Label]. 
+DrugId:  25
+1. Name:  Manitimus
+2. Groups:  Investigational
+3. Description:  FK778, a novel compound with multiple mechanisms of action, is efficacious, well tolerated and safe in kidney transplant patients, potentially offering a breakthrough in immunosuppressive therapy.
+4. Indication:  Investigated for use/treatment in immunosuppressive and transplant (rejection).

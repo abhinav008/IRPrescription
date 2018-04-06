@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Mafenide
+2. Groups:  Approved, Vet approved
+3. Description:  Mafenide is a sulfonamide-type medication used to treat severe burns. It acts by reducing the bacterial population present in the burn tissue and promotes healing of deep burns. 
+4. Indication:  Mafenide is indicated in the treatment of severe burns.
+DrugId:  2
+1. Name:  Phenazopyridine
+2. Groups:  Approved
+3. Description:  A local anesthetic that has been used in urinary tract disorders. Its use is limited by problems with toxicity (primarily blood disorders) and potential carcinogenicity. [PubChem]
+4. Indication:  For the symptomatic relief of pain, burning, urgency, frequency, and other discomforts arising from irritation of the lower urinary tract mucosa caused by infection, trauma, surgery, endoscopic procedures, or the passage of sounds or catheters.
+DrugId:  3
+1. Name:  Flutamide
+2. Groups:  Approved, Investigational
+3. Description:  An antiandrogen with about the same potency as cyproterone in rodent and canine species.
+4. Indication:  For the management of locally confined Stage B2-C and Stage D2 metastatic carcinoma of the prostate
+DrugId:  4
+1. Name:  Isometheptene
+2. Groups:  Approved
+3. Description:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.
+4. Indication:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.
+DrugId:  5
+1. Name:  Amyl Nitrite
+2. Groups:  Approved
+3. Description:  Amyl Nitrite is an antihypertensive medicine. Amyl nitrite is employed medically to treat heart diseases such as angina and to treat cyanide poisoning. Like other alkyl nitrites, amyl nitrite is bioactive in mammals, being a vasodilator which is the basis of its use as a prescription medicine. As an inhalant, it also has psychoactive effect which has led to illegal drug use.
+4. Indication:  For the rapid relief of angina pectoris.
+DrugId:  6
+1. Name:  Methylene blue
+2. Groups:  Approved, Investigational
+3. Description:  Methylene blue has been found to have many uses in medicine. It has been widely used in Africa to treat malaria, but now it disappeared when chloroquine (CQ) and other drugs entered the market. It has been used as well for treatment of methemoglobinemia and other conditions. Methylene blue could also be used as urinary tract antiseptic. Methylthioninium chloride (INN, or methylene blue, proposed trade name Rember) is an investigational drug being developed by the University of Aberdeen and TauRx Therapeutics that has been shown in early clinical trials to be an inhibitor of Tau protein aggregation. The drug is of potential interest for the treatment of patients with Alzheimer's disease.
+4. Indication:  Methylene blue has several indications in medicine:1. found to improve the hypotension associated with various clinical states.2. Antiseptic in urinary tract infections.3. Improves hypoxia and hyper dynamic circulation in cirrhosis of liver and severe hepatopulmonary syndrome.4. Results in transient and reproducible improvement in blood pressure and cardiac function in septic shock.5. Investigated for the treatment of Alzheimer's disease.6. Treatment of ifofosamide induced neurotoxicity.
+DrugId:  7
+1. Name:  Sulfadiazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections. [PubChem]
+4. Indication:  For the treatment of rheumatic fever and meningococcal meningitis
+DrugId:  8
+1. Name:  Nitric Oxide
+2. Groups:  Approved
+3. Description:  Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants.Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant.The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+4. Indication:  For the treatment of term and near-term (>34 weeks) neonates with hypoxic respiratory failure
+DrugId:  9
+1. Name:  Nitroglycerin
+2. Groups:  Approved, Investigational
+3. Description:  A volatile vasodilator which relieves angina pectoris by stimulating guanylate cyclase and lowering cytosolic calcium. [PubChem]
+4. Indication:  For the prevention of angina
+DrugId:  10
+1. Name:  Prilocaine
+2. Groups:  Approved
+3. Description:  A local anesthetic that is similar pharmacologically to lidocaine. Currently, it is used most often for infiltration anesthesia in dentistry. (From AMA Drug Evaluations Annual, 1992, p165)
+4. Indication:  Used as a local anaesthetic and is often used in dentistry.
+DrugId:  11
+1. Name:  Dapsone
+2. Groups:  Approved, Investigational
+3. Description:  A sulfone active against a wide range of bacteria but mainly employed for its actions against mycobacterium leprae. Its mechanism of action is probably similar to that of the sulfonamides which involves inhibition of folic acid synthesis in susceptible organisms. It is also used with pyrimethamine in the treatment of malaria. (From Martindale, The Extra Pharmacopoeia, 30th ed, p157-8)
+4. Indication:  For the treatment and management of leprosy and dermatitis herpetiformis.
+DrugId:  12
+1. Name:  Nitroprusside
+2. Groups:  Approved, Investigational
+3. Description:  Nitroprusside serves as a source of nitric oxide, a potent peripheral vasodilator that affects both arterioles and venules (venules more than arterioles). Nitroprusside is often administered intravenously to patients who are experiencing a hypertensive emergency. [Wikipedia]
+4. Indication:  For immediate reduction of blood pressure of patients in hypertensive crises, reduce bleeding during surgery, and for the treatment of acute congestive heart failure
+DrugId:  13
+1. Name:  Isosorbide Dinitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator used in the treatment of angina pectoris. Its actions are similar to nitroglycerin but with a slower onset of action. [PubChem]
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease.
+DrugId:  14
+1. Name:  Nitrous acid
+2. Groups:  Approved, Investigational
+3. Description:  Nitrous acid (as sodium nitrite) is used as part of an intravenous mixture with sodium thiosulfate to treat cyanide poisoning. It is on the World Health Organization's List of Essential Medicines, a list of the most important medications needed in a basic health system. There is also research to investigate its applicability towards treatments for heart attacks, brain aneurysms, pulmonary hypertension in infants, and Pseudomonas aeruginosa infections.
+4. Indication:  For sequential use with sodium thiosulfate for the treatment of acute cyanide poisoning that is judged to be life-threatening [FDA Label].
+DrugId:  15
+1. Name:  Primaquine
+2. Groups:  Approved
+3. Description:  An aminoquinoline that is given by mouth to produce a radical cure and prevent relapse of vivax and ovale malarias following treatment with a blood schizontocide. It has also been used to prevent transmission of falciparum malaria by those returning to areas where there is a potential for re-introduction of malaria. Adverse effects include anemias and GI disturbances. (From Martindale, The Extra Pharmacopeia, 30th ed, p404)
+4. Indication:  For the treatment of malaria.
+DrugId:  16
+1. Name:  Antipyrine
+2. Groups:  Approved, Investigational
+3. Description:  An analgesic and antipyretic that has been given by mouth and as ear drops. Antipyrine is often used in testing the effects of other drugs or diseases on drug-metabolizing enzymes in the liver. (From Martindale, The Extra Pharmacopoeia, 30th ed, p29)
+4. Indication:  Antipyrine is an analgesic often used to test effects of other drugs on liver enzymes..
+DrugId:  17
+1. Name:  Chloroquine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  The prototypical antimalarial agent with a mechanism that is not well understood. It has also been used to treat rheumatoid arthritis, systemic lupus erythematosus, and in the systemic therapy of amebic liver abscesses.
+4. Indication:  For the suppressive treatment and for acute attacks of malaria due to P. vivax, P.malariae, P. ovale, and susceptible strains of P. falciparum, Second-line agent in treatment of Rheumatoid Arthritis
+DrugId:  18
+1. Name:  Isosorbide Mononitrate
+2. Groups:  Approved
+3. Description:  Isosorbide mononitrate is a drug used principally in the treatment of angina pectoris and acts by dilating the blood vessels so as to reduce the blood pressure. It is sold by AstraZeneca under the trade name Imdur.Isosorbide mononitrate is used to for the the prophylactic treatment of angina pectoris; that is, it is taken in order to prevent or at least reduce the occurrence of angina. Research on Isosorbide mononitrate as a cervical ripener to reduce time at hospital to birth is supportive.Isosorbide mononitrate is an active metabolite of isosorbide dinitrate and exerts qualitatively similar effects. Isosorbide mononitrate reduces the workload of the heart by producing venous and arterial dilation. By reducing the end diastolic pressure and volume, isosorbide mononitrate lowers intramural pressure, hence leading to an improvement in the subendocardial blood flow. The net effect when administering isosorbide mononitrate is therefore a reduced workload for the heart and an improvement in the oxygen supply/demand balance of the myocardium.The adverse reactions which follow have been reported in studies with isosorbide mononitrate:Very common. Headache predominates (up to 30%) necessitating withdrawal of 2 to 3 % of patients, but the incidence reduces rapidly as treatment continues .Common. Tiredness, sleep disturbances (6%) and gastrointestinal disturbances (6%) have been reported during clinical trials with isosorbide mononitrate modified release tablets, but at a frequency no greater than for placebo. Hypotension (4 to 5%), poor appetite (2.5%), nausea (1%).Adverse effects associated with the clinical use of the drug are as expected with all nitrate preparations. They occur mainly in the early stages of treatment.Hypotension (4%) with symptoms such as dizziness and nausea (1%) have been reported. These symptoms generally disappear during long-term treatment.Other reactions that have been reported with isosorbide mononitrate modified release tablets include tachycardia, vomiting, diarrhoea, vertigo and heartburn
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease and the treatment of acute and chronic angina pectoris, hypertension, and myocardial infarction.
+DrugId:  19
+1. Name:  Zopiclone
+2. Groups:  Approved
+3. Description:  Zopiclone is a novel hypnotic agent used in the treatment of insomnia. Its mechanism of action is based on modulating benzodiazepine receptors. In addition to zopiclone's benzodiazepine pharmacological properties it also has some barbiturate like properties.
+4. Indication:  For the short-term treatment of insomnia.
+DrugId:  20
+1. Name:  Phenytoin
+2. Groups:  Approved, Vet approved
+3. Description:  An anticonvulsant that is used in a wide variety of seizures. It is also an anti-arrhythmic and a muscle relaxant. The mechanism of therapeutic action is not clear, although several cellular actions have been described including effects on ion channels, active transport, and general membrane stabilization. The mechanism of its muscle relaxant effect appears to involve a reduction in the sensitivity of muscle spindles to stretch. Phenytoin has been proposed for several other therapeutic uses, but its use has been limited by its many adverse effects and interactions with other drugs. [PubChem]
+4. Indication:  For the control of generalized tonic-clonic (grand mal) and complex partial (psychomotor, temporal lobe) seizures and prevention and treatment of seizures occurring during or following neurosurgery.
+DrugId:  21
+1. Name:  Celecoxib
+2. Groups:  Approved, Investigational
+3. Description:  Celecoxib is a non-steroidal anti-inflammatory drug (NSAID) used in the treatment of osteoarthritis, rheumatoid arthritis, acute pain, painful menstruation and menstrual symptoms, and to reduce numbers of colon and rectum polyps in patients with familial adenomatous polyposis. It is marketed by Pfizer under the brand name Celebrex. In some countries, it is branded Celebra. Celecoxib is available by prescription in capsule form.
+4. Indication:  For relief and management of osteoarthritis (OA), rheumatoid arthritis (RA), juvenile rheumatoid arthritis (JRA), ankylosing spondylitis, acute pain, primary dysmenorrhea and oral adjunct to usual care for patients with familial adenomatous polyposis
+DrugId:  22
+1. Name:  Atovaquone
+2. Groups:  Approved
+3. Description:  A hydroxynaphthoquinone that has antimicrobial activity and is being used in antimalarial protocols. [PubChem]
+4. Indication:  For the treatment or prevention of Pneumocystis carinii pneumonia in patients who are intolerant to trimethoprim-sulfamethoxazole (TMP-SMX). Also indicated for the acute oral treatment of mild to moderate PCP in patients who are intolerant to TMP-SMX.
+DrugId:  23
+1. Name:  Metoclopramide
+2. Groups:  Approved, Investigational
+3. Description:  A dopamine D2 antagonist that is used as an antiemetic.
+4. Indication:  For the treatment of gastroesophageal reflux disease (GERD). It is also used in treating nausea and vomiting, and to increase gastric emptying.
+DrugId:  24
+1. Name:  Quinine
+2. Groups:  Approved
+3. Description:  An alkaloid derived from the bark of the cinchona tree. It is used as an antimalarial drug, and is the active ingredient in extracts of the cinchona that have been used for that purpose since before 1633. Quinine is also a mild antipyretic and analgesic and has been used in common cold preparations for that purpose. It was used commonly and as a bitter and flavoring agent, and is still useful for the treatment of babesiosis. Quinine is also useful in some muscular disorders, especially nocturnal leg cramps and myotonia congenita, because of its direct effects on muscle membrane and sodium channels. The mechanisms of its antimalarial effects are not well understood. [PubChem]
+4. Indication:  For the treatment of malaria and leg cramps
+DrugId:  25
+1. Name:  Dyclonine
+2. Groups:  Approved
+3. Description:  Dyclonine is an oral anaesthetic found in Sucrets, an over the counter throat lozenge. It is also found in some varieties of the Cepacol sore throat spray.
+4. Indication:  Used to provide topical anesthesia of accessible mucous membranes prior to examination, endoscopy or instrumentation, or other procedures involving the esophagus, larynx, mouth, pharynx or throat, respiratory tract or trachea, urinary tract, or vagina. Also used to suppress the gag reflex and/or other laryngeal and esophageal reflexes to facilitate dental examination or procedures (including oral surgery), endoscopy, or intubation. Also used for relief of canker sores, cold sores or fever blister.

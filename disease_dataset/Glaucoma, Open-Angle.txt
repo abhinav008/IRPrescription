@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bamosiran
+2. Groups:  Investigational
+3. Description:  Bamosiran has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, and Open Angle Glaucoma.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Diclofenamide
+2. Groups:  Approved, Investigational
+3. Description:  A carbonic anhydrase inhibitor that is used in the treatment of glaucoma. [PubChem]
+4. Indication:  For adjunctive treatment of: chronic simple (open-angle) glaucoma, secondary glaucoma, and preoperatively in acute angle-closure glaucoma where delay of surgery is desired in order to lower intraocular pressure
+DrugId:  3
+1. Name:  Befunolol
+2. Groups:  Experimental
+3. Description:  Befunolol is a beta blocker introduced in 1983 by Kakenyaku Kakko. It is currently in experimental status, and is being tested for the management of open angle glaucoma.
+4. Indication:  Used in the management of open angle glaucoma. PMID: 12480285. 
+DrugId:  4
+1. Name:  Sepetaprost
+2. Groups:  Investigational
+3. Description:  Sepetaprost has been used in trials studying the treatment of Open Angle-glaucoma, Ocular Hypertension, and Mild Open Angle-glaucoma (OAG).
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Methazolamide
+2. Groups:  Approved
+3. Description:  A carbonic anhydrase inhibitor that is used as a diuretic and in the treatment of glaucoma. [PubChem]
+4. Indication:  For treatment of chronic open-angle glaucoma and acute angle-closure glaucoma
+DrugId:  6
+1. Name:  Anecortave
+2. Groups:  Investigational
+3. Description:  Anecortave is under investigation in clinical trial NCT00691717 (Anecortave Acetate Safety in Patients With Open-Angle Glaucoma or Ocular Hypertension).
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Taprenepag
+2. Groups:  Investigational
+3. Description:  Taprenepag has been used in trials studying the treatment of Ocular Hypertension and Glaucoma, Open-Angle.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Trabodenoson
+2. Groups:  Investigational
+3. Description:  Trabodenoson has been used in trials studying the treatment of Ocular Hypertension (OHT) and Primary Open-Angle Glaucoma (POAG).
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Levobetaxolol
+2. Groups:  Approved, Investigational
+3. Description:  Levobetaxolol is a drug used to lower the pressure in the eye in treating conditions such as glaucoma. It was marketed as a 0.5% ophthalmic solution of levobetaxolol hydrochloride under the trade name Betaxon but has been discontinued. Levobetaxolol is a beta-adrenergic receptor inhibitor (beta blocker).
+4. Indication:  Used in the treatment of open-angle glaucoma and ocular hypertension [FDA Label].
+DrugId:  10
+1. Name:  Metipranolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist effective for both beta-1 and beta-2 receptors. It is used as an antiarrhythmic, antihypertensive, and antiglaucoma agent. [PubChem]
+4. Indication:  Indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open angle glaucoma.
+DrugId:  11
+1. Name:  Evodenoson
+2. Groups:  Investigational
+3. Description:  Evodenoson has been used in trials studying the treatment of Open-angle Glaucoma and Ocular Hypertension.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Simenepag isopropyl
+2. Groups:  Investigational
+3. Description:  Simenepag isopropyl has been used in trials studying the treatment of Ocular Hypertension and Glaucoma, Open-Angle.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Demecarium
+2. Groups:  Approved
+3. Description:  Demecarium is an indirect-acting parasympathomimetic agent that is used to treat glaucoma. It is a cholinesterase inhibitor or an anticholinesterase. Cholinesterase inhibitors prolong the effect of acetylcholine, which is released at the neuroeffector junction of parasympathetic postganglion nerves, by inactivating the cholinesterases that break it down. Demecarium inactivates both pseudocholinesterase and acetylcholinesterase. In the eye, this causes constriction of the iris sphincter muscle (causing miosis) and the ciliary muscle. The outflow of the aqueous humor is facilitated, which leads to a reduction in intraocular pressure.
+4. Indication:  For the topical treatment of chronic open-angle glaucoma.
+DrugId:  14
+1. Name:  Levobunolol
+2. Groups:  Approved
+3. Description:  A nonselective beta-adrenoceptor antagonist used in the treatment of glaucoma. [PubChem]
+4. Indication:  For lowering intraocular pressure (IOP) and may be used in patients with chronic open-angle glaucoma or ocular hypertension.
+DrugId:  15
+1. Name:  Brinzolamide
+2. Groups:  Approved
+3. Description:  Brinzolamide is a highly specific, non-competitive, reversible carbonic anhydrase inhibitor. Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II (CA-II). Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport. The result is a reduction in intraocular pressure. Brinzolamide is indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+4. Indication:  For the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+DrugId:  16
+1. Name:  Netarsudil
+2. Groups:  Approved
+3. Description:  A Rho kinase inhibitor with norepinephrine transport inhibitory activity that reduces production of aqueousAs of December 18, 2017 the FDA approved Aerie Pharmaceutical's Rhopressa (netarsudil ophthalmic solution) 0.02% for the indication of reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Acting as both a rho kinase inhibitor and a norepinephrine transport inhibitor, Netarsudil is a novel glaucoma medication in that it specifically targets the conventional trabecular pathway of aqueous humour outflow to act as an inhibitor to the rho kinase and norepinephrine transporters found there as opposed to affecting protaglandin F2-alpha analog like mechanisms in the unconventional uveoscleral pathway that many other glaucoma medications demonstrate.
+4. Indication:  Netarsudil is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  17
+1. Name:  Latanoprostene Bunod
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprostene Bunod has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, Open-Angle Glaucoma, Open Angle Glaucoma, and Intraocular Pressure.As of November 2, 2017 the FDA approved Bausch + Lomb's Vyzulta (latanoprostene bunod opthalmic solution), 0.024% for the indication of reducing intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Latanoprostene bunod is the first prostaglandin analog with one of its metabolites being nitric oxide (NO). The novelty of this agent subsequently lies in the proposed dual mechanism of action that stems from both its prostaglandin F2-alpha analog latanoprost acid metabolite and its ability to donate NO for proposed tissue/cell relaxation effects.In comparison, both latanoprost and latanoprostene bunod contain a latanoprost acid backbone. Conversely however, latanoprostene bunod integrates an NO-donating moiety in lieu of the isopropyl ester typically found in latanoprost.
+4. Indication:  Latanoprostene bunod opthalmic solution is indicated for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  18
+1. Name:  Apraclonidine
+2. Groups:  Approved
+3. Description:  Apraclonidine, also known as iopidine, is a sympathomimetic used in glaucoma therapy. It is an alpha2-adrenergic agonist.
+4. Indication:  For prevention or reduction of intraoperative and postoperative increases in intraocular pressure (IOP) before and after ocular laser surgery when used prophylactically. Also used as a short-term adjunctive therapy in patients with open-angle glaucoma who are on maximally tolerated medical therapy requiring additional IOP reduction.
+DrugId:  19
+1. Name:  Carteolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used as an anti-arrhythmia agent, an anti-angina agent, an antihypertensive agent, and an antiglaucoma agent. [PubChem]
+4. Indication:  For the treatment of intraocular hypertension and chronic open-angle glaucoma
+DrugId:  20
+1. Name:  Dorzolamide
+2. Groups:  Approved
+3. Description:  Dorzolamide is a carbonic anhydrase (CA) inhibitor. It is used in ophthalmic solutions (Trusopt) to lower intraocular pressure (IOP) in open-angle glaucoma and ocular hypertension.
+4. Indication:  For the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma. Also used prophylatically for the inhibition of perioperative IOP increase (before neodynium yttrium aluminum garnet laser posterior capsulotomy).
+DrugId:  21
+1. Name:  Dipivefrin
+2. Groups:  Approved
+3. Description:  Dipivefrin is a prodrug of adrenaline, which is used to treat glaucoma. It is available as ophthalmic solution (eye drops).
+4. Indication:  Dipivefrin is a prodrug which is used as initial therapy for the control of intraocular pressure in chronic open-angle glaucoma.
+DrugId:  22
+1. Name:  Travoprost
+2. Groups:  Approved
+3. Description:  Travoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a synthetic prostaglandin F2alpha analogue. [Wikipedia]
+4. Indication:  Ophthalmic solution used for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension who are intolerant of other intraocular pressure lowering medications or insufficiently responsive (failed to achieve target IOP determined after multiple measurements over time) to another intraocular pressure lowering medication.
+DrugId:  23
+1. Name:  Latanoprost
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a prostaglandin analogue that works by increasing the outflow of aqueous fluid from the eyes.It is also known by the brand name of Xalatan manufactured by Pfizer.
+4. Indication:  For the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+DrugId:  24
+1. Name:  Bimatoprost
+2. Groups:  Approved, Investigational
+3. Description:  Bimatoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a prostaglandin analogue that works by increasing the outflow of aqueous fluid from the eyes. It binds to the prostanoid FP receptor.
+4. Indication:  For the reduction of elevated intraocular pressure in patients with open angle glaucoma or ocular hypertension who are intolerant of other intraocular pressure lowering medications or insufficiently responsive (failed to achieve target IOP determined after multiple measurements over time) to another intraocular pressure lowering medication.
+DrugId:  25
+1. Name:  Clonidine
+2. Groups:  Approved
+3. Description:  Clonidine, an imidazoline-derivative hypotensive agent is a centrally-acting α2-adrenergic agonist. It crosses the blood-brain barrier and acts in the hypothalamus to induce a decrease in blood pressure. It may also be administered as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone. Clonidine may be used for differential diagnosis of pheochromocytoma in hypertensive patients. Other uses for clonidine include prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD). Clonidine also exhibits some peripheral activity. 
+4. Indication:  May be used as an adjunct in the treatment of hypertension, as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone, for differential diagnosis of pheochromocytoma in hypertensive patients, prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD).

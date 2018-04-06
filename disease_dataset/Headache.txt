@@ -1,0 +1,15 @@
+DrugId:  1
+1. Name:  Ibuprofen
+2. Groups:  Approved
+3. Description:  Ibuprofen, a propionic acid derivative, is a prototypical nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties.
+4. Indication:  For symptomatic treatment of rheumatoid arthritis, juvenile rheumatoid arthritis and osteoarthritis. May be used to treat mild to moderate pain and for the management of dysmenorrhea. May be used to reduce fever. Has been used with some success for treating ankylosing spondylitis, gout and psoriatic arthritis. May reduce pain, fever and inflammation of pericarditis. May be used IV with opiates to relieve moderate to severe pain. Ibuprofen lysine may be used IV to treat patent ductus arteriosus (PDA) in premature neonates. 
+DrugId:  2
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  3
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.

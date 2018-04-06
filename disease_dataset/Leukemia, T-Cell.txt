@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  IPH 1101
+2. Groups:  Investigational
+3. Description:  IPH 1101 is a chemically-synthesized structural analog of non-conventional bacterial phosphoantigens which specifically activate the Vγ9Vδ2 T cell subset. IPH 1101 is the most advanced drug candidate of the γδ T cell platform
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), leukemia (myeloid), and lymphoma (non-hodgkin's).
+DrugId:  2
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Tisagenlecleucel
+2. Groups:  Approved, Investigational
+3. Description:  Tisagenlecleucel is a CD19-directed genetically modified autologous T cell immunotherapy, or a CAR-T cell therapy for B-cell acute lymphoblastic leukemia. It was granted approval by FDA in August 2017 under the market name Kymriah. Tisagenlecleucel is an immunocellular therapy that involves autologous T cells that are collected from each individual patient and genetically engineered to express a specific protein called a chimeric antigen receptor (CAR) that specifically target CD19 antigens. Modified T cells are infused back into the patient's body. These CD19-directed chimeric antigen receptors (CD19 CAR-T cells) direct the T cells to targt and kill leukiemia cells that express a specific antigen (CD19) on the cell surface.In a multicenter clinical trial involving pediatric and young adult patients with relapsed or refractory B-cell precursor ALL, the overall remission rate within three months of treatment was 83 percent [4].
+4. Indication:  Indicated for the treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse [FDA Label]. 
+DrugId:  4
+1. Name:  Siplizumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders, transplant (rejection), graft versus host disease, lymphoma (unspecified), and leukemia (unspecified).
+DrugId:  5
+1. Name:  Alemtuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized monoclonal antibody specific to lymphocyte antigens. It is a recombinant DNA-derived humanized monoclonal antibody (Campath-1H) that is directed against the 21-28 kD cell surface glycoprotein,CD52. The Campath-1H antibody is an IgG1 kappa with human variable framework and constant regions, and complementarity-determining regions from a murine (rat) monoclonal antibody (Campath-1G). Campath is produced in mammalian cell (Chinese hamster ovary) suspension culture in a medium containing neomycin.
+4. Indication:  Alemtuzumab (Campath) is a monoclonal antibody therapy used for treatment of B-cell chronic lymphocytic leukemia.
+DrugId:  6
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Forodesine
+2. Groups:  Investigational
+3. Description:  Forodesine is a highly potent, orally active, rationally designed PNP inhibitor that has shown activity in preclinical studies with malignant cells and clinical utility against T-cell acute lymphoblastic leukemia and cutaneous T-cell lymphoma. Additional preliminary findings support its use for the management of some B-cell malignancies.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and leukemia (lymphoid).
+DrugId:  8
+1. Name:  Daporinad
+2. Groups:  Investigational
+3. Description:  Daporinad has been used in trials studying the treatment of Melanoma, Cutaneous T-cell Lymphoma, and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  10
+1. Name:  GPI-0100
+2. Groups:  Investigational
+3. Description:  GPI-0100 is Avantogen’s lead adjuvanat-immunopotentiator, a key component of vaccines for boosting the immune response.The GPI-0100 adjuvant, which has been shown to significantly enhance the immune response with a variety of vaccines, has been shown to have good overall performance characteristics on safety and efficacy. 
+4. Indication:  Investigated for use/treatment in breast cancer, kidney cancer, leukemia (myeloid), melanoma, neuroblastoma, ovarian cancer, and prostate cancer.
+DrugId:  11
+1. Name:  BMS-906024
+2. Groups:  Investigational
+3. Description:  BMS-906024 has been used in trials studying the treatment of Cancer, Lymphoblastic Leukemia, Acute T-cell, and Precursor T-Cell Lymphoblastic Lymphoma.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Pentostatin
+2. Groups:  Approved, Investigational
+3. Description:  A potent inhibitor of adenosine deaminase. The drug is effective in the treatment of many lymphoproliferative malignancies, particularly hairy-cell leukemia. It is also synergistic with some other antineoplastic agents and has immunosuppressive activity. [PubChem]
+4. Indication:  For the treatment of hairy cell leukaemia refractory to alpha interferon.
+DrugId:  13
+1. Name:  XL228
+2. Groups:  Investigational
+3. Description:  XL228 is a novel anticancer compound designed to inhibit the insulin-like growth factor type-1 receptor (IGF1R), Src and Abl tyrosine kinases – targets that play crucial roles in cancer cell proliferation, survival and metastasis.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and leukemia (myeloid).
+DrugId:  14
+1. Name:  Sapacitabine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in solid tumors, cutaneous t-cell lymphoma, myelodysplastic syndrome, and leukemia (lymphoid).
+DrugId:  15
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Samalizumab
+2. Groups:  Investigational
+3. Description:  Samalizumab has been used in trials studying the treatment of Multiple Myeloma and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Monalizumab
+2. Groups:  Investigational
+3. Description:  Monalizumab has been used in trials studying the treatment of Gynecologic Cancer, Chronic Lymphocytic Leukemia, and Squamous Cell Carcinoma of the Oral Cavity.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Nelarabine
+2. Groups:  Approved, Investigational
+3. Description:  Nelarabine is a chemotherapy drug used in T-cell acute lymphoblastic leukemia. Nelarabine is a purine nucleoside analog converted to its corresponding arabinosylguanine nucleotide triphosphate (araGTP), resulting in inhibition of DNA synthesis and cytotoxicity.
+4. Indication:  For the treatment of pediatric and adult patients with acute T-cell lymphoblastic leukemia and T-cell lymphoblastic lymphoma whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens.
+DrugId:  19
+1. Name:  AGS-005
+2. Groups:  Investigational
+3. Description:  AGS-005 is a personalized dendritic cell-based immunotherapy, with optimized immune response characteristics, that is designed to stimulate the patient's immune system to target and destroy the patient's cancer cells.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  20
+1. Name:  IDM-4
+2. Groups:  Investigational
+3. Description:  IDM-4 is an immuno-designed molecule that completed phase I/II of investigation for the treatment of Leukemia. It is a monoclonal antibody-specific antigen that can selectively target cancer-affected cells by coupling with tumor cell-killing MAK cells, which are derived from the patient's own monocytes. Trials of this drug have most likely been discontinued by the manufacturer.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  21
+1. Name:  Incadronic acid
+2. Groups:  Approved, Investigational
+3. Description:  Incadronic acid is a third generation bisphosphonate which can suppress bone resorption by osteoclasts. It is used to treat hypercalcemia, and bone disorders associated with malignancy and osteoporosis. In rats with induced hypercalcemia, incadronate has been found to be 46 times more potent than pamidronate and 11 times more potent than aledronate.Incadronate has also been found to have anti-tumor effects in mice. In rat models of breast cancer, bisphosphonate treatment has been shown to inhibit the progression and development of bone metastases and reduce tumor burden in vivo. It has also been recognized as a potential treatment for adult T-cell leukaemia which is characterized by hypercalcemia and tumor-induced osteolysis. [2] Incadronate, as well as other nitrogen containing bisphosphonates, such as aledronate and minodronate, have been found to induce apoptosis of hematopoietic tumor cells. In vitro human myeloma cells have undergone apoptosis when exposed to incadronate. [5] When combined with Tipifarnib, a potent farnesyl transferase inhibitor which can suppress the growth of myeloma cells, growth suppression of myeloma cells in vitro is intensified. [6] Because of these findings Incadronate is being investigated as a treatment for multiple myeloma, a B-cell malignancy associated with bone loss. Incadronate is available by prescription only, and is not marked is the United States, UK, Canada, or Australia. It is an approved treatment for malignancy-associated hypercalcemia (MAH) in Japan.[8]
+4. Indication:  For the treatment of hypercalcemia associated with malignant disease.
+DrugId:  22
+1. Name:  Lorvotuzumab mertansine
+2. Groups:  Investigational
+3. Description:  Lorvotuzumab mertansine has been used in trials studying the treatment of SCLC, Leukemia, Ovarian Cancer, Multiple Myeloma, and Merkel Cell Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  XL999
+2. Groups:  Investigational
+3. Description:  XL999 has the potential to provide benefit to patients with lung cancer and acute myelogenous leukemia. XL999 is a new chemical entity that inhibits a spectrum of receptor tyrosine kinases (RTKs) with growth promoting and angiogenic properties, including FGFR 1/3, PDGFRα/β, VEGFR2/KDR, KIT, and FLT3. XL999 also inhibits FLT4 and SRC. XL999 has the potential to prevent tumor growth — both directly by a novel effect on tumor cell proliferation and indirectly through inhibition of the host angiogenic response. XL999 induces a cell-cycle block by a mechanism distinct from those previously identified and exhibits broad antitumor activity in xenograft models.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lung cancer, and solid tumors.
+DrugId:  24
+1. Name:  Inebilizumab
+2. Groups:  Investigational
+3. Description:  Inebilizumab has been used in trials studying the treatment of Blood Cancer, B-cell Malignancies, Advanced B Cell Malignancies, Chronic Lymphocytic Leukemia (CLL), and Diffuse Large B-Cell Lymphoma (DLBCL).
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Duvelisib
+2. Groups:  Investigational
+3. Description:  Duvelisib has been used in trials studying the treatment and basic science of Lymphoma, Leukemia, T-cell Lymphoma, Hepatic Impairment, and Follicular Lymphoma, among others.
+4. Indication:  Not Available

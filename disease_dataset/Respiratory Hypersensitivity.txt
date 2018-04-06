@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Carbon Black
+2. Groups:  Investigational
+3. Description:  Carbon Black has been used in trials studying Atopic Hypersensitivity and Hypersensitivity, Immediate.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Methdilazine
+2. Groups:  Approved
+3. Description:  Methdilazine is a phenothiazine compound with antihistaminic activity. It is used in the treatment of various dermatoses to relieve pruritus.
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions and particularly for the control of pruritic skin disorders
+DrugId:  3
+1. Name:  Pirbuterol
+2. Groups:  Approved
+3. Description:  Pirbuterol is a beta-2 adrenergic bronchodilator. In vitro studies and in vivo pharmacologic studies have demonstrated that pirbuterol has a preferential effect on beta-2 Adrenergic receptors compared with isoproterenol. While it is recognized that beta-2 adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta-2 receptors in the human heart, existing in a concentration between 10-50%. The precise function of these receptors has not been established.The pharmacologic effects of beta adrenergic agonist drugs, including pirbuterol, are at least in proof attributable to stimulation through beta adrenergic receptors of intracellular adenyl cyclase, the enzyme which catalyzes the conversion of adenosine triphosphate (AlP) to cyclic-3† ,5†-adenosine monophosphate (c-AMP). Increased c-AMP levels are associated with relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible bronchospasm including asthma.
+DrugId:  4
+1. Name:  Isoetarine
+2. Groups:  Approved
+3. Description:  Isoetarine is a selective adrenergic beta-2 agonist used as fast acting bronchodilator for emphysema, bronchitis and asthma. [PubChem]
+4. Indication:  For the treatment of asthma, wheezing, and chronic asthmatic bronchitis.
+DrugId:  5
+1. Name:  Bambuterol
+2. Groups:  Approved, Investigational
+3. Description:  Bambuterol is a long acting beta-adrenoceptor agonist used in the treatment of asthma. It is a prodrug of terbutaline.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated with bronchitis and emphysema.
+DrugId:  6
+1. Name:  Isoprenaline
+2. Groups:  Approved, Investigational
+3. Description:  Isopropyl analog of epinephrine; beta-sympathomimetic that acts on the heart, bronchi, skeletal muscle, alimentary tract, etc. It is used mainly as bronchodilator and heart stimulant. [PubChem]
+4. Indication:  For the treatment of mild or transient episodes of heart block that do not require electric shock or pacemaker therapy also used in management of asthma and chronic bronchitis
+DrugId:  7
+1. Name:  Tripelennamine
+2. Groups:  Approved, Vet approved
+3. Description:  A histamine H1 antagonist with low sedative action but frequent gastrointestinal irritation. It is used to treat asthma; HAY fever; urticaria; and rhinitis; and also in veterinary applications. Tripelennamine is administered by various routes, including topically. [PubChem]
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions, coughs, and the common cold.
+DrugId:  8
+1. Name:  Olopatadine
+2. Groups:  Approved
+3. Description:  Used to treat allergic conjunctivitis (itching eyes), olopatadine inhibits the release of histamine from mast cells. It is a relatively selective histamine H1 antagonist that inhibits the in vivo and in vitro type 1 immediate hypersensitivity reaction including inhibition of histamine induced effects on human conjunctival epithelial cells.
+4. Indication:  For the treatment of ocular itching associated with allergic conjunctivitis.
+DrugId:  9
+1. Name:  Phenindamine
+2. Groups:  Approved
+3. Description:  Phenindamine is an antihistamine. Phenindamine blocks the effects of the naturally occurring chemical histamine in your body. Antihistamines such as phenindamine appear to compete with histamine for histamine H1- receptor sites on effector cells. The antihistamines antagonize those pharmacological effects of histamine which are mediated through activation of H1- receptor sites and thereby reduce the intensity of allergic reactions and tissue injury response involving histamine release. It is used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.Symptoms of a phenindamine overdose include extreme sleepiness, confusion, weakness, ringing in the ears, blurred vision, large pupils, dry mouth, flushing, fever, shaking, insomnia, hallucinations, and possibly seizures.
+4. Indication:  Used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.
+DrugId:  10
+1. Name:  Orciprenaline
+2. Groups:  Approved
+3. Description:  A beta-adrenergic agonist used in the treatment of asthma and bronchospasms. [PubChem]
+4. Indication:  For the treatment of bronchospasm, chronic bronchitis, asthma, and emphysema.
+DrugId:  11
+1. Name:  Terbutaline
+2. Groups:  Approved
+3. Description:  A selective beta-2 adrenergic agonist used as a bronchodilator and tocolytic. [PubChem]
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible, obstructive airway disease, as well as symptomatic management of reversible bronchospasm associated with bronchitis and emphysema. Also used acute IV and sub-Q therapy in selected women to inhibit uterine contractions in preterm labor (tocolysis) and prolong gestation when beneficial.
+DrugId:  12
+1. Name:  Loracarbef
+2. Groups:  Investigational, Withdrawn
+3. Description:  Loracarbef is a carbacephem antibiotic sometimes grouped together with the second-generation cephalosporin antibiotics. It is marketed under the trade name Lorabid.
+4. Indication:  Used to treat upper respiratory tract bacterial infections, chronic bronchitis, pneumonia, sinusitis, pharyntitis and tonsillitis, skin absceses, urinary tract infections and pyelonephritis caused by E. coli, S. pyogenes, S. aureus, S. saprphyticus, S. penumoniae, H. influenzae and M. catarrhalis.
+DrugId:  13
+1. Name:  Coccidioides immitis spherule
+2. Groups:  Approved
+3. Description:  Coccidioides immitis spherule is a skin test antigen indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis.
+4. Indication:  Indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis. Use in 18-64 year old patients. A positive result occurs if 48h after administration if the diameter of the induration is >5mm. 
+DrugId:  14
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  15
+1. Name:  Ketotifen
+2. Groups:  Approved
+3. Description:  A cycloheptathiophene blocker of histamine H1 receptors and release of inflammatory mediators. It has been proposed for the treatment of asthma, rhinitis, skin allergies, and anaphylaxis.
+4. Indication:  Indicated as an add-on or prophylactic oral medication in the chronic treatment of mild atopic asthmatic children. Also used as self-medication for the temporary relief of itching of the eye due to allergic conjunctivitis (ophthalmic).
+DrugId:  16
+1. Name:  Vilanterol
+2. Groups:  Approved
+3. Description:  Vilanterol is a selective long-acting beta2-adrenergic agonist (LABA) with inherent 24-hour activity for once daily treatment of COPD and asthma. Its pharmacological effect is attributable to stimulation of intracellular adenylyl cyclase which catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increases in cyclic AMP are associated with relaxation of bronchial smooth muscle and inhibition of release of hypersensitivity mediators from mast cells in the lungs. Vilanterol is approved for use in several combination products such as with fluticasone furoate under the tradename Breo Ellipta and in combination with umeclidinium bromide as Anoro Ellipta. Approved by the FDA in 2013, use of Breo Ellipta is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+4. Indication:  Vilanterol is approved for use in several combination products such as with fluticasone furoate under the tradename Breo Ellipta and in combination with umeclidinium bromide as Anoro Ellipta. Approved by the FDA in 2013, use of Breo Ellipta is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+DrugId:  17
+1. Name:  Fingolimod
+2. Groups:  Approved, Investigational
+3. Description:  Fingolimod is a sphingosine 1-phosphate receptor modulator indicated and approved for the treatment of relapsing-remitting multiple sclerosis. 
+4. Indication:  Fingolimod is a sphingosine 1-phosphate receptor modulator indicated for the treatment of patients with relapsing forms of multiple sclerosis to reduce the frequency of clinical exacerbations and to delay the accumulation of physical disability.
+DrugId:  18
+1. Name:  Follitropin
+2. Groups:  Approved
+3. Description:  Follitropin is a human follicle stimulating hormone (FSH) preparation of recombinant DNA origin, which consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Follitropin beta is produced in genetically engineered Chinese hamster cell lines (CHO). The nomenclature “beta” differentiates it from another recombinant human FSH product that was marketed earlier as follitropin alpha. Follitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF). Numerous physio-chemical tests and bioassays indicate that follitropin beta and follitropin alpha are indistinguishable. However, a more recent study showed there is may be a slight clinical difference, with the alpha form tending towards a higher pregnancy rate and the beta form tending towards a lower pregnancy rate, but with significantly higher estradiol (E2) levels. Structural analysis shows that the amino acid sequence of follitropin beta is identical to that of natural human follicle stimulating hormone (FSH). Further, the ogliosaccharide side chains are very similar, but not completely identical to that of natural FSH. However, these small differences do not affect the bioactivity compared to natural FSH.
+4. Indication:  In women having been diagnosed with primary ovarian failure, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. In men with hypogonadotrophic hypogonadism, it is used to induce spermatogenesis. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+DrugId:  19
+1. Name:  Soybean oil
+2. Groups:  Approved
+3. Description:  Derived from soybeans, soybean oil is a common vegetable oil and a source of polyunsaturated and saturated fatty acids. It is a complex mixture of triglycerides where per 100 g, soybean oil has 16 g of saturated fat, 23 g of monounsaturated fat, and 58 g of polyunsaturated fat. The major component fatty acids are linoleic (48% - 58%), oleic (17% - 30%), palmitic (9% -13%), linolenic (4% - 11%), and stearic (2.5% - 5.0%). It is used as a cooking oil and lipid emulsion for parenteral nutrition in clinical settings. Soybean oil-based lipid emulsion is the only FDA-approved lipid formulation for clinical use.
+4. Indication:  Indicated for parenteral nutrition as a source of calories and essential fatty acids when oral or enteral nutrition is not possible, insufficient, or contraindicated. 
+DrugId:  20
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 
+DrugId:  21
+1. Name:  Diphencyprone
+2. Groups:  Investigational
+3. Description:  Diphencyprone has been used in trials studying the treatment and basic science of Melanoma, Ultraviolet Rays, Immunosuppression, Neoplasm Metastasis, and Hypersensitivity, Delayed, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  23
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  24
+1. Name:  Wood creosote
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Guaiacolsulfonate
+2. Groups:  Experimental
+3. Description:  Guaiacolsulfonate is an aromatic sulfonic acid. Potassium guaiacolsulfonate salt is an expectorant that thins the mucus in the lungs and reduces chest congestion.
+4. Indication:  Not Available

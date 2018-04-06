@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Choriogonadotropin alfa
+2. Groups:  Approved
+3. Description:  Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.
+4. Indication:  For the treatment of female infertility
+DrugId:  2
+1. Name:  Menotropins
+2. Groups:  Approved
+3. Description:  Menotropins contains follicle stimulating hormone (FSH) and luteinizing hormone (LH) purified from the urine of postmenopausal women. It is used as a fertility medication that is injected either subcutaneously or intramuscularly. It is composed of LH with 2 subunits, alpha = 92 residues, beta = 121 residues and FSH with 2 subunits, alpha = 92 residues, beta=111 residues.
+4. Indication:  For the treatment of female infertility
+DrugId:  3
+1. Name:  Trestolone
+2. Groups:  Investigational
+3. Description:  Trestolone (7α-methyl-19-nortestosterone) is a synthetic androgen developed by the Population Council as a potential candidate drug for use in hormonal male contraceptive methods. In males, regular administration of sufficient quantities of trestolone induces a state of temporary infertility.
+4. Indication:  Investigated for use/treatment in contraception and male hormonal deficiencies/abnormalities.
+DrugId:  4
+1. Name:  Urofollitropin
+2. Groups:  Approved, Vet approved
+3. Description:  Urofollitropin is a purified form of follicle-stimulating hormone (FSH) that is manufactured by extraction from human urine and then purified. It consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Urofollitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Urofollitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+4. Indication:  For treatment of female infertility
+DrugId:  5
+1. Name:  PV903
+2. Groups:  Investigational
+3. Description:  PV903 is a self administered vaginally delivered recombinant protein for the treatment of recurrent miscarriage, resulting from an intolerant immune response to the developing foetus.
+4. Indication:  Investigated for use/treatment in infertility.
+DrugId:  6
+1. Name:  Emfilermin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), reproductive health, and infertility.
+DrugId:  7
+1. Name:  Chlorotrianisene
+2. Groups:  Investigational, Withdrawn
+3. Description:  A powerful synthetic, non-steroidal estrogen. [PubChem]
+4. Indication:  Used to treat symptoms of menopause, deficiencies in ovary function (including underdevelopment of female sexual characteristics and some types of infertility), and in rare cases, prostate cancer. Chlorotrianisene may also be used to prevent breast engorgement following childbirth.
+DrugId:  8
+1. Name:  Gonadorelin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Gonadorelin is another name for gonadotropin-releasing hormone (GnRH). It is a synthetic decapeptide prepared using solid phase peptide synthesis. GnRH is responsible for the release of follicle stimulating hormone and leutinizing hormone from the anterior pitutitary.
+4. Indication:  For evaluating the functional capacity and response of the gonadotropes of the anterior pituitary also for evaluating residual gonadotropic function of the pituitary following removal of a pituitary tumor by surgery and/or irradiation.
+DrugId:  9
+1. Name:  Lutropin alfa
+2. Groups:  Approved
+3. Description:  Lutropin alfa is a recombinant human luteinizing hormone produced in yeast with 2 subunits, alpha = 92 residues, beta = 121 residues. It is a heterodimeric glycoprotein. Each monomeric unit is a glycoprotein molecule. In females, an acute rise of LH ("LH surge") triggers ovulation and the development of the corpus luteum. In males, it stimulates Leydig cell production of testosterone. Lutropin alfa was the first and only recombinant human form of luteinizing hormone (LH) developed for use in the stimulation of follicular development.
+4. Indication:  For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH <1.2 international units [IU]/L)
+DrugId:  10
+1. Name:  Prolease-r-hFSH
+2. Groups:  Investigational
+3. Description:  Prolease-r-hFSH is a recombinant human follicle stimulating hormone (r-hFSH) with Alkermes' ProLease injectable sustained release drug delivery technology.It provides patients with long term therapeutic benefit from a single administration rather than multiple injections.
+4. Indication:  Investigated for use/treatment in infertility.
+DrugId:  11
+1. Name:  Estrone sulfate
+2. Groups:  Approved
+3. Description:  Estrone sulfate (as estropipate) is a form of estrogen. It has several uses such as: alleviate symptoms of menopause as hormone replacement therapy, treatment some types of infertility, treatment of some conditions leading to underdevelopment of female sexual characteristics, treatment of vaginal atrophy, treatment of some types of breast cancer (particularly in men and postmenopausal women), treatment of prostate cancer and prevention of osteoporosis.
+4. Indication:  Estropipate is used for the treatment of moderate to severe vasomotor symptoms associated with the monopause, and moderate to severe symptoms of vulval and vaginal atrophy associated with the menopause. It is also used to treat hypoestrogenism due to hypogonadism, castration or primary ovarian failure, and prevent postmenopausal osteoporosis.
+DrugId:  12
+1. Name:  Clomifene
+2. Groups:  Approved, Investigational
+3. Description:  A triphenyl ethylene stilbene derivative which is an estrogen agonist or antagonist depending on the target tissue.
+4. Indication:  Used mainly in female infertility due to anovulation (e.g. due to polycystic ovary syndrome) to induce ovulation. 
+DrugId:  13
+1. Name:  Follitropin
+2. Groups:  Approved
+3. Description:  Follitropin is a human follicle stimulating hormone (FSH) preparation of recombinant DNA origin, which consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Follitropin beta is produced in genetically engineered Chinese hamster cell lines (CHO). The nomenclature “beta” differentiates it from another recombinant human FSH product that was marketed earlier as follitropin alpha. Follitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF). Numerous physio-chemical tests and bioassays indicate that follitropin beta and follitropin alpha are indistinguishable. However, a more recent study showed there is may be a slight clinical difference, with the alpha form tending towards a higher pregnancy rate and the beta form tending towards a lower pregnancy rate, but with significantly higher estradiol (E2) levels. Structural analysis shows that the amino acid sequence of follitropin beta is identical to that of natural human follicle stimulating hormone (FSH). Further, the ogliosaccharide side chains are very similar, but not completely identical to that of natural FSH. However, these small differences do not affect the bioactivity compared to natural FSH.
+4. Indication:  In women having been diagnosed with primary ovarian failure, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. In men with hypogonadotrophic hypogonadism, it is used to induce spermatogenesis. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+DrugId:  14
+1. Name:  AP1081
+2. Groups:  Investigational
+3. Description:  A transdermal gel containing ethinyl estradiol and norelgestromin being investigated by Antares Pharma for use as a female contraceptive.
+4. Indication:  For use as a female contraceptive.
+DrugId:  15
+1. Name:  Serelaxin
+2. Groups:  Investigational
+3. Description:  Recombinant human relaxin is a hormone produced during pregnancy that facilitates the birth process by causing a softening and lengthening of the cervix and the pubic symphysis (the place where the pubic bones come together).It is a heterodimer protein secreted by the corpus luteum and placenta during pregnancy.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, congestive heart failure, infertility, peripheral vascular disease, and scleroderma.
+DrugId:  16
+1. Name:  Elocalcitol
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in benign prostatic hyperplasia, urinary incontinence, prostate disorders, and infertility.
+DrugId:  17
+1. Name:  JNJ-28330835
+2. Groups:  Experimental
+3. Description:  A selective androgen receptor modulator with minimal prostate hypertrophic activity, enhances lean body mass in male rats and stimulates sexual behavior in female rats.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Barusiban
+2. Groups:  Investigational
+3. Description:  Barusiban has been used in trials studying the treatment of Infertility and In Vitro Fertilisation (IVF) Treatment.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Octylphenoxy polyethoxyethanol
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Etonogestrel
+2. Groups:  Approved, Investigational
+3. Description:  Etonogestrel is a molecule used in hormonal contraceptives, most notably the subdermal implant Implanon.
+4. Indication:  For use as a female contraceptive (depot).
+DrugId:  21
+1. Name:  Thiocolchicoside
+2. Groups:  Approved, Investigational
+3. Description:  Thiocolchicoside is a semi-synthetic derivative of the colchicine, a natural anti-inflammatory glycoside which originates from the flower seeds of superba gloriosa. It is a muscle relaxant with anti-inflammatory and analgesic effects. It has potent convulsant activity and should not be administered to individuals prone to seizures [19].
+4. Indication:  Thiocolchicoside is a skeletal muscle-relaxant drug used in the treatment of orthopedic, traumatic and rheumatologic disorders [18]. It is indicated as an adjuvant drug in the treatment of painful muscle contractures and is indicated in acute spinal pathology, for adults and adolescents 16 years of age and older [15]. Recent studies have examined its effect on muscle tone, stiffness, contractures, and soreness experienced by athletes during sporting competitions [20].
+DrugId:  22
+1. Name:  Acetylcarnitine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcarnitine is an investigational drug in the United states, Italy, United Kingdom, China, Israel, and Norway, and it is approved in Italy, Portugal, Argentina, Chile, Philippines, Australia, and India. Acetylcarnitine can be synthesized, but it is also naturally found in adequate amounts in healthy humans. In human plasma and tissues, acetylcarnitine is the most predominant acylated ester of carnitine, which is an amino acid derivative that is made in the kidney, liver, and brain from lysine and methionine. The main role of acetylcarnitine is to help transport fatty acids into the mitochondrial matrix where fatty acid metabolism occurs.
+4. Indication:  Acetylcarnitine is not approved for any indication in the United states and Canada, but it is approved and indicated in Italy for cerebrovascular disorders, mental function disorders, peripheral nerve disorders, diabetic neuropathy, and nutritional supplementation; Portugal for mental function disorders; Argentina for cerebral vasculopathy, nutritional supplementation, and peripheral neuropathy; Chile for dementia; Philippines for cerebrovascular disorders and mental function disorders; Australia for nutritional supplementation; and India for nutritional supplementation to increase sperm count. Acetylcarnitine also has several potential therapeutic indications for which it is still being investigated: in Norway, acetylcarnitine is in a phase IV trial for prophylactic treatment of migraines; in Italy acetylcarnitine is in a phase II trial for use in patients with type 2 Diabetes Mellitus, a phase III trial for alleviating fatigue in patients with chronic hepatitis C, and for use in patients with Minimal Hepatic Encephalopathy; in the United States acetylcarnitine is in a phase II trial for the neurodegenerative disorder Progressive Supranuclear Palsy, a phase II and III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy, a phase I and II trial for treating patients in septic shock, a phase II trial for bipolar depression, a phase II trial to reduce oxidative stress in patients with Sickle Cell disease, a phase I and II trial for chronic fatigue syndrome, and a study for preventing nerve damage in HIV patients; in China acetylcarnitine is in a phase III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy; in the United Kingdom acetylcarnitine is being investigated for preventing nerve damage in HIV patients; and in Israel acetylcarnitine is being studied for the treatment of male infertility.
+DrugId:  23
+1. Name:  Dydrogesterone
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  A synthetic progestational hormone with no androgenic or estrogenic properties. Unlike many other progestational compounds, dydrogesterone produces no increase in temperature and does not inhibit ovulation. [PubChem]
+4. Indication:  Used to treat irregular duration of cycles and irregular occurrence and duration of periods caused by progesterone deficiency. Also used to prevent natural abortion in patients who have a history of habitual abortions.
+DrugId:  24
+1. Name:  Isosorbide
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Oxamniquine
+2. Groups:  Approved
+3. Description:  An anthelmintic with schistosomicidal activity against Schistosoma mansoni, but not against other Schistosoma spp. Oxamniquine causes worms to shift from the mesenteric veins to the liver where the male worms are retained; the female worms return to the mesentery, but can no longer release eggs. (From Martidale, The Extra Pharmacopoeia, 31st ed, p121)
+4. Indication:  For treatment of Schistosomiasis caused by Schistosoma mansoni

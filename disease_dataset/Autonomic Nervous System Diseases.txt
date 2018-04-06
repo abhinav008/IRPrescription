@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Fenspiride
+2. Groups:  Approved
+3. Description:  Fenspiride is an oxazolidinone spiro compound used as a drug in the treatment of certain respiratory diseases. It is approved for use in Russia for the treatment of acute and chronic inflammatory diseases of ENT organs and the respiratory tract (like rhinopharyngitis, laryngitis, tracheobronchitis, otitis and sinusitis), as well as for maintenance treatment of asthma.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Hexoprenaline
+2. Groups:  Approved, Withdrawn
+3. Description:  Hexoprenaline is a stimulant of beta 2 adrenergic receptors. It is used as a bronchodilator, antiasthmatic, and tocolytic agent.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Tulobuterol
+2. Groups:  Investigational
+3. Description:  Tulobuterol has been used in trials studying the treatment of Chronic Obstructive Pulmonary Disease.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Reproterol
+2. Groups:  Investigational
+3. Description:  Reproterol has been used in trials studying the treatment of Asthma, Exercise-Induced.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Oxitropium
+2. Groups:  Investigational
+3. Description:  Oxitropium has been investigated for the treatment of Pulmonary Disease, Chronic Obstructive.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ibudilast
+2. Groups:  Approved, Investigational
+3. Description:  Ibudilast is an anti-inflammatory and neuroprotective oral agent which shows an excellent safety profile at 60 mg/day and provides significantly prolonged time-to-first relapse and attenuated brain volume shrinkage in patients with relapsing-remitting (RR) and/or secondary progressive (SP) multiple sclerosis (MS). Ibudilast is currently in development in the U.S. (codes: AV-411 or MN-166), but is approved for use as an antiinflammatory in Japan.
+4. Indication:  For the treatment of multiple sclerosis, asthma, and cerebrovascular disease.
+DrugId:  7
+1. Name:  Anisodamine
+2. Groups:  Investigational
+3. Description:  Anisodamine has been investigated for the treatment of Intestinal Diseases.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Enprofylline
+2. Groups:  Approved, Investigational
+3. Description:  Enprofylline is a derivative of theophylline which shares bronchodilator properties. Enprofylline is used in asthma, chronic obstructive pulmonary disease, and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy. Long-term enprofylline administration may be associated with elevation in liver enzyme levels and unpredictable blood levels.
+4. Indication:  Used in the management of symptoms of asthma. Also used in the treatment of peripheral vascular diseases and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy.
+DrugId:  9
+1. Name:  Aminophylline
+2. Groups:  Approved
+3. Description:  Aminophylline is a drug combination that contains theophylline and ethylenediamine in a 2:1 ratio. Once in the body, theophylline is released and acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Similar to other theophyllines, aminophylline is indicated for the treatment of lung diseases such as asthma, chronic bronchitis, and COPD. The majority of aminophylline medications are discontinued and the remaining medications on the market are in short supply.
+4. Indication:  For the treatment of bronchospasm due to asthma, emphysema and chronic bronchitis.
+DrugId:  10
+1. Name:  Diphenidol
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Diphenidol is an antiemetic agent used in the treatment of vomiting and vertigo. Diphenidol overdose may result in serious toxicity in children.
+4. Indication:  For use in the prevention and symptomatic treatment of peripheral (labyrinthine) vertigo and associated nausea and vomiting that occur in such conditions as Meniere's disease and surgery of the middle and inner ear. Also for the control of nausea and vomiting associated with postoperative states, malignant neoplasms, labyrinthine disturbances, antineoplastic agent therapy, radiation sickness, and infectious diseases.
+DrugId:  11
+1. Name:  Meclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in the treatment of motion sickness, vertigo, and nausea during pregnancy and radiation sickness. [PubChem]
+4. Indication:  For the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness.
+DrugId:  12
+1. Name:  Cyclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist given by mouth or parenterally for the control of postoperative and drug-induced vomiting and in motion sickness. (From Martindale, The Extra Pharmacopoeia, 30th ed, p935)
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness, and vertigo (dizziness caused by other medical problems).
+DrugId:  13
+1. Name:  Isoetarine
+2. Groups:  Approved
+3. Description:  Isoetarine is a selective adrenergic beta-2 agonist used as fast acting bronchodilator for emphysema, bronchitis and asthma. [PubChem]
+4. Indication:  For the treatment of asthma, wheezing, and chronic asthmatic bronchitis.
+DrugId:  14
+1. Name:  Bambuterol
+2. Groups:  Approved, Investigational
+3. Description:  Bambuterol is a long acting beta-adrenoceptor agonist used in the treatment of asthma. It is a prodrug of terbutaline.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated with bronchitis and emphysema.
+DrugId:  15
+1. Name:  Bitolterol
+2. Groups:  Withdrawn
+3. Description:  Bitolterol mesylate is a beta-2-adrenergic receptor agonist used for the relief of bronchospasm in conditions such as asthma and COPD. Bitolterol was withdrawn from the market by Elan Pharmaceuticals in 2001. [Wikipedia]
+4. Indication:  Used to dilate air passages in the lungs that have become narrowed as a result of disease or inflammation. It is used in the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  16
+1. Name:  Procaterol
+2. Groups:  Approved, Investigational
+3. Description:  A long-acting beta-2-adrenergic receptor agonist. It is a potent bronchodilator that may be administered orally or by aerosol inhalation. [PubChem]
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  17
+1. Name:  Clenbuterol
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A substituted phenylaminoethanol that has beta-2 adrenomimetic properties at very low doses. It is used as a bronchodilator in asthma. [PubChem]
+4. Indication:  Used as a bronchodilator in the treatment of asthma patients. 
+DrugId:  18
+1. Name:  Ipecacuanha
+2. Groups:  Approved, Experimental
+3. Description:  Ipecacuanha was first discovered in Brazil in the 1600s. It is derived from the plant Cephaelis ipecacuanha and is known to releases 5-hydroxytryptamin to induce nausea and vomiting. Although it is not currently used in clinical practice, ipecacuanha was used to treat flux (dysentery).
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Isoprenaline
+2. Groups:  Approved, Investigational
+3. Description:  Isopropyl analog of epinephrine; beta-sympathomimetic that acts on the heart, bronchi, skeletal muscle, alimentary tract, etc. It is used mainly as bronchodilator and heart stimulant. [PubChem]
+4. Indication:  For the treatment of mild or transient episodes of heart block that do not require electric shock or pacemaker therapy also used in management of asthma and chronic bronchitis
+DrugId:  20
+1. Name:  Racepinephrine
+2. Groups:  Approved
+3. Description:  Racepinephrine is a racemic mixture consisting of d-Epinephrine and l-Epinephrine enantiomers. Epinephrine is a non-selective α- and β-adrenergic receptor agonist. It is a bronchodilator used in the temporary relief of mild symptoms of intermittent asthma including wheezing, tightness of chest and shortness of breath. It is an active ingredient in oral inhalation over-the-counter products as racepinephrine hydrochloride.
+4. Indication:  Indicated for temporary relief of mild symptoms of intermittent asthma.
+DrugId:  21
+1. Name:  Alrestatin
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  SRT501
+2. Groups:  Investigational
+3. Description:  SRT501 is a small molecule develped for the treatment of metabolic diseases like diabetes and obesity. It is the first small molecule, designed to target SIRT1, to enter the clinic.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and neurologic disorders.
+DrugId:  23
+1. Name:  Dexetimide
+2. Groups:  Withdrawn
+3. Description:  A muscarinic antagonist that has been used to treat neuroleptic-induced parkinsonism. Benzetimide is the (-)-enantimorph of dexetimide.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Tramazoline
+2. Groups:  Investigational
+3. Description:  Tramazoline is under investigation in clinical trial NCT01601509 (Nasal Tramazoline and Dexamethazone in Obstructive Sleep Apnea (OSA) Patients Tramazoline and).
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.

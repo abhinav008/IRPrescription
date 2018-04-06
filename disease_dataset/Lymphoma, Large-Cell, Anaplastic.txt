@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Brentuximab vedotin
+2. Groups:  Approved, Investigational
+3. Description:  Brentuximab vedotin, also known as Adcetris®, is an antibody-drug conjugate that combines an anti-CD30 antibody with the drug monomethyl auristatin E (MMAE). It is an anti-neoplastic agent used in the treatment of Hodgkin's lymphoma and systemic anaplastic large cell lymphoma. Brentuximab vedotin was initially approved in 2011. In January 2012, the drug label was revised with a boxed warning of a condition known as progressive multifocal leukoencephalopathy and death due to opportunistic JC virus infection post treatment [5]. The U.S. Food and Drug Administration approved Adcetris in March 2018 to treat adult patients with previously untreated stage III or IV classical Hodgkin lymphoma (cHL) in combination with chemotherapy [5].Adcetris has also been previously approved by the FDA to treat Hodgkin's lymphoma after relapse, Hodgkin's lymphoma after stem cell transplantation when a patient has a high risk of relapse or progression, systemic anaplastic large cell lymphoma (ALCL) after the failure of other treatment regimens, and primary cutaneous ALCL after failure of other treatment regimens [5].Lymphoma is a malignancy that begins in the lymphatic system, which helps to combat infection and disease. Lymphoma may begin anywhere in the body and can spread to nearby lymph nodes. The two main types of lymphoma are Hodgkin lymphoma (also called Hodgkin disease) and non-Hodgkin lymphoma. Most individuals with Hodgkin's lymphoma have the classical type. In this type of lymphoma, large, abnormal lymphocytes (a type of white blood cell) are found in the lymph nodes called Reed-Sternberg cells. With early diagnosis and intervention, patients with Hodgkin lymphoma normally experience long-term remission [5].The ECHELON-1 study results demonstrated superior efficacy of the drug combined with a chemotherapy regimen when it is compared to the previous standard of care. Importantly, removing the drug bleomycin, a highly toxic agent, was completely removed from the regimen. This demonstrates meaningful progress in treatment for patients affected by this disease [6].
+4. Indication:  Seattle Genetics Announced FDA Approval of ADCETRIS® (Brentuximab Vedotin) in combination with chemotherapy for adults with previously untreated stage III or IV Classical Hodgkin Lymphoma in March 2018 [5, 6].Hodgkin lymphoma after failure of autologous stem cell transplant (ASCT) or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not ASCT candidates [FDA Label], [5].Systemic anaplastic large cell lymphoma after failure of at least one prior multi-agent chemotherapy regimen [FDA Label].
+DrugId:  2
+1. Name:  Polatuzumab Vedotin
+2. Groups:  Investigational
+3. Description:  Polatuzumab Vedotin has been used in trials studying the treatment of Non-Hodgkin's Lymphoma, Lymphoma, B-Cell, Non-Hodgkin's Lymphoma, Diffuse Large B-Cell Lymphoma, Lymphoma, Follicular, Lymphoma, Follicular, Diffuse Large B-Cell Lymphoma, and Diffuse Large B-Cell Lymphoma, Lymphoma, Non Hodgkin, Lymphoma, Follicular, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Ceritinib
+2. Groups:  Approved
+3. Description:  Ceritinib is used for the treatment of adults with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) following failure (secondary to resistance or intolerance) of prior crizotinib therapy. About 4% of patients with NSCLC have a chromosomal rearrangement that generates a fusion gene between EML4 (echinoderm microtubule-associated protein-like 4) and ALK (anaplastic lymphoma kinase), which results in constitutive kinase activity that contributes to carcinogenesis and seems to drive the malignant phenotype. Ceritinib exerts its therapeutic effect by inhibiting autophosphorylation of ALK, ALK-mediated phosphorylation of the downstream signaling protein STAT3, and proliferation of ALK-dependent cancer cells. Following treatment with crizotinib (a first-generation ALK inhibitor), most tumours develop drug resistance due to mutations in key "gatekeeper" residues of the enzyme. This occurrence led to development of novel second-generation ALK inhibitors such as ceritinib to overcome crizotinib resistance. The FDA approved ceritinib in April 2014 due to a surprisingly high response rate (56%) towards crizotinib-resistant tumours and has designated it with orphan drug status.
+4. Indication:  Ceritinib is a kinase inhibitor indicated for the treatment of patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) who have progressed on or are intolerant to crizotinib. This indication is approved under accelerated approval based on tumor response rate and duration of response. An improvement in survival or disease-related symptoms has not been established. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+DrugId:  4
+1. Name:  ASP-3026
+2. Groups:  Investigational
+3. Description:  ASP3026 has been used in trials studying the treatment of Solid Tumor, B-Cell Lymphoma, Advanced Malignancies, Positive for Anaplastic Lymphoma Kinase, and Positive for Proto-Oncogene Tyrosine-Protein Kinase ROS.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Ublituximab
+2. Groups:  Investigational
+3. Description:  Ublituximab has been used in trials studying the treatment of B-cell Lymphoma, Neuromyelitis Optica, Mantle Cell Lymphoma, Non-Hodgkins Lymphoma, and Marginal Zone Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Crizotinib
+2. Groups:  Approved
+3. Description:  Crizotinib an inhibitor of receptor tyrosine kinase for the treatment of non-small cell lung cancer (NSCLC). Verification of the presence of ALK fusion gene is done by Abbott Molecular's Vysis ALK Break Apart FISH Probe Kit. This verification is used to select for patients suitable for treatment. FDA approved in August 26, 2011.
+4. Indication:  Crizotinib is used for the treatment of locally advanced or metastatic non-small cell lung cancer (NSCLC) that is anaplastic-lymphoma kinase (ALK)-positive as detected by a FDA-approved test. 
+DrugId:  7
+1. Name:  Inebilizumab
+2. Groups:  Investigational
+3. Description:  Inebilizumab has been used in trials studying the treatment of Blood Cancer, B-cell Malignancies, Advanced B Cell Malignancies, Chronic Lymphocytic Leukemia (CLL), and Diffuse Large B-Cell Lymphoma (DLBCL).
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Dacetuzumab
+2. Groups:  Investigational
+3. Description:  Dacetuzumab has been used in trials studying the treatment of Multiple Myeloma, Non-Hodgkin Lymphoma, Leukemia, Lymphocytic, Chronic, and Lymphoma, Large B-Cell, Diffuse. It is a humanized anti-CD40 antibody and induces cytotoxicity in human multiple myeloma cells.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and multiple myeloma.
+DrugId:  9
+1. Name:  Alectinib
+2. Groups:  Approved, Investigational
+3. Description:  Alectinib is a second generation oral drug that selectively inhibits the activity of anaplastic lymphoma kinase (ALK) tyrosine kinase. It is specifically used in the treatment of non-small cell lung cancer (NSCLC) expressing the ALK-EML4 (echinoderm microtubule-associated protein-like 4) fusion protein that causes proliferation of NSCLC cells. Inhibition of ALK prevents phosphorylation and subsequent downstream activation of STAT3 and AKT resulting in reduced tumour cell viability. Approved under accelerated approval in 2015, alectinib is indicated for use in patients who have progressed on or were not tolerant of crizotinib, which is associated with the development of resistance. 
+4. Indication:  Alectinib is a kinase inhibitor indicated for the treatment of patients with anaplastic lymphoma kinase (ALK)-positive, metastatic non-small cell lung cancer (NSCLC) who have progressed on or are intolerant to crizotinib. This indication is approved under accelerated approval based on tumor response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+DrugId:  10
+1. Name:  IPH 1101
+2. Groups:  Investigational
+3. Description:  IPH 1101 is a chemically-synthesized structural analog of non-conventional bacterial phosphoantigens which specifically activate the Vγ9Vδ2 T cell subset. IPH 1101 is the most advanced drug candidate of the γδ T cell platform
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), leukemia (myeloid), and lymphoma (non-hodgkin's).
+DrugId:  11
+1. Name:  Axicabtagene ciloleucel
+2. Groups:  Approved
+3. Description:  Axicabtagene ciloleucel is a chimeric antigen receptor (CAR) T cell therapy for the treatment of Diffuse large B-cell lymphoma (DLBCL), which is a type of a non-Hodgkin lymphoma (NHL). It is the second cell-based gene therapy that is FDA-approved but the first in the treatment of large B-cell lymphoma in adult patients. Uniquely, axicabtagene ciloleucel utilizes each patient’s own immune system where each dose of the drug consists of the patient's genetically modified T-cells that were previously collected. The modified version of the T-cell expresses a new gene that targets and kills the lymphoma cells and is infused back into the patient. Diffuse large B-cell lymphoma (DLBCL) is the most common type of NHL in adults that mostly originates from the lymph nodes but can initiate outside of the lymphatic system. Lymphoma cells appear to be much larger in size than normal lymphocytes. In a multicenter clinical trial, the patients who were treated with axicabtagene ciloleucel achieved the complete remission rate of 51%. Developed by Kite Pharma, Inc., it was approved on October 18th, 2017 by the FDA as an intravenously infused anticancer therapy and is marketed under the brand name Yescarta.
+4. Indication:  Indicated for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, primary mediastinal large B-cell lymphoma, high grade B-cell lymphoma, and DLBCL arising from follicular lymphoma. 
+DrugId:  12
+1. Name:  Varlilumab
+2. Groups:  Investigational
+3. Description:  Varlilumab has been used in trials studying the treatment of MELANOMA, Skin Ulcer, Burkett's Lymphoma, Mantle cell lymphoma, and Any T-cell Malignancy, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Brigatinib
+2. Groups:  Approved, Investigational
+3. Description:  Brigatinib, originally named AP26113, is a reversible dual inhibitor of anaplastic lymphoma kinase (ALK) and epidermal growth factor receptor (EGFR). It presents selectivity against the mutant forms of EGFR compared to the wild-type.[1] It also exhibits selectivity against 9 different Crizotinib-resistant mutants of the EML4-ALK fusion gene, which is a pivotal player in the transformation of susceptible lung parenchyma.[2] Brigatinib was developed by Ariad Pharmaceuticals, a subsidiary of Takeda Pharmaceutical Company Limited, and FDA-approved on April 28, 2017.[9]
+4. Indication:  The anaplastic lymphoma kinase positive, metastatic non-small cell lung cancer (ALK+ NSCLC), represents only 3-5% of the NSCLC cancer cases, but the ALK mutation, overexpression and presence in several oncogenic fusion proteins in solid and hematologic tumors have pointed out the importance as well as its potential as a cancer therapy target.[1] The ALK-related cases of NSCLC are associated with the presence of the fusion gene EML4-ALK which fused the ALK protein with the echinoderm microtubule-associated protein like-4 whose original function is the correct formation of microtubules.[2] The presence of the aberrant fusion protein results in abnormal signaling that provokes increased cell growth, proliferation and survival.[4] Crizotinib is indicated for the treatment of such cases but the presence of ALK kinase domain mutations confer resistance to the treatment. Thus, brigatinib is indicated for the treatment of patients with ALK+ NSCLC with intolerance to Crizotinib.[3]
+DrugId:  14
+1. Name:  FAV-201
+2. Groups:  Investigational
+3. Description:  FAV-201 is a patient-specific immunotherapy for the treatment of T-cell lymphoma.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's).
+DrugId:  15
+1. Name:  FavId
+2. Groups:  Investigational
+3. Description:  FavId, is an active immunotherapy that is based upon unique genetic information extracted from a patient's tumor.
+4. Indication:  B-cell non-Hodgkin's lymphoma
+DrugId:  16
+1. Name:  Dihydroxyacetone phosphate
+2. Groups:  Investigational
+3. Description:  Dihydroxyacetone phosphate is an important intermediate in lipid biosynthesis and in glycolysis. Dihydroxyacetone phosphate has been investigated for the treatment of Lymphoma, Large-Cell, Diffuse.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  ABC-294640
+2. Groups:  Investigational
+3. Description:  ABC294640 has been used in trials studying the treatment of Diffuse Large B Cell Lymphoma.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Tetulomab tetraxetan Lu-177
+2. Groups:  Investigational
+3. Description:  Betalutin has been used in trials studying the treatment of Non-Hodgkin Lymphoma and Relapsed, Diffuse Large B-cell Lymphoma.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Spebrutinib
+2. Groups:  Investigational
+3. Description:  Spebrutinib has been used in trials studying the treatment of Rheumatoid Arthritis, Lymphoma, Large B-Cell, Diffuse, and Leukemia Lymphocytic Chronic B-Cell.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  CC-223
+2. Groups:  Investigational
+3. Description:  CC-223 has been used in trials studying the treatment and basic science of Multiple Myeloma, Glioblastoma Multiforme, HepatoCellular Carcinoma, Non-small Cell Lung Cancer, and Diffuse Large B-Cell Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Entospletinib
+2. Groups:  Investigational
+3. Description:  Entospletinib has been used in trials studying the treatment of Oncology, Follicular Lymphoma, B-cell Malignancies, Mantle Cell Lymphoma, and Non-Hodgkin Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  2'-fluoro-5-ethylarabinosyluracil
+2. Groups:  Investigational
+3. Description:  2'-fluoro-5-ethylarabinosyluracil (FAU) has been used in trials studying the treatment of Small Intestine Lymphoma, Stage IV Mantle Cell Lymphoma, Waldenström Macroglobulinemia, Splenic Marginal Zone Lymphoma, and Recurrent Mantle Cell Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  PPI-2458
+2. Groups:  Investigational
+3. Description:  PPI-2458 represents a potentially new and important addition to the growing list of therapeutics aimed at specific molecular oncology targets. PPI-2458 is a novel, proprietary molecule belonging to the fumagillin class of compounds that specifically targets the MetAP-2 enzyme. This class of compounds has been shown to prevent both abnormal cell growth and the formation of new blood vessels (known as angiogenesis), which contribute to the growth of aberrant tissues in diseases such as cancer and rheumatoid arthritis. Clinical development with previous fumagillin derivatives has been limited by their toxicity profile. In preclinical studies to date, PPI-2458 has demonstrated the potent pharmacologic activity of this class of compounds while displaying an improved pharmacokinetic and toxicity profile.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and solid tumors.

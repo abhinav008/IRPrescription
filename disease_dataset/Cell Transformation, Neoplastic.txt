@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Decitabine
+2. Groups:  Approved, Investigational
+3. Description:  Decitabine is indicated for treatment of patients with myelodysplastic syndrome (MDS). It is a chemical analogue of cytidine, a nucleoside present in DNA and RNA. Cells in the presence of Decitabine incorporate it into DNA during replication and RNA during transcription. The incorporation of Decitabine into DNA or RNA inhibits methyltransferase thereby causing demethylation in that sequence. This adversely affects the way that cell regulatory proteins are able to bind to the DNA/RNA substrate.
+4. Indication:  For treatment of patients with myelodysplastic syndromes (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia) and intermediate-1, intermediate-2, and high-risk International Prognostic Scoring System groups (scores ≥0.5).
+DrugId:  2
+1. Name:  Axicabtagene ciloleucel
+2. Groups:  Approved
+3. Description:  Axicabtagene ciloleucel is a chimeric antigen receptor (CAR) T cell therapy for the treatment of Diffuse large B-cell lymphoma (DLBCL), which is a type of a non-Hodgkin lymphoma (NHL). It is the second cell-based gene therapy that is FDA-approved but the first in the treatment of large B-cell lymphoma in adult patients. Uniquely, axicabtagene ciloleucel utilizes each patient’s own immune system where each dose of the drug consists of the patient's genetically modified T-cells that were previously collected. The modified version of the T-cell expresses a new gene that targets and kills the lymphoma cells and is infused back into the patient. Diffuse large B-cell lymphoma (DLBCL) is the most common type of NHL in adults that mostly originates from the lymph nodes but can initiate outside of the lymphatic system. Lymphoma cells appear to be much larger in size than normal lymphocytes. In a multicenter clinical trial, the patients who were treated with axicabtagene ciloleucel achieved the complete remission rate of 51%. Developed by Kite Pharma, Inc., it was approved on October 18th, 2017 by the FDA as an intravenously infused anticancer therapy and is marketed under the brand name Yescarta.
+4. Indication:  Indicated for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, primary mediastinal large B-cell lymphoma, high grade B-cell lymphoma, and DLBCL arising from follicular lymphoma. 
+DrugId:  3
+1. Name:  LGD-1550
+2. Groups:  Investigational
+3. Description:  LGD-1550 is an orally-active synthetic aromatic retinoic acid agent with potential antineoplastic and chemopreventive activities.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  4
+1. Name:  Apolizumab
+2. Groups:  Investigational
+3. Description:  Apolizumab is a humanized monoclonal antibody that is being studied as a treatment for hematologic cancers.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's), leukemia (lymphoid), and solid tumors.
+DrugId:  5
+1. Name:  Linsitinib
+2. Groups:  Investigational
+3. Description:  An orally bioavailable small molecule inhibitor of the insulin-like growth factor 1 receptor (IGF-1R) with potential antineoplastic activity. IGF-1R inhibitor OSI-906 selectively inhibits IGF-1R, which may result in the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  6
+1. Name:  Brentuximab vedotin
+2. Groups:  Approved, Investigational
+3. Description:  Brentuximab vedotin, also known as Adcetris®, is an antibody-drug conjugate that combines an anti-CD30 antibody with the drug monomethyl auristatin E (MMAE). It is an anti-neoplastic agent used in the treatment of Hodgkin's lymphoma and systemic anaplastic large cell lymphoma. Brentuximab vedotin was initially approved in 2011. In January 2012, the drug label was revised with a boxed warning of a condition known as progressive multifocal leukoencephalopathy and death due to opportunistic JC virus infection post treatment [5]. The U.S. Food and Drug Administration approved Adcetris in March 2018 to treat adult patients with previously untreated stage III or IV classical Hodgkin lymphoma (cHL) in combination with chemotherapy [5].Adcetris has also been previously approved by the FDA to treat Hodgkin's lymphoma after relapse, Hodgkin's lymphoma after stem cell transplantation when a patient has a high risk of relapse or progression, systemic anaplastic large cell lymphoma (ALCL) after the failure of other treatment regimens, and primary cutaneous ALCL after failure of other treatment regimens [5].Lymphoma is a malignancy that begins in the lymphatic system, which helps to combat infection and disease. Lymphoma may begin anywhere in the body and can spread to nearby lymph nodes. The two main types of lymphoma are Hodgkin lymphoma (also called Hodgkin disease) and non-Hodgkin lymphoma. Most individuals with Hodgkin's lymphoma have the classical type. In this type of lymphoma, large, abnormal lymphocytes (a type of white blood cell) are found in the lymph nodes called Reed-Sternberg cells. With early diagnosis and intervention, patients with Hodgkin lymphoma normally experience long-term remission [5].The ECHELON-1 study results demonstrated superior efficacy of the drug combined with a chemotherapy regimen when it is compared to the previous standard of care. Importantly, removing the drug bleomycin, a highly toxic agent, was completely removed from the regimen. This demonstrates meaningful progress in treatment for patients affected by this disease [6].
+4. Indication:  Seattle Genetics Announced FDA Approval of ADCETRIS® (Brentuximab Vedotin) in combination with chemotherapy for adults with previously untreated stage III or IV Classical Hodgkin Lymphoma in March 2018 [5, 6].Hodgkin lymphoma after failure of autologous stem cell transplant (ASCT) or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not ASCT candidates [FDA Label], [5].Systemic anaplastic large cell lymphoma after failure of at least one prior multi-agent chemotherapy regimen [FDA Label].
+DrugId:  7
+1. Name:  Tisagenlecleucel
+2. Groups:  Approved, Investigational
+3. Description:  Tisagenlecleucel is a CD19-directed genetically modified autologous T cell immunotherapy, or a CAR-T cell therapy for B-cell acute lymphoblastic leukemia. It was granted approval by FDA in August 2017 under the market name Kymriah. Tisagenlecleucel is an immunocellular therapy that involves autologous T cells that are collected from each individual patient and genetically engineered to express a specific protein called a chimeric antigen receptor (CAR) that specifically target CD19 antigens. Modified T cells are infused back into the patient's body. These CD19-directed chimeric antigen receptors (CD19 CAR-T cells) direct the T cells to targt and kill leukiemia cells that express a specific antigen (CD19) on the cell surface.In a multicenter clinical trial involving pediatric and young adult patients with relapsed or refractory B-cell precursor ALL, the overall remission rate within three months of treatment was 83 percent [4].
+4. Indication:  Indicated for the treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse [FDA Label]. 
+DrugId:  8
+1. Name:  Sertaconazole
+2. Groups:  Approved, Investigational
+3. Description:  Sertaconazole nitrate is an antifungal medication of the imidazole class. It is available as a cream to treat skin infections such as athlete's foot. [Wikipedia]
+4. Indication:  For the topical treatment of interdigital tinea pedis in immunocompetent patients 12 years of age and older, caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum.
+DrugId:  9
+1. Name:  Teicoplanin
+2. Groups:  Approved, Investigational
+3. Description:  Teicoplanin is a glycopeptide antibiotic. It is a mixture of several compounds, five major (named teicoplanin A2-1 through A2-5) and four minor (named teicoplanin RS-1 through RS-4). All teicoplanins share a same glycopeptide core, termed teicoplanin A3-1, a fused ring structure to which two carbohydrates (mannose and N-acetylglucosamine) are attached. The major and minor components also contain a third carbohydrate moiety, β-D-glucosamine, and differ only by the length and conformation of a side chain attached to it.
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms.
+DrugId:  10
+1. Name:  PPI-2458
+2. Groups:  Investigational
+3. Description:  PPI-2458 represents a potentially new and important addition to the growing list of therapeutics aimed at specific molecular oncology targets. PPI-2458 is a novel, proprietary molecule belonging to the fumagillin class of compounds that specifically targets the MetAP-2 enzyme. This class of compounds has been shown to prevent both abnormal cell growth and the formation of new blood vessels (known as angiogenesis), which contribute to the growth of aberrant tissues in diseases such as cancer and rheumatoid arthritis. Clinical development with previous fumagillin derivatives has been limited by their toxicity profile. In preclinical studies to date, PPI-2458 has demonstrated the potent pharmacologic activity of this class of compounds while displaying an improved pharmacokinetic and toxicity profile.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and solid tumors.
+DrugId:  11
+1. Name:  Miltefosine
+2. Groups:  Approved, Investigational
+3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  12
+1. Name:  Choline C-11
+2. Groups:  Approved
+3. Description:  Choline C 11 Injection is a radioactive diagnostic agent for positron emission tomography (PET) imaging of pat ients with suspected prostate cancer recurrence and non-informative bone scintigraphy, computerized tomography (CT) or magnetic resonance imaging.
+4. Indication:  Choline C 11 Injection is indicated for positron emission tomography (PET) imaging of patients with suspected prostate cancer recurrence and non-informative bone scintigraphy, computerized tomography (CT) or magnetic resonance imaging (MRI). In these patients, 11 C-choline PET imaging may help identify potential sites of prostate cancer recurrence for subsequent histologic confirmation. Suspected prostate recurrence is based upon elevated blood prostate specific antigen (PSA) levels following initial therapy. In clinical studies, imag es w ere produced with PET/CT coregistration. 
+DrugId:  13
+1. Name:  Cabazitaxel
+2. Groups:  Approved
+3. Description:  Cabazitaxel is an anti-neoplastic used with the steroid medicine prednisone. Cabazitaxel is used to treat people with prostate cancer that has progressed despite treatment with docetaxel. Cabazitaxel is prepared by semi-synthesis with a precursor extracted from yew needles (10-deacetylbaccatin III). It was approved by the U.S. Food and Drug Administration (FDA) on June 17, 2010.
+4. Indication:  For treatment of patients with hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing treatment regimen.
+DrugId:  14
+1. Name:  Fluconazole
+2. Groups:  Approved, Investigational
+3. Description:  Triazole antifungal agent that is used to treat oropharyngeal candidiasis and cryptococcal meningitis in AIDS. [PubChem]
+4. Indication:  For the treatment of fungal infections.
+DrugId:  15
+1. Name:  Fosfomycin
+2. Groups:  Approved
+3. Description:  An antibiotic produced by Streptomyces fradiae. [PubChem]
+4. Indication:  For the treatment of uncomplicated urinary tract infections (acute cystitis) in women due to susceptible strains of Escherichia coli and Enterococcus faecalis.
+DrugId:  16
+1. Name:  Mechlorethamine
+2. Groups:  Approved, Investigational
+3. Description:  A vesicant and necrotizing irritant destructive to mucous membranes, mechlorethamine is an alkylating drug. It was formerly used as a war gas. The hydrochloride is used as an antineoplastic in Hodgkin's disease and lymphomas. It causes severe gastrointestinal and bone marrow damage. [PubChem]The FDA granted marketing approval for the orphan drug Valchlor (mechlorethamine) gel on August 23, 2013 for the topical treatment of stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma (CTCL) in patients who have received prior skin-directed therapy. Each tube of Valchlor contains 0.016% of mechlorethamine which is equivalent to 0.02% mechlorethamine HCL. 
+4. Indication:  For the palliative treatment of Hodgkin's disease (Stages III and IV), lymphosarcoma, chronic myelocytic or chronic lymphocytic leukemia, polycythemia vera, mycosis fungoides, and bronchogenic carcinoma. Also for the palliative treatment of metastatic carcinoma resulting in effusion.
+DrugId:  17
+1. Name:  Tegafur-uracil
+2. Groups:  Approved, Investigational
+3. Description:  Tegafur-uracil is an anti-tumor compound containing tegafur (1-(2-tetrahydrofuryl)-5-fluorouracil) and uracil in a molar ratio of 1:4. It was developed as an anti-cancer therapy by Taiho Pharmaceutical Co Ltd.[1] It is approved in different countries but it is not yet approved by the FDA, Health Canada or EMA.
+4. Indication:  Tegafur-uracil is indicated for the first line treatment of metastatic colorectal cancer with concomitant administration of calcium folinate.[8] Colorectal cancer is the third most diagnosed cancer and 30% of the cases can present the metastatic state.[5]
+DrugId:  18
+1. Name:  Methotrexate
+2. Groups:  Approved
+3. Description:  An antineoplastic antimetabolite with immunosuppressant properties. It is an inhibitor of tetrahydrofolate dehydrogenase and prevents the formation of tetrahydrofolate, necessary for synthesis of thymidylate, an essential component of DNA.
+4. Indication:  Methotrexate is indicated in the treatment of gestational choriocarcinoma, chorioadenoma destruens and hydatidiform mole. In acute lymphocytic leukemia, methotrexate is indicated in the prophylaxis of meningeal leukemia and is used in maintenance therapy in combination with other chemotherapeutic agents. Methotrexate is also indicated in the treatment of meningeal leukemia. Methotrexate is used alone or in combination with other anticancer agents in the treatment of breast cancer, epidermoid cancers of the head and neck, advanced mycosis fungoides (cutaneous T cell lymphoma), and lung cancer, particularly squamous cell and small cell types. Methotrexate is also used in combination with other chemotherapeutic agents in the treatment of advanced stage non-Hodgkin’s lymphomas. Methotrexate is indicated in the symptomatic control of severe, recalcitrant, disabling psoriasis. Methotrexate is indicated in the management of selected adults with severe, active rheumatoid arthritis (ACR criteria), or children with active polyarticular-course juvenile rheumatoid arthritis. 
+DrugId:  19
+1. Name:  Doxorubicin
+2. Groups:  Approved, Investigational
+3. Description:  Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius. Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
+4. Indication:  Doxorubicin is used to produce regression in disseminated neoplastic conditions like acute lymphoblastic leukemia, acute myeloblastic leukemia, Wilms’ tumor, neuroblastoma, soft tissue and bone sarcomas, breast carcinoma, ovarian carcinoma, transitional cell bladder carcinoma, thyroid carcinoma, gastric carcinoma, Hodgkin’s disease, malignant lymphoma and bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types. Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.
+DrugId:  20
+1. Name:  OSI-461
+2. Groups:  Investigational
+3. Description:  OSI-461 is a second-generation molecule belonging to a new class of drugs termed selective apoptotic anti-neoplastic drugs (SAANDs).
+4. Indication:  Investigated for use/treatment in crohn's disease, inflammatory bowel disease, kidney cancer, leukemia (lymphoid), and prostate cancer.
+DrugId:  21
+1. Name:  Econazole
+2. Groups:  Approved
+3. Description:  A broad spectrum antimycotic with some action against Gram positive bacteria. It is used topically in dermatomycoses also orally and parenterally. [PubChem]
+4. Indication:  For topical application in the treatment of tinea pedis, tinea cruris, and tinea corporis caused by Trichophyton rubrum, Trichophyton mentagrophytes, Trichophyton tonsurans, Microsporum canis, Microsporum audouini, Microsporum gypseum, and Epidermophyton floccosum, in the treatment of cutaneous candidiasis, and in the treatment of tinea versicolor.
+DrugId:  22
+1. Name:  Uridine triacetate
+2. Groups:  Approved, Investigational
+3. Description:  Uridine triacetate, formerly known as vistonuridine, is an orally active prodrug of the naturally occurring nucleoside uridine. It is used for the treatment of hereditary orotic aciduria (Xuriden), or for the emergency treatment of fluorouracil or capecitabine overdose or toxicity (Vistogard). It is provided in the prodrug form as uridine triacetate as this form delivers 4- to 6-fold more uridine into the systemic circulation compared to equimolar doses of uridine itself. When used for the treatment or prevention of toxicity associated with fluorouracil and other antimetabolites, uridine triacetate is utilized for its ability to compete with 5-fluorouracil (5-FU) metabolites for incorporation into the genetic material of non-cancerous cells. It reduces toxicity and cell-death associated with two cytotoxic intermediates: 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). Normally, FdUMP inhibits thymidylate synthase required for thymidine synthesis and DNA replication and repair while FUTP incorporates into RNA resulting in defective strands. As a result, these metabolites are associated with various unpleasant side effects such as neutropenia, mucositis, diarrhea, and hand–foot syndrome. Like many other neoplastic agents, these side effects limit the doses of 5-FU that can be administered, which also affects the efficacy for treatment. By pre-administering with uridine (as the prodrug uridine triacetate), higher doses of 5-FU can be given allowing for improved efficacy and a reduction in toxic side effects [3]. It can also be used as a rescue therapy if severe side effects present within 96 hours after initiation of therapy. Uridine triacetate is also used for the treatment of hereditary orotic aciduria, also known as uridine monophosphate synthase deficiency. This rare congenital autosomal recessive disorder of pyrimidine metabolism is caused by a defect in uridine monophosphate synthase (UMPS), a bifunctional enzyme that catalyzes the final two steps of the de novo pyrimidine biosynthetic pathway. As a result of UMPS deficiency, patients experience a systemic deficiency of pyrimidine nucleotides, accounting for most symptoms of the disease. Additionally, orotic acid from the de novo pyrimidine pathway that cannot be converted to UMP is excreted in the urine, accounting for the common name of the disorder, orotic aciduria. Furthermore, orotic acid crystals in the urine can cause episodes of obstructive uropathy. When administered as the prodrug uridine triacetate, uridine can be used by essentially all cells to make uridine nucleotides, which compensates for the genetic deficiency in synthesis in patients with hereditary orotic aciduria. When intracellular uridine nucleotides are restored into the normal range, overproduction of orotic acid is reduced by feedback inhibition, so that urinary excretion of orotic acid is also reduced.
+4. Indication:  Marketed as the product Xuriden (FDA), uridine triacetate is indicated for the treatment of hereditary orotic aciduria.Marketed as the product Vistogard (FDA), uridine triacetate is indicated for the emergency treatment of adult and pediatric patients in the following situations: following a fluorouracil or capecitabine overdose regardless of the presence of symptoms; or who exhibit early-onset, severe or life-threatening toxicity affecting the cardiac or central nervous system, and/or early-onset, unusually severe adverse reactions (e.g., gastrointestinal toxicity and/or neutropenia) within 96 hours following the end of fluorouracil or capecitabine administration. 
+DrugId:  23
+1. Name:  Azacitidine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analogue that inhibits DNA methyltransferase, impairing DNA methylation. It is also an antimetabolite of cytidine, incorporated primarily into RNA. Azacytidine has been used as an antineoplastic agent. [PubChem]
+4. Indication:  For treatment of patients with the following French-American-British myelodysplastic syndrome subtypes: refractory anemia or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts, refractory anemia with excess blasts in transformation (now classified as acute myelogenous leukemia with multilineage dysplasia), and chronic myelomonocytic leukemia.
+DrugId:  24
+1. Name:  Brigatinib
+2. Groups:  Approved, Investigational
+3. Description:  Brigatinib, originally named AP26113, is a reversible dual inhibitor of anaplastic lymphoma kinase (ALK) and epidermal growth factor receptor (EGFR). It presents selectivity against the mutant forms of EGFR compared to the wild-type.[1] It also exhibits selectivity against 9 different Crizotinib-resistant mutants of the EML4-ALK fusion gene, which is a pivotal player in the transformation of susceptible lung parenchyma.[2] Brigatinib was developed by Ariad Pharmaceuticals, a subsidiary of Takeda Pharmaceutical Company Limited, and FDA-approved on April 28, 2017.[9]
+4. Indication:  The anaplastic lymphoma kinase positive, metastatic non-small cell lung cancer (ALK+ NSCLC), represents only 3-5% of the NSCLC cancer cases, but the ALK mutation, overexpression and presence in several oncogenic fusion proteins in solid and hematologic tumors have pointed out the importance as well as its potential as a cancer therapy target.[1] The ALK-related cases of NSCLC are associated with the presence of the fusion gene EML4-ALK which fused the ALK protein with the echinoderm microtubule-associated protein like-4 whose original function is the correct formation of microtubules.[2] The presence of the aberrant fusion protein results in abnormal signaling that provokes increased cell growth, proliferation and survival.[4] Crizotinib is indicated for the treatment of such cases but the presence of ALK kinase domain mutations confer resistance to the treatment. Thus, brigatinib is indicated for the treatment of patients with ALK+ NSCLC with intolerance to Crizotinib.[3]
+DrugId:  25
+1. Name:  Itraconazole
+2. Groups:  Approved, Investigational
+3. Description:  One of the triazole antifungal agents that inhibits cytochrome P-450-dependent enzymes resulting in impairment of ergosterol synthesis. It has been used against histoplasmosis, blastomycosis, cryptococcal meningitis & aspergillosis. [PubChem]
+4. Indication:  For the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients: pulmonary and extrapulmonary blastomycosis, histoplasmosis, aspergillosis, and onychomycosis.

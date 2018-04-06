@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Gefarnate
+2. Groups:  Investigational
+3. Description:  Gefarnate has been investigated for the treatment and prevention of Stomach Ulcer, Duodenal Ulcer, and Cardio-cerebrovascular Disease.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Acetylcarnitine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcarnitine is an investigational drug in the United states, Italy, United Kingdom, China, Israel, and Norway, and it is approved in Italy, Portugal, Argentina, Chile, Philippines, Australia, and India. Acetylcarnitine can be synthesized, but it is also naturally found in adequate amounts in healthy humans. In human plasma and tissues, acetylcarnitine is the most predominant acylated ester of carnitine, which is an amino acid derivative that is made in the kidney, liver, and brain from lysine and methionine. The main role of acetylcarnitine is to help transport fatty acids into the mitochondrial matrix where fatty acid metabolism occurs.
+4. Indication:  Acetylcarnitine is not approved for any indication in the United states and Canada, but it is approved and indicated in Italy for cerebrovascular disorders, mental function disorders, peripheral nerve disorders, diabetic neuropathy, and nutritional supplementation; Portugal for mental function disorders; Argentina for cerebral vasculopathy, nutritional supplementation, and peripheral neuropathy; Chile for dementia; Philippines for cerebrovascular disorders and mental function disorders; Australia for nutritional supplementation; and India for nutritional supplementation to increase sperm count. Acetylcarnitine also has several potential therapeutic indications for which it is still being investigated: in Norway, acetylcarnitine is in a phase IV trial for prophylactic treatment of migraines; in Italy acetylcarnitine is in a phase II trial for use in patients with type 2 Diabetes Mellitus, a phase III trial for alleviating fatigue in patients with chronic hepatitis C, and for use in patients with Minimal Hepatic Encephalopathy; in the United States acetylcarnitine is in a phase II trial for the neurodegenerative disorder Progressive Supranuclear Palsy, a phase II and III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy, a phase I and II trial for treating patients in septic shock, a phase II trial for bipolar depression, a phase II trial to reduce oxidative stress in patients with Sickle Cell disease, a phase I and II trial for chronic fatigue syndrome, and a study for preventing nerve damage in HIV patients; in China acetylcarnitine is in a phase III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy; in the United Kingdom acetylcarnitine is being investigated for preventing nerve damage in HIV patients; and in Israel acetylcarnitine is being studied for the treatment of male infertility.
+DrugId:  3
+1. Name:  Xanthinol
+2. Groups:  Approved, Withdrawn
+3. Description:  Xanthinol is a very potent water-soluble derivative of niacin that can be found in diet supplements. It is also known as xanthinol nicotinate. [6] Xaninthol is known to be a potent vasodilator that can easily pass through the cell membrane and once inside the cell it causes an increase in glucose metabolism resulting in an increased energy. [7] It was approved as a drug in 1998 in Canada and nowadays its status is cancelled post marketing.
+4. Indication:  Xanthinol is primarily used in diet supplements to increase the brain metabolism of glucose and obtain ATP. Xanthinol is also used as an agent to reduced cholesterol as it is a vasodilator.[7] Its action allows having an elevated rate of blood flow in the brain which helps improve memory function, concentration and awareness.[6] Thus, due to his actions, xanthinol is indicated to improve cerebrovascular and peripheral vascular disorders as well as hyperlipidaemias.[8]
+DrugId:  4
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  5
+1. Name:  Enprofylline
+2. Groups:  Approved, Investigational
+3. Description:  Enprofylline is a derivative of theophylline which shares bronchodilator properties. Enprofylline is used in asthma, chronic obstructive pulmonary disease, and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy. Long-term enprofylline administration may be associated with elevation in liver enzyme levels and unpredictable blood levels.
+4. Indication:  Used in the management of symptoms of asthma. Also used in the treatment of peripheral vascular diseases and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy.
+DrugId:  6
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  7
+1. Name:  Nicaraven
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cerebrovascular disease (unspecified).
+DrugId:  8
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  9
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  10
+1. Name:  Ibudilast
+2. Groups:  Approved, Investigational
+3. Description:  Ibudilast is an anti-inflammatory and neuroprotective oral agent which shows an excellent safety profile at 60 mg/day and provides significantly prolonged time-to-first relapse and attenuated brain volume shrinkage in patients with relapsing-remitting (RR) and/or secondary progressive (SP) multiple sclerosis (MS). Ibudilast is currently in development in the U.S. (codes: AV-411 or MN-166), but is approved for use as an antiinflammatory in Japan.
+4. Indication:  For the treatment of multiple sclerosis, asthma, and cerebrovascular disease.
+DrugId:  11
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  12
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  13
+1. Name:  Pentoxifylline
+2. Groups:  Approved, Investigational
+3. Description:  A methylxanthine derivative that inhibits phosphodiesterase and affects blood rheology. It improves blood flow by increasing erythrocyte and leukocyte flexibility. It also inhibits platelet aggregation. Pentoxifylline modulates immunologic activity by stimulating cytokine production. [PubChem]
+4. Indication:  For the treatment of patients with intermittent lameness or immobility arising from chronic occlusive arterial disease of the limbs.
+DrugId:  14
+1. Name:  Technetium Tc-99m exametazime
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m exametazime is a radiopharmaceutical sold under the trade name Ceretec, and is used by nuclear medicine physicians for the detection of altered regional cerebral perfusion in stroke and other cerebrovascular diseases. It can also be used for the labelling of leukocytes to localise intra-abdominal infections and inflammatory bowel disease. Exametazime, also known as hexamethylpropyleneamine oxime or HMPAO, acts as a chelating agent for the Tc-99m radioisotope.
+4. Indication:  Technetium Tc99m exametazime scintigraphy (with or without methylene blue stabilization) may be useful as an adjunct in the detection of altered regional cerebral perfusion in stroke. Tc99m exametazime without methylene blue stabilization is indicated for leukocyte labeled scintigraphy as an adjunct in the localization of intra-abdominal infection and inflammatory bowel disease.
+DrugId:  15
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  16
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  17
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  18
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  19
+1. Name:  Milrinone
+2. Groups:  Approved
+3. Description:  A positive inotropic cardiotonic agent with vasodilator properties. It inhibits cAMP phosphodiesterase activity in myocardium and vascular smooth muscle. Milrinone is a derivative of amrinone and has 20-30 times the ionotropic potency of amrinone. [PubChem]
+4. Indication:  Indicated for the treatment of congestive heart failure.
+DrugId:  20
+1. Name:  Nicergoline
+2. Groups:  Approved, Investigational
+3. Description:  An ergot derivative that has been used as a cerebral vasodilator and in peripheral vascular disease. It has been suggested to ameliorate cognitive deficits in cerebrovascular disease. [PubChem]
+4. Indication:  For the treatment of senile dementia, migraines of vascular origin, transient ischemia, platelet hyper-aggregability, and macular degeneration.
+DrugId:  21
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  22
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  23
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  24
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  25
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available

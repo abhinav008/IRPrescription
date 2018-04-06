@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  2-Methoxyestradiol
+2. Groups:  Investigational
+3. Description:  2-Methoxyestradiol (2ME2) is a drug that prevents the formation of new blood vessels that tumors need in order to grow (angiogenesis). It has undergone Phase 1 clinical trials against breast cancers. Preclinical models also suggest that 2ME2 could also be effective against inflammatory diseases such as rheumatoid arthritis.
+4. Indication:  For the treatment of breast cancer and inflammatory diseases such as rheumatoid arthritis.
+DrugId:  2
+1. Name:  Elafin
+2. Groups:  Investigational
+3. Description:  Elafin is a human protein that is produced naturally in the skin, lung and breast, protecting the respective tissue from destruction by the immune system. Elafin’s ability to block the activity of destructive enzymes that are involved in inflammatory reactions makes it a highly promising active compound for the treatment of inflammatory lung diseases or severe reperfusion injuries occurring after heart attacks, serious injuries and organ transplantation. The excellent tolerability of Elafin in human subjects was demonstrated in a Phase I clinical single dose escalating study.
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified).
+DrugId:  3
+1. Name:  Ganitumab
+2. Groups:  Investigational
+3. Description:  Ganitumab has been used in trials studying the treatment of Colon Cancer, Rectal Cancer, Breast Cancer, Breast Tumors, and Breast Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  PTC299
+2. Groups:  Investigational
+3. Description:  PTC299 is a novel, orally administered small-molecule designed to inhibit the production of vascular endothelial growth factor (VEGF) in tumors. Overexpression of VEGF plays a key role in multiple diseases including cancer and macular degeneration. PTC299 was discovered through PTC's GEMS technology by targeting the post-transcriptional processes that regulate VEGF formation, and is currently being developed for the treatment of cancer. 
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  6
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  7
+1. Name:  Mirostipen
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in breast cancer, lung cancer, and ovarian cancer.
+DrugId:  8
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Thiotepa
+2. Groups:  Approved, Investigational
+3. Description:  N,N'N'-triethylenethiophosphoramide (ThioTEPA) is a cancer chemotherapeutic member of the alkylating agent group, now in use for over 50 years. It is a stable derivative of N,N',N''- triethylenephosphoramide (TEPA). It is mostly used to treat breast cancer, ovarian cancer and bladder cancer. It is also used as conditioning for Bone marrow transplantation. Its main toxicity is myelosuppression.
+4. Indication:  ThioTEPA is used a as conditioning treatment prior to allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT) in haematological diseases in adult and paediatric patients. Also, when high dose chemotherapy with HPCT support it is appropriate for the treatment of solid tumours in adult and paediatric patients.
+DrugId:  10
+1. Name:  Bavituximab
+2. Groups:  Investigational
+3. Description:  Bavituximab is a chimeric Anti-PS monoclonal antibody analog which is used to potentially treat cancers and viral infections. It binds to phosphatidylserine and other exposed host cell lipids when induced by cellular stress. Additional analogs in the class include 3G4, 2aG4, 9d2 and Hu3g4.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), HIV infection, hepatitis (viral, C), and solid tumors.
+DrugId:  11
+1. Name:  Adecatumumab
+2. Groups:  Investigational
+3. Description:  Adecatumumab is a recombinant human monoclonal antibody of the IgG1 subclass with a binding specificity to epithelial cell adhesion molecule (EpCAM). EpCAM (CD326) is a cell surface protein that is frequently expressed at high level on most solid tumor types, including prostate, breast, colon, gastric, ovarian, pancreatic and lung cancer.
+4. Indication:  Investigated for use/treatment in breast cancer and prostate cancer.
+DrugId:  12
+1. Name:  Denosumab
+2. Groups:  Approved
+3. Description:  Denosumab is a novel, fully human IgG2 monoclonal antibody specific to receptor activator of nuclear factor kappa-B ligand (RANKL), suppresses bone resorption markers in patients with a variety of metastatic tumors and is being investigated in multiple clinical trials for the prevention and treatment of bone metastases. Chemically, it consists of 2 heavy and 2 light chains. Each light chain consists of 215 amino acids. Each heavy chain consists of 448 amino acids with 4 intramolecular disulfides. FDA approved on June 1, 2010. 
+4. Indication:  Prolia is indicated for the treatment of postmenopausal women with osteoporosis at high risk for fracture. It reduces the incidence of vertebral, nonvertebral, and hip fractures. Prolia is also indicated as a treatment to increase bone mass in women at high risk for fracture receiving adjuvant aromatase inhibitor therapy for breast cancer. It can also be used in men with osteoporosis at high risk for fracture or in men receiving androgen deprivation therapy for nonmetastatic prostate cancer to increase bone mass. Xgeva is indicated for the prevention of skeletal-related events in patients with bone metastases from solid tumors.
+DrugId:  13
+1. Name:  Pamidronate
+2. Groups:  Approved
+3. Description:  Pamidronic acid (INN) or pamidronate disodium (USAN), marketed as pamidronate disodium pentahydrate under the brand name Aredia, is a bisphosphonate. [Wikipedia]
+4. Indication:  For the treatment of moderate or severe hypercalcemia associated with malignancy
+DrugId:  14
+1. Name:  2-deoxyglucose
+2. Groups:  Experimental, Investigational
+3. Description:  2-deoxyglucose is predominantly used as a diagnostic agent in its radiolabelled form (fluorine-18 is used as the radiolabel). By using positron emission tomography (PET), radiolabelled 2-deoxyglucose can determine glucose metabolism, which is altered in diseases such as cardiovascular disease, tumors, and Alzheimer's disease. Therapeutically, 2-deoxyglucose is an investigational drug that is being studied as an anticancer and antiviral agent. Concerning the former, 2- deoxyglucose was used as an adjunct to chemotherapy and radiotherapy in the treatment of solid tumors (lung, breast, pancreas, head, neck, and gastric tumors). The exact mechanisms of action of 2-deoxyglucose is still being investigated, but it is known that in hypoxic cancer cells, 2-deoxyglucose is a glycolysis inhibitor that prevents ATP production and, ultimately, cell survival. With respect to antiviral therapy, 2-deoxyglucose was shown to be effective against herpes simplex virus by affecting the virus' ability to penetrate cells. As an experimental drug, 2-deoxyglucose was demonstrated to work as an anticonvulsant in temporal lobe epilepsy. In this condition, 2-deoxyglucose represses the expression of certain proteins that are at high levels after a seizure. Although there are several possible therapeutic indications for 2-deoxyglucose, presently there is no approved indication for 2-deoxyglucose as a therapeutic agent.
+4. Indication:  As of July 2013, there is no approved therapeutic indication for 2-deoxyglucose. 2-deoxyglucose may have several potential indications as an adjunct to chemotherapy and radiotherapy in the treatment of solid tumors, as an antiviral treatment in herpes simplex patients, and as an antiepileptic in temporal lobe epilepsy patients.
+DrugId:  15
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  16
+1. Name:  BZL101
+2. Groups:  Investigational
+3. Description:  BZL101 is an oral drug designed for the treatment of advanced breast cancer with a novel mechanism of action. BZL101 targets diseased cells while leaving normal cells healthy and intact.
+4. Indication:  Investigated for use/treatment in breast cancer.
+DrugId:  17
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  18
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  IGN301
+2. Groups:  Investigational
+3. Description:  IGN301 is a cancer vaccine based on an anti-idiotypic antibody which provokes an immune response to Lewis Y. Lewis Y is a carbohydrate molecule expressed on the surface of tumor cells of epithelial origin (e.g. lung, intestinal, breast, prostate or ovarian cancers).
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  20
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  21
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  99mTc-14 F7 Mab
+2. Groups:  Investigational
+3. Description:  99mTc 14F7 Mab has strong anti tumor activity against myeloma cells in vivo. Growth inhibition and prolonged survival of the myeloma tumor were obtained as evidences of anti tumor effect after treatment with 99mTc 14F7 Mab. 
+4. Indication:  Investigated for use/treatment in breast cancer.
+DrugId:  23
+1. Name:  Figitumumab
+2. Groups:  Investigational
+3. Description:  Figitumumab has been used in trials studying the treatment of Sarcoma, Solid Tumor, Breast Cancer, Lung Neoplasms, and Advanced Cancer, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Dalotuzumab
+2. Groups:  Investigational
+3. Description:  Dalotuzumab has been investigated for the treatment of Breast Cancer, Non Small Cell Lung Cancer, and Metastatic Colorectal Cancer.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Lobaplatin
+2. Groups:  Investigational
+3. Description:  Lobaplatin has been used in trials studying the treatment of Breast Cancer, Hepatocellular Carcinoma, and Lobaplatin and Gemcitabine in Combination, Second-line Treatments on Advanced Osteosarcoma.
+4. Indication:  Not Available

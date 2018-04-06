@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  2
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  3
+1. Name:  Ergotamine
+2. Groups:  Approved
+3. Description:  A vasoconstrictor found in ergot of Central Europe. It is an alpha-1 selective adrenergic agonist and is commonly used in the treatment of migraine disorders. [PubChem]
+4. Indication:  For use as therapy to abort or prevent vascular headache, e.g., migraine, migraine variants, or so called "histaminic cephalalgia".
+DrugId:  4
+1. Name:  Fasudil
+2. Groups:  Investigational
+3. Description:  Fasudil has been investigated in Carotid Stenosis.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Oxygen
+2. Groups:  Approved, Vet approved
+3. Description:  Oxygen is a chemical element with symbol O and atomic number 8. Uptake of oxygen from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen. Higher level of oxygen than ambient air (hyperoxia) can be introduced under normobaric or hyperbaric conditions.
+4. Indication:  Oxygen therapy in clinical settings is used across diverse specialties, including various types of anoxia, hypoxia or dyspnea and any other disease states and conditions that reduce the efficiency of gas exchange and oxygen consumption such as respiratory illnesses, trauma, poisonings and drug overdoses. Oxygen therapy tries to achieve hyperoxia [6] to reduce the extent of hypoxia-induced tissue damage and malfunction. 
+DrugId:  6
+1. Name:  ISIS 14803
+2. Groups:  Investigational
+3. Description:  ISIS 14803 is a 20-unit antisense phosphorothioate oligodeoxynucleotide that binds to hepatitis C virus (HCV) RNA at the translation initiation region of the internal ribosome entry site (IRES) and inhibits protein expression in cell culture.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  7
+1. Name:  Almitrine
+2. Groups:  Approved
+3. Description:  A respiratory stimulant that enhances respiration by acting as an agonist of peripheral chemoreceptors located on the carotid bodies. The drug increases arterial oxygen tension while decreasing arterial carbon dioxide tension in patients with chronic obstructive pulmonary disease. It may also prove useful in the treatment of nocturnal oxygen desaturation without impairing the quality of sleep. [PubChem]
+4. Indication:  For the treatment of chronic obstructive pulmonary disease.
+DrugId:  8
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  9
+1. Name:  OPC-28326
+2. Groups:  Investigational
+3. Description:  At low doses, OPC 28326 selectively vasodilates the femoral arterial bed due to its inhibitory action at alpha-2-adrenoceptors while having minimal action on systemic blood pressure, heart rate and coronary, carotid, vertebral, renal, and mesenteric blood flows. It is the only clinical compound with this profile. It is currently being investigated in the treatment of peripheral vascular diseases and Raynaud's syndrome.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease and raynaud's disease.
+DrugId:  10
+1. Name:  Pegnivacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, coronary artery disease, and vascular diseases.
+DrugId:  11
+1. Name:  Doxapram
+2. Groups:  Approved, Vet approved
+3. Description:  A central respiratory stimulant with a brief duration of action. (From Martindale, The Extra Pharmocopoeia, 30th ed, p1225)
+4. Indication:  For use as a temporary measure in hospitalized patients with acute respiratory insufficiency superimposed on chronic obstructive pulmonary disease.
+DrugId:  12
+1. Name:  Fibroblast growth factor-1
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in coronary artery disease and peripheral vascular disease.
+DrugId:  13
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  14
+1. Name:  Adomiparin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and coronary artery disease.
+DrugId:  15
+1. Name:  Regrelor
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, coronary artery disease, thrombosis, and transfusion.
+DrugId:  16
+1. Name:  Trafermin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in coronary artery disease, peripheral vascular disease, periodontal disease, bone fractures, entero-related fistulae, and diabetic foot ulcers.
+DrugId:  17
+1. Name:  Alferminogene Tadenovec
+2. Groups:  Investigational
+3. Description:  Alferminogene Tadenovec is Cardium’s lead product candidate, is being developed for the potential treatment of myocardial ischemia that gives rise to angina symptoms associated with coronary heart disease. Alferminogene tadenovec represents a new therapeutic class of biologics designed to promote angiogenesis and thereby improve blood flow following a one-time intracoronary administration from a standard cardiac infusion catheter.
+4. Indication:  Investigated for use/treatment in angina, coronary artery disease, and heart disease.
+DrugId:  18
+1. Name:  TAFA-93
+2. Groups:  Investigational
+3. Description:  TAFA93 is a novel prodrug of the mTOR inhibitor rapamycin which has successfully completed Phase 1 clinical development. mTOR inhibitors are currently used in the prevention of organ rejection in transplantation, the treatment of autoimmune and oncological diseases, and as a component of coated stents for the treatment of coronary artery disease.
+4. Indication:  Investigated for use/treatment in transplant (rejection).
+DrugId:  19
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  MC-1
+2. Groups:  Investigational
+3. Description:  Medicure's MC-1 drug is a cardio-protectant, designed to reduce the damage to the heart when arteries are blocked and when they are subsequently reopened after bypass surgery.
+4. Indication:  Investigated for use/treatment in coronary artery disease.
+DrugId:  21
+1. Name:  Esmirtazapine
+2. Groups:  Investigational
+3. Description:  Esmirtazapine (SCH 900265) is a drug which was under development by Organon for the treatment of insomnia and vasomotor symptoms (e.g., hot flashes) associated with menopause. Esmirtazapine is the (S)-(+)-enantiomer of mirtazapine and possesses similar overall pharmacology, including inverse agonist actions at H1 and 5-HT2 receptors and antagonist actions at α2-adrenergic receptors. Merck has terminated its internal clinical development program for esmirtazapine as of March 2010.
+4. Indication:  Investigated for use/treatment in insomnia and sleep disorders.
+DrugId:  22
+1. Name:  ARC183
+2. Groups:  Investigational
+3. Description:  ARC183 is a DNA aptamer, which is a single-stranded DNA molecule consisting of 15 deoxynucleotides that forms well-defined three-dimensional configuration, allowing it to bind to thrombin with high affinity and specificity. The keyadvantage of ARC183 compared to other thrombin inhibitors is its rapid onset of action and short half-life, giving it the potential to be an ideal agent for medical procedures that require rapid resolution of anticoagulation or that require reversal of anticoagulation shortly after the procedure is completed.
+4. Indication:  Investigated for use/treatment in blood (blood forming organ disorders, unspecified), cardiac surgery, and coronary artery disease.
+DrugId:  23
+1. Name:  Alicaforsen
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease and ulcerative colitis.
+DrugId:  24
+1. Name:  Starch, corn
+2. Groups:  Approved, Nutraceutical
+3. Description:  Corn starch refers to the starch extracted from the corn grain that is commonly used as a food ingredient and chemical additive. Starch is any of a group of polysaccharides of the general formula (C6-H10-O5)n, composed of a long-chain polymer of glucose in the form of amylose and amylopectin. Starch is the chief storage form of energy reserve (carbohydrates) in plants. Corn starch may be added in some food products as a thickening agent or anti-caking agent, and is sometimes found in topical drugs as a skin protectant.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Varespladib methyl
+2. Groups:  Investigational
+3. Description:  Varespladib methyl has been investigated for the treatment of Acute Coronary Syndrome. Studies showed that Varespladib methyl treatment resulted in significant positive changes on lipoproteins and inflammation.
+4. Indication:  Investigated for use/treatment in atherosclerosis and coronary artery disease.

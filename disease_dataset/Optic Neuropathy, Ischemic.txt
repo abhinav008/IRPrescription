@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  liposomal prostaglandin E1
+2. Groups:  Investigational
+3. Description:  Liposome-encapsulated form of prostaglandin E1 (Liprostin) is known to be a potent vasodilator and platelet inhibitor as well as an anti-inflammatory and anti-thrombotic agent. The liposomal formulation of PGE-1 changes the drug’s dynamics and improve its therapeutic index in ways that PGE-1 alone could not achieve.
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic) and peripheral vascular disease.
+DrugId:  2
+1. Name:  Elamipretide
+2. Groups:  Investigational
+3. Description:  Elamipretide has been used in trials studying the treatment of Leber's Hereditary Optic Neuropathy.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Idebenone
+2. Groups:  Approved, Investigational
+3. Description:  Idebenone is a synthetic analogue of ubiquinone (also known as Coenzyme Q10), a vital cell antioxidant and essential component of the Electron Transport Chain (ETC). It has been proposed that by interacting with the ETC, idebenone increases ATP production required for mitochondrial function, reduces free radicals, inhibits lipid peroxidation, and consequently protects the lipid membrane and mitochondria from oxidative damage [2]. More specifically, idebenone is thought to transfer electrons directly to complex III of the mitochondrial ETC, thereby circumventing complex I and restoring cellular energy (ATP) generation [4]. Due to its ability to reduce oxidative damage and improve ATP production, idebenone was originally investigated for its potential use in Alzheimer's Disease and other cognitivie disorders [3]. Lack of improvement in cognitive function halted its production for these conditions, however it continues to be investigated for use in other conditions associated with mitochondrial damage. Idebenone is currently only indicated for use by the European Medicines Agency (EMA) for the treatment of visual impairment in adolescent and adult patients withLeber’s Hereditary Optic Neuropathy (LHON). LHON is a mitochondrially inherited degeneration of retinal ganglion cells, resulting in acute central vision loss. Due to its biochemical mode of action, it's thought that idebenone may re-activate viable-but-inactive retinal ganglion cells (RGCs) in LHON patients [4]. It is not currently approved for use by either the Food and Drug Administration (USA) or Health Canada.
+4. Indication:  Idebenone is indicated for use by the European Medicines Agency (EMA) for the treatment of visual impairment in adolescent and adult patients withLeber’s Hereditary Optic Neuropathy (LHON). It is not currently approved for use by either the Food and Drug Administration (USA) or Health Canada [4].
+DrugId:  4
+1. Name:  DNB-001
+2. Groups:  Investigational
+3. Description:  DNB-001 is a first-in-class oral therapy with dual mechanism of action, which is initially being developed for the treatment of glaucoma. In preclinical animal models, DNB-001 has demonstrated potent IOP- lowering effects as well as neuroprotective effects on the optic nerve.
+4. Indication:  Investigated for use/treatment in ocular hypertension.
+DrugId:  5
+1. Name:  Ethambutol
+2. Groups:  Approved
+3. Description:  An antitubercular agent that inhibits the transfer of mycolic acids into the cell wall of the tubercle bacillus. It may also inhibit the synthesis of spermidine in mycobacteria. The action is usually bactericidal, and the drug can penetrate human cell membranes to exert its lethal effect. (From Smith and Reynard, Textbook of Pharmacology, 1992, p863)
+4. Indication:  For use, as an adjunct, in the treatment of pulmonary tuberculosis.
+DrugId:  6
+1. Name:  QR-333
+2. Groups:  Investigational
+3. Description:  QR-333 has been investigated as a treatment for diabetic peripheral neuropathy. QR-333 is a concentrated and standardized nutrient based active compounds dosed in a topical cream designed to reduce oxidative stress and treat symptoms of Diabetic Peripheral Neuropathy, a nerve disorder that can lead to numbness, skin ulcers, constant pain or extreme sensitivity to a stimulus.
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic).
+DrugId:  7
+1. Name:  Interferon Alfa-2a, Recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+4. Indication:  For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.
+DrugId:  8
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  9
+1. Name:  TAK-428
+2. Groups:  Investigational
+3. Description:  TAK-428 is a drug for treating diabetic neuropathy. It is based on the novel concept that peripheral nervous tissue that was damaged by diabetes can be repaired and regenerated by stimulating an increase in neurotrophic factors.
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic).
+DrugId:  10
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  11
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  12
+1. Name:  Sodium monofluorophosphate
+2. Groups:  Approved
+3. Description:  Sodium monofluorophosphate is used in OTC dental preparations to help protect against cavities
+4. Indication:  Sodium monofluorophosphate is indicated for the treatment of cavities
+DrugId:  13
+1. Name:  Trimetazidine
+2. Groups:  Approved, Investigational
+3. Description:  Trimetazidine is a drug for angina pectoris sold under the brand name Vastarel MR. Trimetazidine is described as the first cytoprotective anti-ischemic agent developed and marketed by Laboratoires Servier (France). Trimetazidine is an anti-ischemic (anti-anginal) metabolic agent, which improves myocardial glucose utilization through inhibition of long-chain 3-ketoacyl CoA thiolase activity, which results in a reduction in fatty acid oxidation and a stimulation of glucose oxidation. High fatty acid oxidation rates are detrimental during ischemia due to an inhibition of glucose oxidation leading to uncoupling of glycolysis and an increase in proton production, which has the potential to accelerate sodium and calcium overload in the heart, which leads to an exacerbation of ischemic injury and decreased cardiac efficiency during reperfusion.
+4. Indication:  Trimetazidine is indicated for use in angina pectoris.
+DrugId:  14
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  15
+1. Name:  SPP 301
+2. Groups:  Investigational
+3. Description:  SPP301 (Avosentan) is a potent and highly selective ET[A] receptor blocker and is clinically investigated in diabetic nephropathy. This study was designed to evaluate whether avosentan influences the pharmacokinetics of steroid oral contraceptives.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and neuropathy (diabetic).
+DrugId:  16
+1. Name:  Nerispirdine
+2. Groups:  Investigational
+3. Description:  Nerispirdine has been used in trials studying the treatment of Neuritis, Optic Nerve, and Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Ranirestat
+2. Groups:  Investigational
+3. Description:  Ranirestat is a structurally novel and stereospecifically potent aldose reductase (AKR1B; EC 1.1.1.21) inhibitor, which contains a succinimide ring that undergoes ring-opening at physiological pH levels. It has been used in trials studying the treatment of Mild to Moderate Diabetic Sensorimotor Polyneuropathy.
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic).
+DrugId:  18
+1. Name:  J147
+2. Groups:  Experimental
+3. Description:  J147 is an experimental drug with reported effects against both Alzheimer's disease and ageing in mouse models of accelerated aging. [1, 2, 3] It is a curcumin derivative and a potent neurogenic and neuroprotective drug candidate initially developed for the treatment of neurodegenerative conditions associated with aging that impacts many pathways implicated in the pathogenesis of diabetic neuropathy. [5]
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Reglixane
+2. Groups:  Investigational
+3. Description:  Reglixane, an isoxazolidine-3,5-dione derivative, is being developed by Pfizer for the treatment of diabetes. It is the first non-thiazolidenedione to enter clinical trials.
+4. Indication:  For the treatment of diabetes mellitus type 1 and 2.
+DrugId:  20
+1. Name:  Rezatomidine
+2. Groups:  Investigational
+3. Description:  Rezatomidine has been used in trials studying the treatment of Fibromyalgia, Cystitis, Interstitial, Irritable Bowel Syndrome, and Diabetic Neuropathy, Painful.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  SP-8203
+2. Groups:  Investigational
+3. Description:  SP-8203 has been used in trials studying the treatment of Ischemic Stroke.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  KD7040
+2. Groups:  Investigational
+3. Description:  KD7040 is a topically-delivered inducible nitric oxide synthase (iNOS) inhibitor for the treatment of neuropathic pain. The KD7040 IND was filed in 4Q06, and a Phase Ib clinical trial began 2Q07. It is being developed by Kalypsys.
+4. Indication:  For the treatment of pain.
+DrugId:  23
+1. Name:  AZD-2066
+2. Groups:  Investigational
+3. Description:  AZD2066 has been used in trials studying the treatment and basic science of Pain, Chronic Pain, Reflux Episodes, Neuropathic Pain, and Diabetic Neuropathy, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  ALGRX 1207
+2. Groups:  Investigational
+3. Description:  ALGRX 1207 is a topical local anesthetic that acts by binding to the fast sodium channel. ALGRX 1207 entered clinical trials for cutaneous neuropathic pain, such as chemotherapy-induced neuropathy, in 2006. It was being developed by Anesiva, but trials have halted.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  25
+1. Name:  Perzinfotel
+2. Groups:  Investigational
+3. Description:  Perzinfotel has been used in trials studying the treatment of Diabetes Mellitus and Diabetic Neuropathy, Painful.
+4. Indication:  Not Available

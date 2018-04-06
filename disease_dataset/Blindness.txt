@@ -1,0 +1,45 @@
+DrugId:  1
+1. Name:  Arsanilic acid
+2. Groups:  Experimental, Vet approved
+3. Description:  An arsenical which has been used as a feed additive for enteric conditions in pigs and poultry. It causes blindness and is ototoxic and nephrotoxic in animals. [PubChem]
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Capsicum oleoresin
+2. Groups:  Approved
+3. Description:  Capsicum oleoresin is an oily organic resin derived from the fruit of plants in the Capsicum genus, such as chilli peppers. When the plants are finely ground, capsicum oleoresin is formed after the extraction process of capsaicin using oragnic solvents such as ethanol. It is commonly used as a culinary spice. The intensity of biological actions and toxicological effects of capsicum oleoresin are a direct function of the amount of capsaicinoids, or capsaicin, present in the compound [6]. Capsaicinoids comprise of a group of fat-soluble pungent chemical phenols and include Capsaicin, dihydrocapsaicin, nordihydrocapsaicin, homocapsaicin, and homodihydrocapsaicin [3]. Capsaicin and dihydrocapsaicin are the most pungent capsaicinoid analogues [3].Capsicum oleoresin is contained in pepper sprays when suspended in water, and acts an active lachrymatory agent that induces irritation, lacrimation, pain, and temporary blindness when in contact with eyes. Due to its analgesic properties, capsicum oleoresin is used to temporarily relieve of minor aches and pains of muscles and joints as an active ingredient in topical OTC preparations and has been studied for management of different models of neuropathic pain [1]. It is suggested that capsicum oleoresin is a rich source of phytochemicals that consist of phenolic compounds with antioxidant and antidiabetic activities [2].
+4. Indication:  Indicated for the temporary relief of minor aches and pains of muscles and joints associated with simple backache, arthritis, strains and sprains. 
+DrugId:  3
+1. Name:  Cerliponase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Cerliponase alfa is an enzyme replacement treatment for a specific form of Batten disease. It was the first FDA-approved treatment to slow loss of walking ability (ambulation) in symptomatic pediatric patients 3 years of age and older with late infantile neuronal ceroid lipofuscinosis type 2 (CLN2), also known as tripeptidyl peptidase-1 (TPP1) deficiency. Intraventricular administration of the drug allows significant uptake into the brain. Cerliponase alfa was approved in April, 2017 (as Brineura).
+4. Indication:  Cerliponase alfa is a treatment for late infantile neuronal ceroid lipofuscinosis type 2 (CLN2) disease to decelerate the progressive motor function decline in patients 3 years of age and older. CLN2 disease is a form of Batten disease, a rare inherited neurodegenerative disorder and is associated with seizures, ataxia, rapid loss of language and motor functions, blindness, and early death [4]. It is caused by the lack the lysosomal enzyme tripeptidyl peptidase-1 (TPP1) and subsequent accumulation of lysosomal storage materials normally metabolized by this enzyme in the central nervous system.
+DrugId:  4
+1. Name:  Ivermectin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Ivermectin is a broad-spectrum anti-parasite medication. It was first marketed under the name Stromectol® and used against worms (except tapeworms), but, in 2012, it was approved for the topical treatment of head lice infestations in patients 6 months of age and older, and marketed under the name Sklice™ as well. Ivermectin is mainly used in humans in the treatment of onchocerciasis, but is also effective against other worm infestations (such as strongyloidiasis, ascariasis, trichuriasis and enterobiasis).
+4. Indication:  For the treatment of intestinal (i.e., nondisseminated) strongyloidiasis due to the nematode parasite Strongyloides stercoralis. Also for the treatment of onchocerciasis (river blindness) due to the nematode parasite Onchocerca volvulus. Can be used to treat scabies caused by Sarcoptes scabiei.
+DrugId:  5
+1. Name:  Pegaptanib
+2. Groups:  Approved, Investigational
+3. Description:  Pegaptanib is a polynucleotide aptamer. Pegaptanib specifically binds to VEGF 165, a protein that plays a critical role in angiogenesis (the formation of new blood vessels) and increased permeability (leakage from blood vessels), two of the primary pathological processes responsible for the vision loss associated with neovascular AMD. [Wikipedia]
+4. Indication:  For the treatment of neovascular (wet) age-related macular degeneration.
+DrugId:  6
+1. Name:  Ondansetron
+2. Groups:  Approved
+3. Description:  A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, postoperation, and radiation. Also used for the treatment of postoperative nausea and vomiting.
+DrugId:  7
+1. Name:  Voretigene Neparvovec
+2. Groups:  Approved
+3. Description:  Voretigene Neparvovec-rzyl (VN-rzyl) is an adeno-associated virus vector-based gene therapy.[6] An adeno-associated virus is a small virus that infects humans and other primates. It is not pathogenic and it causes a very mild immune response. This type of virus is vastly used as vectors for gene therapy because they can infect dividing and quiescent cell integrating just the carried genes into the host genome without fully integrating into the genome.[1] An advantage of this adeno-associated virus is the high predictability, unlike retrovirus, as they associate with a specific region of the human cellular genome localized in the chromosome 19. When used in genetic therapy, this virus is modified for the elimination of its negligible integrative capacity by the removal of rep and cap and the insertion of the desired gene with its promoter between the inverted terminal repeats.[2] VN-rzyl was developed by Spark Therapeutics Inc. and FDA approved on December 19, 2017.[7]
+4. Indication:  VN-rzyl is indicated for the treatment of children and adult patients with confirmed biallelic RPE65 mutation-associated retinal dystrophy. The administration of VN-rzyl is conditioned to the physician determination of the presence of viable retinal cells.[FDA Label] The RPE65 represents the LCA2 form of the Leber's congenital amaurosis (LCA). LCA is a group of inherited conditionts that involves retinal degeneration and severe vision loss in early childhood leading to total blindness by 30-40 years old. The LCA2 form is associated with a mutation that interferes with the isomerohydrolase activity of the retinal pigment epithelium. The isomerohydrolase activity transforms the trans-retinyl esters to 11-cis-retinal which is the natural ligand and chromophore of the opsins of rod and cones photoreceptors. In the presence of RPE65 mutations, the opsins cannot capture light or transduce it into electrical responses to initiate vision.[3]
+DrugId:  8
+1. Name:  Netarsudil
+2. Groups:  Approved
+3. Description:  A Rho kinase inhibitor with norepinephrine transport inhibitory activity that reduces production of aqueousAs of December 18, 2017 the FDA approved Aerie Pharmaceutical's Rhopressa (netarsudil ophthalmic solution) 0.02% for the indication of reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Acting as both a rho kinase inhibitor and a norepinephrine transport inhibitor, Netarsudil is a novel glaucoma medication in that it specifically targets the conventional trabecular pathway of aqueous humour outflow to act as an inhibitor to the rho kinase and norepinephrine transporters found there as opposed to affecting protaglandin F2-alpha analog like mechanisms in the unconventional uveoscleral pathway that many other glaucoma medications demonstrate.
+4. Indication:  Netarsudil is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  9
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.

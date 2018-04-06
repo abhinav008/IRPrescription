@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Aluminium
+2. Groups:  Approved, Investigational
+3. Description:  A metallic element that has the atomic number 13, atomic symbol Al, and atomic weight 26.98.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Clazosentan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  3
+1. Name:  Gadoteric acid
+2. Groups:  Approved
+3. Description:  Gadoteric acid is a macrocycle-structured gadolinium-based MRI contrast agent. It is composed of the organic acid DOTA (1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid) used for its chelating properties, and gadolinium (Gd3+). As a paramagnetic molecule, gadoterate develops a magnetic moment when placed in a magnetic field. This magnetic moment enhances the relaxation rates of water protons in its vicinity, leading to an increase in signal intensity (brightness) of tissues. More specifically, it reduces the T1 relaxation time (and to some extent the T2 and T2* relaxation times) in NMR, which is the source of its clinical utility. Increased signal brightness allows it to be used in imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become 'leaky'. Gadoteric acid, as the FDA approved product Dotarem, is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+4. Indication:  Gadoteric acid is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+DrugId:  4
+1. Name:  Paraldehyde
+2. Groups:  Approved, Investigational
+3. Description:  Paraldehyde is the cyclic trimer of acetaldehyde molecules. It was introduced into clinical practice in the UK by the Italian physician Vincenzo Cervello in 1882. It is a central nervous system depressant and was soon found to be an effective anticonvulsant, hypnotic and sedative. It was included in some cough medicines as an expectorant (though there is no known mechanism for this function beyond the placebo effect).
+4. Indication:  Paraldehyde was used historically as a sedative and hypnotic [1]. It has been used in the treatment of seizures as an anticonvulsant [2].
+DrugId:  5
+1. Name:  Ginkgo biloba
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  The extract of the Ginkgo leaves contains flavonoid glycosides and terpenoids (ginkgolides, bilobalides) and has been used pharmaceutically for hundreds of years. It has many alleged nootropic properties, and is mainly used as memory and concentration enhancer, and anti-vertigo agent. Ginkgo extract seems to have three effects on the human body: it improves blood flow (including microcirculation in small capillaries) to most tissues and organs; it protects against oxidative cell damage from free radicals; and it blocks many of the effects of PAF (platelet aggregation, blood clotting) that have been related to the development of a number of cardiovascular, renal, respiratory and CNS (Central Nervous System) disorders.
+4. Indication:  Appears to be effective in: alleviating age-related memory impairment in some elderly people with mild to moderate age-related memory or cognitive impairment; improving cognitive function in healthy young to middle-aged people; improving symptoms of Alzheimer's, vascular or mixed dementia; improving damage to the visual field in patients with normal tension glaucoma; decreasing the number of painful attacks in patients with Raynaud's syndrome; and may improve symptoms of vertigo and dizziness in some patients. 
+DrugId:  6
+1. Name:  Sertaconazole
+2. Groups:  Approved, Investigational
+3. Description:  Sertaconazole nitrate is an antifungal medication of the imidazole class. It is available as a cream to treat skin infections such as athlete's foot. [Wikipedia]
+4. Indication:  For the topical treatment of interdigital tinea pedis in immunocompetent patients 12 years of age and older, caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum.
+DrugId:  7
+1. Name:  Triflusal
+2. Groups:  Approved, Investigational
+3. Description:  Triflusal is a 2-acetoxy-4-trifluoromethylbenzoic acid and it is an aspirin chemically-related molecule but not a derivative. The benefits of this agent are the lack of action over the arachidonic acid pathway, the driven production of nitric oxide and the increase of cyclic nucleotide concentration on endothelial cells. The latest translates into the expansion of peripheral blood vessels.[11] It is very important as a secondary prevention of ischemic stroke by offering a lower risk of bleeding.[12] It was developed by J. Uriach and Company and even though it is commercialized in different countries it is not approved by the FDA, EMA or HealthCanada.
+4. Indication:  Triflusal is indicated as prophylaxis of thromboembolic disorders.[15] It has been registered in Spain and in other countries of Europe, South America and South Korea for the prevention of Stroke and myocardial infarction.[14]
+DrugId:  8
+1. Name:  Carbazochrome
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Carbazochrome is a hemostatic agent that causes the aggregation and adhesion of platelets in the blood to form a platelet plug, ceasing blood flow from an open wound. It is an oxidation product of adrenaline which enhances the microcirculatory tone [4]. It is hoped that this drug can be used in the future for preventing excessive blood flow during surgical operations and the treatment of hemorrhoids, but research on its effectiveness and the severity of possible side effects remains to be fairly inconclusive. It is not FDA-approved but is available as tablets or IM/SC injections in the treatment of hemorrhages in a number of countries.Carbazochrome has been investigated for use in the treatment of non-surgical acute uncomplicated hemorrhoids in a mixture with Troxerutin, and this combination therapy demonstrated efficacy and safe tolerability either at a local or systemic level [1].
+4. Indication:  Indicated for capillary and parenchymal hemorrhage (trauma, tonsillectomy, during surgery), intestinal bleeding, and thrombocytopenic purpura.
+DrugId:  9
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  10
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  11
+1. Name:  Nimodipine
+2. Groups:  Approved, Investigational
+3. Description:  Nimodipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nimodipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Compared to other calcium channel blocking agents, nimodipine exhibits greater effects on cerebral circulation than on peripheral circulation. Nimodipine is used to as an adjunct to improve the neurologic outcome following subarachnoid hemorrhage from ruptured intracranial aneurysm.
+4. Indication:  For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.
+DrugId:  12
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  13
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  14
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  15
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  16
+1. Name:  Nitroglycerin
+2. Groups:  Approved, Investigational
+3. Description:  A volatile vasodilator which relieves angina pectoris by stimulating guanylate cyclase and lowering cytosolic calcium. [PubChem]
+4. Indication:  For the prevention of angina
+DrugId:  17
+1. Name:  Nalidixic Acid
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic 1,8-naphthyridine antimicrobial agent with a limited bacteriocidal spectrum. It is an inhibitor of the A subunit of bacterial DNA gyrase. [PubChem]
+4. Indication:  For the treatment of urinary tract infections caused by susceptible gram-negative microorganisms, including the majority of E. Coli, Enterobacter species, Klebsiella species, and Proteus species.
+DrugId:  18
+1. Name:  Metrizamide
+2. Groups:  Approved
+3. Description:  Metrizamide is a solute for density gradient centrifugation offering higher maximum solution density without the problems of increased viscosity. It is also used as a resorbable, non-ionic contrast medium.
+4. Indication:  Metrizamide is used for lumbar, thoracic, cervical, and total columnar myelography to determine the presence of abnormalities in the spinal column, spinal canal, and central nervous system (CNS) as well as for cisternography by direct injection using standard radiologic techniques to visualize the basal cistern of the brain. For computerized tomography (CT) of the intracranial subarachnoid spaces and for ventriculography by direct injection using standard radiologic techniques to visualize the cerebral ventricles. Also used in pediatric angiocardiography to visualize lesions or malformations of the heart and obstructions or anomalies of the major thoracic vessels. Also used in adult peripheral arteriography to visualize specific regions of the vascular system and blood flow in such areas to help in the diagnosis and evaluation of neoplasms (known or suspected) or vascular diseases (congenital or acquired) that may cause changes in normal vascular anatomy or physiology. Metrizamide is also indicated in adults for intravenous digital arteriography of head and neck.
+DrugId:  19
+1. Name:  Ancrod
+2. Groups:  Approved, Investigational
+3. Description:  Ancrod (current brand name: Viprinex) is a defibrinogenating agent derived from the venom of the Malayan pit viper. The defribrinogenation of blood results in an anticoagulant effect. Currently, Viprinex®/ancrod is not approved or marketed in any country, but is being investigated as a stroke treatment in worldwide clinical trials. In January 2005, the U.S. FDA granted a 'fast-track status' for investigation of ancrod use in patients suffering from acute ischemic stroke, a life threatening condition caused by the blockage of blood vessels supplying blood and oxygen to portions of the brain, for which phase III trials are currently being conducted.
+4. Indication:  For the treatment of established deep vein thrombosis; central retinal and branch vein thrombosis; priapism; pulmonary hypertension of embolic origin; embolism after insertion of prosthetic cardiac valves; rethrombosis after thrombolytic therapy and rethrombosis after vascular surgery. It is also indicated for the prevention of deep venous thrombosis after repair of the fractured neck of a femur.
+DrugId:  20
+1. Name:  Mannitol
+2. Groups:  Approved, Investigational
+3. Description:  Mannitol is an osmotic diuretic that is metabolically inert in humans and occurs naturally, as a sugar or sugar alcohol, in fruits and vegetables. Mannitol elevates blood plasma osmolality, resulting in enhanced flow of water from tissues, including the brain and cerebrospinal fluid, into interstitial fluid and plasma. As a result, cerebral edema, elevated intracranial pressure, and cerebrospinal fluid volume and pressure may be reduced. Mannitol may also be used for the promotion of diuresis before irreversible renal failure becomes established; the promotion of urinary excretion of toxic substances; as an Antiglaucoma agent; and as a renal function diagnostic aid.
+4. Indication:  Used for the promotion of diuresis before irreversible renal failure becomes established, the reduction of intracranial pressure, the treatment of cerebral edema, and the promotion of urinary excretion of toxic substances.
+DrugId:  21
+1. Name:  Efmoroctocog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Efmoroctocog alfa is a fully recombinant factor VIII-Fc fusion protein (rFVIIIFc) with an extended half-life compared with conventional factor VIII (FVIII) preparations, including recombinant FVIII (rFVIII) products such as Moroctocog alfa[1]. It is an antihemorrhagic agent used in replacement therapy for patients with haemophilia A (congenital factor VIII deficiency). It is suitable for all age groups. Haemophilia A is a rare bleeding disorder associated with a slow clotting process caused by the deficiency of factor VIII. Patients with this disorder are more susceptible to recurrent bleeding episodes and excessive bleeding following minor traumatic injuries or surgical procedures [1]. Prophylactic treatment may dramatically improve the management of severe haemophilia A in the future by reducing joint bleeding and other hemorrhages that cause chronic pain and disability to patients [1, 2]. Prophylaxis has also shown to reduce the formation of neutralizing anti-FVIII antibodies, or inhibitors [2]. Factor VIII is a blood coagulant factor involved in the intrinsic pathway to form fibrin, or a blood clot. Efmoroctocog alfa is a first commercially available rFVIII-Fc fusion protein (rFVIIIFc) where the conjugated molecule of rFVIII to polyethylene glycol is covalently fused to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein [FDA Label]. The B domain of factor VIII is deleted. In animal models of haemophilia, efmoroctocog alfa demonstrated an approximately two-fold longer t½ than commercially available rFVIII products [1].Other drug products with similar structure and function to Efmoroctocog alfa include Moroctocog alfa, which is produced by recombinant DNA technology and is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function, and Antihemophilic factor human, which is purified endogenous Factor VIII from human pooled blood and contains both A- and B-subunits. It is commonly marketed as Elocta or Eloctate for intravenous injection. To date, no confirmed inhibitory autoantibodies were seen in previously treated patients included in clinical studies and treatment-emergent adverse events were generally consistent with those expected in the patient populations being studied [1]. The extended half-life of efmoroctocog alfa provides several clinical benefits for patients, including reduced frequency of injections required and improved adherence to prophylaxis [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency) [FDA Label].
+DrugId:  22
+1. Name:  Oxytetracycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A tetracycline analog isolated from the actinomycete streptomyces rimosus and used in a wide variety of clinical conditions.
+4. Indication:  Oxytetracycline is indicated for treatment of infections caused by a variety of Gram positive and Gram negative microorganisms including Mycoplasma pneumoniae, Pasteurella pestis, Escherichia coli, Haemophilus influenzae (respiratory infections), and Diplococcus pneumoniae.
+DrugId:  23
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  24
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  25
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.

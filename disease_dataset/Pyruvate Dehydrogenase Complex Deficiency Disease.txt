@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pyruvic acid
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  2
+1. Name:  Cocarboxylase
+2. Groups:  Approved, Experimental
+3. Description:  The coenzyme form of Vitamin B1 present in many animal tissues. It is a required intermediate in the pyruvate dehydrogenase complex and the ketoglutarate dehydrogenase complex.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  4
+1. Name:  Ferric Carboxymaltose
+2. Groups:  Approved
+3. Description:  Ferric Carboxymaltose is an iron replacement product and chemically, an iron carbohydrate complex. FDA approved on July 25, 2013. 
+4. Indication:  Ferric carboxymaltose is a iron replacement product indicated for the treatment of iron deficiency anemia in adult patients who have intolerance to oral iron or have had unsatisfactory response to oral iron or those who have non-dialysis dependent chronic kidney disease. 
+DrugId:  5
+1. Name:  Sodium ferric gluconate complex
+2. Groups:  Approved
+3. Description:  Sodium ferric gluconate complex is an iron replacement product for treatment of iron deficiency anemia. The stable macromolecular complex is negatively charged at alkaline pH with an apparent molecular weight of 289,000 – 440,000 daltons on gel chromatography. It is composed of iron (III) oxide hydrate directly bonded to sucrose with a chelating gluconate function in a molar ratio of two iron molecules to one gluconate. It is used in adult and in pediatric patients over the age of 6 years with chronic kidney disease (CKD) receiving hemodialysis and receiving supplemental epoetin therapy.
+4. Indication:  Used to replete the total body content of iron during iron deficiency anemia in patients age 6 years and older with chronic kidney disease receiving hemodialysis and receiving supplemental epoetin therapy.
+DrugId:  6
+1. Name:  Nitazoxanide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Nitazoxanide belongs to the class of drugs known as thiazolides. Nitazoxanide (NTZ) is a broad-spectrum anti-infective drug that markedly modulates the survival, growth, and proliferation of a range of extracellular and intracellular protozoa, helminths, anaerobic and microaerophilic bacteria, in addition to viruses. This drug is effective in the treatment of gastrointestinal infections including Cryptosporidium parvum or Giardia lamblia in healthy subjects. It is generally well tolerated. Nitazoxanide is a first-line, standard treatment for illness caused by C. parvum or G. lamblia infection in healthy (not immunosuppressed) adults and children and may also be considered in the treatment of illnesses caused by other protozoa or helminths [2]. Recently, this drug has been studied as a broad-spectrum antiviral agent due to its ability to inhibit the replication of several RNA and DNA viruses [3].
+4. Indication:  For the treatment of diarrhea in adults and children caused by the protozoa Giardia lamblia, and for the treatment of diarrhea in children caused by the protozoan, Cryptosporidium parvum [FDA Label].Nitazoxanide has not been shown to be superior to placebo medication for the management of diarrhea caused by Cryptosporidium parvum in patients with HIV/immunodeficiency [FDA Label]. 
+DrugId:  7
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  8
+1. Name:  Iron Dextran
+2. Groups:  Approved, Vet approved
+3. Description:  Iron dextran is a dark brown, slightly viscous liquid complex of ferric hydroxide and dextran for intravenous or intramuscular use. Iron Dextran is used for the treatment of patients with documented iron deficiency in which oral administration is unsatisfactory or impossible. 
+4. Indication:  For treatment of patients with documented iron deficiency in whom oral administration is unsatisfactory or impossible. Also used to replenish body iron stores in Non-Dialysis Dependent-Chronic Kidney Disease (NDD-CKD) patients receiving or not receiving erythropoietin and in Hemodialysis Dependent (HDD-CKD) and Peritoneal Dialysis Dependent (PDD-CKD) - Chronic Kidney Disease patients receiving an erythropoietin.
+DrugId:  9
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Iron saccharate
+2. Groups:  Approved
+3. Description:  Iron saccharate (Sucroferric oxyhydroxide or Iron Sucrose) is used as a source of iron in patients with iron deficiency anemia with chronic kidney disease (CKD), including those who are undergoing dialysis (hemodialysis or peritoneal) and those who do not require dialysis. Due to less side effects than iron dextran, iron saccharate is more preferred in chronic kidney disease patients.
+4. Indication:  Iron sucrose is elemental iron as an injection. It replenishes body iron stores in patients with iron deficiency.
+DrugId:  11
+1. Name:  Ethyl pyruvate
+2. Groups:  Investigational
+3. Description:  CTI-01 (ethyl pyruvate) is a novel anti-inflammatory agent for the treatment of critical inflammatory conditions. CTI-01 shows a potent anti-inflammatory and tissue protection activity in multiple animal models of disease including pancreatitis, ischemia-reperfusion injury, sepsis, renal injury and endotoxemia.
+4. Indication:  Investigated for use/treatment in burns and burn infections, cardiac surgery, inflammatory disorders (unspecified), ischemic reperfusion injury, and sepsis and septicemia.
+DrugId:  12
+1. Name:  Coagulation Factor IX Human
+2. Groups:  Approved
+3. Description:  Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.
+4. Indication:  Factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection factor IX produced from human plasma. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.
+DrugId:  13
+1. Name:  L-Carnitine
+2. Groups:  Approved, Investigational
+3. Description:  Constituent of striated muscle and liver. It is used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+4. Indication:  For treatment of primary systemic carnitine deficiency, a genetic impairment of normal biosynthesis or utilization of levocarnitine from dietary sources, or for the treatment of secondary carnitine deficiency resulting from an inborn error of metabolism such as glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency. Used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias. Parenteral levocarnitine is indicated for the prevention and treatment of carnitine deficiency in patients with end-stage renal disease.
+DrugId:  14
+1. Name:  Choline
+2. Groups:  Approved, Nutraceutical
+3. Description:  A basic constituent of lecithin that is found in many plants and animal organs. It is important as a precursor of acetylcholine, as a methyl donor in various metabolic processes, and in lipid metabolism. [PubChem]
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  15
+1. Name:  L-Leucine
+2. Groups:  Approved, Nutraceutical
+3. Description:  An essential branched-chain amino acid important for hemoglobin formation. [PubChem]
+4. Indication:  Indicated to assist in the prevention of the breakdown of muscle proteins that sometimes occur after trauma or severe stress.
+DrugId:  16
+1. Name:  Nitisinone
+2. Groups:  Approved, Investigational
+3. Description:  Nitisinone is a synthetic reversible inhibitor of 4-hydroxyphenylpyruvate dioxygenase. It is used in the treatment of hereditary tyrosinemia type 1. It is sold under the brand name Orfadin.
+4. Indication:  Used as an adjunct to dietary restriction of tyrosine and phenylalanine in the treatment of hereditary tyrosinemia type 1.
+DrugId:  17
+1. Name:  Antihemophilic factor, human recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Human recombinant antihemophilic factor (AHF) or Factor VIII, 2332 residues, glycosylated, produced by CHO cells
+4. Indication:  For the treatment of hemophilia A, von Willebrand disease and Factor XIII deficiency.
+DrugId:  18
+1. Name:  Cerliponase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Cerliponase alfa is an enzyme replacement treatment for a specific form of Batten disease. It was the first FDA-approved treatment to slow loss of walking ability (ambulation) in symptomatic pediatric patients 3 years of age and older with late infantile neuronal ceroid lipofuscinosis type 2 (CLN2), also known as tripeptidyl peptidase-1 (TPP1) deficiency. Intraventricular administration of the drug allows significant uptake into the brain. Cerliponase alfa was approved in April, 2017 (as Brineura).
+4. Indication:  Cerliponase alfa is a treatment for late infantile neuronal ceroid lipofuscinosis type 2 (CLN2) disease to decelerate the progressive motor function decline in patients 3 years of age and older. CLN2 disease is a form of Batten disease, a rare inherited neurodegenerative disorder and is associated with seizures, ataxia, rapid loss of language and motor functions, blindness, and early death [4]. It is caused by the lack the lysosomal enzyme tripeptidyl peptidase-1 (TPP1) and subsequent accumulation of lysosomal storage materials normally metabolized by this enzyme in the central nervous system.
+DrugId:  19
+1. Name:  Factor IX Complex (Human)
+2. Groups:  Approved, Investigational
+3. Description:  Factor IX Complex is a sterile, lyophilized concentrate composed of a number of Vitamin K-dependent clotting factors found in functioning human plasma. Also known as prothrombin complex concentrate, products containing this complex often include Factor IX (antihemophilic factor B), Factor II (prothrombin), Factor X (Stuart-Prower Factor), and low levels of Factor VII (proconvertin) derived from human plasma. Many commercially available products also contain low levels of other antithrombotic proteins. For example, Kcentra (FDA) also contains the antithrombotic proteins C and S, while Bebulin VH (FDA) contains heparin. Coagulation factors are purified from pooled human plasma and subsequently sterilized and treated. Although Factor IX Complex products contain many different coagulation components, Factor IX is the lead component for potency and efficacy, particularly when used for the treatment of bleeding associated with Hemophilia B (Factor IX deficiency). As the product Kcentra, Factor IX Complex is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients experiencing acute major bleeding or requiring rapid reversal of therapy.
+4. Indication:  Factor IX Complex is indicated for the prevention and control of hemorrhagic episodes in hemophilia B patients. It is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding or who require rapid reversal of therapy. 
+DrugId:  20
+1. Name:  L-Valine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A branched-chain essential amino acid that has stimulant activity. It promotes muscle growth and tissue repair. It is a precursor in the penicillin biosynthetic pathway. [PubChem]
+4. Indication:  Promotes mental vigor, muscle coordination, and calm emotions. May also be of use in a minority of patients with hepatic encephalopathy and in some with phenylketonuria.
+DrugId:  21
+1. Name:  Pyridoxine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. [PubChem]
+4. Indication:  For the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy.
+DrugId:  22
+1. Name:  Dichloroacetic Acid
+2. Groups:  Approved, Investigational
+3. Description:  Dichloroacetic acid, often abbreviated DCA, is an acid analogue of acetic acid in which two of the three hydrogen atoms of the methyl group have been replaced by chlorine atoms. The salts and esters of dichloroacetic acid are called dichloroacetates. Salts of DCA are used as drugs since they inhibit the enzyme pyruvate dehydrogenase kinase. Early reports of its activity against brain cancer cells led patients to treat themselves with DCA, which is commercially available in non-pharmaceutical grade. A phase 1 study in 5 patients concluded that DCA was safe, but wasn't designed to establish effectiveness.DCA was approved for use in Canada in 1989 (as a topical formulation for treatment of warts and for cauterization and removal of a wide variety of skin and tissue lesions), but was cancelled post market.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Antithrombin Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Antithrombin Alfa is a recombinant antithrombin , an anticoagulant, that is used for the prevention of thromboembolic events in patients that have hereditary deficiency of antithrombin in high risk situations.
+4. Indication:  Antithrombin alfa is a recombinant antithrombin it is indicated for the prevention of peri-operative and peri-partum thromboembolic events in patients with hereditary deficiency of antithrombin. 
+DrugId:  24
+1. Name:  Prothrombin
+2. Groups:  Approved
+3. Description:  Prothrombin Complex Concentrate (Human), is indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients receiving vitamin K antagonist therapy. Prothrombin is administered as part of a cocktail containing several coagulation factors.
+DrugId:  25
+1. Name:  Triethylenetetramine
+2. Groups:  Approved, Investigational
+3. Description:  Triethylenetatramine (TETA) is a highly selective divalent Cu(II) chelator and orphan drug that revereses copper overload in tissues. Its salt form, trientine (triethylenetetramine dihydrochloride or 2,2,2-tetramine) was introduced in 1969 as an alternative to D-penicillamine. It consists of a polyamine-like structure different from D-penicillamine, as it lack sulfhydryl groups. It was previously approved by FDA in 1985 as second-line pharmacotherapy for Wilson's disease. Although penicillamine treatment is believed to be more extensive, TETA therapy has been shown to be an effective initial therapy, even with patients with decompensated liver disease at the outset, and prolonged TETA treatment is not associated with adverse effects as expected in penicillamine treatment. Its clinical applications on cancer, diabetes mellitus, Alzheimer's disease and vascular demetia are being studied.
+4. Indication:  Trientine is a copper chelator used in the treatment of Wilson's disease as an alternative to D-penicillamine. It tends to be used in patients who are experiencing serious adverse effects from penicillamine therapy or intolerance of penicillamine. 

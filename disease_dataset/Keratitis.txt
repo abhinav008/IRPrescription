@@ -1,0 +1,75 @@
+DrugId:  1
+1. Name:  Cenegermin
+2. Groups:  Approved, Investigational
+3. Description:  Cenegermin is a human beta-nerve growth factor (beta-ngf)-(1-118)- peptide (non-covalent dimer) produced in escherichia coli. It received European Union Approval in July, 2017 for the treatment of moderate to severe neurotrophic keratitis.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Loteprednol
+2. Groups:  Approved
+3. Description:  Loteprednol (as Loteprednol Etabonate) is a topical corticoid antiinflammatory. It is used in ophthalmic solution for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, is used for the treatment and management of seasonal allergic rhinitis.
+4. Indication:  As an ophthalmic it is used for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, used for the treatment and management of seasonal allergic rhinitis.
+DrugId:  3
+1. Name:  Trifluridine
+2. Groups:  Approved, Investigational
+3. Description:  An antiviral derivative of thymidine used mainly in the treatment of primary keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus. (From Martindale, The Extra Pharmacopoeia, 30th ed, p557)
+4. Indication:  Ophthalmic solution for the treatment of primay keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus, types 1 and 2.
+DrugId:  4
+1. Name:  Hydroxypropyl cellulose
+2. Groups:  Approved
+3. Description:  Hydroxypropyl cellulose is an ether of cellulose where some of the hydroxyl groups of the cellulose have been hydroxypropylated forming -OCH2CH(OH)CH3 groups. Lacrisertis a formulation of hydroxypropyl cellulose that is used for artificial tears. It is used to treat syndromes characterized by insufficient tear production (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes. As a food additive, hydroxypropyl cellulose is used as a thickener and as an emulsion stabilizer.
+4. Indication:  Used to relieve dryness and irritation caused by reduced tear flow that occurs in certain eye diseases (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes.
+DrugId:  5
+1. Name:  Natamycin
+2. Groups:  Approved
+3. Description:  Amphoteric macrolide antifungal antibiotic from Streptomyces natalensis or S. chattanoogensis. It is used for a variety of fungal infections, mainly topically. [PubChem]
+4. Indication:  For the treatment of fungal blepharitis, conjunctivitis, and keratitis caused by susceptible organisms including Fusarium solani keratitis.
+DrugId:  6
+1. Name:  Flavin adenine dinucleotide
+2. Groups:  Approved
+3. Description:  A condensation product of riboflavin and adenosine diphosphate. The coenzyme of various aerobic dehydrogenases, e.g., D-amino acid oxidase and L-amino acid oxidase. (Lehninger, Principles of Biochemistry, 1982, p972)Flavin adenine dinucleotide is approved for use in Japan under the trade name Adeflavin as an ophthalmic treatment for vitamin B2 deficiency.
+4. Indication:  Used to treat eye diseases caused by vitamin B2 deficiency, such as keratitis and blepharitis.
+DrugId:  7
+1. Name:  Idoxuridine
+2. Groups:  Approved, Investigational
+3. Description:  An analog of deoxyuridine that inhibits viral DNA synthesis. The drug is used as an antiviral agent. [PubChem]
+4. Indication:  For use in keratoconjunctivitis and keratitis caused by herpes simplex virus.
+DrugId:  8
+1. Name:  Cromoglicic acid
+2. Groups:  Approved
+3. Description:  A chromone complex that acts by inhibiting the release of chemical mediators from sensitized mast cells. It is used in the prophylactic treatment of both allergic and exercise-induced asthma, but does not affect an established asthmatic attack.
+4. Indication:  For the management of patients with bronchial asthma. Also used in the treatment of vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  9
+1. Name:  Fluorometholone
+2. Groups:  Approved, Investigational
+3. Description:  A glucocorticoid employed, usually as eye drops, in the treatment of allergic and inflammatory conditions of the eye. It has also been used topically in the treatment of various skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732)
+4. Indication:  For the ophthalmic treatment of corticosteroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe.
+DrugId:  10
+1. Name:  Lodoxamide
+2. Groups:  Approved
+3. Description:  Lodoxamide is a mast-cell stabilizer for topical administration into the eye. Mast-cell stabilizers, first one approved being cromolyn sodium, are used in treatment of ocular hypersensitivity reactions such as vernal conjunctivitis. These conditions often require treatment with anti-inflammatory medications such as ophthalmic NSAIDs or topical steroids which may cause systemic or toxic effects long-term. Although less effective than topical steroids at decreasing inflammation, mast-cell stabilizers offer another treatment option and exhibit minimal adverse effects. Lodoxamide is marketed under the brand name Alomide by Alcon. 
+4. Indication:  Indicated in the treatment of the ocular disorders referred to by the terms vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  11
+1. Name:  Alvespimycin
+2. Groups:  Investigational
+3. Description:  Alvespimycin is a derivative of geldanamycin and heat shock protein (HSP) 90 inhibitor. It has been used in trials studying the treatment of solid tumor in various cancer as an antitumor agent. In comparison to the first HSP90 inhibitor tanespimycin, it exhibits some pharmacologically desirable properties such as reduced metabolic liability, lower plasma protein binding, increased water solubility, higher oral bioavailability, reduced hepatotoxicity and superior antitumor activity [1].
+4. Indication:  Investigated for use as an antineoplastic agent for solid tumors, advanced solid tumours or acute myeloid leukaemia. 
+DrugId:  12
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  13
+1. Name:  Netarsudil
+2. Groups:  Approved
+3. Description:  A Rho kinase inhibitor with norepinephrine transport inhibitory activity that reduces production of aqueousAs of December 18, 2017 the FDA approved Aerie Pharmaceutical's Rhopressa (netarsudil ophthalmic solution) 0.02% for the indication of reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Acting as both a rho kinase inhibitor and a norepinephrine transport inhibitor, Netarsudil is a novel glaucoma medication in that it specifically targets the conventional trabecular pathway of aqueous humour outflow to act as an inhibitor to the rho kinase and norepinephrine transporters found there as opposed to affecting protaglandin F2-alpha analog like mechanisms in the unconventional uveoscleral pathway that many other glaucoma medications demonstrate.
+4. Indication:  Netarsudil is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  14
+1. Name:  Sulfacetamide
+2. Groups:  Approved
+3. Description:  An anti-infective agent that is used topically to treat skin infections and orally for urinary tract infections. [PubChem]
+4. Indication:  For the treatment of bacterial vaginitis, keratitis, acute conjunctivitis, and blepharitis.
+DrugId:  15
+1. Name:  Latanoprostene Bunod
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprostene Bunod has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, Open-Angle Glaucoma, Open Angle Glaucoma, and Intraocular Pressure.As of November 2, 2017 the FDA approved Bausch + Lomb's Vyzulta (latanoprostene bunod opthalmic solution), 0.024% for the indication of reducing intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Latanoprostene bunod is the first prostaglandin analog with one of its metabolites being nitric oxide (NO). The novelty of this agent subsequently lies in the proposed dual mechanism of action that stems from both its prostaglandin F2-alpha analog latanoprost acid metabolite and its ability to donate NO for proposed tissue/cell relaxation effects.In comparison, both latanoprost and latanoprostene bunod contain a latanoprost acid backbone. Conversely however, latanoprostene bunod integrates an NO-donating moiety in lieu of the isopropyl ester typically found in latanoprost.
+4. Indication:  Latanoprostene bunod opthalmic solution is indicated for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension [FDA Label].

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  2
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  3
+1. Name:  Cupric Chloride
+2. Groups:  Approved, Investigational
+3. Description:  Cupric chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  4
+1. Name:  Menadione
+2. Groups:  Approved, Nutraceutical
+3. Description:  A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. [PubChem]
+4. Indication:  The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.
+DrugId:  5
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  6
+1. Name:  Plasma protein fraction (human)
+2. Groups:  Approved
+3. Description:  A sterile, pyrogen free, frozen solution of solvent/detergent (S/D) treated pooled human plasma. The active ingredient comprises plasma proteins such as albumin, immunoglobulins, other globulins, coagulation factors, complement proteins and protease inhibitors.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  8
+1. Name:  Nitrofurantoin
+2. Groups:  Approved, Vet approved
+3. Description:  A bacteriostatic or bactericidal agent depending on the concentration and susceptibility of the infecting organism. Nitrofurantoin is active against some gram positive organisms such as S. aureus, S. epidermidis, S. saprophyticus, Enterococcus faecalis, S. agalactiae, group D streptococci, viridians streptococci and Corynebacterium. Its spectrum of activity against gram negative organisms includes E. coli, Enterobacter, Neisseria, Salmonella and Shigella. It may be used as an alternative to trimethoprim/sulfamethoxazole for treating urinary tract infections though it may be less effective at eradicating vaginal bacteria. May also be used in females as prophylaxis against recurrent cystitis related to coitus. Nitrofurantoin is highly stable to the development of bacterial resistance, a property thought to be due to its multiplicity of mechanisms of action. 
+4. Indication:  May be used as an alternative in the treatment of urinary tract infections. May be used by females pericoitally for prophylaxis against recurrent cystitis related to coitus. 
+DrugId:  9
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Aminopterin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Aminopterin is an amino derivative of folic acid, which was once used as an antineoplastic agent in the treatment of pediatric leukemia. In the 1950's its production was discontinued in favor of methotrexate, which is less potent but less toxic. Off label, aminopterin has also been used in the treatment of psoriasis. Clinicians need to be aware of the characteristic teratologic effects of aminopterin and methotrexate. 
+4. Indication:  Prior to its withdrawal, aminopterin was initially used in the treatment of childhood leukemia; specifically to induce remissions. Later, aminopterin was used off-label in the United States to treat psoriasis, yielding dramatic lesion clearing. Aminopterin was later supplanted by methotrexate for treating cancer because of its better therapeutic index. Aminopterin (as well as methotrexate) has also been explored for use as an abortifacient. However, their association with severe congenital malformations and teratogenic effects have become known as fetal aminopterin syndrome. 
+DrugId:  11
+1. Name:  Sacrosidase
+2. Groups:  Approved
+3. Description:  Sacrosidase is a liquid enzyme preparation from S.cerevisiae used for the treatment of congenital sucrose-isomaltase deficiency (CSID). People with CSID have variable amounts of sucrose-isomaltase enzyme activity and therefore have issues metabolizing dietary disaccharide sucrose causing chronic or intermittent watery diarrhea in infants and children. Treatment options for these patients are limited and usually consists of a lifelong sucrose-free diet; therefore, sacrosidase offers a potential alternative for symptom relief. 
+4. Indication:  For the treatment of congenital sucrose-isomaltase deficiency (CSID).
+DrugId:  12
+1. Name:  Coagulation Factor IX Human
+2. Groups:  Approved
+3. Description:  Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.
+4. Indication:  Factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection factor IX produced from human plasma. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.
+DrugId:  13
+1. Name:  Imiglucerase
+2. Groups:  Approved
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  14
+1. Name:  S-Hydroxycysteine
+2. Groups:  Experimental
+3. Description:  S-hydroxycysteine is a solid. This compound belongs to the alpha amino acids and derivatives. These are amino acids in which the amino group is attached to the carbon atom immediately adjacent to the carboxylate group (alpha carbon), or a derivative thereof. It targets the proteins subtilisin BPN', glutathione S-transferase A1, glutathione S-transferase p, myelin P2 protein, and complement c3.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Alglucerase
+2. Groups:  Approved, Investigational
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues.
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  16
+1. Name:  Factor IX Complex (Human)
+2. Groups:  Approved, Investigational
+3. Description:  Factor IX Complex is a sterile, lyophilized concentrate composed of a number of Vitamin K-dependent clotting factors found in functioning human plasma. Also known as prothrombin complex concentrate, products containing this complex often include Factor IX (antihemophilic factor B), Factor II (prothrombin), Factor X (Stuart-Prower Factor), and low levels of Factor VII (proconvertin) derived from human plasma. Many commercially available products also contain low levels of other antithrombotic proteins. For example, Kcentra (FDA) also contains the antithrombotic proteins C and S, while Bebulin VH (FDA) contains heparin. Coagulation factors are purified from pooled human plasma and subsequently sterilized and treated. Although Factor IX Complex products contain many different coagulation components, Factor IX is the lead component for potency and efficacy, particularly when used for the treatment of bleeding associated with Hemophilia B (Factor IX deficiency). As the product Kcentra, Factor IX Complex is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients experiencing acute major bleeding or requiring rapid reversal of therapy.
+4. Indication:  Factor IX Complex is indicated for the prevention and control of hemorrhagic episodes in hemophilia B patients. It is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding or who require rapid reversal of therapy. 
+DrugId:  17
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  18
+1. Name:  Efmoroctocog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Efmoroctocog alfa is a fully recombinant factor VIII-Fc fusion protein (rFVIIIFc) with an extended half-life compared with conventional factor VIII (FVIII) preparations, including recombinant FVIII (rFVIII) products such as Moroctocog alfa[1]. It is an antihemorrhagic agent used in replacement therapy for patients with haemophilia A (congenital factor VIII deficiency). It is suitable for all age groups. Haemophilia A is a rare bleeding disorder associated with a slow clotting process caused by the deficiency of factor VIII. Patients with this disorder are more susceptible to recurrent bleeding episodes and excessive bleeding following minor traumatic injuries or surgical procedures [1]. Prophylactic treatment may dramatically improve the management of severe haemophilia A in the future by reducing joint bleeding and other hemorrhages that cause chronic pain and disability to patients [1, 2]. Prophylaxis has also shown to reduce the formation of neutralizing anti-FVIII antibodies, or inhibitors [2]. Factor VIII is a blood coagulant factor involved in the intrinsic pathway to form fibrin, or a blood clot. Efmoroctocog alfa is a first commercially available rFVIII-Fc fusion protein (rFVIIIFc) where the conjugated molecule of rFVIII to polyethylene glycol is covalently fused to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein [FDA Label]. The B domain of factor VIII is deleted. In animal models of haemophilia, efmoroctocog alfa demonstrated an approximately two-fold longer t½ than commercially available rFVIII products [1].Other drug products with similar structure and function to Efmoroctocog alfa include Moroctocog alfa, which is produced by recombinant DNA technology and is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function, and Antihemophilic factor human, which is purified endogenous Factor VIII from human pooled blood and contains both A- and B-subunits. It is commonly marketed as Elocta or Eloctate for intravenous injection. To date, no confirmed inhibitory autoantibodies were seen in previously treated patients included in clinical studies and treatment-emergent adverse events were generally consistent with those expected in the patient populations being studied [1]. The extended half-life of efmoroctocog alfa provides several clinical benefits for patients, including reduced frequency of injections required and improved adherence to prophylaxis [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency) [FDA Label].
+DrugId:  19
+1. Name:  Thrombomodulin Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Thrombomodulin Alfa is a novel, recombinant and soluble thrombomodulin (ART-123). It is a human protein with both thrombin inhibiting and protein C stimulating activities, for the potential treatment of thromboembolism and blood clotting disorders, such as disseminated intravascular thromboembolism. [5]
+4. Indication:  Investigated for use/treatment in blood preservative, blood (blood forming organ disorders, unspecified), sepsis and septicemia, and thrombosis.
+DrugId:  20
+1. Name:  Levoleucovorin
+2. Groups:  Approved, Investigational
+3. Description:  Levoleucovorin is the enantiomerically active form of Folinic Acid (also known as 5-formyl tetrahydrofolic acid or leucovorin). Commercially available leucovorin is composed of a 1:1 racemic mixture of the dextrorotary and levorotary isomers, while levoleucovorin contains only the pharmacologically active levo-isomer. In vitro, the levo-isomer has been shown to be rapidly converted to the biologically available methyl-tetrahydrofolate form while the dextro form is slowly excreted by the kidneys. Despite this difference in activity, the two commercially available forms have been shown to be pharmacokinetically identical and may be used interchangeably with limited differences in efficacy or side effects (Kovoor et al, 2009). As folate analogs, levoleucovorin and leucovorin are both used to counteract the toxic effects of folic acid antagonists, such as methotrexate, which act by inhibiting the enzyme dihydrofolate reductase (DHFR). They are indicated for use as rescue therapy following use of high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Levoleucovorin, as the product Fusilev (FDA), has an additional indication for use in combination chemotherapy with 5-fluorouracil in the palliative treatment of patients with advanced metastatic colorectal cancer. Folic acid is an essential B vitamin required by the body for the synthesis of purines, pyrimidines, and methionine before incorporation into DNA or protein. However, in order to function in this role, it must first be reduced by the enzyme dihydrofolate reductase (DHFR) into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF). This important pathway, which is required for de novo synthesis of nucleic acids and amino acids, is disrupted when high-dose methotrexate is used for cancer therapy. As methotrexate functions as a DHFR inhibitor to prevent DNA synthesis in rapidly dividing cells, it also prevents the formation of DHF and THF. This results in a deficiency of coenzymes and a resultant buildup of toxic substances that are responsible for numerous adverse side effects of methotrexate therapy. As levoleucovorin and leucovorin are analogs of tetrahydrofolate (THF), they are able to bypass DHFR reduction and act as a cellular replacement for the co-factor THF, thereby preventing these toxic side effects.
+4. Indication:  Levoleucovorin is indicated for use as rescue therapy following high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Levoleucovorin, as the product Fusilev (FDA, dosed at one-half the usual dose of racemic d,l-leucovorin), has an additional indication for use in combination chemotherapy with 5-fluorouracil in the palliative treatment of patients with advanced metastatic colorectal cancer (although they should not be mixed in the same infusion as a precipitate may form).
+DrugId:  21
+1. Name:  rhMBL
+2. Groups:  Investigational
+3. Description:  rhMBL is a protein therapeutic being developed by Enzon for the prevention and treatment of severe infections in individuals with low levels of Mannose-Binding Lectin (MBL). Over 10 percent of the general population is estimated to be MBL-deficient. Natural MBL has an oligomeric structure (400-700 kDa), built of subunits that contain three identical peptide chains of 32 kDa each.Although MBL can form several oligomeric forms, there are indications that dimers and trimers are not biologically active and at least a tetramer form is needed for activation of complement.
+4. Indication:  Investigated for use/treatment in immunodeficiency and infectious and parasitic disease (unspecified).
+DrugId:  22
+1. Name:  Antihemophilic Factor (Recombinant), PEGylated
+2. Groups:  Approved, Investigational
+3. Description:  Antihemophilic Factor (Recombinant), PEGylated, is a recombinant full-length human coagulation factor VIII (2,332 amino acids with a molecular weight (MW) of 280 kDa) covalently conjugated with at least one molecule of polyethylene glycol (MW 20 kDa). The therapeutic activity of Antihemophilic Factor (Recombinant), PEGylated is a derivative of its parent drug, Antihemophilic Factor (Recombinant). Antihemophilic Factor (Recombinant) is purified from the culture medium using several chromatography columns. The purification process includes immunoaffinity chromatography, in which a monoclonal antibody directed against factor VIII is promoted to selectively isolate the factor VIII from the medium. The production process includes a viral inactivation solvent-detergent treatment step. The Antihemophilic Factor (Recombinant) molecule is then covalently conjugated with the polyethylene glycol, which primarily targets lysine residues [FDA Label].Antihemophilic Factor (Recombinant), PEGylated, was approved by the FDA in November 2015 as the product Adynovate [FDA Label].PEGylation is the covalent attachment of a polyethylene glycol polymer, called PEG, to a drug or protein. It is believed that PEGylation reduces the binding of ADYNOVATE to the LRP1 clearance receptor, allowing for an increased duration of drug circulation in the plasma [6].
+4. Indication:  For the treatment of hemophilia A (congenital factor VIII deficiency) [FDA Label].This medication is a human antihemophilic factor indicated in adolescent and adult patients (12 years and older) with hemophilia A (congenital factor VIII deficiency). It is also used for on-demand treatment and control of bleeding and routine prophylaxis of bleeding episodes. It is not indicated for the treatment of von Willebrand disease [FDA Label].
+DrugId:  23
+1. Name:  Prasterone sulfate
+2. Groups:  Investigational
+3. Description:  DHEA sulfate is the major steroid of the fetal adrenal. DHEA-S is the principal adrenal androgen and is secreted together with cortisol under the control of ACTH and prolactin. DHEA-S is elevated with hyperprolactinemia.
+4. Indication:  Investigated for use/treatment in asthma and burns and burn infections.
+DrugId:  24
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  25
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma

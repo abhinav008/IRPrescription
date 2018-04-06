@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Vasopressin
+2. Groups:  Approved
+3. Description:  Antidiuretic hormone, also known as vasopressin, is a nine amino acid peptide secreted from the posterior pituitary. Antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation
+4. Indication:  For the treatment of enuresis, polyuria, diabetes insipidus, polydipsia and oesophageal varices with bleeding
+DrugId:  2
+1. Name:  OPC-51803
+2. Groups:  Investigational
+3. Description:  OPC-51803 is the first nonpeptide vasopressin (AVP) V(2)-receptor-selective agonist. It is a V(2)-selective agonist that produces a significant antidiuretic action after single and multiple oral dosing in AVP-deficient and normal AVP states. It is useful therapeutic drug in the treatment of hypothalamic diabetes insipidus, nocturnal enuresis, and some kinds of urinary incontinence.
+4. Indication:  Investigated for use/treatment in nocturia (frequent nighttime urination) and urinary incontinence.
+DrugId:  3
+1. Name:  Desmopressin
+2. Groups:  Approved
+3. Description:  Desmopressin (dDAVP), a synthetic analogue of 8-arginine vasopressin (ADH), is an antidiuretic peptide drug modified by deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. ADH is an endogenous pituitary hormone that has a crucial role in the control of the water content in the body. Upon release from the stimulation of increased plasma osmolarity or decreased circulating blood volume, ADH mainly acts on the cells of the distal part of the nephron and the collecting tubules in the kidney [6]. The hormone interacts with V1, V2 or V3 receptors with differing signal cascade systems.Desmopressin displays enhanced antidiuretic potency, fewer pressor effects due to V2-selective actions, and a prolonged half-life and duration of action compared to endogenous ADH [2]. It has been employed clinically since 1972 and is available in various formulations including intranasal solution, intravenous solution, oral tablet and oral lyophilisate [3]. Desmopressin is indicated for the treatment of polyuric conditions including primary nocturnal enuresis, nocturia, and diabetes insipidus. It was also newly approved for the treatment of mild classical hemophilia and von Willebrand's disease for minor surgeries. The active ingredient in most formulations is desmopressin acetate.
+4. Indication:  Indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void (intranasal). Indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region (intranasal/parenteral).Indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5% or mild to moderate classic von Willebrand's Disease (Type I) with factor VIII levels greater than 5% during surgical procedures and postoperatively to maintain hemostasis (parenteral).
+DrugId:  4
+1. Name:  Insulin Detemir
+2. Groups:  Approved
+3. Description:  Insulin detemir is a long-acting human insulin analogue used to maintain basal levels of insulin in diabetic individuals. It is produced using recombinant DNA technology in yeast cells. This insulin analogue has a 14-C fatty acid, myristic acid, bound to the lysine amino acid at position B29. The myristoyl side chain increases self-association and albumin binding. This along with slow systemic absorption from the injection site prolongs distribution of the hormone into tissues and results in a long duration of action. Novo Nordisk markets insulin detemir under the trade name Levemir.
+4. Indication:  For the treatment of type 1 or 2 diabetes mellitus. May be used in combination with oral anti-diabetic agents in type 2 diabetic patients who are not in adequate metabolic control with oral anti-diabetic agents alone. 
+DrugId:  5
+1. Name:  Insulin Glulisine
+2. Groups:  Approved
+3. Description:  Insulin glulisine is a biosynthetic, rapid-acting human insulin analogue produced in a non-pathogenic laboratory strain of Escherichia coli (K12). This recombinant hormone differs from native human insulin in that the amino acid arginine at position B3 is replaced by lysine and the lysine at position B29 is replaced by glutamic acid. These structural modifications decrease hexamer formation, stabilize insulin glulisine monomers and increase the rate of absorption and onset of action compared to human insulin. 
+4. Indication:  For the treatment of Type 1 and 2 diabetes mellitus. Should be used in regimens including a long-acting or basal insulin analogue unless it is used in a continuous infusion pump. May be used with oral antidiabetic agents. 
+DrugId:  6
+1. Name:  Insulin Glargine
+2. Groups:  Approved
+3. Description:  Insulin glargine is produced by recombinant DNA technology using a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism. It is an analogue of human insulin made by replacing the asparagine residue at position A21 of the A-chain with glycine and adding two arginines to the C-terminus (positions B31 and 32) of the B-chain. The resulting protein is soluble at pH 4 and forms microprecipitates at physiological pH 7.4. Small amounts of insulin glargine are slowly released from microprecipitates giving the drug a long duration of action (up to 24 hours) and no pronounced peak concentration. 
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus in patients over 17 years old who require a long-acting (basal) insulin for the control of hyperglycemia. May be used in pediatric patients with Type 1 diabetes mellitus who require a long-acting (basal) insulin for glycemic control. 
+DrugId:  7
+1. Name:  Insulin Aspart
+2. Groups:  Approved
+3. Description:  Insulin aspart is a recombinant, biosynthetic, fast-acting insulin analogue. It has a single amino acid substitution at position B28 where proline is replaced with aspartic acid. This substitution decreases its propensity to form hexamers and gives it a higher rate of absorption following subcutaneous administration compared to native insulin. Insulin aspart is produced in a genetically modified strain of Saccharomyces cerevisiae and harvested from a bioreactor.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. Should normally be used in conjunction with an intermediate or long-acting insulin. 
+DrugId:  8
+1. Name:  J147
+2. Groups:  Experimental
+3. Description:  J147 is an experimental drug with reported effects against both Alzheimer's disease and ageing in mouse models of accelerated aging. [1, 2, 3] It is a curcumin derivative and a potent neurogenic and neuroprotective drug candidate initially developed for the treatment of neurodegenerative conditions associated with aging that impacts many pathways implicated in the pathogenesis of diabetic neuropathy. [5]
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  10
+1. Name:  Insulin Lispro
+2. Groups:  Approved
+3. Description:  Insulin lispro is a recombinant human insulin analogue produced in a specialized laboratory strain of Escherischia coli. Plasmid DNA transfected into the bacteria encodes for an analogue of human insulin that has a lysine at residuce B28 and proline at B29; these residues are reversed in endogenous human insulin. Reversal of these amino acid residues produces a rapid-acting insulin analogue. FDA approved on 1996.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. To be used in conjunction with an intermediate or long-acting insulin except when used in a continuous insulin infusion pump. 
+DrugId:  11
+1. Name:  TH0318
+2. Groups:  Investigational
+3. Description:  TH0318 is a stabilized analogue of human GLP-1 (glucagon-like peptide-1) under investigation for the treatment of type 2 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1 and 2.
+DrugId:  12
+1. Name:  INCB13739
+2. Groups:  Investigational
+3. Description:  INCB13739 is developed as a new treatment for type 2 diabetes.It is an orally available small molecule inhibitor of 11beta-HSD1 (11-beta hydroxysteroid dehydrogenase type 1). 11beta-HSD1 is an enzyme that appears to be critical to the development of type 2 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and diabetes prevention.
+DrugId:  13
+1. Name:  PF-05175157
+2. Groups:  Investigational
+3. Description:  PF-05175157 has been used in trials studying the basic science and treatment of Acne Vulgaris, Diabetes Mellitus, Type 2 Diabetes Mellitus, Diabetes Mellitus Type 2, and Diabetes Mellitus, Type 2, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  NBI-6024
+2. Groups:  Investigational
+3. Description:  NBI-6024 is an altered peptide ligand that is designed to cause an immune response which result in preservation of beta-cell function and endogenous insulin production. 
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1 and pediatric indications.
+DrugId:  15
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  16
+1. Name:  Bethanechol
+2. Groups:  Approved
+3. Description:  Bethanechol is a synthetic ester structurally and pharmacologically related to acetylcholine. A slowly hydrolyzed muscarinic agonist with no nicotinic effects, bethanechol is generally used to increase smooth muscle tone, as in the GI tract following abdominal surgery or in urinary retention in the absence of obstruction. It may cause hypotension, cardiac rate changes, and bronchial spasms.
+4. Indication:  For the treatment of acute postoperative and postpartum nonobstructive (functional) urinary retention and for neurogenic atony of the urinary bladder with retention.
+DrugId:  17
+1. Name:  2,4-thiazolidinedione
+2. Groups:  Investigational
+3. Description:  Thiazolidinedione has been investigated for the treatment of Type 2 Diabetes, Diabetes Mellitus, and DIABETES MELLITUS, TYPE 2.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  V24343
+2. Groups:  Investigational
+3. Description:  The anti-obesity drug, V24343, acts by targeting the CB1 receptor in the brain and suppressing a person's appetite.
+4. Indication:  Obesity related disorders such as cardiovascular disease and type II diabetes
+DrugId:  19
+1. Name:  rhGAD65
+2. Groups:  Investigational
+3. Description:  rhGAD65 (recombinant human glutamic acid decarboxylase) is a vaccine being developed to treat insulin dependent type 1 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1.
+DrugId:  20
+1. Name:  ISIS 113715
+2. Groups:  Investigational
+3. Description:  ISIS 113715 is our second-generation antisense inhibitor of protein tyrosine phosphatase 1b, or PTP‑1b, for the treatment of type 2 diabetes. In early trials, ISIS 113715 induced statistically significant improvements in multiple measures of glucose control along with statistically significantreductions in LDL-cholesterol. 
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  21
+1. Name:  Bexagliflozin
+2. Groups:  Investigational
+3. Description:  Bexagliflozin is under investigation for the treatment of Type 2 Diabetes Mellitus. Bexagliflozin has been investigated for the treatment of Diabetes Mellitus and Type2 Diabetes Mellitus.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Reglixane
+2. Groups:  Investigational
+3. Description:  Reglixane, an isoxazolidine-3,5-dione derivative, is being developed by Pfizer for the treatment of diabetes. It is the first non-thiazolidenedione to enter clinical trials.
+4. Indication:  For the treatment of diabetes mellitus type 1 and 2.
+DrugId:  23
+1. Name:  TAK-428
+2. Groups:  Investigational
+3. Description:  TAK-428 is a drug for treating diabetic neuropathy. It is based on the novel concept that peripheral nervous tissue that was damaged by diabetes can be repaired and regenerated by stimulating an increase in neurotrophic factors.
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic).
+DrugId:  24
+1. Name:  KRP-104
+2. Groups:  Investigational
+3. Description:  KRP-104 is a compound for the treatment of type 2 diabetes. It is an orally active, dipeptidyl peptidase-IV (DPPIV) inhibitor which lowers blood glucose levels by blocking the degradation of the hormone GLP-1 thereby stimulating glucose-dependent insulin secretion and lowering blood glucose levels without hypoglycemic effects.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  25
+1. Name:  Ebselen
+2. Groups:  Investigational
+3. Description:  Ebselen has been investigated for the treatment and basic science of Meniere's Disease, Type 2 Diabetes Mellitus, and Type 1 Diabetes Mellitus.
+4. Indication:  Not Available

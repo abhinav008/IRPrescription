@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Glycine betaine
+2. Groups:  Approved, Nutraceutical
+3. Description:  Betaine is a methyl group donor that functions in the normal metabolic cycle of methionine and reduces homocystinuria in patients with inborn errors of methionine metabolism. In the United States, betaine is distributed under the brand name Cystadane® by Rare Disease Therapeutics. Many reports have shown that betaine's therapeutic effectiveness is limited, and does not lower tHcy levels or prevent clinical symptoms [2].
+4. Indication:  Betaine is indicated for the treatment of homocystinuria to decrease elevated homocysteine blood levels. Included within the category of homocystinuria are deficiencies or defects in: 1. cystathionine beta-synthase (CBS), 2. 5,10-methylenetetrahydrofolate reductase (MTHFR), 3. cobalamin cofactor metabolism (cbl). 
+DrugId:  2
+1. Name:  Hypoxanthine
+2. Groups:  Experimental
+3. Description:  A purine and a reaction intermediate in the metabolism of adenosine and in the formation of nucleic acids by the salvage pathway. [PubChem]
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Tubercidin
+2. Groups:  Experimental
+3. Description:  An antibiotic purine ribonucleoside that readily substitutes for adenosine in the biological system, but its incorporation into DNA and RNA has an inhibitory effect on the metabolism of these nucleic acids.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Azathioprine
+2. Groups:  Approved
+3. Description:  An immunosuppressive antimetabolite pro-drug. It is an imidazolyl derivative of 6-mercaptopurine and many of its biological effects are similar to those of the parent compound. Azathioprine is converted into 6-mercaptopurine in the body where it blocks purine metabolism and DNA synthesis.
+4. Indication:  For use in rheumatoid arthritis, preventing renal transplant rejection, Crohn's disease, and colitis.
+DrugId:  5
+1. Name:  Mercaptopurine
+2. Groups:  Approved
+3. Description:  An antimetabolite antineoplastic agent with immunosuppressant properties. It interferes with nucleic acid synthesis by inhibiting purine metabolism and is used, usually in combination with other drugs, in the treatment of or in remission maintenance programs for leukemia. [PubChem]
+4. Indication:  For remission induction and maintenance therapy of acute lymphatic leukemia.
+DrugId:  6
+1. Name:  ATP
+2. Groups:  Investigational, Nutraceutical
+3. Description:  An adenine nucleotide containing three phosphate groups esterified to the sugar moiety. In addition to its crucial roles in metabolism adenosine triphosphate is a neurotransmitter.
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  7
+1. Name:  L-Carnitine
+2. Groups:  Approved, Investigational
+3. Description:  Constituent of striated muscle and liver. It is used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+4. Indication:  For treatment of primary systemic carnitine deficiency, a genetic impairment of normal biosynthesis or utilization of levocarnitine from dietary sources, or for the treatment of secondary carnitine deficiency resulting from an inborn error of metabolism such as glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency. Used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias. Parenteral levocarnitine is indicated for the prevention and treatment of carnitine deficiency in patients with end-stage renal disease.
+DrugId:  8
+1. Name:  7-Alpha-D-Ribofuranosyl-Purine-5'-Phosphate
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Bromopurine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Nelarabine
+2. Groups:  Approved, Investigational
+3. Description:  Nelarabine is a chemotherapy drug used in T-cell acute lymphoblastic leukemia. Nelarabine is a purine nucleoside analog converted to its corresponding arabinosylguanine nucleotide triphosphate (araGTP), resulting in inhibition of DNA synthesis and cytotoxicity.
+4. Indication:  For the treatment of pediatric and adult patients with acute T-cell lymphoblastic leukemia and T-cell lymphoblastic lymphoma whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens.
+DrugId:  11
+1. Name:  6-Methylpurine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Regadenoson
+2. Groups:  Approved, Investigational
+3. Description:  Regadenoson is an A2A adenosine receptor agonist that causes coronary vasodilation and used for myocardial perfusion imagining. Manufactured by Astellas and FDA approved April 10, 2008. 
+4. Indication:  Diagnostic agent for radionuclide myocardial perfusion imaging (MPI) 
+DrugId:  13
+1. Name:  9-(6-deoxy-beta-D-allofuranosyl)-6-methylpurine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Guanine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  2'-Deoxyinosine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  1,N6-Ethenoadenine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Nebularine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Cangrelor
+2. Groups:  Approved
+3. Description:  Cangrelor is an intravenous, direct-acting, reversible P2Y12 inhibitor for patients undergoing percutaneous coronary intervention (PCI) who have not been yet treated by oral P2Y12 inhibitors. An advantage Cangrelor provides over oral P2Y12 inhibitors (such as prasugrel, ticagrelor, and clopidogrel) is that it is an active drug not requiring metabolic conversion therefore providing a rapid onset and offset of action. Cangrelor was approved by the FDA in June 2015 for intravenous application.
+4. Indication:  For use as an adjunct to percutaneous coronary intervention (PCI) for reducing the risk of periprocedural myocardial infarction (MI), repeat coronary revascularization, and stent thrombosis (ST) in patients in who have not been treated with a P2Y12 platelet inhibitor and are not being given a glycoprotein IIb/IIIa inhibitor.
+DrugId:  19
+1. Name:  Xanthinol
+2. Groups:  Approved, Withdrawn
+3. Description:  Xanthinol is a very potent water-soluble derivative of niacin that can be found in diet supplements. It is also known as xanthinol nicotinate. [6] Xaninthol is known to be a potent vasodilator that can easily pass through the cell membrane and once inside the cell it causes an increase in glucose metabolism resulting in an increased energy. [7] It was approved as a drug in 1998 in Canada and nowadays its status is cancelled post marketing.
+4. Indication:  Xanthinol is primarily used in diet supplements to increase the brain metabolism of glucose and obtain ATP. Xanthinol is also used as an agent to reduced cholesterol as it is a vasodilator.[7] Its action allows having an elevated rate of blood flow in the brain which helps improve memory function, concentration and awareness.[6] Thus, due to his actions, xanthinol is indicated to improve cerebrovascular and peripheral vascular disorders as well as hyperlipidaemias.[8]
+DrugId:  20
+1. Name:  6-Chloro-2-Fluoropurine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Didanosine
+2. Groups:  Approved
+3. Description:  A dideoxynucleoside compound in which the 3'-hydroxy group on the sugar moiety has been replaced by a hydrogen. This modification prevents the formation of phosphodiester linkages which are needed for the completion of nucleic acid chains. Didanosine is a potent inhibitor of HIV replication, acting as a chain-terminator of viral DNA by binding to reverse transcriptase; ddI is then metabolized to dideoxyadenosine triphosphate, its putative active metabolite. [PubChem]
+4. Indication:  For use, in combination with other antiretroviral agents, in the treatment of HIV-1 infection in adults.
+DrugId:  22
+1. Name:  Purine Riboside-5'-Monophosphate
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  2-Bromo-6-Chloro-Purine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  9-(2-Deoxy-Beta-D-Ribofuranosyl)-6-Methylpurine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Etoposide
+2. Groups:  Approved
+3. Description:  A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Etoposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent entry into the mitotic phase of cell division, and lead to cell death. Etoposide acts primarily in the G2 and S phases of the cell cycle. [PubChem]
+4. Indication:  For use in combination with other chemotherapeutic agents in the treatment of refractory testicular tumors and as first line treatment in patients with small cell lung cancer. Also used to treat other malignancies such as lymphoma, non-lymphocytic leukemia, and glioblastoma multiforme.

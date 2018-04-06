@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Corticotropin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Corticotropin (ACTH or adrenocorticotropic hormone) is a polypeptide hormone produced and secreted by the pituitary gland. It is an important player in the hypothalamic-pituitary-adrenal axis.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  2
+1. Name:  Tetracosactide
+2. Groups:  Approved
+3. Description:  Tetracosactide (also known as Cosyntropin) is a synthetic peptide that is identical to the 24-amino acid segment (sequence: SYSMEHFRWGKPVGKKRRPVKVYP) at the N-terminal of adrenocorticotropic hormone. ACTH (1-24), a segment similar in all species, contains the biological activity that stimulates production of corticosteroids in the adrenal cortex. Tetracosactide exhibits the same activity as natural ACTH with regard to all its biological activities. The complex results in a product whose absorption in man is effected over a longer period of time as compared to corticotropin. Therefore, therapy may be maintained with less frequent administration.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  3
+1. Name:  Desoxycorticosterone Pivalate
+2. Groups:  Experimental, Vet approved
+3. Description:  Desoxycorticosterone Pivalate is a mineralocorticoid hormone and an analog of desoxycorticosterone. It is white, odorless, and stable in air. It is practically insoluble in water, sparingly soluble in acetone, slightly soluble in methanol, ether and vegetable oils. Federal (U.S.A.) law restricts this drug to use by or on the order of a licensed veterinarian.
+4. Indication:  Examined for treatment of adrenocortical insufficiency especially in multiple sclerosis, congenital cerebral palsy, polyarteritis nodosa, and rheumatoid arthritis. Currently only approved in treating cats and dogs for the treatment of Addison's disease.
+DrugId:  4
+1. Name:  Fludrocortisone
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic mineralocorticoid with anti-inflammatory activity. [PubChem]
+4. Indication:  For partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenogenital syndrome.
+DrugId:  5
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  6
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  7
+1. Name:  Prednisolone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states. [PubChem]
+4. Indication:  For the treatment of primary or secondary adrenocortical insufficiency, such as congenital adrenal hyperplasia, thyroiditis. Also used to treat psoriatic arthritis, rheumatoid arthritis, ankylosing spondylitis, bursitis, acute gouty arthritis and epicondylitis. Also indicated for treatment of systemic lupus erythematosus, pemphigus and acute rhematic carditis. Can be used in the treatment of leukemias, lymphomas, thrombocytopenia purpura and autoimmune hemolytic anemia. Can be used to treat celiac disease, insulin resistance, ulcerative colitis and liver disorders.
+DrugId:  8
+1. Name:  Lutropin alfa
+2. Groups:  Approved
+3. Description:  Lutropin alfa is a recombinant human luteinizing hormone produced in yeast with 2 subunits, alpha = 92 residues, beta = 121 residues. It is a heterodimeric glycoprotein. Each monomeric unit is a glycoprotein molecule. In females, an acute rise of LH ("LH surge") triggers ovulation and the development of the corpus luteum. In males, it stimulates Leydig cell production of testosterone. Lutropin alfa was the first and only recombinant human form of luteinizing hormone (LH) developed for use in the stimulation of follicular development.
+4. Indication:  For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH <1.2 international units [IU]/L)
+DrugId:  9
+1. Name:  Iobenguane
+2. Groups:  Approved, Investigational
+3. Description:  Synthetic guanethidine derivative that locates phaeochromocytomas and neuroblastomas. The radioisotope used can either be iodine-123 for imaging or iodine-131 for destruction of tissues that metabolize noradrenaline. Iodine 123 is a cyclotron-produced radionuclide that decays to Te 123 by electron capture. Images are produced by a I123 MIBG scintigraphy. FDA approved on September 19, 2008.
+4. Indication:  Detection of primary and metastatic pheochromocytoma or neuroblastoma 
+DrugId:  10
+1. Name:  Nivolumab
+2. Groups:  Approved
+3. Description:  Nivolumab is a fully human IgG4 monoclonal antibody that acts as an immunomodulator by blocking ligand activation of programmed cell death 1 (PD-1) receptor on T cells. It is indicated for use in patients with unresectable (cannot be surgically removed) or metastatic melanoma who no longer respond to other drugs. Nivolumab is administered as an intravenous infusion over 60 minutes every 2 weeks.
+4. Indication:  Nivolumab is indicated for the treatment of unresectable or metastatic melanoma for patients who no longer respond to treatment with other drugs. It is intended for use in patients who have been previously treated with ipilimumab and is used for melanoma patients after treatment with ipilimumab and a BRAF inhibitor in patients whose tumors express BRAF V600 gene mutations. Historically there have been very few effective treatments for advanced melanoma, which is why this product was approved under an FDA accelerated program to allow earlier patient access.
+DrugId:  11
+1. Name:  Avelumab
+2. Groups:  Approved, Investigational
+3. Description:  Avelumab is a programmed death ligand-1 (PD-L1) blocking antibody indicated for the treatment of adults and pediatric patients 12 years and older with metastatic Merkel cell carcinoma (MCC). It is a fully human anti-PD immunoglobulin G1 (IgG1) lambda monoclonal antibody with antineoplastic actions. It was granted accelerated approval in March 2017 under the name Bavencio.
+4. Indication:  Indicated for the treatment of adults and pediatric patients 12 years and older with metastatic Merkel cell carcinoma (MCC). 
+DrugId:  12
+1. Name:  Durvalumab
+2. Groups:  Approved, Investigational
+3. Description:  Durvalumab is a a human monoclonal antibody that blocks programmed death ligand 1 (PD-L1), or CD 274. In May, 2017 it received FDA approval for previously treated patients with locally advanced or metastatic cancer in the urinary system (as Imfinzi). It is shown to be effective in patients with continued disease progression after the platinum-based chemotherapy. This drug has a relatively tolerable safety profile and its structural modification advantageously prevents the induction of antibody-dependent cytotoxicity (ADCC) or complement-dependent cytotoxicity (CDC) [5].
+4. Indication:  Durvalumab is indicated for patients with urothelial carcinoma, such as urinary bladder, urethra or ureter cancer. Patients with prolonged disease progression due to failed platinum-based chemotherapy such as cisplatin and carboplatin are most likely to benefit from durvalumab treatment. Its clinical effectiveness is especially enhanced in PD-L1-positive patient groups [1]. 
+DrugId:  13
+1. Name:  Cortisone acetate
+2. Groups:  Approved, Investigational
+3. Description:  Cortisone acetate is a steroid hormone that has both glucocoriticoid and mineral corticoid activities. Corticosteroids are used to provide relief for inflamed areas of the body. They lessen swelling, redness, itching, and allergic reactions. They are often used as part of the treatment for a number of different diseases, such as severe allergies or skin problems, asthma, or arthritis. Endogenous glucocorticoids and some synthetic corticoids have high affinity to the protein transcortin (also called CBG, corticosteroid-binding protein), whereas all of them bind albumin. Glucocorticoids also bind to the cytosolic glucocorticoid receptor.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many immune and allergic disorders.
+DrugId:  14
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Betamethasone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)
+4. Indication:  Topical use (cream, lotion and ointment): for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.Topical use (foam): relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses of the scalp.Systemic use: for the treatment of edocrine disorders, rheumatic disorders, collagen diseases, dermatological diseases, allergic states, ophthalmic diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, gastrointestinal diseases, tuberculous meningitis and trichinosis.
+DrugId:  16
+1. Name:  Conivaptan
+2. Groups:  Approved, Investigational
+3. Description:  Conivaptan is a non-peptide inhibitor of antidiuretic hormone (vasopressin). It was approved in 2004 for hyponatremia (low blood sodium levels) caused by syndrome of inappropriate antidiuretic hormone (SIADH). Conivaptan inhibits both isotypes of the vasopressin receptor (V1a and V2).
+4. Indication:  For the treatment of euvolemic or hypervolemic hyponatremia (e.g. the syndrome of inappropriate secretion of antidiuretic hormone, or in the setting of hypothyroidism, adrenal insufficiency, pulmonary disorders, etc.) in hospitalized patients.
+DrugId:  17
+1. Name:  Mitotane
+2. Groups:  Approved
+3. Description:  A derivative of the insecticide dichlorodiphenyldichloroethane that specifically inhibits cells of the adrenal cortex and their production of hormones. It is used to treat adrenocortical tumors and causes CNS damage, but no bone marrow depression. [PubChem]
+4. Indication:  For treatment of inoperable adrenocortical tumours; Cushing's syndrome
+DrugId:  18
+1. Name:  Androstenedione
+2. Groups:  Experimental, Illicit
+3. Description:  A delta-4 C19 steroid that is produced not only in the testis, but also in the ovary and the adrenal cortex. Depending on the tissue type, androstenedione can serve as a precursor to testosterone as well as estrone and estradiol.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Pancrelipase lipase
+2. Groups:  Approved
+3. Description:  is a combination of porcine-derived lipases, proteases, and amylases indicated for the treatment of exocrine pancreatic insufficiencydue to cystic fibrosis or other conditions.
+4. Indication:  Pancrelipase is indicated for the treatment of exocrine pancreatic insufficiency due to cystic fibrosis or other conditions. 
+DrugId:  20
+1. Name:  MK-7145
+2. Groups:  Investigational
+3. Description:  MK-7145 has been used in trials studying the treatment of Hypertension and Renal Insufficiency.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Horse chestnut
+2. Groups:  Experimental
+3. Description:  Horse chestnut is a flowering plant commonly referred to as Aesculus hippocastanum. Unprocessed horse chestnut seeds contain a toxin called esculin (also spelled aesculin) that increases the risk of bleeding due to anticoagulant actions. These seeds are processed to remove the toxic component, resulting in purified horse chestnut seed extract (HCSE) [1]. The active component of this pure extract is escin, or aescin, that promotes blood circulation through the veins and reduces swelling and inflammation of the legs. Its therapeutic potential in the treatment of chronic venous insufficiency is being studied.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Enprofylline
+2. Groups:  Approved, Investigational
+3. Description:  Enprofylline is a derivative of theophylline which shares bronchodilator properties. Enprofylline is used in asthma, chronic obstructive pulmonary disease, and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy. Long-term enprofylline administration may be associated with elevation in liver enzyme levels and unpredictable blood levels.
+4. Indication:  Used in the management of symptoms of asthma. Also used in the treatment of peripheral vascular diseases and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy.
+DrugId:  23
+1. Name:  Trilostane
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  Trilostane is an inhibitor of 3 beta-hydroxysteroid dehydrogenase used in the treatment of Cushing's syndrome. It was withdrawn from the United States market in April 1994. [Wikipedia]
+4. Indication:  Used in the treatment of Cushing's syndrome. It is normally used in short-term treatment until permanent therapy is possible.
+DrugId:  24
+1. Name:  Hydrocortisone
+2. Groups:  Approved, Vet approved
+3. Description:  The main glucocorticoid secreted by the adrenal cortex. Its synthetic counterpart is used, either as an injection or topically, in the treatment of inflammation, allergy, collagen diseases, asthma, adrenocortical deficiency, shock, and some neoplastic conditions. [PubChem]
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many immune and allergic disorders, such as arthritis, lupus, severe psoriasis, severe asthma, ulcerative colitis, and Crohn's disease.
+DrugId:  25
+1. Name:  5-androstenedione
+2. Groups:  Experimental, Illicit
+3. Description:  5-androstenedione is a prohormone of testosterone. In the United States, the Controlled Substance Act is inclusive to anabolic steroids and their precursors. Thus 5-androstenedione is a controlled substance. The World Anti-Doping Agency also prohibits use of 5-androstenedione in athletes. 5-androstenedione is structurally similar to 4-androstenedione, with the exception of the positioning of a carbon-carbon double bond. 4-Androstenedione is a prohormone which is naturally produced in the body by the adrenal glands and gonads, and acts as precursor to testosterone, as well as estrone and estradiol. [Wikipedia] 
+4. Indication:  Not Available

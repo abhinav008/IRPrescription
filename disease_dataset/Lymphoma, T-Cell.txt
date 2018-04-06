@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  FAV-201
+2. Groups:  Investigational
+3. Description:  FAV-201 is a patient-specific immunotherapy for the treatment of T-cell lymphoma.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's).
+DrugId:  2
+1. Name:  Varlilumab
+2. Groups:  Investigational
+3. Description:  Varlilumab has been used in trials studying the treatment of MELANOMA, Skin Ulcer, Burkett's Lymphoma, Mantle cell lymphoma, and Any T-cell Malignancy, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Polatuzumab Vedotin
+2. Groups:  Investigational
+3. Description:  Polatuzumab Vedotin has been used in trials studying the treatment of Non-Hodgkin's Lymphoma, Lymphoma, B-Cell, Non-Hodgkin's Lymphoma, Diffuse Large B-Cell Lymphoma, Lymphoma, Follicular, Lymphoma, Follicular, Diffuse Large B-Cell Lymphoma, and Diffuse Large B-Cell Lymphoma, Lymphoma, Non Hodgkin, Lymphoma, Follicular, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Ublituximab
+2. Groups:  Investigational
+3. Description:  Ublituximab has been used in trials studying the treatment of B-cell Lymphoma, Neuromyelitis Optica, Mantle Cell Lymphoma, Non-Hodgkins Lymphoma, and Marginal Zone Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  IPH 1101
+2. Groups:  Investigational
+3. Description:  IPH 1101 is a chemically-synthesized structural analog of non-conventional bacterial phosphoantigens which specifically activate the Vγ9Vδ2 T cell subset. IPH 1101 is the most advanced drug candidate of the γδ T cell platform
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), leukemia (myeloid), and lymphoma (non-hodgkin's).
+DrugId:  6
+1. Name:  Axicabtagene ciloleucel
+2. Groups:  Approved
+3. Description:  Axicabtagene ciloleucel is a chimeric antigen receptor (CAR) T cell therapy for the treatment of Diffuse large B-cell lymphoma (DLBCL), which is a type of a non-Hodgkin lymphoma (NHL). It is the second cell-based gene therapy that is FDA-approved but the first in the treatment of large B-cell lymphoma in adult patients. Uniquely, axicabtagene ciloleucel utilizes each patient’s own immune system where each dose of the drug consists of the patient's genetically modified T-cells that were previously collected. The modified version of the T-cell expresses a new gene that targets and kills the lymphoma cells and is infused back into the patient. Diffuse large B-cell lymphoma (DLBCL) is the most common type of NHL in adults that mostly originates from the lymph nodes but can initiate outside of the lymphatic system. Lymphoma cells appear to be much larger in size than normal lymphocytes. In a multicenter clinical trial, the patients who were treated with axicabtagene ciloleucel achieved the complete remission rate of 51%. Developed by Kite Pharma, Inc., it was approved on October 18th, 2017 by the FDA as an intravenously infused anticancer therapy and is marketed under the brand name Yescarta.
+4. Indication:  Indicated for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, primary mediastinal large B-cell lymphoma, high grade B-cell lymphoma, and DLBCL arising from follicular lymphoma. 
+DrugId:  7
+1. Name:  Siplizumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders, transplant (rejection), graft versus host disease, lymphoma (unspecified), and leukemia (unspecified).
+DrugId:  8
+1. Name:  Galiximab
+2. Groups:  Investigational
+3. Description:  Galiximab is a chimeric monoclonal antibody which is used as an immunosuppressive drug.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's), psoriasis and psoriatic disorders, bone metastases, multiple myeloma, prostate cancer, and rheumatoid arthritis.
+DrugId:  9
+1. Name:  Vitespen
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in kidney cancer, melanoma, renal cell carcinoma, lymphoma (unspecified), colorectal cancer, and brain cancer.
+DrugId:  10
+1. Name:  Forodesine
+2. Groups:  Investigational
+3. Description:  Forodesine is a highly potent, orally active, rationally designed PNP inhibitor that has shown activity in preclinical studies with malignant cells and clinical utility against T-cell acute lymphoblastic leukemia and cutaneous T-cell lymphoma. Additional preliminary findings support its use for the management of some B-cell malignancies.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and leukemia (lymphoid).
+DrugId:  11
+1. Name:  SGN-30
+2. Groups:  Investigational
+3. Description:  SGN-30 is an engineered monoclonal antibody (mAb) that reacts with significant affinity to the CD30 antigen, which is highly expressed on a variety of hematologic malignancies as compared to on normal cells. SGN-30 has been shown to induce direct anti-cancer activity towards tumor cells expressing CD30 and is undergoing phase II trials for cancer therapy. SGN-30 has demonstrated objective antitumor responses as a single agent in phase II clinical trials. We are collaborating with the National Cancer Institute (NCI) on three clinical trials of SGN-30 in combination with chemotherapy for the treatment of relapsed Hodgkin lymphoma, front-line ALCL and pediatric ALCL.SGN-30 received orphan drug designation from the FDA in July 2003 for Hodgkin lymphoma and in February 2004 for T-cell lymphomas. 
+4. Indication:  Investigated for use/treatment in autoimmune diseases, cancer/tumors (unspecified), lymphoma (non-hodgkin's), and lymphoma (unspecified).
+DrugId:  12
+1. Name:  ISS-1018
+2. Groups:  Investigational
+3. Description:  ISS 1018 is a short, synthetic, unmethylated CpG oligodeoxynucleotide (CpG ODN) with immunostimulatory activity. ISS 1018 signals through Toll-like receptor 9 (TLR9) to induce the production of immunoglobulin by B cells and interferon (IFN) -alpha, IFN-beta, interleukin-12 (IL-12), and tumor necrosis factor - alpha (TNF-alpha) by plasmacytoid dendritic cells (pDC). ISS 1018 CpG ODN promotes antigen presentation and co-stimulatory molecule expression. ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It is also being investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+4. Indication:  Investigated for use/treatment in colorectal cancer, hepatitis (viral, B), and lymphoma (non-hodgkin's).ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It has also been investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+DrugId:  13
+1. Name:  Daporinad
+2. Groups:  Investigational
+3. Description:  Daporinad has been used in trials studying the treatment of Melanoma, Cutaneous T-cell Lymphoma, and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  FavId
+2. Groups:  Investigational
+3. Description:  FavId, is an active immunotherapy that is based upon unique genetic information extracted from a patient's tumor.
+4. Indication:  B-cell non-Hodgkin's lymphoma
+DrugId:  15
+1. Name:  Denileukin diftitox
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant DNA-derived cytotoxic protein composed of the amino acid sequences for diphtheria toxin fragments A and B (Met 1-Thr 387)-His followed by the sequences for interleukin-2 (IL-2; Ala 1-Thr 133). It is produced in an E. coli expression system.
+4. Indication:  For treatment of cutaneous T-cell lymphoma
+DrugId:  16
+1. Name:  Duvelisib
+2. Groups:  Investigational
+3. Description:  Duvelisib has been used in trials studying the treatment and basic science of Lymphoma, Leukemia, T-cell Lymphoma, Hepatic Impairment, and Follicular Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Romidepsin
+2. Groups:  Approved, Investigational
+3. Description:  Romidepsin is a selective inhibitor of histone deacetylase, approved in the US in 2009 for the treatment of cutaneous T-cell lymphoma (CTCL) or/and peripheral T-cell lymphoma (PTCL) in patients who have received at least one prior systemic therapy. These indications are based on response rate. Clinical benefit such as improvement in overall survival has not been demonstrated. 
+4. Indication:  For the treatment of cutaneous T-cell lymphoma (CTCL) or/and peripheral T-cell lymphoma (PTCL) in patients who have received at least one prior systemic therapy. These indications are based on response rate. Clinical benefit such as improvement in overall survival has not been demonstrated. 
+DrugId:  18
+1. Name:  Dacetuzumab
+2. Groups:  Investigational
+3. Description:  Dacetuzumab has been used in trials studying the treatment of Multiple Myeloma, Non-Hodgkin Lymphoma, Leukemia, Lymphocytic, Chronic, and Lymphoma, Large B-Cell, Diffuse. It is a humanized anti-CD40 antibody and induces cytotoxicity in human multiple myeloma cells.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and multiple myeloma.
+DrugId:  19
+1. Name:  BMS-906024
+2. Groups:  Investigational
+3. Description:  BMS-906024 has been used in trials studying the treatment of Cancer, Lymphoblastic Leukemia, Acute T-cell, and Precursor T-Cell Lymphoblastic Lymphoma.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Resminostat
+2. Groups:  Investigational
+3. Description:  Resminostat has been used in trials studying the treatment of Sezary Syndrome, Mycosis fungoides, Hodgkin's Lymphoma, Hepatocellular Carcinoma, and Lymphoma, T-Cell, Cutaneous, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Entospletinib
+2. Groups:  Investigational
+3. Description:  Entospletinib has been used in trials studying the treatment of Oncology, Follicular Lymphoma, B-cell Malignancies, Mantle Cell Lymphoma, and Non-Hodgkin Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Bexarotene
+2. Groups:  Approved, Investigational
+3. Description:  Bexarotene (Targretin) is an antineoplastic agent indicated by the FDA for Cutaneous T cell lymphoma. It has been used off-label for lung cancer, breast cancer, and Kaposi's sarcoma. [Wikipedia]
+4. Indication:  Used orally for the treatment of skin manifestations of cutaneous T-cell lymphoma (CTCL) in patients who are refractory to at least one prior systemic therapy. Also used topically for the treatment of skin lesions in early (stage IA and IB) CTCL in patients who experience refractory or persistent disease with the use of other therapies or are intolerant of other therapies.
+DrugId:  23
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Idelalisib
+2. Groups:  Approved
+3. Description:  Idelalisib is a phosphoinositide 3-kinase inhibitor indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies. More specifically, idelalisib targets P110δ, the delta isoform of the enzyme phosphatidylinositol-4,5-bisphosphate 3-kinase, also known as PI-3K. The PI-3Ks are a family of enzymes involved in cellular functions such as cell growth, proliferation, differentiation, motility, survival and intracellular trafficking, which in turn are involved in cancer. In contrast to the other class IA PI3Ks p110α and p110β, p110δ is principally expressed in leukocytes (white blood cells) and is important for the function of T cells, B cell, mast cells and neutrophils. By inhibiting this enzyme, idelalisib induces apoptosis of malignant cells and inhibits several cell signaling pathways, including B-cell receptor (BCR) signaling and C-X-C chemokine receptors type 5 and type 4 signalling, which are involved in trafficking and homing of B-cells to the lymph nodes and bone marrow. Treatment of lymphoma cells with idelalisib has been shown to result in inhibition of chemotaxis and adhesion, and reduced cell viability.
+4. Indication:  Idelalisib is indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies.
+DrugId:  25
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available

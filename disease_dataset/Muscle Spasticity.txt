@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Tizanidine
+2. Groups:  Approved, Investigational
+3. Description:  Tizanidine is a short-acting drug for the management of spasticity. Tizanidine is an agonist at a2-adrenergic receptor sites and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. In animal models, tizanidine has no direct effect on skeletal muscle fibers or the neuromuscular junction, and no major effect on monosynaptic spinal reflexes. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons.
+4. Indication:  For the management of increased muscle tone associated with spasticity
+DrugId:  2
+1. Name:  XP19986
+2. Groups:  Investigational
+3. Description:  XP19986 is in clinical development for the potential treatment of GERD, and is also a potential treatment for the symptoms of spasticity. XP19986 is a Transported Prodrug of the R-isomer of baclofen. Baclofen is a generic drug that is currently approved to treat spasticity and has been shown in investigator-led studies to be effective in the treatment of GERD. XP19986 is designed to overcome the deficiencies of baclofen by targeting high-capacity nutrient transporter mechanisms expressed throughout the length of the entire GI tract, including the colon.XP19986 is well absorbed and rapidly converted to the R-isomer of baclofen.
+4. Indication:  Investigated for use/treatment in gastroesophageal reflux disease (GERD).
+DrugId:  3
+1. Name:  Baclofen
+2. Groups:  Approved
+3. Description:  Baclofen is a gamma-amino-butyric acid (GABA) derivative used as a skeletal muscle relaxant. Baclofen stimulates GABA-B receptors leading to decreased frequency and amplitude of muscle spasms. It is especially useful in treating muscle spasticity associated with spinal cord injury. It appears to act primarily at the spinal cord level by inhibiting spinal polysynaptic afferent pathways and, to a lesser extent, monosynaptic afferent pathways. 
+4. Indication:  For the alleviation of signs and symptoms of spasticity resulting from multiple sclerosis, particularly for the relief of flexor spasms and concomitant pain, clonus, and muscular rigidity.
+DrugId:  4
+1. Name:  Metaxalone
+2. Groups:  Approved
+3. Description:  Metaxalone (marketed by King Pharmaceuticals under the brand name Skelaxin®) is a muscle relaxant used to relax muscles and relieve pain caused by strains, sprains, and other musculoskeletal conditions. Its exact mechanism of action is not known, but it may be due to general central nervous system depression. It is considered to be a moderately strong muscle relaxant, with relatively low incidence of side effects. Skelaxin comes in an 800 mg scored tablet. It previously came in both 400 mg and 800 mg tablets. The 400 mg tablet has been discontinued. Possible side effects include nausea, vomiting, drowsiness and CNS side effects such as dizziness, headache, and irritability.
+4. Indication:  For the treatment of painful peripheral musculoskeletal conditions and spasticity from upper motor neuron syndromes.
+DrugId:  5
+1. Name:  LIC-477
+2. Groups:  Investigational
+3. Description:  LIC-477is indicated to be suitable for the treatment of psychosomatic disturbances, epilepsy, trigeminal neuralgia and cerebral spasticity. 
+4. Indication:  Investigated for use/treatment in bipolar disorders.
+DrugId:  6
+1. Name:  Cannabidiol
+2. Groups:  Approved, Investigational
+3. Description:  Cannabidiol, or CBD, is one of at least 85 active cannabinoids identified within Cannabis sativa. It is a major phytocannabinoid, accounting for up to 40% of the plant's extract, and binds to a wide variety of physiological targets of the endocannabinoid system within the body. Although the exact medical implications are currently being investigated, CBD has shown promise as a therapeutic and pharmaceutical drug target. CBD is considered to have a wider scope of medical applications than tetrahydrocannabinol (THC); it has been shown to have analgesic, anticonvulsant, muscle relaxant, anxiolytic, neuroprotective, anti-oxidant, and anti-psychotic activity.CBD is currently available in Canada within a 1:1 formulation with tetrahydrocannbinol (THC) as the brand name product Sativex. It is approved for use as adjunctive treatment for symptomatic relief of spasticity in adult patients with multiple sclerosis (MS). Sativex was also given a conditional Notice of Compliance (NOC/c) for use as adjunctive treatment for the symptomatic relief of neuropathic pain in adult patients with multiple sclerosis and as adjunctive analgesic treatment for moderate to severe pain in adult patients with advanced cancer.
+4. Indication:  When used in combination with delta-9-tetrahydrocannabinol as the product Sativex, cannabidiol was given a standard marketing authorization (ie. a Notice of Compliance (NOC)) by Health Canada for the following indications:1) as adjunctive treatment for symptomatic relief of spasticity in adult patients with multiple sclerosis (MS) who have not responded adequately to other therapy and who demonstrate meaningful improvement during an initial trial of therapy [5];Due to the need for confirmatory studies to verify the clinical benefit coupled with the promising nature of the clinical evidence, Sativex was also given a Notice of Compliance with Conditions (NOC/c) by Health Canada for the following indications:1) as adjunctive treatment for the symptomatic relief of neuropathic pain in adult patients with multiple sclerosis;2) as adjunctive analgesic treatment in adult patients with advanced cancer who experience moderate to severe pain during the highest tolerated dose of strong opioid therapy for persistent background pain [5].
+DrugId:  7
+1. Name:  Arbaclofen Placarbil
+2. Groups:  Investigational
+3. Description:  Arbaclofen Placerbil is a prodrug of Arbaclofen, which is a selective gamma-amino-butyric acid type B receptor agonist and the R-enantiomer of baclofen. It was discovered, and has been patented by XenoPort as a new chemical entity with an improved pharmacokinetic profile compared to baclofen, which allows for sustained release properties. Arbaclofen Placerbil was believed to have therapeutic potential in treating gastroesophogeal reflux disease (GERD) and plasticity; however due to discouraging clinical trial results, the drug was abandoned by XenoPort in 2011 for the treatment of GERD. On May 20th, 2013, XenoPort announced plans to terminate the development of Arbaclofen Placerbil for the treatment of multiple sclerosis.
+4. Indication:  Investigated for the treatment of spasticity in multiple sclerosis, acute back spasms, and GERD. 
+DrugId:  8
+1. Name:  Arbaclofen
+2. Groups:  Investigational
+3. Description:  Arbaclofen, or STX209, is the R-enantiomer of baclofen. It is believed to be a selective gamma-amino butyric acid type B receptor agonist, and has been investigated as a treatment for autism spectrum disorder and fragile X syndrome in randomized, double blind, placebo controlled trials. It has also been investigated as a treatment for spasticity due to multiple sclerosis and spinal cord injury. Arbaclofen was investigated as a treatment for gastroesophageal reflux disease (GERD); however, with disappointing results.
+4. Indication:  Investigated in clinical trials as a potential treatment for spasticity in multiple sclerosis, autism spectrum disorder, and social withdrawal in fragile X syndrome.
+DrugId:  9
+1. Name:  Methocarbamol
+2. Groups:  Approved, Vet approved
+3. Description:  A centrally acting muscle relaxant whose mode of action has not been established. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1206)
+4. Indication:  For use as an adjunct to rest, physical therapy, and other measures for the relief of discomforts associated with acute, painful musculoskeletal conditions.
+DrugId:  10
+1. Name:  L-aminocarnityl-succinyl-leucyl-argininal-diethylacetal
+2. Groups:  Investigational
+3. Description:  C-101, also called Myodur, is developed for the treatment of Duchenne’s muscular dystrophy (DMD) which is a morbid genetic disease that can lead to death in late adolescence due to accelerated skeletal muscle breakdown. C-101 includes a carnitine carrier molecule and a leupeptin analogue, a known calpain inhibitor. Calpain is the primary protease that degrades skeletal muscle.
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  11
+1. Name:  MYO-029
+2. Groups:  Investigational
+3. Description:  MYO-029 is a human anti-GDF-8 monoclonal antibody, which is being developed to treat muscle-wasting diseases including muscular dystrophy and age-related sarcopenia. 
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  12
+1. Name:  Cyclobenzaprine
+2. Groups:  Approved
+3. Description:  Cyclobenzaprine is a skeletal muscle relaxant and a central nervous system (CNS) depressant. Cyclobenzaprine acts on the locus coeruleus where it results in increased norepinephrine release, potentially through the gamma fibers which innervate and inhibit the alpha motor neurons in the ventral horn of the spinal cord. It is structurally similar to Amitriptyline, differing by only one double bond.
+4. Indication:  For use as an adjunct to rest and physical therapy for relief of muscle spasm associated with acute, painful musculoskeletal conditions.
+DrugId:  13
+1. Name:  Alverine
+2. Groups:  Approved, Investigational
+3. Description:  Alverine is a smooth muscle relaxant. Smooth muscle is a type of muscle that is not under voluntary control; it is the muscle present in places such as the gut and uterus. Alverine acts directly on the muscle in the gut, causing it to relax. This prevents the muscle spasms which occur in the gut in conditions such as irritable bowel syndrome and diverticular disease. It is used to relieve cramps or spasms of the stomach and intestines. It is also useful in treating irritable bowel syndrome (IBS) and similar conditions. It can also be used to help relieve period pain. Alverine is formulated as the citrate salt (5982-87-6).
+4. Indication:  Used to relieve cramps or spasms of the stomach and intestines. It is also useful in treating irritable bowel syndrome (IBS) and similar conditions. It can also be used to help relieve period pain. Alverine citrate is also under investigation to increase the cytotoxic effects of the proteasome inhibitor MG132 on breast cancer cells. 
+DrugId:  14
+1. Name:  Atracurium
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Dantrolene
+2. Groups:  Approved, Investigational
+3. Description:  Chemically, dantrolene is a hydantoin derivative, but does not exhibit antiepileptic activity like other hydantoin derivates such as phenytoin.
+4. Indication:  For use, along with appropriate supportive measures, for the management of the fulminant hypermetabolism of skeletal muscle characteristic of malignant hyperthermia crises in patients of all ages. Also used preoperatively, and sometimes postoperatively, to prevent or attenuate the development of clinical and laboratory signs of malignant hyperthermia in individuals judged to be malignant hyperthermia susceptible.
+DrugId:  16
+1. Name:  Decamethonium
+2. Groups:  Approved
+3. Description:  Decamethonium is a short acting depolarizing muscle relaxant or neuromuscular blocking agent, and is used in anesthesia to induce paralysis. It is similar to acetylcholine and acts as a partial agonist of the nicotinic acetylcholine receptor.
+4. Indication:  For use as a skeletal muscle relaxant
+DrugId:  17
+1. Name:  AZX-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in scar tissue.
+DrugId:  18
+1. Name:  Ligandrol
+2. Groups:  Investigational
+3. Description:  Ligandrol is an investigational selective androgen receptor modulator (SARM) for treatment of conditions such as muscle wasting and osteoporosis.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Carisoprodol
+2. Groups:  Approved
+3. Description:  A centrally acting skeletal muscle relaxant whose mechanism of action is not completely understood but may be related to its sedative actions. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute, painful, musculoskeletal conditions.
+DrugId:  20
+1. Name:  R450
+2. Groups:  Investigational
+3. Description:  R450 is an alpha 1 antagonist that acts to tighten the muscle tone in the bladder. It is being considered for treatment of stress-related urinary incontinence. Phase IIa data for the drug show it reduced the number of incontinent episodes compared to placebo with minimal cardiovascular effects.
+4. Indication:  Investigated for use/treatment in urinary incontinence.
+DrugId:  21
+1. Name:  ALKS 27
+2. Groups:  Investigational
+3. Description:  ALKS 27 is an inhaled formulation of trospium chloride for the treatment of chronic obstructive pulmonary disease (COPD). Study showed that ALKS 27 was well-tolerated over a wide dose range, with no dose-limited effects observed.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  22
+1. Name:  Hexafluronium
+2. Groups:  Approved
+3. Description:  Hexafluronium bromide is a neuromuscular blocking agent used in anesthesiology to prolong and potentiate the skeletal muscle relaxing action of suxamethonium during surgery. It is known to bind and block the activity of plasma cholinesterases.
+4. Indication:  Used as an adjunct with succinylcholine (or suxamethonium chloride) to prolong muscle relaxation and to prevent succinylcholine-induced muscle fasciculations.
+DrugId:  23
+1. Name:  Doxacurium chloride
+2. Groups:  Approved
+3. Description:  Doxacurium chloride is a long-acting, nondepolarizing skeletal muscle relaxant for intravenous administration.
+4. Indication:  Used to provide skeletal muscle relaxation as an adjunct to general anesthesia, for endotracheal intubation or to facilitate mechanical ventilation.
+DrugId:  24
+1. Name:  Camphor
+2. Groups:  Approved
+3. Description:  A bicyclic monoterpene ketone found widely in plants, especially cinnamomum camphora. It is used topically as a skin antipruritic and as an anti-infective agent.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation

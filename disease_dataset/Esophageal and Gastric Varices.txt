@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Somatostatin
+2. Groups:  Approved, Investigational
+3. Description:  Somatostatin is a synthetic cyclic 14 amino acid peptide (identical in structure and activity to naturally occurring somatostatin). Naturally occurring somatostatin (also known as growth hormone-inhibiting hormone) is a peptide hormone that regulates the endocrine system and affects neurotransmission and cell proliferation via interaction with G protein-coupled somatostatin receptors and inhibition of the release of numerous secondary hormones. Somatostatin inhibits insulin and glucagon secretion.
+4. Indication:  For the symptomatic treatment of acute bleeding from esophageal varices. Other treatment options for long-term management of the condition may be considered if necessary, once initial control has been established.
+DrugId:  2
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Ethanolamine Oleate
+2. Groups:  Approved
+3. Description:  Ethanolamine Oleate is a mild sclerosing agent. It is composed of ethanolamine, a basic substance, which when combined with oleic acid forms a clear, straw to pale yellow colored, deliquescent oleate.
+4. Indication:  For the treatment of patients with esophageal varices that have recently bled, to prevent rebleeding.
+DrugId:  4
+1. Name:  Ramucirumab
+2. Groups:  Approved, Investigational
+3. Description:  Ramucirumab is a human monoclonal antibody (IgG1) against vascular endothelial growth factor receptor 2 (VEGFR2), a type II trans-membrane tyrosine kinase receptor expressed on endothelial cells. By binding to VEGFR2, ramucirumab prevents binding of its ligands (VEGF-A, VEGF-C, and VEGF-D), thereby preventing VEGF-stimulated receptor phosphorylation and downstream ligand-induced proliferation, permeability, and migration of human endothelial cells. VEGFR stimulation also mediates downstream signalling required for angiogenesis and is postulated to be heavily involved in cancer progression, making it a highly likely drug target. In contrast to other agents directed against VEGFR-2, ramucirumab binds a specific epitope on the extracellular domain of VEGFR-2, thereby blocking all VEGF ligands from binding to it. Ramucirumab is indicated for us in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+4. Indication:  For use in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+DrugId:  5
+1. Name:  Itopride
+2. Groups:  Investigational
+3. Description:  Itopride is a dopamine D2 antagonist with acetylcholinesterase inhibitory actions.
+4. Indication:  Investigated for use/treatment in gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  6
+1. Name:  9-aminocamptothecin
+2. Groups:  Investigational
+3. Description:  Aminocamptothecin has been used in trials studying the treatment of Lymphoma, Gastric Cancer, Ovarian Cancer, Esophageal Cancer, and Ovarian Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Domperidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A specific blocker of dopamine receptors. It speeds gastrointestinal peristalsis, causes prolactin release, and is used as antiemetic and tool in the study of dopaminergic mechanisms. [PubChem]
+4. Indication:  For management of dyspepsia, heartburn, epigastric pain, nausea, and vomiting.
+DrugId:  8
+1. Name:  Metoclopramide
+2. Groups:  Approved, Investigational
+3. Description:  A dopamine D2 antagonist that is used as an antiemetic.
+4. Indication:  For the treatment of gastroesophageal reflux disease (GERD). It is also used in treating nausea and vomiting, and to increase gastric emptying.
+DrugId:  9
+1. Name:  Cisapride
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  In many countries (including Canada) cisapride has been either withdrawn or has had its indications limited due to reports about long QT syndrome due to cisapride, which predisposes to arrhythmias. The FDA issued a warning letter regarding this risk to health care professionals and patients.
+4. Indication:  For the symptomatic treatment of adult patients with nocturnal heartburn due to gastroesophageal reflux disease.
+DrugId:  10
+1. Name:  Sacituzumab govitecan
+2. Groups:  Investigational
+3. Description:  Sacituzumab govitecan has been used in trials studying the treatment of Breast Cancer, Cervical Cancer, Renal Cell Cancer, Colorectal Cancer, and Esophageal Cancer, among others.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Technetium Tc-99m sulfur colloid
+2. Groups:  Approved, Investigational
+3. Description:  Technetium 99m sulfur colloid is a radiopharmaceutical diagnostic agent used in the evaluation of various conditions including lymph node metastases in breast cancer, detection of shunt patency, imaging of reticuloendothelial cells for assessment of liver function, and studies of esophageal transit and gastroesophageal reflux. Following injection or oral administration, single photon emission computer tomography (SPECT) imaging is performed using a gamma camera to detect technetium-99m decay. This is possible as Technetium-99m decays by isomeric transition to technetium-99 through the release of a gamma ray. Depending on site of administration and intended usage, Technetium 99m sulfur colloid enters the capillaries and is transported to the lymph nodes (subcutaneous injection), mixes with peritoneal fluid (intraperitoneal injection), is taken up by reticulocytes (intravenous injection), or enters the gastroesphageal tract (oral administration).
+4. Indication:  Technetium 99m sulfur colloid is indicated as a diagnostic agent in adults for the following tests: localization of lymph nodes draining a primary tumor in patients with breast cancer or malignant melanoma; and evaluation of peritoneo-venous (LeVeen) shunt patency. It is indicated in both adult and pediatric patients for: imaging areas of functioning reticuloendothelial cells in the liver, spleen and bone marrow; and studies of esophageal transit and gastroesophageal reflux, and detection of pulmonary aspiration of gastric contents.
+DrugId:  12
+1. Name:  Edotecarin
+2. Groups:  Investigational
+3. Description:  Edotecarin is a novel, non-camptothecin, DNA topoisomerase I inhibitor. It is member of the class of compounds called indolocarbazoles.
+4. Indication:  Clinical studies with edotecarin have shown activity in subjects with colorectal cancer, esophageal cancer and other solid tumors.
+DrugId:  13
+1. Name:  Porfimer sodium
+2. Groups:  Approved, Investigational
+3. Description:  The purified component of hematoporphyrin derivative, it consists of a mixture of oligomeric porphyrins. It is used in photodynamic therapy (hematoporphyrin photoradiation); to treat malignant lesions with visible light and experimentally as an antiviral agent. It is the first drug to be approved in the use of photodynamic therapy in the United States.
+4. Indication:  Indicated in the treatment of esophageal cancer.
+DrugId:  14
+1. Name:  Indusatumab vedotin
+2. Groups:  Investigational
+3. Description:  Indusatumab vedotin has been used in trials studying the treatment of Pancreatic Adenocarcinoma, Adenocarcinoma of the Stomach, Recurrent Gastric Adenocarcinoma, Metastatic Gastric Adenocarcinoma, and Advanced Gastrointestinal Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Fluorouracil
+2. Groups:  Approved
+3. Description:  A pyrimidine analog that is an antineoplastic antimetabolite. It interferes with DNA synthesis by blocking the thymidylate synthetase conversion of deoxyuridylic acid to thymidylic acid. [PubChem]
+4. Indication:  For the topical treatment of multiple actinic or solar keratoses. In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Fluorouracil injection is indicated in the palliative management of some types of cancer, including colon, esophageal, gastric, rectum, breast, biliary tract, stomach, head and neck, cervical, pancreas, renal cell, and carcinoid.
+DrugId:  16
+1. Name:  Canertinib
+2. Groups:  Investigational
+3. Description:  Canertinib is a pan-erbB tyrosine kinase inhibitor which work against esophageal squamous cell carcinoma in vitro and in vivo. Canertinib treatment significantly affects tumour metabolism, proliferation and hypoxia as determined by PET.
+4. Indication:  Investigated for use/treatment in breast cancer and lung cancer.
+DrugId:  17
+1. Name:  Betazole
+2. Groups:  Approved
+3. Description:  A histamine H2 agonist used clinically to test gastric secretory function. [PubChem]
+4. Indication:  For use clinically to test gastric secretory function.
+DrugId:  18
+1. Name:  Cantuzumab ravtansine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in gastric cancer.
+DrugId:  19
+1. Name:  Onartuzumab
+2. Groups:  Investigational
+3. Description:  Onartuzumab has been used in trials studying the treatment of Neoplasms, Lung Cancer, Glioblastoma, Gastric Cancer, and Colorectal Cancer, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Metiamide
+2. Groups:  Experimental
+3. Description:  Metiamide is a histamine H2-receptor antagonist developed from another H2 antagonist, burimamide. It was an intermediate compound in the development of the successful anti-ulcer drug cimetidine.
+4. Indication:  Potential in the treatment and the management of acid-reflux disorders (GERD), peptic ulcer disease, heartburn, and acid indigestion.
+DrugId:  21
+1. Name:  INGN 201
+2. Groups:  Investigational
+3. Description:  INGN 201(Advexin) is a replication-impaired adenoviral vector that carries the p53 gene, has been evaluated in both preclinical and clinical trials. Advexin is a well-tolerated and efficacious treatment for numerous cancers, both as monotherapy and in combination with radiation and/or chemotherapy agents.
+4. Indication:  Investigated for use/treatment in bladder cancer, brain cancer, breast cancer, esophageal cancer, head and neck cancer, lung cancer, oral cavity cancer, ovarian cancer, and prostate cancer.
+DrugId:  22
+1. Name:  OSI-7904L
+2. Groups:  Investigational
+3. Description:  OSI-7904L is a liposome encapsulated thymidylate synthase inhibitor, which is indicated for use in advanced gastric and/or gastroesophageal adenocarcinoma (A-G/GEJA). Current treatments also inhibit thymidylate synthase but the innovative lipid coating of OSI-7904L allows for more enduring results with administration of the TS inhibitor.
+4. Indication:  Investigated for use/treatment in gastric cancer.
+DrugId:  23
+1. Name:  ADX10059
+2. Groups:  Investigational
+3. Description:  ADX10059 is a metabotropic glutamate receptor 5 (mGluR5) negative allosteric modulator (NAM). The orally available small molecule drug candidate, which is highly specific for mGluR5, was discovered at Addex in 2003. It is developed for the treatment of GERD, migraine and anxiety.
+4. Indication:  Investigated for use/treatment in anxiety disorders, gastroesophageal reflux disease (GERD), and migraine and cluster headaches.
+DrugId:  24
+1. Name:  Hexocyclium
+2. Groups:  Approved
+3. Description:  Hexocyclium is a muscarinic acetylcholine receptor antagonist which was presumably used in the treatment of gastric ulcer or diarrhea. It was once available under the tradename Tral marketed by Abbvie Inc. but has been discontinued. Proton pump inhibitors like Omeprazole and opiate anti-diarrheal agents like Loperamide have largely replaced the use of anti-muscarinics in the treatment of gastric ulcers and diarrhea due to their more favorable side effect profiles.
+4. Indication:  The World Health Organization classifies hexocyclium as a drug for functional gastrointestinal disorders [5]. Like other anti-muscarinic agents, hexocyclium was likely used to treat peptic ulcers or diarrhea.
+DrugId:  25
+1. Name:  Rilotumumab
+2. Groups:  Investigational
+3. Description:  Rilotumumab has been investigated for the treatment of Cancer, Lung Cancer, Solid Tumors, Gastric Cancer, and Prostate Cancer, among others.
+4. Indication:  Not Available

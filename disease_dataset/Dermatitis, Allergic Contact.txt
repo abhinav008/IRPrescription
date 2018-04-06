@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bentoquatam
+2. Groups:  Approved
+3. Description:  Bentoquatam is a topical medication intended to act as a shield against exposure to the irritating substance urushiol, found in plants such as poison ivy or poison oak. Bentoquatam contains bentonite, a clay, and is only effective as long as the film is visible on the skin.
+4. Indication:  Used to prevent or reduce the severity of allergic contact dermatitis due to urushiol, the allergenic resin of poison ivy, poison oak, and poison sumac.
+DrugId:  2
+1. Name:  Parthenolide
+2. Groups:  Approved, Investigational
+3. Description:  Parthenolide has been used in trials studying the diagnostic of Allergic Contact Dermatitis.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Ligelizumab
+2. Groups:  Investigational
+3. Description:  Ligelizumab has been used in trials studying the basic science and treatment of Asthma, Allergy, Peanut Allergy, Allergic Asthma, and Atopic Dermatitis, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  5
+1. Name:  Oxiconazole
+2. Groups:  Approved
+3. Description:  Oxiconazole nitrate (U.S.: Oxistat, Canada: Oxizole) is an antifungal medication typically administered in a cream or lotion to treat skin infections such as athlete's foot, jock itch and ringworm. [Wikipedia]
+4. Indication:  For treatment of dermal fungal infection.
+DrugId:  6
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  7
+1. Name:  Lebrikizumab
+2. Groups:  Investigational
+3. Description:  Lebrikizumab has been used in trials studying the treatment of Asthma, Allergic Asthma, Atopic Dermatitis, Idiopathic Pulmonary Fibrosis, and COPD, Chronic Obstructive Pulmonary Disease.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Hydrocortamate
+2. Groups:  Approved
+3. Description:  Hydrocortamate is a synthetic glucocorticoid used for its anti-inflammatory or immunosuppressive properties to treat inflammation due to corticosteroid-responsive dermatoses. Glucocorticoids are a class of steroid hormones characterised by an ability to bind with the cortisol receptor and trigger a variety of important cardiovascular, metabolic, immunologic and homeostatic effects.
+4. Indication:  Used topically as an antiinflammatory in the treatment of steroid-responsive dermatoses
+DrugId:  9
+1. Name:  Tranilast
+2. Groups:  Approved, Investigational
+3. Description:  Tranilast is an antiallergic drug developed by Kissei Pharmaceuticals. It was approved in 1982 for use in Japan and South Korea for bronchial asthma. Indications for keloid and hypertrophic scar were added in 1993. It has been used for the treatment of allergic disorders such as asthma, allergic rhinitis and atopic dermatitis.
+4. Indication:  For the treatment of bronchial asthma, keloid and hypertrophic scar, and allergic disorders such as asthma, allergic rhinitis and atopic dermatitis.
+DrugId:  10
+1. Name:  Vapitadine
+2. Groups:  Investigational
+3. Description:  Vapitadine is an antihistamine that Barrier Therapeutics is developing as a treatment for allergic reactions of the skin, such as those associated with hives and for the itch associated with atopic dermatitis. An advantage of vapitadine over other antihistamines may be the absence of the sedation, even at high doses.
+4. Indication:  Investigated for use/treatment in atopic dermatitis.
+DrugId:  11
+1. Name:  Fevipiprant
+2. Groups:  Investigational
+3. Description:  Fevipiprant has been used in trials studying the treatment of Asthma, Atopic Dermatitis, and Allergic Rhinitis.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Betamethasone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)
+4. Indication:  Topical use (cream, lotion and ointment): for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.Topical use (foam): relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses of the scalp.Systemic use: for the treatment of edocrine disorders, rheumatic disorders, collagen diseases, dermatological diseases, allergic states, ophthalmic diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, gastrointestinal diseases, tuberculous meningitis and trichinosis.
+DrugId:  13
+1. Name:  Crisaborole
+2. Groups:  Approved, Investigational
+3. Description:  Crisaborole is a novel oxaborole approved by FDA on December 14, 2016 as Eucrisa, a topical treatment of for mild to moderate atopic dermatitis.This non-steroidal agent is efficacious in improving disease severity, reducing the risk of infection and reducing the signs and symptoms in patients 2 years old and older. It reduces the local inflammation in the skin and prevents further exacerbation of the disease with a good safety profile. Its structure contains a boron atom, which facilitates skin penetration and binding to the bimetal center of the phosphodiesterase 4 enzyme. It is currently under development as topical treatment of psoriasis.
+4. Indication:  Intended for the topical treatment of mild to moderate atopic dermatitis in patients 2 years of age and older.
+DrugId:  14
+1. Name:  Thonzonium
+2. Groups:  Approved
+3. Description:  Thonzonium is a monocationic surface-active agent with surfactant and detergent properties. It is widely used as an additive to in ear and nasal drops to enhance dispersion and penetration of cellular debris and exudate, thereby promoting tissue contact of the administered medication. A common pharmaceutical formulation of thonzonium bromide is cortisporin-TC ear drops. It is also reported that thonzonium also confers an antifungal property and antiresorptive effect on bone.
+4. Indication:  Used as a monocationic surfactant and detergent to help penetration of active ingredients through cellular debris for its antibacterial action.
+DrugId:  15
+1. Name:  Luliconazole
+2. Groups:  Approved
+3. Description:  Luliconazole is a topical antifungal agent that acts by unknown mechanisms but is postulated to involve altering the synthesis of fungi cell membranes. It was approved by the FDA (USA) in November 2013 and is marketed under the brand name Luzu. Luliconazole is also approved in Japan.
+4. Indication:  Luliconazole is indicated in adults aged 18 years and older for the topical treatment of fungal infections caused by Trichophyton rubrum and Epidermophyton floccosum, specifically tinea pedis, cruris, and corporis.
+DrugId:  16
+1. Name:  Flumethasone
+2. Groups:  Approved, Vet approved
+3. Description:  Flumethasone is a moderately potent difluorinated corticosteroid ester with anti-inflammatory, antipruritic and vasoconstrictive properties. As it is a privalate salt, its anti-inflammatory action is concentrated at the site of application. This local effect on diseased areas results in a prompt decrease in inflammation, exudation and itching.
+4. Indication:  For the treatment of contact dermatitis, atopic dermatitis, exczema, psoriasis, diaper rash and other skin conditions
+DrugId:  17
+1. Name:  Eteplirsen
+2. Groups:  Approved, Investigational
+3. Description:  Eteplirsen is a phosphoramidite morpholino sequence complementary to a portion of exon 51. [1] It exerts it's mechanism of action by forcing the exclusion of exon 51 from the mature DMD mRNA. [1]
+4. Indication:  Eteplirsen is indicated for treatment of certain individuals with Duchenne muscular dystrophy (DMD). Its use is limited to those with a confirmed mutation of the DMD gene which would benefit from exon 51 skipping. Based on clinical studies showing increased dystrophin production in skeletal muscle in some patients given this drug, the above indication was approved under accelerated approval. Further confirmatory trials are required to demonstrate clinical benefit of eteplirsen.
+DrugId:  18
+1. Name:  Brimonidine
+2. Groups:  Approved
+3. Description:  Brimonidine is a drug used to treat glaucoma. It acts via decreasing aqueous humor synthesis. A topical gel formulation, marketed under the name Mirvaso, was FDA approved on August 2013 for the treatment of rosacea.
+4. Indication:  The ophthalmic solution is indicated for patients with open-angle glaucoma or ocular hypertension to lower intraocular pressure. The topical gel is indicated for the treatment of persistent (nontransient) facial erythema of rosacea in adults 18 years or older. 
+DrugId:  19
+1. Name:  BF-37
+2. Groups:  Investigational
+3. Description:  BF-37 for the treatment of atopic dermatitis and/or psoriasis. The active ingredient in BF-37 is Riluzole, applied in a topical formulation, which is believed to correct the imbalances of the immune system that cause atopic dermatitis or psoriasis.
+4. Indication:  Investigated for use/treatment in atopic dermatitis.
+DrugId:  20
+1. Name:  Fezakinumab
+2. Groups:  Investigational
+3. Description:  Fezakinumab has been used in trials studying the treatment of Atopic Dermatitis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Cetirizine
+2. Groups:  Approved
+3. Description:  A potent second-generation histamine H1 antagonist that is effective in the treatment of allergic rhinitis, chronic urticaria, and pollen-induced asthma. Unlike many traditional antihistamines, it does not cause drowsiness or anticholinergic side effects. [PubChem]
+4. Indication:  For the relief of symptoms associated with seasonal allergic rhinitis, perennial allergic rhinitis and the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria
+DrugId:  22
+1. Name:  Lenograstim
+2. Groups:  Approved, Investigational
+3. Description:  Lenograstim is a recombinant granulocyte colony-stimulating factor which functions as an immunostimulator.
+4. Indication:  The drug is used to reduce the risk of life-threatening infection in patients with neutropenia, particularly after cytotoxic chemotherapy.Lenograstim is indicated as a treatment to reduce the duration of neutropenia and the severity of infections in patients with non-myeloid malignancy who have undergone autologous or allogeneic bone marrow transplantation, or treatment with established cytotoxic chemotherapy and in addition to reduce the incidence of infection associated with established cytotoxic chemotherapy.Lenograstim is also indicated to mobilise peripheral blood progenitor cells (PBPCs) with Lenograstim alone, or after myelosuppressive chemotherapy, in order to accelerate haematopoietic recovery by infusion of such cells, after myelosuppressive or myeloablative therapy. Lenograstim is also indicated to accelerate the engraftment of these cells after their reinfusion.GRANOCYTE is also indicated for the treatment of severe chronic neutropenia including congenital agranulocytosis (Kostmann's syndrome).
+DrugId:  23
+1. Name:  Maltodextrin
+2. Groups:  Investigational
+3. Description:  Maltodextrin is under investigation for the treatment and prevention of Autism, Pouchitis, Inflammation, Colonic Cancer, and Atopic Dermatitis, among others. Maltodextrin has been investigated for the prevention and treatment of Fatigue, Thalassemia, Constipation, Type I Diabetes, and Sickle Cell Anemia, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Cortisone acetate
+2. Groups:  Approved, Investigational
+3. Description:  Cortisone acetate is a steroid hormone that has both glucocoriticoid and mineral corticoid activities. Corticosteroids are used to provide relief for inflamed areas of the body. They lessen swelling, redness, itching, and allergic reactions. They are often used as part of the treatment for a number of different diseases, such as severe allergies or skin problems, asthma, or arthritis. Endogenous glucocorticoids and some synthetic corticoids have high affinity to the protein transcortin (also called CBG, corticosteroid-binding protein), whereas all of them bind albumin. Glucocorticoids also bind to the cytosolic glucocorticoid receptor.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many immune and allergic disorders.
+DrugId:  25
+1. Name:  Hydroxyzine
+2. Groups:  Approved
+3. Description:  A histamine H1 receptor antagonist that is effective in the treatment of chronic urticaria, dermatitis, and histamine-mediated pruritus. Unlike its major metabolite cetirizine, it does cause drowsiness. It is also effective as an antiemetic, for relief of anxiety and tension, and as a sedative. [PubChem]
+4. Indication:  For symptomatic relief of anxiety and tension associated with psychoneurosis and as an adjunct in organic disease states in which anxiety is manifested. Useful in the management of pruritus due to allergic conditions such as chronic urticaria.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  2
+1. Name:  EHT899
+2. Groups:  Investigational
+3. Description:  EHT899 is a proprietary formulation of an HBV viral protein designed to eliminate the undesirable immune response elicited by the HBV infection. It also apparently enhances a secondary immune response to clear the viral infection, resulting in reduction in liver damage and decrease in viral load.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  3
+1. Name:  Tifacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in sepsis and septicemia and pneumonia.
+DrugId:  4
+1. Name:  Terpin hydrate
+2. Groups:  Approved, Experimental
+3. Description:  An insect repellent; cis-form hydrate used as expectorant. Terpin hydrate is an expectorant, commonly used to loosen mucus and ease congestion in patients presenting with acute or chronic bronchitis, and related pulmonary conditions. It is derived from sources such as oil of turpentine, oregano, thyme and eucalyptus. It was popular in the United States since the late nineteenth century, but was removed from marketed medications in the 1990s after the U.S. Food and Drug Administration (FDA) stated that "based on evidence currently available, there are inadequate data to establish general recognition of the safety and effectiveness of these ingredients". Elixirs of terpin hydrate are still available with a prescription, but must be prepared by a compounding pharmacy.
+4. Indication:  Terpin hydrate is an expectorant, used in the treatment of acute and chronic bronchitis, pneumonia, bronchiectasis, chronic obstructive pulmonary disease, infectious and inflammatory diseases of the upper respiratory tract. It is typically formulated with an antitussive (e.g., codeine) as a combined preparation.
+DrugId:  5
+1. Name:  Ganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  An acyclovir analog that is a potent inhibitor of the Herpesvirus family including cytomegalovirus. Ganciclovir is used to treat complications from AIDS-associated cytomegalovirus infections. [PubChem]
+4. Indication:  For induction and maintenance in the treatment of cytomegalovirus (CMV) retinitis in immunocompromised patients, including patients with acquired immunodeficiency syndrome (AIDS). Also used in the treatment of severe cytomegalovirus (CMV) disease, including CMV pneumonia, CMV gastrointestinal disease, and disseminated CMV infections, in immunocompromised patients.
+DrugId:  6
+1. Name:  R1626
+2. Groups:  Investigational
+3. Description:  R1626 is one of a new class of hepatitis C therapies called polymerase inhibitors. It achieves significant reductions in viral load in chronic hepatitis C patients infected with the difficult to treat genotype 1 virus. R1626 is very effective in inhibiting viral replication
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  7
+1. Name:  EMZ702
+2. Groups:  Investigational
+3. Description:  EMZ702, a non-toxic agent that has strong anti-viral synergy with interferon, is an ideal candidate for combination with current standard hepatitis C treatments. EMZ702 has an excellent safety profile and the combination of EMZ702 with interferon and ribavirin in surrogate models for hepatitis C has demonstrated a two to three fold increase in anti-viral potency compared to interferon and ribavirin alone.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  8
+1. Name:  ANA380
+2. Groups:  Investigational
+3. Description:  ANA380 is a small-molecule orally available inhibitor of the HBV polymerase. The HBV polymerase is the enzyme that catalyzes the production of new RNA from the existing strand of RNA. ANA380 is believed to inhibit viral proliferation by interrupting the replicating machinery of the virus.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  9
+1. Name:  2'-C-methylcytidine
+2. Groups:  Experimental
+3. Description:  A nucleoside analog with anti-hepatitis C virus (HCV) activity. Upon phosphorylation into its 5-triphosphate form, this metabolite inhibits viral RNA chain elongation and viral RNA-dependent RNA polymerase activity. This blocks viral production of HCV RNA and thus viral replication.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  11
+1. Name:  EHC18
+2. Groups:  Investigational
+3. Description:  EHC18 is an immune regulation medicine. It is a broad spectrum of specific HCV proteins.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C) and hepatocellular carcinoma.
+DrugId:  12
+1. Name:  CPG 10101
+2. Groups:  Investigational
+3. Description:  CPG 10101 is a synthetic oligodeoxynucleotide (ODN) in clinical trials. It is a toll-like receptor 9 (TLR9) agonist with antiviral and immunomodulatory properties that could potentially influence chronic infection with HCV.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C) and viral infection.
+DrugId:  13
+1. Name:  Pafuramidine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in pneumonia, trypanosomiasis, malaria, HIV infection, and infectious and parasitic disease (unspecified).
+DrugId:  14
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  15
+1. Name:  BTA798
+2. Groups:  Investigational
+3. Description:  BTA798 is an antiviral for the treatment of HRV, the common cold virus, known to cause significant clinical complications in sufferers of Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  16
+1. Name:  Valopicitabine
+2. Groups:  Experimental
+3. Description:  The 3-O-valine ester prodrug of the nucleoside analog 2'-C-methylcytidine with anti-hepatitis C virus (HCV) activity. Upon administration, valopicitabine is converted into 2'-C-methylcytidine; upon phosphorylation into its 5-triphosphate form, this metabolite inhibits viral RNA chain elongation and viral RNA-dependent RNA polymerase activity. This blocks viral production of HCV RNA and thus viral replication. [from NCI]
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  ISIS 14803
+2. Groups:  Investigational
+3. Description:  ISIS 14803 is a 20-unit antisense phosphorothioate oligodeoxynucleotide that binds to hepatitis C virus (HCV) RNA at the translation initiation region of the internal ribosome entry site (IRES) and inhibits protein expression in cell culture.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  18
+1. Name:  BLX-883
+2. Groups:  Investigational
+3. Description:  BLX-883 is a form of alfa interferon developed by Biolex for the treatment of hepatitis viral C. Alfa interferon is used in the treatment of hepatitis C, hepatitis B, and multiple cancers and its worldwide sales currently exceed $3 billion.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  19
+1. Name:  Asvasiran
+2. Groups:  Investigational
+3. Description:  Asvasiran is an siRNA that targets the respiratory syncytial virus (RSV) N gene and inhibits viral replication. It has the potential to treat or prevent RSV infection.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.
+DrugId:  20
+1. Name:  XTL-6865
+2. Groups:  Investigational
+3. Description:  XTL-6865 is a combination of two fully human monoclonal antibodies (Ab68 and Ab65) against the hepatitis C virus E2 envelope protein. It is being developed to prevent HCV re-infection following a liver transplant and for the treatment of chronic HCV disease.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  21
+1. Name:  MVA3000
+2. Groups:  Investigational
+3. Description:  MVA3000 is an attenuated smallpox vaccine that is being developed for use in people for whom the traditional smallpox vaccine is contraindicated, such as patients with disorders of the immune system or skin conditions such as eczema.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  22
+1. Name:  Streptococcus pneumoniae type 4 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 4 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 4 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  PCL-016
+2. Groups:  Investigational
+3. Description:  PCL-016 or Picolinic acid drug substance is a pyridine carboxylate metabolite of tryptophan. It acts as an anti-infective and immunomodulator and is produced in approximately 25-50 mg quantities by the body on a daily basis through the breakdown of tryptophan. PCL-016 plays a key role in zinc transport. As a therapeutic agent, the molecule works by binding to zinc finger proteins (ZFPs) in a way that changes their structures and disrupts zinc binding, inhibiting function. ZFPs are involved in viral replication and packaging as well as normal cell homeostatic functions. Picolinic acid has been shown to be an anti-viral in vitro and in vivo, and sometimes works in conjunction with other cytokines such as interferon gamma to affect immune responses. Acne vulgaris, herpes and other viral infections therefore pose potential therapeutic targets of PCL-016.
+4. Indication:  Investigated for use/treatment in acne, herpes labialis infections (cold sores), and venereal disease.
+DrugId:  24
+1. Name:  XTL-001
+2. Groups:  Investigational
+3. Description:  XTL001 is an investigational monoclonal antibody (MAb) product developed by XTL Biopharmaceuticals to evaluate the safety profile and antiviral activity of the compound in patients chronically infected with hepatitis B virus (HBV).
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  25
+1. Name:  Taribavirin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).

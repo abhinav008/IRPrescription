@@ -1,0 +1,95 @@
+DrugId:  1
+1. Name:  R667
+2. Groups:  Investigational
+3. Description:  R667 is an orally active, gamma selective retinoid agonist that shows promise as a treatment for emhysema, as it has, in animal models, promoted structural lung repair and functional improvement with fewer side effects. It is currently in Phase II Trials for emphysema secondary to alpha-1 antitrypsindeficiency.
+4. Indication:  Investigated for use/treatment in emphysema.
+DrugId:  2
+1. Name:  Alpha-1-proteinase inhibitor
+2. Groups:  Approved
+3. Description:  Human alpha-1 proteinase inhibitor or alpha-1-antitrypsin, prepared from human plasma via Cohn alcohol fractionation followed by PEG and zinc chloride fractionation.
+4. Indication:  For chronic augmentation and maintenance therapy in individuals with alpha1-proteinase inhibitor (A1-PI) deficiency and clinical evidence of emphysema.
+DrugId:  3
+1. Name:  Dyphylline
+2. Groups:  Approved
+3. Description:  A theophylline derivative with broncho- and vasodilator properties. It is used in the treatment of asthma, cardiac dyspnea, and bronchitis. [PubChem]
+4. Indication:  For relief of acute bronchial asthma and for reversible bronchospasm associated with chronic bronchitis and emphysema.
+DrugId:  4
+1. Name:  Isoetarine
+2. Groups:  Approved
+3. Description:  Isoetarine is a selective adrenergic beta-2 agonist used as fast acting bronchodilator for emphysema, bronchitis and asthma. [PubChem]
+4. Indication:  For the treatment of asthma, wheezing, and chronic asthmatic bronchitis.
+DrugId:  5
+1. Name:  Bambuterol
+2. Groups:  Approved, Investigational
+3. Description:  Bambuterol is a long acting beta-adrenoceptor agonist used in the treatment of asthma. It is a prodrug of terbutaline.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated with bronchitis and emphysema.
+DrugId:  6
+1. Name:  Aminophylline
+2. Groups:  Approved
+3. Description:  Aminophylline is a drug combination that contains theophylline and ethylenediamine in a 2:1 ratio. Once in the body, theophylline is released and acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Similar to other theophyllines, aminophylline is indicated for the treatment of lung diseases such as asthma, chronic bronchitis, and COPD. The majority of aminophylline medications are discontinued and the remaining medications on the market are in short supply.
+4. Indication:  For the treatment of bronchospasm due to asthma, emphysema and chronic bronchitis.
+DrugId:  7
+1. Name:  Vilanterol
+2. Groups:  Approved
+3. Description:  Vilanterol is a selective long-acting beta2-adrenergic agonist (LABA) with inherent 24-hour activity for once daily treatment of COPD and asthma. Its pharmacological effect is attributable to stimulation of intracellular adenylyl cyclase which catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increases in cyclic AMP are associated with relaxation of bronchial smooth muscle and inhibition of release of hypersensitivity mediators from mast cells in the lungs. Vilanterol is approved for use in several combination products such as with fluticasone furoate under the tradename Breo Ellipta and in combination with umeclidinium bromide as Anoro Ellipta. Approved by the FDA in 2013, use of Breo Ellipta is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+4. Indication:  Vilanterol is approved for use in several combination products such as with fluticasone furoate under the tradename Breo Ellipta and in combination with umeclidinium bromide as Anoro Ellipta. Approved by the FDA in 2013, use of Breo Ellipta is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+DrugId:  8
+1. Name:  Arformoterol
+2. Groups:  Approved, Investigational
+3. Description:  Arformoterol is a bronchodilator. It works by relaxing muscles in the airways to improve breathing. Arformoterol inhalation is used to prevent bronchoconstriction in people with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema. The use of arformoterol is pending revision due to safety concerns in regards to an increased risk of severe exacerbation of asthma symptoms, leading to hospitalization as well as death in some patients using long acting beta agonists for the treatment of asthma.
+4. Indication:  A bronchodilator used for the long term, symptomatic treatment of reversible bronchoconstriction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema. 
+DrugId:  9
+1. Name:  Fluticasone furoate
+2. Groups:  Approved
+3. Description:  Fluticasone furoate is a synthetic trifluorinated corticosteroid with potent anti-inflammatory activity. Despite the similarity in the names, fluticasone furoate and fluticasone propionate are different drugs with different properties. It is marketed under the brand name, Veramyst in the US by GlaxoSmithKline for the management of chronic obstructive pulmonary disease (COPD). FDA approved on April 27, 2007. Fluticasone furoate is available as a combination product with vilanterol, a long-acting beta-2 agonist, under the tradename Breo Ellipta. Approved by the FDA in 2013, its use is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+4. Indication:  Fluticasone furoate nasal spray is indicated for the treatment of the symptoms of seasonal and perennial allergic rhinitis in patients aged 2 years and older. Breo Ellipta, a mixture of fluticasone furoate and vilanterol is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease. Breo Ellipta should not be used for the relief of acute symptoms of asthma or COPD.
+DrugId:  10
+1. Name:  Orciprenaline
+2. Groups:  Approved
+3. Description:  A beta-adrenergic agonist used in the treatment of asthma and bronchospasms. [PubChem]
+4. Indication:  For the treatment of bronchospasm, chronic bronchitis, asthma, and emphysema.
+DrugId:  11
+1. Name:  Terbutaline
+2. Groups:  Approved
+3. Description:  A selective beta-2 adrenergic agonist used as a bronchodilator and tocolytic. [PubChem]
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible, obstructive airway disease, as well as symptomatic management of reversible bronchospasm associated with bronchitis and emphysema. Also used acute IV and sub-Q therapy in selected women to inhibit uterine contractions in preterm labor (tocolysis) and prolong gestation when beneficial.
+DrugId:  12
+1. Name:  Oxtriphylline
+2. Groups:  Approved
+3. Description:  Oxtriphylline is the choline salt form of theophylline. Once in the body, theophylline is released and acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Its main physiological reponse is to dilate the bronchioles. As such, oxytriphylline is indicated mainly for asthma, bronchospasm, and COPD (i.e. all the same indications as the other theophyllines). It is marketed under the name Choledyl SA, and several forms of oxytriphylline have been discontinued. In the US, oxtriphylline is no longer available.
+4. Indication:  Used to treat the symptoms of asthma, bronchitis, COPD, and emphysema.
+DrugId:  13
+1. Name:  Aclidinium
+2. Groups:  Approved
+3. Description:  Aclidinium is an anticholinergic for the long-term management of chronic obstructive pulmonary disease (COPD). It has a much higher propensity to bind to muscarinic receptors than nicotinic receptors. FDA approved on July 24, 2012. 
+4. Indication:  Aclidinium bromide inhalation powder is indicated for the long-term, maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema.
+DrugId:  14
+1. Name:  Colfosceril palmitate
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Colfosceril palmitate is a synthetic pulmonary surfactant administered in infants with respiratory distress syndrome.[1] It was part of the first generation of commercially available artificial surfactants.[4] It was developed by Burroughs Wellcome and it was FDA approved on August 6, 1990.[8] Nowadays colfosceril palmitate is under the state of canceled post-marketing.
+4. Indication:  Colfosceril palmitate is indicated for the treatment of respiratory distress syndrome (RDS) in premature infants. The official label is referred as a intratracheal suspension for prophylactic treatment of infants of less than 1350 grams of birth weight under risk of developing RDS, or in infants with birth weight greater than 1350 grams with pulmonary immaturity, or as rescue treatment of infants that already developed RDS.[8] The central feature of RDS is a surfactant deficiency due to lung immaturity. This lung condition is more frequently presented due to risk factors like prematurity, delayed lung maturation caused by maternal diabetes or male gender, or surfactant dysfuntion due to perinatal asphyxia, pulmonary infection or delivery without labor.[4]
+DrugId:  15
+1. Name:  Olodaterol
+2. Groups:  Approved
+3. Description:  Olodaterol is a novel, long-acting beta2-adrenergic agonist (LABA) that exerts its pharmacological effect by binding and activating beta2-adrenergic receptors located primarily in the lungs. Beta2-adrenergic receptors are membrane-bound receptors that are normally activated by endogenous epinephrine whose signalling, via a downstream L-type calcium channel interaction, mediates smooth muscle relaxation and bronchodilation. Activation of the receptor stimulates an associated G protein which then activates adenylate cyclase, catalyzing the formation of cyclic adenosine monophosphate (cAMP) and protein kinase A (PKA). Elevation of these two molecules induces bronchodilation by relaxation of airway smooth muscles. It is by this mechanism that olodaterol is used for the treatment of chronic obstructive pulmonary disease (COPD) and the progressive airflow obstruction that is characteristic of it. Treatment with bronchodilators helps to mitigate associated symptoms such as shortness of breath, cough, and sputum production. Single doses of olodaterol have been shown to improve forced expiratory volume in 1 sec (FEV1) for 24 h in patients with COPD, allowing once daily dosing. A once-a-day treatment with a LABA has several advantages over short-acting bronchodilators and twice-daily LABAs including improved convenience and compliance and improved airflow over a 24-hour period. Despite similarities in symptoms, olodaterol is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+4. Indication:  Olodaterol is indicated for use in chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema. It is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+DrugId:  16
+1. Name:  Theophylline
+2. Groups:  Approved
+3. Description:  A methylxanthine derivative from tea with diuretic, smooth muscle relaxant, bronchial dilation, cardiac and central nervous system stimulant activities. Mechanistically, theophylline acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Theophylline is marketed under several brand names such as Uniphyl and Theochron, and it is indicated mainly for asthma, bronchospasm, and COPD.
+4. Indication:  For the treatment of the symptoms and reversible airflow obstruction associated with chronic asthma and other chronic lung diseases, such as emphysema and chronic bronchitis.
+DrugId:  17
+1. Name:  Indacaterol
+2. Groups:  Approved
+3. Description:  Indacaterol is a novel, ultra-long-acting, rapid onset β(2)-adrenoceptor agonist developed for Novartis for the once-daily management of asthma and chronic obstructive pulmonary disease. It was approved by the European Medicines Agency (EMA) under the trade name Onbrez on November 30, 2009, and by the United States Food and Drug Administration (FDA), under the trade name Arcapta Neohaler, on July 1, 2011. Indacaterol is provided as its maleate salt form. Indacaterol is also a chiral molecule but only the pure R-enantiomer is dispensed.
+4. Indication:  For the long term, once-daily-dosing maintenance of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
+DrugId:  18
+1. Name:  Ipratropium bromide
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist structurally related to atropine but often considered safer and more effective for inhalation use. It is used for various bronchial disorders, in rhinitis, and as an antiarrhythmic.
+4. Indication:  For maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema.
+DrugId:  19
+1. Name:  Oxygen
+2. Groups:  Approved, Vet approved
+3. Description:  Oxygen is a chemical element with symbol O and atomic number 8. Uptake of oxygen from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen. Higher level of oxygen than ambient air (hyperoxia) can be introduced under normobaric or hyperbaric conditions.
+4. Indication:  Oxygen therapy in clinical settings is used across diverse specialties, including various types of anoxia, hypoxia or dyspnea and any other disease states and conditions that reduce the efficiency of gas exchange and oxygen consumption such as respiratory illnesses, trauma, poisonings and drug overdoses. Oxygen therapy tries to achieve hyperoxia [6] to reduce the extent of hypoxia-induced tissue damage and malfunction. 

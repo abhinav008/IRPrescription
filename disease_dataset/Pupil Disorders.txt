@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Methscopolamine
+2. Groups:  Approved
+3. Description:  Methscopolamine is a quaternary ammonium derivative of scopolamine and antagonist at muscarininc (mACh) receptors. Methscopolamine bromide is the most common form of the active ingredient in oral pharmaceutical products. The oral tablets are used as an adjunct therapy for the treatment of peptic ulcer and is shown to be effective in decreasing the rate of recurrence of peptic ulcers as well as preventing complications.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Tropicamide
+2. Groups:  Approved, Investigational
+3. Description:  One of the muscarinic antagonists with pharmacologic action similar to atropine and used mainly as an ophthalmic parasympatholytic or mydriatic. [PubChem]
+4. Indication:  Indicated to induce mydriasis (dilation of the pupil) and cycloplegia (paralysis of the ciliary muscle of the eye) in diagnostic procedures, such as measurement of refractive errors and examination of the fundus of the eye.
+DrugId:  3
+1. Name:  Suprofen
+2. Groups:  Approved, Withdrawn
+3. Description:  An ibuprofen-type anti-inflammatory analgesic and antipyretic. It inhibits prostaglandin synthesis and has been proposed as an anti-arthritic. It is no longer approved for use in the United States.
+4. Indication:  Used as eye drops to inhibit the miosis (pupil constriction) that may occur during ocular surgery.
+DrugId:  4
+1. Name:  Homatropine
+2. Groups:  Approved
+3. Description:  Homatropine is an anticholinergic drug that acts as an antagonist at muscarinic acetylcholine receptors. It is present in antitussives, under the trade name Hycodan, in combination with hydrocodone (dihydrocodeinone) bitartrate indicated for the symptomatic relief of cough as oral tablets or solutions. Homatropine is included in subtherapeutic amounts as homatropine methylbromide to discourage deliberate overdosage. Homatropine hydrobromide has been administered as ophthalmic solutions as a cycloplegic to temporarily paralyze accomodation, and to induce mydriasis (the dilation of the pupil); however such therapeutic use has not been approved by the FDA to be safe and effective.
+4. Indication:  Indicated as an overdose-rescuing agent in combination with hydrocodone antitussive [FDA Label].Indicated for the induction of mydriasis in ophthalmic solutions. 
+DrugId:  5
+1. Name:  Hydroxyamphetamine
+2. Groups:  Approved
+3. Description:  Hydroxyamphetamine is a derivative of amphetamines. Hydroxyamphetamine is intended mainly as local eye drops for diagnostic purposes. It is indirect sympathomimetic agent which cause dilation of the eye pupil before diagnostic test. Among the minor side effects from its use are: change in color vision, difficulty seeing at night, dry mouth, headache, increased sensitivity of eyes to sunlight, muscle stiffness or tightness and temporary stinging in the eyes.The main use of hydroxyamphetamines as eye drops is the diagnosis of Horner's syndrome which is characterized by nerve lesions.
+4. Indication:  Mydriatic agent (eye pupil dilatation) for diagnosis of ophthalmic nerve lesions.
+DrugId:  6
+1. Name:  Alpha-methyltryptamine
+2. Groups:  Experimental, Illicit
+3. Description:  A stimulant and psychoactive drug which produces effects similar to 3,4-methylenedioxy-N-methylamphetamine (MDMA), despite being structurally dissimilar.It was developed in the 1960's by Upjohn with the intention for use as an antidepressant. In the 1990's, alpha-methyltryptamine became regulated as a Schedule I controlled substance in the United states. 
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Anisotropine Methylbromide
+2. Groups:  Approved
+3. Description:  Anisotropine methylbromide is a quaternary ammonium compound. Its use as treatment adjunct in peptic ulcer has been replaced by the use of more effective agents. Depending on the dose, anisotropine methylbromide may reduce the motility and secretory activity of the gastrointestinal system, and the tone of the ureter and urinary bladder and may have a slight relaxant action on the bile ducts and gallbladder. In general, smaller doses of anisotropine methylbromide inhibit salivary and bronchial secretions, sweating, and accommodation; cause dilatation of the pupil; and increase the heart rate. Larger doses are required to decrease motility of the gastrointestinal and urinary tracts and to inhibit gastric acid secretion.
+4. Indication:  For use in conjunction with antacids or histamine H2-receptor antagonists in the treatment of peptic ulcer, to reduce further gastric acid secretion and delay gastric emptying.
+DrugId:  8
+1. Name:  Cyclopentolate
+2. Groups:  Approved
+3. Description:  A parasympatholytic anticholinergic used solely to obtain mydriasis or cycloplegia. [PubChem]
+4. Indication:  Used mainly to produce mydriasis and cycloplegia for diagnostic purposes.
+DrugId:  9
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  10
+1. Name:  Carteolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used as an anti-arrhythmia agent, an anti-angina agent, an antihypertensive agent, and an antiglaucoma agent. [PubChem]
+4. Indication:  For the treatment of intraocular hypertension and chronic open-angle glaucoma
+DrugId:  11
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  12
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  13
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  14
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  15
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  16
+1. Name:  Metipranolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist effective for both beta-1 and beta-2 receptors. It is used as an antiarrhythmic, antihypertensive, and antiglaucoma agent. [PubChem]
+4. Indication:  Indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open angle glaucoma.
+DrugId:  17
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  18
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  19
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  20
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  21
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  22
+1. Name:  prGCD
+2. Groups:  Investigational
+3. Description:  GCD represents the combination treatment of gemcitabine, carboplatin, and dexamethasone.
+4. Indication:  Investigated for use/treatment in metabolic disease and neurologic disorders.
+DrugId:  23
+1. Name:  SGS518
+2. Groups:  Investigational
+3. Description:  SGS518, a novel antagonist for the 5HT6 subtype of the serotonin receptor, is being developed as a treatment for Cognitive Impairment Associated with Schizophrenia (CIAS).
+4. Indication:  Investigated for use/treatment in neurologic disorders and schizophrenia and schizoaffective disorders.
+DrugId:  24
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  25
+1. Name:  Facinicline
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, and schizophrenia and schizoaffective disorders.

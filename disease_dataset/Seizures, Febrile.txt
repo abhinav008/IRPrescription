@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  2
+1. Name:  Salmonella typhi ty21a live antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty21a live antigen is a live attenuated vaccine for oral administration only. It contains the attenuated strain Salmonella typhi Ty21a. The vaccine prevents the development of typhoid fever, an acute, febrile enteric disease caused by Salmonella typhi by inducing a local immune response in the intestinal tract.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Phenacemide
+2. Groups:  Approved
+3. Description:  Phenacemide is used to control certain seizures in the treatment of epilepsy. This medicine acts on the central nervous system (CNS) to reduce the number and severity of seizures.
+4. Indication:  Used to control certain seizures in the treatment of epilepsy.
+DrugId:  4
+1. Name:  Trimethadione
+2. Groups:  Approved
+3. Description:  An anticonvulsant effective in absence seizures, but generally reserved for refractory cases because of its toxicity. (From AMA Drug Evaluations Annual, 1994, p378)
+4. Indication:  Used in the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+DrugId:  5
+1. Name:  Ganaxolone
+2. Groups:  Investigational
+3. Description:  Ganaxolone is the 3β-methylated synthetic analog of allopregnanolone; it belongs to a class of compounds referred to as neurosteroids. Ganaxolone is an allosteric modulator of GABAA receptors acting through binding sites which are distinct from the benzodiazepine binding site. It has activity in a broad range of animal models of epilepsy. Ganaxolone has been shown to be well tolerated in adults and children. In early phase II studies, Ganaxolone has been shown to have activity in adult patients with partial-onset seizures and epileptic children with history of infantile spasms. It is currently undergoing further development in infants with newly diagnosed infantile spasms, in women with catamenial epilepsy, and in adults with refractory partial-onset seizures.
+4. Indication:  Investigated for use/treatment in pediatric indications and seizure disorders.
+DrugId:  6
+1. Name:  Perampanel
+2. Groups:  Approved
+3. Description:  Perampanel is a noncompetitive AMPA glutamate receptor antagonist. It is marketed under the name Fycompa™ and is indicated as an adjunct in patients over 12 years old for the treatment of partial-onset seizures that may or may not occur with generalized seizures. The FDA label includes an important black-boxed warning of serious or life-threatening behavioral and psychiatric reactions in patients taking Fycompa™.
+4. Indication:  Used in patients over 12 years old for the treatment of partial-onset seizures that may or may not occur with generalized seizures.
+DrugId:  7
+1. Name:  Levetiracetam
+2. Groups:  Approved, Investigational
+3. Description:  Levetiracetam is an anticonvulsant medication used to treat epilepsy. Levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity. Levetiracetam binds to the synaptic vesicle protein SV2A, which is thought to be involved in the regulation of vesicle exocytosis. Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice.
+4. Indication:  Used as adjunctive therapy in the treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.
+DrugId:  8
+1. Name:  Paramethadione
+2. Groups:  Approved
+3. Description:  Paramethadione is an anticonvulsant in the oxazolidinedione class. It is associated with fetal trimethadione syndrome, which is also known as paramethadione syndrome.
+4. Indication:  Used for the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+DrugId:  9
+1. Name:  Beclamide
+2. Groups:  Experimental
+3. Description:  Beclamide (N-benzyl-B-chloropropionamide) is a drug that possesses anticonvulsant activity. It is no longer used. It has been used as a sedative and as an anticonvulsant. It was studied in the 1950s for its anticonvulsant properties, as a treatment for generalised tonic-clonic seizures. It was not effective for absence seizures.
+4. Indication:  Has been used in the management of epilepsy and epilepsy related behavioural disorders. It was used for generalised tonic-clonic seizures, and was not effective for absence seizures.More recently focus has shifted to the use of beclamide in behavioural disorders. In mentally handicapped epileptic patients it has been found to decrease anxiety, antisocial and demanding behaviours, and impulsivity. Mood stabilizing effects were also noted. [2]Additionally, due to its effects on monoamines, beclamide may have a potential place in treating conditions such as tardive dyskinesia and hyperkinetic syndromes. [2]
+DrugId:  10
+1. Name:  Clonazepam
+2. Groups:  Approved, Illicit
+3. Description:  An anticonvulsant used for several types of seizures, including myotonic or atonic seizures, photosensitive epilepsy, and absence seizures, although tolerance may develop. It is seldom effective in generalized tonic-clonic or partial seizures. The mechanism of action appears to involve the enhancement of gamma-aminobutyric acid receptor responses. [PubChem]
+4. Indication:  Clonazepam is used as an anticonvulsant in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic and myoclonic seizures. It can also be used for the treatment of panic disorders. 
+DrugId:  11
+1. Name:  Lamotrigine
+2. Groups:  Approved, Investigational
+3. Description:  Lamotrigine is an antiepileptic drug belonging in the phenyltriazine class used in the treatment of epilepsy and bipolar disorder. For epilepsy it is used to treat partial seizures, primary and secondary tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome. Lamotrigine also acts as a mood stabilizer. It is the first medication since lithium granted Food and Drug Administration (FDA) approval for the maintenance treatment of bipolar type I. In the US, lamotrigine is available as oral tablets under the market name Lamictal. Chemically unrelated to other anticonvulsants, lamotrigine has relatively few side-effects and does not require blood monitoring. While lamotrigine is primarily indicated for epilepsy and bipolar disorders, there is evidence that it could have some clinical efficacy in some neuropathic pain states. Lamotrigine is also used as an off-label drug in treating other neurologic and psychiatric pathologies like borderline personality disorder [6]. The exact mechanism of action of lamotrigine is not fully elucidated, as it may have multiple cellular actions that contribute to its broad clinical efficacy.
+4. Indication:  Indicated as adjunctive therapy for the following seizure types in patients ≥2 years of age: partial seizures/primary generalized tonic-clonic seizures/generalized seizures of Lennox-Gastaut syndrome [FDA Label].Indicated for conversion to monotherapy in adults (≥16 years of age) with partial seizures who are receiving treatment with carbamazepine, phenytoin, phenobarbital, primidone, or valproate as the single antiepileptic drug (AED)[FDA Label]. Indicated for the maintenance treatment of Bipolar I Disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in adults (≥18 years of age) treated for acute mood episodes with standard therapy [FDA Label].
+DrugId:  12
+1. Name:  Phensuximide
+2. Groups:  Approved
+3. Description:  Phensuximide is an anticonvulsant in the succinimide class. It suppresses the paroxysmal three cycle per second spike and wave EEG pattern associated with lapses of consciousness in petit mal seizures. The frequency of attacks is reduced by depression of nerve transmission in the motor cortex.
+4. Indication:  For the treatment of epilepsy.
+DrugId:  13
+1. Name:  Topiramate
+2. Groups:  Approved
+3. Description:  Topiramate (brand name Topamax) is an anticonvulsant drug produced by Ortho-McNeil Neurologics, a division of Johnson & Johnson. It is used to treat epilepsy in both children and adults. In children it is also indicated for treatment of Lennox-Gastaut syndrome (a disorder that causes seizures and developmental delays). It is also Food and Drug Administration (FDA) approved for, and now most frequently prescribed for, the prevention of migraines. [Wikipedia]. A combination product containing phentermine and topiramate extended-release called QSYMIA® is indicated for the management of obesity. On August 2013, an extended released formulation, marketed as Trokendi XR has been approved for the management of partial onset, tonic-clonic, and Lennox-Gastaut Syndrome seizures. 
+4. Indication:  Used for the treatment and control of partial seizures and severe tonic-clonic (grand mal) seizures and also for the prevention of migraine headaches. In children it is also used for treatment of Lennox-Gastaut syndrome. Qsymia® is indicated for the treatment and management of obesity.
+DrugId:  14
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  15
+1. Name:  Tipiracil
+2. Groups:  Approved, Investigational
+3. Description:  Tipiracil is a thymidine phosphorylase inhibitor. It is used in combination with trifluridine, in a ratio of 1:0.5, to form TAS-102. The main function of Tipiracil in TAS-102 is to increase trifluridine bioavailability by inhibiting its catabolism.[2] TAS-102 is indicated for the treatment of metastatic colorectal cancer which has been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, or with an anti-VEGF or anti-EGFR therapy.[1]
+4. Indication:  Tipiracil, in combination with trifluridine, is indicated for the treatment of refractory mestastatic colorectal cancer patients who keep progressing despite of treatment with standard chemotherapy and biologics.[3]
+DrugId:  16
+1. Name:  Fosphenytoin
+2. Groups:  Approved, Investigational
+3. Description:  Fosphenytoin is a water-soluble phenytoin prodrug used only in hospitals for the treatment of epileptic seizures. It works by slowing down impulses in the brain that cause seizures. Its main mechanism is to block frequency-dependent, use-dependent and voltage-dependent neuronal sodium channels, and therefore limit repetitive firing of action potentials.
+4. Indication:  For the control of generalized convulsive status epilepticus and prevention and treatment of seizures occurring during neurosurgery. It can also be substituted, short-term, for oral phenytoin.
+DrugId:  17
+1. Name:  Meprobamate
+2. Groups:  Approved, Illicit
+3. Description:  A carbamate with hypnotic, sedative, and some muscle relaxant properties, although in therapeutic doses reduction of anxiety rather than a direct effect may be responsible for muscle relaxation. Meprobamate has been reported to have anticonvulsant actions against petit mal seizures, but not against grand mal seizures (which may be exacerbated). It is used in the treatment of anxiety disorders, and also for the short-term management of insomnia but has largely been superseded by the benzodiazepines. (From Martindale, The Extra Pharmacopoeia, 30th ed, p603) Meprobamate is a controlled substance in the U.S.
+4. Indication:  For the management of anxiety disorders or for the short-term relief of the symptoms of anxiety.
+DrugId:  18
+1. Name:  Oxcarbazepine
+2. Groups:  Approved
+3. Description:  Oxcarbazepine is structurally a derivative of carbamazepine, adding an extra oxygen atom to the benzylcarboxamide group. This difference helps reduce the impact on the liver of metabolizing the drug, and also prevents the serious forms of anemia occasionally associated with carbamazepine. Aside from this reduction in side effects, it is thought to have the same mechanism as carbamazepine - sodium channel inhibition - and is generally used to treat partial seizures in epileptic children and adults.
+4. Indication:  For use as monotherapy or adjunctive therapy in the treatment of partial seizures in adults with epilepsy and as adjunctive therapy in the treatment of partial seizures in children ages 4-16 with epilepsy.
+DrugId:  19
+1. Name:  Acetazolamide
+2. Groups:  Approved, Vet approved
+3. Description:  One of the carbonic anhydrase inhibitors that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)
+4. Indication:  For adjunctive treatment of: edema due to congestive heart failure; drug-induced edema; centrencephalic epilepsies; chronic simple (open-angle) glaucoma
+DrugId:  20
+1. Name:  Brivaracetam
+2. Groups:  Approved, Investigational
+3. Description:  Brivaracetam is a racetam derivative of levetiracetam used in the treatment of partial-onset seizures. Brivaracetam binds SV2A with 20 times higher affinity than levetiracetam [2]. It is available under the brand name Briviact made by UCB. Briviact received FDA approval on February 19, 2016 [7].
+4. Indication:  Used as adjunctive therapy for partial-onset seizures in patients 16 years of age or older.
+DrugId:  21
+1. Name:  Mephenytoin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mephenytoin is used for the treatment of refractory partial epilepsy. Mephenytoin is a solid. This compound belongs to the phenylhydantoins. These are heterocyclic aromatic compounds containing an imiazolidinedione moiety substituted by a phenyl group. Mephenytoin is known to target sodium channel protein type 5 subunit alpha. Cytochrome P450 2C19, Cytochrome P450 2C8, Cytochrome P450 2C9, Cytochrome P450 2B6, Cytochrome P450 1A2, and Cytochrome P450 2D6 are known to metabolize mephenytoin. Mephenytoin is a hydantoin-derivative anticonvulsant used to control various partial seizures. Mephenytoin and oxazolidinedione derivatives are associated with higher incidences of blood dyscrasias compared to other anticonvulsants. It is still studied largely because of its interesting hydroxylation polymorphism.
+4. Indication:  For the treatment of refractory partial epilepsy.
+DrugId:  22
+1. Name:  Primidone
+2. Groups:  Approved, Vet approved
+3. Description:  An antiepileptic agent related to the barbiturates; it is partly metabolized to phenobarbital in the body and owes some of its actions to this metabolite. Adverse effects are reported to be more frequent than with phenobarbital. (From Martindale, The Extra Pharmacopoeia, 30th ed, p309)
+4. Indication:  For the treatment of epilepsy
+DrugId:  23
+1. Name:  Phenindamine
+2. Groups:  Approved
+3. Description:  Phenindamine is an antihistamine. Phenindamine blocks the effects of the naturally occurring chemical histamine in your body. Antihistamines such as phenindamine appear to compete with histamine for histamine H1- receptor sites on effector cells. The antihistamines antagonize those pharmacological effects of histamine which are mediated through activation of H1- receptor sites and thereby reduce the intensity of allergic reactions and tissue injury response involving histamine release. It is used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.Symptoms of a phenindamine overdose include extreme sleepiness, confusion, weakness, ringing in the ears, blurred vision, large pupils, dry mouth, flushing, fever, shaking, insomnia, hallucinations, and possibly seizures.
+4. Indication:  Used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.
+DrugId:  24
+1. Name:  Cyclophosphamide
+2. Groups:  Approved, Investigational
+3. Description:  Precursor of an alkylating nitrogen mustard antineoplastic and immunosuppressive agent that must be activated in the liver to form the active aldophosphamide. It has been used in the treatment of lymphoma and leukemia. Its side effect, alopecia, has been used for defleecing sheep. Cyclophosphamide may also cause sterility, birth defects, mutations, and cancer. [PubChem]
+4. Indication:  Cyclophosphamide is indicated for the treatment of malignant lymphomas, multiple myeloma, leukemias, mycosis fungoides (advanced disease), neuroblastoma (disseminated disease), adenocarcinoma of the ovary, retinoblastoma, and carcinoma of the breast. It is also indicated for the treatment of biopsy-proven minimal change nephrotic syndrome in pediatric patients. 
+DrugId:  25
+1. Name:  Butriptyline
+2. Groups:  Approved
+3. Description:  Butriptyline is a tricyclic antidepressant which has been used in Europe since 1974. It is the isobutyl side chain homologue of amitriptyline.
+4. Indication:  Not Available

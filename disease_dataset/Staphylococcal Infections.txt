@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Radezolid
+2. Groups:  Investigational
+3. Description:  Radezolid has been used in trials studying the treatment of Abscess, Bacterial Skin Diseases, Streptococcal Infections, Infectious Skin Diseases, and Staphylococcal Skin Infections, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Nafcillin
+2. Groups:  Approved, Investigational
+3. Description:  A semi-synthetic antibiotic related to penicillin, Naficillin is a narrow-spectrum beta-lactam antibiotic drug. It is a beta-lactamase-resistant penicillin that is indicated for the treatment of Staphylococcal infections caused by strains that are resistant to other penicillins, except those caused by MRSA. It may be used as a first-line therapy in Methicillin-Sensitive Staphylococcus aureus infections [1].
+4. Indication:  Indicated in the treatment of infections caused by penicillinase-producing staphylococci which have demonstrated susceptibility to the drug. 
+DrugId:  3
+1. Name:  Lincomycin
+2. Groups:  Approved, Vet approved
+3. Description:  An antibiotic produced by Streptomyces lincolnensis var. lincolnensis. It has been used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+4. Indication:  Lincomycin is an antibiotic used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+DrugId:  4
+1. Name:  Ceftaroline fosamil
+2. Groups:  Approved, Investigational
+3. Description:  Ceftaroline fosamil is a cephalosporin antibacterial indicated for the treatment of the following infections caused by designated susceptible bacteria:Acute bacterial skin and skin structure infections.Community-acquired bacterial pneumonia.
+4. Indication:  Ceftaroline fosamil is indicated for the treatment of patients with the following infections caused by susceptible isolates of the designated microorganisms.
+DrugId:  5
+1. Name:  Linezolid
+2. Groups:  Approved, Investigational
+3. Description:  Linezolid is a synthetic antibiotic, the first of the oxazolidinone class, used for the treatment of infections caused by multi-resistant bacteria including streptococcus and methicillin-resistant Staphylococcus aureus (MRSA). The drug works by inhibiting the initiation of bacterial protein synthesis. 
+4. Indication:  For the treatment of bacterial infections caused by susceptible strains of vancomycin resistant Enterococcus faecium, Staphylococcal aureus (methicillin resistant and susceptible strains), Streptococcus pneumoniae, Streptococcus pyogenes, Streptococcus agalactiae.
+DrugId:  6
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  7
+1. Name:  Arylacenamide
+2. Groups:  Investigational
+3. Description:  Arylacenamide (SR31747) is a peripheral [sigma] ligand that binds four proteins in human cells, i.e. SRBP-1, [sigma]-2, HSI and its relative SRBP-2. It is a dual agent with both immunomodulatory and antiproliferative activities.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), immunosuppressive, and prostate cancer.
+DrugId:  8
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  9
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  10
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  11
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  12
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  14
+1. Name:  Bacitracin
+2. Groups:  Approved, Vet approved
+3. Description:  Bacitracin is a mixture of related cyclic polypeptides produced by organisms of the licheniformis group of Bacillus subtilis var Tracy. Its unique name derives from the fact that the bacillus producing it was first isolated in 1943 from a knee scrape from a girl named Margaret Tracy. As a toxic and difficult-to-use antibiotic, bacitracin doesn't work well orally. However, it is very effective topically.Bacitracin is synthesised via the so-called nonribosomal peptide synthetases (NRPSs), which means that ribosomes are not involved in its synthesis.
+4. Indication:  For the treatment of infants with pneumonia and empyema caused by staphylococci shown to be susceptible to the drug. Also used in ointment form for topical treatment of a variety of localized skin and eye infections, as well as for the prevention of wound infections. Used against gram positive bacteria. Bacitracin is also used as an inhibitor of proteases and other enzymes.However, specific activity of bactracin's inhibition of protein disulfide isomerase has been called into question. 
+DrugId:  15
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  17
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  21
+1. Name:  Vibriolysin
+2. Groups:  Investigational
+3. Description:  Vibriolysin is a proteolytic enzyme secreted by the marine microorganism Vibrio proteolyticus. It is a new agent for enzymatic debridement, shown to rapidly and thoroughly hydrolyze burn wound eschar within full-thickness wounds.
+4. Indication:  Investigated for use/treatment in burns and burn infections.
+DrugId:  22
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Gepotidacin
+2. Groups:  Investigational
+3. Description:  Gepotidacin has been used in trials studying the treatment of Gonorrhea, Infections, Bacterial, and Infections, Respiratory Tract.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  25
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.

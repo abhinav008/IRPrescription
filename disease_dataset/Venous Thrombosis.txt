@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Certoparin
+2. Groups:  Approved, Investigational
+3. Description:  Certoparin is a low molecular weight heparin, primarily active against factor Xa. Like other low molecular weight heparins, it is used to prevent deep venous thrombosis.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  2
+1. Name:  Fondaparinux
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux is under investigation for the treatment of Superficial Vein Thrombosis. Fondaparinux has been investigated for the treatment and prevention of Thromboembolism, Pulmonary Embolism, Thrombosis, Venous, Deep Vein Thrombosis, and Fibrillation, Atrial, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  SR-123781A
+2. Groups:  Investigational
+3. Description:  SR-123781A is a synthetic hexadecasaccharide Factor IIa and Xa antagonist. It is under investigation by Sanofi-Aventis and Organon for the treatment of thrombosis and acute coronary syndromes (ACS).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  4
+1. Name:  Idraparinux
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, venous thromboembolism, strokes, heart disease, and atrial fibrillation.
+DrugId:  5
+1. Name:  Parnaparin
+2. Groups:  Approved, Investigational
+3. Description:  Parnaparin is an antithrombotic and belongs to the group of low molecular weight heparins.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  6
+1. Name:  Odiparcil
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in atrial fibrillation, cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  7
+1. Name:  Fluindione
+2. Groups:  Approved, Investigational
+3. Description:  Fluindione is under investigation for the treatment of Venous Thrombosis, Pulmonary Embolism, Permanent Atrial Fibrillation, and Anticoagulating Treatment on a Duration at Least 12-month-old Superior. Fluindione has been investigated for the treatment of Blood Coagulation Disorders.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  SSR-126517E
+2. Groups:  Investigational
+3. Description:  SSR-126517E is a second generation synthetic pentasaccharide that binds antithrombin with such high affinity that it assumes a plasma half-life of 80 hours. 
+4. Indication:  Investigated for use/treatment in thrombosis and venous thromboembolism.
+DrugId:  9
+1. Name:  Ardeparin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Ardeparin, marketed under the US trade name Normiflo, is a low molecular weight heparin (LMWH) anticoagulant used for the prevention of postoperative venous thrombosis. Ardeparin is derived via peroxide degradation of heparin extracted from porcine intestinal mucosa. Its molecular weight ranges from 2000 to 15,000 with an average molecular weight of 5500 to 6500. Normiflo was withdrawn from the US market in March 2000.
+4. Indication:  For prevention of deep vein thrombosis, which may result in pulmonary embolism, following knee surgery.
+DrugId:  10
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  11
+1. Name:  LY-517717
+2. Groups:  Investigational
+3. Description:  LY517717 is an investigational oral direct inhibitor of activated Factor Xa. It is believed to be Lilly's PMD-3112 (licensed from Amgen).
+4. Indication:  Investigated for use/treatment in thrombosis and venous thromboembolism.
+DrugId:  12
+1. Name:  Urokinase
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Low molecular weight form of human urokinase, that consists of an A chain of 2,000 daltons linked by a sulfhydryl bond to a B chain of 30,400 daltons. Recombinant urokinase plasminogen activator
+4. Indication:  Urokinase can be used for the treatment of pulminary embolism, coronary artery thrombosis, IV catheter clearance, and venous and arterial blood clots.
+DrugId:  13
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  14
+1. Name:  Bemiparin
+2. Groups:  Approved, Investigational
+3. Description:  Bemiparin is an antithrombotic and belongs to the group of drugs known as the low molecular weight heparins (LMWH). Like semuloparin, bemiparin is classified as an ultra-LMH because of its low mean molecular mass of 3600 daltons, which is a unique property of this class [1]. These heparins have lower anti-thrombin activity than the traditional low molecular weight heparins and act mainly on factor-Xa, reducing the risk of bleeding due to selectivity for this specific clotting factor. Interestingly, current research is underway for the potential benefit of bemiparin in the treatment of tumors and diabetic foot ulcers [12, 1].
+4. Indication:  Bemiparin is indicated in the following cases: To prevent blood clots in the veins after general abdominal surgery in patients with a moderate risk of venous thromboembolism; in the prevention of the thromboembolic disease in non-surgical patients; prevention of clotting in the extracorporeal circuit during hemodialysis; to prevent blood clots in the veins after a major orthopedic surgery in patients with high risk of venous thromboembolism; secondary prevention of venous thromboembolism; recurrence in patients with deep vein thrombosis; transient prevention and treatment of deep vein thrombosis (DVT) [8].
+DrugId:  15
+1. Name:  Betrixaban
+2. Groups:  Approved, Investigational
+3. Description:  Betrixaban is a non-vitamin K oral anticoagulant whose action is driven by the competitive and reversible inhibition of the factor Xa [1]. It was selected among all lead compounds due to its low hERG channel affinity while sustaining its factor Xa inhibition capacity [3]. Betrixaban, now developed by Portola Pharmaceuticals Inc., is prescribed as a venous thromboembolism (VTE) prophylactic for adult patients with moderate to severe restricted motility or with other risks for VTE [2]. VTE can be manifested as deep vein thrombosis or pulmonary embolism and it is a leading cause of preventable death in hospitalized patients [4].
+4. Indication:  Betrixaban is indicated for prophylaxis of venous thromboembolism (VTE) in conditions of moderate to severe restricted mobility or in patients that qualify as in risk of VTE. 
+DrugId:  16
+1. Name:  Anisindione
+2. Groups:  Approved
+3. Description:  Anisindione is a synthetic anticoagulant and an indanedione derivative. It prevents the formation of active procoagulation factors II, VII, IX, and X, as well as the anticoagulant proteins C and S, in the liver by inhibiting the vitamin K-mediated gamma-carboxylation of precursor proteins.
+4. Indication:  For the prophylaxis and treatment of venous thrombosis and its extension, the treatment of atrial fibrillation with embolization, the prophylaxis and treatment of pulmonary embolism, and as an adjunct in the treatment of coronary occlusion.
+DrugId:  17
+1. Name:  Dextran 40
+2. Groups:  Approved
+3. Description:  Dextran 40 is a sterile, nonpyrogenic preparation of low molecular weight dextran (average mol. wt. 40,000) in 5% Dextrose Injection or 0.9% Sodium Chloride Injection. It is administered by intravenous infusion.
+4. Indication:  Dextran 40 is indicated for use in the adjunctive treatment of shock or impending shock due to hemorrhage, burns, surgery or other trauma. Also, indicated for use as a priming fluid, either as a sole prime or as an additive, in pump oxygenators during extracorporeal circulation.Dextran 40 is also indicated for use in prophylaxis of venous thrombosis and pulmonary embolism in patients undergoing procedures known to be associated with a high incidence of thromboembolic complications, such as hip surgery.
+DrugId:  18
+1. Name:  Conestat alfa
+2. Groups:  Approved, Investigational
+3. Description:  C1 Esterase Inhibitor (Recombinant) is a recombinant analogue of endogenous complement component-1 esterase inhibitor (rhC1INH), purified from the milk of transgenic rabbits. The primary function of endogenous C1INH is to regulate the activation of the complement and contact system pathways. It does this through inhibition of several target proteases within these pathways including activated C1s, kallikrein, factor XIIa and factor XIa. C1 esterase inhibitor has also been shown to inhibit the action of thrombin within the coagulation pathway, and tPA and plasmin within the fibrinolytic pathway. Deficiency of C1-inhibitor permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin. Additionally, C4 and C2 cleavage goes unchecked, resulting in auto-activation of the complement system. Down-stream effects of the lack of enzyme inhibition by C1 esterase inhibitor results in swelling due to leakage of fluid from blood vessels into connective tissue and consequently the presentation of hereditary angioedema (HAE). Marketed as the product Ruconest (FDA), this drug is indicated for the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults. Intravenous replacement of C1 esterase inhibitor results in reversal of acute symptoms of HAE.
+4. Indication:  For the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults.
+DrugId:  19
+1. Name:  Tinzaparin
+2. Groups:  Approved
+3. Description:  Tinzaparin is a low molecular weight heparin (LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III (ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Tinzaparin is used for the prevention of postoperative venous thromboembolism in patients undergoing orthopedic surgery and in patients undergoing general surgery who are at high risk of developing postoperative venous thromboembolism. It is also used for the treatment of deep vein thrombosis and/or pulmonary embolism. It is indicated for use in preventing clot formation in indwelling intravenous lines for hemodialysis.
+DrugId:  20
+1. Name:  Ancrod
+2. Groups:  Approved, Investigational
+3. Description:  Ancrod (current brand name: Viprinex) is a defibrinogenating agent derived from the venom of the Malayan pit viper. The defribrinogenation of blood results in an anticoagulant effect. Currently, Viprinex®/ancrod is not approved or marketed in any country, but is being investigated as a stroke treatment in worldwide clinical trials. In January 2005, the U.S. FDA granted a 'fast-track status' for investigation of ancrod use in patients suffering from acute ischemic stroke, a life threatening condition caused by the blockage of blood vessels supplying blood and oxygen to portions of the brain, for which phase III trials are currently being conducted.
+4. Indication:  For the treatment of established deep vein thrombosis; central retinal and branch vein thrombosis; priapism; pulmonary hypertension of embolic origin; embolism after insertion of prosthetic cardiac valves; rethrombosis after thrombolytic therapy and rethrombosis after vascular surgery. It is also indicated for the prevention of deep venous thrombosis after repair of the fractured neck of a femur.
+DrugId:  21
+1. Name:  Sulodexide
+2. Groups:  Approved, Investigational
+3. Description:  Sulodexide is a mixture of glycosaminoglycans (GAGs) composed of dermatan sulfate (DS) and fast moving heparin (FMH).
+4. Indication:  Sulodexide has been used clinically for the prophylaxis and treatment of vascular diseases with increased risk of thrombosis, including intermittent claudication, peripheral arterial occlusive disease and post-myocardial infarc-tion. Also investigated in the treatment of diabetic kidney disease and diabetic neuropathy. New anti-inflammatory properties have also extended its use in venous disease.
+DrugId:  22
+1. Name:  Dextran
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Dextran is a polysaccharide that differs from others in that its glucose units are joined together 1:6 glucoside links. The main chain of glucose has short branches at frequent intervals which are probably joined by 1:3 and 1:4 glucoside links. The chains can be composed of about 200,000 glucose units.[1] Many bacteria, like Leuconostoc, can synthesize dextran from sucrose, and this activity is used commercially to obtain dextran.[4]
+4. Indication:  Dextran is used as the restoration of blood mass during surgical interventions if there is hypovolemia due to trauma or dehydration. It is as well used after the presence of hemorrhage in cases of blood loss to a level inferior to 15% of the blood mass, if compatibility test cannot be completed or when blood lots need to be tested for pathogen detection. Dextran is also used for the prevention of profound postoperative venous thrombosis.[5]Dextran as well presents ophthalmic applications as solutions or ointments for the temporary relief of xerophthalmia or minor ocular irritations.[6]
+DrugId:  23
+1. Name:  Human C1-esterase inhibitor
+2. Groups:  Approved
+3. Description:  C1 Esterase Inhibitor (Human) is composed of purified endogenous complement component-1 esterase inhibitor (hC1INH) isolated from human plasma. The primary function of endogenous C1INH is to regulate the activation of the complement and contact system pathways. It does this through inhibition of several target proteases within these pathways including activated C1s, kallikrein, factor XIIa and factor XIa. C1 esterase inhibitor has also been shown to inhibit the action of thrombin within the coagulation pathway, and tPA and plasmin within the fibrinolytic pathway. Deficiency of C1-inhibitor permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin. Additionally, C4 and C2 cleavage goes unchecked, resulting in auto-activation of the complement system. Down-stream effects of the lack of enzyme inhibition by C1 esterase inhibitor results in swelling due to leakage of fluid from blood vessels into connective tissue and consequently the presentation of hereditary angioedema (HAE). Marketed as the product Cyrinze (FDA), this drug is indicated for routine prophylaxis against angioedema attacks in adolescent and adult patients with Hereditary Angioedema (HAE), a human genetic disorder caused by a shortage of C1 inhibitor activity that results in an overreaction of the immune system. The disease is characterized by acute attacks of painful and in some cases fatal swelling of several soft tissues (edema), which may last up to five days when untreated.In June 2017 the FDA approved a formulation of human C1-esterase inhibitor for subcutaneous administration under the tradename Haegarda.
+4. Indication:  For routine prophylaxis against angioedema attacks in adolescent and adult patients with Hereditary Angioedema (HAE).
+DrugId:  24
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  25
+1. Name:  Phenprocoumon
+2. Groups:  Approved, Investigational
+3. Description:  Coumarin derivative that acts as a long acting oral anticoagulant. [PubChem]
+4. Indication:  Used for the prevention and treatment of thromboembolic disease including venous thrombosis, thromboembolism, and pulmonary embolism as well as for the prevention of ischemic stroke in patients with atrial fibrillation (AF).

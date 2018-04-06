@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Prasugrel
+2. Groups:  Approved
+3. Description:  Prasugrel, a thienopyridine derivative, is a platelet activation and aggregation inhibitor structurally and pharmacologically related to clopidogrel and ticlopidine. Similar to clopidogrel, prasugrel is a prodrug that requires enzymatic transformation in the liver to its active metabolite, R-138727. R-138727 irreversibly binds to P2Y12 type ADP receptors on platelets thus preventing activation of the GPIIb/IIIa receptor complex. As a result, inhibition of ADP-mediated platelet activation and aggregation occurs. Prasugrel was developed by Daiichi Sankyo Co. and is currently marketed in the United States and Canada in cooperation with Eli Lilly and Company for acute coronary syndromes planned for percutaneous coronary intervention (PCI). FDA approved in 2009. 
+4. Indication:  Indicated in combination with acetylsalicylic acid (ASA) to prevent atherothrombotic events in patients with acute coronary syndrome (ACS) who are to be managed with percutaneous coronary intervention (PCI). May be used in patients with unstable angina (UA), non-ST elevation myocardial infarction (NSTEMI), ST-elevation myocardial infarction (STEMI) who are to be managed with PCI. Prasugrel is not recommended in patients 75 years of age or greater, those that weigh<60kg, and patients with a history of stroke or transient ischemic attack due to increased risk of fatal and intracranial bleeding. 
+DrugId:  2
+1. Name:  Tirofiban
+2. Groups:  Approved
+3. Description:  Tirofiban prevents the blood from clotting during episodes of chest pain or a heart attack, or while the patient is undergoing a procedure to treat a blocked coronary artery. It is a non-peptide reversible antagonist of the platelet glycoprotein (GP) IIb/IIIa receptor, and inhibits platelet aggregation.
+4. Indication:  For treatment, in combination with heparin, of acute coronary syndrome, including patients who are to be managed medically and those undergoing PTCA or atherectomy.
+DrugId:  3
+1. Name:  Edaravone
+2. Groups:  Approved, Investigational
+3. Description:  Edaravone is a free radical scavenger approved in May, 2017 for the treatment of amyotrophic lateral scleorosis (ALS). Clinical studies showed that the treatment attenuated deterioration of the disease when compared to placebo. It has been previously investigated for the treatment of ischemic stroke, reperfusion Injury, and myocardial Infarction as it possesses antioxidant and anti-apoptotic properties. Being a low molecular weight molecule with good water and lipid-soluble properies, it therapeutically advantageous in crossing the blood-brain barrier to mediate nootropic and neuroprotective effects. Oral formulation of edaravone is currently under development.
+4. Indication:  Indicated for improving neurological symptoms and damage from acute ischemic stroke and delaying disease progression of ALS.
+DrugId:  4
+1. Name:  DG051
+2. Groups:  Investigational
+3. Description:  DG051 is a novel small-molecule inhibitor of leukotriene A4 hydrolase (LTA4H), the protein made by one of the genes in the leukotriene pathway that has been shown to link to risk of heart attack. DG051 is designed to decrease risk of heart attack by decreasing the production of leukotriene B4 (LTB4), an end product of the leukotriene pathway and a potent promoter of inflammation. 
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  5
+1. Name:  Thallous Chloride
+2. Groups:  Approved
+3. Description:  Thallous chloride (also known as Thallium(I) chloride) is a chemical compound with the formula TlCl. This colourless solid is an intermediate in the isolation of thallium from its ores. Typically, an acidic solution of thallium(I) sulfate is treated with hydrochloric acid to precipitate insoluble thallium(I) chloride. This solid crystallizes in the caesium chloride motif. It is used as a diagnostic radiopharmaceutical. It is used for diagnosis of heart and parathyroid problems. The following are among the possible side effects: Blurred vision, chest pain or discomfort, chills, confusion, cough, difficulty with breathing, difficulty with swallowing, and dizziness.
+4. Indication:  For use as a diagnostic radiopharmaceutical.It is indicated to help diagnose heart disease (eg, coronary artery disease, heart attack). It is also used for the diagnosis of parathyroid problems. 
+DrugId:  6
+1. Name:  Interferon Alfa-2a, Recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+4. Indication:  For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.
+DrugId:  7
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  8
+1. Name:  Olcegepant
+2. Groups:  Investigational
+3. Description:  Boehringer Ingelheim Pharmaceuticals’ olcegepant (BIBN 4096) is a selective Calcitonin Gene-Related Peptide (CGRP) antagonist, a new class of drugs in development for the treatment of acute migraine attacks. Olcegepant is undergoing phase II trials in Europe and the US, with preliminary results suggesting that CGRP antagonists may represent a potential new approach to the treatment of migraine.
+4. Indication:  For the treatment of migraine headaches.
+DrugId:  9
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  10
+1. Name:  Vorapaxar
+2. Groups:  Approved
+3. Description:  Vorapaxar is a tricyclic himbacine-derived selective inhibitor of protease activated receptor (PAR-1) indicated for reducing the incidence of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or with peripheral arterial disease (PAD). By inhibiting PAR-1, a thrombin receptor expressed on platelets, vorapaxar prevents thrombin-related platelet aggregation.
+4. Indication:  Vorapaxar is indicated for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or peripheral arterial disease (PAD). It is usually co-administered with acetylsalicylic acid (ASA) and/or clopidogrel, and should therefore be administered as an addition to these medications as it has not been studied alone. 
+DrugId:  11
+1. Name:  DG031
+2. Groups:  Investigational
+3. Description:  DG031, deCODE genetics's lead compound, is being developed for the prevention of myocardial infarction, or heart attack.
+4. Indication:  Investigated for use/treatment in heart disease and myocardial infarction.
+DrugId:  12
+1. Name:  Dirucotide
+2. Groups:  Investigational
+3. Description:  Dirucotide is a synthetic peptide that consists of 17 amino acids linked in a sequence identical to that of a portion of human myelin basic protein (MBP). Dirucotide has been developed for the treatment of multiple sclerosis (MS). Developed at the University of Alberta, dirucotide is being investigated by BioMS Medical Corp.
+4. Indication:  For the treatment of multiple sclerosis (MS).
+DrugId:  13
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  14
+1. Name:  Trimetazidine
+2. Groups:  Approved, Investigational
+3. Description:  Trimetazidine is a drug for angina pectoris sold under the brand name Vastarel MR. Trimetazidine is described as the first cytoprotective anti-ischemic agent developed and marketed by Laboratoires Servier (France). Trimetazidine is an anti-ischemic (anti-anginal) metabolic agent, which improves myocardial glucose utilization through inhibition of long-chain 3-ketoacyl CoA thiolase activity, which results in a reduction in fatty acid oxidation and a stimulation of glucose oxidation. High fatty acid oxidation rates are detrimental during ischemia due to an inhibition of glucose oxidation leading to uncoupling of glycolysis and an increase in proton production, which has the potential to accelerate sodium and calcium overload in the heart, which leads to an exacerbation of ischemic injury and decreased cardiac efficiency during reperfusion.
+4. Indication:  Trimetazidine is indicated for use in angina pectoris.
+DrugId:  15
+1. Name:  Acenocoumarol
+2. Groups:  Approved, Investigational
+3. Description:  Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, XI and X, and interferes with coagulation. Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood. 
+4. Indication:  For the treatment and prevention of thromboembolic diseases. More specifically, it is indicated for the for the prevention of cerebral embolism, deep vein thrombosis, pulmonary embolism, thromboembolism in infarction and transient ischemic attacks. It is used for the treatment of deep vein thrombosis and myocardial infarction.
+DrugId:  16
+1. Name:  R-851
+2. Groups:  Investigational
+3. Description:  R-851 is part of the family of immune response modifier (IRM) and it acts in a novel way to stimulate the human body's immnune system to attack virus-infected cells and tumor cells. It is expected to be topical treatment for cervical displasia and cervical high-risk human papillomavirus (HPV), the sexually transmitted virus that causes most cases of cervical cancer.
+4. Indication:  Investigated for use/treatment in cervical dysplasia/cancer and viral infection.
+DrugId:  17
+1. Name:  CG7870
+2. Groups:  Investigational
+3. Description:  CG7870 is an oncolytic virus therapy for prostate cancer. It is a replication-selective, prostate-specific antigen-targeted oncolytic adenovirus, for the treatment of hormone-refractory, metastatic prostate cancer.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  18
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  19
+1. Name:  liposomal prostaglandin E1
+2. Groups:  Investigational
+3. Description:  Liposome-encapsulated form of prostaglandin E1 (Liprostin) is known to be a potent vasodilator and platelet inhibitor as well as an anti-inflammatory and anti-thrombotic agent. The liposomal formulation of PGE-1 changes the drug’s dynamics and improve its therapeutic index in ways that PGE-1 alone could not achieve.
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic) and peripheral vascular disease.
+DrugId:  20
+1. Name:  SP-8203
+2. Groups:  Investigational
+3. Description:  SP-8203 has been used in trials studying the treatment of Ischemic Stroke.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Lanoteplase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  22
+1. Name:  Dehydroascorbic Acid
+2. Groups:  Experimental
+3. Description:  Dehydroascorbic acid is made from the oxidation of ascorbic acid. This reaction is reversible, but dehydroascorbic acid can instead undergo irreversible hydrolysis to 2,3-diketogulonic acid. Dehydroascorbic acid as well as ascorbic acid are both termed Vitamin C, but the latter is the main form found in humans. In the body, both dehydroascorbic acid and ascorbic acid have similar biological activity as antivirals but dehydroascorbic acid also has neuroprotective effects. Currently dehydroascorbic acid is an experimental drug with no known approved indications.
+4. Indication:  There is no approved indication for dehydroascorbic acid, but it has potential therapeutic use in patients with certain viruses and ischemic stroke.
+DrugId:  23
+1. Name:  Bavituximab
+2. Groups:  Investigational
+3. Description:  Bavituximab is a chimeric Anti-PS monoclonal antibody analog which is used to potentially treat cancers and viral infections. It binds to phosphatidylserine and other exposed host cell lipids when induced by cellular stress. Additional analogs in the class include 3G4, 2aG4, 9d2 and Hu3g4.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), HIV infection, hepatitis (viral, C), and solid tumors.
+DrugId:  24
+1. Name:  Alteplase
+2. Groups:  Approved
+3. Description:  Human tissue plasminogen activator, purified, glycosylated, 527 residues purified from CHO cells
+4. Indication:  For management of acute myocardial infarction, acute ischemic strok and for lysis of acute pulmonary emboli
+DrugId:  25
+1. Name:  Alfimeprase
+2. Groups:  Investigational
+3. Description:  Alfimeprase is a recombinant analog of fibrolase. Fibrolase is a zinc-containing metalloproteinase isolated from the venom of the southern copperhead snake (Agkistrodon contortrix contortrix). It is a small protein that contains 203 residues (Randolph et al. 1992). Alfimeprase is being developed by Nuvelo.
+4. Indication:  Alfimeprase is being evaluated as a potential treatment for acute ischemic stroke, catheter occlusion (CO) and acute peripheral arterial occlusion (PAO).

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Glucosamine
+2. Groups:  Approved, Investigational
+3. Description:  Glucosamine is commonly used as a treatment for osteoarthritis, although its acceptance as a medical therapy varies. It is an amino sugar and a prominent precursor in the biochemical synthesis of glycosylated proteins and lipids. Since glucosamine is a precursor for glycosaminoglycans, and glycosaminoglycans are a major component of joint cartilage, supplemental glucosamine may help to rebuild cartilage and treat arthritis.
+4. Indication:  Glucosamine is usually used in the treatment of osteoarthritis, although its efficacy is still in question.
+DrugId:  2
+1. Name:  Obinutuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Obinutuzumab is a humanized monoclonal antibody used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia. It was approved by the FDA in November 2013 and is marketed under the brand name Gazyva. There is a black box warning of fatal Hepatitis B Virus (HBV) reactivation and fatal Progressive Multifocal Leukoencephalopathy (PML).
+4. Indication:  Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
+DrugId:  3
+1. Name:  Mitoxantrone
+2. Groups:  Approved, Investigational
+3. Description:  An anthracenedione-derived antineoplastic agent. [PubChem]
+4. Indication:  For the treatment of secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis
+DrugId:  4
+1. Name:  Pradefovir Mesylate
+2. Groups:  Investigational
+3. Description:  Pradefovir mesilate (previously known as MB-06886, Hepavir B and remofovir mesylate) is an orally administered small molecule compound that belongs to a novel series of phosphate and phosphonate prodrugs of adefovir. Adefovir (Hepsera) is an acyclic phosphonate analogue of adenine that is used to treat hepatitis B virus. As adefovir is poorly absorbed and associated with a high level of nephrotoxicity, pradefovir mesilate was designed to specifically target the liver and reduce risks to external tissue, especially the kidneys, while improving results of adefovir.Pradefovir is activated through oxidation that is mediated by cytochrome P-450 (CYP) 3A4, which is predominantly expressed in the liver. The novel prodrug is highly stable in both plasma and tissues and demonstrated potent preclinical and clinical anti-HBV activity. Pradefovir is undergoing phase II development for the treatment of chronic hepatitis B.
+4. Indication:  Investigated for use as a prodrug for Hepsera in treating hepatitis (viral, B).
+DrugId:  5
+1. Name:  Ferric pyrophosphate
+2. Groups:  Experimental
+3. Description:  Ferric pyrophosphate is an iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate.[1] It presents an increasing interest as this insoluble form can be milder in the gastrointestinal tract and present higher bioavailability.[10]
+4. Indication:  Ferric pyrophosphate is intended to be indicated for the treatment of iron loss or iron deficiency as a formulation with a milder gastrointestinal effect.[9, 10] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  6
+1. Name:  Ocrelizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ocrelizumab is a CD20-directed cytolytic antibody indicated for the treatment of patients with relapsing or primary progressive forms of multiple sclerosis. It is a second-generation recombinant humanized monoclonal IgG1 antibody that selectively targets the B lymphocytes that express the CD20 antigen. As a humanized molecule, ocrelizumab is expected to be less immunogenic with repeated infusions which improves the benefit-to-risk profile for patients with relapsing or progressive forms of MS. Multiple sclerosis (MS) is a chronic, inflammatory, autoimmune disease of the central nervous system that leads to neurological disabilities and significantly reduced quality of life [5]. Most patients with MS experience episodes of relapses with worsening function, followed by recovery periods, or remissions. Primary progressive multiple sclerosis (PPMS) accounts for 10-15% of the overall population of patients with MS, and involves gradual worsening of neurologic disability from symptom onset, often without early relapses or remissions [4].Developed by Genentech/Roche, ocrelizumab was approved by the FDA in March 2017 under the market name Ocrevustm for intravenous injection. It was later approved by Health Canada (as Ocrevus) in August 2017, making the drug the first available treatment for PPMS in both U.S. and Canada. In clinical trials of patients with relapsing forms of MS, treatment with ocrelizumab resulted in reduced relapse rates and reduced worsening of disability compared to interferon beta-1a [5]. In phase 3 clinical trials of patients with PPMS, treatment with ocrelizumab demonstrated lower rates of clinical and MRI progression than placebo [4].
+4. Indication:  Indicated for the treatment of adult patients with relapsing or primary progressive forms of multiple sclerosis [FDA Label].
+DrugId:  7
+1. Name:  Chondroitin sulfate
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Chondroitin sulfate is a glycosaminoglycan considered as a symptomatic slow-acting drug for osteoarthritis (SYSADOA).[1] The SYSADOA status suggested a pain relief and increased joint mobility after a relative long regular administration, as well as a long-lasting effect after the end of the treatment. Chondroitin sulfate is composed of alternating 1,3-N-acetyl-β-d-galactosamine and 1,4-β-d-glucuronic acid units which bear 4-O- and/or 6-O-sulfations at the N-acetylgalactosamine units disposed of in specific patterns. Depending on the predominating disaccharide unit, it will present different biological activities.[2] Chondroitin sulfate is sold as an OTC dietary supplement in North America and it is a prescription drug under the EMA in Europe.[4]
+4. Indication:  Chondroitin sulfate, used with glucosamine, is indicated to alleviate pain and inflammation from primary osteoarthritis.[7] This supplement is reported to improve joint function and slow disease progression.[8] Osteoarthritis is characterized by progressive structural and metabolic changes in joint tissues, mainly cartilage degradation, subchondral bone sclerosis and inflammation of synovial membrane.[4]Studies have proposed the potential use of chondroitin sulfate as a nutraceutical in dietary supplements.[3]
+DrugId:  8
+1. Name:  Hydroxychloroquine
+2. Groups:  Approved
+3. Description:  A chemotherapeutic agent that acts against erythrocytic forms of malarial parasites.
+4. Indication:  For the suppressive treatment and treatment of acute attacks of malaria due to Plasmodium vivax, P. malariae, P. ovale, and susceptible strains of P. falciparum. It is also indicated for the treatment of discoid and systemic lupus erythematosus, and rheumatoid arthritis.
+DrugId:  9
+1. Name:  Cinacalcet
+2. Groups:  Approved
+3. Description:  Cinacalcet (INN) is a drug that acts as a calcimimetic (i.e. it mimics the action of calcium on tissues) by allosteric activation of the calcium-sensing receptor that is expressed in various human organ tissues. It is sold by Amgen under the trade name Sensipar® in North America and Australia and as Mimpara® in Europe. Cinacalcet is used to treat hyperparathyroidism (elevated parathyroid hormone levels), a consequence of parathyroid tumors and chronic renal failure.
+4. Indication:  For the treatment of secondary hyperparathyroidism in patients with Chronic Kidney Disease who are on hemodialysis or peritoneal dialysis. Also for the treatment of hypercalcemia in patients with parathyroid carcinoma.
+DrugId:  10
+1. Name:  Umeclidinium
+2. Groups:  Approved
+3. Description:  Umeclidinium is a long-acting muscarinic antagonist (LAMA) used as maintenance treatment for symptoms of chronic obstructive pulmonary disease (COPD). It is available as a once-daily inhalation monotherapy or as a fixed-dose combination product with the long-acting beta2-agonist vilanterol. COPD is a progressive obstructive lung disease characterized by shortness of breath, cough, sputum production, and chronically poor airflow with a forced expiratory volume in 1 second (FEV1) of less than 80%. By blocking the M3 muscarinic receptor which is highly expressed in airway smooth muscle of the lungs, umeclidinium inhibits the binding of acetylcholine and thereby opens up the airways by preventing bronchoconstriction. Its use has been shown to provide clinically significant, sustained improvements in lung function. 
+4. Indication:  Indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD).
+DrugId:  11
+1. Name:  Olodaterol
+2. Groups:  Approved
+3. Description:  Olodaterol is a novel, long-acting beta2-adrenergic agonist (LABA) that exerts its pharmacological effect by binding and activating beta2-adrenergic receptors located primarily in the lungs. Beta2-adrenergic receptors are membrane-bound receptors that are normally activated by endogenous epinephrine whose signalling, via a downstream L-type calcium channel interaction, mediates smooth muscle relaxation and bronchodilation. Activation of the receptor stimulates an associated G protein which then activates adenylate cyclase, catalyzing the formation of cyclic adenosine monophosphate (cAMP) and protein kinase A (PKA). Elevation of these two molecules induces bronchodilation by relaxation of airway smooth muscles. It is by this mechanism that olodaterol is used for the treatment of chronic obstructive pulmonary disease (COPD) and the progressive airflow obstruction that is characteristic of it. Treatment with bronchodilators helps to mitigate associated symptoms such as shortness of breath, cough, and sputum production. Single doses of olodaterol have been shown to improve forced expiratory volume in 1 sec (FEV1) for 24 h in patients with COPD, allowing once daily dosing. A once-a-day treatment with a LABA has several advantages over short-acting bronchodilators and twice-daily LABAs including improved convenience and compliance and improved airflow over a 24-hour period. Despite similarities in symptoms, olodaterol is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+4. Indication:  Olodaterol is indicated for use in chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema. It is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+DrugId:  12
+1. Name:  Ferric pyrophosphate citrate
+2. Groups:  Approved, Investigational
+3. Description:  Ferric pyrophosphate citrate is a soluble iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate and citrate.[1] FPC is categorized in Japan as a second class OTC drug.[6] This category is given to drugs with ingredients that in rare cases may cause health problems requiring hospitalization or worst.[7] It is also FDA approved since 2015.[FDA Label]
+4. Indication:  Ferric pyrophosphate citrate is indicated for the treatment of iron loss or iron deficiency to maintain hemoglobin and to reduce the prescribed dose of erythropoiesis-stimulating agent (ESA) required to maintain desired hemoglobin levels.[8] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  13
+1. Name:  Acetylcarnitine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcarnitine is an investigational drug in the United states, Italy, United Kingdom, China, Israel, and Norway, and it is approved in Italy, Portugal, Argentina, Chile, Philippines, Australia, and India. Acetylcarnitine can be synthesized, but it is also naturally found in adequate amounts in healthy humans. In human plasma and tissues, acetylcarnitine is the most predominant acylated ester of carnitine, which is an amino acid derivative that is made in the kidney, liver, and brain from lysine and methionine. The main role of acetylcarnitine is to help transport fatty acids into the mitochondrial matrix where fatty acid metabolism occurs.
+4. Indication:  Acetylcarnitine is not approved for any indication in the United states and Canada, but it is approved and indicated in Italy for cerebrovascular disorders, mental function disorders, peripheral nerve disorders, diabetic neuropathy, and nutritional supplementation; Portugal for mental function disorders; Argentina for cerebral vasculopathy, nutritional supplementation, and peripheral neuropathy; Chile for dementia; Philippines for cerebrovascular disorders and mental function disorders; Australia for nutritional supplementation; and India for nutritional supplementation to increase sperm count. Acetylcarnitine also has several potential therapeutic indications for which it is still being investigated: in Norway, acetylcarnitine is in a phase IV trial for prophylactic treatment of migraines; in Italy acetylcarnitine is in a phase II trial for use in patients with type 2 Diabetes Mellitus, a phase III trial for alleviating fatigue in patients with chronic hepatitis C, and for use in patients with Minimal Hepatic Encephalopathy; in the United States acetylcarnitine is in a phase II trial for the neurodegenerative disorder Progressive Supranuclear Palsy, a phase II and III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy, a phase I and II trial for treating patients in septic shock, a phase II trial for bipolar depression, a phase II trial to reduce oxidative stress in patients with Sickle Cell disease, a phase I and II trial for chronic fatigue syndrome, and a study for preventing nerve damage in HIV patients; in China acetylcarnitine is in a phase III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy; in the United Kingdom acetylcarnitine is being investigated for preventing nerve damage in HIV patients; and in Israel acetylcarnitine is being studied for the treatment of male infertility.
+DrugId:  14
+1. Name:  IDD-3
+2. Groups:  Investigational
+3. Description:  IDD-3 is a therapeutic specific immunostimulant developed by IDM Pharma in partnership with sanofi-aventis. It consists of mature dendritic cells loaded with lysates from melanoma tumor cell lines. It includes Dendritophages that are dendritic cells, a type of specialized immune cells derived from the patient's own white blood cells. 
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  15
+1. Name:  Deslanoside
+2. Groups:  Approved
+3. Description:  Deacetyllanatoside C. A cardiotonic glycoside from the leaves of Digitalis lanata. [PubChem]
+4. Indication:  For the treatment and management of Congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  16
+1. Name:  Amitriptyline
+2. Groups:  Approved
+3. Description:  Amitriptyline hydrochloride is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA) and analgesic. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, amitriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, amitriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. Amitriptyline may be used to treat depression, chronic pain (unlabeled use), irritable bowel syndrome (unlabeled use), diabetic neuropathy (unlabeled use), post-traumatic stress disorder (unlabeled use), and for migraine prophylaxis (unlabeled use).
+4. Indication:  Indicated for the treatment of major depressive disorder in adultsIndicated for the management of neuropathic pain in adultsIndicated for the prophylactic treatment of chronic tension type headache (CTTH) in adultsIndicated for the prophylactic treatment of migraine in adultsIndicated for the the treatment of nocturnal enuresis in children aged 6 years and above when organic pathology, including spina bifida and related disorders, have been excluded and no response has been achieved to all other non-drug and drug treatments, including antispasmodics and vasopressin-related products. This medicinal product should only be prescribed by a healthcare professional with expertise in the management of persistent enuresis.-Other off-label uses include irritable bowel syndrome, sleep disorders, diabetic neuropathy, agitation and insomnia
+DrugId:  17
+1. Name:  Bemiparin
+2. Groups:  Approved, Investigational
+3. Description:  Bemiparin is an antithrombotic and belongs to the group of drugs known as the low molecular weight heparins (LMWH). Like semuloparin, bemiparin is classified as an ultra-LMH because of its low mean molecular mass of 3600 daltons, which is a unique property of this class [1]. These heparins have lower anti-thrombin activity than the traditional low molecular weight heparins and act mainly on factor-Xa, reducing the risk of bleeding due to selectivity for this specific clotting factor. Interestingly, current research is underway for the potential benefit of bemiparin in the treatment of tumors and diabetic foot ulcers [12, 1].
+4. Indication:  Bemiparin is indicated in the following cases: To prevent blood clots in the veins after general abdominal surgery in patients with a moderate risk of venous thromboembolism; in the prevention of the thromboembolic disease in non-surgical patients; prevention of clotting in the extracorporeal circuit during hemodialysis; to prevent blood clots in the veins after a major orthopedic surgery in patients with high risk of venous thromboembolism; secondary prevention of venous thromboembolism; recurrence in patients with deep vein thrombosis; transient prevention and treatment of deep vein thrombosis (DVT) [8].
+DrugId:  18
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  ADC4022
+2. Groups:  Investigational
+3. Description:  ADC4022 is an investigational medicine for the treatment of Chronic Obstructive Pulmonary Disease (COPD) and severe asthma.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  20
+1. Name:  Bendamustine
+2. Groups:  Approved, Investigational
+3. Description:  Bendamustine is a nitrogen mustard drug indicated for use in the treatment of chronic lymphocytic leukemia (CLL) and indolent B-cell non-Hodgkin lymphoma (NHL) that has progressed during or within six months of treatment with rituximab or a rituximab-containing regimen. Bendamustine is a bifunctional mechlorethamine derivative capable of forming electrophilic alkyl groups that covalently bond to other molecules. Through this function as an alkylating agent, bendamustine causes intra- and inter-strand crosslinks between DNA bases resulting in cell death. It is active against both active and quiescent cells, although the exact mechanism of action is unknown.
+4. Indication:  Bendamustine is indicated for use in the treatment of chronic lymphocytic leukemia (CLL) and indolent B-cell non-Hodgkin lymphoma (NHL) that has progressed during or within six months of treatment with rituximab or a rituximab-containing regimen.
+DrugId:  21
+1. Name:  Digoxin
+2. Groups:  Approved
+3. Description:  A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone digoxigenin. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  22
+1. Name:  ALKS 27
+2. Groups:  Investigational
+3. Description:  ALKS 27 is an inhaled formulation of trospium chloride for the treatment of chronic obstructive pulmonary disease (COPD). Study showed that ALKS 27 was well-tolerated over a wide dose range, with no dose-limited effects observed.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  23
+1. Name:  NBI-6024
+2. Groups:  Investigational
+3. Description:  NBI-6024 is an altered peptide ligand that is designed to cause an immune response which result in preservation of beta-cell function and endogenous insulin production. 
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1 and pediatric indications.
+DrugId:  24
+1. Name:  MYO-029
+2. Groups:  Investigational
+3. Description:  MYO-029 is a human anti-GDF-8 monoclonal antibody, which is being developed to treat muscle-wasting diseases including muscular dystrophy and age-related sarcopenia. 
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  25
+1. Name:  Lancovutide
+2. Groups:  Investigational
+3. Description:  Lancovutide, a peptide antibiotic, is in clinical development for the treatment of cystic fibrosis. Duramycin is a 19-amino-acid tetracyclic peptide produced by Streptoverticillium cinnamoneus and is closely related to cinnamycin (Ro09-0198). It belongs to the lantibiotics. Lantibiotics are bacteriocins that are characterized by the presence of a high proportion of unusual amino acids.
+4. Indication:  Investigated for use/treatment in cystic fibrosis and eye disorders/infections.

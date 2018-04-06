@@ -1,0 +1,85 @@
+DrugId:  1
+1. Name:  Verinurad
+2. Groups:  Investigational
+3. Description:  Verinurad has been used in trials studying the basic science and treatment of Gout, Gout and Hyperuricemia, and Gout and Asymptomatic Hyperuricemia.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Lesinurad
+2. Groups:  Approved, Investigational
+3. Description:  Lesinurad is an oral uric acid transporter 1 (URAT1) inhibitor indicated for the treatment of hyperuricemia associated with gout. It reduces serum uric acid concentration through the inhibition of URAT1, an enzyme responsible for reuptake of uric acid from the renal tubule, and OAT4, another uric acid transporter associated with diuretic-induced hyperuricemia.Marketed as the product Zurampic, it is indicated for use in combination with a xanthine oxidase inhibitor for the treatment of hyperuricemia associated with gout inpatients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone. In August 2017, a combination oral therapy consisting of lesinurad and Allopurinol was FDA-approved under the brand name Duzallo indicated for the treatment of gout-related hyperuricemia in patients with uncontrolled gout.
+4. Indication:  For use, in combination with a xanthine oxidase inhibitor, for the treatment of hyperuricemia associated with gout in patients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone.
+DrugId:  3
+1. Name:  Allopurinol
+2. Groups:  Approved
+3. Description:  A xanthine oxidase inhibitor that decreases uric acid production. It also acts as an antimetabolite on some simpler organisms. Allopurinol is considered a standard treatment of hyperuricemia associated with gout. In August 2017, an oral combination agent Duzallo was approved by FDA as a dual-mechanism treatment of hyperuricemia in patients with uncontrolled gout. Duzallo contains allopurinol and Lesinurad, a recently FDA-approved URAT1 inhibitor indicated for the treatment of hyperuricemia associated with gout.
+4. Indication:  For the treatment of hyperuricemia associated with primary or secondary gout. Also indicated for the treatment of primary or secondary uric acid nephropathy, with or without the symptoms of gout, as well as chemotherapy-induced hyperuricemia and recurrent renal calculi.
+DrugId:  4
+1. Name:  Benzbromarone
+2. Groups:  Investigational, Withdrawn
+3. Description:  Benzbromarone has been used in trials studying the basic science and treatment of Heart Failure, Hyperuricemia, Chronic Kidney Disease, Abnormal Renal Function, and Gout and Asymptomatic Hyperuricemia.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Ulodesine
+2. Groups:  Investigational
+3. Description:  Ulodesine has been used in trials studying the treatment of Gout, Arthritis, Hyperuricemia, and Joint Disease.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Febuxostat
+2. Groups:  Approved
+3. Description:  Febuxostat is a xanathine oxidase (XO) inhibitor indicated in patients with gout suffering from hyperuricemia and is used in its chronic management. Febuxostat is not recommended for the treatment of asymptomatic hyperuricemia. Febuxostat is marketed under the trade name Uloric by Takeda Pharmaceuticals America, Inc., and was approved by the FDA in February 2009.
+4. Indication:  For the treatment of hyperuricemia in patients with gout.
+DrugId:  7
+1. Name:  Rasburicase
+2. Groups:  Approved, Investigational
+3. Description:  Rasburicase is a recombinant urate-oxidase enzyme produced by a genetically modified Saccharomyces cerevisiae strain. The cDNA coding for rasburicase was cloned from a strain of Aspergillus flavus.
+4. Indication:  For treatment of hyperuricemia, reduces elevated plasma uric acid levels (from chemotherapy)
+DrugId:  8
+1. Name:  PEG-uricase
+2. Groups:  Investigational
+3. Description:  PEG-uricase, a polyethylene glycol ("PEG") conjugate of recombinant porcine uricase (urate oxidase), which breaks down the uric acid deposits is being studied in Phase III clinical trials for the treatment of severe, treatment-refractory gout in the United States in 2006.
+4. Indication:  Investigated for use/treatment in hyperuricemia.
+DrugId:  9
+1. Name:  Arhalofenate
+2. Groups:  Investigational
+3. Description:  Arhalofenate has been investigated for the treatment of Gout and Hyperuricemia.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Oxypurinol
+2. Groups:  Investigational
+3. Description:  Oxypurinol, an inhibitor of xanthine oxidase, is a metabolite of allopurinol.
+4. Indication:  Intended for the treatment of congestive heart failure and hyperuricemia.
+DrugId:  11
+1. Name:  Siltuximab
+2. Groups:  Approved, Investigational
+3. Description:  Siltuximab is a chimeric (human-mouse) monoclonal immunoglobulin G1-kappa antibody produced in a Chinese hamster ovary (CHO) cell line by recombinant DNA technology. Siltuximab prevents the binding of IL-6 to soluble and membrane-bound IL-6 receptors by forming high affinity complexes with human interleukin-6 (IL-6). Its use is indicated for the treatment of adult patients with multicentric Castleman's disease (MCD) who are human immunodeficiency virus (HIV) negative and human herpesvirus-8 (HHV-8) negative. MCD is a rare blood disorder caused by dysregulated IL-6 production, proliferation of lymphocytes, and subsequent enlargement of the lymph nodes. It is administered as a 1 hour intravenous infusion every 3 weeks.
+4. Indication:  Siltuximab is indicated for the treatment of patients with multicentric Castleman's disease (MCD) who are human immunodeficiency virus (HIV) negative and human herpesvirus-8 (HHV-8) negative. Siltuximab did not bind to virally produced IL-6 in a nonclinical study and was therefore not studied in patients with MCD who are HIV or HHV-8 positive.
+DrugId:  12
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  13
+1. Name:  Latamoxef
+2. Groups:  Approved, Investigational
+3. Description:  Broad- spectrum beta-lactam antibiotic similar in structure to the cephalosporins except for the substitution of an oxaazabicyclo moiety for the thiaazabicyclo moiety of certain cephalosporins. It has been proposed especially for the meningitides because it passes the blood-brain barrier and for anaerobic infections. [PubChem]
+4. Indication:  Latamoxef is an oxacephem antibiotic usually grouped with the cephalosporins. It is used to treat bacterial infections. Latamoxef is primarily indicated in conditions like Bone and joint infection, GI infections, Gynecological infections, Meningitis, Respiratory tract infections, Septicaemia, Skin infections, Soft tissue infections, UTI. 
+DrugId:  14
+1. Name:  Uric Acid
+2. Groups:  Experimental, Investigational
+3. Description:  Uric acid is the last product of purine metabolism in humans. The formation of uric acid is through the enzyme xanthine oxidase, which oxidizes oxypurines. Normally a small amount of uric acid is present in the body, but when there is an excess amount in the blood, called hyperuricemia, this can lead to gout and formation of kidney stones. As a therapeutic agent, it is known that uric acid is increased in response to oxidative stress, and as such, uric acid acts as an antioxidant. At present (August 2013), there is no approved formulation or indication for uric acid. In one country, Spain, uric acid is an investigational drug in a phase 3 trial studying its effects as an adjunct to alteplase in acute ischemic stroke.
+4. Indication:  At present (August 2013), there is no approved indication for uric acid. The potential therapeutic use for uric acid is as an adjunct in acute ischemic stroke.
+DrugId:  15
+1. Name:  Probenecid
+2. Groups:  Approved, Investigational
+3. Description:  The prototypical uricosuric agent. It inhibits the renal excretion of organic anions and reduces tubular reabsorption of urate. Probenecid has also been used to treat patients with renal impairment, and, because it reduces the renal tubular excretion of other drugs, has been used as an adjunct to antibacterial therapy. [PubChem]
+4. Indication:  For the reduction of serum uric acid concentrations in chronic gouty arthritis and tophaceous gout in patients with frequent disabling gout attacks. Has also been effectively used to promote uric acid excretion in hyperuricemia secondary to the administration of thiazide and related diuretics. 
+DrugId:  16
+1. Name:  Topiroxostat
+2. Groups:  Approved, Investigational
+3. Description:  Topiroxostat is a selective xanthine oxidase inhibitor developed for treatment and management of hyperuricemia and gout. Xanthine oxidase, or xanthine oxidoreductase (XOR), regulates purine metabolism, and inhibition of the enzyme results in efficacious reduction of serum urate levels. Xanthine oxidase inhibitors are classified into two groups; purine analogs such as Allopurinol and Oxypurinol, and non-purine agents which includes topiroxostat. While Allopurinol is considered a first-line therapy in treating hyperuricemic conditions, it is often associated with side effects and ineffective in reducing uric acid levels under recommended dosing regimens. Renal complications are major comorbidities that limit the Allopurinol therapy as dose reductions are recommended. Topiroxostat and its metabolites are shown to be unaffected by renal complications, thus may be effective in patients with chronic kidney diseases [2]. Approved for therapeutic use in Japan since 2013, topiroxostat is marketed under the name Topiloric and Uriadec and is orally administered twice daily.
+4. Indication:  Indicated for the treatment of gout and hyperurcemia in Japan.
+DrugId:  17
+1. Name:  Didanosine
+2. Groups:  Approved
+3. Description:  A dideoxynucleoside compound in which the 3'-hydroxy group on the sugar moiety has been replaced by a hydrogen. This modification prevents the formation of phosphodiester linkages which are needed for the completion of nucleic acid chains. Didanosine is a potent inhibitor of HIV replication, acting as a chain-terminator of viral DNA by binding to reverse transcriptase; ddI is then metabolized to dideoxyadenosine triphosphate, its putative active metabolite. [PubChem]
+4. Indication:  For use, in combination with other antiretroviral agents, in the treatment of HIV-1 infection in adults.

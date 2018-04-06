@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  AVI-4557
+2. Groups:  Investigational
+3. Description:  AVI-4557 is an oral antisense compound that selectively inhibits the metabolic enzyme cytochrome P450 3A4 (CYP), a liver enzyme responsible for the metabolism or breakdown of approximately half of currently marketed drugs. Studies indicate that AVI-4557 can successfully reduce the rate of metabolism for certain drugs, therefore allowing greater and longer availability of the drug in the patient's system through a decrease in clearance and an increase in maximal blood concentration (Cmax). AVI-4557 is therefore indicated to limit toxicity for patients receiving highly-toxic therapeutic drugs for treatment of anxiety, cancer, and a number of other serious conditions.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy) and adverse effects (drug).
+DrugId:  2
+1. Name:  Dexketoprofen
+2. Groups:  Approved, Investigational
+3. Description:  Dexketoprofen is a non-steroidal anti-inflammatory drug. It is available in the various countries in Europe, Asia and Latin America. It has analgesic, antipyretic and anti-inflammatory properties [2].
+4. Indication:  For short-term treatment of mild to moderate pain, including dysmenorrhoea, musculoskeletal pain and toothache [6]. 
+DrugId:  3
+1. Name:  ANX-510
+2. Groups:  Investigational
+3. Description:  ANX-510 (CoFactor) is a folate-based biomodulator drug being developed to enhance the activity and reduce associated toxicity of the widely used cancer chemotherapy, 5-fluorouracil (5-FU). CoFactor use with 5-FU is being evaluated in clinical trials in first line treatment of metastatic colorectal cancer.
+4. Indication:  Investigated for use/treatment in breast cancer, colorectal cancer, gall bladder cancer, and pancreatic cancer.
+DrugId:  4
+1. Name:  IDM-4
+2. Groups:  Investigational
+3. Description:  IDM-4 is an immuno-designed molecule that completed phase I/II of investigation for the treatment of Leukemia. It is a monoclonal antibody-specific antigen that can selectively target cancer-affected cells by coupling with tumor cell-killing MAK cells, which are derived from the patient's own monocytes. Trials of this drug have most likely been discontinued by the manufacturer.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  5
+1. Name:  Pralnacasan
+2. Groups:  Investigational
+3. Description:  Pralnacasan is an orally bioavailable pro-drug of a potent, non-peptide inhibitor of interleukin-1beta converting enzyme (ICE).
+4. Indication:  For the treatment of rheumatoid arthritis (RA).
+DrugId:  6
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  7
+1. Name:  Trastuzumab emtansine
+2. Groups:  Approved, Investigational
+3. Description:  Trastuzumab emtansine, formerly called Trastuzumab-DM1 (T-DM1) is a first-in-class HER2 antibody drug conjugate (ADC) comprised of Genentech's trastuzumab antibody linked to ImmunoGen's cell-killing agent, DM1. T-DM1 combines two strategies-- anti-HER2 activity and targeted intracellular delivery of the potent anti-microtubule agent, DM1 (a maytansine derivative)--to produce cell cycle arrest and apoptosis. Trastuzumab emtansine is marketed under the brand name Kadcyla and is indicated for use in HER2-positive, metastatic breast cancer patients who have already used taxane and/or trastuzumab for metastatic disease or had their cancer recur within 6 months of adjuvant treatment. The FDA label has two precautions. First that trastuzumab emtansine and trastuzumab cannot be interchanged. Second that there is a black box warning of serious side effects such as hepatotoxicity, embryo-fetal toxicity, and cardiac toxicity. 
+4. Indication:  Used in HER2-positive, metastatic breast cancer patients who have already used taxane and/or trastuzumab for metastatic disease or had their cancer recur within 6 months of adjuvant treatment.
+DrugId:  8
+1. Name:  MBO7133
+2. Groups:  Investigational
+3. Description:  MB07133 is a HepDirect prodrug of an activated form of cytarabine (araC), an anti-cancer drug that is used to treat leukemia but is ineffective against primary liver cancer. AraC's anti-cancer activity is associated with its ability to be converted to its biologically active form, araCTP. However, araC is only slowly converted to araCTP in the liver or in primary liver tumors due to low levels of an enzyme in the liver that is required for the conversion of araC to araCMP, the first step in the activation pathway of the drug. Higher doses of araC cannot be used to overcome this limitation due to bone marrow toxicity resulting from rapid activation in that tissue. MB07133 uses our HepDirect technology to target a prodrug form of araCMP specifically to the liver. Once in the liver cell, the prodrug is rapidly cleaved, producing araCMP, bypassing the rate-limiting enzyme. Once generated in the target tissue, araCMP is rapidly converted to araCTP, the cancer-killing active form. 
+4. Indication:  Investigated for use/treatment in liver cancer.
+DrugId:  9
+1. Name:  Tirapazamine
+2. Groups:  Investigational
+3. Description:  Tirapazamine (SR-4233) is an experimental anticancer drug that is activated to a toxic radical only at very low levels of oxygen (hypoxia). Such levels are common in human solid tumors, a phenomenon known as tumor hypoxia. Thus, tirapazamine is activated to its toxic form preferentially in the hypoxic areas of solid tumors. Cells in these regions are resistant to killing by radiotherapy and most anticancer drugs. Thus the combination of tirapazamine with conventional anticancer treatments is particularly effective. As of 2006, tirapazamine is undergoing phase III testing in patients with head and neck cancer and gynecological cancer, and similar trials are being undertaken for other solid tumor types. [Wikipedia]
+4. Indication:  For the treatment of head and neck cancer.
+DrugId:  10
+1. Name:  Phenserine
+2. Groups:  Investigational
+3. Description:  Phenserine is under development by Axonyx, a US biopharmaceutical company that focuses on treatments for dementia. Phenserine is a next generation acetylcholinesterase (AChE) inhibitor indicated for the treatment of AD. Unlike currently marketed AChE inhibitors, it has a dual mechanism of action that also includes anti-amyloid activity, which may confer disease-modifying effects in patients with AD. If this is substantiated in an ongoing clinical trial then phenserine may open the door to an entirely new type of treatment for AD. Axonyx announced on 20 September 2005 that phenserine was ineffective in two curtailed phase 3 trials.
+4. Indication:  For the treatment of Alzheimer's disease (AD).
+DrugId:  11
+1. Name:  Necitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Necitumumab is an intravenously administered recombinant monoclonal IgG1 antibody used in the treatment of non-small cell lung cancer (NSCLC) as an EGFR antagonist. It functions by binding to epidermal growth factor receptor (EGFR) and prevents binding of its ligands, a process that is involved in cell proliferation, metastasis, angiogenesis, and malignant progression. Binding of necitumumab to EGFR induces receptor internalization and degradation, thereby preventing further activation of EGFR which is beneficial in NSCLC as many patients have increased protein expression of EGFR. Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC).
+4. Indication:  Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC). It is not indicated for treatment of non-squamous NSCLC. 
+DrugId:  12
+1. Name:  Uridine triacetate
+2. Groups:  Approved, Investigational
+3. Description:  Uridine triacetate, formerly known as vistonuridine, is an orally active prodrug of the naturally occurring nucleoside uridine. It is used for the treatment of hereditary orotic aciduria (Xuriden), or for the emergency treatment of fluorouracil or capecitabine overdose or toxicity (Vistogard). It is provided in the prodrug form as uridine triacetate as this form delivers 4- to 6-fold more uridine into the systemic circulation compared to equimolar doses of uridine itself. When used for the treatment or prevention of toxicity associated with fluorouracil and other antimetabolites, uridine triacetate is utilized for its ability to compete with 5-fluorouracil (5-FU) metabolites for incorporation into the genetic material of non-cancerous cells. It reduces toxicity and cell-death associated with two cytotoxic intermediates: 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). Normally, FdUMP inhibits thymidylate synthase required for thymidine synthesis and DNA replication and repair while FUTP incorporates into RNA resulting in defective strands. As a result, these metabolites are associated with various unpleasant side effects such as neutropenia, mucositis, diarrhea, and hand–foot syndrome. Like many other neoplastic agents, these side effects limit the doses of 5-FU that can be administered, which also affects the efficacy for treatment. By pre-administering with uridine (as the prodrug uridine triacetate), higher doses of 5-FU can be given allowing for improved efficacy and a reduction in toxic side effects [3]. It can also be used as a rescue therapy if severe side effects present within 96 hours after initiation of therapy. Uridine triacetate is also used for the treatment of hereditary orotic aciduria, also known as uridine monophosphate synthase deficiency. This rare congenital autosomal recessive disorder of pyrimidine metabolism is caused by a defect in uridine monophosphate synthase (UMPS), a bifunctional enzyme that catalyzes the final two steps of the de novo pyrimidine biosynthetic pathway. As a result of UMPS deficiency, patients experience a systemic deficiency of pyrimidine nucleotides, accounting for most symptoms of the disease. Additionally, orotic acid from the de novo pyrimidine pathway that cannot be converted to UMP is excreted in the urine, accounting for the common name of the disorder, orotic aciduria. Furthermore, orotic acid crystals in the urine can cause episodes of obstructive uropathy. When administered as the prodrug uridine triacetate, uridine can be used by essentially all cells to make uridine nucleotides, which compensates for the genetic deficiency in synthesis in patients with hereditary orotic aciduria. When intracellular uridine nucleotides are restored into the normal range, overproduction of orotic acid is reduced by feedback inhibition, so that urinary excretion of orotic acid is also reduced.
+4. Indication:  Marketed as the product Xuriden (FDA), uridine triacetate is indicated for the treatment of hereditary orotic aciduria.Marketed as the product Vistogard (FDA), uridine triacetate is indicated for the emergency treatment of adult and pediatric patients in the following situations: following a fluorouracil or capecitabine overdose regardless of the presence of symptoms; or who exhibit early-onset, severe or life-threatening toxicity affecting the cardiac or central nervous system, and/or early-onset, unusually severe adverse reactions (e.g., gastrointestinal toxicity and/or neutropenia) within 96 hours following the end of fluorouracil or capecitabine administration. 
+DrugId:  13
+1. Name:  Deferoxamine
+2. Groups:  Approved, Investigational
+3. Description:  Natural product isolated from Streptomyces pilosus. It forms iron complexes and is used as a chelating agent, particularly in the mesylate form. [PubChem]
+4. Indication:  Used to treat acute iron or aluminum toxicity (an excess of aluminum in the body) in certain patients. Also used in certain patients with anemia who must receive many blood transfusions.
+DrugId:  14
+1. Name:  AP5280
+2. Groups:  Investigational
+3. Description:  AP5280 is a novel N-(2-hydroxypropyl)methacrylamide (HPMA) copolymer-bound platinum (Pt) therapeutic designed to increase the therapeutic index relative to conventional, small-molecule platinum agents.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  15
+1. Name:  Carbenoxolone
+2. Groups:  Experimental
+3. Description:  An agent derived from licorice root. It is used for the treatment of digestive tract ulcers, especially in the stomach. Antidiuretic side effects are frequent, but otherwise the drug is low in toxicity. [PubChem]
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  AZD3409
+2. Groups:  Investigational
+3. Description:  AZD3409 is a farnesyl-transferase inhibitor (FAR) indicated for the treatment of solid tumors. Phase I trials were initiated January 2003, and were ongoing as of February 2004. As of February 2007 the development of AZD3409 had been discontinued.
+4. Indication:  For the treatment of solid tumors.
+DrugId:  17
+1. Name:  XL844
+2. Groups:  Investigational
+3. Description:  XL844 is investigated for the use and treatment solid tumors. XL844 is a solid. XL844 is a potent inhibitor of the checkpoint kinases CHK1 and CHK2, which induce cell cycle arrest in response to a variety of DNA damaging agents. Known drug targets of XL844 including serine/threonine-protein kinase Chk1 and serine/threonine-protein kinase Chk2.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  18
+1. Name:  Huperzine-A
+2. Groups:  Approved, Investigational
+3. Description:  Huperzine-A is a naturally occurring sesquiterpene alkaloid found in the extracts of the firmoss Huperzia serrata. The botanical has traditionally been used in China for the treatment of swelling, fever and blood disorders. Recently in clinical trials in China, it has demonstrated neuroprotective effects. It is currently being investigated as a possible treatment for diseases characterized by neurodegeneration, particularly Alzheimer’s disease. Huperzine A is a cholinesterase inhibitor.
+4. Indication:  Investigated for use/treatment in alzheimer's disease.
+DrugId:  19
+1. Name:  Crofelemer
+2. Groups:  Approved
+3. Description:  Crofelemer, previously known as the investigational drug SP-303, is a novel proanthocyanidin purified from the bark latex of the Amazonian Croton tree Croton lechleri. It is marketed under the brand name Fulyzaq and indicated for the symptomatic treatment of non-infectious diarrhea in adult patients with HIV/AIDS who are taking antiretroviral therapy.
+4. Indication:  For the symptomatic treatment of non-infectious diarrhea in adult patients with HIV/AIDS who are taking antiretroviral therapy.
+DrugId:  20
+1. Name:  Secnidazole
+2. Groups:  Approved
+3. Description:  Secnidazole is a second-generation 5-nitroimidazole antimicrobial that is structurally related to other 5-nitroimidazoles including Metronidazole and Tinidazole, but displays improved oral absorption and longer terminal elimination half-life than antimicrobial agents in this class [1]. Secnidazole is selective against many anaerobic Gram-positive and Gram-negative bacteria and protozoa. In September 2017, FDA granted approval to secnidazole under the market name Solosec as a single-dose oral treatment for bacterial vaginosis, which is a common vaginal infection in women aged 15 to 44 years. The antimicrobial therapy is only intended to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria [FDA Label].
+4. Indication:  Indicated for the treatment of bacterial vaginosis in adult women . 
+DrugId:  21
+1. Name:  Amifostine
+2. Groups:  Approved, Investigational
+3. Description:  A phosphorothioate proposed as a radiation-protective agent. It causes splenic vasodilation and may block autonomic ganglia. [PubChem]
+4. Indication:  For reduction in the cumulative renal toxicity in patients with ovarian cancer (using cisplatin) and moderate to severe xerostomia in patients undergoing post-operative radiation treatment for head and neck cancer.
+DrugId:  22
+1. Name:  Physostigmine
+2. Groups:  Approved, Investigational
+3. Description:  A cholinesterase inhibitor that is rapidly absorbed through membranes. It can be applied topically to the conjunctiva. It also can cross the blood-brain barrier and is used when central nervous system effects are desired, as in the treatment of severe anticholinergic toxicity. [PubChem]
+4. Indication:  For the treatment of glaucoma, and in the treatment of severe anticholinergic toxicity.
+DrugId:  23
+1. Name:  Alpha-methyltryptamine
+2. Groups:  Experimental, Illicit
+3. Description:  A stimulant and psychoactive drug which produces effects similar to 3,4-methylenedioxy-N-methylamphetamine (MDMA), despite being structurally dissimilar.It was developed in the 1960's by Upjohn with the intention for use as an antidepressant. In the 1990's, alpha-methyltryptamine became regulated as a Schedule I controlled substance in the United states. 
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Dimercaprol
+2. Groups:  Approved
+3. Description:  Dimercaprol is a traditional chelating agent developed by British biochemists at Oxford University during World War II. It was developed as an experimental antidote against the arsenic-based poison gas Lewisite. It has been used clinically since 1949 in arsenic, cadmium and mercury poisoning. In addition, it has in the past been used for the treatment of Wilson's disease, a genetic disorder in which the body tends to retain copper. Dimercaprol is a potentially toxic drug, and its use may be accompanied by multiple side effects.
+4. Indication:  For the treatment of arsenic, gold and mercury poisoning. Indicated in acute lead poisoning when used concomitantly with edetate calcium disodium (DB00974).
+DrugId:  25
+1. Name:  CRx-119
+2. Groups:  Investigational
+3. Description:  CRx-119 is a novel synergistic combination drug candidate discovered using the CombinatoRx combination High Throughput Screening (cHTS(TM)) technology with potential therapeutic use in a broad range of immuno-inflammatory conditions. CRx-119 is a combination of a low dose of the steroid prednisolone, 3mg, and amoxapine.
+4. Indication:  Investigated for use/treatment in periodontal disease and rheumatoid arthritis.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Amisulpride
+2. Groups:  Approved, Investigational
+3. Description:  Amisulpride (trade name Solian) is an antipsychotic drug sold by Sanofi-Aventis. It is not approved for use in the United States, but is approved for use in Europe and Australia for the treatment of psychoses and schizophrenia. Additionally, it is approved in Italy for the treatment of dysthymia (under the brand name Deniban). Amisulpride is a selective dopamine antagonist.
+4. Indication:  Investigated for use/treatment in schizophrenia and schizoaffective disorders, mania in bipolar disorder, and depression.
+DrugId:  2
+1. Name:  Terfenadine
+2. Groups:  Approved, Withdrawn
+3. Description:  In the U.S., Terfenadine was superseded by fexofenadine in the 1990s due to the risk of cardiac arrhythmia caused by QT interval prolongation.
+4. Indication:  For the treatment of allergic rhinitis, hay fever, and allergic skin disorders.
+DrugId:  3
+1. Name:  Magnesium sulfate
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A small colorless crystal used as an anticonvulsant, a cathartic, and an electrolyte replenisher in the treatment of pre-eclampsia and eclampsia. It causes direct inhibition of action potentials in myometrial muscle cells. Excitation and contraction are uncoupled, which decreases the frequency and force of contractions. (From AMA Drug Evaluations Annual, 1992, p1083)
+4. Indication:  Used for immediate control of life-threatening convulsions in the treatment of severe toxemias (pre-eclampsia and eclampsia) of pregnancy and in the treatment of acute nephritis in children. Also indicated for replacement therapy in magnesium deficiency, especially in acute hypomagnesemia accompanied by signs of tetany similar to those of hypocalcemia. Also used in uterine tetany as a myometriat relaxant.
+DrugId:  4
+1. Name:  Belinostat
+2. Groups:  Approved, Investigational
+3. Description:  Belinostat is a novel agent that inhibits the enzyme histone deacetylase (HDAC) with a sulfonamide-hydroxamide structure. It was developed as an orphan drug to target hematological malignancies and solid tumors by TopoTarget. The safety and efficacy of belinostat is currently being evaluated for use in combination with traditional front-line therapies for the treatment of PTCL. Intravenous administration of the agent is available as Beleodaq as monotherapy and the dosing regimen involves a 21-day cycle. It was US-approved in July 2014 as a therapeutic agent for relapsed or refractory peripheral T-cell lymphoma.
+4. Indication:  Belinostat is indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL) with manageable safety profile. It is a potential alternative therapy for patients who did not experience adequate response to first-line drugs for PTCL. It can be used in patients with baseline thrombocytopenia [2]. 
+DrugId:  5
+1. Name:  Bepridil
+2. Groups:  Approved, Withdrawn
+3. Description:  A long-acting, non selective, calcium channel blocker with significant anti-anginal activity. The drug produces significant coronary vasodilation and modest peripheral effects. It has antihypertensive and selective anti-arrhythmia activities and acts as a calmodulin antagonist. [PubChem] It is no longer marketed in the United States, as it has been implicated in causing ventricular arrhythmias (ie. Torsade de pointes).
+4. Indication:  For the treatment of hypertension, and chronic stable angina (classic effort-associated angina).
+DrugId:  6
+1. Name:  Azimilide
+2. Groups:  Investigational
+3. Description:  Azimilide is an investigational class III anti-arrhythmic drug that blocks fast and slow components of the delayed rectifier cardiac potassium channels. It is not approved for use in any country, but is currently in clinical trials in the United States.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  7
+1. Name:  Perhexiline
+2. Groups:  Approved, Investigational
+3. Description:  2-(2,2-Dicyclohexylethyl)piperidine. Coronary vasodilator used especially for angina of effort. It may cause neuropathy and hepatitis. [PubChem]
+4. Indication:  For the management of severe angina pectoris.
+DrugId:  8
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  9
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  10
+1. Name:  Sertraline
+2. Groups:  Approved
+3. Description:  Sertraline hydrochloride belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). Despite distinct structural differences between compounds in this class, SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be required before a clinical effect is seen. SSRIs are potent inhibitors of neuronal serotonin reuptake [7]. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute use, SSRIs block serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The overall clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction and headache (see Toxicity section below for a more detailed listing of side effects). Compared to other agents in this class, sertraline may cause greater diarrheal and male sexual dysfunction effects [5]. Sertraline displays a better safety or tolerability profile than other classes of antidepressants [6]. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants or monoamine oxidase inhibitors [7]. Sertraline has shown therapeutic effectiveness as a treatment for major depressive disorder [1], obsessive-compulsive disorder (OCD) [2], panic disorder, post-traumatic stress disorder (PTSD) [3], premenstrual dysphoric disorder (PMDD) [4] and social anxiety disorder (social phobia).
+4. Indication:  For the management of major depressive disorder (MDD), posttraumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (PD) with or without agoraphobia, premenstrual dysphoric disorder (PMDD), and social anxiety disorder (SAD) [FDA Label]. It may be used for premature ejaculation and vascular headaches as off-label indications. 
+DrugId:  11
+1. Name:  Polyestradiol phosphate
+2. Groups:  Approved
+3. Description:  Polymeric phosphoric acid ester of estradiol.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Strawberry
+2. Groups:  Approved
+3. Description:  Strawberry allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Calcium saccharate
+2. Groups:  Approved, Experimental
+3. Description:  Pharmaceutic Aid (Stabilizer)
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Manitimus
+2. Groups:  Investigational
+3. Description:  FK778, a novel compound with multiple mechanisms of action, is efficacious, well tolerated and safe in kidney transplant patients, potentially offering a breakthrough in immunosuppressive therapy.
+4. Indication:  Investigated for use/treatment in immunosuppressive and transplant (rejection).
+DrugId:  15
+1. Name:  Mercuric chloride
+2. Groups:  Experimental
+3. Description:  Mercury chloride (HgCl2). A highly toxic compound that volatizes slightly at ordinary temperature and appreciably at 100 degrees C. It is corrosive to mucous membranes and used as a topical antiseptic and disinfectant. Mercuric chloride was used to disinfect wounds by Arab physicians in the Middle Ages. It continued to be used by Arab doctors into the twentieth century, until modern medicine deemed it unsafe for use. [1]
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Choline alfoscerate
+2. Groups:  Experimental, Investigational
+3. Description:  A component of phosphatidylcholines (lecithins), in which the two hydroxy groups of glycerol are esterified with fatty acids. (From Stedman, 26th ed) It counteracts the effects of urea on enzymes and other macromolecules. [PubChem]
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  3-DIPHENOL-6-NITRO-3H-BENZO[DE]ISOCHROMEN-1-ONE
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  IT-101
+2. Groups:  Investigational
+3. Description:  IT-101 is a conjugate of Insert's proprietary drug delivery molecule, Cyclosert, and the potent anti-cancer compound camptothecin. 
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  19
+1. Name:  2-(3-BROMOPHENYL)-6-[(2-HYDROXYETHYL)AMINO]-1H-BENZO[DE]ISOQUINOLINE-1,3(2H)-DIONE
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Castor oil
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Castor oil is a type of vegetable oil extracted from the seeds of the castor oil plant (Ricinus communis) that is mainly cultivated in India, South Amercia, Africa and China. It is one of the oldest cultivated crops used for commercial purposes such as manufacturing of personal care products or as a renewable resource in the chemical industry. Castor oil a rich source of ricinoleic acid (RA), where the contents may consist of up to 90% ricinoleic, 4% linoleic, 3% oleic, 1% stearic, and less than 1% linolenic fatty acids[1]. By the FDA, castor oil is a food additive permitted for direct addition to food for human consumption. It can be found in hard candies as a release agent and antisticking agent, or in vitamin and mineral tablets as a component of protective coatings.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Titanium dioxide
+2. Groups:  Approved
+3. Description:  Titanium dioxide, also known as titanium(IV) oxide or titania, is the naturally occurring oxide of titanium, chemical formula TiO2. When used as a pigment, it is called titanium white, Pigment White 6 (PW6), or CI 77891. Generally it is sourced from ilmenite, rutile and anatase.
+4. Indication:  In the pharmaceutical industry, titanium dioxide is used in most sunscreens to block UVA and UVB rays, similar to zinc oxide. It is also commonly used as pigment for pharmaceutical products such as gelatin capsules, tablet coatings and syrups.
+DrugId:  22
+1. Name:  Vitamin D
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Vitamin D ultimately comprises a group of lipid-soluble secosteroids responsible for a variety of biological effects, some of which include increasing the intestinal absorption of calcium, magnesium, and phosphate. With reference to human use, there are 2 main forms of vitamin D - vitamin D3 (cholecalciferol) and vitamin D2 (ergocalciferol). When non-specific references are made about 'vitamin d', the references are usually about the use of vitamin D3 and/or D2.Vitamin D3 and D2 require hydroxylation in order to become biologically active in the human body. Since vitamin D can be endogenously synthesized in adequate amounts by most mammals exposed to sufficient quantities of sunlight, vitamin D functions like a hormone on vitamin D receptors to regulate calcium in opposition to parathyroid hormone. Vitamin D plays an essential physiological role in maintaining calcium homeostasis and metabolism. There are several different vitamin D supplements that are given to treat or to prevent osteomalacia and rickets, or to meet the daily criteria of vitamin D consumption.
+4. Indication:  Vitamin D is indicated for use in the treatment of hypoparathyroidism, refractory rickets (also known as vitamin D resistant rickets), and familial hypophosphatemia [FDA Label].
+DrugId:  23
+1. Name:  Sulisobenzone
+2. Groups:  Approved
+3. Description:  Sulisobenzone is an active ingredient in sunscreens and cosmetic products that acts as a UV filter to prevent photodamage of the skin. It is thought to have minimal effect on the reproductive system.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  6-AMINO-BENZO[DE]ISOQUINOLINE-1,3-DIONE
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Pancuronium
+2. Groups:  Approved
+3. Description:  A bis-quaternary steroid that is a competitive nicotinic antagonist. As a neuromuscular blocking agent it is more potent than curare but has less effect on the circulatory system and on histamine release.
+4. Indication:  Used as a muscle relaxant during anesthesia and surgical procedures.

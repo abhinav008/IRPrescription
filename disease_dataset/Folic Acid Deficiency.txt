@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Cobamamide
+2. Groups:  Approved
+3. Description:  Cobamamide is one of the active forms of vitamin B12 that is also known as adenosylcobalamin or dibencozide. This drug is available as a nutritional supplement to prevent vitamin B12 deficiency.Vitamin B12 is a collective term for these variously substituted corrinoids. The principal biochemical participants are two coenzyme forms of Vitamin B12 that are produced and activated in two separate cellular compartments: methylcobalamin in the cytosol and adenosylcobalamin in the mitochondria [7].Vitamin B12 (cyancobalamin, Cbl) has two active co-enzyme forms, methylcobalamin (MeCbl) and adenosylcobalamin (AdCbl). There has been a shift in the treatment of vitamin B12 deficiency such that MeCbl is being extensively used and promoted. This exists despite the fact that both MeCbl and AdCbl are necessary for life and have vastly different metabolic fates and functions. MeCbl is mainly involved along with folate in hematopoiesis and the growth of the brain during childhood. Deficiency of AdCbl disturbs the carbohydrate, fat and amino-acid metabolism, and therefore interferes with the formation of myelin. It is therefore important to treat vitamin B12 deficiency with a combination of MeCbl and AdCbl or hydroxocobalamin or cobalamin [8].Vitamin B12 has important physiological roles including DNA synthesis, myelin formation in the nervous system, red blood cell formation, as well as fatty acid and amino acid metabolism [2]. Please refer to the entry Cyanocobalamin for more information on this entry.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Folic Acid
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (poaceae). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia. [PubChem]
+4. Indication:  For treatment of folic acid deficiency, megaloblastic anemia and in anemias of nutritional supplements, pregnancy, infancy, or childhood.
+DrugId:  3
+1. Name:  Leucovorin
+2. Groups:  Approved
+3. Description:  Folinic Acid (also known as 5-formyl tetrahydrofolic acid or leucovorin) is the 5-formyl derivative of tetrahydrofolic acid, a necessary co-factor in the body. Commercially available leucovorin is composed of a 1:1 racemic mixture of the dextrorotary and levorotary isomers, while levoleucovorin contains only the pharmacologically active levo-isomer. In vitro, the levo-isomer has been shown to be rapidly converted to the biologically available methyl-tetrahydrofolate form while the dextro form is slowly excreted by the kidneys. Despite this difference in activity, the two commercially available forms have been shown to be pharmacokinetically identical and may be used interchangeably with limited differences in efficacy or side effects (Kovoor et al, 2009). As folate analogs, leucovorin and levoleucovorin are both used to counteract the toxic effects of folic acid antagonists, such as methotrexate, which act by inhibiting the enzyme dihydrofolate reductase (DHFR). They are indicated for use as rescue therapy following use of high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Injectable forms are also indicated for use in the treatment of megaloblastic anemias due to folic acid deficiency when oral therapy is not feasible and for use in combination with 5-fluorouracil to prolong survival in the palliative treatment of patients with advanced colorectal cancer. Folic acid is an essential B vitamin required by the body for the synthesis of purines, pyrimidines, and methionine before incorporation into DNA or protein. However, in order to function in this role, it must first be reduced by the enzyme dihydrofolate reductase (DHFR) into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF). This important pathway, which is required for de novo synthesis of nucleic acids and amino acids, is disrupted when high-dose methotrexate is used for cancer therapy. As methotrexate functions as a DHFR inhibitor to prevent DNA synthesis in rapidly dividing cells, it also prevents the formation of DHF and THF. This results in a deficiency of coenzymes and a resultant buildup of toxic substances that are responsible for numerous adverse side effects associated with methotrexate therapy. As levoleucovorin and leucovorin are analogs of tetrahydrofolate (THF), they are able to bypass DHFR reduction and act as a cellular replacement for the co-factor THF, thereby preventing these toxic side effects.
+4. Indication:  For the treatment of osteosarcoma (after high dose methotrexate therapy). Used to diminish the toxicity and counteract the effects of impaired methotrexate elimination and of inadvertent overdosages of folic acid antagonists, and to treat megaloblastic anemias due to folic acid deficiency. Also used in combination with 5-fluorouracil to prolong survival in the palliative treatment of patients with advanced colorectal cancer.
+DrugId:  4
+1. Name:  Tetrahydrofolic acid
+2. Groups:  Nutraceutical
+3. Description:  Tetrahydrofolic acid is a folic acid derivative. It is produced from dihydrofolic acid by dihydrofolate reductase. It is converted into 5,10-methylenetetrahydrofolate by serine hydroxymethyltransferase. It is a coenzyme in many reactions, especially in the metabolism of amino acids and nucleic acids. It acts as a donor of a group with one carbon atom. It gets this carbon atom by sequestering formaldehyde produced in other processes.
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  5
+1. Name:  Levomefolic acid
+2. Groups:  Approved, Investigational
+3. Description:  Levomefolic acid (INN) is the metabolite of folic acid (Vitamin B9) and it is a predominant active form of folate found in foods and in the blood circulation, accounting for 98% of folates in human plasma [8]. It is transported across the membranes including the blood-brain barrier into various tissues where it plays an essential role in the DNA synthesis, cysteine cycle and regulation of homocysteine, where it methylates homocysteine and forms methionine and tetrahydrofolate (THF). Levomefolate is approved as a food additive and is designated a GRAS (generally regarded as safe) compound [13]. It is available commercially as a crystalline form of the calcium salt (Metafolin(R)), which has the stability required for use as a supplement [8]. Supplementation of levomefolic acid is desired over folic acid due to reduced potential for masking vitamin B12 deficiency symptoms.
+4. Indication:  For the treatment and prevention of folate deficiency and for use as an antidote against folic acid antagonists. Contained in oral contraceptives to reduce the risk of neural tube defects arising from folic acid deficiency for pregnant women who conceived during use or shortly after the discontinuation of the product. Being studied for use as a treatment for cardiovascular diseases [7] and adjunct therapy for patients undergoing antidepressant pharmacotherapy [5, 6].
+DrugId:  6
+1. Name:  Aminopterin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Aminopterin is an amino derivative of folic acid, which was once used as an antineoplastic agent in the treatment of pediatric leukemia. In the 1950's its production was discontinued in favor of methotrexate, which is less potent but less toxic. Off label, aminopterin has also been used in the treatment of psoriasis. Clinicians need to be aware of the characteristic teratologic effects of aminopterin and methotrexate. 
+4. Indication:  Prior to its withdrawal, aminopterin was initially used in the treatment of childhood leukemia; specifically to induce remissions. Later, aminopterin was used off-label in the United States to treat psoriasis, yielding dramatic lesion clearing. Aminopterin was later supplanted by methotrexate for treating cancer because of its better therapeutic index. Aminopterin (as well as methotrexate) has also been explored for use as an abortifacient. However, their association with severe congenital malformations and teratogenic effects have become known as fetal aminopterin syndrome. 
+DrugId:  7
+1. Name:  Potassium gluconate
+2. Groups:  Approved, Experimental
+3. Description:  Potassium gluconate is a source of potassium that is consisted of potassium cations and the conjugate base of gluconic acid. It has the formula C6H11KO7. It is found in mineral supplements and sequestrants including OTC products to prevent potassium deficiency.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Hydroxocobalamin
+2. Groups:  Approved
+3. Description:  Hydroxocobalamin, also known as vitamin B12a and hydroxycobalamin, is an injectable form of vitamin B 12 that has been used therapeutically to treat vitamin B 12 deficiency. Other uses include cyanide poisoning, Leber's optic atrophy, and toxic amblyopia.
+4. Indication:  For treatment of pernicious anemia and the prevention and treatment of vitamin B12 deficiency arising from alcoholism, malabsorption, tapeworm infestation, celiac, hyperthyroidism, hepatic-biliary tract disease, persistent diarrhea, ileal resection, pancreatic cancer, renal disease, prolonged stress, vegan diets, macrobiotic diets or other restrictive diets. Also for the treatment of known or suspected cyanide poisoning.
+DrugId:  9
+1. Name:  Levoleucovorin
+2. Groups:  Approved, Investigational
+3. Description:  Levoleucovorin is the enantiomerically active form of Folinic Acid (also known as 5-formyl tetrahydrofolic acid or leucovorin). Commercially available leucovorin is composed of a 1:1 racemic mixture of the dextrorotary and levorotary isomers, while levoleucovorin contains only the pharmacologically active levo-isomer. In vitro, the levo-isomer has been shown to be rapidly converted to the biologically available methyl-tetrahydrofolate form while the dextro form is slowly excreted by the kidneys. Despite this difference in activity, the two commercially available forms have been shown to be pharmacokinetically identical and may be used interchangeably with limited differences in efficacy or side effects (Kovoor et al, 2009). As folate analogs, levoleucovorin and leucovorin are both used to counteract the toxic effects of folic acid antagonists, such as methotrexate, which act by inhibiting the enzyme dihydrofolate reductase (DHFR). They are indicated for use as rescue therapy following use of high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Levoleucovorin, as the product Fusilev (FDA), has an additional indication for use in combination chemotherapy with 5-fluorouracil in the palliative treatment of patients with advanced metastatic colorectal cancer. Folic acid is an essential B vitamin required by the body for the synthesis of purines, pyrimidines, and methionine before incorporation into DNA or protein. However, in order to function in this role, it must first be reduced by the enzyme dihydrofolate reductase (DHFR) into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF). This important pathway, which is required for de novo synthesis of nucleic acids and amino acids, is disrupted when high-dose methotrexate is used for cancer therapy. As methotrexate functions as a DHFR inhibitor to prevent DNA synthesis in rapidly dividing cells, it also prevents the formation of DHF and THF. This results in a deficiency of coenzymes and a resultant buildup of toxic substances that are responsible for numerous adverse side effects of methotrexate therapy. As levoleucovorin and leucovorin are analogs of tetrahydrofolate (THF), they are able to bypass DHFR reduction and act as a cellular replacement for the co-factor THF, thereby preventing these toxic side effects.
+4. Indication:  Levoleucovorin is indicated for use as rescue therapy following high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Levoleucovorin, as the product Fusilev (FDA, dosed at one-half the usual dose of racemic d,l-leucovorin), has an additional indication for use in combination chemotherapy with 5-fluorouracil in the palliative treatment of patients with advanced metastatic colorectal cancer (although they should not be mixed in the same infusion as a precipitate may form).
+DrugId:  10
+1. Name:  Iron Dextran
+2. Groups:  Approved, Vet approved
+3. Description:  Iron dextran is a dark brown, slightly viscous liquid complex of ferric hydroxide and dextran for intravenous or intramuscular use. Iron Dextran is used for the treatment of patients with documented iron deficiency in which oral administration is unsatisfactory or impossible. 
+4. Indication:  For treatment of patients with documented iron deficiency in whom oral administration is unsatisfactory or impossible. Also used to replenish body iron stores in Non-Dialysis Dependent-Chronic Kidney Disease (NDD-CKD) patients receiving or not receiving erythropoietin and in Hemodialysis Dependent (HDD-CKD) and Peritoneal Dialysis Dependent (PDD-CKD) - Chronic Kidney Disease patients receiving an erythropoietin.
+DrugId:  11
+1. Name:  Sulfadoxine
+2. Groups:  Approved, Investigational
+3. Description:  A long acting sulfonamide that is used, usually in combination with other drugs, for respiratory, urinary tract, and malarial infections. [PubChem]
+4. Indication:  Sulfadoxine is used in combination with pyrimethamine for the treatment or prevention of malaria. It can also be used to treat various infections in livestock as well.Sulfadoxine and pyrimethamine is indicated for the treatment of Plasmodium falciparum malaria in those patients in whom chloroquine resistance is suspected. 
+DrugId:  12
+1. Name:  Iron
+2. Groups:  Approved
+3. Description:  A metallic element found in certain minerals, in nearly all soils, and in mineral waters. It is an essential constituent of hemoglobin, cytochrome, and other components of respiratory enzyme systems. Its chief functions are in the transport of oxygen to tissue (hemoglobin) and in cellular oxidation mechanisms. Depletion of iron stores may result in iron-deficiency anemia. Iron is used to build up the blood in anemia.
+4. Indication:  Used in preventing and treating iron-deficiency anemia.
+DrugId:  13
+1. Name:  Cyanocobalamin
+2. Groups:  Approved, Nutraceutical
+3. Description:  Cyanocobalamin (commonly known as Vitamin B12) is the most chemically complex of all vitamins. Its chemical structure is based on a corrin ring, which, although quite similar to the porphyrin ring found in heme, chlorophyll, and cytochrome, has two of the pyrrole rings directly bonded. The central metal ion in cyanocobalamin is Co (cobalt). Cyanocobalamin (Vitamin B12) is not produced by plants or by animals. The only organisms that have the enzymes required for the synthesis of cyanocobalamin are bacteria and archaea [10].Higher plants do not utilize cyanocobalamin from the soil, and are therefore a poor source of the substance as compared with animal tissues, which are potent in cyanocobalamin [10].Vitamin B12 is naturally found in animal products, including fish, meat, poultry, eggs, milk, and milk products. Vitamin B12 is generally not present in plant foods, but fortified breakfast cereals are a readily available source of vitamin B12 with high bioavailability for vegetarian consumers. Various nutritional yeast products also contain vitamin B12 [12].The main causes of vitamin B12 deficiency include vitamin B12 malabsorption, pernicious anemia, postsurgical malabsorption, and lastly, dietary deficiency. In many cases, however, the cause of deficiency is unknown [12].
+4. Indication:  For treatment of pernicious anemia (due to lack of or inhibition of intrinsic factor) and for prevention and treatment of vitamin B 12 deficiency [12], [15].Values below approximately 170–250 pg/mL (120–180 picomol/L) for adults suggest a vitamin B12 deficiency. Despite this, evidence suggests that serum vitamin B12 concentrations may not accurately reflect intracellular concentrations of the vitamin [12]. It is therefore difficult to diagnose vitamin B12 deficiency.
+DrugId:  14
+1. Name:  Ferrous asparto glycinate
+2. Groups:  Approved
+3. Description:  Ferrous asparto glycinate is an iron-amino acid chelate. It is available as a dietary supplement used in the treatment of iron deficiency and iron deficiency anemia.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Oxymetholone
+2. Groups:  Approved, Illicit
+3. Description:  Oxymetholone is a synthetic anabolic steroid marketed under the brand name Anapolon by Hoffmann La Roche Limited. Its primary clinical applications include treatment of osteoporosis and anaemia, as well as stimulating muscle growth in malnourished or underdeveloped patients. Anabolic-androgenic steroids (AAS), such as oxymetholone, have been abused by bodybuilders and athletes. The uncontrolled misuse of oxymetholone can lead to a large variety of detrimental effects, the most often reported of which are cardiovascular events. In 2009, no producers of oxymetholone were identified worldwide (SRI 2009), but it was available from 14 suppliers, including 8 U.S. suppliers (ChemSources 2009).
+4. Indication:  Indicated in the treatment of anemias caused by deficient red cell production. Acquired aplastic anemia, congenital aplastic anemia, myelofibrosis and the hypoplastic anemias due to the administration of myelotoxic drugs often respond. Oxymetholone should not replace other supportive measures such as transfusion, correction of iron, folic acid, vitamin B12 or pyridoxine deficiency, antibacterial therapy and the appropriate use of corticosteroids. 
+DrugId:  16
+1. Name:  Pyridoxine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. [PubChem]
+4. Indication:  For the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy.
+DrugId:  17
+1. Name:  Trimetrexate
+2. Groups:  Approved, Investigational
+3. Description:  A nonclassical folic acid inhibitor through its inhibition of the enzyme dihydrofolate reductase. It is being tested for efficacy as an antineoplastic agent and as an antiparasitic agent against pneumocystis pneumonia in AIDS patients. Myelosuppression is its dose-limiting toxic effect.
+4. Indication:  For use, with concurrent leucovorin administration (leucovorin protection), as an alternative therapy for the treatment of moderate-to-severe Pneumocystis carinii pneumonia (PCP) in immunocompromised patients, including patients with the acquired immunodeficiency syndrome (AIDS). Also used to treat several types of cancer including colon cancer.
+DrugId:  18
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  19
+1. Name:  Vitamin C
+2. Groups:  Approved, Nutraceutical
+3. Description:  A six carbon compound related to glucose. It is found naturally in citrus fruits and many vegetables. Ascorbic acid is an essential nutrient in human diets, and necessary to maintain connective tissue and bone. Its biologically active form, vitamin C, functions as a reducing agent and coenzyme in several metabolic pathways. Vitamin C is considered an antioxidant.
+4. Indication:  Used to treat vitamin C deficiency, scurvy, delayed wound and bone healing, urine acidification, and in general as an antioxidant. It has also been suggested to be an effective antiviral agent.
+DrugId:  20
+1. Name:  Olipudase alfa
+2. Groups:  Investigational
+3. Description:  Olipudase alfa has been used in trials studying the treatment of Sphingomyelin Lipidosis and Human Acid Sphingomyelinase Deficiency.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Choline
+2. Groups:  Approved, Nutraceutical
+3. Description:  A basic constituent of lecithin that is found in many plants and animal organs. It is important as a precursor of acetylcholine, as a methyl donor in various metabolic processes, and in lipid metabolism. [PubChem]
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  22
+1. Name:  Cupric oxide
+2. Groups:  Approved
+3. Description:  Cupric oxide, or copper (II) oxide, is an inorganic compound with the chemical formula CuO. Cupric oxide is used as a precursor in many copper-containing products such as wood preservatives and ceramics.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Sulfacytine
+2. Groups:  Approved
+3. Description:  Sulfacytine is a short-acting sulfonamide. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of p-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections.Sulfacytine is a competitive inhibitor of the enzyme dihydropteroate synthetase. It inhibits bacterial synthesis of of dihydrofolic acid by preventing the condensation of the pteridine with para-aminobenzoic acid (PABA), a substrate of the enzyme dihydropteroate synthetase. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.
+4. Indication:  Used orally in the treatment of acute urinary tract infections.
+DrugId:  24
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Lometrexol
+2. Groups:  Investigational
+3. Description:  Lometrexol has been used in trials studying the treatment of Lung Cancer, Drug/Agent Toxicity by Tissue/Organ, and Unspecified Adult Solid Tumor, Protocol Specific.
+4. Indication:  Not Available

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Docosanol
+2. Groups:  Approved, Investigational
+3. Description:  Docosanol is a drug used for topical treatment for recurrent herpes simplex labialis episodes (episodes of cold sores or fever blisters). A saturated 22-carbon aliphatic alcohol, docosanol exhibits antiviral activity against many lipid enveloped viruses including herpes simplex virus (HSV). Docosanol inhibits fusion between the plasma membrane and the herpes simplex virus (HSV) envelope, thereby preventing viral entry into cells and subsequent viral replication.
+4. Indication:  For the topical treatment of recurrent oral-facial herpes simplex episodes (cold sores or fever blisters).
+DrugId:  2
+1. Name:  NV1020
+2. Groups:  Investigational
+3. Description:  NV1020, a genetically engineered herpes simplex virus, is a novel anticancer therapeutic.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  3
+1. Name:  Amenamevir
+2. Groups:  Investigational
+3. Description:  Amenamevir has been used in trials studying the treatment of Herpes Zoster, Herpes Simplex, Herpes Genitalis, and Safety of Amenamevir.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Famciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Famciclovir is a guanine analogue antiviral drug used for the treatment of various herpes virus infections, most commonly for herpes zoster (shingles). It is a prodrug form of penciclovir with improved oral bioavailability. Famciclovir is marketed under the trade name Famvir (Novartis).
+4. Indication:  For the treatment of acute herpes zoster (shingles). Also for the treatment or suppression of recurrent genital herpes in immunocompetent patients and treatment of recurrent mucocutaneous herpes simplex infections in HIV infected patients.
+DrugId:  5
+1. Name:  Talimogene laherparepvec
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Talimogene laherparepvec is an oncolytic treatment used in local treatment of unresectable cutaneous, subcutaneous, and nodal lesions in patients with recurrent melanoma. It is a genetically administered herpes simplex virus 1 (HSV-1) that expresses human cytokine granulocyte-macrophage colony stimulating factor (GM-CSF) with antitumor and immune-stimulating activities. It specifically replicates within tumor cells and causes lysis. It was approved by the FDA in 2015 under the market name Imlygic.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Valaciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Valaciclovir (INN) or valacyclovir (USAN) is an antiviral drug used in the management of herpes simplex and herpes zoster (shingles). It is a prodrug, being converted in vivo to aciclovir. It is marketed by GlaxoSmithKline under the trade name Valtrex or Zelitrex. [Wikipedia]
+4. Indication:  For the treatment or suppression of cold sores (herpes labialis), herpes zoster (shingles), genital herpes in immunocompetent individuals, and recurrent genital herpes in HIV-infected individuals.
+DrugId:  7
+1. Name:  Idoxuridine
+2. Groups:  Approved, Investigational
+3. Description:  An analog of deoxyuridine that inhibits viral DNA synthesis. The drug is used as an antiviral agent. [PubChem]
+4. Indication:  For use in keratoconjunctivitis and keratitis caused by herpes simplex virus.
+DrugId:  8
+1. Name:  Aciclovir
+2. Groups:  Approved
+3. Description:  A guanosine analog antiviral drug that acts as an antimetabolite. Aciclovir is used for the treatment of herpes simplex virus infections, varicella zoster (chickenpox) and herpes zoster (shingles).Aciclovir has also been investigated for the treatment of herpes labialis applied using an iontophoretic device. Currently approved drugs for the treatment of herpes labialis (cold sores) exhibit low levels of efficacy due to the limited ability of the drugs to penetrate the skin to the site where the herpes virus is replicating. Iontophoresis uses electric current to enhance the delivery of drugs through the skin.
+4. Indication:  For the treatment and management of herpes zoster (shingles), genital herpes, and chickenpox. 
+DrugId:  9
+1. Name:  Trifluridine
+2. Groups:  Approved, Investigational
+3. Description:  An antiviral derivative of thymidine used mainly in the treatment of primary keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus. (From Martindale, The Extra Pharmacopoeia, 30th ed, p557)
+4. Indication:  Ophthalmic solution for the treatment of primay keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus, types 1 and 2.
+DrugId:  10
+1. Name:  Dehydroascorbic Acid
+2. Groups:  Experimental
+3. Description:  Dehydroascorbic acid is made from the oxidation of ascorbic acid. This reaction is reversible, but dehydroascorbic acid can instead undergo irreversible hydrolysis to 2,3-diketogulonic acid. Dehydroascorbic acid as well as ascorbic acid are both termed Vitamin C, but the latter is the main form found in humans. In the body, both dehydroascorbic acid and ascorbic acid have similar biological activity as antivirals but dehydroascorbic acid also has neuroprotective effects. Currently dehydroascorbic acid is an experimental drug with no known approved indications.
+4. Indication:  There is no approved indication for dehydroascorbic acid, but it has potential therapeutic use in patients with certain viruses and ischemic stroke.
+DrugId:  11
+1. Name:  Edoxudine
+2. Groups:  Approved, Experimental
+3. Description:  Edoxudine is also known as 5-Ethyl-2'-deoxyuridine. It is a thymidine analogue with antiviral and anticancer properties. In vitro studies demonstrates the inhibitory effect of edoxudine on the replication of herpes simplex virus type 1 (HSV-1) and 2 (HSV-2) via being phosphorylated by HSV-infected cells and getting incorporated into viral DNA. Its clinical use is still being studied.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  G207
+2. Groups:  Investigational
+3. Description:  G207 is cancer-killing viruses, so-called oncolytic viruses, for the treatment of various forms of cancer developed by MediGene AG. These viruses are specific herpes simplex viruses, or HSVs, generally known as the cause of cold sores. MediGene uses these viruses, however, in a modified and "disarmed" form in order to make them utilizable as a therapeutic agent in humans.
+4. Indication:  Investigated for use/treatment in brain cancer.
+DrugId:  13
+1. Name:  Seliciclib
+2. Groups:  Investigational
+3. Description:  R-roscovitine (Seliciclib or CYC202) is a trial drug in the family of pharmacological cyclin-dependent kinase (CDK) inhibitors that preferentially inhibit multiple enzyme targets including CDK2, CDK7 and CDK9, which alter the growth phase or state within the cell cycle of treated cells. Seliciclib is being developed by Cyclacel. Seliciclib is being researched for the treatment of non-small cell lung cancer (NSCLC), leukemia, HIV infection, herpes simplex infection, and the mechanisms of chronic inflammation disorders.
+4. Indication:  Investigated for use/treatment in breast cancer, lung cancer, lymphoma (unspecified), multiple myeloma, leukemia (lymphoid), and cancer/tumors (unspecified).
+DrugId:  14
+1. Name:  Vidarabine
+2. Groups:  Approved, Investigational
+3. Description:  A nucleoside antibiotic isolated from Streptomyces antibioticus. It has some antineoplastic properties and has broad spectrum activity against DNA viruses in cell cultures and significant antiviral activity against infections caused by a variety of viruses such as the herpes viruses, the vaccinia VIRUS and varicella zoster virus. [PubChem]
+4. Indication:  For treatment of chickenpox - varicella, herpes zoster and herpes simplex
+DrugId:  15
+1. Name:  2-deoxyglucose
+2. Groups:  Experimental, Investigational
+3. Description:  2-deoxyglucose is predominantly used as a diagnostic agent in its radiolabelled form (fluorine-18 is used as the radiolabel). By using positron emission tomography (PET), radiolabelled 2-deoxyglucose can determine glucose metabolism, which is altered in diseases such as cardiovascular disease, tumors, and Alzheimer's disease. Therapeutically, 2-deoxyglucose is an investigational drug that is being studied as an anticancer and antiviral agent. Concerning the former, 2- deoxyglucose was used as an adjunct to chemotherapy and radiotherapy in the treatment of solid tumors (lung, breast, pancreas, head, neck, and gastric tumors). The exact mechanisms of action of 2-deoxyglucose is still being investigated, but it is known that in hypoxic cancer cells, 2-deoxyglucose is a glycolysis inhibitor that prevents ATP production and, ultimately, cell survival. With respect to antiviral therapy, 2-deoxyglucose was shown to be effective against herpes simplex virus by affecting the virus' ability to penetrate cells. As an experimental drug, 2-deoxyglucose was demonstrated to work as an anticonvulsant in temporal lobe epilepsy. In this condition, 2-deoxyglucose represses the expression of certain proteins that are at high levels after a seizure. Although there are several possible therapeutic indications for 2-deoxyglucose, presently there is no approved indication for 2-deoxyglucose as a therapeutic agent.
+4. Indication:  As of July 2013, there is no approved therapeutic indication for 2-deoxyglucose. 2-deoxyglucose may have several potential indications as an adjunct to chemotherapy and radiotherapy in the treatment of solid tumors, as an antiviral treatment in herpes simplex patients, and as an antiepileptic in temporal lobe epilepsy patients.
+DrugId:  16
+1. Name:  Foscarnet
+2. Groups:  Approved
+3. Description:  An antiviral agent used in the treatment of cytomegalovirus retinitis. Foscarnet also shows activity against human herpesviruses and HIV. [PubChem]
+4. Indication:  For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS) and for treatment of acyclovir-resistant mucocutaneous HSV infections in immunocompromised patients.
+DrugId:  17
+1. Name:  L-Lysine
+2. Groups:  Approved, Nutraceutical
+3. Description:  L-Lysine (abbreviated as Lys or K) is an α-amino acid with the chemical formula HO2CCH(NH2)(CH2)4NH2. This amino acid is an essential amino acid, which means that humans cannot synthesize it. Its codons are AAA and AAG. L-Lysine is a base, as are arginine and histidine. The ε-amino group often participates in hydrogen bonding and as a general base in catalysis. Common posttranslational modifications include methylation of the ε-amino group, giving methyl-, dimethyl-, and trimethyllysine. The latter occurs in calmodulin. Other posttranslational modifications include acetylation. Collagen contains hydroxylysine which is derived from lysine by lysyl hydroxylase. O-Glycosylation of lysine residues in the endoplasmic reticulum or Golgi apparatus is used to mark certain proteins for secretion from the cell.
+4. Indication:  Supplemental L-lysine has putative anti-herpes simplex virus activity. There is preliminary research suggesting that it may have some anti-osteoporotic activity.
+DrugId:  18
+1. Name:  Inosine pranobex
+2. Groups:  Approved
+3. Description:  Inosine pranobex (Isoprinosine or Methisoprinol) is a combination of inosine, acetamidobenzoic acid, and dimethylaminoisopropanol used as an antiviral drug.
+4. Indication:  Inosine pranobex is also indicated for mucocutaneous infections due to herpes simplex virus (type 1 and type II) and for treatment of genital warts as adjunctive therapy to podophyllin or carbon dioxide laser. 
+DrugId:  19
+1. Name:  Resveratrol
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Resveratrol (3,5,4'-trihydroxystilbene) is a polyphenolic phytoalexin. It is a stilbenoid, a derivate of stilbene, and is produced in plants with the help of the enzyme stilbene synthase. It exists as two structural isomers: cis-(Z) and trans-(E), with the trans-isomer shown in the top image. The trans- form can undergo isomerisation to the cis- form when heated or exposed to ultraviolet irradiation. In a 2004 issue of Science, Dr. Sinclair of Harvard University said resveratrol is not an easy molecule to protect from oxidation. It has been claimed that it is readily degraded by exposure to light, heat, and oxygen. However, studies find that Trans-resveratrol undergoes negligible oxidation in normal atmosphere at room temperature.
+4. Indication:  Being investigated for the treatment of Herpes labialis infections (cold sores).
+DrugId:  20
+1. Name:  Penciclovir
+2. Groups:  Approved
+3. Description:  Penciclovir is a guanine analogue antiviral drug used for the treatment of various herpesvirus infections. It is a nucleoside analogue which exhibits low toxicity and good selectivity. [Wikipedia]
+4. Indication:  Used to treat recurrent cold sores on the lips and face from various herpesvirus invections.
+DrugId:  21
+1. Name:  Sodium lauryl sulfate
+2. Groups:  Approved
+3. Description:  Sodium Lauryl Sulfate (SLS) is an anionic surfactant naturally derived from coconut and/or palm kernel oil. It usually consists of a mixture of sodium alkyl sulfates, mainly the lauryl. SLS lowers surface tension of aqueous solutions and is used as fat emulsifier, wetting agent, and detergent in cosmetics, pharmaceuticals and toothpastes. It is also used in creams and pastes to properly disperse the ingredients and as research tool in protein biochemistry. SLS also has some microbicidal activity. 
+4. Indication:  SLS is used as a surfactant in shampoos and toothpastes. SLS also has microbicidal activities against both enveloped (Herpes simplex viruses, HIV-1, Semliki Forest virus) and nonenveloped (papillomaviruses, reovirus, rotavirus and poliovirus) viruses, although it has not been approved for this use.
+DrugId:  22
+1. Name:  Ganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  An acyclovir analog that is a potent inhibitor of the Herpesvirus family including cytomegalovirus. Ganciclovir is used to treat complications from AIDS-associated cytomegalovirus infections. [PubChem]
+4. Indication:  For induction and maintenance in the treatment of cytomegalovirus (CMV) retinitis in immunocompromised patients, including patients with acquired immunodeficiency syndrome (AIDS). Also used in the treatment of severe cytomegalovirus (CMV) disease, including CMV pneumonia, CMV gastrointestinal disease, and disseminated CMV infections, in immunocompromised patients.
+DrugId:  23
+1. Name:  HSV-2 theracine
+2. Groups:  Investigational
+3. Description:  HSV-2 theracine is an attenuated recombinant vaccine developed by AuRx for the treatment of genital herpes.
+4. Indication:  Investigated for use/treatment in genital herpes.
+DrugId:  24
+1. Name:  Zucapsaicin
+2. Groups:  Approved, Investigational
+3. Description:  Zucapsaicin, the cis-isomer of capsaicin, is a topical analgesic used to treat osteoarthritis of the knee and other neuropathic pain. It is a modulator of transient receptor potential cation channel subfamily V member 1 (TRPV-1), also known as the vanilloid or capsaicin receptor 1, that reduces pain and improves articular functions. Zucapsaicin has also been tested for treatment of a variety of conditions associated with ongoing nerve pain. This includes herpes simplex infections; cluster headaches and migraine; and knee osteoarthritis. It was approved by the Health Canada in 2010 as topical cream marketed under the brand name Zuacta but currently not FDA-approved.
+4. Indication:  Indicated to be used in conjunction with oral COX-2 inhibitors or NSAIDs for the relief of severe pain in adult patients with osteoarthritis of the knee, not controlled with oral COX-2 inhibitors or NSAIDs alone, for a duration of no more than three months. 
+DrugId:  25
+1. Name:  ME-609
+2. Groups:  Investigational
+3. Description:  ME-609 is a Medivir’s combination treatment against labial herpes which suppresses the virus while moderating the immune system’s reaction. Clinical trials demonstrated that cold sores become far smaller, and in a significant number of cases, do not arise. This concept is highly competitive since none of the market’s current pharmaceuticals can prevent the incidence of cold sores.
+4. Indication:  Investigated for use/treatment in herpes labialis infections (cold sores).

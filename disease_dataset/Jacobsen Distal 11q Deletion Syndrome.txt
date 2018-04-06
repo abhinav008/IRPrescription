@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Spironolactone
+2. Groups:  Approved
+3. Description:  A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)
+4. Indication:  Used primarily to treat low-renin hypertension, hypokalemia, and Conn's syndrome.
+DrugId:  2
+1. Name:  Fludrocortisone
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic mineralocorticoid with anti-inflammatory activity. [PubChem]
+4. Indication:  For partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenogenital syndrome.
+DrugId:  3
+1. Name:  Trichlormethiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with properties similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p830)
+4. Indication:  Used in the treatment of oedema (including that associated with heart failure) and hypertension.
+DrugId:  4
+1. Name:  Venetoclax
+2. Groups:  Approved, Investigational
+3. Description:  Venetoclax is an oral selective inhibitor of B-Cell Lymphoma-2 (BCL-2), an antiapoptotic protein that plays a key role in the development of chronic lymphocytic leukemia (CLL) cells. BCL-2 and its related proteins BCL-XL and MCL-1 bind to and sequester pro-apoptotic signals in the cell, causing a down-regulation of apoptosis. As an oncogene and an important regulator of apoptosis, BCL-2 overexpression therefore results in increased tumour cell survival and resistance to chemotherapy. Venetoclax helps restore the process of apoptosis by binding directly to the BCL-2 protein, displacing pro-apoptotic proteins like BIM, triggering mitochondrial outer membrane permeabilization and the activation of caspases. Compared to navitoclax, a duel inhibitor of BCL-2 and BCL-XL, venetoclax use results in significantly less platelet killing and thrombocytopenia. This is due to its specificity for BCL-2 and sparing of BCL-XL, which is required for platelet survival. In 2015, the United States Food and Drug Administration (FDA) granted Breakthrough Therapy Designation to venetoclax for patients with CLL who have relapsed or have been refractory to previous treatment and have the 17p deletion genetic mutation. It was approved by the FDA in April 2016.
+4. Indication:  For the treatment of patients with chronic lymphocytic leukemia (CLL) with 17p deletion, as detected by an FDA approved test, who have received at least one prior therapy.
+DrugId:  5
+1. Name:  Teduglutide
+2. Groups:  Approved
+3. Description:  Teduglutide is a glucagon-like peptide-2 (GLP-2) analogue. It is made up of 33 amino acids and is manufactured using a strain of Escherichia coli modified by recombinant DNA technology. Teduglutide differs from GLP-2 by one amino acid (alanine is substituted by glycine). The significance of this substitution is that teduglutide is longer acting than endogenous GLP-2 as it is more resistant to proteolysis from dipeptidyl peptidase-4. FDA approved on December 21, 2012.
+4. Indication:  Treatment of short bowel syndrome (SBS), malabsorption associated with the removal of the intestine, in adults patients who are dependent on parenteral support. 
+DrugId:  6
+1. Name:  Ty800
+2. Groups:  Investigational
+3. Description:  Ty800 is a vaccine designed to offer rapid, oral, single-dose protection against Salmonella typhi, the cause of typhoid fever. The Ty800 vaccine was developed using genetic techniques to delete specific genes known to be essential to the virulence of S. typhi. It is being developed by AVANT Immunotherapeutics, Inc.
+4. Indication:  For the production of immunity to Salmonella typhi, the cause of typhoid fever.
+DrugId:  7
+1. Name:  Lanoteplase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  8
+1. Name:  Cyclothiazide
+2. Groups:  Approved
+3. Description:  As a diuretic, cyclothiazide inhibits active chloride reabsorption at the early distal tubule via the Na-Cl cotransporter, resulting in an increase in the excretion of sodium, chloride, and water. Thiazides like cyclothiazide also inhibit sodium ion transport across the renal tubular epithelium through binding to the thiazide sensitive sodium-chloride transporter. This results in an increase in potassium excretion via the sodium-potassium exchange mechanism. The antihypertensive mechanism of cyclothiazide is less well understood although it may be mediated through its action on carbonic anhydrases in the smooth muscle or through its action on the large-conductance calcium-activated potassium (KCa) channel, also found in the smooth muscle. Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+4. Indication:  Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  9
+1. Name:  Ergocalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Ergocalciferol (Vitamin D2) is a derivative of ergosterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from cholecalciferol in having a double bond between C22 and C23 and a methyl group at C24.
+4. Indication:  For use in the management of hypocalcemia and its clinical manifestations in patients with hypoparathyroidism, as well as for the treatment of familial hypophosphatemia (vitamin D resistant rickets). This drug has also been used in the treatment of nutritional rickets or osteomalacia, vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  10
+1. Name:  Triamterene
+2. Groups:  Approved
+3. Description:  A pteridine that is used as a mild diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and the nephrotic syndrome; also in steroid-induced edema, idiopathic edema, and edema due to secondary hyperaldosteronism.
+DrugId:  11
+1. Name:  Aceneuramic acid
+2. Groups:  Investigational
+3. Description:  Aceneuramic acid has been used in trials studying the treatment of Distal Myopathy, Nonaka Type, Hereditary Inclusion Body Myopathy, and Distal Myopathy With Rimmed Vacuoles.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Quinethazone
+2. Groups:  Approved
+3. Description:  Quinethazone (INN, brand name Hydromox) is a thiazide diuretic used to treat hypertension. Common side effects include dizziness, dry mouth, nausea, and low potassium levels.
+4. Indication:  Used to treat hypertension.
+DrugId:  13
+1. Name:  Hydroflumethiazide
+2. Groups:  Approved, Investigational
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p822)
+4. Indication:  Used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. Also used in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  14
+1. Name:  Pibrentasvir
+2. Groups:  Approved, Investigational
+3. Description:  Pibrentasvir is a direct acting antiviral agent and Hepatitis C virus (HCV) NS5A inhibitor that targets the the viral RNA replication and viron assembly. In combination with Glecaprevir, pibrentastiv is a useful therapy for patients who experienced therapeutic failure from other NS5A inhibitors. In cell cultures, the emergence of amino acid substitutions at known NS5A inhibitor resistance-associated positions in HCV genotype 1a, 2a or 3a replicons led to reduced susceptibility and resistance to pibrentasvir [FDA Label]. These resistance-associated amino acid substitutions included Q30D/deletion, Y93D/H/N or H58D +Y93H in genotype 1a replicons, F28S + M31I or P29S + K30G in genotype 2a replicons, and Y93H in genotype 3a replicons. Individual NS5A amino acid substitutions that reduced susceptibility to pibrentasvir include M28G or Q30D in a genotype 1a replicon and P32-deletion in a genotype 1b replicon [FDA Label]. Pibrentasvir is available as an oral combination therapy with Glecaprevir under the brand name Mavyret. This fixed-dose combination therapy was FDA-approved in August 2017 to treat adults with chronic hepatitis C virus (HCV) genotypes 1-6 without cirrhosis (liver disease) or with mild cirrhosis, including patients with moderate to severe kidney disease and those who are on dialysis [3]. Mavyret is also indicated for HCV genotype 1-infected patients who have been previously treated with regimens either containing an NS5A inhibitor or an NS3/4A protease inhibitor, but not both [3]. Hepatitis C viral infection often leads to decreased liver function and subsequent liver failure, causing a significantly negative impact on the patients' quality of life. The ultimate goal of the combination treatment is to achieve sustained virologic response (SVR) and cure the patients from the infection. In clinical trials, this combination therapy achieved SVR12 rate, or undetectable Hepatitis C for twelve or more weeks after the end of treatment, of ≥93% across genotypes 1a, 2a, 3a, 4, 5 and 6 [FDA Label].
+4. Indication:  Indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype 1, 2, 3, 4, 5 or 6 infection without cirrhosis or with compensated cirrhosis (Child-PughA). MAVYRET is also indicated for the treatment of adult patients with HCV genotype 1 infection, who previously have been treated with a regimen containing an HCV NS5A inhibitoror an NS3/4A protease inhibitor (PI), but not both [FDA Label]. 
+DrugId:  15
+1. Name:  Lenalidomide
+2. Groups:  Approved
+3. Description:  Lenalidomide (initially known as CC-5013 and marketed as Revlimid® by Celgene) is a derivative of thalidomide introduced in 2004. It was initially intended as a treatment for multiple myeloma, for which thalidomide is an accepted therapeutic modality, but has also shown efficacy in the hematological disorders known as the myelodysplastic syndromes. [Wikipedia] FDA approved on December 27, 2005. 
+4. Indication:  Lenalidomide is indicated for the treatment of multiple myeloma in combination with dexamethasone. It is also indicated for the treatment of patients with transfusion-dependent anemia due to low- or intermediate- risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+DrugId:  16
+1. Name:  Reteplase
+2. Groups:  Approved, Investigational
+3. Description:  Human tissue plasminogen activator, purified, glycosylated, 355 residues purified from CHO cells. Retavase is considered a "third-generation" thrombolytic agent, genetically engineered to retain and delete certain portions of human tPA. Retavase is a deletion mutein of human tPA formed by deleting various amino acids present in endogenous human tPA. Retavase contains 355 of the 527 amino acids of native human tPA (amino acids 1-3 and 176-527), and retains the activity-related kringle-2 and serine protease domains of human tPA. Three domains are deleted from retavase - kringle-1, finger, and epidermal growth factor (EGF).
+4. Indication:  For lysis of acute pulmonary emboli, intracoronary emboli and management of myocardial infarction
+DrugId:  17
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  18
+1. Name:  Chlorothiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p812)
+4. Indication:  Chlorothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  19
+1. Name:  Icotinib
+2. Groups:  Approved, Investigational
+3. Description:  Icotinib is a potent and specific epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)Icotinib was approved in China by the SFDA in June, 2011 and in January 2014, Beta Pharma, Inc. was given a “May Proceed” from the US FDA to conduct a Phase I study for the evaluation of icotinib as a treatment of EGFR+ Non-Small Cell Lung Cancer (NSCLC).
+4. Indication:  Icotinib hydrochloride is a novel epidermal growth factor receptor (EGFR)–tyrosine kinase inhibitor, exhibits encouraging efficacy and tolerability in patients with advanced non-small-cell lung cancer (NSCLC) who failed previous chemotherapy.
+DrugId:  20
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.
+DrugId:  21
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Benzthiazide
+2. Groups:  Approved
+3. Description:  Benzthiazide is used to treat hypertension and edema. Like other thiazides, benzthiazide promotes water loss from the body (diuretics). They inhibit Na+/Cl- reabsorption from the distal convoluted tubules in the kidneys. Thiazides also cause loss of potassium and an increase in serum uric acid. Thiazides are often used to treat hypertension, but their hypotensive effects are not necessarily due to their diuretic activity. Thiazides have been shown to prevent hypertension-related morbidity and mortality although the mechanism is not fully understood. Thiazides cause vasodilation by activating calcium-activated potassium channels (large conductance) in vascular smooth muscles and inhibiting various carbonic anhydrases in vascular tissue.
+4. Indication:  For the treatment of high blood pressure and management of edema.
+DrugId:  23
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Torasemide
+2. Groups:  Approved
+3. Description:  Torasemide (rINN) or torsemide (USAN) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. It is also used at low doses for the management of hypertension. It is marketed under the brand name Demadex. [Wikipedia]
+4. Indication:  For the treatment of edema associated with congestive heart failure, renal disease, or hepatic disease. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  25
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 

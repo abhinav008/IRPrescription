@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Dacetuzumab
+2. Groups:  Investigational
+3. Description:  Dacetuzumab has been used in trials studying the treatment of Multiple Myeloma, Non-Hodgkin Lymphoma, Leukemia, Lymphocytic, Chronic, and Lymphoma, Large B-Cell, Diffuse. It is a humanized anti-CD40 antibody and induces cytotoxicity in human multiple myeloma cells.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and multiple myeloma.
+DrugId:  2
+1. Name:  Lucatumumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid), multiple myeloma, and lymphoma (unspecified).
+DrugId:  3
+1. Name:  Lirilumab
+2. Groups:  Investigational
+3. Description:  Lirilumab has been used in trials studying the treatment of Leukemia, CANCER,NOS, Multiple Myeloma, Lymphocytic Leukemia, and Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Samalizumab
+2. Groups:  Investigational
+3. Description:  Samalizumab has been used in trials studying the treatment of Multiple Myeloma and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Sotatercept
+2. Groups:  Investigational
+3. Description:  Sotatercept has been used in trials studying the supportive care and treatment of Anemia, Leukemia, Solid Tumors, Bladder Cancer, and multiple myeloma, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Lorvotuzumab mertansine
+2. Groups:  Investigational
+3. Description:  Lorvotuzumab mertansine has been used in trials studying the treatment of SCLC, Leukemia, Ovarian Cancer, Multiple Myeloma, and Merkel Cell Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Milatuzumab
+2. Groups:  Investigational
+3. Description:  Milatuzumab has been used in trials studying the treatment of Lupus Nephritis, Multiple Myeloma (MM), GVHD (Acute or Chronic), Myelodysplastic Syndrome, and Chronic Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Dovitinib
+2. Groups:  Investigational
+3. Description:  Dovitinib is an orally active small molecule that exhibits potent inhibitory activity against multiple RTKs involved in tumor growth and angiogenesis. Preclinical data show that dovitinib works to inhibit multiple kinases associated with different cancers, including acute myeloid leukemia (AML) and multiple myeloma. Chiron currently has three ongoing Phase I clinical trials for dovitinib.
+4. Indication:  Investigated for use/treatment in multiple myeloma and solid tumors.
+DrugId:  10
+1. Name:  Atiprimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), multiple myeloma, and rheumatoid arthritis.
+DrugId:  11
+1. Name:  Daratumumab
+2. Groups:  Approved
+3. Description:  Daratumumab is an anti-cancer drug indicated for multiple myeloma in patients who have received at least 3 prior treatments. It was granted accelerated approval by the FDA in November 2016. Marketed under the brand name Darzalex by Janssen Biotech, daratumumab is the first monoclonal antibody injection approved for this indication and provides another options for patients with multiple myeloma resistant to other therapies. Daratumumab induces apoptosis of cancer cells by targeting the CD38 epitope, which is highly expressed on haematological malignancies. 
+4. Indication:  For the treatment of patients with multiple myeloma who have received at least three prior lines of therapy (a proteasome inhibitor (PI) and an immunomodulatory agent) or who are double-refractory to a PI and an immunomodulatory agent. This indication was approved by accelerated approval based on response rate.
+DrugId:  12
+1. Name:  AE-941
+2. Groups:  Investigational
+3. Description:  AE-941 is a naturally occurring anti-angiogenic compound, extracted from cartilage, with multiple anti-angiogenic mechanisms of action that provide broad therapeutic potential for a number of diseases. It is currently in international Phase III trials for renal cell carcinoma and non-small-cell lung cancer.
+4. Indication:  Investigated for use/treatment in kidney cancer, lung cancer, macular degeneration, multiple myeloma, prostate cancer, and psoriasis and psoriatic disorders.
+DrugId:  13
+1. Name:  Atacicept
+2. Groups:  Investigational
+3. Description:  Atacicept is a recombinant fusion protein combined with the extracellular ligand binding portion of TACI.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, systemic lupus erythematosus, rheumatoid arthritis, multiple myeloma, lymphoma (non-hodgkin's), and leukemia (lymphoid).
+DrugId:  14
+1. Name:  Ixazomib
+2. Groups:  Approved, Investigational
+3. Description:  Ixazomib a second generation proteasome inhibitor (PI) and the first oral PI approved by the FDA in November 2015 for multiple myeloma treatment in combination with 2 other therapies (lenalidomide and dexamethasone) for patients who have received at least 1 prior therapy. It was found to have similar efficacy to bortezomib (the first PI approved for multiple myeloma therapy) in the control of myeloma growth and prevention of bone loss. Ixazomib citrate is marketed by Takeda Pharmaceuticals under the brand name Ninlaro, which is a prodrug that becomes quickly converted to its active metabolite, ixazomib, after administration.
+4. Indication:  Ixazomib is indicated in combination with lenalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received at least one prior therapy. 
+DrugId:  15
+1. Name:  Panobinostat
+2. Groups:  Approved, Investigational
+3. Description:  Panobinostat is an oral deacetylace (DAC) inhibitor approved on February 23, 2015 by the FDA for the treatment of multiple myeloma. The approval was accelerated based on progression-free survival, therefore confirmatory trials by the sponsor to demonstrate clinical efficacy in multiple myeloma treatment are in progress of being conducted. Panobinostat is marketed by Novartis under the brand name Farydak. Panobinostat acts as a non-selective histone deacetylase inhibitor (pan-HDAC inhibitor) and it is the most potent DAC inhibiting agent available on the market.
+4. Indication:  Panobinostat is indicated in the treatment of multiple myeloma in combination with dexamethasone and bortezomib in patients who have received 2 previous treatment regimens including bortezomib and an immunomodulatory agent. This indication is approved by accelerated approval based on progression free survival as of February 23, 2015. 
+DrugId:  16
+1. Name:  Elotuzumab
+2. Groups:  Approved
+3. Description:  Elotuzumab is a humanized IgG1 (Immunoglobulin G) monoclonal antibody indicated in combination with lenalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received one to three prior therapies. Elotuzumab targets SLAMF7, also known as Signaling Lymphocytic Activation Molecule Family member 7, a cell surface glycoprotein. Elotuzumab consists of the complementary determining regions (CDR) of the mouse antibody, MuLuc63, grafted onto human IgG1 heavy and kappa light chain frameworks. Elotuzumab is produced in NS0 cells by recombinant DNA technology. Elotuzumab has a theoretical mass of 148.1 kDa for the intact antibody. Elotuzumab was approved on November 30, 2015 by the U.S. Food and Drug Administration. Elotuzumab is marketed under the brand Empliciti™ by Bristol-Myers Squibb. 
+4. Indication:  Indicated in combination with lenalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received one to three prior therapies.
+DrugId:  17
+1. Name:  PI-88
+2. Groups:  Investigational
+3. Description:  PI-88 is a mixture of highly sulfated, monophosphorylated mannose oligosaccharides, derived from the extracellular phosphomannan of the yeast Pichia (Hansenula) holstii, with potential antiangiogenic activity.
+4. Indication:  Investigated for use/treatment in hepatocellular carcinoma, liver cancer, melanoma, and multiple myeloma.
+DrugId:  18
+1. Name:  HGS-TR2J
+2. Groups:  Investigational
+3. Description:  HGS-TR2J is a novel agonistic human monoclonal antibody to TRAIL Receptor 2, in patients with advanced solid malignancies. It is developed by Human Genome Sciences, Inc and is under Phase I of clinical trial.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  19
+1. Name:  DOTMP HO-166
+2. Groups:  Investigational
+3. Description:  DOTMP HO-166 is used in skeletal targeted radiotherapy (STR). SRT is designed to be used in combination with high-dose chemotherapy producing a direct therapeutic effect on the tumor sites in the bone plus a general bone-marrow effect to destroy myeloma cells in the bone marrow. It is an experimental therapy that is being developed by NeoRx Corporation.
+4. Indication:  Investigated for use/treatment in multiple myeloma.
+DrugId:  20
+1. Name:  Alethine
+2. Groups:  Investigational
+3. Description:  Alethine is studied in the treatment of cancer. It belongs to a family of chemicals called disulfides. It is a low molecular weight disulfide that has been shown to exhibit in vivo antitumor activity in murine myeloma and melanoma models.
+4. Indication:  Investigated for use/treatment in blood (blood forming organ disorders, unspecified), lymphoma (unspecified), and multiple myeloma.
+DrugId:  21
+1. Name:  Galiximab
+2. Groups:  Investigational
+3. Description:  Galiximab is a chimeric monoclonal antibody which is used as an immunosuppressive drug.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's), psoriasis and psoriatic disorders, bone metastases, multiple myeloma, prostate cancer, and rheumatoid arthritis.
+DrugId:  22
+1. Name:  Bardoxolone methyl
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in lymphoma (unspecified), multiple myeloma, and solid tumors.
+DrugId:  23
+1. Name:  Minodronic acid
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in multiple myeloma, breast cancer, osteoporosis, and lung cancer.
+DrugId:  24
+1. Name:  Burixafor
+2. Groups:  Investigational
+3. Description:  Burixafor has been used in trials studying the treatment of Multiple Myeloma, Hodgkin's Disease, and Non-hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Tacedinaline
+2. Groups:  Investigational
+3. Description:  Tacedinaline has been used in trials studying the treatment of Lung Cancer, Multiple Myeloma, and Pancreatic Cancer.
+4. Indication:  Not Available

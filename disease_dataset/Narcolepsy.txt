@@ -1,0 +1,70 @@
+DrugId:  1
+1. Name:  Pitolisant
+2. Groups:  Approved, Investigational
+3. Description:  Pitolisant is also known as 1-{3-[3-(4-chlorophenyl)propoxy]propyl}piperidine or BF2.649 [4]. It is a selective inverse agonist of the histamine H3 receptor that is used in the treatment of type 1 or 2 narcolepsy with or without cataplexy in adults. Narcolepsy is a chronic neurological disorder that that affects 1 in 2,000 individuals and is characterized by excessive daytime sleepiness, abnormal REM sleep manifestations, sleep paralysis and hypnagogic hallucinations [4]. About 60-70% of patients with narcolepsy experience cataplexy, which is a sudden loss of muscle tone triggered by positive or negative emotion [1]. As histaminergic signalling in neurons plays a role in maintaining wakefulness, pitolisant works by blocking histamine autoreceptors and enhancing the activity of brain histaminergic neurons [5]. In a European clinical trial of adult patients with narcolepsy, a reduction in the Epworth Sleepiness Scale (ESS) score was observed from pitolisant treatment compared to placebo [3]. The therapeutic effectiveness of pitolisant was comparable to that of Modafinil [3]. Pitolisant therapy was also effective in treating refractory sleepiness in adolescent patients with narcolepsy, where it decreased ESS score and increased the mean sleep onset latency [2]. Adolescent patients with cataplexy also experienced a slight improvement in the frequency and severity of symptoms [2], however the safety of use in adolescent or paediatric patients have not been established with pitolisant. Pitolisant is marketed by EMA under the trade name Wakix as oral tablets.
+4. Indication:  Indicated in adults for the treatment of narcolepsy with or without cataplexy [5].
+DrugId:  2
+1. Name:  Sodium oxybate
+2. Groups:  Approved
+3. Description:  Sodium oxybate (Xyrem) is a central nervous system depressant used for the treatment of cataplexy and extreme daytime sleepiness (EDS) associated with narcolepsy. It is the sodium salt of gamma hydroxybutyric acid (GHB) which is an endogenous compound and a metabolite of the neurotransmitter GABA. The exact mechanism of action for treating EDS and cataplexy is not known but is is hypothesised that its therapeutic effects are due to GABA(B) effects on noradrenergic, dopaminaergic and thalamocorticol neurons. The drug follows non-linear pharmacokinetics. As it has been associated with misuse/abuse it is strictly controlled and all patients and prescribers must enroll in the sodium oxybate REMs program in order to gain access to the medication.
+4. Indication:  For the treatment of cataplexy in narcolepsy and excessive daytime sleepiness (EDS) in narcolepsy.
+DrugId:  3
+1. Name:  Modafinil
+2. Groups:  Approved, Investigational
+3. Description:  Modafinil is a stimulant drug marketed as a 'wakefulness promoting agent' and is one of the stimulants used in the treatment of narcolepsy. Narcolepsy is caused by dysfunction of a family of wakefulness-promoting and sleep-suppressing peptides, the orexins, whose neurons are activated by modafinil. The prexin neuron activation is associated with psychoactivation and euphoria. The exact mechanism of action is unclear, although in vitro studies have shown it to inhibit the reuptake of dopamine by binding to the dopamine reuptake pump, and lead to an increase in extracellular dopamine. Modafinil activates glutamatergic circuits while inhibiting GABA.
+4. Indication:  To improve wakefulness in patients with excessive daytime sleepiness (EDS) associated with narcolepsy.
+DrugId:  4
+1. Name:  PF-03654746
+2. Groups:  Investigational
+3. Description:  PF-03654746 has been investigated for the treatment of Narcolepsy, Schizophrenia, Tourette's Syndrome, and Excessive Daytime Sleepiness.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Gamma Hydroxybutyric Acid
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Gamma Hydroxybutyric Acid, commonly abbreviated GHB, is a therapeutic drug which is illegal in multiple countries. It is currently regulated in the US and sold by Jazz Pharmaceuticals under the name Xyrem. However, it is important to note that GHB is a designated Orphan drug (in 1985). Today Xyrem is a Schedule III drug; however GHB remains a Schedule I drug and the illicit use of Xyrem falls under penalties of Schedule I. GHB is a naturally occurring substance found in the central nervous system, wine, beef, small citrus fruits and almost all other living creatures in small amounts. It is used illegally under the street names Juice, Liquid Ecstasy or simply G, either as an intoxicant, or as a date rape drug. Xyrem is a central nervous system depressant that reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy.
+4. Indication:  Used as a general anesthetic, to treat conditions such as insomnia, clinical depression, narcolepsy, and alcoholism, and to improve athletic performance. 
+DrugId:  6
+1. Name:  Methylphenidate
+2. Groups:  Approved, Investigational
+3. Description:  A central nervous system stimulant used most commonly in the treatment of attention-deficit disorders in children and for narcolepsy. Its mechanisms appear to be similar to those of dextroamphetamine.
+4. Indication:  For use as an integral part of a total treatment program which typically includes other remedial measures (psychological, educational, social) for a stabilizing effect in children with a behavioral syndrome characterized by the following group of developmentally inappropriate symptoms: moderate-to-severe distractibility, short attention span, hyperactivity, emotional lability, and impulsivity.
+DrugId:  7
+1. Name:  Reboxetine
+2. Groups:  Approved, Investigational
+3. Description:  Reboxetine is an antidepressant drug used in the treatment of clinical depression, panic disorder and ADD/ADHD. Its mesylate (i.e. methanesulfonate) salt is sold under tradenames including Edronax, Norebox, Prolift, Solvex, Davedax or Vestra. Reboxetine has two chiral centers, but it only exists as two enantiomers, (R,R)-(-)- and (S,S)-(+)-reboxetine.
+4. Indication:  For the treatment of clinical depression.
+DrugId:  8
+1. Name:  Ephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  Ephedrine commonly used as a stimulant, appetite suppressant, concentration aid, decongestant, and to treat hypotension associated with anaesthesia.
+DrugId:  9
+1. Name:  Armodafinil
+2. Groups:  Approved, Investigational
+3. Description:  Armodafinil is the enantiopure of the wakefulness-promoting agent modafinil (Provigil), and is indicated to improve wakefulness in adult patients with excessive sleepiness associated with obstructive sleep apnea (OSA), narcolepsy, or shift work disorder (SWD). Research has shown that armodafinil significantly improves driving simulator performance in patients with SWD. Armodafinil consists of the (−)-R-enantiomer of the racemic modafinil. Armodafinil is produced by the pharmaceutical company Cephalon Inc. (a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd.) and was approved by the U.S. Food and Drug Administration (FDA) in June 2007.
+4. Indication:  Investigated for use/treatment in sleep disorders, obstructive sleep apnea, schizophrenia and schizoaffective disorders, depression, and bipolar disorders.
+DrugId:  10
+1. Name:  Dexmethylphenidate
+2. Groups:  Approved, Investigational
+3. Description:  Dexmethylphenidate is the dextrorotary form of methylphenidate. It is a norepinephrine-dopamine reuptake inhibitor (NDRI) and thus a psychostimulant. It is used for treatment of Attention Deficit Hyperactivity Disorder (ADHD). 
+4. Indication:  Dexmethylphenidate is used as a treatment for ADHD, ideally in conjunction with psychological, educational, behavioral or other forms of treatment.
+DrugId:  11
+1. Name:  L-Tyrosine
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A non-essential amino acid. In animals it is synthesized from phenylalanine. It is also the precursor of epinephrine; thyroid hormones; and melanin.
+4. Indication:  Tyrosine is claimed to act as an effective antidepressant, however results are mixed. Tyrosine has also been claimed to reduce stress and combat narcolepsy and chronic fatigue, however these claims have been refuted by some studies.
+DrugId:  12
+1. Name:  Clomipramine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Clomipramine, the 3-chloro analog of imipramine, is a dibenzazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, clomipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, clomipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as clomipramine, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Clomipramine may be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder). Unlabeled indications include panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy, autistic disorder, trichotillomania, onchophagia, stuttering, premature ejaculation, and premenstrual syndrome. Clomipramine is rapidly absorbed from the gastrointestinal tract and demethylated in the liver to its primary active metabolite, desmethylclomipramine.
+4. Indication:  May be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder).Unlabeled indications include: depression, panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy (limited evidence), autistic disorder (limited evidence), trichotillomania (limited evidence), onchophagia (limited evidence), stuttering (limited evidence), premature ejaculation, and premenstrual syndrome. 
+DrugId:  13
+1. Name:  Amphetamine
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Amphetamines are non-catecholamine sympathomimetic amines with CNS stimulant activity. By mimicking the structures of the catecholamine neurotransmitters, noradrenaline and dopamine, amphetamines modulate monoamine release, reuptake, and signalling within the brain. Although "amphetamine" is used as a descriptor of its own structural class, amphetamine properly refers to a racemic free base composed of equal parts of its two optical antipodes: levo-amphetamine and dextro-amphetamine. Used in the past for the treatment of depression, stress, and for concentration improvement, it is currently available as a prescription drug for the treatment of attention hyperactivity disorder (ADHD), narcolepsy, and as an adjunct in the treatment of exogenous obesity. Amphetamine is also available in a mixed salt/mixed enantiomer form (Adderall), where d-amphetamine and l-amphetamine are available in a ratio of 3:1. It is also available in a prodrug form as lisdexamfetamine.
+4. Indication:  For treatment of Attention Deficit Disorder with Hyperactivity (ADDH), narcolepsy, and exogenous obesity as a short term (a few weeks) adjunct in a regimen of weight reduction based on caloric restriction for patients refractory to alternative therapy.
+DrugId:  14
+1. Name:  Pseudoephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  For the treatment of nasal congestion, sinus congestion, Eustachian tube congestion, and vasomotor rhinitis, and as an adjunct to other agents in the optimum treatment of allergic rhinitis, croup, sinusitis, otitis media, and tracheobronchitis. Also used as first-line therapy of priapism.

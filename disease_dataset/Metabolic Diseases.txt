@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  SRT501
+2. Groups:  Investigational
+3. Description:  SRT501 is a small molecule develped for the treatment of metabolic diseases like diabetes and obesity. It is the first small molecule, designed to target SIRT1, to enter the clinic.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and neurologic disorders.
+DrugId:  2
+1. Name:  Usistapide
+2. Groups:  Investigational
+3. Description:  Usistapide has been used in trials studying the treatment of Obesity, Overweight, Metabolic Diseases, Nutrition Disorders, and Nutritional and Metabolic Diseases.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Ixekizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ixekizumab is a humanized immunoglobulin G subclass 4 (IgG4) monoclonal antibody (mAb) against interleukin-17A (IL-17A) and prevents it from interacting with the IL-17A receptor. As IL-17A is a pro-inflammatory cytokine involved in inflammation and immune responses, blocking its effect is beneficial for use in inflammatory conditions. In particular, IL-17A has been found to be implicated in a variety of autoimmune diseases including Rheumatoid Arthritis and plaque psoriasis. Ixekizumab is produced by recombinant DNA technology in a recombinant mammalian cell line and purified using standard technology for bioprocessing. Ixekizumab is comprised of two identical light chain polypeptides of 219 amino acids each and two identical heavy chain polypeptides of 445 amino acids each, and has a molecular weight of 146,158 Daltons for the protein backbone of the molecule. It is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+4. Indication:  Ixekizumab is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. 
+DrugId:  5
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  6
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Dupilumab
+2. Groups:  Approved, Investigational
+3. Description:  Dupilumab injection to treat adults with moderate-to-severe eczema (atopic dermatitis). Dupilumab is intended for patients whose eczema is not controlled adequately by topical therapies, or those for whom topical therapies are not advisable. Dupilumab can be used with or without topical corticosteroids. FDA approval on March 28, 2017.
+4. Indication:  Dupilumab is a monoclonal antibody designed for the treatment of atopic diseases such as eczema.
+DrugId:  8
+1. Name:  Itopride
+2. Groups:  Investigational
+3. Description:  Itopride is a dopamine D2 antagonist with acetylcholinesterase inhibitory actions.
+4. Indication:  Investigated for use/treatment in gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  9
+1. Name:  Diethylcarbamazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anthelmintic used primarily as the citrate in the treatment of filariasis, particularly infestations with Wucheria bancrofti or Loa loa. [PubChem]
+4. Indication:  Used for the treatment of individual patients with certain filarial diseases including tropical pulmonary eosinophilia, loiasis, and lymphatic filariasis caused by infection with Wuchereria bancrofti, Brugia malayi, or Brugia timori.
+DrugId:  10
+1. Name:  prGCD
+2. Groups:  Investigational
+3. Description:  GCD represents the combination treatment of gemcitabine, carboplatin, and dexamethasone.
+4. Indication:  Investigated for use/treatment in metabolic disease and neurologic disorders.
+DrugId:  11
+1. Name:  Sulfasalazine
+2. Groups:  Approved
+3. Description:  A drug that is used in the management of inflammatory bowel diseases. Its activity is generally considered to lie in its metabolic breakdown product, 5-aminosalicylic acid (see mesalamine) released in the colon. (From Martindale, The Extra Pharmacopoeia, 30th ed, p907)
+4. Indication:  For the treatment of Crohn's disease and rheumatoid arthritis as a second-line agent.
+DrugId:  12
+1. Name:  Apixaban
+2. Groups:  Approved
+3. Description:  Apixaban is an oral, direct, and highly selective factor Xa (FXa) inhibitor (of both free and prothrombinase-bound FXa independently of antithrombin III) for the prevention and treatment of thromboembolic diseases. It is marketed under the name Eliquis. FDA approved on December 28, 2012.
+4. Indication:  Apixaban is to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. It has also been used to lower the risk of developing venous thrombosis post-orthopedic surgical procedures. 
+DrugId:  13
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  14
+1. Name:  Oxygen
+2. Groups:  Approved, Vet approved
+3. Description:  Oxygen is a chemical element with symbol O and atomic number 8. Uptake of oxygen from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen. Higher level of oxygen than ambient air (hyperoxia) can be introduced under normobaric or hyperbaric conditions.
+4. Indication:  Oxygen therapy in clinical settings is used across diverse specialties, including various types of anoxia, hypoxia or dyspnea and any other disease states and conditions that reduce the efficiency of gas exchange and oxygen consumption such as respiratory illnesses, trauma, poisonings and drug overdoses. Oxygen therapy tries to achieve hyperoxia [6] to reduce the extent of hypoxia-induced tissue damage and malfunction. 
+DrugId:  15
+1. Name:  CPD 923
+2. Groups:  Investigational
+3. Description:  CPD 923 (N-butylgalactonorjirimycin) is an iminosugar and an analogue of ZavescaTM. It shows efficacy in vivo studies, as well as a favourable pre-clinical tolerability profile. 
+4. Indication:  Investigated for use/treatment in metabolic disease.
+DrugId:  16
+1. Name:  Acetylcysteine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcysteine (also known as N-acetylcysteine or N-acetyl-L-cysteine or NAC) is primarily used as a mucolytic agent and in the management of acetaminophen poisoning. It is a derivative of cysteine with an acetyl group attached to the amino group of cysteine. NAC is essentially a prodrug that is converted to cysteine (in the intestine by the enzyme aminoacylase 1) and absorbed in the intestine into the blood stream. Cysteine is a key constituent to glutathione and hence administration of acetylcysteine replenishes glutathione stores. Acetylcysteine can also be used as a general antioxidant which can help mitigate symptoms for a variety of diseases exacerbated by reactive oxygen species (ROS). For instance, acetylcysteine is commonly used in individuals with renal impairment to prevent the precipitation of acute renal failure. Acetylcysteine has been shown to have efficacy in treating mild to moderate traumatic brain injury including ischemic brain injury, particularly in reducing neuronal losses, and also reducing cognitive and neurological symptoms when administered promptly after injury. N-acetylcysteine is now widely used in the treatment of HIV, and it has reported efficacy in chronic obstructive pulmonary disease and contrast-induced nephropathy. Acetylcysteine is also being successfully used to treat a variety of neuropsychiatric and neurodegenerative disorders including cocaine, cannabis, and smoking addictions, Alzheimer's and Parkinson's diseases, autism, compulsive and grooming disorders, schizophrenia, depression, and bipolar disorder. Recent data also shows that N-acetylcysteine inhibits muscle fatigue and can be used to enhance performance in endurance events and in exercise and endurance training.Acetylcysteine is also undergoing clinical trials as RK-0202, an oral rinse for the prevention and treatment of mucositis. It is comprised of acetylcysteine in a polymer matrix.
+4. Indication:  Acetylcysteine is used mainly as a mucolytic and in the management of paracetamol (acetaminophen) overdose.
+DrugId:  17
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  18
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Umeclidinium
+2. Groups:  Approved
+3. Description:  Umeclidinium is a long-acting muscarinic antagonist (LAMA) used as maintenance treatment for symptoms of chronic obstructive pulmonary disease (COPD). It is available as a once-daily inhalation monotherapy or as a fixed-dose combination product with the long-acting beta2-agonist vilanterol. COPD is a progressive obstructive lung disease characterized by shortness of breath, cough, sputum production, and chronically poor airflow with a forced expiratory volume in 1 second (FEV1) of less than 80%. By blocking the M3 muscarinic receptor which is highly expressed in airway smooth muscle of the lungs, umeclidinium inhibits the binding of acetylcholine and thereby opens up the airways by preventing bronchoconstriction. Its use has been shown to provide clinically significant, sustained improvements in lung function. 
+4. Indication:  Indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD).
+DrugId:  20
+1. Name:  Obeticholic acid
+2. Groups:  Approved
+3. Description:  Obeticholic acid is a farnesoid-X receptor (FXR) agonist and is used to treat a number of liver diseases. [1] Obeticholic acid has been granted accelerated approval to treat primary biliary cholangitis in combination with ursodeoxycholic acid. [1] Approval is limited to monotherapy in patient's who are intolerant to ursodeoxycholic acid, or in combination with ursodeoxycholic acid in adults who have not responded adequately to ursodeoxyholic acid alone. [1]Obeticholic acid given orally, binds to the farnesoid X receptor (FXR), a receptor found in the nucleus of cells in the liver and intestine. FXR is a key regulator of bile acid metabolic pathways. Obeticholic acid increases bile flow from the liver and suppresses bile acid production in the liver, thus reducing the exposure of the liver to toxic levels of bile acids.
+4. Indication:  Investigated for use/treatment in liver disease.Obeticholic acid was approved as an orphan drug based on its reduction in the level of the biomarker alkaline phosphatase as a surrogate endpoint for clinical benefit. It is indicated for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA. Additional studies are being required to prove its clinical benefit.
+DrugId:  21
+1. Name:  Niclosamide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Niclosamide is used for the treatment of most tapeworm infections. Helminths (worms) are multicellular organisms that infect very large numbers of humans and cause a broad range of diseases. Over 1 billion people are infected with intestinal nematodes, and many millions are infected with filarial nematodes, flukes, and tapeworms. They are an even greater problem in domestic animals. 
+4. Indication:  For the treatment of tapeworm and intestinal fluke infections: Taenia saginata (Beef Tapeworm), Taenia solium (Pork Tapeworm), Diphyllobothrium latum (Fish Tapeworm), Fasciolopsis buski (large intestinal fluke). Niclosamide is also used as a molluscicide in the control of schistosomiasis.
+DrugId:  22
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  23
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  25
+1. Name:  KD3010
+2. Groups:  Investigational
+3. Description:  KD3010 is a small molecule peroxisome proliferator-activator receptor delta (PPAR Delta) agonist for the treatment of metabolic disorders, including obesity.
+4. Indication:  Investigated for use/treatment in metabolic disease and obesity.

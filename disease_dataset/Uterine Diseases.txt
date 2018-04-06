@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Terbutaline
+2. Groups:  Approved
+3. Description:  A selective beta-2 adrenergic agonist used as a bronchodilator and tocolytic. [PubChem]
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible, obstructive airway disease, as well as symptomatic management of reversible bronchospasm associated with bronchitis and emphysema. Also used acute IV and sub-Q therapy in selected women to inhibit uterine contractions in preterm labor (tocolysis) and prolong gestation when beneficial.
+DrugId:  2
+1. Name:  Proellex
+2. Groups:  Investigational
+3. Description:  Proellex is an orally-available, selective progesterone receptor modulator, is in development to alleviate symptoms associated with both uterine fibroids and endometriosis.
+4. Indication:  For the treatment of uterine fibroids and endometriosis.
+DrugId:  3
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  5
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  6
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Acenocoumarol
+2. Groups:  Approved, Investigational
+3. Description:  Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, XI and X, and interferes with coagulation. Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood. 
+4. Indication:  For the treatment and prevention of thromboembolic diseases. More specifically, it is indicated for the for the prevention of cerebral embolism, deep vein thrombosis, pulmonary embolism, thromboembolism in infarction and transient ischemic attacks. It is used for the treatment of deep vein thrombosis and myocardial infarction.
+DrugId:  8
+1. Name:  CHF 4227
+2. Groups:  Investigational
+3. Description:  CHF 4227 is a new selective estrogen receptor modulator (SERM). The compound has a high receptor affinity and has shown promising efficacy in the prevention of bone loss in animal models of osteoporosis. Additionally, the compound has shown no uterotrophic activity suggesting a potential therapeutic advantage over drugs normally used in postmenopausal therapy.
+4. Indication:  Investigated for use/treatment in osteoporosis.
+DrugId:  9
+1. Name:  Gemeprost
+2. Groups:  Approved, Withdrawn
+3. Description:  Gemeprost is a prostaglandin E1 (PGE1) analog and antiprogestogen used for preoperative dilation of the cervix before surgical abortion. It is available as vaginal suppositories and also used in combination with the antiprogestin and mifepristone for termination of 1st- and 2nd-trimester pregnancy [1]. It is not FDA-approved but available in Japan marketed as Preglandin.
+4. Indication:  Indicated for the softening and dilatation of the cervix uteri prior to transcervical, intrauterine operative procedures in the first trimester of pregnancy or facilitating therapeutic termination of pregnancy in patients in the second trimester of gestation.
+DrugId:  10
+1. Name:  Elagolix
+2. Groups:  Investigational
+3. Description:  Elagolix has been used in trials studying the basic science and treatment of Endometriosis, Folliculogenesis, Uterine Fibroids, Heavy Uterine Bleeding, and Heavy Menstrual Bleeding.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Ergonovine
+2. Groups:  Approved
+3. Description:  An ergot alkaloid with uterine and vascular smooth muscle contractile properties.
+4. Indication:  Used to treat postpartum haemorrhage and postabortion haemorrhage in patients with uterine atony. 
+DrugId:  12
+1. Name:  MPI-674
+2. Groups:  Investigational
+3. Description:  MPI-674 is an aromatase inhibitor (AI) with a well-established, multi-year chronic safety and tolerability profile. AIs are a class of drugs that reduce the amount of estrogen circulating in the body by binding to and inhibiting the enzyme aromatase, which is responsible for converting certain hormones to estrogen. It is developed for the treatment of several serious women’s health conditions including endometrial thinning prior to endometrial ablations in premenopausal women with abnormal uterine bleeding (AUB).
+4. Indication:  Investigated for use/treatment in menstrual disorders.
+DrugId:  13
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  14
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Ritodrine
+2. Groups:  Approved, Investigational
+3. Description:  Adrenergic beta-agonist used to control premature labor. [PubChem]
+4. Indication:  For the treatment and prophylaxis of premature labour
+DrugId:  16
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  17
+1. Name:  Asoprisnil
+2. Groups:  Investigational
+3. Description:  Asoprisnil (J867) is a selective progesterone receptor modulator. It can be used to treat progesterone sensitive myomata.
+4. Indication:  Investigated for use/treatment in uterine fibroids.
+DrugId:  18
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  19
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  20
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Relugolix
+2. Groups:  Investigational
+3. Description:  Relugolix has been used in trials studying the treatment of Endometriosis, Prostate Cancer, Uterine Fibroids, and Androgen Deprivation Treatment-naïve Nonmetastatic Prostate Cancer.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Arzoxifene
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in breast cancer, osteoporosis, and endometrial cancer.
+DrugId:  23
+1. Name:  KB002
+2. Groups:  Investigational
+3. Description:  KB002 is an engineered human IgG1k antibody engineered human. It is developed for the treatment of autoimmune diseases, initially rheumatoid arthritis.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  24
+1. Name:  Isoxsuprine
+2. Groups:  Approved, Withdrawn
+3. Description:  A beta-adrenergic agonist that causes direct relaxation of uterine and vascular smooth muscle. Its vasodilating actions are greater on the arteries supplying skeletal muscle than on those supplying skin. It is used in the treatment of peripheral vascular disease and in premature labor.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).

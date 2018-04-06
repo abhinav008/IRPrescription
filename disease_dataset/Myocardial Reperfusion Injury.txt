@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  M40403
+2. Groups:  Investigational
+3. Description:  M40403 is a low molecular weight, synthetic manganese containing superoxide dismutase mimetic (SODm) that selectively removes superoxide anion.
+4. Indication:  Intended for the treatment of pain and possibly various forms of cancer.
+DrugId:  2
+1. Name:  Torapsel
+2. Groups:  Investigational
+3. Description:  Torapsel has been used in trials studying the prevention of Ischemia Reperfusion Injury.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  FX06
+2. Groups:  Investigational
+3. Description:  FX06 is a naturally occurring peptide derived from the neo-N-terminus of fibrin (Bbeta(15-42)). It prevents leukocyte migration through the gap junctions of endothelial cells. FX06 has proven safe in acute and subchronic toxicological studies and recently entered clinical development. It is being developed by Fibrex Medical Inc.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury and myocardial infarction.
+DrugId:  4
+1. Name:  Pexelizumab
+2. Groups:  Investigational
+3. Description:  Pexelizumab is a humanized monoclonal antibody used as an immunosuppressive drug. It is being investigated by Alexion Pharmaceuticals.
+4. Indication:  For the treatment of inflammation during cardiac surgery.
+DrugId:  5
+1. Name:  Trimetazidine
+2. Groups:  Approved, Investigational
+3. Description:  Trimetazidine is a drug for angina pectoris sold under the brand name Vastarel MR. Trimetazidine is described as the first cytoprotective anti-ischemic agent developed and marketed by Laboratoires Servier (France). Trimetazidine is an anti-ischemic (anti-anginal) metabolic agent, which improves myocardial glucose utilization through inhibition of long-chain 3-ketoacyl CoA thiolase activity, which results in a reduction in fatty acid oxidation and a stimulation of glucose oxidation. High fatty acid oxidation rates are detrimental during ischemia due to an inhibition of glucose oxidation leading to uncoupling of glycolysis and an increase in proton production, which has the potential to accelerate sodium and calcium overload in the heart, which leads to an exacerbation of ischemic injury and decreased cardiac efficiency during reperfusion.
+4. Indication:  Trimetazidine is indicated for use in angina pectoris.
+DrugId:  6
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  7
+1. Name:  Ethyl pyruvate
+2. Groups:  Investigational
+3. Description:  CTI-01 (ethyl pyruvate) is a novel anti-inflammatory agent for the treatment of critical inflammatory conditions. CTI-01 shows a potent anti-inflammatory and tissue protection activity in multiple animal models of disease including pancreatitis, ischemia-reperfusion injury, sepsis, renal injury and endotoxemia.
+4. Indication:  Investigated for use/treatment in burns and burn infections, cardiac surgery, inflammatory disorders (unspecified), ischemic reperfusion injury, and sepsis and septicemia.
+DrugId:  8
+1. Name:  nor-NOHA
+2. Groups:  Investigational
+3. Description:  N-Hydroxy-nor-L-arginine (nor-NOHA) is under investigation in clinical trial NCT02009527 (Arginase Inhibition in Ischemia-reperfusion Injury).
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Edaravone
+2. Groups:  Approved, Investigational
+3. Description:  Edaravone is a free radical scavenger approved in May, 2017 for the treatment of amyotrophic lateral scleorosis (ALS). Clinical studies showed that the treatment attenuated deterioration of the disease when compared to placebo. It has been previously investigated for the treatment of ischemic stroke, reperfusion Injury, and myocardial Infarction as it possesses antioxidant and anti-apoptotic properties. Being a low molecular weight molecule with good water and lipid-soluble properies, it therapeutically advantageous in crossing the blood-brain barrier to mediate nootropic and neuroprotective effects. Oral formulation of edaravone is currently under development.
+4. Indication:  Indicated for improving neurological symptoms and damage from acute ischemic stroke and delaying disease progression of ALS.
+DrugId:  10
+1. Name:  Sodium sulfide
+2. Groups:  Approved
+3. Description:  Sodium sulfide is a chemical compound with a chemical formula Na2S. Sodium sulfide is used in the pulp and paper industry, water treatment, textile industry, and various chemical manufacturing processes including the production of rubber chemicals, sulfur dyes and oil recovery. Along with its hydrate form, sodium sulfide releases hydrogen sulfide (H2S) when in contact with moist air. H2S is an endogenous gaseous transmitter that exhibits anti-inflammatory and antiapoptotic properties. Along with other sulfides, the anti-inflammatory and tissue-protective effects of sodium sulfide have been investigated in models of inflammation and oxidative stress. Interestingly, sodium sulfide was shown to have some cardioprotective role against cardiac ischemia or reperfusion injury, as well as protect lungs against ventilator-induced lung injury [1]. However the clinical significance and mechanism of action of sodium sulfide and replication of results across other studies are not yet fully determined.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  CHGN111
+2. Groups:  Investigational
+3. Description:  CHGN111 is an inhibitor of the mitochondrial enzyme CLK-1 which is a demethoxyubiquinone hydroxylase. Numerous parameters of mitochondrial function are altered when the activity of CLK-1 is reduced, which results in a decrease of ROS at critical cellular sites, as well as in a decrease of systemic oxidative stress. It was under investigation until approximately 2007.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  12
+1. Name:  Caldaret
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in heart disease and myocardial infarction.
+DrugId:  13
+1. Name:  Gabexate
+2. Groups:  Investigational
+3. Description:  Gabexate is a synthetic serine protease inhibitor which has been used as an anticoagulant. It also known to decrease production of inflammatory cytokines. Gabexate has been investigated for use in cancer, ischemia-reperfusion injury, and pancreatitis [4] [5] [6].
+4. Indication:  No approved indication.
+DrugId:  14
+1. Name:  Acadesine
+2. Groups:  Investigational
+3. Description:  Acadesine (AICA-riboside) is a purine nucleoside analog with anti-ischemic properties that is currently being studied (Phase 3) for the prevention of adverse cardiovascular outcomes in patients undergoing coronary artery bypass graft (CABG) surgery. It is being developed jointly by PeriCor and Schering-Plough. Acadesine has been granted Orphan Drug Designation for B-CLL in the EU.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury, cardiovascular disorders, and coronary artery disease.
+DrugId:  15
+1. Name:  Beraprost
+2. Groups:  Investigational
+3. Description:  Beraprost is a synthetic analogue of prostacyclin, under clinical trials for the treatment of pulmonary hypertension. It is also being studied for use in avoiding reperfusion injury.
+4. Indication:  For the treatment of pulmonary hypertension.
+DrugId:  16
+1. Name:  Levosimendan
+2. Groups:  Approved, Investigational
+3. Description:  Levosimendan is a calcium sensitiser used in the management of acutely decompensated congestive heart failure. It increases the sensitivity of the heart to calcium, thus increasing cardiac contractility without a rise in intracellular calcium. Levosimendan exerts its effect by increasing calcium sensitivity of myocytes by binding to cardiac troponin C in a calcium-dependent manner. It also has a vasodilatory effect, by opening adenosine triphosphate (ATP)-sensitive potassium channels in vascular smooth muscle to cause smooth muscle relaxation.
+4. Indication:  For short term treatment of acutely decompensated severe chronic heart failure (CHF). Also being investigated for use/treatment in heart disease.
+DrugId:  17
+1. Name:  Cariporide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery.
+DrugId:  18
+1. Name:  Fondaparinux sodium
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux (Arixtra) is a synthetic pentasaccharide anticoagulant. Apart from the O-methyl group at the reducing end of the molecule, the identity and sequence of the five monomeric sugar units contained in fondaparinux is identical to a sequence of five monomeric sugar units that can be isolated after either chemical or enzymatic cleavage of the polymeric glycosaminoglycan heparin and heparan sulfate (HS). This monomeric sequence in heparin and HS is thought to form the high affinity binding site for the natural anti-coagulant factor, antithrombin III (ATIII). Binding of heparin/HS to ATIII has been shown to increase the anti-coagulant activity of antithrombin III 1000-fold. Fondaparinux potentiates the neutralizing action of ATIII on activated Factor X 300-fold. Fondaparinux may be used: to prevent venous thromboembolism in patients who have undergone orthopedic surgery of the lower limbs (e.g. hip fracture, hip replacement and knee surgery); to prevent VTE in patients undergoing abdominal surgery who are are at high risk of thromboembolic complications; in the treatment of deep vein thrombosis (DVT) and pumonary embolism (PE); in the management of unstable angina (UA) and non-ST segment elevation myocardial infarction (NSTEMI); and in the management of ST segment elevation myocardial infarction (STEMI).
+4. Indication:  Approved for: (1) prophylaxis of VTE for up to one month post surgery in patients undergoing orthopedic surgery of the lower limbs such as hip fracture, hip replacement and knee surgery; (2) prophylaxis of VTE patients undergoing abdominal surgery who are at high risk of thromboembolic complications (e.g. patients undergoing abdominal cancer surgery); (3) treatment of acute DVT and PE; (4) management of UA and NSTEMI for the prevention of death and subsequent myocardial infarction (MI); and (5) management of STEMI for the prevention of death and myocardial reinfarction in patients who are managed with thrombolytics or who are initially to receive no form of reperfusion therapy. Fondaparinux should not be used as the sole anticoagulant during percutaneous coronary intervention (PCI) due to an increased risk of guiding catheter thrombosis. 
+DrugId:  19
+1. Name:  Glycine
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A non-essential amino acid. It is found primarily in gelatin and silk fibroin and used therapeutically as a nutrient. It is also a fast inhibitory neurotransmitter.
+4. Indication:  Supplemental glycine may have antispastic activity. Very early findings suggest it may also have antipsychotic activity as well as antioxidant and anti-inflammatory activities.
+DrugId:  20
+1. Name:  Solnatide
+2. Groups:  Investigational
+3. Description:  Solnatide has been used in trials studying the treatment of Acute Lung Injury.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  99mTc-glucarate
+2. Groups:  Investigational
+3. Description:  99mTc-glucarate(GLA) is an agent for non-invasive detection of breast tumours.
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  22
+1. Name:  Nintedanib
+2. Groups:  Approved
+3. Description:  Nintedanib is a drug indicated for the treatment of idiopathic pulmonary fibrosis (IPF) that targets multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs). Nintedanib inhibits the following RTKs: platelet-derived growth factor receptor (PDGFR) α and β, fibroblast growth factor receptor (FGFR) 1-3, vascular endothelial growth factor receptor (VEGFR) 1-3, and Fms-like tyrosine kinase-3 (FLT3). Among them, FGFR, PDGFR, and VEGFR have been implicated in IPF pathogenesis. Nintedanib binds competitively to the adenosine triphosphate (ATP) binding pocket of these receptors and blocks the intracellular signaling which is crucial for the proliferation, migration, and transformation of fibroblasts representing essential mechanisms of the IPF pathology. In addition, nintedanib inhibits the following nRTKs: Lck, Lyn and Src kinases. The contribution of FLT3 and nRTK inhibition to IPF efficacy is unknown.Idiopathic pulmonary fibrosis (IPF) is a progressive and ultimately fatal lung disease characterized by a progressive loss of lung function with worsening dyspnoea and cough. Development is thought to be instigated by repetitive lung injury (such as by cigarette smoke, industrial dusts, gastrooesophageal reflux and viral infection) leading to destruction of epithelial alveolar cells. Subsequent dysregulation of the repair process results in the proliferation/migration of fibroblasts and their differentiation into myofibroblasts, abnormal extracellular matrix deposition and excessive collagen accumulation in the lung interstitium and alveolar space, leading to progressive fibrosis and stiffening of the lungs. Vascular endothelial growth factor (VEGF), fibroblast growth factor (FGF) and platelet-derived growth factor (PDGF) mediate various processes, including fibrogenesis and angiogenesis, and are implicated in the pathogenesis of IPF. By blocking substrate binding and downstream signalling cascades, nintedanib interferes with processes active in fibrosis such as fibroblast proliferation, migration and differentiation, and the secretion of extracellular matrix.
+4. Indication:  Nintedanib is indicated for the treatment of idiopathic pulmonary fibrosis (IPF).
+DrugId:  23
+1. Name:  Efonidipine
+2. Groups:  Approved, Investigational
+3. Description:  Efonidipine (INN) is a dihydropyridine calcium channel blocker marketed by Shionogi & Co. of Japan. It was launched in 1995, under the brand name Landel. The drug blocks both T-type and L-type calcium channels [1, 2]. It has also been studied in atherosclerosis and acute renal failure [2]. This drug is also known as NZ-105, and several studies have been done on its pharmacokinetics in animals [13].
+4. Indication:  For the treatment of hypertension.
+DrugId:  24
+1. Name:  Sprifermin
+2. Groups:  Investigational
+3. Description:  Sprifermin has been used in trials studying the treatment of Osteoarthritis, Knee and Cartilage Injury of Knee.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Diflunisal
+2. Groups:  Approved, Investigational
+3. Description:  Diflunisal, a salicylate derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with pharmacologic actions similar to other prototypical NSAIAs. Diflunisal possesses anti-inflammatory, analgesic and antipyretic activity. Though its mechanism of action has not been clearly established, most of its actions appear to be associated with inhibition of prostaglandin synthesis via the arachidonic acid pathway. Diflunisal is used to relieve pain accompanied with inflammation and in the symptomatic treatment of rheumatoid arthritis and osteoarthritis.
+4. Indication:  For symptomatic treatment of mild to moderate pain accompanied by inflammation (e.g. musculoskeletal trauma, post-dental extraction, post-episiotomy), osteoarthritis, and rheumatoid arthritis.

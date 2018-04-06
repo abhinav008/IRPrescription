@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  3
+1. Name:  Valganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Valganciclovir hydrochloride (Valcyte, manufactured by Roche) is an antiviral medication used to treat cytomegalovirus infections. As the L-valyl ester of ganciclovir, it is actually a prodrug for ganciclovir. After oral administration, it is rapidly converted to ganciclovir by intestinal and hepatic esterases.
+4. Indication:  Valganciclovir is an antiviral medication used for the treatment of cytomegalovirus infections.
+DrugId:  4
+1. Name:  Lobucavir
+2. Groups:  Investigational
+3. Description:  Lobucavir has been used in trials studying the treatment of HIV Infections and Cytomegalovirus Infections.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Fiacitabine
+2. Groups:  Investigational
+3. Description:  Fiacitabine has been used in trials studying the treatment of HIV Infections and Cytomegalovirus Infections.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  An acyclovir analog that is a potent inhibitor of the Herpesvirus family including cytomegalovirus. Ganciclovir is used to treat complications from AIDS-associated cytomegalovirus infections. [PubChem]
+4. Indication:  For induction and maintenance in the treatment of cytomegalovirus (CMV) retinitis in immunocompromised patients, including patients with acquired immunodeficiency syndrome (AIDS). Also used in the treatment of severe cytomegalovirus (CMV) disease, including CMV pneumonia, CMV gastrointestinal disease, and disseminated CMV infections, in immunocompromised patients.
+DrugId:  7
+1. Name:  Foscarnet
+2. Groups:  Approved
+3. Description:  An antiviral agent used in the treatment of cytomegalovirus retinitis. Foscarnet also shows activity against human herpesviruses and HIV. [PubChem]
+4. Indication:  For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS) and for treatment of acyclovir-resistant mucocutaneous HSV infections in immunocompromised patients.
+DrugId:  8
+1. Name:  Brincidofovir
+2. Groups:  Investigational
+3. Description:  Brincidofovir is under investigation for the prevention of Outcomes, Survival Rates, and Cytomegalovirus Disease. Brincidofovir has been investigated for the prevention and treatment of CMV, Adenovirus, BK Virus (BKV), Adenoviruses (AdV), and Epstein-Barr (EBV), among others.Brincidofovir is an oral antiviral drug candidate for the treatment of smallpox infections and complications resulting from smallpox vaccine. It is a lipid mimic of cidofovir formed by linking a lipid 3-hexadecyloxy-1-propanol, to the phosphonate group of cidofovir. Brincidofovir is designed to cross cellular membranes by passive diffusion (vida supra, Phospholipid Mimics Designed to Facilitate Uptake in the Small Intestine). Uptake by this mechanism should be more efficient and lead to a more rapid accumulation of cidofovir in the cytoplasm of the target cell. Once it has reached the cytoplasm, CDV is phosphorylated by host cell nucleoside kinases to form the active antiviral agent cidofovir diphosphate.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Maribavir
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in viral infection, transplantation (organ or tissue), cytomegalovirus (CMV) retinitis, and retinal disorders (unspecified).
+DrugId:  10
+1. Name:  Cidofovir
+2. Groups:  Approved
+3. Description:  Cidofovir is an injectable antiviral medication for the treatment of cytomegalovirus (CMV) retinitis in patients with AIDS. It suppresses CMV replication by selective inhibition of viral DNA synthesis. [Wikipedia]
+4. Indication:  For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS)
+DrugId:  11
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  12
+1. Name:  Fomivirsen
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Fomivirsen is a antisense 21 mer phosphorothioate oligonucleotide. It is an antiviral agent that was used in the treatment of cytomegalovirus retinitis (CMV) in immunocompromised patients, including those with AIDS. As a complementary nucleotide to the messenger RNA of the major immediate-early region proteins of human cytomegalovirus, it disrupts the replication of the virus through an antisense mechanism [6]. It was discovered at the NIH and was licensed and initially developed by Isis Pharmaceuticals, which subsequently licensed it to Novartis [3]. The drug was withdrawn by the FDA because while there was a high unmet need for drugs to treat CMV when the drug was initially discovered and developed due to the CMV arising in people with AIDS, the development of HAART dramatically reduced the number of cases of CMV. Fomivirsen is marketed under the trade name Vitravene for intravitreal injection and was the first antisense drug to be approved by the Food and Drug Administration (FDA).
+4. Indication:  Indicated for the local treatment of cytomegalovirus (CMV) retinitis in patients with acquired immunodeficiency syndrome (AIDS), when other therapy has been ineffective or is considered unsuitable [FDA Label].
+DrugId:  13
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  14
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  15
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  16
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  18
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Letermovir
+2. Groups:  Approved, Investigational
+3. Description:  Letermovir recieved approval from the FDA on November 8th, 2017 for use in prophylaxis of cytomegalovirus (CMV) infection in allogeneic hematopoietic stem cell transplant patients [6]. It represents the first entry into a new class of CMV anti-infectives, DNA terminase complex inhibitors [3]. Letermovir has recieved both priority and orphan drug status from the FDA. It is currently marketed under the brand name Prevymis [6].
+4. Indication:  For use in prophylaxis of cytomegalovirus (CMV) infection and disease in adult CMV-seropositive recipients of an allogeneic hematopoietic stem cell transplant (HSCT) [FDA Label].
+DrugId:  21
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Gepotidacin
+2. Groups:  Investigational
+3. Description:  Gepotidacin has been used in trials studying the treatment of Gonorrhea, Infections, Bacterial, and Infections, Respiratory Tract.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  24
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  25
+1. Name:  KB001
+2. Groups:  Investigational
+3. Description:  KB001 is a Humaneered™ PEGylated monoclonal antibody fragment for the treatment of life-threatening Pseudomonas aeruginosa infections, a common problem of cystic fibrosis and mechanically ventilated patients.
+4. Indication:  For the treatment of infections caused by multi-drug resistant Pseudomonas aeruginosa.

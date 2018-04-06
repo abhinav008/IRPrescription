@@ -1,0 +1,20 @@
+DrugId:  1
+1. Name:  Tropicamide
+2. Groups:  Approved, Investigational
+3. Description:  One of the muscarinic antagonists with pharmacologic action similar to atropine and used mainly as an ophthalmic parasympatholytic or mydriatic. [PubChem]
+4. Indication:  Indicated to induce mydriasis (dilation of the pupil) and cycloplegia (paralysis of the ciliary muscle of the eye) in diagnostic procedures, such as measurement of refractive errors and examination of the fundus of the eye.
+DrugId:  2
+1. Name:  Demecarium
+2. Groups:  Approved
+3. Description:  Demecarium is an indirect-acting parasympathomimetic agent that is used to treat glaucoma. It is a cholinesterase inhibitor or an anticholinesterase. Cholinesterase inhibitors prolong the effect of acetylcholine, which is released at the neuroeffector junction of parasympathetic postganglion nerves, by inactivating the cholinesterases that break it down. Demecarium inactivates both pseudocholinesterase and acetylcholinesterase. In the eye, this causes constriction of the iris sphincter muscle (causing miosis) and the ciliary muscle. The outflow of the aqueous humor is facilitated, which leads to a reduction in intraocular pressure.
+4. Indication:  For the topical treatment of chronic open-angle glaucoma.
+DrugId:  3
+1. Name:  Glycine betaine
+2. Groups:  Approved, Nutraceutical
+3. Description:  Betaine is a methyl group donor that functions in the normal metabolic cycle of methionine and reduces homocystinuria in patients with inborn errors of methionine metabolism. In the United States, betaine is distributed under the brand name Cystadane® by Rare Disease Therapeutics. Many reports have shown that betaine's therapeutic effectiveness is limited, and does not lower tHcy levels or prevent clinical symptoms [2].
+4. Indication:  Betaine is indicated for the treatment of homocystinuria to decrease elevated homocysteine blood levels. Included within the category of homocystinuria are deficiencies or defects in: 1. cystathionine beta-synthase (CBS), 2. 5,10-methylenetetrahydrofolate reductase (MTHFR), 3. cobalamin cofactor metabolism (cbl). 
+DrugId:  4
+1. Name:  Etoposide
+2. Groups:  Approved
+3. Description:  A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Etoposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent entry into the mitotic phase of cell division, and lead to cell death. Etoposide acts primarily in the G2 and S phases of the cell cycle. [PubChem]
+4. Indication:  For use in combination with other chemotherapeutic agents in the treatment of refractory testicular tumors and as first line treatment in patients with small cell lung cancer. Also used to treat other malignancies such as lymphoma, non-lymphocytic leukemia, and glioblastoma multiforme.

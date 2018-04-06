@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Tetanus Immune Globulin
+2. Groups:  Approved
+3. Description:  Tetanus Immune Globulin is manufactured from human plasma [FDA Label]. It contains antibodies against tetanus toxoid and is primarily used as prophylaxis against tetanus in wounded patients.
+4. Indication:  For use as prophylaxis against tetanus in patients who are injured and have incomplete of uncertain immunization statu [FDA Label]. May also be used in the treatment of active tetanus.
+DrugId:  2
+1. Name:  Sodium aurothiomalate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium aurothiomalate is a gold compound that is used for its immunosuppressive anti-rheumatic effects. Gold Sodium Thiomalate is supplied as a solution for intramuscular injection containing 50 mg of Gold Sodium Thiomalate per mL. It is most effective in active progressive rheumatoid arthritis and of little or no value in the presence of extensive deformities or in the treatment of other forms of arthritis.
+4. Indication:  As anti-inflammatory agent for the treatment of arthritis. Disease-modifying antirheumatic drug, DMARD.
+DrugId:  3
+1. Name:  Human rabies virus immune globulin
+2. Groups:  Approved
+3. Description:  IMOGAM Rabies Pasteurized is indicated for post-exposure prophylaxis in persons suspected of exposure to rabies, who have not previously received a complete immunization regimen with a cell culture produced rabies vaccine.Persons previously vaccinated with other types of rabies vaccines in whom adequate antibody levels have not been demonstrated should receive full post-exposure prophylaxis with RIG and a cell culture-produced rabies vaccine.IMOGAM Rabies Pasteurized should be administered promptly after exposure, in conjunction with rabies vaccine. If IMOGAM Rabies Pasteurized is not administered as recommended at the initiation of the post-exposure rabies vaccine series, it can be administered up to eight days following the first dose of the rabies vaccine. Since rabies vaccine-induced antibody begins to appear within one week, there is no value in administering rabies immune globulin more than eight days after rabies vaccination has begun.Recommendations for passive and/or active immunization after exposure to an animal suspected of having rabies have been outlined by the National Advisory Committee on Immunization (NACI), the Advisory Committee on Immunization Practices (ACIP), and the World Health Organization (WHO).
+4. Indication:  For use in prophylaxis against rabies virus in patients who have been exposed to the virus and are immunocompromised or have not previously recieved the rabies vaccine [FDA Label].
+DrugId:  4
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  5
+1. Name:  Methimazole
+2. Groups:  Approved
+3. Description:  A thioureylene antithyroid agent that inhibits the formation of thyroid hormones by interfering with the incorporation of iodine into tyrosyl residues of thyroglobulin. This is done by interfering with the oxidation of iodide ion and iodotyrosyl groups through inhibition of the peroxidase enzyme. [PubChem]
+4. Indication:  For the treatment of hyperthyroidism, goiter, Graves disease and psoriasis.
+DrugId:  6
+1. Name:  Chlorambucil
+2. Groups:  Approved
+3. Description:  A nitrogen mustard alkylating agent used as antineoplastic agent for the treatment of various malignant and nonmalignant diseases. Although it is less toxic than most other nitrogen mustards, it has been listed as a known carcinogen in the Fourth Annual Report on Carcinogens (NTP 85-002, 1985). (Merck Index, 11th ed)
+4. Indication:  For treatment of chronic lymphatic (lymphocytic) leukemia, childhood minimal-change nephrotic syndrome, and malignant lymphomas including lymphosarcoma, giant follicular lymphoma, Hodgkin's disease, non-Hodgkin's lymphomas, and Waldenström’s Macroglobulinemia.
+DrugId:  7
+1. Name:  Bumetanide
+2. Groups:  Approved
+3. Description:  A sulfamyl diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, hepatic and renal disease including the nephrotic syndrome.
+DrugId:  8
+1. Name:  Trichlormethiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with properties similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p830)
+4. Indication:  Used in the treatment of oedema (including that associated with heart failure) and hypertension.
+DrugId:  9
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  10
+1. Name:  Spironolactone
+2. Groups:  Approved
+3. Description:  A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)
+4. Indication:  Used primarily to treat low-renin hypertension, hypokalemia, and Conn's syndrome.
+DrugId:  11
+1. Name:  Cyclophosphamide
+2. Groups:  Approved, Investigational
+3. Description:  Precursor of an alkylating nitrogen mustard antineoplastic and immunosuppressive agent that must be activated in the liver to form the active aldophosphamide. It has been used in the treatment of lymphoma and leukemia. Its side effect, alopecia, has been used for defleecing sheep. Cyclophosphamide may also cause sterility, birth defects, mutations, and cancer. [PubChem]
+4. Indication:  Cyclophosphamide is indicated for the treatment of malignant lymphomas, multiple myeloma, leukemias, mycosis fungoides (advanced disease), neuroblastoma (disseminated disease), adenocarcinoma of the ovary, retinoblastoma, and carcinoma of the breast. It is also indicated for the treatment of biopsy-proven minimal change nephrotic syndrome in pediatric patients. 
+DrugId:  12
+1. Name:  Triamterene
+2. Groups:  Approved
+3. Description:  A pteridine that is used as a mild diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and the nephrotic syndrome; also in steroid-induced edema, idiopathic edema, and edema due to secondary hyperaldosteronism.
+DrugId:  13
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  14
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  17
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  TC-5231
+2. Groups:  Investigational
+3. Description:  TC-5231 is a small molecule that has been under investigation as an oral treatment for ADHD (Attention Deficit/Hyperactivity Disorder). TC-5231 is mecamylamine hydrochloride, the active ingredient in FDA-approved product, Inversine, but in a lower dose than Inversine. 
+4. Indication:  Investigated for use/treatment in attention deficit/hyperactivity disorder (ADHD), neurologic disorders, and tourette's syndrome.
+DrugId:  19
+1. Name:  Glucagon-like peptide II
+2. Groups:  Investigational
+3. Description:  Glucagon-like peptide II is under investigation for the basic science of Short Bowel Syndrome.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  21
+1. Name:  AT7519
+2. Groups:  Investigational
+3. Description:  AT7519 is a selective inhibitor of certain Cyclin Dependent Kinases (CDKs) leading to tumour regression. It is developed by Astex for the treatment of solid tumours and haematological malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (unspecified), lymphoma (unspecified), myelodysplastic syndrome, and solid tumors.
+DrugId:  22
+1. Name:  Evening primrose oil
+2. Groups:  Approved, Investigational
+3. Description:  Evening primrose oil is extracted fromthe seeds of Oenothera biennis, a plant native to eastern and central North America. It contains about 7-10% of gamma-linolenic acid (GLA), which is involved in the synthesis of prostaglandin. Evening primrose oil is used in skin disorders such as eczema, psoriasis, and acne for temporary symptomatic relief. It is also used in temporary pain management for conditions such as rheumatoid arthritis, osteoporosis, Raynaud’s syndrome, and multiple sclerosis. It is also used in chronic fatigue, asthma, hyperactivity in children, gastrointestinal disorders including ulcerative colitis, irritable bowel syndrome, and peptic ulcer disease. Uses of evening primrose oil in women for premenstrual syndrome (PMS), breast pain, endometriosis, and symptoms of menopause such as hot flashes are reported.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  LX1031
+2. Groups:  Investigational
+3. Description:  LX1031 is an orally-dosed drug candidate for irritable bowel syndrome and other gastrointestinal disorders. LX1031 was generated by Lexicon medicinal chemists, and its target was internally identified as a key control point for the regulation of peripheral serotonin levels. LX1031 is designed to act locally in the gastrointestinal tract by reducing the serotonin available for receptor activation, without affecting serotonin levels in the brain or its central nervous system functions.
+4. Indication:  Irritable bowel syndrome (IBS) and other gastrointestinal disorders
+DrugId:  24
+1. Name:  CAM-2029
+2. Groups:  Investigational
+3. Description:  CAM2029 is a new ready-to-use, long-acting octreotide formulation being developed for the long-term treatment of acromegaly, carcinoid syndrome and vasoactive intestinal peptide (VIP)-producing tumours. CAM2029 was found to provide long-acting release of octreotide resulting in a statistically significant suppression of a clinical biomarker insulin-like growth factor 1 (IGF-1) over the target one-month therapeutic period.
+4. Indication:  Investigated for use/treatment in acromegaly and cancer/tumors (unspecified).
+DrugId:  25
+1. Name:  Milatuzumab
+2. Groups:  Investigational
+3. Description:  Milatuzumab has been used in trials studying the treatment of Lupus Nephritis, Multiple Myeloma (MM), GVHD (Acute or Chronic), Myelodysplastic Syndrome, and Chronic Lymphocytic Leukemia, among others.
+4. Indication:  Not Available

@@ -1,0 +1,40 @@
+DrugId:  1
+1. Name:  Calcium glubionate
+2. Groups:  Approved
+3. Description:  Calcium glubionate (or glubionate calcium) is a mineral supplement to prevent or treat low blood calcium levels in people who do not get enough calcium from their diets.
+4. Indication:  Calcium glubionate is indicated to treat conditions caused by low calcium levels such as bone loss (osteoporosis), weak bones (osteomalacia/rickets), decreased activity of the parathyroid gland (hypoparathyroidism), and a certain muscle disease (latent tetany). It may also be used in certain patients to make sure they are getting enough calcium (e.g., women who are pregnant, nursing, or postmenopausal, people taking certain medications such as phenytoin, phenobarbital, or prednisone).
+DrugId:  2
+1. Name:  Dihydrotachysterol
+2. Groups:  Approved
+3. Description:  A vitamin D that can be regarded as a reduction product of vitamin D2.
+4. Indication:  Used for the prevention and treatment of rickets or osteomalacia, and to manage hypocalcemia associated with hypoparathyroidism or pseudohypoparathyroidism. Also used for the treatment of vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  3
+1. Name:  Iodide I-131
+2. Groups:  Approved, Investigational
+3. Description:  Iodide I-131 (as Sodium iodide I-131) is a radioisotopic drug used for the treatment and palliation of thyroid malignancy. Iodine-131 is notable for causing mutation and death in cells that it penetrates, which is due to its mode of beta decay. As a result of beta decay, approximately 10% of its energy and radiation dose is via gamma radiation, while the other 90% (beta radiation) causes tissue damage without contributing to any ability to see or image the isotope. Low levels of beta radiation are also known for causing cancer as this dose is highly mutagenic. For this reason, less toxic iodine isotopes such as I-123 are more frequently used in nuclear imaging, while I-131 is reserved for its tissue destroying effects. Because the thyroid gland naturally takes up iodine from the body, therapeutic methods using radioisotopes can take advantage of this mechanism for localization of drug to the site of malignancy. Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+4. Indication:  Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+DrugId:  4
+1. Name:  Calcitriol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Calcitriol or 1,25-dihydroxycholecalciferol (abbreviated 1,25-(OH)2-D3) is the active form of vitamin D found in the body (vitamin D3). Calcitriol is marketed under various trade names including Rocaltrol (Roche), Calcijex (Abbott) and Decostriol (Mibe, Jesalis). It is produced in the kidneys via 25-hydroxyvitamin D-1 α-hydroxylase by conversion from 25-hydroxycholecalciferol (calcidiol). This is stimulated by a decrease in serum calcium, phosphate (PO43−) and parathyroid hormone (PTH) levels. It regulates calcium levels by increasing the absorption of calcium and phosphate from the gastrointestinal tract, increasing calcium and phosphate reabsorption in the kidneys and inhibiting the release of PTH. Calcitriol is also commonly used as a medication in the treatment of hypocalcemia and osteoporosis.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  5
+1. Name:  Calcidiol
+2. Groups:  Approved, Nutraceutical
+3. Description:  The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  6
+1. Name:  Ergocalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Ergocalciferol (Vitamin D2) is a derivative of ergosterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from cholecalciferol in having a double bond between C22 and C23 and a methyl group at C24.
+4. Indication:  For use in the management of hypocalcemia and its clinical manifestations in patients with hypoparathyroidism, as well as for the treatment of familial hypophosphatemia (vitamin D resistant rickets). This drug has also been used in the treatment of nutritional rickets or osteomalacia, vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  7
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  8
+1. Name:  Hydrochlorothiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It has been used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism. [PubChem]
+4. Indication:  For the treatment of high blood pressure and management of edema.

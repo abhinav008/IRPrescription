@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Tianeptine
+2. Groups:  Approved, Investigational
+3. Description:  Tianeptine is a drug used primarily in the treatment of major depressive disorder and has been studied in the treatment of irritable bowel syndrome (IBS) [3]. Structurally, it is classified as a tricyclic antidepressant (TCA), but it possesses different pharmacological properties than typical tricyclic antidepressants [1].Tianeptine was discovered and patented by The French Society of Medical Research in the 1960s. Currently, tianeptine is approved in France and manufactured and marketed by Laboratories Servier SA; it is also marketed in several other European countries under the trade name “Coaxil” as well as in Asia (including Singapore) and Latin America as “Stablon” and “Tatinol” but it is not available in Australia, Canada, New Zealand, the U.K. or the U.S.
+4. Indication:  Used primarily in the treatment of major depressive disorder and anxiety [1]. It is currently being studied for fibromyalgia pain treatment [16].
+DrugId:  2
+1. Name:  Carbamazepine
+2. Groups:  Approved, Investigational
+3. Description:  An anticonvulsant used to control grand mal and psychomotor or focal seizures. Its mode of action is not fully understood, but some of its actions resemble those of phenytoin; although there is little chemical resemblance between the two compounds, their three-dimensional structure is similar. [PubChem]
+4. Indication:  For the treatment of epilepsy and pain associated with true trigeminal neuralgia. 
+DrugId:  3
+1. Name:  Chlorpromazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  The prototypical phenothiazine antipsychotic drug. Like the other drugs in this class, chlorpromazine's antipsychotic actions are thought to be due to long-term adaptation by the brain to blocking dopamine receptors. Chlorpromazine has several other actions and therapeutic uses, including as an antiemetic and in the treatment of intractable hiccup.
+4. Indication:  For the treatment of schizophrenia; to control nausea and vomiting; for relief of restlessness and apprehension before surgery; for acute intermittent porphyria; as an adjunct in the treatment of tetanus; to control the manifestations of the manic type of manic-depressive illness; for relief of intractable hiccups; for the treatment of severe behavioral problems in children (1 to 12 years of age) marked by combativeness and/or explosive hyperexcitable behavior (out of proportion to immediate provocations), and in the short-term treatment of hyperactive children who show excessive motor activity with accompanying conduct disorders consisting of some or all of the following symptoms: impulsivity, difficulty sustaining attention, aggressivity, mood lability, and poor frustration tolerance.
+DrugId:  4
+1. Name:  Phenytoin
+2. Groups:  Approved, Vet approved
+3. Description:  An anticonvulsant that is used in a wide variety of seizures. It is also an anti-arrhythmic and a muscle relaxant. The mechanism of therapeutic action is not clear, although several cellular actions have been described including effects on ion channels, active transport, and general membrane stabilization. The mechanism of its muscle relaxant effect appears to involve a reduction in the sensitivity of muscle spindles to stretch. Phenytoin has been proposed for several other therapeutic uses, but its use has been limited by its many adverse effects and interactions with other drugs. [PubChem]
+4. Indication:  For the control of generalized tonic-clonic (grand mal) and complex partial (psychomotor, temporal lobe) seizures and prevention and treatment of seizures occurring during or following neurosurgery.
+DrugId:  5
+1. Name:  Quinidine
+2. Groups:  Approved, Investigational
+3. Description:  An optical isomer of quinine, extracted from the bark of the Cinchona tree and similar plant species. This alkaloid dampens the excitability of cardiac and skeletal muscles by blocking sodium and potassium currents across cellular membranes. It prolongs cellular action potential, and decreases automaticity. Quinidine also blocks muscarinic and alpha-adrenergic neurotransmission.
+4. Indication:  For the treatment of ventricular pre-excitation and cardiac dysrhythmias
+DrugId:  6
+1. Name:  Phenacemide
+2. Groups:  Approved
+3. Description:  Phenacemide is used to control certain seizures in the treatment of epilepsy. This medicine acts on the central nervous system (CNS) to reduce the number and severity of seizures.
+4. Indication:  Used to control certain seizures in the treatment of epilepsy.
+DrugId:  7
+1. Name:  Primidone
+2. Groups:  Approved, Vet approved
+3. Description:  An antiepileptic agent related to the barbiturates; it is partly metabolized to phenobarbital in the body and owes some of its actions to this metabolite. Adverse effects are reported to be more frequent than with phenobarbital. (From Martindale, The Extra Pharmacopoeia, 30th ed, p309)
+4. Indication:  For the treatment of epilepsy
+DrugId:  8
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  9
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  10
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  11
+1. Name:  Ethotoin
+2. Groups:  Approved
+3. Description:  Ethotoin is a hydantoin derivative and anticonvulsant. Ethotoin exerts an antiepileptic effect without causing general central nervous system depression. The mechanism of action is probably very similar to that of phenytoin. The latter drug appears to stabilize rather than to raise the normal seizure threshold, and to prevent the spread of seizure activity rather than to abolish the primary focus of seizure discharges. Ethotoin is no longer commonly used. 
+4. Indication:  For the control of tonic-clonic (grand mal) and complex partial (psychomotor) seizures.
+DrugId:  12
+1. Name:  Safinamide
+2. Groups:  Approved, Investigational
+3. Description:  Safinamide is for the treatment of parkinson's disease. It was approved in Europe in February 2015, and in the United States on March 21, 2017.
+4. Indication:  Safinamide is indicated as an add-on treatment to levodopa with or without other medicines for Parkinson’s disease
+DrugId:  13
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  14
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  15
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  16
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  17
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  prGCD
+2. Groups:  Investigational
+3. Description:  GCD represents the combination treatment of gemcitabine, carboplatin, and dexamethasone.
+4. Indication:  Investigated for use/treatment in metabolic disease and neurologic disorders.
+DrugId:  19
+1. Name:  Promazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine with actions similar to chlorpromazine but with less antipsychotic activity. It is primarily used in short-term treatment of disturbed behavior and as an antiemetic. Promazine is not approved for use in the United States.
+4. Indication:  Used as an adjunct for short term treatment of moderate and severe psychomotor agitation. Also used to treat agitation or restlessness in the elderly.
+DrugId:  20
+1. Name:  SGS518
+2. Groups:  Investigational
+3. Description:  SGS518, a novel antagonist for the 5HT6 subtype of the serotonin receptor, is being developed as a treatment for Cognitive Impairment Associated with Schizophrenia (CIAS).
+4. Indication:  Investigated for use/treatment in neurologic disorders and schizophrenia and schizoaffective disorders.
+DrugId:  21
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  22
+1. Name:  Facinicline
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  23
+1. Name:  VSF-173
+2. Groups:  Investigational
+3. Description:  VSF-173 is an oral small molecule. It is an oral compound that has demonstrated effects on animal sleep/wake patterns and gene expression patterns suggestive of a stimulant effect. It is developed for the treatment of excessive sleepiness. Study shows that VSF-173 possesses a novel mechanism to address disorders of excessive sleepiness.
+4. Indication:  Investigated for use/treatment in sleep disorders.
+DrugId:  24
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  25
+1. Name:  Sodium oxybate
+2. Groups:  Approved
+3. Description:  Sodium oxybate (Xyrem) is a central nervous system depressant used for the treatment of cataplexy and extreme daytime sleepiness (EDS) associated with narcolepsy. It is the sodium salt of gamma hydroxybutyric acid (GHB) which is an endogenous compound and a metabolite of the neurotransmitter GABA. The exact mechanism of action for treating EDS and cataplexy is not known but is is hypothesised that its therapeutic effects are due to GABA(B) effects on noradrenergic, dopaminaergic and thalamocorticol neurons. The drug follows non-linear pharmacokinetics. As it has been associated with misuse/abuse it is strictly controlled and all patients and prescribers must enroll in the sodium oxybate REMs program in order to gain access to the medication.
+4. Indication:  For the treatment of cataplexy in narcolepsy and excessive daytime sleepiness (EDS) in narcolepsy.

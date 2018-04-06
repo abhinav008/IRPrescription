@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  2
+1. Name:  Eptacog alfa pegol (activated)
+2. Groups:  Investigational
+3. Description:  Eptacog alfa pegol (activated) has been used in trials studying the prevention and treatment of Haemophilia A, Haemophilia B, Congenital Bleeding Disorder, Haemophilia B With Inhibitors, and Haemophilia A With Inhibitors.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Concizumab
+2. Groups:  Investigational
+3. Description:  Concizumab has been used in trials studying the treatment of Haemophilia A and Congenital Bleeding Disorder.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Vatreptacog alfa
+2. Groups:  Investigational
+3. Description:  Vatreptacog Alfa (Activated) has been used in trials studying the treatment of Haemophilia B, Haemophilia A, Congenital Bleeding Disorder, Haemophilia A With Inhibitors, and Haemophilia B With Inhibitors.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Tocofersolan
+2. Groups:  Approved
+3. Description:  Tocofersolan is a polyethylene glycol derivative of α-tocopherol and synthetic water-soluble version of vitamin E. Tocofersolan is an oral treatment of vitamin E deficiency due to digestive malabsorption in pediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis. It was approved by the European Medicines Agency (EMA) in June 2009 under the market name Vedrop. Tocofersolan is also used in cosmetics and pharmaceuticals as an antioxidant.
+4. Indication:  Vedrop is indicated in vitamin E deficiency due to digestive malabsorption in paediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis, from birth (full term newborns) up to 18years of age. [EMA]
+DrugId:  6
+1. Name:  Coagulation factor VII human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation factor VII is human serine protease type enzyme that is involved in the extrinsic coagulation cascade which results in blood clotting.
+4. Indication:  May be administered in cases of uncontrolled bleeding. Factor VII alone can be used in the treatment of congenital hemophilia A or B, acquired hemophilia, congenital factor VII deficiency, and Glanzmann's thrombasthenia. Off label use in the treatment of refractory bleeding after cardiac surgery and warfarin related intracerebral hemorrhage. Brands for human factor VII are currently only in combination with other vitamin K coagulation factors and can be used to reverse vitamin K antagonist activity in patients with acute major bleeds or for urgent surgery/invasive procedures. 
+DrugId:  7
+1. Name:  Sacrosidase
+2. Groups:  Approved
+3. Description:  Sacrosidase is a liquid enzyme preparation from S.cerevisiae used for the treatment of congenital sucrose-isomaltase deficiency (CSID). People with CSID have variable amounts of sucrose-isomaltase enzyme activity and therefore have issues metabolizing dietary disaccharide sucrose causing chronic or intermittent watery diarrhea in infants and children. Treatment options for these patients are limited and usually consists of a lifelong sucrose-free diet; therefore, sacrosidase offers a potential alternative for symptom relief. 
+4. Indication:  For the treatment of congenital sucrose-isomaltase deficiency (CSID).
+DrugId:  8
+1. Name:  Omigapil
+2. Groups:  Investigational
+3. Description:  Omigapil has been used in trials studying the treatment of Congenital Muscular Dystrophy.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  10
+1. Name:  Antihemophilic Factor (Recombinant), PEGylated
+2. Groups:  Approved, Investigational
+3. Description:  Antihemophilic Factor (Recombinant), PEGylated, is a recombinant full-length human coagulation factor VIII (2,332 amino acids with a molecular weight (MW) of 280 kDa) covalently conjugated with at least one molecule of polyethylene glycol (MW 20 kDa). The therapeutic activity of Antihemophilic Factor (Recombinant), PEGylated is a derivative of its parent drug, Antihemophilic Factor (Recombinant). Antihemophilic Factor (Recombinant) is purified from the culture medium using several chromatography columns. The purification process includes immunoaffinity chromatography, in which a monoclonal antibody directed against factor VIII is promoted to selectively isolate the factor VIII from the medium. The production process includes a viral inactivation solvent-detergent treatment step. The Antihemophilic Factor (Recombinant) molecule is then covalently conjugated with the polyethylene glycol, which primarily targets lysine residues [FDA Label].Antihemophilic Factor (Recombinant), PEGylated, was approved by the FDA in November 2015 as the product Adynovate [FDA Label].PEGylation is the covalent attachment of a polyethylene glycol polymer, called PEG, to a drug or protein. It is believed that PEGylation reduces the binding of ADYNOVATE to the LRP1 clearance receptor, allowing for an increased duration of drug circulation in the plasma [6].
+4. Indication:  For the treatment of hemophilia A (congenital factor VIII deficiency) [FDA Label].This medication is a human antihemophilic factor indicated in adolescent and adult patients (12 years and older) with hemophilia A (congenital factor VIII deficiency). It is also used for on-demand treatment and control of bleeding and routine prophylaxis of bleeding episodes. It is not indicated for the treatment of von Willebrand disease [FDA Label].
+DrugId:  11
+1. Name:  Mephenytoin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mephenytoin is used for the treatment of refractory partial epilepsy. Mephenytoin is a solid. This compound belongs to the phenylhydantoins. These are heterocyclic aromatic compounds containing an imiazolidinedione moiety substituted by a phenyl group. Mephenytoin is known to target sodium channel protein type 5 subunit alpha. Cytochrome P450 2C19, Cytochrome P450 2C8, Cytochrome P450 2C9, Cytochrome P450 2B6, Cytochrome P450 1A2, and Cytochrome P450 2D6 are known to metabolize mephenytoin. Mephenytoin is a hydantoin-derivative anticonvulsant used to control various partial seizures. Mephenytoin and oxazolidinedione derivatives are associated with higher incidences of blood dyscrasias compared to other anticonvulsants. It is still studied largely because of its interesting hydroxylation polymorphism.
+4. Indication:  For the treatment of refractory partial epilepsy.
+DrugId:  12
+1. Name:  Verucerfont
+2. Groups:  Investigational
+3. Description:  Verucerfont has been used in trials studying the treatment of Congenital Adrenal Hyperplasia.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Fibrinogen Human
+2. Groups:  Approved
+3. Description:  Fibrinogen concentrate (human) is a hematological agent. It works by replacing a certain protein in the blood that helps with blood clotting.Fibrinogen (factor I) is a soluble plasma glycoprotein with a molecular weight of about 340 kDa.It is a physiological substrate for three enzymes: plasmin, factor XIIIa and thrombin. it is indicated for the treatment of acute bleeding episodes in patients with congenital fibrinogen deficiency, including afibrinogenemia and hypofibrinogenemia.
+4. Indication:  For the treatment of acute bleeding episodes in patients with congenital fibrinogen deficiency, including afibrinogenemia and hypofibrinogenemia.
+DrugId:  14
+1. Name:  Coagulation Factor XIII A-Subunit (Recombinant)
+2. Groups:  Approved
+3. Description:  Coagulation Factor XIII A-Subunit (Recombinant), also known as catridecacog, is a recombinant form of the Factor XIII-A2 homodimer composed of two factor XIII (FXIII) A-subunits [FDA Label]. For people with congenital deficiency or mutation of Factor XIII, a rare bleeding disorder, exogenous replacement of this key coagulation factor is essential for management and prevention of bleeding episodes. Also known as Fibrin Stabilizing Factor (FSF), Factor XIII is an endogenously available coagulation factor and the final enzyme within the blood coagulation cascade. Within the body, FXIII circulates as a heterotetramer composed of 2 catalytic A-subunits and 2 non-catalytic B-subunits (FXIII-A2B2) [4]. When activated by thrombin at the site of injury, the FXIII A2B2 pro-enzyme is cleaved resulting in activation of the catalytic A-subunit and dissociation from its carrier B-subunit. As a result, the active transglutaminase from subunit A cross-links fibrin and other proteins resulting in increased mechanical strength and resistance to fibrinolysis of the fibrin clot. This contributes to enhanced platelet and clot adhesion to injured tissue, thereby improving blood coagulation and maintenance of hemostasis [2].When supplied as the recombinant form, Coagulation Factor XIII A-Subunit (Recombinant) binds to free human FXIII B-subunit resulting in a heterotetramer (rA2B2) with a similar activity profile and half-life as the endogenously available form. In patients with congenital factor XIII A-subunit deficiency, this product (marketed as Tretten) is indicated for the routine prophylaxis of bleeding. In these patients, activated rFXIII has been shown to increase the mechanical strength of fibrin clots, slow down fibrinolysis, and to enhance platelet adhesion to the site of injury. As the half-life of endogenous Factor XIII is long (5-11 days), prophylactic therapy with the replacement of FXIII can be given every 4-6 to maintain hemostasis[4]. Other drug products with similar structure and function to Coagulation Factor XIII A-Subunit (Recombinant) include Factor XIII (human), which is a purified endogenous (human) form of coagulation factor XIII. Compared to Coagulation Factor XIII A-Subunit (Recombinant), which is produced through recombinant DNA technology where the target protein is grown in yeast and then isolated, the human form is isolated from pooled human plasma.Coagulation Factor XIII A-Subunit (Recombinant) is available in the US as the commmercially available product Tretten, and in the EU as NovoThirteen. Tretten is manufactured as an intracellular, soluble protein in yeast (Saccharomyces cerevisiae) production strain containing the episomal expression vector, pD16. It is subsequently isolated by homogenization of cells and purification by several chromatography steps, including hydrophobic interaction and ion exchange chromatography [FDA Label].
+4. Indication:  For routine prophylaxis of bleeding in patients with congenital factor XIII A-Subunit deficiency.
+DrugId:  15
+1. Name:  Fosphenytoin
+2. Groups:  Approved, Investigational
+3. Description:  Fosphenytoin is a water-soluble phenytoin prodrug used only in hospitals for the treatment of epileptic seizures. It works by slowing down impulses in the brain that cause seizures. Its main mechanism is to block frequency-dependent, use-dependent and voltage-dependent neuronal sodium channels, and therefore limit repetitive firing of action potentials.
+4. Indication:  For the control of generalized convulsive status epilepticus and prevention and treatment of seizures occurring during neurosurgery. It can also be substituted, short-term, for oral phenytoin.
+DrugId:  16
+1. Name:  Prazepam
+2. Groups:  Approved, Illicit
+3. Description:  Prazepam is a benzodiazepine that is used in the treatment of anxiety disorders. It is a schedule IV drug in the U.S.
+4. Indication:  For the treatment of anxiety disorders.
+DrugId:  17
+1. Name:  Sulbutiamine
+2. Groups:  Experimental
+3. Description:  Sulbutiamine is a synthetic derivative of thiamine (vitamin B1) under the market name Arcalion that is composed of two modified thiamine molecules to form a dimer. Due to its highly lipophilic property, sulbutiamine crosses the blood-brain barrier more readily than thiamine and increases the levels of thiamine and thiamine phosphate esters in the brain [Wikipedia]. Although its clinical efficacy is not yet defined, sulbutiamine is used to treat asthenia. While its other uses include improvement of erectile dysfunction and reduction of psycho-behavioural inhibition, sulbutiamine showed evidence of modulatory effect on dopaminergic and glutamatergic cortical transmissions. The chronic administration of the drug has demonstrated to improve long term memory formation in mice.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Liothyronine I-131
+2. Groups:  Investigational
+3. Description:  Liothyronine I-131 has been used in trials studying the treatment of Tricuspid Atresia and Heart Defects, Congenital.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  CX717
+2. Groups:  Illicit, Investigational
+3. Description:  CX717 is an ampakine compound created by Dr. Gary Lynch at UCI in 1993 and further developed by Cortex Pharmaceuticals, an Irvine company created to explore possible applications. It is one of a class of synthetic compounds that amplify the signal of glutamate, a neurotransmitter important for learning and memory.
+4. Indication:  April 18 2007 Cortex Pharmaceuticals submitted two large data packages to the FDA regarding CX717. One data set went to the FDA's Division of Neurology Drug Products for the treatment of Alzheimer's disease, while the other went to the Division of Psychiatry Products where the company intends to file a second CX717 IND for the treatment of ADHD. The submitted data package provides clear evidence that the specific histopathological changes seen in animal toxicology studies, which previously caused the FDA to put CX717 on clinical hold, is a postmortem fixation artifact and is not found in the tissue of the animal when it is still living.
+DrugId:  20
+1. Name:  Zuretinol acetate
+2. Groups:  Investigational
+3. Description:  Zuretinol acetate has been used in trials studying the treatment of Impaired Dark Adaptation, RP (Retinitis Pigmentosa), Retinitis Pigmentosa (RP), and LCA (Leber Congenital Amaurosis).
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  22
+1. Name:  Alprostadil
+2. Groups:  Approved, Investigational
+3. Description:  Alprostadil is produced endogenously and causes vasodilation by means of a direct effect on vascular and ductus arteriosus (DA) smooth muscle, preventing or reversing the functional closure of the DA that occurs shortly after birth. This results in increased pulmonary or systemic blood flow in infants. In infants, it is used for palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. In adults, it is used for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+4. Indication:  For palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. Also for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+DrugId:  23
+1. Name:  Mitotane
+2. Groups:  Approved
+3. Description:  A derivative of the insecticide dichlorodiphenyldichloroethane that specifically inhibits cells of the adrenal cortex and their production of hormones. It is used to treat adrenocortical tumors and causes CNS damage, but no bone marrow depression. [PubChem]
+4. Indication:  For treatment of inoperable adrenocortical tumours; Cushing's syndrome
+DrugId:  24
+1. Name:  Dronabinol
+2. Groups:  Approved, Illicit
+3. Description:  A psychoactive compound extracted from the resin of Cannabis sativa (marihuana, hashish). The isomer delta-9-tetrahydrocannabinol (THC) is considered the most active form, producing characteristic mood and perceptual changes associated with this compound. Dronabinol is a synthetic form of delta-9-THC. [PubChem]
+4. Indication:  For the treatment of anorexia associated with weight loss in patients with AIDS, and nausea and vomiting associated with cancer chemotherapy in patients who have failed to respond adequately to conventional antiemetic treatments
+DrugId:  25
+1. Name:  Cinolazepam
+2. Groups:  Approved
+3. Description:  Cinolazepam is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. Cinolazepam is not approved for sale in the United States or Canada.
+4. Indication:  For the management of anxiety disorders or for the short-term relief of the symptoms of anxiety or anxiety associated with depressive symptoms.

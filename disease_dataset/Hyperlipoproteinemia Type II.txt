@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Gemfibrozil
+2. Groups:  Approved
+3. Description:  A lipid-regulating agent that lowers elevated serum lipids primarily by decreasing serum triglycerides with a variable reduction in total cholesterol. These decreases occur primarily in the VLDL fraction and less frequently in the LDL fraction. Gemfibrozil increases HDL subfractions HDL2 and HDL3 as well as apolipoproteins A-I and A-II. Its mechanism of action has not been definitely established. [PubChem]
+4. Indication:  For treatment of adult patients with very high elevations of serum triglyceride levels (types IV and V hyperlipidemia) who are at risk of developing pancreatitis (inflammation of the pancreas) and who do not respond adequately to a strict diet.
+DrugId:  2
+1. Name:  V24343
+2. Groups:  Investigational
+3. Description:  The anti-obesity drug, V24343, acts by targeting the CB1 receptor in the brain and suppressing a person's appetite.
+4. Indication:  Obesity related disorders such as cardiovascular disease and type II diabetes
+DrugId:  3
+1. Name:  Poliovirus type 2 antigen (formaldehyde inactivated)
+2. Groups:  Approved
+3. Description:  Poliovirus type 2 antigen is a suspension of poliovirus Type 2 (MEF-1) used in the active immunization of infants (as young as 6 weeks of age), children, and adults for the prevention of poliomyelitis caused by poliovirus Type 2. The vaccine contains purified and inactivated poliovirus type 2 that were grown from a continuous line of monkey kidney cells.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Clofibrate
+2. Groups:  Approved, Investigational
+3. Description:  A fibric acid derivative used in the treatment of hyperlipoproteinemia type III and severe hypertriglyceridemia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p986)
+4. Indication:  For Primary Dysbetalipoproteinemia (Type III hyperlipidemia) that does not respond adequately to diet. This helps control high cholesterol and high triglyceride levels. 
+DrugId:  5
+1. Name:  Azilsartan medoxomil
+2. Groups:  Approved, Investigational
+3. Description:  Azilsartan medoxomil is an angiotensin II receptor antagonist indicated for the treatment of mild to moderate essential hypertension. Azilsartan medoxomil is a prodrug of Azilsartan marketed as "Edarbi" by Takeda. Azilsartan medoxomil has so far been shown to be superior to olmesartan and valsartan in lowering blood pressure.
+4. Indication:  Treatment of hypertension (alone or as an adjunct).
+DrugId:  6
+1. Name:  Angiotensin II
+2. Groups:  Approved, Investigational
+3. Description:  Angiotensin II is under investigation for the treatment of Sepsis, Septic Shock, Diabetes Mellitus, and Acute Renal Failure. Angiotensin II has been investigated for the treatment, basic science, and diagnostic of Hypertension, Renin Angiotensin System, and Idiopathic Membranous Nephropathy.As of December 21, 2017 the FDA approved La Jolla Pharmaceutical's Giapreza (angiotensin II) Injection for Intravenouse Infusion for the indication of acting as a vasoconstrictor to increase blood pressure in adults with septic or other distributive shock. The novelty of the medication lies in the fact that it is the first and only use of synthetic human angiotensin II to help maintain body blood pressure. Shock is the inability to maintain blood flow to vital tissues and the potential resultant organ failure and death within hours, no matter young or o ld. As distributive shock is the most common type of shock in the inpatient setting and affects up to one third of patients in the intensive care unit, the FDA determined that there is a need for treatment options for critically ill hypotensive patients who do not adequately respond to currently available therapies.
+4. Indication:  Angiotensin II is a vasoconstrictor indicated for increasing blood pressure in adults with septic or other distributive shock [FDA Label].
+DrugId:  7
+1. Name:  Forasartan
+2. Groups:  Experimental
+3. Description:  Forasartan, a specific angiotensin II antagonist, is used alone or with other antihypertensive agents to treat hypertension. Forasartan competes with angiotensin II for binding at the AT1 receptor subtype. As angiotensin II is a vasoconstrictor which also stimulates the synthesis and release of aldosterone, blockage of its effects results in a decreases in systemic vascular resistance.
+4. Indication:  For the treatment of hypertension.
+DrugId:  8
+1. Name:  Tasosartan
+2. Groups:  Approved
+3. Description:  Tasosartan is a long-acting angiotensin II (AngII) receptor blocker. Its long duration of action has been attributed to its active metabolite enoltasosartan. It is used to treat patients with essential hypertension
+4. Indication:  Tasosartan is infrequently in the treatment of hypertension and heart failure.
+DrugId:  9
+1. Name:  Saralasin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Lifibrol
+2. Groups:  Investigational
+3. Description:  Lifibrol has been used in trials studying the basic science of Hyperlipoproteinemia and Hypercholesterolemia.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Aleglitazar
+2. Groups:  Investigational
+3. Description:  Aleglitazar is an investigational drug from the company Hoffmann–La Roche and is currently in a phase III clinical trial called ALECARDIO. It is being investigated for use in patients with type II diabetes to reduce their risks of cardiovascular mortality and morbidity. Aleglitazar is an agonist at the peroxisome proliferator-activated receptor (PPAR) for both the PPARα and PPARγ receptor subtypes. In the phase II clinical trial called SYNCHRONY, with type II diabetic patients, aleglitazar was able to control both lipid and glucose levels in a synergistic manner while also having limited side effects and toxicity.
+4. Indication:  Investigated for use in patients with type II diabetes to reduce their risks of cardiovascular mortality and morbidity.
+DrugId:  12
+1. Name:  Rescinnamine
+2. Groups:  Approved
+3. Description:  Rescinnamine is an angiotensin-converting enzyme inhibitor used as an antihypertensive drug. It is an alkaloid obtained from Rauwolfia serpentina and other species of Rauwolfia. [Wikipedia]
+4. Indication:  For the treatment of hypertension.
+DrugId:  13
+1. Name:  Lambda-Bis(2,2'-Bipyridine)-(5-Methyl-2-2'-Bipyridine)-C9-Adamantane Ruthenium (II)
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  TU-100
+2. Groups:  Investigational
+3. Description:  TU-100 has been used in trials studying the treatment of Abdominal Pain, Colonic Transit, Crohn's Disease, Rectal Sensation, and Gastric Emptying, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Candesartan cilexetil
+2. Groups:  Approved
+3. Description:  Candesartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. It is administered orally as the prodrug, candesartan cilexetil, which is rapidly converted to its active metabolite, candesartan, during absorption in the gastrointestinal tract. Candesartan lowers blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); it competes with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Candesartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of heart failure, systolic dysfunction, myocardial infarction and coronary artery disease.
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Candesartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  16
+1. Name:  Insulin Pork
+2. Groups:  Approved
+3. Description:  Insulin isolated from pig pancreas. Composed of alpha and beta chains, processed from pro-insulin. Forms a hexameric structure.
+4. Indication:  For the treatment of type I and II diabetes mellitus.
+DrugId:  17
+1. Name:  L-Arginine
+2. Groups:  Approved, Nutraceutical
+3. Description:  An essential amino acid that is physiologically active in the L-form.
+4. Indication:  Used for nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  18
+1. Name:  RTA 744
+2. Groups:  Investigational
+3. Description:  RTA 744 is a novel anthracycline derivative that crosses the blood-brain barrier and shows significant potential for the treatment of primary and metastatic brain cancers. Anthracyclines are one of the most broadly used and effective classes of cancer therapies; however, they are not used to treat brain cancers because current therapies do not cross the blood-brain barrier.
+4. Indication:  Investigated for use/treatment in brain cancer.
+DrugId:  19
+1. Name:  Irbesartan
+2. Groups:  Approved, Investigational
+3. Description:  Irbesartan is an angiotensin receptor blocker (ARB) used mainly for the treatment of hypertension. It competes with angiotensin II for binding at the AT1 receptor subtype. Unlike ACE inhibitors, ARBs do not have the adverse effect of dry cough. The use of ARBs is pending revision due to findings from several clinical trials suggesting that this class of drugs may be associated with a small increased risk of cancer.
+4. Indication:  For the treatment of hypertension, as well as diabetic nephropathy with an elevated serum creatinine and proteinuria (>300 mg/day) in patients with type 2 diabetes and hypertension. Irbesartan is also used as a second line agent in the treatment of congestive heart failure.
+DrugId:  20
+1. Name:  Finasteride
+2. Groups:  Approved
+3. Description:  An orally active testosterone 5-alpha-reductase inhibitor. It is used as a surgical alternative for treatment of benign prostatic hyperplasia. [PubChem]
+4. Indication:  For the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate to: Improve symptoms, reduce the risk of acute urinary retention, reduce the risk of the need for surgery including transurethral resection of the prostate. Also used for the stimulation of regrowth of hair in men with mild to moderate androgenetic alopecia (male pattern alopecia, hereditary alopecia, common male baldness).
+DrugId:  21
+1. Name:  CCX915
+2. Groups:  Investigational
+3. Description:  CCX915 is developed by ChemoCentryx which targets the chemokine receptor CCR2 and is in phase 1 of clinical trial for the treatment of Multiple Sclerosis and Neurologic Disorders. The CCR2 receptor is thought to be of central importance to inflammatory diseases, such as multiple sclerosis (MS), Type II diabetes and atherosclerosis.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and neurologic disorders.
+DrugId:  22
+1. Name:  ALT-2074
+2. Groups:  Investigational
+3. Description:  An organoselenium drug previously studied by Oxis International in Phase-II clinical trials for ulcerative colitis patients. Some indications of efficacy were demonstrated. BXT-51072 has enthusiastic endorsement for treatment in cardiovascular indications, primarily because of its ability to mimic the function of glutathione peroxidase.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and diabetes mellitus type 1 and 2.
+DrugId:  23
+1. Name:  Ropidoxuridine
+2. Groups:  Investigational
+3. Description:  Ropidoxuridine is a novel, orally available, thymidine analogue and prodrug for IUdR, which demonstrated a survival advantage in Phase II studies in anaplastic astrocytoma, a type of brain tumor.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  24
+1. Name:  Teniposide
+2. Groups:  Approved
+3. Description:  A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Teniposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent cells from entering into the mitotic phase of the cell cycle, and lead to cell death. Teniposide acts primarily in the G2 and S phases of the cycle. [PubChem]
+4. Indication:  Teniposide is used for the treatment of refractory acute lymphoblastic leukaemia
+DrugId:  25
+1. Name:  Alglucosidase alfa
+2. Groups:  Approved
+3. Description:  Aglucosidase alfa consists of the human enzyme acid alpha-glucosidase (GAA) which is essential for the degradation of glygogen to glucose in lysosomes. It is encoded by the most predominant of nine observed haplotypes of this gene. Aglucosidase alfa is produced by recombinant DNA technology in a Chinese hamster ovary cell line. Alglucosidase alfa degrades glycogen by catalyzing the hydrolysis of a-1,4- and a-1,6- glycosidic linkages of lysosomal glycogen. Structurally, Alglucosidase alfa is a glycoprotein with a calculated mass of 98,008 daltons for the 883 residue mature polypeptide chain, and a total mass of approximately 109,000 daltons, including carbohydrates. It is used for the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.
+4. Indication:  For the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.

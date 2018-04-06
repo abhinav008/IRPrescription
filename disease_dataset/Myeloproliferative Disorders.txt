@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Anagrelide
+2. Groups:  Approved
+3. Description:  Anagrelide is a drug used for the treatment of essential thrombocytosis (ET; essential thrombocythemia). It also has been used in the treatment of chronic myeloid leukemia. [Wikipedia]
+4. Indication:  For the treatment of patients with thrombocythemia, secondary to myeloproliferative disorders, to reduce the elevated platelet count and the risk of thrombosis and to ameliorate associated symptoms including thrombo-hemorrhagic events.
+DrugId:  2
+1. Name:  Erlotinib
+2. Groups:  Approved, Investigational
+3. Description:  Erlotinib hydrochloride (trade name Tarceva, Genentech/OSIP, originally coded as OSI-774) is a drug used to treat non-small cell lung cancer, pancreatic cancer and several other types of cancer.Similar to gefitinib, erlotinib specifically targets the epidermal growth factor receptor (EGFR) tyrosine kinase. It binds in a reversible fashion to the adenosine triphosphate (ATP) binding site of the receptor. Erlotinib has recently been shown to be a potent inhibitor of JAK2V617F activity. JAK2V617F is a mutant of tyrosine kinase JAK2, is found in most patients with polycythemia vera (PV) and a substantial proportion of patients with idiopathic myelofibrosis or essential thrombocythemia. The study suggests that erlotinib may be used for treatment of JAK2V617F-positive PV and other myeloproliferative disorders.
+4. Indication:  For the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen. Also for use, in combination with gemcitabine, as the first-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer.
+DrugId:  3
+1. Name:  Gandotinib
+2. Groups:  Investigational
+3. Description:  Gandotinib has been used in trials studying the treatment of Myelofibrosis, Polycythemia Vera, Primary Myelofibrosis, Thrombocythemia, Essential, and Myeloproliferative Disorders, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Givinostat
+2. Groups:  Investigational
+3. Description:  Givinostat has been used in trials studying the treatment of Polycythemia Vera, Juvenile Idiopathic Arthritis, Duchenne Muscular Dystrophy (DMD), Chronic Myeloproliferative Neoplasms, and Polyarticular Course Juvenile Idiopathic Arthritis.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  PU-H71
+2. Groups:  Investigational
+3. Description:  PU-H71 has been used in trials studying the treatment of LYMPHOMA, Solid Tumors, Metastatic Solid Tumor, and Myeloproliferative Neoplasms (MPN).
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  7
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  8
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  9
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  10
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  11
+1. Name:  Nilotinib
+2. Groups:  Approved, Investigational
+3. Description:  Nilotinib, also known as AMN107, is a tyrosine kinase inhibitor under investigation as a possible treatment for chronic myelogenous leukemia (CML). In June 2006, a Phase I clinical trial found nilotinib has a relatively favorable safety profile and shows activity in cases of CML resistant to treatment with imatinib (Gleevec®), another tyrosine kinase inhibitor currently used as a first-line treatment. [Wikipedia]
+4. Indication:  For the potential treatment of various leukemias, including chronic myeloid leukemia (CML).
+DrugId:  12
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  13
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  14
+1. Name:  prGCD
+2. Groups:  Investigational
+3. Description:  GCD represents the combination treatment of gemcitabine, carboplatin, and dexamethasone.
+4. Indication:  Investigated for use/treatment in metabolic disease and neurologic disorders.
+DrugId:  15
+1. Name:  SGS518
+2. Groups:  Investigational
+3. Description:  SGS518, a novel antagonist for the 5HT6 subtype of the serotonin receptor, is being developed as a treatment for Cognitive Impairment Associated with Schizophrenia (CIAS).
+4. Indication:  Investigated for use/treatment in neurologic disorders and schizophrenia and schizoaffective disorders.
+DrugId:  16
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  17
+1. Name:  Facinicline
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  18
+1. Name:  VSF-173
+2. Groups:  Investigational
+3. Description:  VSF-173 is an oral small molecule. It is an oral compound that has demonstrated effects on animal sleep/wake patterns and gene expression patterns suggestive of a stimulant effect. It is developed for the treatment of excessive sleepiness. Study shows that VSF-173 possesses a novel mechanism to address disorders of excessive sleepiness.
+4. Indication:  Investigated for use/treatment in sleep disorders.
+DrugId:  19
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  20
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  21
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  22
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  23
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  24
+1. Name:  Fipamezole
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in parkinson's disease and neurologic disorders.
+DrugId:  25
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available

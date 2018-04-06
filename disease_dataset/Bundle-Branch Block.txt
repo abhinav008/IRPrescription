@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  2
+1. Name:  Ajmaline
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid found in the root of Rauwolfia serpentina, among other plant sources. It is a class Ia antiarrhythmic agent that apparently acts by changing the shape and threshold of cardiac action potentials. Ajmaline produces potent sodium channel blocking effects and a very short half-life which makes it a very useful drug for acute intravenous treatments. The drug has been very popular in some countries for the treatment of atrial fibrillation in patients with the Wolff–Parkinson–White syndrome and in well tolerated monomorphic ventricular tachycardias. It has also been used for many years as a drug to challenge the conduction system of the heart in cases of bundle branch block and syncope. In these cases, abnormal prolongation of the HV interval has been taken as a proof for infrahisian conduction defects tributary for permanent pacemaker implantation.
+4. Indication:  For use as an antiarrhythmic agent.
+DrugId:  3
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  4
+1. Name:  Mexiletine
+2. Groups:  Approved, Investigational
+3. Description:  Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties. [PubChem]
+4. Indication:  For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.
+DrugId:  5
+1. Name:  Sertraline
+2. Groups:  Approved
+3. Description:  Sertraline hydrochloride belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). Despite distinct structural differences between compounds in this class, SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be required before a clinical effect is seen. SSRIs are potent inhibitors of neuronal serotonin reuptake [7]. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute use, SSRIs block serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The overall clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction and headache (see Toxicity section below for a more detailed listing of side effects). Compared to other agents in this class, sertraline may cause greater diarrheal and male sexual dysfunction effects [5]. Sertraline displays a better safety or tolerability profile than other classes of antidepressants [6]. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants or monoamine oxidase inhibitors [7]. Sertraline has shown therapeutic effectiveness as a treatment for major depressive disorder [1], obsessive-compulsive disorder (OCD) [2], panic disorder, post-traumatic stress disorder (PTSD) [3], premenstrual dysphoric disorder (PMDD) [4] and social anxiety disorder (social phobia).
+4. Indication:  For the management of major depressive disorder (MDD), posttraumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (PD) with or without agoraphobia, premenstrual dysphoric disorder (PMDD), and social anxiety disorder (SAD) [FDA Label]. It may be used for premature ejaculation and vascular headaches as off-label indications. 
+DrugId:  6
+1. Name:  Berkelium
+2. Groups:  Investigational
+3. Description:  Berkelium is under investigation in clinical trial NCT02189122 (Comparative Effects of Aspirin and NHP-544C).
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  CAD106
+2. Groups:  Investigational
+3. Description:  CAD106 is an immunotherapeutic product in development for the treatment of Alzheimer's disease. It is designed to induce antibodies against the beta-amyloid-protein that inhibit the formation of plaques in the brain of Alzheimer's disease patients. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease.
+DrugId:  8
+1. Name:  MLN-977
+2. Groups:  Investigational
+3. Description:  MLN-977 is a small molecule compound that inhibits the production of leukotrienes, especially 5-lipoxygenase. It is developed by PharmaEngine to treat asthma and chronic obstructive pulmonary disease. 
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  9
+1. Name:  INCB7839
+2. Groups:  Investigational
+3. Description:  INCB7839 is a novel, orally available ADAM metalloprotease inhibitor that is designed to block activation of the epidermal growth factor (EGFR) pathways. It represents a potentially important new class of targeted breast cancer therapy. It has shown promising clinical activity in heavily pretreated, refractory breast cancer patients.
+4. Indication:  Investigated for use/treatment in breast cancer.
+DrugId:  10
+1. Name:  Poloxamer 407
+2. Groups:  Approved, Investigational
+3. Description:  Poloxamer 407 is a polyoxyethylene polymer and hydrophilic non-ionic surfactant. It is a triblock copolymer consisting of a central hydrophobic block of polypropylene glycol flanked by two hydrophilic blocks of polyethylene glycol. It is used as an emulsifying agent and solubilizing agent in cosmetic and personal products such as contact lens cleaning solutions.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Samarium
+2. Groups:  Investigational
+3. Description:  Samarium has been used in trials studying the treatment and prevention of Pain, Cancer, Metastasis, Prostate Cancer, and Metastatic Osteosarcoma, among others.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Actinium
+2. Groups:  Investigational
+3. Description:  Actinium has been investigated for the treatment of Breast Cancer and Pulmonary Disease, Chronic Obstructive.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Atractylodes japonica root oil
+2. Groups:  Approved
+3. Description:  Atractylodes japonica root oil is obtained from the roots of Atractylodes japonica, which is a herb native to eastern Asia. It is present in some cosmetic products such as whitening creams as an active ingredient and lubricant for skin irritation. Atractylodes japonica is reported to have anti-inflammatory and antinociceptive effects [1].
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Mivacurium
+2. Groups:  Approved
+3. Description:  Mivacurium is a bisbenzylisoquinolinium based neuromuscular blocker or muscle relaxant. It binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in a block of neuromuscular transmission.
+4. Indication:  For inpatients and outpatients, as an adjunct to general anesthesia, to facilitate tracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  16
+1. Name:  Doxacurium chloride
+2. Groups:  Approved
+3. Description:  Doxacurium chloride is a long-acting, nondepolarizing skeletal muscle relaxant for intravenous administration.
+4. Indication:  Used to provide skeletal muscle relaxation as an adjunct to general anesthesia, for endotracheal intubation or to facilitate mechanical ventilation.
+DrugId:  17
+1. Name:  CGC-11047
+2. Groups:  Investigational
+3. Description:  CGC-11047 is a polyamine analog designed to halt cell growth and induce apoptosis.
+4. Indication:  Investigated for use/treatment in lymphoma (unspecified), macular degeneration, prostate cancer, and solid tumors.
+DrugId:  18
+1. Name:  NOX-100
+2. Groups:  Investigational
+3. Description:  NOX-100 is the new nitric oxide (NO) neutralizing agent being developed by San Diego-based Medinox -- demonstrated its effectiveness and potential as a therapeutic to treat hemorrhagic shock. NOX-100 is the first in a series of proprietary NO neutralizing compounds Medinox is developing to bind and inactivate NO, a simple gas molecule that is a key biological messenger in the body.
+4. Indication:  Investigated for use/treatment in sepsis and septicemia.
+DrugId:  19
+1. Name:  CCR5 mAb
+2. Groups:  Investigational
+3. Description:  CCR5 mAb is a fully human monoclonal antibody that specifically recognizes and binds the chemokine receptor CCR5, which is known to be a key facilitator of infection with human immunodeficiency virus (HIV-1). It was generated by HGS using the Abgenix XenoMouse technology. 
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  20
+1. Name:  Bencyclane
+2. Groups:  Experimental
+3. Description:  A vasodilator agent found to be effective in a variety of peripheral circulation disorders. It has various other potentially useful pharmacological effects. Its mechanism may involve block of calcium channels.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Cisatracurium besylate
+2. Groups:  Approved
+3. Description:  Cisatracurium is a nondepolarizing skeletal muscle relaxant for intravenous administration. Cisatracurium acts on cholinergic receptors, blocking neuromuscular transmission. This action is antagonized by acetylcholinesterase inhibitors such as neostigmine. The neuromuscular block produced by cisatracurium besylate is readily antagonized by anticholinesterase agents once recovery has started. As with other nondepolarizing neuromuscular blocking agents, the more profound the neuromuscular block at the time of reversal, the longer the time required for recovery of neuromuscular function. Compared to other neuromuscular blocking agents, it is intermediate in its onset and duration of action.
+4. Indication:  For inpatients and outpatients as an adjunct to general anesthesia, to facilitate tracheal intubation, and to provide skeletal muscle relaxation during surgery or mechanical ventilation in the ICU.
+DrugId:  22
+1. Name:  Atracurium besylate
+2. Groups:  Approved
+3. Description:  A non-depolarizing neuromuscular blocking agent with short duration of action. Its lack of significant cardiovascular effects and its lack of dependence on good kidney function for elimination provide clinical advantage over alternate non-depolarizing neuromuscular blocking agents. [PubChem]
+4. Indication:  For use, as an adjunct to general anesthesia, to facilitate endotracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  23
+1. Name:  ATL1101
+2. Groups:  Investigational
+3. Description:  ATL1101 is a second-generation antisense drug designed to block the synthesis of the IGF-1 receptor, a protein involved in the regulation of cell overgrowth in psoriasis. ATL1101 is being developed as a cream for the topical treatment of mild to moderate cases of psoriasis.
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders.
+DrugId:  24
+1. Name:  RP01
+2. Groups:  Investigational
+3. Description:  RP01 is a novel anti-IgE immunotherapy for allergic individuals. It is designed to induce the immune system to produce antibodies that block Immunoglobulin E (IgE), the key mediator of an allergic response. It could offer benefit to millions of asthma and allergy patients.
+4. Indication:  Investigated for use/treatment in allergic reaction and asthma.
+DrugId:  25
+1. Name:  Dihydroquinidine barbiturate
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available

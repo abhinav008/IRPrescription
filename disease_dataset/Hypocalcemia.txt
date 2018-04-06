@@ -1,0 +1,87 @@
+DrugId:  1
+1. Name:  Calcium Gluceptate
+2. Groups:  Approved
+3. Description:  Calcium supplements such as calcium gluceptate are taken by individuals who are unable to get enough calcium in their regular diet or who have a need for more calcium. They are used to prevent or treat several conditions that may cause hypocalcemia (not enough calcium in the blood). The body needs calcium to make strong bones. Calcium is also needed for the heart, muscles, and nervous system to work properly.
+4. Indication:  For treatment of mild hypocalcemia due to neonatal tetany, tetany due to parathyroid deficiency or vitamin D deficiency, and alkalosis, as prophylaxis of hypocalcemia during exchange transfusions, in the treatment of intestinal malabsorption, and to replenish electrolytes.
+DrugId:  2
+1. Name:  Dihydrotachysterol
+2. Groups:  Approved
+3. Description:  A vitamin D that can be regarded as a reduction product of vitamin D2.
+4. Indication:  Used for the prevention and treatment of rickets or osteomalacia, and to manage hypocalcemia associated with hypoparathyroidism or pseudohypoparathyroidism. Also used for the treatment of vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  3
+1. Name:  Samarium (153Sm) lexidronam pentasodium
+DrugId:  4
+1. Name:  Calcitriol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Calcitriol or 1,25-dihydroxycholecalciferol (abbreviated 1,25-(OH)2-D3) is the active form of vitamin D found in the body (vitamin D3). Calcitriol is marketed under various trade names including Rocaltrol (Roche), Calcijex (Abbott) and Decostriol (Mibe, Jesalis). It is produced in the kidneys via 25-hydroxyvitamin D-1 α-hydroxylase by conversion from 25-hydroxycholecalciferol (calcidiol). This is stimulated by a decrease in serum calcium, phosphate (PO43−) and parathyroid hormone (PTH) levels. It regulates calcium levels by increasing the absorption of calcium and phosphate from the gastrointestinal tract, increasing calcium and phosphate reabsorption in the kidneys and inhibiting the release of PTH. Calcitriol is also commonly used as a medication in the treatment of hypocalcemia and osteoporosis.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  5
+1. Name:  Tiludronic acid
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Tiludronic acid is a bisphosphonate characterized by a (4-chlorophenylthio) group on the carbon atom of the basic P-C-P structure common to all bisphosphonates.
+4. Indication:  For treatment of Paget's disease of bone (osteitis deformans).
+DrugId:  6
+1. Name:  Clodronic Acid
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A diphosphonate which affects calcium metabolism. It inhibits bone resorption and soft tissue calcification.
+4. Indication:  For the management of hypercalcemia of malignancy and as an adjunct in the management of osteolysis resulting from bone metastases of malignant tumors.
+DrugId:  7
+1. Name:  Capreomycin
+2. Groups:  Approved
+3. Description:  Cyclic peptide antibiotic similar to viomycin. It is produced by Streptomyces capreolus. [PubChem]
+4. Indication:  Used in the treatment of tuberculosis in combination with other drugs.
+DrugId:  8
+1. Name:  Fosphenytoin
+2. Groups:  Approved, Investigational
+3. Description:  Fosphenytoin is a water-soluble phenytoin prodrug used only in hospitals for the treatment of epileptic seizures. It works by slowing down impulses in the brain that cause seizures. Its main mechanism is to block frequency-dependent, use-dependent and voltage-dependent neuronal sodium channels, and therefore limit repetitive firing of action potentials.
+4. Indication:  For the control of generalized convulsive status epilepticus and prevention and treatment of seizures occurring during neurosurgery. It can also be substituted, short-term, for oral phenytoin.
+DrugId:  9
+1. Name:  Calcidiol
+2. Groups:  Approved, Nutraceutical
+3. Description:  The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  10
+1. Name:  Magnesium sulfate
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A small colorless crystal used as an anticonvulsant, a cathartic, and an electrolyte replenisher in the treatment of pre-eclampsia and eclampsia. It causes direct inhibition of action potentials in myometrial muscle cells. Excitation and contraction are uncoupled, which decreases the frequency and force of contractions. (From AMA Drug Evaluations Annual, 1992, p1083)
+4. Indication:  Used for immediate control of life-threatening convulsions in the treatment of severe toxemias (pre-eclampsia and eclampsia) of pregnancy and in the treatment of acute nephritis in children. Also indicated for replacement therapy in magnesium deficiency, especially in acute hypomagnesemia accompanied by signs of tetany similar to those of hypocalcemia. Also used in uterine tetany as a myometriat relaxant.
+DrugId:  11
+1. Name:  Cinacalcet
+2. Groups:  Approved
+3. Description:  Cinacalcet (INN) is a drug that acts as a calcimimetic (i.e. it mimics the action of calcium on tissues) by allosteric activation of the calcium-sensing receptor that is expressed in various human organ tissues. It is sold by Amgen under the trade name Sensipar® in North America and Australia and as Mimpara® in Europe. Cinacalcet is used to treat hyperparathyroidism (elevated parathyroid hormone levels), a consequence of parathyroid tumors and chronic renal failure.
+4. Indication:  For the treatment of secondary hyperparathyroidism in patients with Chronic Kidney Disease who are on hemodialysis or peritoneal dialysis. Also for the treatment of hypercalcemia in patients with parathyroid carcinoma.
+DrugId:  12
+1. Name:  Etidronic acid
+2. Groups:  Approved
+3. Description:  A diphosphonate which affects calcium metabolism. It inhibits ectopic calcification and slows down bone resorption and bone turnover.
+4. Indication:  For the treatment of symptomatic Paget's disease of bone and in the prevention and treatment of heterotopic ossification following total hip replacement or due to spinal cord injury.
+DrugId:  13
+1. Name:  Zoledronic acid
+2. Groups:  Approved
+3. Description:  Zoledronate (zoledronic acid, marketed by Novartis under the trade names Zometa and Reclast) is a bisphosphonate. Zometa is used to prevent skeletal fractures in patients with cancers such as multiple myeloma and prostate cancer. It can also be used to treat hypercalcemia of malignancy and can be helpful for treating pain from bone metastases.An annual dose of Zoledronate may also prevent recurring fractures in patients with a previous hip fracture.Zoledronate is a single 5 mg infusion for the treatment of Paget's disease of bone. In 2007, the FDA also approved Reclast for the treatment of postmenopausal osteoporosis.
+4. Indication:  For the treatment of hypercalcemia of malignancy. Also for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. In May of 2007, the drug was approved for treatment of Paget’s Disease.
+DrugId:  14
+1. Name:  Calcium gluconate
+2. Groups:  Approved, Vet approved
+3. Description:  Calcium gluconate is a mineral supplement and medication. Supplementation is generally only required when there is not enough calcium in the diet. Supplementation may be done to treat or prevent osteoporosis or rickets. It can also be taken by mouth but is not recommended by injection into a muscle.Calcium Gluconate Injection, USP is a sterile, nonpyrogenic supersaturated solution of calcium gluconate for intravenous use only. Each mL contains: Calcium gluconate 94 mg; calcium saccharate (tetrahydrate) 4.5 mg; water for injection q.s. Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (6.0 to 8.2). Calcium saccharate provides 6% of the total calcium and stabilizes the supersaturated solution of calcium gluconate.Each 10 mL of the injection provides 93 mg elemental calcium (Ca++) equivalent to 1 g of calcium gluconate.
+4. Indication:  Oral calcium salts are used as dietary supplemental therapy for person who may not get enough calcium in their regular diet. Calcium gluconate is used as a cardioprotective agent in high blood potassium. Calcium gluconate is the antidote for magnesium sulfate toxicity.
+DrugId:  15
+1. Name:  Ergocalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Ergocalciferol (Vitamin D2) is a derivative of ergosterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from cholecalciferol in having a double bond between C22 and C23 and a methyl group at C24.
+4. Indication:  For use in the management of hypocalcemia and its clinical manifestations in patients with hypoparathyroidism, as well as for the treatment of familial hypophosphatemia (vitamin D resistant rickets). This drug has also been used in the treatment of nutritional rickets or osteomalacia, vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  16
+1. Name:  Calcium Carbonate
+2. Groups:  Approved, Investigational
+3. Description:  Calcium carbonate is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects. Calcium carbonate may also be used as a nutritional supplement or to treat hypocalcemia.
+4. Indication:  For relief of heartburn and acid indigestion. May also be used as a nutritional supplement or to treat hypocalcemia. 
+DrugId:  17
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  18
+1. Name:  Calcium Chloride
+2. Groups:  Approved
+3. Description:  Calcium chloride is an ionic compound of calcium and chlorine. It is highly soluble in water and it is deliquescent. It is a salt that is solid at room temperature, and it behaves as a typical ionic halide. It has several common applications such as brine for refrigeration plants, ice and dust control on roads, and in cement. It can be produced directly from limestone, but large amounts are also produced as a by-product of the Solvay process. Because of its hygroscopic nature, it must be kept in tightly-sealed containers. [Wikipedia]
+4. Indication:  For the treatment of hypocalcemia in those conditions requiring a prompt increase in blood plasma calcium levels, for the treatment of magnesium intoxication due to overdosage of magnesium sulfate, and used to combat the deleterious effects of hyperkalemia as measured by electrocardiographic (ECG), pending correction of the increased potassium level in the extracellular fluid.

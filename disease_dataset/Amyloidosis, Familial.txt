@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Fx-1006A
+2. Groups:  Investigational
+3. Description:  Fx-1006A is a small molecule compound with the potential to treat genetic disorders, such as familial amyloid cardiomyopathy (FAC) and familial amyloid polyneuropathy (FAP).
+4. Indication:  Investigated for use/treatment in amyloidosis.
+DrugId:  2
+1. Name:  Solanezumab
+2. Groups:  Investigational
+3. Description:  Solanezumab is under investigation for the treatment of Dementia, Alzheimers Disease, and Alzheimers Disease, Familial.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Gantenerumab
+2. Groups:  Investigational
+3. Description:  Gantenerumab is under investigation for the treatment of Dementia, Alzheimers Disease, and Alzheimers Disease, Familial.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Bococizumab
+2. Groups:  Investigational
+3. Description:  Bococizumab has been used in trials studying the treatment and prevention of Dyslipidemia, Hyperlipidemia, Hypercholesterolemia, Cardiovascular Disease, and Heterozygous Familial Hypercholesterolemia.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  MGL-3196
+2. Groups:  Investigational
+3. Description:  MGL-3196 has been used in trials studying the treatment of Non-alcoholic steatohepatitis and Heterozygous Familial Hypercholesterolemia.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Evolocumab
+2. Groups:  Approved
+3. Description:  Evolocumab is a monoclonal antibody designed for the treatment of hyperlipidemia by Amgen. It is a subcutaneous injection approved by the FDA for individuals on maximum statin therapy who still require additional LDL-cholesterol lowering. It is approved for both homozygous and heterozygous familial cholesterolemia as an adjunct to other first-line therapies. Evolocumab is a human IgG2 monoclonal antibody that inhibits proprotein convertase subtilisin/kexin type 9 (PCSK9). PCSK9 is a protein that targets LDL receptors for degradation, therefore reducing the liver's ability to remove LDL-cholesterol (LDL-C), or "bad" cholesterol, from the blood. Evolocumab is designed to bind to PCSK9 and inhibit PCSK9 from binding to LDL receptors on the liver surface, resulting in more LDL receptors on the surface of the liver to remove LDL-C from the blood. Evolocumab is the second PCSK9 inhibitor on the market, first being alirocumab.
+4. Indication:  For the treatment of heterozygous/homozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease in patients on maximum tolerated statin therapy requiring additional LDL-cholesterol lowering. 
+DrugId:  7
+1. Name:  Tafamidis
+2. Groups:  Approved, Investigational
+3. Description:  Tafamidis is a novel specific transthyretin (TTR) stabilizer or dissociation inhibitor. TTR is a tetramer that is responsible in transporting the retinol-binding protein-vitamin A complex and minimally transporting thyroxine in the blood. In TTR-related disorders such as transthyretin familial amyloid polyneuropathy (TTR-FAP), tetramer dissociation is accelerated that results in unregulated amyloidogenesis and amyloid fibril formation. Eventually the failure of autonomic and peripheral nervous system is induced. Tafamidis was approved by the European Medicines Agency (EMA) in 2011 under the market name Vyndaqel for the treatment of transthyretin familial amyloid polyneuropathy (TTR-FAP) in adult patients with early-stage symptomatic polyneuropathy to delay peripheral neurologic impairment. Tafamidis is an investigational drug under the FDA and in June 2017, Pfizer received FDA Fast Track Designation for tafamidis.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Tauroursodeoxycholic acid
+2. Groups:  Approved, Investigational
+3. Description:  Tauroursodeoxycholic acid is the more hydrophilic form of ursodeoxycholic acid, which is the more abundant naturally produced bile acid in humans. Tauroursodeoxycholic acid, on the other hand, is produced abundantly in bears and has been used for centuries as a natural remedy in some Asian countries. It is approved in Italy and Turkey for the treatment of cholesterol gallstones and is an investigational drug in China, Unites States, and Italy. Tauroursodeoxycholic acid is being investigated for use in several conditions such as Primary Biliary Cirrhosis (PBC), insulin resistance, amyloidosis, Cystic Fibrosis, Cholestasis, and Amyotrophic Lateral Sclerosis. The only completed clinical trial thus far is a phase III clinical trial comparing tauroursodeoxycholic acid and ursofalk in PBC adult patients, but as of June 2013 no results of this trial have been published. 
+4. Indication:  Used in the treatment of cholesterol gallstones. Tauroursodeoxycholic acid is also being investigated for use in several conditions such as Primary Biliary Cirrhosis (PBC), insulin resistance, amyloidosis, Cystic Fibrosis, Cholestasis, and Amyotrophic Lateral Sclerosis.
+DrugId:  9
+1. Name:  Lomitapide
+2. Groups:  Approved, Investigational
+3. Description:  Lomitapide is a microsomal triglyceride transfer protein (MTP) inhibitor used in homozygous familial hypercholesterolemia (HoFH) patients. It is marketed under the name Juxtapid (R).
+4. Indication:  Used in homozygous familial hypercholesterolemia (HoFH) patients to reduce low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC), apolipoprotein B (apo B), and non-high-density lipoprotein cholesterol (non-HDL-C).
+DrugId:  10
+1. Name:  Technetium Tc-99m pyrophosphate
+2. Groups:  Approved
+3. Description:  A radionuclide imaging agent used primarily in scintigraphy or tomography of the heart to evaluate the extent of the necrotic myocardial process. It has also been used in noninvasive tests for the distribution of organ involvement in different types of amyloidosis and for the evaluation of muscle necrosis in the extremities.
+4. Indication:  For use as a skeletal imaging agent used to demonstrate areas of altered osteogenesis, and a cardiac imaging agent used as an adjunct in the diagnosis of acute myocardial infarction [FDA Label]. May also be used to image gated blood pools and detect gastrointetinal bleeding.
+DrugId:  11
+1. Name:  Ezetimibe
+2. Groups:  Approved
+3. Description:  Ezetimibe is an anti-hyperlipidemic medication which is used to lower cholesterol levels. Specifically, it appears to bind to a critical mediator of cholesterol absorption, the Niemann-Pick C1-Like 1 (NPC1L1) protein on the gastrointestinal tract epithelial cells as well as in hepatocytes.
+4. Indication:  For use as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, and Apo B in patients with primary (heterozygous familial and non-familial) hypercholesterolemia.
+DrugId:  12
+1. Name:  Canakinumab
+2. Groups:  Approved, Investigational
+3. Description:  Canakinumab is a recombinant, human anti-human-IL-1β monoclonal antibody that belongs to the IgG1/κ isotype subclass. It is expressed in a murine Sp2/0-Ag14 cell line and comprised of two 447- (or 448-) residue heavy chains and two 214-residue light chains, with a molecular mass of 145157 Daltons when deglycosylated. Both heavy chains of canakinumab contain oligosaccharide chains linked to the protein backbone at asparagine 298 (Asn 298). Canakinumab binds to human IL-1β and neutralizes its inflammatory activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1alpha or IL-1 receptor antagonist (IL-1ra). Canakinumab is marketed under the brand name Ilaris and indicated for patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). Clinical trials have established the administration of canakinumab every 2 weeks to be safe and effective, offering a considerable advantage over the existing treatment with the human IL-1 receptor antagonist, anakinra, which must be injected daily and which is often poorly tolerated by patients.
+4. Indication:  Used in patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). 
+DrugId:  13
+1. Name:  Celecoxib
+2. Groups:  Approved, Investigational
+3. Description:  Celecoxib is a non-steroidal anti-inflammatory drug (NSAID) used in the treatment of osteoarthritis, rheumatoid arthritis, acute pain, painful menstruation and menstrual symptoms, and to reduce numbers of colon and rectum polyps in patients with familial adenomatous polyposis. It is marketed by Pfizer under the brand name Celebrex. In some countries, it is branded Celebra. Celecoxib is available by prescription in capsule form.
+4. Indication:  For relief and management of osteoarthritis (OA), rheumatoid arthritis (RA), juvenile rheumatoid arthritis (JRA), ankylosing spondylitis, acute pain, primary dysmenorrhea and oral adjunct to usual care for patients with familial adenomatous polyposis
+DrugId:  14
+1. Name:  Alirocumab
+2. Groups:  Approved
+3. Description:  Alirocumab is a biopharmaceutical drug approved by the FDA in July 2015 as a second line treatment for high cholesterol for adults whose LDL-cholesterol (LDL-C) is not controlled by diet and statin treatment. It is a human monoclonal antibody administered by subcutaneous injection that belongs to a novel class of anti-cholesterol drugs, known as PCSK9 inhibitors, and it was the first such agent to receive FDA approval. The FDA approval was contingent on the completion of further clinical trials to better determine efficacy and safety. PCSK9 inhibition facilitates more LDL-C clearance from the blood.
+4. Indication:  Alirocumab is indicated as an adjunct to diet and maximally tolerated statin therapy in adults who require additional LDL-cholesterol (LDL-C) lowering due to heterozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease.
+DrugId:  15
+1. Name:  Melphalan
+2. Groups:  Approved
+3. Description:  An alkylating nitrogen mustard that is used as an antineoplastic in the form of the levo isomer - melphalan, the racemic mixture - merphalan, and the dextro isomer - medphalan; toxic to bone marrow, but little vesicant action; potential carcinogen. [PubChem]
+4. Indication:  For the palliative treatment of multiple myeloma and for the palliation of non-resectable epithelial carcinoma of the ovary. Has also been used alone or as part of various chemotherapeutic regimens as an adjunct to surgery in the treatment of breast cancer, alone or in combination regimens for palliative treatment of locally recurrent or unresectable in-transit metastatic melanoma of the extremities, as well as for the treatment of amyloidosis with prednisone.
+DrugId:  16
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  17
+1. Name:  Mipomersen
+2. Groups:  Approved, Investigational
+3. Description:  Mipomersen sodium, which was known as the investigational drug, isis-301012, is the salt form of a synthetic phosphorothioate oligonucleotide. Mipomersen sodium prevents the formation of apo B-100, resulting in a decrease in the levels of apolipoprotein B (apo B), low density lipoprotein (LDL), and total cholesterol. Mipomersen is indicated in patients with homozygous familial hypercholesterolemia as an adjunct to diet and other lipid-lowering medications. It is marketed under the brand name Kynamro in the United States, and the FDA label includes a black box warning of hepatoxicity. Specifically, elevations in the liver enzymes, i.e. transaminases, and in liver fat (hepatic steatosis) have been reported. Due to this serious risk of liver toxicity, mipomersen sodium is only available to patients under the restricted program called Kynamro™ Risk Evaluation and Mitigation Strategy program.
+4. Indication:  Used in patients with homozygous familial hypercholesterolemia as an adjunct to diet and other lipid-lowering medications.
+DrugId:  18
+1. Name:  Bendroflumethiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. It has been used in the treatment of familial hyperkalemia, hypertension, edema, and urinary tract disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p810)
+4. Indication:  For the treatment of high blood pressure and management of edema related to heart failure.
+DrugId:  19
+1. Name:  Riluzole
+2. Groups:  Approved, Investigational
+3. Description:  A glutamate antagonist (receptors, glutamate) used as an anticonvulsant (anticonvulsants) and to prolong the survival of patients with amyotrophic lateral sclerosis. Riluzole is marketed as Rilutek by Sanofi. 
+4. Indication:  For the treatment of amyotrophic lateral sclerosis (ALS, Lou Gehrig's Disease)
+DrugId:  20
+1. Name:  Rosuvastatin
+2. Groups:  Approved
+3. Description:  Rosuvastatin is an antilipemic agent that competitively inhibits hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. HMG-CoA reducuase catalyzes the conversion of HMG-CoA to mevalonic acid, the rate-limiting step in cholesterol biosynthesis. Rosuvastatin belongs to a class of medications called statins and is used to reduce plasma cholesterol levels and prevent cardiovascular disease.
+4. Indication:  Used as an adjunct to dietary therapy to treat primary hyperlipidemia (heterozygous familial and nonfamilial), mixed dyslipidemia and hypertriglyceridemia. Also indicated for homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering therapies or when other such therapies are not available. Furthermore, it is used to slow the progression of atherosclerosis and for primary prevention of cardiovascular disease. 
+DrugId:  21
+1. Name:  Simvastatin
+2. Groups:  Approved
+3. Description:  Simvastatin is a lipid-lowering agent that is derived synthetically from the fermentation of Aspergillus terreus. It is a potent competitive inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase (hydroxymethylglutaryl COA reductases), which is the rate-limiting enzyme in cholesterol biosynthesis. It may also interfere with steroid hormone production. Due to the induction of hepatic LDL receptors, it increases breakdown of LDL cholesterol. [PubChem]
+4. Indication:  For the treatment of hypercholesterolemia and for the reduction in the risk of cardiac heart disease mortality and cardiovascular events. It can also be used in adolescent patients for the treatment of heterozygous familial hypercholesterolemia. 
+DrugId:  22
+1. Name:  Calcitriol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Calcitriol or 1,25-dihydroxycholecalciferol (abbreviated 1,25-(OH)2-D3) is the active form of vitamin D found in the body (vitamin D3). Calcitriol is marketed under various trade names including Rocaltrol (Roche), Calcijex (Abbott) and Decostriol (Mibe, Jesalis). It is produced in the kidneys via 25-hydroxyvitamin D-1 α-hydroxylase by conversion from 25-hydroxycholecalciferol (calcidiol). This is stimulated by a decrease in serum calcium, phosphate (PO43−) and parathyroid hormone (PTH) levels. It regulates calcium levels by increasing the absorption of calcium and phosphate from the gastrointestinal tract, increasing calcium and phosphate reabsorption in the kidneys and inhibiting the release of PTH. Calcitriol is also commonly used as a medication in the treatment of hypocalcemia and osteoporosis.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  23
+1. Name:  Calcidiol
+2. Groups:  Approved, Nutraceutical
+3. Description:  The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  24
+1. Name:  Droxidopa
+2. Groups:  Approved, Investigational
+3. Description:  Droxidopa is a precursor of noradrenaline that is used in the treatment of Parkinsonism. It is approved for use in Japan and is currently in trials in the U.S. The racaemic form (dl-threo-3,4-dihydroxyphenylserine) has also been used, and has been investigated in the treatment of orthostatic hypotension. There is a deficit of noradrenaline as well as of dopamine in Parkinson's disease and it has been proposed that this underlies the sudden transient freezing seen usually in advanced disease.Though L-DOPS has been used in Japan and Southeast Asia already for some time, it is also currently in clinical trials at the phase III point in the United States (U.S.), Canada, Australia, and throughout Europe. Provided L-DOPS successfully completes clinical trials, it could be approved for the treatment of neurogenic orthostatic hypotension (NOH) as early as 2011. Additionally, phase II clinical trials for intradialytic hypotension are also underway. Chelsea Therapeutics obtained orphan drug status (ODS) for L-DOPS in the U.S. for NOH, and that of which associated with Parkinson's disease , pure autonomic failure, and multiple system atrophy, and is the pharmaceutical company developing it in that country.
+4. Indication:  For treatment of neurogenic orthostatic hypotension (NOH) associated with various disorders including Multiple System Atrophy, Familial Amyloid Polyneuropathy, hemodialysis induced hypotension and Parkinson's Disease. Also investigated for use/treatment in neurologic disorders, nephropathy, blood (blood forming organ disorders, unspecified), and dizzy/fainting spells.
+DrugId:  25
+1. Name:  Colchicine
+2. Groups:  Approved
+3. Description:  A major alkaloid from Colchicum autumnale L. and found also in other Colchicum species. Its primary therapeutic use is in the treatment of gout, but it has been used also in the therapy of familial Mediterranean fever (periodic disease). [PubChem]
+4. Indication:  For treatment and relief of pain in attacks of acute gouty arthritis.

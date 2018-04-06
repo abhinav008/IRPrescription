@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Isotretinoin
+2. Groups:  Approved
+3. Description:  Isotretinoin is a medication used for the treatment of severe acne. It is sometimes used in prevention of certain skin cancers. It is a retinoid, meaning it derives from vitamin A and is found in small quantities naturally in the body. Isotretinoin binds to and activates nuclear retinoic acid receptors (RAR), thereby regulating cell proliferation and differentiation. This agent also exhibits immunomodulatory and anti-inflammatory responses and inhibits ornithine decarboxylase, thereby decreasing polyamine synthesis and keratinization.
+4. Indication:  For the treatment of severe recalcitrant nodular acne
+DrugId:  2
+1. Name:  Dutasteride
+2. Groups:  Approved, Investigational
+3. Description:  Dutasteride belongs to a class of drugs called 5-alpha-reductase inhibitors, which block the action of the 5-alpha-reductase enzymes that convert testosterone into dihydrotestosterone (DHT). Finasteride also belongs to this group, but while dutasteride inhibits both isoforms of 5-alpha reductase, finasteride inhibits only one. Even so, a clinical study done by GlaxoSmithKline, the EPICS trial, did not find dutasteride to be more effective than finasteride in treating BPH. [Wikipedia]
+4. Indication:  For the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate gland to improve symptoms, and reduce the risk of acute urinary retention and the need for surgery.
+DrugId:  3
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Potassium Iodide
+2. Groups:  Approved
+3. Description:  Saturated solution of Potassium Iodide (SSKI) is used pharmaceutically for emergency use in patients experiencing acute symptoms of severe hyperglycemia (also known as thyroid storm or thyrotoxic crisis). SSKI can also be used for radioiodine-contamination emergencies or in preparation of thyrotoxic patients for thyroidectomy.
+4. Indication:  Potassium Iodide is oral antithyroid agent. Potassium Iodide is used as an adjunct to other antithyroid agents in the treatment of hyperthyroidism and thyrotoxicosis and preoperatively to induce thyroid involution.
+DrugId:  5
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  6
+1. Name:  Enfortumab vedotin
+2. Groups:  Investigational
+3. Description:  Enfortumab vedotin has been used in trials studying the treatment of Tumors, Neoplasms, and Medical Oncology.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Patritumab
+2. Groups:  Investigational
+3. Description:  Patritumab has been used in trials studying the treatment of LUNG CANCER, Solid Tumors, Neoplasms by Site, Head and Neck Neoplasms, and Non-small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Apalutamide
+2. Groups:  Approved, Investigational
+3. Description:  Apalutamide is a potent androgen receptor (AR) antagonist that selectively binds to the ligand-binding domain of AR and blocks AR nuclear translocation or binding to androgen response elements [1]. It has been used in trials studying the treatment of Prostate Cancer, Hepatic Impairment, Prostatic Neoplasms, Castration-Resistant Prostate Cancer, and Prostatic Neoplasms, Castration-Resistant, among others. Exerting an antitumor action, apalutamide blocking the effect of androgens that promote tumor growth. It targets the AR ligand-binding domain and prevents AR nuclear translocation, DNA binding, and transcription of AR gene targets in prostate tumors [1]. In mice bearing human CRPC xenograft models, apalutamide treatment produced tumor regressions in a dose-dependent manner that was more effective than that of Bicalutamide or Enzalutamide. Unlike bicalutamide, apalutamide antagonized AR-mediated signaling in AR overexpressing human CRPC cell lines [1].Androgen-deprivation therapy, or hormone therapy, can be used as part of maintenance therapy for patients with non-metastatic prostate cancer. Although most patients achieve therapeutic responses at the initial hormone therapy, many patients progress to non-metastatic castration-resistant (resistance to hormone therapy) prostate cancer which is the second-most common cause of cancer-related deaths in American males [2]. Castration-resistant prostate cancer is often incurable, which poses significant clinical challenges for patients. Approximately 10 to 20 % of prostate cancer cases are castration-resistant, and up to 16% of these patients show no evidence of cancer metastasis at the time of castration-resistant diagnosis [3]. Higher prostate-specific antigen (PSA) and shorter PSA doubling time (PSA DT) are associated with a higher risk for metastases and death [1]. In a phase-2 multicenter open-label study, 89% of patients with non-metastatic, castration-resistant prostate cancer had ≥50% PSA decline at week 12 of apalutamide treatment [1]. In a randomized trial, the median metastasis-free survival for patients taking apalutamide was 40.5 months compared to 16.2 months for patients taking a placebo [3]. Apalutamide displayed good tolerability and safety profile in clinical studies. Apalutamide was approved in February 2018 by the FDA as Erleada for the treatment of patients with non-metastatic prostate cancer that is resistant to treatment with hormone therapy (castration-resistant). It is available as oral tablets. Apalutamide is the first FDA-approved treatment for non-metastatic, castration-resistant prostate cancer [3].
+4. Indication:  Indicated for the treatment of patients with non-metastatic, castration-resistant prostate cancer (NM-CRPC) [FDA Label].
+DrugId:  9
+1. Name:  Figitumumab
+2. Groups:  Investigational
+3. Description:  Figitumumab has been used in trials studying the treatment of Sarcoma, Solid Tumor, Breast Cancer, Lung Neoplasms, and Advanced Cancer, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Ganitumab
+2. Groups:  Investigational
+3. Description:  Ganitumab has been used in trials studying the treatment of Colon Cancer, Rectal Cancer, Breast Cancer, Breast Tumors, and Breast Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Amatuximab
+2. Groups:  Investigational
+3. Description:  Amatuximab has been used in trials studying the treatment and basic science of Mesothelioma, Ovarian Cancer, Ovarian Neoplasms, Pancreatic Cancer, and Mesothelioma, Malignant, among others.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  5-fluoro-2'-deoxycytidine
+2. Groups:  Investigational
+3. Description:  5-fluoro-2'-deoxycytidine has been used in trials studying the treatment of Neoplasms, Lung Neoplasms, Breast Neoplasms, Head and Neck Neoplasms, and Urinary Bladder Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Lumretuzumab
+2. Groups:  Investigational
+3. Description:  Lumretuzumab has been used in trials studying the treatment of Neoplasms, Breast Cancer, Squamous Non-Small Cell Lung Cancer, and Non-Squamous Non-Small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Technetium Tc-99m pertechnetate
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m pertechnetate is a radiopharmaceutical diagnostic agent composed of an oxoanion with the chemical formula TcO4-. Pertechnetate has a wide variety of uses within nuclear medicine as it distributes within the body to a similar extent as iodine. It also concentrates in the thyroid gland, salivary glands, gastric mucosa, and choroid plexus. However, in contrast to the iodide ion, the pertechnetate ion is released unchanged from the thyroid gland. Currently marketed as the product Drytec, technetium-99m pertechnetate is indicated for imaging of the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and the nasolacrimal drainage system.Technetium-99m's short half life (6 hours) makes storage impossible, therefore it is supplied as its parent nuclide molybdenum-99, which spontaneously decays to technetium-99 through beta decay. This is normally supplied in a hospital setting through the use of a technetium-99m generator, whereby technetium exits the generator in the form of the pertechnetate ion, TcO4−, which can be extracted and promptly used for clinical diagnostics. Following intravenous injection, single photon emission computed tomography (SPECT) is performed to detect the gamma ray emmitted by the decay of Technetium-99m to Technetium-99.
+4. Indication:  Sodium Pertechnetate Tc99m Injection is indicated for use in adults for imaging in the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and nasolacrimal drainage system (dacryoscintigraphy). It is indicated for use in children for imaging the following tissues: thyroid and urinary bladder. 
+DrugId:  15
+1. Name:  Onartuzumab
+2. Groups:  Investigational
+3. Description:  Onartuzumab has been used in trials studying the treatment of Neoplasms, Lung Cancer, Glioblastoma, Gastric Cancer, and Colorectal Cancer, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Duligotuzumab
+2. Groups:  Investigational
+3. Description:  Duligotuzumab has been used in trials studying the treatment of Neoplasms, Colorectal Cancer, Head and Neck Cancer, and Epithelial Tumors, Malignant.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Ascrinvacumab
+2. Groups:  Investigational
+3. Description:  Ascrinvacumab has been used in trials studying the treatment and basic science of Neoplasms, Advanced Solid Tumors, Carcinoma, Hepatocellular, and Malignant Pleural Mesothelioma.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Thyroglobulin
+2. Groups:  Approved, Withdrawn
+3. Description:  Thyroglobulin (also known as Tg) is an enzyme thyroid hormone used by the thyroid gland to produce the thyroid hormones thyroxine (T4) and triiodothyronine (T3). The active form of thyroxine, triiodothyronine, is produced both within the thyroid gland and periphery by 5'-deiodinase. Patients with Hashimoto's thyroiditis or Graves' disease, frequently develop antibodies against thyroglobulin. Thyroglobulin is used to treat hypothyroidism.
+4. Indication:  For the treatment of hypothyroidism (deficiency in the production of thyroid hormone).
+DrugId:  19
+1. Name:  QR-334
+2. Groups:  Investigational
+3. Description:  QR-334 is under investigation for the treatment of sialorrhea. Sialorrhea is an excess secretion of saliva produced by the salivary glands, resulting in drooling. No pharmaceutical interventions currently exist to treat sialorrhea. The symptom is associated with many diseases including Amyotrophic Lateral Sclerosis (ALS), also known as Lou Gehrig’s Disease, Cerebral Palsy, Parkinson's Disease, and Muscular Dystrophy.
+4. Indication:  Investigated for use/treatment in saliva and salivary gland dysfunction (sialorrhea).
+DrugId:  20
+1. Name:  Atamestane
+2. Groups:  Investigational
+3. Description:  Atamestane has been used in trials studying the treatment of Breast Cancer, Breast Neoplasms, and Neoplasms, Hormone-Dependent.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  APR-246
+2. Groups:  Investigational
+3. Description:  APR-246 has been used in trials studying the treatment of Prostatic Neoplasms, Hematologic Neoplasms, and Platinum Sensitive Recurrent High-grade Serous Ovarian Cancer With Mutated p53.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Tetrahydrouridine
+2. Groups:  Investigational
+3. Description:  Tetrahydrouridine has been used in trials studying the treatment of Neoplasms, Lung Neoplasms, Breast Neoplasms, Sickle Cell Disease, and Head and Neck Cancer, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  ZD-6126
+2. Groups:  Investigational
+3. Description:  ZD6126 has been used in trials studying the treatment of Kidney Neoplasms, Colorectal Neoplasms, Metastases, Neoplasm, and Carcinoma, Renal Cell.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Mitometh
+2. Groups:  Investigational
+3. Description:  Mitometh is under investigation for the treatment of Adenocarcinoma, Oropharyngeal Neoplasms, Nasopharyngeal Carcinoma, Non-small Cell Lung Cancer, and Stage IV Non-small Cell Lung Cancer, among others. Mitometh has been investigated for the treatment of Lung Neoplasms, Untreated Childhood Medulloblastoma, and Untreated Childhood Supratentorial Primitive Neuroectodermal Tumor.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  CP-547632
+2. Groups:  Investigational
+3. Description:  CP-547632 has been used in trials studying the treatment of Ovarian Cancer, Lung Neoplasms, Ovarian Neoplasms, Peritoneal Neoplasms, and Fallopian Tube Cancer, among others.
+4. Indication:  Not Available

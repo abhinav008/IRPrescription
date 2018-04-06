@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  2
+1. Name:  Nerve Growth Factor
+2. Groups:  Investigational
+3. Description:  Nerve Growth Factor has been used in trials studying the prevention and treatment of Mental Handicap, Alzheimer's Disease, Traumatic Brain Injury, Cerebral Palsy Children, and Delayed Speech Development, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Colistin
+2. Groups:  Approved
+3. Description:  Cyclic polypeptide antibiotic from Bacillus colistinus. It is composed of Polymyxins E1 and E2 (or Colistins A, B, and C) which act as detergents on cell membranes. Colistin is less toxic than Polymyxin B, but otherwise similar; the methanesulfonate is used orally.
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  4
+1. Name:  Colistimethate
+2. Groups:  Approved, Vet approved
+3. Description:  Colistimethate is an antibiotic that has been shown to have bactericidal activity against aerobic gram-negative microorganisms. Colistimethate is particularly indicated when the infection is caused by sensitive strains of Pseudomonas aeruginosa. 
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  5
+1. Name:  Butabarbital
+2. Groups:  Approved, Illicit
+3. Description:  Butabarbital (trade name Butisol) is a prescription barbiturate sleep aid. Butabarbital has a particularly fast onset of effects and short duration of action compared to other barbiturates, which makes it useful for certain applications such as treating severe insomnia and relieving anxiety before surgical procedures; however it is also relatively dangerous particularly when combined with alcohol, and so is now rarely used, although it is still prescribed in some Eastern European and South American countries. Its short duration of action gives butabarbital a high abuse potential, comparable to secobarbital. [Wikipedia]
+4. Indication:  For short-term treatment of insomnia and anxiety disorders
+DrugId:  6
+1. Name:  Tiagabine
+2. Groups:  Approved, Investigational
+3. Description:  Tiagabine is an anti-convulsive medication. It is also used in the treatment for panic disorder as are a few other anticonvulsants. Though the exact mechanism by which tiagabine exerts its effect on the human body is unknown, it does appear to operate as a selective GABA reuptake inhibitor.
+4. Indication:  For the treatment of partial seizures
+DrugId:  7
+1. Name:  Carbamazepine
+2. Groups:  Approved, Investigational
+3. Description:  An anticonvulsant used to control grand mal and psychomotor or focal seizures. Its mode of action is not fully understood, but some of its actions resemble those of phenytoin; although there is little chemical resemblance between the two compounds, their three-dimensional structure is similar. [PubChem]
+4. Indication:  For the treatment of epilepsy and pain associated with true trigeminal neuralgia. 
+DrugId:  8
+1. Name:  Etizolam
+2. Groups:  Approved
+3. Description:  Etizolam is a thienodiazepine which is chemically related to benzodiazepine (BDZ) drug class; it differs from BDZs in having a benzene ring replaced with a thiophene ring. It is an agonist at GABA-A receptors and possesses amnesic, anxiolytic, anticonvulsant, hypnotic, sedative and skeletal muscle relaxant properties. Initially introduced in 1983 in Japan as treatment for neurological conditions such as anxiety and sleep disorders, etizolam is marketed in Japan, Italy and India. It is not approved for use by FDA in the US; however it remains unscheduled in several states and is legal for research purposes.
+4. Indication:  Indicated for the treatment of generalized anxiety disorder with depression, panic disorder and insomnia.
+DrugId:  9
+1. Name:  Phenytoin
+2. Groups:  Approved, Vet approved
+3. Description:  An anticonvulsant that is used in a wide variety of seizures. It is also an anti-arrhythmic and a muscle relaxant. The mechanism of therapeutic action is not clear, although several cellular actions have been described including effects on ion channels, active transport, and general membrane stabilization. The mechanism of its muscle relaxant effect appears to involve a reduction in the sensitivity of muscle spindles to stretch. Phenytoin has been proposed for several other therapeutic uses, but its use has been limited by its many adverse effects and interactions with other drugs. [PubChem]
+4. Indication:  For the control of generalized tonic-clonic (grand mal) and complex partial (psychomotor, temporal lobe) seizures and prevention and treatment of seizures occurring during or following neurosurgery.
+DrugId:  10
+1. Name:  Dihydroergotamine
+2. Groups:  Approved, Investigational
+3. Description:  A 9,10alpha-dihydro derivative of ergotamine. It is used as a vasoconstrictor, specifically for the therapy of migraine disorders.
+4. Indication:  For the acute treatment of migraine headaches with or without aura and the acute treatment of cluster headache episodes.
+DrugId:  11
+1. Name:  Levofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic fluoroquinolone (fluoroquinolones) antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication. [PubChem]
+4. Indication:  For the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species, Staphylococus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae, Streptococcus (Groups C/F/G), Viridans group streptococci, Acinetobacter lwoffii, Haemophilus influenzae, Serratia marcescens.
+DrugId:  12
+1. Name:  Butriptyline
+2. Groups:  Approved
+3. Description:  Butriptyline is a tricyclic antidepressant which has been used in Europe since 1974. It is the isobutyl side chain homologue of amitriptyline.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  14
+1. Name:  Heptabarbital
+2. Groups:  Approved
+3. Description:  Heptabarbital is an intermediate or short term barbiturate used mainly for sedation and hypnosis.
+4. Indication:  Used mainly for sedation and hypnosis.
+DrugId:  15
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  16
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  17
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  18
+1. Name:  Primidone
+2. Groups:  Approved, Vet approved
+3. Description:  An antiepileptic agent related to the barbiturates; it is partly metabolized to phenobarbital in the body and owes some of its actions to this metabolite. Adverse effects are reported to be more frequent than with phenobarbital. (From Martindale, The Extra Pharmacopoeia, 30th ed, p309)
+4. Indication:  For the treatment of epilepsy
+DrugId:  19
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  20
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  21
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  22
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  23
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  25
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.

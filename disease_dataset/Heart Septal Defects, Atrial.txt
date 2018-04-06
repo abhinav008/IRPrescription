@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ajmaline
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid found in the root of Rauwolfia serpentina, among other plant sources. It is a class Ia antiarrhythmic agent that apparently acts by changing the shape and threshold of cardiac action potentials. Ajmaline produces potent sodium channel blocking effects and a very short half-life which makes it a very useful drug for acute intravenous treatments. The drug has been very popular in some countries for the treatment of atrial fibrillation in patients with the Wolff–Parkinson–White syndrome and in well tolerated monomorphic ventricular tachycardias. It has also been used for many years as a drug to challenge the conduction system of the heart in cases of bundle branch block and syncope. In these cases, abnormal prolongation of the HV interval has been taken as a proof for infrahisian conduction defects tributary for permanent pacemaker implantation.
+4. Indication:  For use as an antiarrhythmic agent.
+DrugId:  2
+1. Name:  Idraparinux
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, venous thromboembolism, strokes, heart disease, and atrial fibrillation.
+DrugId:  3
+1. Name:  Vernakalant
+2. Groups:  Approved, Investigational
+3. Description:  Vernakalant was developed by Cardiome Pharma as as an antiarrhythmic drug intended for rapid conversion of atrial fibrillation to sinus rhythm. It acts as an atypical class III antiarrhythmic drug that potentiates its effect in higher heart rates. Intravenous formulation was approved in Europe in September 2010 as Brinavess and in Canada in April 2017. It is an investigational drug under regulatory review by FDA.
+4. Indication:  Indicated for the rapid conversion of recent onset of atrial fibrillation to sinus rhythm in adults for non-surgery patients that lasts for less than 7 days of duration and post-cardiac surgery patients with atrial fibrillation lasting less than 3 days of duration.
+DrugId:  4
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  5
+1. Name:  Ouabain
+2. Groups:  Approved
+3. Description:  A cardioactive glycoside consisting of rhamnose and ouabagenin, obtained from the seeds of Strophanthus gratus and other plants of the Apocynaceae; used like digitalis. It is commonly used in cell biological studies as an inhibitor of the NA(+)-K(+)-exchanging ATPase.
+4. Indication:  For the treatment of atrial fibrillation and flutter and heart failure
+DrugId:  6
+1. Name:  Liothyronine I-131
+2. Groups:  Investigational
+3. Description:  Liothyronine I-131 has been used in trials studying the treatment of Tricuspid Atresia and Heart Defects, Congenital.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Acetyldigitoxin
+2. Groups:  Approved
+3. Description:  Cardioactive derivative of lanatoside A or of digitoxin used for fast digitalization in congestive heart failure.
+4. Indication:  Used for fast digitalization in congestive heart failure.
+DrugId:  8
+1. Name:  Sacubitril
+2. Groups:  Approved
+3. Description:  Sacubitril is a prodrug neprilysin inhibitor used in combination with valsartan to reduce the risk of cardiovascular events in patients with chronic heart failure (NYHA Class II-IV) and reduced ejection fraction. It was approved under the FDA's priority review process for use in heart failure on July 7, 2015.Sacubitril's active metabolite, LBQ657 inhibits neprilysin, a neutral endopeptidase that would typically cleave natiuretic peptides such as atrial natriuretic peptide (ANP), brain natriuretic peptide (BNP), and c-type natriuretic peptide (CNP). ANP and BNP are released under atrial and ventricle stress, which activate downstream receptors leading to vasodilation, natriuresis and diuresis. Under normal conditions, neprilysin breaks down other vasodilating peptides and also vasoconstrictors such as angiotensin I and II, endothelin-1 and peptide amyloid beta-protein. Inhibition of neprilysin therefore leads to reduced breakdown and increased concentration of endogenous natriuretic peptides in addition to increased levels of vasoconstricting hormones such as angiotensin II. 
+4. Indication:  Used in combination with valsartan to reduce the risk of cardiovascular events in patients with chronic heart failure (NYHA Class II-IV) and reduced ejection fraction. It is usually administered in conjunction with other heart failure therapies, in place of an ACE inhibitor or other ARB.
+DrugId:  9
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  10
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  11
+1. Name:  Nesiritide
+2. Groups:  Approved, Investigational
+3. Description:  Nesiritide is a medication used to treat acutely decompensated congestive heart failure with dyspnea at rest or with minimal exertion (such as talk, eating or bathing). Nesiritide is the recombinant form of the 32 amino acid human B-type natriuretic peptide, which is normally produced by the ventricular myocardium.
+4. Indication:  For the intravenous treatment of patients with acutely decompensated congestive heart failure who have dyspnea at rest or with minimal activity.
+DrugId:  12
+1. Name:  Acebutolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-adrenergic antagonist with little effect on the bronchial receptors. The drug has stabilizing and quinidine-like effects on cardiac rhythm as well as weak inherent sympathomimetic action.
+4. Indication:  For the management of hypertension and ventricular premature beats in adults.
+DrugId:  13
+1. Name:  Digoxin
+2. Groups:  Approved
+3. Description:  A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone digoxigenin. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  14
+1. Name:  Alprostadil
+2. Groups:  Approved, Investigational
+3. Description:  Alprostadil is produced endogenously and causes vasodilation by means of a direct effect on vascular and ductus arteriosus (DA) smooth muscle, preventing or reversing the functional closure of the DA that occurs shortly after birth. This results in increased pulmonary or systemic blood flow in infants. In infants, it is used for palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. In adults, it is used for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+4. Indication:  For palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. Also for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+DrugId:  15
+1. Name:  Alprenolol
+2. Groups:  Approved, Withdrawn
+3. Description:  One of the adrenergic beta-antagonists used as an antihypertensive, anti-anginal, and anti-arrhythmic agent. Alprenolol is no longer marketed by AstraZeneca, but may still be available in generic varieties.
+4. Indication:  For the treatment of hypertension, angina, and arrhythmia
+DrugId:  16
+1. Name:  Bopindolol
+2. Groups:  Approved
+3. Description:  Bopindolol (INN) is a beta blocker. It is an ester which acts as a prodrug for Pindolol.
+4. Indication:  For the management of hypertension, edema, ventricular tachycardias, and atrial fibrillation.
+DrugId:  17
+1. Name:  Deslanoside
+2. Groups:  Approved
+3. Description:  Deacetyllanatoside C. A cardiotonic glycoside from the leaves of Digitalis lanata. [PubChem]
+4. Indication:  For the treatment and management of Congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  18
+1. Name:  Esmolol
+2. Groups:  Approved
+3. Description:  Esmolol (trade name Brevibloc) is a cardioselective beta1 receptor blocker with rapid onset, a very short duration of action, and no significant intrinsic sympathomimetic or membrane stabilizing activity at therapeutic dosages.Esmolol decreases the force and rate of heart contractions by blocking beta-adrenergic receptors of the sympathetic nervous system, which are found in the heart and other organs of the body. Esmolol prevents the action of two naturally occurring substances: epinephrine and norepinephrine.
+4. Indication:  For the rapid control of ventricular rate in patients with atrial fibrillation or atrial flutter in perioperative, postoperative, or other emergent circumstances where short term control of ventricular rate with a short-acting agent is desirable. Also used in noncompensatory sinus tachycardia where the rapid heart rate requires specific intervention.
+DrugId:  19
+1. Name:  Tecadenoson
+2. Groups:  Investigational
+3. Description:  Tecadenoson is a novel selective A1 adenosine receptor agonist that is currently being evaluated for the conversion of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm. It is being developed by CV Therapeutics, Inc.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  20
+1. Name:  Pindolol
+2. Groups:  Approved, Investigational
+3. Description:  A moderately lipophilic beta blocker (adrenergic beta-antagonists). It is non-cardioselective and has intrinsic sympathomimetic actions, but little membrane-stabilizing activity. (From Martindale, The Extra Pharmocopoeia, 30th ed, p638)
+4. Indication:  For the management of hypertension, edema, ventricular tachycardias, and atrial fibrillation.
+DrugId:  21
+1. Name:  Piboserod
+2. Groups:  Investigational
+3. Description:  Piboserod (SB 207266) is a selective 5-HT(4) receptor antagonist.
+4. Indication:  For the treatment of atrial fibrillation and irritable bowel syndrome (IBS).
+DrugId:  22
+1. Name:  Dabigatran etexilate
+2. Groups:  Approved
+3. Description:  Dabigatran etexilate is an oral prodrug that is metabolized by a serum esterase to dabigatran. It is a synthetic, competitive and reversible direct thrombin inhibitor. Inhibition of thrombin disrupts the coagulation cascade and inhibits the formation of clots. Dabigatran etexilate may be used to decrease the risk of venous thromboembolic events in patients who have undergone total hip or knee replacement surgery, or to prevent stroke and systemic embolism in patients with atrial fibrillation, in whom anticoagulation therapy is indicated. In contrast to warfarin, because its anticoagulant effects are predictable, lab monitoring is not necessary. FDA approved on October 19, 2010.
+4. Indication:  Dabigatran is indicated for the prevention of venous thromboembolic events in patients who have undergone elective hip or knee replacement surgery (based on RE-NOVATE, RE-MODEL, and RE-MOBILIZE trials). In 2010, it was approved in the US and Canada for prevention of stroke and systemic embolism in patients with atrial fibrillation (approval based on the RE-LY trial). Contraindications: severe renal impairment (CrCL < 30 ml/min); haemorrhagic manifestations, bleeding diathesis or spontaneous or pharmacologic impairment of haemostasis; lesions at risk of clinically significant bleeding (e.g. extensive cerebral infarction (haemorrhagic or ischemic) in the last 6 months, active peptic ulcer disease); concomitant treatment with P-glycoprotein inhibitors (e.g. oral ketoconazole, verapamil); and those with known hypersensitivity to dabigatran, dabigatran etexilate or any ingredient used in the formulation or component of the container. As of December 2012, dabigatran is contraindicated in patients with mechanical prosthetic heart valves. 
+DrugId:  23
+1. Name:  Isosorbide Dinitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator used in the treatment of angina pectoris. Its actions are similar to nitroglycerin but with a slower onset of action. [PubChem]
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease.
+DrugId:  24
+1. Name:  Dofetilide
+2. Groups:  Approved, Investigational
+3. Description:  Dofetilide is a class III antiarrhythmic agent that is approved by the Food and Drug Administration (FDA) for the maintenance of sinus rhythm in individuals prone to the formation of atrial fibrillation and flutter, and for the chemical cardioversion to sinus rhythm from atrial fibrillation and flutter.
+4. Indication:  For the maintenance of normal sinus rhythm (delay in time to recurrence of atrial fibrillation/atrial flutter [AF/AFl]) in patients with atrial fibrillation/atrial flutter of greater than one week duration who have been converted to normal sinus rhythm
+DrugId:  25
+1. Name:  Amiodarone
+2. Groups:  Approved, Investigational
+3. Description:  An antianginal and antiarrhythmic drug. It increases the duration of ventricular and atrial muscle action by inhibiting Na,K-activated myocardial adenosine triphosphatase. There is a resulting decrease in heart rate and in vascular resistance. [PubChem]
+4. Indication:  Intravenously, for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation and hemodynamically unstable ventricular tachycardia in patients refractory to other therapy. Orally, for the treatment of life-threatening recurrent ventricular arrhythmias such as recurrent ventricular fibrillation and recurrent hemodynamically unstable ventricular tachycardia.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Colchicine
+2. Groups:  Approved
+3. Description:  A major alkaloid from Colchicum autumnale L. and found also in other Colchicum species. Its primary therapeutic use is in the treatment of gout, but it has been used also in the therapy of familial Mediterranean fever (periodic disease). [PubChem]
+4. Indication:  For treatment and relief of pain in attacks of acute gouty arthritis.
+DrugId:  2
+1. Name:  Canakinumab
+2. Groups:  Approved, Investigational
+3. Description:  Canakinumab is a recombinant, human anti-human-IL-1β monoclonal antibody that belongs to the IgG1/κ isotype subclass. It is expressed in a murine Sp2/0-Ag14 cell line and comprised of two 447- (or 448-) residue heavy chains and two 214-residue light chains, with a molecular mass of 145157 Daltons when deglycosylated. Both heavy chains of canakinumab contain oligosaccharide chains linked to the protein backbone at asparagine 298 (Asn 298). Canakinumab binds to human IL-1β and neutralizes its inflammatory activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1alpha or IL-1 receptor antagonist (IL-1ra). Canakinumab is marketed under the brand name Ilaris and indicated for patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). Clinical trials have established the administration of canakinumab every 2 weeks to be safe and effective, offering a considerable advantage over the existing treatment with the human IL-1 receptor antagonist, anakinra, which must be injected daily and which is often poorly tolerated by patients.
+4. Indication:  Used in patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). 
+DrugId:  3
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  4
+1. Name:  Boron
+2. Groups:  Approved
+3. Description:  Boron (B) is a chemical element with an atomic number 5 that belongs in the Period 2 and Group 13 in the periodic table. It is a low-abundant metalloid that is a poor electrical conductor at room temperature. Natural boron exists in 2 stable isotopes however pure boron is hard to prepare due to contamination by different elements. Boron is used in chemical compounds and is used as an additive in glass fibers of boron-containing fiberglass for insulation and structural materials [Wikipedia]. It is also found for other applications including ceramics, high-hardness or abrasive compounds, metal coatings, detergents, bleaching agents, insecticides, semiconductors, magnets, and wood preservatives. Boric acid contains antiseptic, antifungal, and antiviral properties thus it is used as a water clarifier in swimming pool water treatment. There are few pharmaceutical agents that contain a boron molecule in their structures, such as Tavaborole and Bortezomib.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Decamethonium
+2. Groups:  Approved
+3. Description:  Decamethonium is a short acting depolarizing muscle relaxant or neuromuscular blocking agent, and is used in anesthesia to induce paralysis. It is similar to acetylcholine and acts as a partial agonist of the nicotinic acetylcholine receptor.
+4. Indication:  For use as a skeletal muscle relaxant
+DrugId:  6
+1. Name:  Pipecuronium
+2. Groups:  Approved
+3. Description:  Pipecuronium is a piperazinyl androstane derivative which is a non-depolarizing neuromuscular blocking agent.
+4. Indication:  Used as a muscle relaxant during anesthesia and surgical procedures.
+DrugId:  7
+1. Name:  Tropicamide
+2. Groups:  Approved, Investigational
+3. Description:  One of the muscarinic antagonists with pharmacologic action similar to atropine and used mainly as an ophthalmic parasympatholytic or mydriatic. [PubChem]
+4. Indication:  Indicated to induce mydriasis (dilation of the pupil) and cycloplegia (paralysis of the ciliary muscle of the eye) in diagnostic procedures, such as measurement of refractive errors and examination of the fundus of the eye.
+DrugId:  8
+1. Name:  Chymopapain
+2. Groups:  Approved, Withdrawn
+3. Description:  Chymopapain is a proteolytic enzyme isolated from the latex of papaya (Carica papaya), it is a medication used to treat herniated lower lumbar discs in the spine. The sale and distribution of chymopapain was discontinued in the United States on January 27, 2003. Serious side effects from the use of chymopapain include anaphylaxis, paralysis of the legs, or death. [Wikipedia]
+4. Indication:  Chymopapain injections should preferably be given under local, rather than general, anaesthesia. The dose for a single intervertebral disc is 2 to 4 nanokatals, with a maximum dose per patient of 8 nanokatals. [Wikipedia]
+DrugId:  9
+1. Name:  Iron saccharate
+2. Groups:  Approved
+3. Description:  Iron saccharate (Sucroferric oxyhydroxide or Iron Sucrose) is used as a source of iron in patients with iron deficiency anemia with chronic kidney disease (CKD), including those who are undergoing dialysis (hemodialysis or peritoneal) and those who do not require dialysis. Due to less side effects than iron dextran, iron saccharate is more preferred in chronic kidney disease patients.
+4. Indication:  Iron sucrose is elemental iron as an injection. It replenishes body iron stores in patients with iron deficiency.
+DrugId:  10
+1. Name:  Praziquantel
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anthelmintic used in most schistosome and many cestode infestations.
+4. Indication:  For the treatment of infections due to all species of schistosoma.
+DrugId:  11
+1. Name:  Helium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Helium is a second most abundant chemical element in the universe with symbol He and atomic number 2. It is a colorless, odorless, tasteless, non-toxic, inert, monatomic gas that heads the noble gas group in the periodic table. Its boiling and melting points are the lowest among all the elements. Its clinical benefit in inhalation therapy arises from its advantageous physical properties than ambient air. Helium has lower density than air and generates less resistance than to provide improved lung ventilation. It is also used as an analytical reagent in diagnostic/imaging tests to detect respiratory function of the patient.
+4. Indication:  For use in patients who are not getting enough oxygen into their blood due to blockages in the lungs from pathological conditions or injuries. Suggested potential benefit in upper airway obstruction, in severe asthma, and in exacerbations of COPD/COLD. Helium may be used in place of carbon monoxide during laparoscopic surgeries as it lowers the risk of developing respiratory acidosis in selected patients. 
+DrugId:  12
+1. Name:  Chromium
+2. Groups:  Approved
+3. Description:  Chromium is a transition element with the chemical symbol Cr and atomic number 24 that belongs to Group 6 of the periodic table. It is used in various chemical, industrial and manufacturing applications such as wood preservation and metallurgy. The uses of chromium compounds depend on the valency of chromium, where trivalent Cr (III) compounds are used for dietary Cr supplementation and hexavalent Cr (VI) compounds are used as corrosion inhibitors in commercial settings and are known to be human carcinogens [5]. Humans can be exposed to chromium via ingestion, inhalation, and dermal or ocular exposure [6]. Trivalent chromium (Cr(III)) ion is considered to be an essential dietary trace element as it is involved in metabolism of blood glucose, regulation of insulin resistance and metabolism of lipids. Clinical trials and other studies suggest the evidence of chromium intake improving glucose tolerance in patients with Type I and II diabetes, however its clinical application in the standard management of type II diabetes mellitus is not established. Chromium deficiency has been associated with a diabetic-like state, impaired growth, decreased fertility and increased risk of cardiovascular diseases [1, 2, 5].According to the National Institute of Health, the daily dietary reference intake (DRI) of chromium for adult male and non-pregnant female are 35 μg and 25 μg, respectively [7]. Chromium picolinate capsules may be used as nutritional adjuvant in patients with or at risk of type 2 diabetes mellitus (T2DM) to improve blood sugar metabolism and stabilize the levels of serum cholesterol. Chromium chloride is available as an intravenous injection for use as a supplement to intravenous solutions given for total parenteral nutrition (TPN) [FDA Label].
+4. Indication:  Indicated for use as a supplement to intravenous solutions given for total parenteral nutrition (TPN), to maintain chromium serum levels and to prevent depletion of endogenous stores and subsequent deficiency symptoms [FDA Label].
+DrugId:  13
+1. Name:  Cycloserine
+2. Groups:  Approved
+3. Description:  Antibiotic substance produced by Streptomyces garyphalus. [PubChem]
+4. Indication:  Used in combination with up to 5 other drugs as a treatment for Mycobacterium avium complex (MAC) and is also used to treat tuberculosis (TB).
+DrugId:  14
+1. Name:  Permethrin
+2. Groups:  Approved, Investigational
+3. Description:  A pyrethroid insecticide commonly used in the treatment of lice infestations and scabies. It is a yellow to light orange-brown, low melt-ing solid or viscous liquid.
+4. Indication:  For the treatment of infestation with Sarcoptes scabiei (scabies).
+DrugId:  15
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  16
+1. Name:  Tetraethylammonium
+2. Groups:  Experimental, Investigational
+3. Description:  Tetraethylammonium is an experimental drug with no approved indication or marketed formulation. The only marketed drug containing tetraethylammonium was a combination drug called Fosglutamina B6, but this drug has now been discontinued. As an experimental agent, tetraethylammonium is used in its salt forms such as tetraethylammonium chloride and tetraethylammonium bromide. Its mechanism of action is still being investigated, but it is known that tetraethylammonium blocks autonomic ganglia, calcium- and voltage- activated potassium channels, and nicotinic acetylcholine receptors. Because of its inhibitory actions at the autonomic ganglia, tetraethylammonium was thought to be a potential therapeutic vasodilator but serious toxic effects were found. The most common use of tetraethylammonium presently is as a pharmacological research agent that blocks selective potassium channels. Structurally, tetraethylammonium is positively charged due to its central quaternary ammonium.
+4. Indication:  Tetraethylammonium is an experimental drug with no approved indication.
+DrugId:  17
+1. Name:  Tetrodotoxin
+2. Groups:  Investigational
+3. Description:  An aminoperhydroquinazoline poison found mainly in the liver and ovaries of fishes in the order tetraodontiformes, which are eaten. The toxin causes paresthesia and paralysis through interference with neuromuscular conduction. Tetrodotoxin is being investigated by Wex Pharmaceuticals for the treatment of chronic and breakthrough pain in advanced cancer patients as well as for the treatment of opioid dependence.
+4. Indication:  For the treatment of chronic and breakthrough pain in advanced cancer patients as well as for the treatment of opioid dependence.
+DrugId:  18
+1. Name:  Thallous Chloride
+2. Groups:  Approved
+3. Description:  Thallous chloride (also known as Thallium(I) chloride) is a chemical compound with the formula TlCl. This colourless solid is an intermediate in the isolation of thallium from its ores. Typically, an acidic solution of thallium(I) sulfate is treated with hydrochloric acid to precipitate insoluble thallium(I) chloride. This solid crystallizes in the caesium chloride motif. It is used as a diagnostic radiopharmaceutical. It is used for diagnosis of heart and parathyroid problems. The following are among the possible side effects: Blurred vision, chest pain or discomfort, chills, confusion, cough, difficulty with breathing, difficulty with swallowing, and dizziness.
+4. Indication:  For use as a diagnostic radiopharmaceutical.It is indicated to help diagnose heart disease (eg, coronary artery disease, heart attack). It is also used for the diagnosis of parathyroid problems. 
+DrugId:  19
+1. Name:  Colistin
+2. Groups:  Approved
+3. Description:  Cyclic polypeptide antibiotic from Bacillus colistinus. It is composed of Polymyxins E1 and E2 (or Colistins A, B, and C) which act as detergents on cell membranes. Colistin is less toxic than Polymyxin B, but otherwise similar; the methanesulfonate is used orally.
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  20
+1. Name:  Spinosad
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Spinosad is a pediculicide mixture of spinosyn A and spinosyn D (in an approximately 5:1 ratio, respectively) used in the topical treatment of head lice in children (four years old and older) and in adults. Spinosad is an insecticide based on a compound found in S. spinosa, a bacterial species. Spinosad has also been experimented for use in cats for treatment of flea infestations, and has also been experimented for use against the KS1 Ctenocephalides felis flea strain infesting dogs, in addition to many investigations for use in other animals and agricultural plants.
+4. Indication:  Spinosad is indicated for the topical treatment of head lice in children four years old and over and in adults.
+DrugId:  21
+1. Name:  Magnesium acetate tetrahydrate
+2. Groups:  Approved
+3. Description:  Magnesium acetate tetrahydrate is a hydrated form of anhydrous magnesium acetate salt with the chemical formula of Mg(CH3COO)2 • 4H2O. As a salt form of magnesium, magnesium acetate is one of the bioavailable forms of magnesium and forms a very water soluble compound. Magnesium is an essential element and second most abundant cation in the body that plays a key role in maintaining normal cellular function such as production of ATP and efficient enzyme activity. Magnesium acetate tetrahydrate can be used as an electrolyte supplementation or a reagent in molecular biology experiments.
+4. Indication:  Used as magnesium salf-containing laxatives to prevent constipation. It can bring synergistic effect to restore normal bowel function when using in combination with aluminum salts that induce bowel retention [8]. Magnesium acetate tetrahydrate is used as a source of water and electrolytes when combined with dextrose and other salts to form intravenous infusions. This injection can be used for patients with carbohydrate or magnesium deficiency, insulin hypoglycemia, constipation or hypertension during pregnancy.
+DrugId:  22
+1. Name:  Atracurium besylate
+2. Groups:  Approved
+3. Description:  A non-depolarizing neuromuscular blocking agent with short duration of action. Its lack of significant cardiovascular effects and its lack of dependence on good kidney function for elimination provide clinical advantage over alternate non-depolarizing neuromuscular blocking agents. [PubChem]
+4. Indication:  For use, as an adjunct to general anesthesia, to facilitate endotracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  23
+1. Name:  Tiagabine
+2. Groups:  Approved, Investigational
+3. Description:  Tiagabine is an anti-convulsive medication. It is also used in the treatment for panic disorder as are a few other anticonvulsants. Though the exact mechanism by which tiagabine exerts its effect on the human body is unknown, it does appear to operate as a selective GABA reuptake inhibitor.
+4. Indication:  For the treatment of partial seizures
+DrugId:  24
+1. Name:  Tartaric acid
+2. Groups:  Approved
+3. Description:  Tartaric acid is a white crystalline organic acid that occurs naturally in many plants, most notably in grapes.Tartaric is an alpha-hydroxy-carboxylic acid, is diprotic and aldaric in acid characteristics, and is a dihydroxyl derivative of succinic acid.
+4. Indication:  Tartaric Acid is primarily indicated in conditions like Antiscorbutic, Antiseptic.
+DrugId:  25
+1. Name:  Colistimethate
+2. Groups:  Approved, Vet approved
+3. Description:  Colistimethate is an antibiotic that has been shown to have bactericidal activity against aerobic gram-negative microorganisms. Colistimethate is particularly indicated when the infection is caused by sensitive strains of Pseudomonas aeruginosa. 
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.

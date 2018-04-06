@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ruplizumab
+2. Groups:  Investigational
+3. Description:  Ruplizumab is a humanized monoclonal antibody used as an immunosuppressive drug and is a component of Antova.
+4. Indication:  Investigated for use/treatment in thrombocytopenia, systemic lupus erythematosus, transplant (rejection), blood (blood forming organ disorders, unspecified), and multiple sclerosis.
+DrugId:  2
+1. Name:  Mecasermin
+2. Groups:  Approved, Investigational
+3. Description:  Mecasermin contains recombinant-DNA-engineered human insulin-like growth factor-1 (rhIGF-1). IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesized in bacteria (E. coli) that have been modified by the addition of the gene for human IGF-1.
+4. Indication:  For the long-term treatment of growth failure in pediatric patients with Primary IGFD or with GH gene deletion who have developed neutralizing antibodies to GH. It is not indicated to treat Secondary IGFD resulting from GH deficiency, malnutrition, hypothyroidism or other causes; it is not a substitute for GH therapy.
+DrugId:  3
+1. Name:  rGLP-1
+2. Groups:  Investigational
+3. Description:  rGLP-1 is a continuous infusion of glucagon-like peptide 1, or GLP-1, targeted for the treatment of congestive heart failure (CHF) in patients ineligible for transplant. GLP-1 is a naturally occurring hormone produced in the intestines in response to food intake.
+4. Indication:  Investigated for use/treatment in congestive heart failure and diabetes mellitus type 2.
+DrugId:  4
+1. Name:  Cinacalcet
+2. Groups:  Approved
+3. Description:  Cinacalcet (INN) is a drug that acts as a calcimimetic (i.e. it mimics the action of calcium on tissues) by allosteric activation of the calcium-sensing receptor that is expressed in various human organ tissues. It is sold by Amgen under the trade name Sensipar® in North America and Australia and as Mimpara® in Europe. Cinacalcet is used to treat hyperparathyroidism (elevated parathyroid hormone levels), a consequence of parathyroid tumors and chronic renal failure.
+4. Indication:  For the treatment of secondary hyperparathyroidism in patients with Chronic Kidney Disease who are on hemodialysis or peritoneal dialysis. Also for the treatment of hypercalcemia in patients with parathyroid carcinoma.
+DrugId:  5
+1. Name:  Droxidopa
+2. Groups:  Approved, Investigational
+3. Description:  Droxidopa is a precursor of noradrenaline that is used in the treatment of Parkinsonism. It is approved for use in Japan and is currently in trials in the U.S. The racaemic form (dl-threo-3,4-dihydroxyphenylserine) has also been used, and has been investigated in the treatment of orthostatic hypotension. There is a deficit of noradrenaline as well as of dopamine in Parkinson's disease and it has been proposed that this underlies the sudden transient freezing seen usually in advanced disease.Though L-DOPS has been used in Japan and Southeast Asia already for some time, it is also currently in clinical trials at the phase III point in the United States (U.S.), Canada, Australia, and throughout Europe. Provided L-DOPS successfully completes clinical trials, it could be approved for the treatment of neurogenic orthostatic hypotension (NOH) as early as 2011. Additionally, phase II clinical trials for intradialytic hypotension are also underway. Chelsea Therapeutics obtained orphan drug status (ODS) for L-DOPS in the U.S. for NOH, and that of which associated with Parkinson's disease , pure autonomic failure, and multiple system atrophy, and is the pharmaceutical company developing it in that country.
+4. Indication:  For treatment of neurogenic orthostatic hypotension (NOH) associated with various disorders including Multiple System Atrophy, Familial Amyloid Polyneuropathy, hemodialysis induced hypotension and Parkinson's Disease. Also investigated for use/treatment in neurologic disorders, nephropathy, blood (blood forming organ disorders, unspecified), and dizzy/fainting spells.
+DrugId:  6
+1. Name:  Antithymocyte immunoglobulin (rabbit)
+2. Groups:  Approved
+3. Description:  Rabbit anti-thymocyte globulin. Thymoglobulin is a polyclonal antibody that suppresses certain types of immune cells responsible for acute organ rejection in transplant patients. Thymoglobulin is a mixture of antibodies intended to bind to various cell surface antigens. The most common mode of action of Thymoglobulin is via selective depletion of T-cells.
+4. Indication:  For prevention of renal transplant rejection
+DrugId:  7
+1. Name:  Ethyl pyruvate
+2. Groups:  Investigational
+3. Description:  CTI-01 (ethyl pyruvate) is a novel anti-inflammatory agent for the treatment of critical inflammatory conditions. CTI-01 shows a potent anti-inflammatory and tissue protection activity in multiple animal models of disease including pancreatitis, ischemia-reperfusion injury, sepsis, renal injury and endotoxemia.
+4. Indication:  Investigated for use/treatment in burns and burn infections, cardiac surgery, inflammatory disorders (unspecified), ischemic reperfusion injury, and sepsis and septicemia.
+DrugId:  8
+1. Name:  Alethine
+2. Groups:  Investigational
+3. Description:  Alethine is studied in the treatment of cancer. It belongs to a family of chemicals called disulfides. It is a low molecular weight disulfide that has been shown to exhibit in vivo antitumor activity in murine myeloma and melanoma models.
+4. Indication:  Investigated for use/treatment in blood (blood forming organ disorders, unspecified), lymphoma (unspecified), and multiple myeloma.
+DrugId:  9
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  10
+1. Name:  Darinaparsin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in blood (blood forming organ disorders, unspecified), cancer/tumors (unspecified), solid tumors, multiple myeloma, and liver cancer.
+DrugId:  11
+1. Name:  Belatacept
+2. Groups:  Approved, Investigational
+3. Description:  Belatacept is a soluble fusion protein, which links the extracellular domain of human cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) to the modified Fc (hinge, CH2, and CH3 domains) portion of human immunoglobulin G1 (IgG1). Structurally, abatacept is a glycosylated fusion protein with a MALDI-MS molecular weight of 92,300 Da and it is a homodimer of two homologous polypeptide chains of 357 amino acids each. It is produced through recombinant DNA technology in mammalian CHO cells. The drug has activity as a selective co-stimulation modulator with inhibitory activity on T lymphocytes. It is approved for the treatment of rheumatoid arthritis. Belatacept selectively blocks the process of T-cell activation. It was developed by Bristol-Myers-Squibb. It differs from abatacept (Orencia) by only 2 amino acids. FDA approved on June 15, 2011.
+4. Indication:  For prophylaxis of organ rejection. It is also used concomitantly with basiliximumab for induction therapy, mycophenolate, and corticosteriods in kidney transplant recepients that are seropositive for the Epstein-Barr virus. 
+DrugId:  12
+1. Name:  Cysteamine
+2. Groups:  Approved, Investigational
+3. Description:  Cysteamine is a radiation-protective agent that oxidizes in air to form cystamine. It can be given intravenously or orally to treat radiation sickness. The bitartrate and hydrochloride salt forms are indicated for the treatment of neuropathic cystinosis in patients 6 years old and older. [PubChem]. Cysteamine is marketed under several brand names such as Cystaran™, Procysbi, and Cystagon®.
+4. Indication:  Given intravenously or orally to treat radiation sickness. The bitartrate salts (Cystagon® and Procysbi) have been used for the oral treatment of nephropathic cystinosis and cystinurea. The hydrochloride salt (Cystaran™) is indicated for the treatment of corneal cystine crystal accumulation in cystinosis patients.
+DrugId:  13
+1. Name:  SPP1148
+2. Groups:  Investigational
+3. Description:  SPP1148, the most promising compound from a new series of renin inhibitors for the treatment of hypertension and related end-organ disease.
+4. Indication:  Investigated for use/treatment in hypertension.
+DrugId:  14
+1. Name:  Idursulfase
+2. Groups:  Approved
+3. Description:  Idursulfase is a purified form of human iduronate-2-sulfatase, a lysosomal enzyme. Idursulfase is produced by recombinant DNA technology in a human cell line. Idursulfase is an enzyme that hydrolyzes the 2-sulfate esters of terminal iduronate sulfate residues from the glycosaminoglycans dermatan sulfate and heparan sulfate in the lysosomes of various cell types. Idursulfase is a 525-amino acid glycoprotein with a molecular weight of approximately 76 kilodaltons. The enzyme contains eight asparagine-linked glycosylation sites occupied by complex oligosaccharide structures. The enzyme activity of idursulfase is dependent on the post-translational modification of a specific cysteine to formylglycine.
+4. Indication:  For the treatment of Hunter syndrome in adults and children ages 5 and older.
+DrugId:  15
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.
+DrugId:  16
+1. Name:  Diatrizoate
+2. Groups:  Approved, Vet approved
+3. Description:  A commonly used x-ray contrast medium. As diatrizoate meglumine and as Diatrizoate sodium, it is used for gastrointestinal studies, angiography, and urography. [PubChem]
+4. Indication:  Used, alone or in combination, for a wide variety of diagnostic imaging methods, including angiography, urography, cholangiography, computed tomography, hysterosalpingography, and retrograde pyelography. It can be used for imaging the gastrointestinal tract in patients allergic to barium.
+DrugId:  17
+1. Name:  TAFA-93
+2. Groups:  Investigational
+3. Description:  TAFA93 is a novel prodrug of the mTOR inhibitor rapamycin which has successfully completed Phase 1 clinical development. mTOR inhibitors are currently used in the prevention of organ rejection in transplantation, the treatment of autoimmune and oncological diseases, and as a component of coated stents for the treatment of coronary artery disease.
+4. Indication:  Investigated for use/treatment in transplant (rejection).
+DrugId:  18
+1. Name:  Pirlindole
+2. Groups:  Approved
+3. Description:  Pirlindole is a reversible inhibitor of monoamine oxidase A (RIMA) which was developed and is currently used in Russia as an antidepressant. It is structurally and pharmacologically related to metralindole.Pirlindole is a selective, reversible inhibitor of monoamine oxidase (MAO) subtype A (MAO-A) that is approved in several European and non-European countries for the treatment of major depression. The antidepressant efficacy and safety of pirlindole have been demonstrated in numerous studies and, supported by many years of clinical experience in the treatment of depression. Pirlindole's efficacy and safety have also been shown in the treatment of fibromyalgia.
+4. Indication:  For the treatment of major depression.It is being studied in the treatment of fibromyalgia pain syndrome. One study determined that the effect of pirlindole on sensorimotor performance while driving a motor vehicle shows many similarities to that of placebo. The drug appears to stimulate the central nervous system, rather than exhibit a sedative effect, like many antidepressants. Because of its selective, reversible inhibition of monoamine oxidase (MAO-A) and short half-life, unpleasant "cheese effects" are avoided. This refers to the effects of consuming tyramine-rich foods, such as cheese while medicated with monoamine oxidase inhibitors, leading to severe headaches and hypertension [6]. of The available evidence supports pirlindole as a safe and effective treatment option for the management of depression and fibromyalgia syndrome [5].
+DrugId:  19
+1. Name:  Iron
+2. Groups:  Approved
+3. Description:  A metallic element found in certain minerals, in nearly all soils, and in mineral waters. It is an essential constituent of hemoglobin, cytochrome, and other components of respiratory enzyme systems. Its chief functions are in the transport of oxygen to tissue (hemoglobin) and in cellular oxidation mechanisms. Depletion of iron stores may result in iron-deficiency anemia. Iron is used to build up the blood in anemia.
+4. Indication:  Used in preventing and treating iron-deficiency anemia.
+DrugId:  20
+1. Name:  REN-850
+2. Groups:  Investigational
+3. Description:  REN-850 is an oral drug for multiple sclerosis which is in Phase I of clinical trials.
+4. Indication:  Investigated for use/treatment in multiple sclerosis.
+DrugId:  21
+1. Name:  Everolimus
+2. Groups:  Approved
+3. Description:  Everolimus is a derivative of Rapamycin (sirolimus), and works similarly to Rapamycin as an mTOR (mammalian target of rapamycin) inhibitor. It is currently used as an immunosuppressant to prevent rejection of organ transplants. In a similar fashion to other mTOR inhibitors Everolimus' effect is solely on the mTORC1 protein and not on the mTORC2 protein.
+4. Indication:  Everolimus is indicated for the treatment of postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer (advanced HR+ BC) in combination with exemestane, after failure of treatment with letrozole or anastrozole.Indicated for the treatment of adult patients with progressive neuroendocrine tumors of pancreatic origin (PNET) with unresectable, locally advanced or metastatic disease.Indicated for the treatment of adult patients with advanced renal cell carcinoma (RCC) after failure of treatment with sunitinib or sorafenib.Indicated for the treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery.Indicated in pediatric and adult patients with tuberous sclerosis complex (TSC) for the treatment of subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention but cannot be curatively resected.
+DrugId:  22
+1. Name:  Acepromazine
+2. Groups:  Approved, Vet approved
+3. Description:  Acepromazine is one of the phenothiazine derivative psychotropic drugs, used little in humans, however frequently in animals as a sedative and antiemetic.
+4. Indication:  Acepromazine was first used in humans in the 1950s as an antipsychotic agent. It is now rarely used in humans. Acepromazine is frequently used in animals as a sedative and antiemetic. Its principal value is in quietening and calming anxious animals.
+DrugId:  23
+1. Name:  Aprotinin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Aprotinin, also known as bovine pancreatic trypsin inhibitor, BPTI (Trasylol, Bayer) is a protein, that is used as medication administered by injection to reduce bleeding during complex surgery, such as heart and liver surgery. Its main effect is the slowing down of fibrinolysis, the process that leads to the breakdown of blood clots. The aim in its use is to decrease the need for blood transfusions during surgery, as well as end-organ damage due to hypotension (low blood pressure) as a result of marked blood loss. The drug was temporarily withdrawn worldwide in 2007 after studies suggested that its use increased the risk of complications or death; after this was confirmed by follow-up studies, Trasylol was entirely and permanently withdrawn in May 2008, except - at least for the time being - for very restricted research use. [Wikipedia]
+4. Indication:  For prophylactic use to reduce perioperative blood loss and the need for blood transfusion in patients undergoing cardiopulmonary bypass in the course of coronary artery bypass graft surgery who are at an increased risk for blood loss and blood transfusion.
+DrugId:  24
+1. Name:  ATG-Fresenius S
+2. Groups:  Investigational
+3. Description:  ATG-Fresenius S is a concentrated anti-human T-lymphocyte immunoglobulin preparation derived from rabbits after immunization with a T-lympoblast cell line. ATG-Fresenius S is an immunosuppressive product for the prevention and treatment of acute rejection following organ transplantation.
+4. Indication:  Investigated for use/treatment in immunosuppressive and transplant (rejection).
+DrugId:  25
+1. Name:  Teriflunomide
+2. Groups:  Approved
+3. Description:  Teriflunomide is the active metabolite of leflunomide, and it acts as an immunomodulatory agent by inhibiting pyrimidine synthesis. It is marketed under the name Aubagio® and is indicated for the treatment of multiple sclerosis, specifically relapsing forms. The FDA label states an important warning about the risk of hepatoxicity and teratogenicity for patients using teriflunomide.
+4. Indication:  Used in the treatment of relapsing forms of multiple sclerosis (MS).

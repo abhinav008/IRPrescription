@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clazosentan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  2
+1. Name:  AZX-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in scar tissue.
+DrugId:  3
+1. Name:  Nicotinyl alcohol
+2. Groups:  Experimental
+3. Description:  A direct-acting peripheral vasodilator that causes flushing and may decrease blood pressure. It is used in vasospasm and threatened gangrene. [PubChem]
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Piracetam
+2. Groups:  Approved, Investigational
+3. Description:  Piracetam is a nootropic drug in the racetams group, with chemical name 2-oxo-1-pyrrolidine acetamide. It shares the same 2-oxo-pyrrolidone base structure with pyroglutamic acid and is a cyclic derivative of the neurotransmitter γ-aminobutyric acid (GABA). However its mechanism of action differ from that of endogenous GABA.Piracetam has neuroprotective and anticonvulsant properties and is reported to improve neural plasticity [1]. Its efficacy is documented in cognitive disorders and dementia, vertigo, cortical myoclonus, dyslexia, and sickle cell anemia although the clinical application in these conditions is not yet established. Piracetam has effects on the vascular system by reduce erythrocyte adhesion to vascular endothelium, hinder vasospasm and facilitate microcirculation [1].Originally marketed by UCB Pharma in 1971, piracetam was the first nootropic drug to modulate cognitive function without causing sedation or stimulation [1]. In the United States, it is not approved by the US Food and Drug Administration for any medical use and it is not permitted to be sold as a dietary supplement. In the UK, piracetam is prescribed mainly for myoclonus, but is used off-label for other conditions such as learning difficulties in children, memory loss or other cognitive defects in the elderly, and sickle-cell vaso-occlusive crises [4]. Evidence to support its use for many conditions is unclear.
+4. Indication:  Indicated in adult patients suffering from myoclonus of cortical origin, irrespective of aetiology, and should be used in combination with other anti-myoclonic therapies [5].
+DrugId:  5
+1. Name:  Gadoteric acid
+2. Groups:  Approved
+3. Description:  Gadoteric acid is a macrocycle-structured gadolinium-based MRI contrast agent. It is composed of the organic acid DOTA (1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid) used for its chelating properties, and gadolinium (Gd3+). As a paramagnetic molecule, gadoterate develops a magnetic moment when placed in a magnetic field. This magnetic moment enhances the relaxation rates of water protons in its vicinity, leading to an increase in signal intensity (brightness) of tissues. More specifically, it reduces the T1 relaxation time (and to some extent the T2 and T2* relaxation times) in NMR, which is the source of its clinical utility. Increased signal brightness allows it to be used in imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become 'leaky'. Gadoteric acid, as the FDA approved product Dotarem, is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+4. Indication:  Gadoteric acid is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+DrugId:  6
+1. Name:  Methysergide
+2. Groups:  Approved
+3. Description:  An ergot derivative that is a congener of lysergic acid diethylamide. It antagonizes the effects of serotonin in blood vessels and gastrointestinal smooth muscle, but has few of the properties of other ergot alkaloids. Methysergide is used prophylactically in migraine and other vascular headaches and to antagonize serotonin in the carcinoid syndrome.
+4. Indication:  For the treatment of vascular headache
+DrugId:  7
+1. Name:  Omega-6 fatty acids
+2. Groups:  Nutraceutical
+3. Description:  Omega-6 fatty acids are polyunsaturated fatty acids with a final carbon-carbon double bond in the n-6 position, that is, the sixth bond, counting from the methyl end. They are a family of fatty acid molecules that act as precursors to potent lipid mediator signalling molecules with either pro-inflammatory and anti-inflammatory effects. Cells involved in the inflammatory response are typically rich in the n-6 fatty acid arachidonic acid, as generally, eicosanoids derived from n-6 PUFA are pro-inflammatory. Arachidonic acid, which is a main precursor of eicosanoids, is an example of omega-6 (n-6) polyunsaturated fatty acids. Vegetable oil is a major dietary sources of omega-6 fatty acids.
+4. Indication:  There are no current pharmacotherapeutic products based on omega-6 fatty acids. 
+DrugId:  8
+1. Name:  Sertaconazole
+2. Groups:  Approved, Investigational
+3. Description:  Sertaconazole nitrate is an antifungal medication of the imidazole class. It is available as a cream to treat skin infections such as athlete's foot. [Wikipedia]
+4. Indication:  For the topical treatment of interdigital tinea pedis in immunocompetent patients 12 years of age and older, caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum.
+DrugId:  9
+1. Name:  Ergonovine
+2. Groups:  Approved
+3. Description:  An ergot alkaloid with uterine and vascular smooth muscle contractile properties.
+4. Indication:  Used to treat postpartum haemorrhage and postabortion haemorrhage in patients with uterine atony. 
+DrugId:  10
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  11
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  12
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  13
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  14
+1. Name:  Metrizamide
+2. Groups:  Approved
+3. Description:  Metrizamide is a solute for density gradient centrifugation offering higher maximum solution density without the problems of increased viscosity. It is also used as a resorbable, non-ionic contrast medium.
+4. Indication:  Metrizamide is used for lumbar, thoracic, cervical, and total columnar myelography to determine the presence of abnormalities in the spinal column, spinal canal, and central nervous system (CNS) as well as for cisternography by direct injection using standard radiologic techniques to visualize the basal cistern of the brain. For computerized tomography (CT) of the intracranial subarachnoid spaces and for ventriculography by direct injection using standard radiologic techniques to visualize the cerebral ventricles. Also used in pediatric angiocardiography to visualize lesions or malformations of the heart and obstructions or anomalies of the major thoracic vessels. Also used in adult peripheral arteriography to visualize specific regions of the vascular system and blood flow in such areas to help in the diagnosis and evaluation of neoplasms (known or suspected) or vascular diseases (congenital or acquired) that may cause changes in normal vascular anatomy or physiology. Metrizamide is also indicated in adults for intravenous digital arteriography of head and neck.
+DrugId:  15
+1. Name:  Nimodipine
+2. Groups:  Approved, Investigational
+3. Description:  Nimodipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nimodipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Compared to other calcium channel blocking agents, nimodipine exhibits greater effects on cerebral circulation than on peripheral circulation. Nimodipine is used to as an adjunct to improve the neurologic outcome following subarachnoid hemorrhage from ruptured intracranial aneurysm.
+4. Indication:  For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.
+DrugId:  16
+1. Name:  Phentolamine
+2. Groups:  Approved
+3. Description:  A nonselective alpha-adrenergic antagonist. It is used in the treatment of hypertension and hypertensive emergencies, pheochromocytoma, vasospasm of raynaud disease and frostbite, clonidine withdrawal syndrome, impotence, and peripheral vascular disease. [PubChem]
+4. Indication:  Used as an aid for the diagnosis of pheochromocytoma, and may be administered immediately prior to or during pheochromocytomectomy to prevent or control paroxysmal hypertension resulting from anesthesia, stress, or operative manipulation of the tumor. Phentolamine has also been used to treat hypertensive crisis caused by sympathomimetic amines or catecholamine excess by certain foods or drugs in patients taking MAO inhibitors, or by clonidine withdrawal syndrome. Other indications include the prevention of dermal necrosis and sloughing following IV administration or extravasation of norepinephrine, decrease in impedance to left ventricular ejection and the infarct size in patients with MI associated with left ventricular failure, treatment of erectile dysfunction through self-injection of small doses combined with papaverine hydrochloride into the corpus cavernosum, and as an adjunct to the management of cocaine overdose to reverse coronary vasoconstriction following use of oxygen, benzodiazepines,and nitroglycerin. 
+DrugId:  17
+1. Name:  Mannitol
+2. Groups:  Approved, Investigational
+3. Description:  Mannitol is an osmotic diuretic that is metabolically inert in humans and occurs naturally, as a sugar or sugar alcohol, in fruits and vegetables. Mannitol elevates blood plasma osmolality, resulting in enhanced flow of water from tissues, including the brain and cerebrospinal fluid, into interstitial fluid and plasma. As a result, cerebral edema, elevated intracranial pressure, and cerebrospinal fluid volume and pressure may be reduced. Mannitol may also be used for the promotion of diuresis before irreversible renal failure becomes established; the promotion of urinary excretion of toxic substances; as an Antiglaucoma agent; and as a renal function diagnostic aid.
+4. Indication:  Used for the promotion of diuresis before irreversible renal failure becomes established, the reduction of intracranial pressure, the treatment of cerebral edema, and the promotion of urinary excretion of toxic substances.
+DrugId:  18
+1. Name:  Oxytetracycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A tetracycline analog isolated from the actinomycete streptomyces rimosus and used in a wide variety of clinical conditions.
+4. Indication:  Oxytetracycline is indicated for treatment of infections caused by a variety of Gram positive and Gram negative microorganisms including Mycoplasma pneumoniae, Pasteurella pestis, Escherichia coli, Haemophilus influenzae (respiratory infections), and Diplococcus pneumoniae.
+DrugId:  19
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  20
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  21
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  22
+1. Name:  Nitroglycerin
+2. Groups:  Approved, Investigational
+3. Description:  A volatile vasodilator which relieves angina pectoris by stimulating guanylate cyclase and lowering cytosolic calcium. [PubChem]
+4. Indication:  For the prevention of angina
+DrugId:  23
+1. Name:  Nalidixic Acid
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic 1,8-naphthyridine antimicrobial agent with a limited bacteriocidal spectrum. It is an inhibitor of the A subunit of bacterial DNA gyrase. [PubChem]
+4. Indication:  For the treatment of urinary tract infections caused by susceptible gram-negative microorganisms, including the majority of E. Coli, Enterobacter species, Klebsiella species, and Proteus species.
+DrugId:  24
+1. Name:  Frovatriptan
+2. Groups:  Approved, Investigational
+3. Description:  Frovatriptan is a triptan drug developed by Vernalis for the treatment of migraine headaches, in particular those associated with menstruation. Frovatriptan causes vasoconstriction of arteries and veins that supply blood to the head.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  25
+1. Name:  Dihydroergotamine
+2. Groups:  Approved, Investigational
+3. Description:  A 9,10alpha-dihydro derivative of ergotamine. It is used as a vasoconstrictor, specifically for the therapy of migraine disorders.
+4. Indication:  For the acute treatment of migraine headaches with or without aura and the acute treatment of cluster headache episodes.

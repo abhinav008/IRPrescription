@@ -1,0 +1,100 @@
+DrugId:  1
+1. Name:  Aminophenazone
+2. Groups:  Approved, Withdrawn
+3. Description:  A pyrazolone with analgesic, anti-inflammatory, and antipyretic properties but has risk of agranulocytosis. A breath test with 13C-labeled aminopyrine has been used as a non-invasive measure of cytochrome P-450 metabolic activity in liver function tests. [PubChem]
+4. Indication:  Formerly widely used as an antipyretic and analgesic in rheumatism, neuritis, and common colds. Currently used to measure total body water.
+DrugId:  2
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  3
+1. Name:  Sulfamerazine
+2. Groups:  Approved, Vet approved
+3. Description:  A sulfanilamide that is used as an antibacterial agent. [PubChem]
+4. Indication:  A sulfanilamide that is used as an antibacterial agent. It can be used to treat bronchitis, prostatitis and urinary tract infections.
+DrugId:  4
+1. Name:  Metamizole
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Metamizole, formerly marketed as Dimethone tablets and injection, Protemp oral liquid, and other drug products, was associated with potentially fatal agranulocytosis. Approvals of the NDA's for dipyrone drug products were withdrawn on June 27, 1977 (see the Federal Register of June 17, 1977 (42 FR 30893)). Withdrawn from the Canadian market in 1963.
+4. Indication:  Used in the past as a powerful painkiller and fever reducer.
+DrugId:  5
+1. Name:  Etryptamine
+2. Groups:  Illicit, Investigational, Withdrawn
+3. Description:  In the 1960's, alpha-ethyltryptamine (αET), a non hydrazine reversible monoamine oxidase inhibitor, was developed in the United States by the Upjohn chemical company for use as an antidepressant. αET was an FDA approved antidepressant under the name Monase. However, in 1962, after the discovery of an unacceptable incidence of agranulocytosis, the development of Monase was halted and the drug was withdrawn from potential market use. In 1993, the US Drug Enforcement Administration added αET to Schedule I of its Schedules of Controlled Substances, after an increasing incidence of its use as a recreational drug in the 1980's. Currently, αET is an illegal substance; however, it's activity is still under scientific investigation. αET is a stimulant and hallucinogen, but it is less stimulating and hallucinogenic than alpha-methyltryptamine, a closely related compound. Instead, the effects of αET, a tryptamine derivative, more closely resemble the amphetamine derived drug 3,4-methylenedioxy-N-methylamphetamine (MDMA). Similarly to MDMA, αET has been shown to release serotonin pre-synaptically, as well as lesser amounts of norepinephrine and dopamine. Like MDMA, increases in locomotor activity and mood elevation can be seen post administration.
+4. Indication:  Developed in the 1960's for use as an antidepressant before market withdrawal in 1962. 
+DrugId:  6
+1. Name:  Sodium aurothiomalate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium aurothiomalate is a gold compound that is used for its immunosuppressive anti-rheumatic effects. Gold Sodium Thiomalate is supplied as a solution for intramuscular injection containing 50 mg of Gold Sodium Thiomalate per mL. It is most effective in active progressive rheumatoid arthritis and of little or no value in the presence of extensive deformities or in the treatment of other forms of arthritis.
+4. Indication:  As anti-inflammatory agent for the treatment of arthritis. Disease-modifying antirheumatic drug, DMARD.
+DrugId:  7
+1. Name:  Deferiprone
+2. Groups:  Approved
+3. Description:  Deferiprone is an oral iron chelator used as a second line agent in thalassemia syndromes when iron overload from blood transfusions occurs. Thalassemias are a type of hereditary anaemia due a defect in the production of hemoglobin. As a result, erythropoiesis, the production of new red blood cells, is impaired. FDA approved on October 14, 2011. 
+4. Indication:  Deferiprone is indicated in thalassemia syndromes when first line chelation agents are not adequate to treat transfusional iron overload.
+DrugId:  8
+1. Name:  Ticlopidine
+2. Groups:  Approved
+3. Description:  Ticlopidine is an effective inhibitor of platelet aggregation. It is a prodrug that is metabolised to an active form, which blocks the ADP receptor that is involved in GPIIb/IIIa receptor activation leading to platelet aggregation. Ticlopidine is marketed under the brand name Ticlid and is indicated for patients who cannot take aspirin or in whom aspirin has not worked to prevent a thrombotic stroke. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.
+4. Indication:  Used in patients, who have had a stroke or stroke precursors and who cannot take aspirin or aspirin has not worked, to try to prevent another thrombotic stroke.
+DrugId:  9
+1. Name:  Clozapine
+2. Groups:  Approved
+3. Description:  A tricyclic dibenzodiazepine, classified as an atypical antipsychotic agent. It binds several types of central nervous system receptors, and displays a unique pharmacological profile. Clozapine is a serotonin antagonist, with strong binding to 5-HT 2A/2C receptor subtype. It also displays strong affinity to several dopaminergic receptors, but shows only weak antagonism at the dopamine D2 receptor, a receptor commonly thought to modulate neuroleptic activity. Agranulocytosis is a major adverse effect associated with administration of this agent. [PubChem]
+4. Indication:  For use in patients with treatment-resistant schizophrenia.
+DrugId:  10
+1. Name:  Lenograstim
+2. Groups:  Approved, Investigational
+3. Description:  Lenograstim is a recombinant granulocyte colony-stimulating factor which functions as an immunostimulator.
+4. Indication:  The drug is used to reduce the risk of life-threatening infection in patients with neutropenia, particularly after cytotoxic chemotherapy.Lenograstim is indicated as a treatment to reduce the duration of neutropenia and the severity of infections in patients with non-myeloid malignancy who have undergone autologous or allogeneic bone marrow transplantation, or treatment with established cytotoxic chemotherapy and in addition to reduce the incidence of infection associated with established cytotoxic chemotherapy.Lenograstim is also indicated to mobilise peripheral blood progenitor cells (PBPCs) with Lenograstim alone, or after myelosuppressive chemotherapy, in order to accelerate haematopoietic recovery by infusion of such cells, after myelosuppressive or myeloablative therapy. Lenograstim is also indicated to accelerate the engraftment of these cells after their reinfusion.GRANOCYTE is also indicated for the treatment of severe chronic neutropenia including congenital agranulocytosis (Kostmann's syndrome).
+DrugId:  11
+1. Name:  Floxuridine
+2. Groups:  Approved
+3. Description:  An antineoplastic antimetabolite that is metabolized to fluorouracil when administered by rapid injection. Floxuridine is available as a sterile, nonpyrogenic, lyophilized powder for reconstitution. When administered by slow, continuous, intra-arterial infusion, it is converted to floxuridine monophosphate. It has been used to treat hepatic metastases of gastrointestinal adenocarcinomas and for palliation in malignant neoplasms of the liver and gastrointestinal tract. [PubChem]
+4. Indication:  For palliative management of gastrointestinal adenocarcinoma metastatic to the liver, when given by continuous regional intra-arterial infusion in carefully selected patients who are considered incurable by surgery or other means. Also for the palliative management of liver cancer (usually administered by hepatic intra-arterial infusion).
+DrugId:  12
+1. Name:  Nafamostat
+2. Groups:  Approved, Investigational
+3. Description:  Nafamostat is a synthetic serine protease inhibitor that is commonly formulated with hydrochloric acid due to its basic properties. It has been used in trials studying the prevention of Liver Transplantation and Postreperfusion Syndrome. The use of nafamostat in Asian countries is approved as an anticoagulant therapy for patients undergoing continuous renal replacement therapy due to acute kidney injury.
+4. Indication:  Used as an anticoagulant in patients with disseminative blood vessel coagulation, hemorrhagic lesions, and hemorrhagic tendencies. It prevents blood clot formation during extracorporeal circulation in patients undergoing continuous renal replacement therapy and extra corporeal membrane oxygenation. 
+DrugId:  13
+1. Name:  Methimazole
+2. Groups:  Approved
+3. Description:  A thioureylene antithyroid agent that inhibits the formation of thyroid hormones by interfering with the incorporation of iodine into tyrosyl residues of thyroglobulin. This is done by interfering with the oxidation of iodide ion and iodotyrosyl groups through inhibition of the peroxidase enzyme. [PubChem]
+4. Indication:  For the treatment of hyperthyroidism, goiter, Graves disease and psoriasis.
+DrugId:  14
+1. Name:  Clindamycin
+2. Groups:  Approved, Vet approved
+3. Description:  Clindamycin is a semisynthetic lincosamide antibiotic that has largely replaced lincomycin due to an improved side effect profile. Clindamycin inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits. It may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For the treatment of serious infections caused by susceptible anaerobic bacteria, including Bacteroides spp., Peptostreptococcus, anaerobic streptococci, Clostridium spp., and microaerophilic streptococci. May be useful in polymicrobic infections such as intra-abdominal or pelvic infections, osteomyelitis, diabetic foot ulcers, aspiration pneumonia and dental infections. May also be used to treat MSSA and respiratory infections caused by S. pneumoniae and S. pyogenes in patients who are intolerant to other indicated antibiotics or who are infected with resistant organism. May be used vaginally to treat vaginosis caused by Gardnerella vaginosa. Clindamycin reduces the toxin producing effects of S. aureus and S. pyogenes and as such, may be particularly useful for treating necrotizing fasciitis. May be used topically to treat acne.
+DrugId:  15
+1. Name:  Mersalyl
+2. Groups:  Approved
+3. Description:  Mersalyl is the sodium salt form of mersalyl acid, a mercurial diuretic. It is an outdated drug, and its approval has been discontinued by the FDA. Mersalyl acid is currently replaced by less toxic non-mercury containing diuretics [4, 6]. The sodium salt of a mercury-containing derivative of salicylamide, was formerly used (often in combination with theophylline) to treat edema, due to its powerful diuretic properties [6]. Interestingly, it has been found to have antiviral properties in mice [13].
+4. Indication:  Elevated blood pressure, edema [6, 14].
+DrugId:  16
+1. Name:  Morniflumate
+2. Groups:  Approved
+3. Description:  Morniflumate is a non-steroidal anti-inflammatory drug with antipyretic properties. It is the morpholinoethyl ester of niflumic acid [8]. In one study, post morniflumate ingestion, physical examination and clinical symptoms of those with bronchitis showed improvement [1].
+4. Indication:  Morniflumate is indicated for the treatment of inflammatory conditions affecting the airways, ENT system, urogenital tract and bone and joint systems in adults. In Italy, morniflumate is also indicated for the treatment of pain associated with ear, nose, throat (ENT) and gastrointestinal inflammatory conditions in children. Morniflumate is a well established NSAID that has been in use for over three decades in Italy (particularly for the treatment of upper respiratory tract infections in children), France, Belgium, Austria, Switzerland, Spain and Portugal; it has a generally favorable tolerability profile.
+DrugId:  17
+1. Name:  Enalaprilat
+2. Groups:  Approved
+3. Description:  Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume. Enalaprilat was originally created to overcome the limitations of the first ACE inhibitor, captopril, which had numerous side effects and left a metallic taste in the mouth. Removal of the problematic thiol group from captopril resulted in enalaprilat, which was then modified further with an ester to create the orally available pro-drug enalapril.Enalaprilat is poorly orally available and is therefore only available as an intravenous injection for the treatment of hypertension when oral therapy is not possible.
+4. Indication:  Enalaprilat injection is indicated for the treatment of hypertension when oral therapy is not practical.
+DrugId:  18
+1. Name:  Imipramine
+2. Groups:  Approved
+3. Description:  Imipramine, the prototypical tricyclic antidepressant (TCA), is a dibenzazepine-derivative TCA. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, imipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, imipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as imipramine and amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also block histamine H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively [5]. Imipramine has less sedative and anticholinergic effects than the tertiary amine TCAs, amitriptyline and clomipramine. Imipramine may be used to treat depression and nocturnal enuresis in children [FDA Label]. Unlabeled indications include chronic and neuropathic pain (including diabetic neuropathy), panic disorder, attention-deficit/hyperactivity disorder (ADHD), and post-traumatic stress disorder (PTSD) [12, 11, 1, 13, 14, 15, 2].
+4. Indication:  For the relief of symptoms of depression and as temporary adjunctive therapy in reducing enuresis in children aged 6 years and older [FDA Label]. May also be used off-label to manage panic disorders with or without agoraphobia, as a second line agent for ADHD in children and adolescents, to manage bulimia nervosa, for short-term management of acute depressive episodes in bipolar disorder and schizophrenia, for the treatment of acute stress disorder and posttraumatic stress disorder, and for symptomatic treatment of postherpetic neuralgia and painful diabetic neuropathy [12, 11, 1, 13, 14, 15, 2]. 
+DrugId:  19
+1. Name:  Sulfamethoxazole
+2. Groups:  Approved
+3. Description:  A bacteriostatic antibacterial agent that interferes with folic acid synthesis in susceptible bacteria. Its broad spectrum of activity has been limited by the development of resistance. (From Martindale, The Extra Pharmacopoeia, 30th ed, p208)
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  20
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
