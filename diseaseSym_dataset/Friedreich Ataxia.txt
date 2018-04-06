@@ -1,0 +1,60 @@
+Body Weight, 1, 0.342987847144765
+Birth Weight, 1, 1.4071309430047
+Obesity, 1, 0.8325536516356681
+Edema, 1, 0.5958780941028821
+Fatigue, 1, 1.1380131555214292
+Heart Murmurs, 1, 2.3634171314371484
+Neurologic Manifestations, 2, 0.13988282635066876
+Ataxia, 37, 45.12740937274679
+Cerebellar Ataxia, 40, 68.35142491831273
+Gait Ataxia, 9, 25.219583708802986
+Chorea, 3, 5.978950113980964
+Dystonia, 1, 1.5361090335230454
+Torticollis, 1, 2.154990922649467
+Myoclonus, 4, 7.100283477721324
+Tremor, 4, 6.957411147313008
+Gait Disorders, Neurologic, 4, 6.979062079740008
+Gait Apraxia, 1, 4.127845706948232
+Speech Disorders, 7, 8.07041592716803
+Articulation Disorders, 2, 3.7748979154936078
+Dysarthria, 13, 26.345606532358833
+Persistent Vegetative State, 1, 3.095079984077709
+Memory Disorders, 1, 1.4679976076638996
+Mental Retardation, 12, 10.865360208872572
+Auditory Perceptual Disorders, 2, 6.286693450095087
+Psychomotor Disorders, 4, 5.326563966548438
+Muscle Spasticity, 14, 24.181922878315756
+Muscular Atrophy, 35, 51.128761935783984
+Spasm, 2, 2.734554943125151
+Pain, 3, 0.9881601258922204
+Paralysis, 1, 0.48447137748284835
+Ophthalmoplegia, 4, 5.31938907673233
+Paraplegia, 4, 5.109917134663066
+Quadriplegia, 2, 2.7382793389872804
+Vocal Cord Paralysis, 1, 1.9877795434519612
+Paraparesis, Spastic, 3, 9.51361103865153
+Reflex, Abnormal, 10, 14.071309430047002
+Reflex, Babinski, 2, 7.054143693038603
+Seizures, 1, 0.8451669255214139
+Sensation Disorders, 2, 0.6866438085432793
+Dizziness, 1, 1.3424714224114789
+Hearing Disorders, 3, 2.2050497248697796
+Deafness, 6, 7.371162978373567
+Hearing Loss, Bilateral, 1, 2.2117885210425996
+Hearing Loss, Sensorineural, 7, 8.503991023250062
+Hearing Loss, Central, 1, 3.2536032113175763
+Olfaction Disorders, 1, 2.2882302165425417
+Somatosensory Disorders, 1, 1.0455310699864064
+Hypesthesia, 1, 1.7219610441163826
+Vision Disorders, 5, 3.3174471593395456
+Blindness, 4, 4.392553420039799
+Urinary Bladder, Neurogenic, 2, 4.156514256836155
+Vertigo, 1, 1.5962519431875786
+Voice Disorders, 1, 1.66524481467453
+Chest Pain, 1, 1.0995608303564925
+Angina Pectoris, 2, 2.9053667453817145
+Anoxia, 1, 1.0019885717074701
+Cheyne-Stokes Respiration, 1, 3.6378232108120043
+Dyspnea, 2, 2.010443363079234
+Hypercapnia, 1, 2.1109838219206343
+Urinary Incontinence, Stress, 1, 2.8021759676447764
