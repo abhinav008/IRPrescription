@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  2
+1. Name:  Ceftazidime
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibacterial derived from cephaloridine and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+4. Indication:  For the treatment of patients with infections caused by susceptible strains of organisms in the following diseases: lower respiratory tract infections,skin and skin structure infections, urinary tract infections, bacterial septicemia, bone and joint infections, gynecologic infections, intra abdominal infections (including peritonitis), and central nervous system infections (including meningitis).
+DrugId:  3
+1. Name:  Vaborbactam
+2. Groups:  Approved, Investigational
+3. Description:  Vaborbactam is a cyclic boronic acid pharmacophore β-lactamase inhibitor. It has been used in trials studying the treatment of bacterial infections in subjects with varying degrees of renal insufficiency. In August 2017, a combination antibacterial therapy under the market name Vabomere was approved for the treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of vaborbactam and Meropenem and is intravenously admininstered. Vaborbactam is added to the therapy to reduce the extent of meropenem degradation by inhibiting serine beta-lactamases of microorganisms [FDA Label]. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  Indicated in combination with meropenem for the treatment of patients 18 years of age and older with complicated urinary tract infections (cUTI) including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, and Enterobacter cloacae species complex [FDA Label].
+DrugId:  4
+1. Name:  Amdinocillin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Amidinopenicillanic acid derivative with broad spectrum antibacterial action. It is poorly absorbed if given orally and is used in urinary infections and typhus. Amdinocillin is not available in the United States.
+4. Indication:  Used in the treatment of urinary tract infections caused by some strains of E. coli and klebsiella and enterobacter species. Used mainly against Gram negative organisms.
+DrugId:  5
+1. Name:  Cinoxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Synthetic antimicrobial related to oxolinic acid and nalidixic acid and used in urinary tract infections. [PubChem]
+4. Indication:  For the treatment of initial and recurrent urinary tract infections in adults caused by the following susceptible microorganisms: Escherichia coli, Proteus mirabilis, Proteus vulgaris, Klebsiella species (including K. pneumoniae), and Enterobacter species.
+DrugId:  6
+1. Name:  Doripenem
+2. Groups:  Approved, Investigational
+3. Description:  Doripenem is a broad-spectrum, carbapenem antibiotic marketed under the brand name Doribax by Janssen. Doripenem injection was approved by the FDA in 2007 to treat complicated urinary tract and intra-abdominal infections. In a clinical trial of doripenem treatment in ventilator associated pneumonia (vs. imipenem and cilastatin), it was found that doripenem carried an increased risk of death and lower clinical cure rates, resulting in a premature termination of the trial. The FDA revised the doripenem label in 2014 to include a warning against use in ventilator-associated pneumonia and to reiterate its safety and efficacy for its approved indications. 
+4. Indication:  Doripenem is indicated in the treatment of complicated intra-abdominal infections and complicated urinary tract infections, including pyelonephritis, caused by designated susceptible bacteria.
+DrugId:  7
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  8
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  9
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  11
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  12
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  14
+1. Name:  Nitrocefin
+2. Groups:  Experimental
+3. Description:  Nitrocefin is a chromogenic cephalosporin substrate routinely used to detect the presence of beta-lactamase enzymes produced by various microbes. Beta-lactamase mediated resistance to beta-lactam antibiotics such as penicillin is a widespread mechanism of resistance for a number of bacteria including members of the Enterobacteriaceae family; a major group of enteric Gram-negative bacteria. Other methods for beta-lactamase detection exist including PCR; however, nitrocefin allows for rapid beta-lactamase detection using few materials and inexpensive equipment.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  18
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  19
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  KB001
+2. Groups:  Investigational
+3. Description:  KB001 is a Humaneered™ PEGylated monoclonal antibody fragment for the treatment of life-threatening Pseudomonas aeruginosa infections, a common problem of cystic fibrosis and mechanically ventilated patients.
+4. Indication:  For the treatment of infections caused by multi-drug resistant Pseudomonas aeruginosa.
+DrugId:  21
+1. Name:  Diethylhomospermine
+2. Groups:  Investigational
+3. Description:  Diethylhomospermine has been used in trials studying the treatment of Diarrhea and HIV Infections.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Vibriolysin
+2. Groups:  Investigational
+3. Description:  Vibriolysin is a proteolytic enzyme secreted by the marine microorganism Vibrio proteolyticus. It is a new agent for enzymatic debridement, shown to rapidly and thoroughly hydrolyze burn wound eschar within full-thickness wounds.
+4. Indication:  Investigated for use/treatment in burns and burn infections.
+DrugId:  23
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  25
+1. Name:  Gepotidacin
+2. Groups:  Investigational
+3. Description:  Gepotidacin has been used in trials studying the treatment of Gonorrhea, Infections, Bacterial, and Infections, Respiratory Tract.
+4. Indication:  Not Available

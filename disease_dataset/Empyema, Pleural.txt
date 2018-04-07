@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Ascrinvacumab
+2. Groups:  Investigational
+3. Description:  Ascrinvacumab has been used in trials studying the treatment and basic science of Neoplasms, Advanced Solid Tumors, Carcinoma, Hepatocellular, and Malignant Pleural Mesothelioma.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Fresolimumab
+2. Groups:  Investigational
+3. Description:  Fresolimumab has been used in trials studying the treatment of Primary Brain Tumors, Metastatic Breast Cancer, Diffuse Systemic Sclerosis, Pleural Malignant Mesothelioma, and Primary Focal Segmental Glomerulosclerosis.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Defactinib
+2. Groups:  Investigational
+3. Description:  Defactinib has been investigated for the treatment of Malignant Pleural Mesothelioma.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Sulfacytine
+2. Groups:  Approved
+3. Description:  Sulfacytine is a short-acting sulfonamide. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of p-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections.Sulfacytine is a competitive inhibitor of the enzyme dihydropteroate synthetase. It inhibits bacterial synthesis of of dihydrofolic acid by preventing the condensation of the pteridine with para-aminobenzoic acid (PABA), a substrate of the enzyme dihydropteroate synthetase. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.
+4. Indication:  Used orally in the treatment of acute urinary tract infections.
+DrugId:  5
+1. Name:  Pemetrexed
+2. Groups:  Approved, Investigational
+3. Description:  Pemetrexed (brand name Alimta) is a chemotherapy drug manufactured and marketed by Eli Lilly and Company. Its indications are the treatment of pleural mesothelioma as well as non-small cell lung cancer.
+4. Indication:  Used in combination with cisplatin for the treatment of malignant pleural mesothelioma in adults whose disease is unresectable or who otherwise are not candidates for potentially curative surgery. Also used as a monotherapy for the treatment of locally advanced or metastatic non-small cell lung cancer (NSCLC) after prior chemotherapy
+DrugId:  6
+1. Name:  Sulfoxone
+2. Groups:  Approved
+3. Description:  Sulfoxone is a water-soluble sulfone used as an antileprosy drug. It has been used with limited success in the treatment of dermatitis herpetiformis.
+4. Indication:  For the treatment of leprosy and dermatitis herpetiformis
+DrugId:  7
+1. Name:  Sulfamoxole
+2. Groups:  Approved
+3. Description:  Sulfamoxole is a sulfonamide antibacterial.
+4. Indication:  For the treatment of bacterial infection.
+DrugId:  8
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  9
+1. Name:  Sulfamethizole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfathiazole antibacterial agent. [PubChem]
+4. Indication:  For the treatment of urinary tract infection
+DrugId:  10
+1. Name:  Sulfametopyrazine
+2. Groups:  Approved, Withdrawn
+3. Description:  Long-acting plasma-bound sulfonamide used for respiratory and urinary tract infections and also for malaria. [PubChem]
+4. Indication:  For the treatment of urinary tract infection and chronic bronchitis.
+DrugId:  11
+1. Name:  Sulfadiazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections. [PubChem]
+4. Indication:  For the treatment of rheumatic fever and meningococcal meningitis
+DrugId:  12
+1. Name:  Sulfapyridine
+2. Groups:  Approved
+3. Description:  Antibacterial, potentially toxic, and previously used to treat certain skin diseases. No longer prescribed. 
+4. Indication:  For the treatment of dermatitis herpetiformis, benign mucous membrane pemphigoid and pyoderma gangrenosum
+DrugId:  13
+1. Name:  Sulfanilamide
+2. Groups:  Approved
+3. Description:  Sulfanilamide is a molecule containing the sulfonamide functional group attached to an aniline. [Wikipedia]
+4. Indication:  For the treatment of vulvovaginitis caused by Candida albicans.
+DrugId:  14
+1. Name:  Cefoxitin
+2. Groups:  Approved
+3. Description:  Cefoxitin is a semi-synthetic, broad-spectrum cepha antibiotic for intravenous administration. It is derived from cephamycin C, which is produced by Streptomyces lactamdurans.
+4. Indication:  For the treatment of serious infections caused by susceptible strains microorganisms.
+DrugId:  15
+1. Name:  Sulfacetamide
+2. Groups:  Approved
+3. Description:  An anti-infective agent that is used topically to treat skin infections and orally for urinary tract infections. [PubChem]
+4. Indication:  For the treatment of bacterial vaginitis, keratitis, acute conjunctivitis, and blepharitis.
+DrugId:  16
+1. Name:  Bacitracin
+2. Groups:  Approved, Vet approved
+3. Description:  Bacitracin is a mixture of related cyclic polypeptides produced by organisms of the licheniformis group of Bacillus subtilis var Tracy. Its unique name derives from the fact that the bacillus producing it was first isolated in 1943 from a knee scrape from a girl named Margaret Tracy. As a toxic and difficult-to-use antibiotic, bacitracin doesn't work well orally. However, it is very effective topically.Bacitracin is synthesised via the so-called nonribosomal peptide synthetases (NRPSs), which means that ribosomes are not involved in its synthesis.
+4. Indication:  For the treatment of infants with pneumonia and empyema caused by staphylococci shown to be susceptible to the drug. Also used in ointment form for topical treatment of a variety of localized skin and eye infections, as well as for the prevention of wound infections. Used against gram positive bacteria. Bacitracin is also used as an inhibitor of proteases and other enzymes.However, specific activity of bactracin's inhibition of protein disulfide isomerase has been called into question. 

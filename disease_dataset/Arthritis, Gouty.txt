@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Probenecid
+2. Groups:  Approved, Investigational
+3. Description:  The prototypical uricosuric agent. It inhibits the renal excretion of organic anions and reduces tubular reabsorption of urate. Probenecid has also been used to treat patients with renal impairment, and, because it reduces the renal tubular excretion of other drugs, has been used as an adjunct to antibacterial therapy. [PubChem]
+4. Indication:  For the reduction of serum uric acid concentrations in chronic gouty arthritis and tophaceous gout in patients with frequent disabling gout attacks. Has also been effectively used to promote uric acid excretion in hyperuricemia secondary to the administration of thiazide and related diuretics. 
+DrugId:  2
+1. Name:  Sulfinpyrazone
+2. Groups:  Approved
+3. Description:  A uricosuric drug that is used to reduce the serum urate levels in gout therapy. It lacks anti-inflammatory, analgesic, and diuretic properties.
+4. Indication:  For the treatment of gout and gouty arthritis.
+DrugId:  3
+1. Name:  Phenylbutazone
+2. Groups:  Approved, Vet approved
+3. Description:  A drug that has anti-inflammatory, antipyretic, and analgesic activities. It is especially effective in the treatment of ankylosing spondylitis. It also is useful in rheumatoid arthritis and Reiter's syndrome (investigational indication). Although phenylbutazone is effective in gouty arthritis, risk/benefit considerations indicate that this drug should not be employed for this disease. (From AMA Drug Evaluations Annual, 1994, p1822)
+4. Indication:  For the treatment of backache and ankylosing spondylitis
+DrugId:  4
+1. Name:  Sulindac
+2. Groups:  Approved, Investigational
+3. Description:  Sulindac is a nonsteroidal anti-inflammatory agent (NSAIA) of the arylalkanoic acid class that is marketed in the U.S. by Merck as Clinoril. Like other NSAIAs, it may be used in the treatment of acute or chronic inflammatory conditions. Sulindac is a prodrug, derived from sulfinylindene, that is converted in vivo to an active sulfide compound by liver enzymes. The sulfide metabolite then undergoes enterohepatic circulation; it is excreted in the bile and then reabsorbed from the intestine. This is thought to help maintain constant blood levels with reduced gastrointestinal side effects. Some studies have shown sulindac to be relatively less irritating to the stomach than other NSAIA's except for drugs of the cyclooxygenase-2 (COX-2) inhibitor class. The exact mechanism of its NSAIA properties is unknown, but it is thought to act on enzymes COX-1 and COX-2, inhibiting prostaglandin synthesis.
+4. Indication:  For acute or long-term use in the relief of signs and symptoms of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute painful shoulder (acute subacromial bursitis/supraspinatus tendinitis), and acute gouty arthritis.
+DrugId:  5
+1. Name:  Prednisolone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states. [PubChem]
+4. Indication:  For the treatment of primary or secondary adrenocortical insufficiency, such as congenital adrenal hyperplasia, thyroiditis. Also used to treat psoriatic arthritis, rheumatoid arthritis, ankylosing spondylitis, bursitis, acute gouty arthritis and epicondylitis. Also indicated for treatment of systemic lupus erythematosus, pemphigus and acute rhematic carditis. Can be used in the treatment of leukemias, lymphomas, thrombocytopenia purpura and autoimmune hemolytic anemia. Can be used to treat celiac disease, insulin resistance, ulcerative colitis and liver disorders.
+DrugId:  6
+1. Name:  Indomethacin
+2. Groups:  Approved, Investigational
+3. Description:  Indomethacin is a non-steroidal antiinflammatory agent (NSAIA) with antiinflammatory, analgesic and antipyretic activity. Its pharmacological effect is thought to be mediated through inhibition of the enzyme cyclooxygenase (COX), the enzyme responsible for catalyzes the rate-limiting step in prostaglandin synthesis via the arachidonic acid pathway. 
+4. Indication:  For moderate to severe rheumatoid arthritis including acute flares of chronic disease, ankylosing spondylitis, osteoarthritis, acute painful shoulder (bursitis and/or tendinitis) and acute gouty arthritis.
+DrugId:  7
+1. Name:  Colchicine
+2. Groups:  Approved
+3. Description:  A major alkaloid from Colchicum autumnale L. and found also in other Colchicum species. Its primary therapeutic use is in the treatment of gout, but it has been used also in the therapy of familial Mediterranean fever (periodic disease). [PubChem]
+4. Indication:  For treatment and relief of pain in attacks of acute gouty arthritis.
+DrugId:  8
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  9
+1. Name:  TRU-015
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in lymphoma (unspecified) and rheumatoid arthritis.
+DrugId:  10
+1. Name:  Ozoralizumab
+2. Groups:  Investigational
+3. Description:  Ozoralizumab has been used in trials studying the treatment of Rheumatoid Arthritis and Active Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  12
+1. Name:  Fezakinumab
+2. Groups:  Investigational
+3. Description:  Fezakinumab has been used in trials studying the treatment of Atopic Dermatitis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Tregalizumab
+2. Groups:  Investigational
+3. Description:  Tregalizumab has been used in trials studying the treatment of Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Placulumab
+2. Groups:  Investigational
+3. Description:  Placulumab has been used in trials studying the treatment of Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Namilumab
+2. Groups:  Investigational
+3. Description:  Namilumab has been used in trials studying the treatment of Plaque Psoriasis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  17
+1. Name:  KB002
+2. Groups:  Investigational
+3. Description:  KB002 is an engineered human IgG1k antibody engineered human. It is developed for the treatment of autoimmune diseases, initially rheumatoid arthritis.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  18
+1. Name:  Baminercept
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  19
+1. Name:  Trolamine salicylate
+2. Groups:  Approved
+3. Description:  Trolamine salicylate is an organic compound or a salt formed between triethanolamine and salicylic acid. Triethanolamine neutralizes the acidity of the salicylic acid. It is a topical analgesic used for temporary relief of minor pain associated with arthritis, simple backache, muscle strains, sprains, and bruises. Unlike other topical analgesics, trolamine salicylate has no distinct odor which improves patient acceptability [2]. It also displays low systemic absorption upon dermal or topical administration [3] and has low skin irritant properties [4]. As with other salicylates, trolamine salicylate is an inhibitor of cyclo-oxygenase (COX) enzymes with no reported selectivity towards a specific enzyme isoform. Trolamine salicylate serves as an active ingredient in topical over-the-counter products for temporary management of mild to moderate muscular and joint pains.
+4. Indication:  Indicated for the temporary relief of aches, and pains of muscles and joints associated with backache, lumbago, strains, bruises, sprains and arthritic or rheumatic pain, pain of tendons and ligaments [6].
+DrugId:  20
+1. Name:  SC12267
+2. Groups:  Investigational
+3. Description:  SC12267 is a novel, small molecule agent from the class of DMARDs (disease modifying anti-rheumatic drug) for the therapy of autoimmune diseases such as rheumatoid arthritis or multiple sclerosis. Through highly selective inhibition of pyrimidine biosynthesis, it controls the growth of rapidly proliferating cells, especially of lymphocytes, which are important for the immune response.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and rheumatoid arthritis.
+DrugId:  21
+1. Name:  Clenoliximab
+2. Groups:  Investigational
+3. Description:  Clenoliximab is a monoclonal antibody against CD4. It acts as an immunomodulator and has been investigated for the treatment of rheumatoid arthritis. The drug is a chimeric antibody from Macaca irus and Homo sapiens.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  22
+1. Name:  KC706
+2. Groups:  Investigational
+3. Description:  KC706 is a novel anti-inflammatory drug that works by inhibiting the activity of p38 MAP kinase. KC706 holds potential to treat inflammatory conditions such as rheumatoid arthritis, psoriasis, inflammatory bowel disease and cardiovascular disease.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, inflammatory bowel disease, inflammatory disorders (unspecified), psoriasis and psoriatic disorders, and rheumatoid arthritis.
+DrugId:  23
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  24
+1. Name:  PMI-001
+2. Groups:  Investigational
+3. Description:  PMI-001 is a stand-alone, disease-modifying, anti-rheumatic drug (DMARD) being developed by Phytomedics Inc. It is an extract of the roots of an undisclosed perennial shrub which interferes with the production of IL-2 and COX-2 proteins, for the potential treatment of autoimmune diseases, such as rheumatoid arthritis, lupus erythematosus and psoriasis.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  25
+1. Name:  T487
+2. Groups:  Investigational
+3. Description:  T487 is a small molecule chemokine receptor antagonist to correct or modify immune system responses. It binds selectively and potently to CXCR3. The formulation is administered orally and has anti-inflammatory effects in conditions such as rheumatoid arthritis, inflammatory bowel disease and psoriasis.
+4. Indication:  Investigated for use/treatment in inflammatory disorderssuch as rheumatoid arthritis, inflammatory bowel disease and psoriasis.

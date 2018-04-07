@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Kidney bean
+2. Groups:  Approved
+3. Description:  Kidney bean allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Fludiazepam
+2. Groups:  Approved, Illicit
+3. Description:  Fludiazepam is a drug which is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. It is a scheduled drug in the U.S., but is approved for use in Japan.
+4. Indication:  Used for the short-term treatment of anxiety disorders.
+DrugId:  3
+1. Name:  AGRO100
+2. Groups:  Investigational
+3. Description:  AGRO100 is an oligonucleotide that functions as an aptamer and binds to nucleolin, a protein found intranuclear in all cells, but uniquely expressed on the surface of tumor cells. Such binding leads to internalization of the complex, and a strong anti-proliferative response in the tumor cell.Pre-clinical testing demonstrates that the AGRO100 inhibition of nucleolin function produces anti-cancer effects against multiple types of the disease, including lung, prostate, breast, cervical, and colon cancer, as well as malignant melanoma and leukemia.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), kidney cancer, leukemia (myeloid), and pancreatic cancer.
+DrugId:  4
+1. Name:  Pirfenidone
+2. Groups:  Approved, Investigational
+3. Description:  Pirfenidone is an orally active small molecule drug that may inhibit collagen synthesis, down regulate production of multiple cytokines and block fibroblast proliferation and stimulation in response to cytokines. Pirfenidone has demonstrated activity in multiple fibrotic conditions, including those of the lung, kidney and liver. It is being investigated by InterMune.
+4. Indication:  For the treatment of idiopathic pulmonary fibrosis (IPF).
+DrugId:  5
+1. Name:  Sodium ferric gluconate complex
+2. Groups:  Approved
+3. Description:  Sodium ferric gluconate complex is an iron replacement product for treatment of iron deficiency anemia. The stable macromolecular complex is negatively charged at alkaline pH with an apparent molecular weight of 289,000 – 440,000 daltons on gel chromatography. It is composed of iron (III) oxide hydrate directly bonded to sucrose with a chelating gluconate function in a molar ratio of two iron molecules to one gluconate. It is used in adult and in pediatric patients over the age of 6 years with chronic kidney disease (CKD) receiving hemodialysis and receiving supplemental epoetin therapy.
+4. Indication:  Used to replete the total body content of iron during iron deficiency anemia in patients age 6 years and older with chronic kidney disease receiving hemodialysis and receiving supplemental epoetin therapy.
+DrugId:  6
+1. Name:  Tasonermin
+2. Groups:  Approved
+3. Description:  Tasonermin is recombinant soluble form tumor necrosis factor α produced via Escherichia coli cell culture. It was approved for use by the European Medicines Agency in April of 1999 for use as an adjunt to surgery for the subsequent removal of the tumor and in palliative care for irresectable soft tissue sarcoma of the limbs as the product Beromun. It is administered with Melphalan via mild hyperthermic isolated limb perfusion.
+4. Indication:  For use in adults as an adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in palliative care, for irresectable soft tissue sarcoma of the limbs [FDA Label]. Used in combination with melphalan via mild hyperthermic isolated limb perfusion.
+DrugId:  7
+1. Name:  Aldosterone
+2. Groups:  Experimental, Investigational
+3. Description:  A hormone secreted by the adrenal cortex that regulates electrolyte and water balance by increasing the renal retention of sodium and the excretion of potassium. [PubChem]
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Infliximab
+2. Groups:  Approved
+3. Description:  Infliximab is a tumor necrosis factor (TNF-alpha or TNF-α) blocker and a chimeric monoclonal IgG1 antibody composed of human constant (75%) and murine variable (25%) regions [3]. Infliximab is produced by a recombinant cell line cultured by continuous perfusion. Tumor necrosis factor-alpha (TNF-α) is a key proinflammatory cytokine involved in chronic inflammatory diseases [3]. Its hyperactivity and enhanced signalling pathways can be observed in inflammatory diseases where it activates further pro-inflammatory cascades. By binding to both the soluble subunit and the membrane-bound precursor of TNF-α [1], infliximab disrupts the interaction of TNF-α with its receptors and may also cause lysis of cells that produce TNF-α [1].Infliximab was first approved by the FDA in 1998 under the market name Remicade as an intravenous injection. It is indicated for the treatment of various inflammatory disorders such as adult or pediatric Chron's disease, adult or pediatric ulcerative colitis, rheumatoid arthritis in combination with methotrexate, ankylosing spondyliti, psoriatic arthritis, and plaque psoriasis [FDA Label]. In clinical trials, multiple infusions of infliximab displayed in a reduction of signs and symptoms of inflammatory diseases and induction of remission in patients who have had an inadequate response to alternative first-line therapies for that disorder [FDA Label]. There are currently two biosilimars of infliximab available in the US market that demonstrate a high degree of similarity to the reference product, Remicade. They are approved for all eligible indications of the reference product. Inflectra, a first biosimilar drug product, was approved in 2016. In December 2017, Ixifi, a second biosimilar that was developed by Pfizer, was granted approval by the FDA.
+4. Indication:  Indicated for reducing signs and symptoms and inducing and maintaining clinical remission in adult or pediatric (≥ 6 years of age) patients with moderately to severely active Crohn’s disease who have had an inadequate response to conventional therapyIndicated for reducing the number of draining enterocutaneous and rectovaginal fistulas and maintaining fistula closure in adult patients with fistulizing Crohn’s disease. Indicated for reducing signs and symptoms, inducing and maintaining clinical remission and mucosal healing, and eliminating corticosteroid use in adult or pediatric (≥ 6 years of age) patients with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy. Indicated for, in combination with methotrexate, reducing signs and symptoms, inhibiting the progression of structural damage, and improving physical function in patients with moderately to severely active rheumatoid arthritis. Indicated for reducing signs and symptoms in patients with active ankylosing spondylitis. Indicated for reducing signs and symptoms of active arthritis, inhibiting the progression of structural damage, and improving physical function in patients with psoriatic arthritis. Indicated for the treatment of adult patients with chronic severe (i.e., extensive and/or disabling) plaque psoriasis who are candidates for systemic therapy and when other systemic therapies are medically less appropriate.
+DrugId:  9
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  10
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  11
+1. Name:  lymphotoxin beta receptor
+2. Groups:  Investigational
+3. Description:  Lymphotoxin beta receptor is a receptor for lymphotoxin.The protein encoded by this gene is a member of the tumor necrosis factor (TNF) family of receptors. It is expressed on the surface of most cell types, including cells of epithelial and myeloid lineages, but not on T and B lymphocytes.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  12
+1. Name:  Onercept
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and crohn's disease.
+DrugId:  13
+1. Name:  Fludrocortisone
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic mineralocorticoid with anti-inflammatory activity. [PubChem]
+4. Indication:  For partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenogenital syndrome.
+DrugId:  14
+1. Name:  Dulanermin
+2. Groups:  Investigational
+3. Description:  Dulanermin has been used in trials studying the treatment of Colorectal Cancer, Non-Hodgkin's Lymphoma, and Metastatic Colorectal Cancer.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Dotatate gallium Ga-68
+2. Groups:  Approved, Investigational
+3. Description:  Dotatate gallium (Ga-68) is a somatostatin-2 receptor analog which is radiolabeled with gallium 68 as a positron-emitting radioisotope. Ga-68 dotatate has a high affinity for somatostatin-2 receptor and it is rapidly excreted from the nontarget sites which gives it an ideal candidate for imaging neuroendocrine tumors. Dotatate gallium (Ga-68) explotes its ability to detect somatostatin receptor scintigraphy and this characteristic tends to change with tumor grade which gives Ga-68 dotate a high diagnostic value.[1] Dotatate gallium 68 was developed by Advanced Accelerator Applications USA, Inc. and FDA approved in June 1, 2016.
+4. Indication:  Dotatate gallium 68 is one of the most prominent radiopharmaceuticals used in imaging with positron emission tomography. It binds to the somatostatin-2 receptor which is usually overexpressed in many neuroendocrine tumors in both adult and pediatric patients.[2] The neuroendocrine tumors are bening or malignant tumors produced in the hormone producing cells of the neuroendocrine system.[7] 
+DrugId:  16
+1. Name:  Uric Acid
+2. Groups:  Experimental, Investigational
+3. Description:  Uric acid is the last product of purine metabolism in humans. The formation of uric acid is through the enzyme xanthine oxidase, which oxidizes oxypurines. Normally a small amount of uric acid is present in the body, but when there is an excess amount in the blood, called hyperuricemia, this can lead to gout and formation of kidney stones. As a therapeutic agent, it is known that uric acid is increased in response to oxidative stress, and as such, uric acid acts as an antioxidant. At present (August 2013), there is no approved formulation or indication for uric acid. In one country, Spain, uric acid is an investigational drug in a phase 3 trial studying its effects as an adjunct to alteplase in acute ischemic stroke.
+4. Indication:  At present (August 2013), there is no approved indication for uric acid. The potential therapeutic use for uric acid is as an adjunct in acute ischemic stroke.
+DrugId:  17
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  18
+1. Name:  Moexipril
+2. Groups:  Approved
+3. Description:  Moexipril is a non-sulfhydryl containing precursor of the active angiotensin-converting enzyme (ACE) inhibitor moexiprilat. It is used to treat high blood pressure (hypertension). It works by relaxing blood vessels, causing them to widen. Lowering high blood pressure helps prevent strokes, heart attacks and kidney problems.
+4. Indication:  For the treatment of hypertension.
+DrugId:  19
+1. Name:  Clonidine
+2. Groups:  Approved
+3. Description:  Clonidine, an imidazoline-derivative hypotensive agent is a centrally-acting α2-adrenergic agonist. It crosses the blood-brain barrier and acts in the hypothalamus to induce a decrease in blood pressure. It may also be administered as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone. Clonidine may be used for differential diagnosis of pheochromocytoma in hypertensive patients. Other uses for clonidine include prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD). Clonidine also exhibits some peripheral activity. 
+4. Indication:  May be used as an adjunct in the treatment of hypertension, as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone, for differential diagnosis of pheochromocytoma in hypertensive patients, prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD).
+DrugId:  20
+1. Name:  Denibulin
+2. Groups:  Investigational
+3. Description:  Denibulin is a novel small molecule Vascular Disrupting Agent under development by MediciNova for treatment of solid tumor cancers.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  21
+1. Name:  Polaprezinc
+2. Groups:  Approved, Investigational
+3. Description:  Polaprezinc is a chelated form of zinc and L-carnosine. It is a zinc-related medicine approved for the first time in Japan, which has been clinically used to treat gastric ulcers [5]. It was determined that polaprezinc may be effective in pressure ulcer treatment [3]. A study in 2013 showed that CO-administration of polaprezinc may be effective against small intestine mucosal injury associated with long-term aspirin therapy [1].
+4. Indication:  Peptic ulcer disease, dyspepsia [6].
+DrugId:  22
+1. Name:  Edetic Acid
+2. Groups:  Approved, Vet approved
+3. Description:  A chelating agent (chelating agents) that sequesters a variety of polyvalent cations. It is used in pharmaceutical manufacturing and as a food additive. [PubChem]
+4. Indication:  For the reduction of blood levels and depot stores of lead in lead poisoning (acute and chronic) and lead encephalopathy, in both pediatric populations and adults.
+DrugId:  23
+1. Name:  Lexatumumab
+2. Groups:  Investigational
+3. Description:  Lexatumumab is a fully humanized, high-affinity immunoglobulin G(1 lambda) monoclonal antibody (mAb).
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  24
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  25
+1. Name:  Dexamethasone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anti-inflammatory 9-fluoro-glucocorticoid. [PubChem]
+4. Indication:  Injection: for the treatment of endocrine disorders, rheumatic D=disorders, collagen diseases, dermatologic diseases, allergic statesc, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, cerebral edema.Ophthalmic ointment and solution: for the treatment of steroid responsive inflammatory conditions of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe.Ophthalmic solution only: for the treatment of steroid responsive inflammatory conditions of the external auditory meatusTopic cream: for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatosesOral aerosol: for the treatment of bronchial asthma and related corticosteroid responsive bronchospastic states intractable to adequate trial of conventional therapyIntranasal aerosol: for the treatment of allergic ot inflammatory nasal conditions, and nasal polyps

@@ -1,0 +1,30 @@
+DrugId:  1
+1. Name:  Lyme disease vaccine (recombinant OspA)
+2. Groups:  Approved, Withdrawn
+3. Description:  Vaccine against Lyme disease that contains lipoprotein OspA, an outer surface protein of Borrelia burgdorferi sensu stricto ZS7, as expressed by Escherichia coli. Lipoprotein OspA is a single polypeptide chain of 257 amino acids with lipids covalently bonded to the N terminus. It is conjugated with alum (aluminum hydroxide) as an adjuvant.
+4. Indication:  For prophylactic treatment of Lyme Disease
+DrugId:  2
+1. Name:  Clomocycline
+2. Groups:  Approved
+3. Description:  Clomocycline is a tetracycline antibiotic.
+4. Indication:  For the treatment and management of Brucellosis, mycoplasma infection, acne vulgaris, chlamydial infection;Chronic bronchitis
+DrugId:  3
+1. Name:  Lymecycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline with a 7-chloro substitution.
+4. Indication:  For the treatment of infections and to treat acne. It may also be used to treat urinary tract infections, gum disease, and other bacterial infections such as gonorrhea and chlamydia. Lymecycline is also used commonly as a prophylactic treatment for infection by Bacillus anthracis (anthrax). It is also effective against Yersinia pestis and malaria and is also prescribed for the treatment of Lyme disease.
+DrugId:  4
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  5
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  6
+1. Name:  Tetracycline
+2. Groups:  Approved, Vet approved
+3. Description:  Tetracycline is a broad spectrum polyketide antibiotic produced by the Streptomyces genus of Actinobacteria. It exerts a bacteriostatic effect on bacteria by binding reversible to the bacterial 30S ribosomal subunit and blocking incoming aminoacyl tRNA from binding to the ribosome acceptor site. It also binds to some extent to the bacterial 50S ribosomal subunit and may alter the cytoplasmic membrane causing intracellular components to leak from bacterial cells.
+4. Indication:  Used to treat bacterial infections such as Rocky Mountain spotted fever, typhus fever, tick fevers, Q fever, rickettsialpox and Brill-Zinsser disease. May be used to treat infections caused by Chlamydiae spp., B. burgdorferi (Lyme disease), and upper respiratory infections caused by typical (S. pneumoniae, H. influenzae, and M. catarrhalis) and atypical organisms (C. pneumoniae, M. pneumoniae, L. pneumophila). May also be used to treat acne. Tetracycline may be an alternative drug for people who are allergic to penicillin.

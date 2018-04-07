@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Surotomycin
+2. Groups:  Investigational
+3. Description:  Surotomycin has been used in trials studying the treatment of Diarrhea and Clostridium Difficile Infection.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Lincomycin
+2. Groups:  Approved, Vet approved
+3. Description:  An antibiotic produced by Streptomyces lincolnensis var. lincolnensis. It has been used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+4. Indication:  Lincomycin is an antibiotic used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+DrugId:  3
+1. Name:  Teicoplanin
+2. Groups:  Approved, Investigational
+3. Description:  Teicoplanin is a glycopeptide antibiotic. It is a mixture of several compounds, five major (named teicoplanin A2-1 through A2-5) and four minor (named teicoplanin RS-1 through RS-4). All teicoplanins share a same glycopeptide core, termed teicoplanin A3-1, a fused ring structure to which two carbohydrates (mannose and N-acetylglucosamine) are attached. The major and minor components also contain a third carbohydrate moiety, β-D-glucosamine, and differ only by the length and conformation of a side chain attached to it.
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms.
+DrugId:  4
+1. Name:  Clostridium tetani toxoid antigen (formaldehyde inactivated)
+2. Groups:  Approved
+3. Description:  Clostridium tetani toxoid antigen (formaldehyde inactivated) is a vaccine for intramuscular injection. It is used for active immunization of children 7 years of age or older, and adults, for prevention of tetanus. The toxoid in the Clostridium tetani culture is grown and detoxified followed by purification via ammonium sulfate filtration and precipation.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Ertapenem
+2. Groups:  Approved, Investigational
+3. Description:  Ertapenem is a carbapenem antibiotic marketed by Merck as Invanz®. It is structurally very similar to meropenem in that it possess a 1-beta-methyl group. [Wikipedia]
+4. Indication:  For the treatment the following moderate to severe infections caused by susceptible isolates of the designated microorganisms: (1) complicated intra-abdominal infections due to Escherichia coli, Clostridium clostridioforme, Eubacterium lentum, Peptostreptococcus species, Bacteroides fragilis, Bacteroides distasonis, Bacteroides ovatus, Bacteroides thetaiotaomicron, or Bacteroides uniformis, (2) complicated skin and skin structure infections, including diabetic foot infections without osteomyelitis due to Staphylococcus aureus (methicillin susceptible isolates only), Streptococcus agalactiae, Streptococcus pyogenes, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Bacteroides fragilis, Peptostreptococcus species, Porphyromonas asaccharolytica, or Prevotella bivia, (3) community acquired pneumonia due to Streptococcus pneumoniae (penicillin susceptible isolates only) including cases with concurrent bacteremia, Haemophilus influenzae (beta-lactamase negative isolates only), or Moraxella catarrhalis, (4) complicated urinary tract infections including pyelonephritis due to Escherichia coli, including cases with concurrent bacteremia, or Klebsiella pneumoniae, (5) acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
+DrugId:  6
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  7
+1. Name:  Tetanus Immune Globulin
+2. Groups:  Approved
+3. Description:  Tetanus Immune Globulin is manufactured from human plasma [FDA Label]. It contains antibodies against tetanus toxoid and is primarily used as prophylaxis against tetanus in wounded patients.
+4. Indication:  For use as prophylaxis against tetanus in patients who are injured and have incomplete of uncertain immunization statu [FDA Label]. May also be used in the treatment of active tetanus.
+DrugId:  8
+1. Name:  Clindamycin
+2. Groups:  Approved, Vet approved
+3. Description:  Clindamycin is a semisynthetic lincosamide antibiotic that has largely replaced lincomycin due to an improved side effect profile. Clindamycin inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits. It may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For the treatment of serious infections caused by susceptible anaerobic bacteria, including Bacteroides spp., Peptostreptococcus, anaerobic streptococci, Clostridium spp., and microaerophilic streptococci. May be useful in polymicrobic infections such as intra-abdominal or pelvic infections, osteomyelitis, diabetic foot ulcers, aspiration pneumonia and dental infections. May also be used to treat MSSA and respiratory infections caused by S. pneumoniae and S. pyogenes in patients who are intolerant to other indicated antibiotics or who are infected with resistant organism. May be used vaginally to treat vaginosis caused by Gardnerella vaginosa. Clindamycin reduces the toxin producing effects of S. aureus and S. pyogenes and as such, may be particularly useful for treating necrotizing fasciitis. May be used topically to treat acne.
+DrugId:  9
+1. Name:  Collagenase clostridium histolyticum
+2. Groups:  Approved, Investigational
+3. Description:  Collagenase clostridium histolyticum is an enzyme produced by the bacterium Clostridium histolyticum that dismantles collagen. It is used as a powder-and-solvent injection kit for the treatment of Dupuytren's contracture, a condition where the fingers bend towards the palm and cannot be fully straightened, and Peyronie's disease, a connective tissue disorder involving the growth of fibrous plaques in the soft tissue of the penis. BioSpecifics Technologies developed the preparation, which is manufactured and marketed by Auxilium Pharmaceuticals as Xiaflex in the US and by Sobi as Xiapex in Europe.
+4. Indication:  Used to promote debridement of necrotic tissue in the treatment of severe burns and dermal ulcers including decubitus ulcers.
+DrugId:  10
+1. Name:  Rifalazil
+2. Groups:  Investigational
+3. Description:  Rifalazil is a derivative of the antibiotic rifamycin. It is being investigated by ActivBiotics for the treatment of various bacterial infections.
+4. Indication:  Investigated for use/treatment in atherosclerosis, bacterial infection, and peripheral vascular disease.
+DrugId:  11
+1. Name:  Bezlotoxumab
+2. Groups:  Approved, Investigational
+3. Description:  Bezlotoxumab is a human monoclonal antibody that binds to Clostridium difficile toxin B and neutralizes its effects. Used to reduce the recurrence of Clostridium difficle infection in adults receiving antibiotic therapy to treat C. difficile infection and high risk of recurrence.
+4. Indication:  Prevents recurrence of Clostridium difficile infection in people 18 years or older who are either currently receiving treatment for C. difficile infection or have a high risk of recurrence. 
+DrugId:  12
+1. Name:  Delafloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Delafloxacin is a fluoroquinolone antibiotic which has been used in trials studying the treatment and basic science of Gonorrhea, Hepatic Impairment, Bacterial Skin Diseases, Skin Structure Infections, and Community Acquired Pneumonia, among others. It was approved in June 2017 under the trade name Baxdela for use in the treatment of acute bacterial skin and skin structure infections.
+4. Indication:  Delafloxacin is indicated for the treatment of acute bacterial skin and skin structure infections caused by the Gram-positive organisms Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates), Staphylococcus haemolyticus, Staphylococcus lugdunensis, Streptococcus agalactiae, Streptococcus anginosus Group (including Streptococcus anginosus, Streptococcus intermedius, and Streptococcus constellatus), Streptococcus pyogenes, and Enterococcus faecalis as well as the Gram-negative organisms Escherichia coli, Enterobacter cloacae, Klebsiella pneumoniae, and Pseudomonas aeruginosa [FDA Label].
+DrugId:  13
+1. Name:  Tigecycline
+2. Groups:  Approved
+3. Description:  Tigecycline is a glycylcycline antibiotic developed and marketed by Wyeth under the brand name Tygacil. It was given a U.S. Food and Drug Administration (FDA) fast-track approval and was approved on June 17, 2005. It was developed in response to the growing prevalence of antibiotic resistance in bacteria such as Staphylococcus aureus.
+4. Indication:  For the treatment of infections caused by susceptible strains of the designated microorganisms in the following conditions: Complicated skin and skin structure infections caused by Escherichia coli, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible and -resistant isolates), Streptococcus agalactiae, Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Streptococcus pyogenes and Bacteroides fragilis. Complicated intra-abdominal infections caused by Citrobacter freundii, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides vulgatus, Clostridium perfringens, and Peptostreptococcus micros.
+DrugId:  14
+1. Name:  Bordetella pertussis pertactin antigen
+2. Groups:  Approved
+3. Description:  Bordetella pertussis pertactin antigen is a vaccine for the prophylaxis of whooping cough that contains pertactin, a membrane-associated antigen of Bordetella pertussis [1].
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Bordetella pertussis filamentous hemagglutinin antigen (formaldehyde inactivated)
+2. Groups:  Approved
+3. Description:  Bordetella pertussis filamentous hemagglutinin antigen (formaldehyde inactivated) is a vaccine that contains inactivated acellular pertussis antigen that is isolated from Bordetella pertussis culture.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  17
+1. Name:  Bordetella pertussis fimbriae 2/3 antigen
+2. Groups:  Approved
+3. Description:  Bordetella pertussis fimbriae 2/3 antigen is a vaccine for the prophylaxis of the disease caused by Bordetella pertussis which is a a Gram-negative coccobacillus that expresses two serologically distinct fimbriae (Fim2 and Fim3).
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  19
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  20
+1. Name:  Cadazolid
+2. Groups:  Investigational
+3. Description:  Cadazolid has been used in trials studying the treatment of Clostridium Difficile Infection.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  CRS-3123
+2. Groups:  Investigational
+3. Description:  CRS3123 has been used in trials studying the treatment of Clostridial Infection and Clostridium Difficile Colitis.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  25
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.

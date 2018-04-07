@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lidocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic and cardiac depressant used as an antiarrhythmia agent. Its actions are more intense and its effects more prolonged than those of procaine but its duration of action is shorter than that of bupivacaine or prilocaine. [PubChem]
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  2
+1. Name:  Cinchocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic of the amide type now generally used for surface anesthesia. It is one of the most potent and toxic of the long-acting local anesthetics and its parenteral use is restricted to spinal anesthesia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1006)
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  3
+1. Name:  Bupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  A widely used local anesthetic agent. [PubChem]
+4. Indication:  For the production of local or regional anesthesia or analgesia for surgery, for oral surgery procedures, for diagnostic and therapeutic procedures, and for obstetrical procedures.
+DrugId:  4
+1. Name:  Clonidine
+2. Groups:  Approved
+3. Description:  Clonidine, an imidazoline-derivative hypotensive agent is a centrally-acting α2-adrenergic agonist. It crosses the blood-brain barrier and acts in the hypothalamus to induce a decrease in blood pressure. It may also be administered as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone. Clonidine may be used for differential diagnosis of pheochromocytoma in hypertensive patients. Other uses for clonidine include prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD). Clonidine also exhibits some peripheral activity. 
+4. Indication:  May be used as an adjunct in the treatment of hypertension, as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone, for differential diagnosis of pheochromocytoma in hypertensive patients, prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD).
+DrugId:  5
+1. Name:  Povidone-iodine
+2. Groups:  Approved
+3. Description:  Povidone-iodine is a stable chemical complex of polyvinylpyrrolidone (povidone, PVP) and elemental iodine. It contains from 9.0% to 12.0% available iodine, calculated on a dry basis. This unique complex was discovered in 1955 at the Industrial Toxicology Laboratories in Philadelphia by H. A. Shelanski and M. V. Shelanski. They carried out tests in vitro to demonstrate anti-bacterial activity, and found that the complex was less toxic in mice than tincture of iodine. Human clinical trials showed the product to be superior to other iodine formulations. Povidone-iodine was immediately marketed, and has since become the universally preferred iodine antiseptic.
+4. Indication:  For topical application in the treatment and prevention of infection in wounds.
+DrugId:  6
+1. Name:  Morphine
+2. Groups:  Approved, Investigational
+3. Description:  The principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle. In January, 2017, morphine was approved for the treatment of chronic pain.
+4. Indication:  For the relief and treatment of severe pain.
+DrugId:  7
+1. Name:  Pethidine
+2. Groups:  Approved
+3. Description:  A narcotic analgesic that can be used for the relief of most types of moderate to severe pain, including postoperative pain and the pain of labor. Prolonged use may lead to dependence of the morphine type; withdrawal symptoms appear more rapidly than with morphine and are of shorter duration.
+4. Indication:  Used to control moderate to severe pain.
+DrugId:  8
+1. Name:  Iophendylate
+2. Groups:  Approved
+3. Description:  Iophendylate is a mixture of isomers used as contrast medium, mainly for brain and spinal cord visualization. Iophendylate is a myelographic oil-ester (U.S. Patent 2,348,231). Iophendylate, which was never shown to be safe, was initially introduced for use in small amounts (1-2cc) for locating spinal tumors. It next appeared on the world scene for high volume (12-15cc), routine use, in diagnosing disc herniations. A number of clinicians have published on the dangers of oil myelography. In 1942 Van Wagenen (a neurosurgical colleague of Warrens, at the University of Rochester) identified Iophendylate as causing chemical meningitis in 30 patients where "space-displacing masses within the spinal canal were suspected".
+4. Indication:  Iophendylate is used as a contrast agent to locate spinal tumors.
+DrugId:  9
+1. Name:  Tolperisone
+2. Groups:  Approved, Investigational
+3. Description:  Tolperisone is an oral, centrally acting muscle relaxant. Its precise mechanism is not completely understood, though it blocks sodium and calcium channels. It possesses a high affinity for nervous system tissue, reaching highest concentrations in brain stem, spinal cord and peripheral nerves. Based on existing clinical data, Tolperisone is not sedating and does not interact with alcohol.
+4. Indication:  Investigated for use/treatment in neurologic disorders, spinal cord injuries, muscle spasm, back pain, and multiple sclerosis.
+DrugId:  10
+1. Name:  Polidocanol
+2. Groups:  Approved
+3. Description:  Polidocanol is a sclerosing agent indicated to treat uncomplicated spider veins (varicose veins ≤1 mm in diameter) and uncomplicated reticular veins (varicose veins 1 to 3 mm in diameter) in the lower extremity. It is marketed under the brand names Asclera and Varithena. The formula for Polidocanol has the structural formula C12H25(OCH2CH2)nOH, a mean extent of polymerization (n) of approximately 9 and a mean molecular weight of approximately 600.
+4. Indication:  Polidocanol is a sclerosing agent indicated to treat uncomplicated spider veins and uncomplicated reticular veins in the lower extremity. 
+DrugId:  11
+1. Name:  Tetracaine
+2. Groups:  Approved, Vet approved
+3. Description:  Tetracaine is an ester local anaesthetic currently available in combination with lidocaine as a cream and patch.
+4. Indication:  The combination lidocaine and tetracaine patch is indicated for local dermal analgesia for superficial dermatological procedures and superficial venous access. The combination lidocaine and tetracaine cream is intended to provide topical local analgesia for superficial dermatological procedures.
+DrugId:  12
+1. Name:  Nusinersen
+2. Groups:  Approved, Investigational
+3. Description:  An antisense oligonucleotide that induces survival motor neuron (SMN) protein expression, it was approved by the U.S. FDA in December, 2016 as Spinraza for the treatment of children and adults with spinal muscular atrophy (SMA). It is adminstrated as direct intrathecal injection.
+4. Indication:  Indicated for the treatment of spinal muscular atrophy (SMA) in pediatric and adult patients. 
+DrugId:  13
+1. Name:  Tizanidine
+2. Groups:  Approved, Investigational
+3. Description:  Tizanidine is a short-acting drug for the management of spasticity. Tizanidine is an agonist at a2-adrenergic receptor sites and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. In animal models, tizanidine has no direct effect on skeletal muscle fibers or the neuromuscular junction, and no major effect on monosynaptic spinal reflexes. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons.
+4. Indication:  For the management of increased muscle tone associated with spasticity
+DrugId:  14
+1. Name:  XEN2174
+2. Groups:  Investigational
+3. Description:  Xen2174 is a synthetic drug modeled on a peptide from the venom of a cone shell found on Australia's Great Barrier Reef. Xen2174 represents a new class of molecules, called the chi conopeptides that selectively inhibit the Norepinephrine Transporter (NET). NET is the primary mechanism regulating the biological effects of norepinephrine (NE) on the body. In episodes of pain, inhibition of NET by Xen2174 elevates the levels of NE leading to the activation of inhibitory pathways preventing pain signals from reaching the brain. 
+4. Indication:  For the treatment of chronic cancer pain.
+DrugId:  15
+1. Name:  Levobupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  Levobupivacaine is an amino-amide local anaesthetic drug belonging to the family of n-alkylsubstitutedpipecoloxylidide. It is the S-enantiomer of bupivacaine. Levobupivacaine hydrochloride is commonly marketed by AstraZeneca under the trade name Chirocaine. Compared to bupivacaine, levobupivacaine is associated with less vasodilation and has a longer duration of action. It is approximately 13 per cent less potent (by molarity) than racemic bupivacaine.Levobupivacaine is indicated for local anaesthesia including infiltration, nerve block, ophthalmic, epidural and intrathecal anaesthesia in adults; and infiltration analgesia in children. Adverse drug reactions (ADRs) are rare when it is administered correctly. Most ADRs relate to administration technique (resulting in systemic exposure) or pharmacological effects of anesthesia, however allergic reactions can rarely occur. [Wikipedia]
+4. Indication:  For the production of local or regional anesthesia for surgery and obstetrics, and for post-operative pain management
+DrugId:  16
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  17
+1. Name:  Tinzaparin
+2. Groups:  Approved
+3. Description:  Tinzaparin is a low molecular weight heparin (LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III (ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Tinzaparin is used for the prevention of postoperative venous thromboembolism in patients undergoing orthopedic surgery and in patients undergoing general surgery who are at high risk of developing postoperative venous thromboembolism. It is also used for the treatment of deep vein thrombosis and/or pulmonary embolism. It is indicated for use in preventing clot formation in indwelling intravenous lines for hemodialysis.
+DrugId:  18
+1. Name:  Limaprost
+2. Groups:  Approved, Investigational
+3. Description:  Limaprost (as Limaprost alfadex; CAS number 88852-12-4) is an oral prostaglandin E1 analog. Prostaglandins act on a variety of cells such as vascular smooth muscle cells causing constriction or dilation, on platelets causing aggregation or disaggregation and on spinal neurons causing pain. Prostaglandins have a wide variety of actions, including, but not limited to muscular constriction and mediation of inflammation. Limaprost alfadex has been shown to improve peripheral circulatory failure with a vasodilator action and an antithrombotic effect. It also improves poor blood flow in the nerve tissue in cervical spondylosis and normalizes nerve function. Limaprost alfadex was discovered from collaborative research between Ono Pharmaceutical (Ono) and Dainippon Sumitomo Pharma (DSP). It was approved for the treatment of ischemic symptoms such as skin ulcer, pain and coldness accompanying thromboangiitis obliterans in 1988; and for the treatment of subjective symptoms such as pain and numbness in the lower leg and walking disability associated with acquired lumbar spinal canal stenosis as an additional indication in 2001. The drug has been sold under the trade name of Opalmon® Tablets by Ono and Prorenal® Tablets by DSP. In 2011, Ono and DSP initiated Phase II clinical trials in Japan for the treatment of carpal tunnel syndrome. In 2013, these trials were discontinued because the study failed to demonstrate efficacy. Ono and DSP also discontinued the development of limaprost alfadex for the additional indication of cervical spondylosis in 2008 due to the failure to demonstrate the anticipated efficacy in a Phase II study in patients with the disease. However, it was verified by Seoul National University Hospital in November of 2014 that the study on the efficacy of oral limaprost alfadex after surgery for cervical myelopathy was still ongoing.
+4. Indication:  Limaprost is used for the improvement of various ischemic symptoms such as ulcer, pain and feeling of coldness associated with thromboangiitis obliterans as well as improvement of subjective symptoms (pain and numbness of lower legs) and gait ability associated with acquired lumbar spinal canal stenosis (in patients with bilateral intermittent claudication showing normal SLR test result).
+DrugId:  19
+1. Name:  Metrizamide
+2. Groups:  Approved
+3. Description:  Metrizamide is a solute for density gradient centrifugation offering higher maximum solution density without the problems of increased viscosity. It is also used as a resorbable, non-ionic contrast medium.
+4. Indication:  Metrizamide is used for lumbar, thoracic, cervical, and total columnar myelography to determine the presence of abnormalities in the spinal column, spinal canal, and central nervous system (CNS) as well as for cisternography by direct injection using standard radiologic techniques to visualize the basal cistern of the brain. For computerized tomography (CT) of the intracranial subarachnoid spaces and for ventriculography by direct injection using standard radiologic techniques to visualize the cerebral ventricles. Also used in pediatric angiocardiography to visualize lesions or malformations of the heart and obstructions or anomalies of the major thoracic vessels. Also used in adult peripheral arteriography to visualize specific regions of the vascular system and blood flow in such areas to help in the diagnosis and evaluation of neoplasms (known or suspected) or vascular diseases (congenital or acquired) that may cause changes in normal vascular anatomy or physiology. Metrizamide is also indicated in adults for intravenous digital arteriography of head and neck.
+DrugId:  20
+1. Name:  Chlorzoxazone
+2. Groups:  Approved
+3. Description:  A centrally acting central muscle relaxant with sedative properties. It is claimed to inhibit muscle spasm by exerting an effect primarily at the level of the spinal cord and subcortical areas of the brain. (From Martindale, The Extra Pharmacopoea, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute painful musculoskeletal conditions.
+DrugId:  21
+1. Name:  Dapoxetine
+2. Groups:  Investigational
+3. Description:  Dapoxetine is a selective serotonin reuptake inhibitor, for the treatment of premature ejaculation. In a phase II proof-of-concept study conducted by PPD, dapoxetine demonstrated a statistically significant increase in ejaculatory latency when compared to placebo. Alza submitted a NDA to the FDA for dapoxetine for the treatment of premature ejaculation in December 2004. In October 2005, the company received a FDA Non-Approvable letter from the FDA, at which time they planned to work with regulators to address outstanding questions.
+4. Indication:  For the treatment of premature ejaculation.
+DrugId:  22
+1. Name:  Dezocine
+2. Groups:  Approved, Investigational
+3. Description:  Dezocine is a partial opiate drug and is used for pain management. Dezocine is a very effective alternative to fentanyl when administered during outpatient laparoscopy, although is associated with an increased incidence of postoperative nausea. 
+4. Indication:  Indicated in the treatment of moderate to severe pain.
+DrugId:  23
+1. Name:  Mephentermine
+2. Groups:  Approved
+3. Description:  A sympathomimetic agent with mainly indirect effects on adrenergic receptors. It is used to maintain blood pressure in hypotensive states, for example, following spinal anesthesia. Although the central stimulant effects of mephentermine are much less than those of amphetamine, its use may lead to amphetamine-type dependence. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1248)
+4. Indication:  Used to maintain blood pressure in hypotensive states.
+DrugId:  24
+1. Name:  Mepivacaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic that is chemically related to bupivacaine but pharmacologically related to lidocaine. It is indicated for infiltration, nerve block, and epidural anesthesia. Mepivacaine is effective topically only in large doses and therefore should not be used by this route. (From AMA Drug Evaluations, 1994, p168)
+4. Indication:  For production of local or regional analgesia and anesthesia by local infiltration, peripheral nerve block techniques, and central neural techniques including epidural and caudal blocks.
+DrugId:  25
+1. Name:  Chloroprocaine
+2. Groups:  Approved
+3. Description:  Chloroprocaine hydrochloride is a local anesthetic given by injection during surgical procedures and labor and delivery. Chloroprocaine, like other local anesthetics, blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse and by reducing the rate of rise of the action potential.
+4. Indication:  For the production of local anesthesia by infiltration and peripheral nerve block. They are not to be used for lumbar or caudal epidural anesthesia.

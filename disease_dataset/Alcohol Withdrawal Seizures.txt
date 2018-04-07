@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clorazepate
+2. Groups:  Approved, Illicit
+3. Description:  A water-soluble benzodiazepine derivative effective in the treatment of anxiety. It has also muscle relaxant and anticonvulsant actions. [PubChem]
+4. Indication:  For the management of anxiety disorders or for the short-term relief of the symptoms of anxiety. Also used as adjunctive therapy in the management of partial seizures and for the symptomatic relief of acute alcohol withdrawal.
+DrugId:  2
+1. Name:  Ganaxolone
+2. Groups:  Investigational
+3. Description:  Ganaxolone is the 3β-methylated synthetic analog of allopregnanolone; it belongs to a class of compounds referred to as neurosteroids. Ganaxolone is an allosteric modulator of GABAA receptors acting through binding sites which are distinct from the benzodiazepine binding site. It has activity in a broad range of animal models of epilepsy. Ganaxolone has been shown to be well tolerated in adults and children. In early phase II studies, Ganaxolone has been shown to have activity in adult patients with partial-onset seizures and epileptic children with history of infantile spasms. It is currently undergoing further development in infants with newly diagnosed infantile spasms, in women with catamenial epilepsy, and in adults with refractory partial-onset seizures.
+4. Indication:  Investigated for use/treatment in pediatric indications and seizure disorders.
+DrugId:  3
+1. Name:  Paraldehyde
+2. Groups:  Approved, Investigational
+3. Description:  Paraldehyde is the cyclic trimer of acetaldehyde molecules. It was introduced into clinical practice in the UK by the Italian physician Vincenzo Cervello in 1882. It is a central nervous system depressant and was soon found to be an effective anticonvulsant, hypnotic and sedative. It was included in some cough medicines as an expectorant (though there is no known mechanism for this function beyond the placebo effect).
+4. Indication:  Paraldehyde was used historically as a sedative and hypnotic [1]. It has been used in the treatment of seizures as an anticonvulsant [2].
+DrugId:  4
+1. Name:  Ezogabine
+2. Groups:  Approved, Investigational
+3. Description:  Ezogabine (D23129) is a close structural analog of the centrally acting analgesic flupitrine. It is a neuronal potassium channel opener being developed as a first-in-class antiepileptic drug (AED) and is currently being studied in Phase 3 trials as an adjunctive treatment for partial-onset seizures in adult patients with refractory epilepsy. FDA approved in June 10, 2011 under the name of ezogabine. 
+4. Indication:  Adjuvant treatment of partial-onset seizures. 
+DrugId:  5
+1. Name:  Varenicline
+2. Groups:  Approved, Investigational
+3. Description:  Varenicline is a prescription medication used to treat smoking addiction. This medication is the first approved nicotinic receptor partial agonist. Specifically, varenicline is a partial agonist of the alpha4/beta2 subtype of the nicotinic acetylcholine receptor. In addition it acts on alpha3/beta4 and weakly on alpha3beta2 and alpha6-containing receptors. A full agonism was displayed on alpha7-receptors.On March 9, 2015, the U.S. Food and Drug Administration warned that Varenicline, in the form of Pfizer Inc's quit-smoking drug, Chantix, has been associated with seizures and that some patients who drink while taking the drug may become aggressive or black out. Pfizer is conducting an additional safety study of the drug, results of which are expected in late 2015. The FDA said it is keeping the black box in place at least until the results of the trial are announced.
+4. Indication:  For use as an aid in smoking cessation.
+DrugId:  6
+1. Name:  Clonidine
+2. Groups:  Approved
+3. Description:  Clonidine, an imidazoline-derivative hypotensive agent is a centrally-acting α2-adrenergic agonist. It crosses the blood-brain barrier and acts in the hypothalamus to induce a decrease in blood pressure. It may also be administered as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone. Clonidine may be used for differential diagnosis of pheochromocytoma in hypertensive patients. Other uses for clonidine include prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD). Clonidine also exhibits some peripheral activity. 
+4. Indication:  May be used as an adjunct in the treatment of hypertension, as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone, for differential diagnosis of pheochromocytoma in hypertensive patients, prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD).
+DrugId:  7
+1. Name:  Disulfiram
+2. Groups:  Approved
+3. Description:  A carbamate derivative used as an alcohol deterrent. It is a relatively nontoxic substance when administered alone, but markedly alters the intermediary metabolism of alcohol. When alcohol is ingested after administration of disulfiram, blood acetaldehyde concentrations are increased, followed by flushing, systemic vasodilation, respiratory difficulties, nausea, hypotension, and other symptoms (acetaldehyde syndrome). It acts by inhibiting aldehyde dehydrogenase. [PubChem]
+4. Indication:  For the treatment and management of chronic alcoholism
+DrugId:  8
+1. Name:  Methylnaltrexone
+2. Groups:  Approved
+3. Description:  Methylnaltrexone is a pheriphally-acting μ-opioid antagonists that acts on the gastrointestinal tract to decrease opioid-induced constipation without producing analgesic effects or withdrawal symptoms. It is also a weak CYP2D6 inhibitor. FDA approved in 2008. 
+4. Indication:  Treatment of opioids induced constipation in palliative patients that are inadequately responding to laxative therapy. 
+DrugId:  9
+1. Name:  clomethiazole
+2. Groups:  Investigational
+3. Description:  Clomethiazole is a well-established γ-aminobutyric acid (GABAA)-mimetic drug. It is a sedative and hypnotic that is widely used in treating and preventing symptoms of acute alcohol withdrawal. It is a drug which is structurally related to thiamine (vitamin B1) but acts like a sedative, hypnotic, muscle relaxant and anticonvulsant. It is also used for the management of agitation, restlessness, short-term insomnia and Parkinson's disease in the elderly.
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  10
+1. Name:  Bupropion
+2. Groups:  Approved
+3. Description:  A unicyclic, aminoketone antidepressant. The mechanism of its therapeutic actions is not well understood, but it does appear to block dopamine uptake. The hydrochloride is available as an aid to smoking cessation treatment.
+4. Indication:  For the treatment of depression and as aid to smoking cessation.
+DrugId:  11
+1. Name:  Fenoterol
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic beta-2 agonist that is used as a bronchodilator and tocolytic. [PubChem]
+4. Indication:  Fenoterol is used for the treatment of asthma.
+DrugId:  12
+1. Name:  Phenacemide
+2. Groups:  Approved
+3. Description:  Phenacemide is used to control certain seizures in the treatment of epilepsy. This medicine acts on the central nervous system (CNS) to reduce the number and severity of seizures.
+4. Indication:  Used to control certain seizures in the treatment of epilepsy.
+DrugId:  13
+1. Name:  Delorazepam
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Delorazepam is a benzodiazepine which, like other drugs in its class, possesses anxiolytic, skeletal muscle relaxant, hypnotic and anticonvulsant properties. It may have adverse effects such as drowsiness, and cognitive impairments such as short term memory impairment. [4] Delorazepam is an active metabolite of the benzodiazepine known as cloxazolam. It is a long acting benzodiazepine which makes it superior in this sense to lorazepam which is short acting. Lorazepam is also a major active metabolite of delorazepam. In addition to be long acting, delorazepam is relatively potent, with 1 mg of delorazepam being the equivalent of 10 mg diazepam. [Wikipedia] It has been approved for marketing in Italy. 
+4. Indication:  Mainly used as an anti-anxiety agent. Studies have found delorazepam to be more effective in the first 4 weeks of use than antidepressants; however, after 4 weeks, antidepressants showed superior anti-anxiety effects. [Wikipedia] Anti-anxiety effects also appear to be weaker in elderly patients. [1]Effectiveness has also been observed in the treatment of alcohol withdrawal. Delorazapam was reported to be a manageable drug in that it did not exhibit severe side effects and did not require further therapies to control symptoms of withdrawal. [3]
+DrugId:  14
+1. Name:  Doripenem
+2. Groups:  Approved, Investigational
+3. Description:  Doripenem is a broad-spectrum, carbapenem antibiotic marketed under the brand name Doribax by Janssen. Doripenem injection was approved by the FDA in 2007 to treat complicated urinary tract and intra-abdominal infections. In a clinical trial of doripenem treatment in ventilator associated pneumonia (vs. imipenem and cilastatin), it was found that doripenem carried an increased risk of death and lower clinical cure rates, resulting in a premature termination of the trial. The FDA revised the doripenem label in 2014 to include a warning against use in ventilator-associated pneumonia and to reiterate its safety and efficacy for its approved indications. 
+4. Indication:  Doripenem is indicated in the treatment of complicated intra-abdominal infections and complicated urinary tract infections, including pyelonephritis, caused by designated susceptible bacteria.
+DrugId:  15
+1. Name:  Protriptyline
+2. Groups:  Approved
+3. Description:  Protriptyline hydrochloride is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, protriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, protriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. In addition, TCAs down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Protriptyline may be used for the treatment of depression. 
+4. Indication:  For the treatment of depression. 
+DrugId:  16
+1. Name:  Stiripentol
+2. Groups:  Approved
+3. Description:  Stiripentol is an anticonvulsant drug used in the treatment of epilepsy as an adjunct therapy along with Clobazam and Valproic Acid. Unrelated to other anticonvulsants, stitipentol belongs to the group of aromatic allylic alcohols and may potentiate the effect of other antiepileptic drugs (AEDs) due to pharmacokinetic interactions. It elevates the levels of gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter that regulates electrical activity in the central nervous system. Use of stiripentol is approved for infants with Dravet syndrome, or Severe Myoclonic Epilepsy in Infancy (SMEI) that commonly occurs at the first year of life. Stiripentol is not FDA-approved but approved in Canada and European countries as oral tablets marketed as Diacomit.
+4. Indication:  Indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet’s syndrome) whose seizures are not adequately controlled with clobazam and valproate.
+DrugId:  17
+1. Name:  Nalbuphine
+2. Groups:  Approved
+3. Description:  A narcotic used as a pain medication. It appears to be an agonist at kappa opioid receptors and an antagonist or partial agonist at mu opioid receptors. Nalbuphine is the only opioid analgesic that is not a controlled substance in the United States. 
+4. Indication:  For the relief of moderate to severe pain.
+DrugId:  18
+1. Name:  Tofisopam
+2. Groups:  Approved
+3. Description:  Tofisopam (marketed under brand names Emandaxin and Grandaxin) is a 2,3-benzodiazepine drug which is a benzodiazepine derivative. In contrast to classical 1,4-benzodiazepines, the compound does not bind to the benzodiazepine binding site of the gamma-aminobutyric acid receptor and its psychopharmacological profile differs from such compounds. Although Tofisopam is not approved for sale in North America, it is approved for use in various countries worldwide, including parts of Europe. The D-enantiomer (dextofisopam) is currently in phase II trials in the U.S. for the treatment of irritable bowel syndrome.
+4. Indication:  For the treatment of anxiety and alcohol withdrawal.
+DrugId:  19
+1. Name:  Diazepam
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589)
+4. Indication:  Used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome.
+DrugId:  20
+1. Name:  Nalmefene
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Nalmefene is a 6-methylene analogue of naltrexone and opioid system modulator but with no opioid activity [FDA Label]. It mediates a partial agonist effect on kappa receptors [2]. It is primarily used in the management of alcohol dependence in adult patients in conjunction with continuous psychosocial support focused on treatment adherence and reducing alcohol consumption [4] when it is exists as the hydrochloride dihydrate form under the trade name Selincro. Selincro is orally administered as tablets. Nalmefene works to reduce alcohol consumption in individuals by positive reward effect of alcohol which involves the opioid system, as well as the sedative and dysphoric properties of alcohol [2]. It is also indicated to prevent or reverse the effects of opioids, including respiratory depression, sedation, and hypotension by acting on the opioid receptor as an antagonist [FDA Label] under the trade name Revex for intramuscular, intravenous and subcutaneous injection, where nalmefene hydrochloride is an active ingredient.
+4. Indication:  Indicated for the reduction of alcohol consumption in adult patients with alcohol dependence who have a high drinking risk level (DRL), without physical withdrawal symptoms and who do not require immediate detoxification [4].Indicated for the complete or partial reversal of opioid drug effects, including respiratory depression - induced by either natural or synthetic opioids - or in the management of known or suspected opioid overdose [FDA Label].
+DrugId:  21
+1. Name:  Quinestrol
+2. Groups:  Approved
+3. Description:  The 3-cyclopentyl ether of ethinyl estradiol.
+4. Indication:  Used in hormone replacement therapy, treating symptoms of menopause such as hot flashes. Also used to treat breast and prostate cancer.
+DrugId:  22
+1. Name:  Procaterol
+2. Groups:  Approved, Investigational
+3. Description:  A long-acting beta-2-adrenergic receptor agonist. It is a potent bronchodilator that may be administered orally or by aerosol inhalation. [PubChem]
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  23
+1. Name:  Lesopitron
+2. Groups:  Investigational
+3. Description:  Lesopitron is an anxiolytic with pre- and post-synaptic 5-HT1A agonist activity, which is under development by Esteve.
+4. Indication:  Intended for the treatment of anxiety disorders.
+DrugId:  24
+1. Name:  Naloxone
+2. Groups:  Approved, Vet approved
+3. Description:  Naloxone is an opioid antagonist medication used to block or reverse the effects of opioid drugs, particularly within the setting of drug overdoses which are rapidly becoming a leading cause of death worldwide. More specifically, naloxone has a high affinity for μ-opioid receptors, where it acts as an inverse agonist, causing the rapid removal of any other drugs bound to these receptors. When taken in large quantities, opioid medications such as morphine, hydromorphone, methadone, heroin, or fentanyl are capable of causing life-threatening symptoms such as respiratory depression, reduced heart rate, slurred speech, drowsiness, and constricted pupils. If untreated, this can progress to vomiting, absent pulse and breathing, loss of consciousness, and even death. Naloxone is indicated for the rapid reversal of these symptoms of central nervous system depression in opioid overdose. It's important to note that naloxone only works on opioid receptors within the body, and is therefore not capable of reversing the effects of non-opioid medications such as stimulants like methamphetamine or cocaine, or benzodiazepines like lorazepam or diazepam. Also known as the brand name product Narcan, naloxone is currently available by intramuscular (IM) or subcutaneous (SubQ) injection, nasal spray, or intravenous (IV) infusion. Naloxone IM injections are commonly available in the form of "kits", which is ideal for making overdose treatment accessible and readily available for administration by minimally trained individuals within the community. Kits commonly include the supplies necessary to treat an overdose in a non-medical setting such as alcohol swabs, syringes, a rescue breathing mask, and instructions for use. Frequently also carried by medical and emergency personnel and at events known to be associated with heavy drug use like music festivals, naloxone kits are considered a key component of harm reduction strategies.When injected intramuscularly (IM), naloxone acts within 3-5 minutes and can last from 30-60 minutes before its effects wear off. Administration of naloxone is associated with very few side effects. Notably, if injected into a person not currently using opioid medications, there would be no noticeable effects at all. However, for individuals using opioid medications or experiencing an overdose, IM injection of naloxone rapidly reverses opioid effects and can cause the injected individual to immediately experience withdrawal symptoms. Common symptoms of opioid withdrawal include nausea, vomiting, sweating, runny nose, aches, and diarrhea. Although certainly physically uncomfortable, opioid withdrawal symptoms are not life-threatening like they are for alcohol withdrawals. Administration of naloxone is therefore appropriate for any person appearing to have any symptoms of an opioid overdose. Due to its short duration of action, person's injected with naloxone should be monitored for responsiveness and potentially injected a second time or taken to the hospital.Naloxone is also available within the combination product Suboxone with the opioid medication buprenorphine. Suboxone is used for the maintentance treatment of opioid dependence and addiction. When taken orally, naloxone has no pharmacological effect and does not reduce the effectiveness of the opioid effect of buprenorphine. The primary purpose of including naloxone within Suboxone is to act as a deterrent to injection, as injected naloxone would rapidly reverse the effects of buprenorphine.
+4. Indication:  For the complete or partial reversal of narcotic depression, including respiratory depression, induced by opioids including natural and synthetic narcotics, propoxyphene, methadone and the narcotic-antagonist analgesics: nalbuphine, pentazocine and butorphanol. It is also indicated for the diagnosis of suspected acute opioid overdose. It may also be used as an adjunctive agent to increase blood pressure in the management of septic shock.
+DrugId:  25
+1. Name:  Trimethadione
+2. Groups:  Approved
+3. Description:  An anticonvulsant effective in absence seizures, but generally reserved for refractory cases because of its toxicity. (From AMA Drug Evaluations Annual, 1994, p378)
+4. Indication:  Used in the control of absence (petit mal) seizures that are refractory to treatment with other medications.

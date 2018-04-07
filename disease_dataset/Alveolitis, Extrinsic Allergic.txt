@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lexatumumab
+2. Groups:  Investigational
+3. Description:  Lexatumumab is a fully humanized, high-affinity immunoglobulin G(1 lambda) monoclonal antibody (mAb).
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  2
+1. Name:  RP01
+2. Groups:  Investigational
+3. Description:  RP01 is a novel anti-IgE immunotherapy for allergic individuals. It is designed to induce the immune system to produce antibodies that block Immunoglobulin E (IgE), the key mediator of an allergic response. It could offer benefit to millions of asthma and allergy patients.
+4. Indication:  Investigated for use/treatment in allergic reaction and asthma.
+DrugId:  3
+1. Name:  Trichophyton verrucosum
+2. Groups:  Approved
+3. Description:  Trichophyton verrucosum is a fungus which can provoke allergic reactions. Trichophyton verrucosum extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Coagulation factor VII human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation factor VII is human serine protease type enzyme that is involved in the extrinsic coagulation cascade which results in blood clotting.
+4. Indication:  May be administered in cases of uncontrolled bleeding. Factor VII alone can be used in the treatment of congenital hemophilia A or B, acquired hemophilia, congenital factor VII deficiency, and Glanzmann's thrombasthenia. Off label use in the treatment of refractory bleeding after cardiac surgery and warfarin related intracerebral hemorrhage. Brands for human factor VII are currently only in combination with other vitamin K coagulation factors and can be used to reverse vitamin K antagonist activity in patients with acute major bleeds or for urgent surgery/invasive procedures. 
+DrugId:  5
+1. Name:  TTP889
+2. Groups:  Investigational
+3. Description:  TTP889, an orally bioavailable selective inhibitor of the intrinsic coagulation pathway, is being developed as an anticoagulant for the treatment of thromboembolic disorders. TTP889 is the only known selective small molecule inhibitor of Factor IX, a key enzyme of the intrinsic pathway of the blood coagulation system. TTP889 has proven to be effective in preventing clot formation in several animal models of human disease, without any signs of the bleeding associated with traditional anticoagulants. 
+4. Indication:  Investigated for use/treatment in blood (blood forming organ disorders, unspecified), cardiac surgery, and venous thromboembolism.
+DrugId:  6
+1. Name:  Coagulation factor X human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation Factor X (Human), is a plasma-derived human blood coagulation factor is used by adults and children (aged 12 years and above) with hereditary Factor X deficiency. However its use is limited in the perioperative setting for the management of bleeding in major surgery in patients with moderate and severe hereditary Factor X deficiency. Coagulation Factor X is a vitamin K-dependent, liver-produced serine protease that serves as the first enzyme in the coagulation cascade to form fibrin. It is a two-chain glycoprotein with the molecular weight of approximately 59 kDa [2]. While Factor X normally circulates in the plasma as inactive molecules, the activation of Factor X is involved in both the intrinsic and extrinsic coagulation pathways. Inherited factor X deficiency is a rare autosomal recessive bleeding disorder that is estimated to occur in 1:1 000 000 individuals up to 1:500 carriers [1]. Administration of coagulation Factor X from healthy donor serves to restore and achieve effective hemostasis. Coagulation Factor X (Human) solution is approved by the FDA for intravenous injection under the market name Coagadex which contains normally 100 IU/mL of coagulation Factor X derived from healthy donors who have passed viral screening tests [FDA Label].
+4. Indication:  Indicated in adults and children (aged 12 years and above) with hereditary Factor X deficiency for on-demand treatment and control of bleeding episodes, or for perioperative management of bleeding in patients with mild hereditary Factor X deficiency [FDA Label]. 
+DrugId:  7
+1. Name:  Coagulation factor VIIa Recombinant Human
+2. Groups:  Approved
+3. Description:  Recombinant human coagulation Factor VIIa (rFVIIa), intended for promoting hemostasis by activating the extrinsic pathway of the coagulation cascade. NovoSeven is a vitamin K-dependent glycoprotein consisting of 406 amino acid residues. Cloned and expressed in hamster kidney cells, the protein is catalytically active in a two-chain form.
+4. Indication:  For treatment of hemorrhagic complications in hemophilia A and B
+DrugId:  8
+1. Name:  TNX-901
+2. Groups:  Investigational
+3. Description:  TNX-901 is a therapeutic monoclonal antibodies designed to address significant unmet medical needs in the areas of asthma, allergy, inflammation and other diseases affecting the human immune system.
+4. Indication:  Investigated for use/treatment in allergic reaction.
+DrugId:  9
+1. Name:  CAT-213
+2. Groups:  Investigational
+3. Description:  CAT-213 is a fully human anti-eotaxin monoclonal antibody with potential in the treatment of allergic disorders, has moved into pre-clinical development. It is developed by MedImmune for the treatment of Allergic Rhinitis.
+4. Indication:  Investigated for use/treatment in allergic rhinitis.
+DrugId:  10
+1. Name:  Q-Derp1
+2. Groups:  Investigational
+3. Description:  Q-Derp1 is developed by Cytos Biotechnology as an immunodrug. It is an antigen for the prevention of various major chronic diseases. Derp1 is the dominant allergic protein found in dust mite feces.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Acremonium strictum
+2. Groups:  Approved
+3. Description:  Acremonium strictum is a fungus which can provoke allergic reactions. Acremonium strictum extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Helminthosporium solani
+2. Groups:  Approved
+3. Description:  Helminthosporium solani is a fungus which can provoke allergic reactions. Helminthosporium solani extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Puccinia graminis
+2. Groups:  Approved
+3. Description:  Puccinia graminis is a fungus which can provoke allergic reactions. Puccinia graminis extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Candida tropicalis
+2. Groups:  Approved
+3. Description:  Candida tropicalis is a fungus which can provoke allergic reactions. Candida tropicalis is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Cochliobolus lunatus
+2. Groups:  Approved
+3. Description:  Cochliobolus lunatus is a fungus which can provoke allergic reactions. Cochliobolus lunatus extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Haematonectria haematococca
+2. Groups:  Approved
+3. Description:  Haematonectria haematococca is a fungus which can provoke allergic reactions. Haematonectria haematococca extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Pleospora betae
+2. Groups:  Approved
+3. Description:  Pleospora betae is a fungus which can provoke allergic reactions. Pleospora betae extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Neurospora sitophila
+2. Groups:  Approved
+3. Description:  Neurospora sitophila is a fungus which can provoke allergic reactions. Neurospora sitophila extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Aspergillus nidulans
+2. Groups:  Approved
+3. Description:  Aspergillus nidulans is a fungus which can provoke allergic reactions. Aspergillus nidulans extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Dendryphiella vinosa
+2. Groups:  Approved
+3. Description:  Dendryphiella vinosa is a fungus which can provoke allergic reactions. Dendryphiella vinosa extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Rhodotorula rubra
+2. Groups:  Approved
+3. Description:  Rhodotorula rubra is a fungus which can provoke allergic reactions. Rhodotorula rubra is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Neurospora crassa
+2. Groups:  Approved
+3. Description:  Neurospora crassa is a fungus which can provoke allergic reactions. Neurospora crassa extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Mycocladus corymbiferus
+2. Groups:  Approved
+3. Description:  Mycocladus corymbiferus is a fungus which can provoke allergic reactions. Mycocladus corymbiferus extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Chrysonilia sitophila
+2. Groups:  Approved
+3. Description:  Chrysonilia sitophila is a fungus which can provoke allergic reactions. Chrysonilia sitophila extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  QAV-680
+2. Groups:  Investigational
+3. Description:  QAV680 has been used in trials studying the treatment of Asthma, Allergic Rhinitis, and Seasonal Allergic Rhinitis.
+4. Indication:  Not Available

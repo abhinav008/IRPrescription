@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Retosiban
+2. Groups:  Investigational
+3. Description:  Retosiban has been used in trials studying the treatment of Premature Labor and Obstetric Labour, Premature.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Decamethonium
+2. Groups:  Approved
+3. Description:  Decamethonium is a short acting depolarizing muscle relaxant or neuromuscular blocking agent, and is used in anesthesia to induce paralysis. It is similar to acetylcholine and acts as a partial agonist of the nicotinic acetylcholine receptor.
+4. Indication:  For use as a skeletal muscle relaxant
+DrugId:  3
+1. Name:  Methoxyflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An inhalation anesthetic. Currently, methoxyflurane is rarely used for surgical, obstetric, or dental anesthesia. If so employed, it should be administered with nitrous oxide to achieve a relatively light level of anesthesia, and a neuromuscular blocking agent given concurrently to obtain the desired degree of muscular relaxation. (From AMA Drug Evaluations Annual, 1994, p180)
+4. Indication:  For use in the induction and maintenance of general anesthesia
+DrugId:  4
+1. Name:  Pipecuronium
+2. Groups:  Approved
+3. Description:  Pipecuronium is a piperazinyl androstane derivative which is a non-depolarizing neuromuscular blocking agent.
+4. Indication:  Used as a muscle relaxant during anesthesia and surgical procedures.
+DrugId:  5
+1. Name:  Chymopapain
+2. Groups:  Approved, Withdrawn
+3. Description:  Chymopapain is a proteolytic enzyme isolated from the latex of papaya (Carica papaya), it is a medication used to treat herniated lower lumbar discs in the spine. The sale and distribution of chymopapain was discontinued in the United States on January 27, 2003. Serious side effects from the use of chymopapain include anaphylaxis, paralysis of the legs, or death. [Wikipedia]
+4. Indication:  Chymopapain injections should preferably be given under local, rather than general, anaesthesia. The dose for a single intervertebral disc is 2 to 4 nanokatals, with a maximum dose per patient of 8 nanokatals. [Wikipedia]
+DrugId:  6
+1. Name:  Tropicamide
+2. Groups:  Approved, Investigational
+3. Description:  One of the muscarinic antagonists with pharmacologic action similar to atropine and used mainly as an ophthalmic parasympatholytic or mydriatic. [PubChem]
+4. Indication:  Indicated to induce mydriasis (dilation of the pupil) and cycloplegia (paralysis of the ciliary muscle of the eye) in diagnostic procedures, such as measurement of refractive errors and examination of the fundus of the eye.
+DrugId:  7
+1. Name:  Cefmenoxime
+2. Groups:  Approved
+3. Description:  Cefmenoxime is a third-generation cephalosporin antibiotic. [Wikipedia]
+4. Indication:  Used to treat female gynecologic and obstetric infections caused by susceptible aerobic (including the gonococcus) and anaerobic bacteria.
+DrugId:  8
+1. Name:  Ropivacaine
+2. Groups:  Approved
+3. Description:  Ropivacaine is a local anaesthetic drug belonging to the amino amide group. The name ropivacaine refers to both the racemate and the marketed S-enantiomer. Ropivacaine hydrochloride is commonly marketed by AstraZeneca under the trade name Naropin.
+4. Indication:  Used in obstetric anesthesia and regional anesthesia for surgery.
+DrugId:  9
+1. Name:  Praziquantel
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anthelmintic used in most schistosome and many cestode infestations.
+4. Indication:  For the treatment of infections due to all species of schistosoma.
+DrugId:  10
+1. Name:  Cycloserine
+2. Groups:  Approved
+3. Description:  Antibiotic substance produced by Streptomyces garyphalus. [PubChem]
+4. Indication:  Used in combination with up to 5 other drugs as a treatment for Mycobacterium avium complex (MAC) and is also used to treat tuberculosis (TB).
+DrugId:  11
+1. Name:  Permethrin
+2. Groups:  Approved, Investigational
+3. Description:  A pyrethroid insecticide commonly used in the treatment of lice infestations and scabies. It is a yellow to light orange-brown, low melt-ing solid or viscous liquid.
+4. Indication:  For the treatment of infestation with Sarcoptes scabiei (scabies).
+DrugId:  12
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  13
+1. Name:  Tetraethylammonium
+2. Groups:  Experimental, Investigational
+3. Description:  Tetraethylammonium is an experimental drug with no approved indication or marketed formulation. The only marketed drug containing tetraethylammonium was a combination drug called Fosglutamina B6, but this drug has now been discontinued. As an experimental agent, tetraethylammonium is used in its salt forms such as tetraethylammonium chloride and tetraethylammonium bromide. Its mechanism of action is still being investigated, but it is known that tetraethylammonium blocks autonomic ganglia, calcium- and voltage- activated potassium channels, and nicotinic acetylcholine receptors. Because of its inhibitory actions at the autonomic ganglia, tetraethylammonium was thought to be a potential therapeutic vasodilator but serious toxic effects were found. The most common use of tetraethylammonium presently is as a pharmacological research agent that blocks selective potassium channels. Structurally, tetraethylammonium is positively charged due to its central quaternary ammonium.
+4. Indication:  Tetraethylammonium is an experimental drug with no approved indication.
+DrugId:  14
+1. Name:  Tetrodotoxin
+2. Groups:  Investigational
+3. Description:  An aminoperhydroquinazoline poison found mainly in the liver and ovaries of fishes in the order tetraodontiformes, which are eaten. The toxin causes paresthesia and paralysis through interference with neuromuscular conduction. Tetrodotoxin is being investigated by Wex Pharmaceuticals for the treatment of chronic and breakthrough pain in advanced cancer patients as well as for the treatment of opioid dependence.
+4. Indication:  For the treatment of chronic and breakthrough pain in advanced cancer patients as well as for the treatment of opioid dependence.
+DrugId:  15
+1. Name:  Thallous Chloride
+2. Groups:  Approved
+3. Description:  Thallous chloride (also known as Thallium(I) chloride) is a chemical compound with the formula TlCl. This colourless solid is an intermediate in the isolation of thallium from its ores. Typically, an acidic solution of thallium(I) sulfate is treated with hydrochloric acid to precipitate insoluble thallium(I) chloride. This solid crystallizes in the caesium chloride motif. It is used as a diagnostic radiopharmaceutical. It is used for diagnosis of heart and parathyroid problems. The following are among the possible side effects: Blurred vision, chest pain or discomfort, chills, confusion, cough, difficulty with breathing, difficulty with swallowing, and dizziness.
+4. Indication:  For use as a diagnostic radiopharmaceutical.It is indicated to help diagnose heart disease (eg, coronary artery disease, heart attack). It is also used for the diagnosis of parathyroid problems. 
+DrugId:  16
+1. Name:  Pralidoxime
+2. Groups:  Approved, Vet approved
+3. Description:  Pralidoxime is an antidote to organophosphate pesticides and chemicals. Organophosphates bind to the esteratic site of acetylcholinesterase, which results initially in reversible inactivation of the enzyme. If given within 24 hours,after organophosphate exposure, pralidoxime reactivates the enzyme cholinesterase by cleaving the phosphate-ester bond formed between the organophosphate and acetylcholinesterase.
+4. Indication:  For the treatment of poisoning due to those pesticides and chemicals of the organophosphate class which have anticholinesterase activity and in the control of overdosage by anticholinesterase drugs used in the treatment of myasthenia gravis.
+DrugId:  17
+1. Name:  Nelarabine
+2. Groups:  Approved, Investigational
+3. Description:  Nelarabine is a chemotherapy drug used in T-cell acute lymphoblastic leukemia. Nelarabine is a purine nucleoside analog converted to its corresponding arabinosylguanine nucleotide triphosphate (araGTP), resulting in inhibition of DNA synthesis and cytotoxicity.
+4. Indication:  For the treatment of pediatric and adult patients with acute T-cell lymphoblastic leukemia and T-cell lymphoblastic lymphoma whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens.
+DrugId:  18
+1. Name:  Mepenzolate
+2. Groups:  Approved
+3. Description:  Mepenzolate is a post-ganglionic parasympathetic inhibitor. It decreases gastric acid and pepsin secretion and suppresses spontaneous contractions of the colon. Mepenzolate diminishes gastric acid and pepsin secretion. Mepenzolate also suppresses spontaneous contractions of the colon. Pharmacologically, it is a post-ganglionic parasympathetic inhibitor. It has not been shown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+4. Indication:  For use as adjunctive therapy in the treatment of peptic ulcer. It has not beenshown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+DrugId:  19
+1. Name:  Sugammadex
+2. Groups:  Approved
+3. Description:  Sugammadex is a selective relaxant binding agent indicated for reversal of neuromuscular blockade induced by rocuronium bromide and vecuronium bromide during surgery in adults. Rocuronium bromide and vecuronium bromide are neuromuscular blocking medications that cause temporary paralysis and are especially useful for general anesthesia, ventilation, or tracheal intubation that patients may require for surgery. Sugammadex provides a new treatment option to reverse the effects of those medications and possibly help patients recover sooner post-surgery. Sugammadex (brand name Bridion) is marketed by Merck Sharp and Dohme, and was approved by the United States FDA on December 15, 2015. 
+4. Indication:  Sugammadex is indicated for the reversal of neuromuscular blockade induced by rocuronium bromide and vecuronium bromide in adults undergoing surgery.
+DrugId:  20
+1. Name:  Colistin
+2. Groups:  Approved
+3. Description:  Cyclic polypeptide antibiotic from Bacillus colistinus. It is composed of Polymyxins E1 and E2 (or Colistins A, B, and C) which act as detergents on cell membranes. Colistin is less toxic than Polymyxin B, but otherwise similar; the methanesulfonate is used orally.
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  21
+1. Name:  Spinosad
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Spinosad is a pediculicide mixture of spinosyn A and spinosyn D (in an approximately 5:1 ratio, respectively) used in the topical treatment of head lice in children (four years old and older) and in adults. Spinosad is an insecticide based on a compound found in S. spinosa, a bacterial species. Spinosad has also been experimented for use in cats for treatment of flea infestations, and has also been experimented for use against the KS1 Ctenocephalides felis flea strain infesting dogs, in addition to many investigations for use in other animals and agricultural plants.
+4. Indication:  Spinosad is indicated for the topical treatment of head lice in children four years old and over and in adults.
+DrugId:  22
+1. Name:  Magnesium acetate tetrahydrate
+2. Groups:  Approved
+3. Description:  Magnesium acetate tetrahydrate is a hydrated form of anhydrous magnesium acetate salt with the chemical formula of Mg(CH3COO)2 • 4H2O. As a salt form of magnesium, magnesium acetate is one of the bioavailable forms of magnesium and forms a very water soluble compound. Magnesium is an essential element and second most abundant cation in the body that plays a key role in maintaining normal cellular function such as production of ATP and efficient enzyme activity. Magnesium acetate tetrahydrate can be used as an electrolyte supplementation or a reagent in molecular biology experiments.
+4. Indication:  Used as magnesium salf-containing laxatives to prevent constipation. It can bring synergistic effect to restore normal bowel function when using in combination with aluminum salts that induce bowel retention [8]. Magnesium acetate tetrahydrate is used as a source of water and electrolytes when combined with dextrose and other salts to form intravenous infusions. This injection can be used for patients with carbohydrate or magnesium deficiency, insulin hypoglycemia, constipation or hypertension during pregnancy.
+DrugId:  23
+1. Name:  Atracurium besylate
+2. Groups:  Approved
+3. Description:  A non-depolarizing neuromuscular blocking agent with short duration of action. Its lack of significant cardiovascular effects and its lack of dependence on good kidney function for elimination provide clinical advantage over alternate non-depolarizing neuromuscular blocking agents. [PubChem]
+4. Indication:  For use, as an adjunct to general anesthesia, to facilitate endotracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  24
+1. Name:  Tiagabine
+2. Groups:  Approved, Investigational
+3. Description:  Tiagabine is an anti-convulsive medication. It is also used in the treatment for panic disorder as are a few other anticonvulsants. Though the exact mechanism by which tiagabine exerts its effect on the human body is unknown, it does appear to operate as a selective GABA reuptake inhibitor.
+4. Indication:  For the treatment of partial seizures
+DrugId:  25
+1. Name:  Tartaric acid
+2. Groups:  Approved
+3. Description:  Tartaric acid is a white crystalline organic acid that occurs naturally in many plants, most notably in grapes.Tartaric is an alpha-hydroxy-carboxylic acid, is diprotic and aldaric in acid characteristics, and is a dihydroxyl derivative of succinic acid.
+4. Indication:  Tartaric Acid is primarily indicated in conditions like Antiscorbutic, Antiseptic.

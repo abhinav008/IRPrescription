@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Astodrimer
+2. Groups:  Investigational
+3. Description:  Astodrimer has been used in trials studying the treatment and prevention of Bacterial Vaginosis. It is a lysine-based dendrimer with naphthalene disulfonic acid surface groups.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Boric acid
+2. Groups:  Approved
+3. Description:  Boric acid, also known as hydrogen borate, is a weak monobasic Lewis acid of boron with the chemical formula H3BO3. It is found as a component in cosmetics and pharmaceutical products in addition to industrial processes [4]. Boric acid can also be found in antiseptic products, as it exhibits antibacterial activity against infections such as bacterial vaginosis and candidiasis [1].
+4. Indication:  No FDA- or EMA-approved therapeutic indications on its own.
+DrugId:  3
+1. Name:  Dequalinium
+2. Groups:  Approved, Investigational
+3. Description:  Dequalinium is a quaternary ammonium cation that contains two quaternary quinolinium units linked by an N-decylene chain. It is an antiseptic and disinfectant agent with a broad bactericidal and fungicidal activity. It is most commonly available as a dichloride salt but is available as other various salts as well. It is used in wound dressings and mouth infections and may also have antifungal action, but may associate with skin ulceration. Dequalinium chloride is used as an active ingredient in tablets as Fluomizin for vaginal bacterial infections and in topical bacteriostat formulation as Dequadin. It has been studied for use in treatment of malaria and acute promyelocytic leukemia. Its multiple mode of action is thought to reduce the risk of resistance of pathogens.
+4. Indication:  Effective local treatment as vaginal tablets for infections such as fluor vaginalis, bacterial vaginosis, aerobic vaginitis, vulvo-vaginal candidiasis and trichomoniasis. Used as a topical antimicrobial agent. 
+DrugId:  4
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  5
+1. Name:  Clindamycin
+2. Groups:  Approved, Vet approved
+3. Description:  Clindamycin is a semisynthetic lincosamide antibiotic that has largely replaced lincomycin due to an improved side effect profile. Clindamycin inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits. It may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For the treatment of serious infections caused by susceptible anaerobic bacteria, including Bacteroides spp., Peptostreptococcus, anaerobic streptococci, Clostridium spp., and microaerophilic streptococci. May be useful in polymicrobic infections such as intra-abdominal or pelvic infections, osteomyelitis, diabetic foot ulcers, aspiration pneumonia and dental infections. May also be used to treat MSSA and respiratory infections caused by S. pneumoniae and S. pyogenes in patients who are intolerant to other indicated antibiotics or who are infected with resistant organism. May be used vaginally to treat vaginosis caused by Gardnerella vaginosa. Clindamycin reduces the toxin producing effects of S. aureus and S. pyogenes and as such, may be particularly useful for treating necrotizing fasciitis. May be used topically to treat acne.
+DrugId:  6
+1. Name:  Secnidazole
+2. Groups:  Approved
+3. Description:  Secnidazole is a second-generation 5-nitroimidazole antimicrobial that is structurally related to other 5-nitroimidazoles including Metronidazole and Tinidazole, but displays improved oral absorption and longer terminal elimination half-life than antimicrobial agents in this class [1]. Secnidazole is selective against many anaerobic Gram-positive and Gram-negative bacteria and protozoa. In September 2017, FDA granted approval to secnidazole under the market name Solosec as a single-dose oral treatment for bacterial vaginosis, which is a common vaginal infection in women aged 15 to 44 years. The antimicrobial therapy is only intended to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria [FDA Label].
+4. Indication:  Indicated for the treatment of bacterial vaginosis in adult women . 
+DrugId:  7
+1. Name:  Evernimicin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection.
+DrugId:  8
+1. Name:  Omiganan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection and rosacea.
+DrugId:  9
+1. Name:  Ethanol
+2. Groups:  Approved
+3. Description:  A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+4. Indication:  For therapeutic neurolysis of nerves or ganglia for the relief of intractable chronic pain in such conditions as inoperable cancer and trigeminal neuralgia (tic douloureux), in patients for whom neurosurgical procedures are contraindicated.
+DrugId:  10
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  11
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  12
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  13
+1. Name:  Pristinamycin
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Besifloxacin
+2. Groups:  Approved
+3. Description:  Besifloxacin is a fourth generation fluoroquinolone-type opthalmic antibiotic for the treatment of bacterial conjunctivitis. FDA approved on May 28, 2009.
+4. Indication:  Treatment of bacterial conjunctivitis. Bacterial isolates that are susceptible to besifloxacin include: CDC coryneform group G; Corynebacterium pseudodiphtheriticum; Corynebacterium striatum; Haemophilus influenzae; Moraxella lacunata; Staphylococcus aureus; Staphylococcus epidermidis; Staphylococcus hominis; Staphylococcus lugdunensis; Streptococcus mitis group; Streptococcus oralis; Streptococcus pneumoniae; Streptococcus salivarius* 
+DrugId:  15
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  16
+1. Name:  Streptomyces griseus
+2. Groups:  Approved
+3. Description:  Streptomyces griseus allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Rosoxacin
+2. Groups:  Approved, Investigational
+3. Description:  Rosoxacin is a quinolone derivative antibiotic for the treatment of bacterial infection of respiratory tract, urinary tract, GI, CNS and immuno compromised patients. Rosoxacin is known to be effective against penicillin resistant strains and is a single dose orally administered drug, which avoids all complications of parenteral administration seen with penicillin, especially anaphylactic shock.
+4. Indication:  For the treatment of bacterial infection of respiratory tract, urinary tract, GI, CNS and immuno compromised patients.
+DrugId:  18
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Cefacetrile
+2. Groups:  Approved
+3. Description:  A derivative of 7-aminocephalosporanic acid.
+4. Indication:  Cefacetrile is a broad-spectrum first generation cephalosporin antibiotic effective in Gram-positive and Gram-negative bacterial infections.
+DrugId:  20
+1. Name:  Triclosan
+2. Groups:  Approved, Investigational
+3. Description:  An aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes. [ChEBI]
+4. Indication:  Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers. It is also used in health care settings in surgical scrubs and personnel hand washes.
+DrugId:  21
+1. Name:  Garenoxacin
+2. Groups:  Investigational
+3. Description:  Garenoxacin (INN) is a quinolone antibiotic undergoing regulatory review for the treatment of gram-positive and gram-negative bacterial infections. [Wikipedia]
+4. Indication:  Investigated for use/treatment in bacterial infection.
+DrugId:  22
+1. Name:  Bordetella pertussis pertactin antigen
+2. Groups:  Approved
+3. Description:  Bordetella pertussis pertactin antigen is a vaccine for the prophylaxis of whooping cough that contains pertactin, a membrane-associated antigen of Bordetella pertussis [1].
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Viomycin
+2. Groups:  Approved
+3. Description:  Viomycin is a member of the tuberactinomycin family, a group of nonribosomal peptide antibiotics exhibiting anti-tuberculosis properties. The tuberactinomycin family is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis. Viomycin was the first member of the tuberactinomycins to be isolated and identified and was used to treat TB until it was replaced by the less toxic, but structurally related compound, capreomycin. The tuberactinomycins target bacterial ribosomes, binding RNA and disrupting bacterial protein biosynthesis. It is produced by the actinomycete Streptomyces puniceus, that binds to RNA and inhibits prokaryotic protein synthesis and certain forms of RNA splicing. [Wikipedia]
+4. Indication:  Viomycin is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis.
+DrugId:  24
+1. Name:  Flucloxacillin
+2. Groups:  Approved, Investigational
+3. Description:  Antibiotic analog of cloxacillin.
+4. Indication:  Used to treat bacterial infection by susceptible microorganisms.
+DrugId:  25
+1. Name:  Ceftibuten
+2. Groups:  Approved, Investigational
+3. Description:  Ceftibuten is a third-generation cephalosporin antibiotic. It is an orally-administered agent. Cefalexin is used to treat acute bacterial exacerbations of chronic bronchitis (ABECB), acute bacterial otitis media, pharyngitis, and tonsilitis.
+4. Indication:  Used to treat acute bacterial exacerbations of chronic bronchitis (ABECB), acute bacterial otitis media, pharyngitis, and tonsilitis.

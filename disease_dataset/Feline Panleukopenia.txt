@@ -1,0 +1,25 @@
+DrugId:  1
+1. Name:  Ctenocephalides felis
+2. Groups:  Approved
+3. Description:  Cat flea allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Felis catus skin
+2. Groups:  Approved
+3. Description:  Felis catus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Felis catus hair
+2. Groups:  Approved
+3. Description:  Domestic cat hair is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Cat dander extract
+2. Groups:  Approved
+3. Description:  Cat dander extract is either subcutaneously or intracutaneously administered and contains dry cat dander or dry defatted cat pelt. It is used in the diagnosis and treatment (immunotherapy) of patients with a history of allergy to cats. An allergic reaction to cats is induced by the presence of antigen-specific IgE antibodies that are bound to specific receptors on mast cells and basophils. The allergy diagnostic process involves assessing allergy history, clinical evaluation, and skin test reactivity. Cat dander extract can be used in immunotherapy in individuals who cannot avoid exposure to cat allergens to initiate hyposensitization.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Piroxicam
+2. Groups:  Approved, Investigational
+3. Description:  A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily. [PubChem]
+4. Indication:  For treatment of osteoarthritis and rheumatoid arthritis.

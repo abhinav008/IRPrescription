@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Serotonin
+2. Groups:  Investigational, Nutraceutical
+3. Description:  For temporary relief of nervousness, anxiety, mood swings, joint pains, weakness, drowsiness, itching and lethargy. Not evaluated by the FDA, homeopathic product.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Pipotiazine
+2. Groups:  Approved, Investigational
+3. Description:  Pipotiazine has actions similar to those of other phenothiazines. Among the different phenothiazine derivatives, it appears to be less sedating and to have a weak propensity for causing hypotension or potentiating the effects of CNS depressants and anesthetics. However, it produces a high incidence of extra pyramidal reactions. It is used for the maintenance treatment of chronic non-agitated schizophrenic patients. Symptoms of overdose include severe extrapyramidal manifestations, hypotension, lethargy and sedation.
+4. Indication:  For the maintenance treatment of chronic non-agitated schizophrenic patients.
+DrugId:  3
+1. Name:  Fencamfamine
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Fencamfamine (Glucoenergan, Reactivan) is a stimulant which was developed in the 1960s as an appetite suppressant, but was later withdrawn for this application due to problems with dependence and abuse. It is around half the potency of dexamphetamine, and is prescribed at a dose of 10-60mg, although abusers of the drug tend to rapidly develop tolerance and escalate their dose. Reactivan is still rarely used for treating depressive day-time fatigue, lack of concentration and lethargy, particularly in individuals who have chronic medical conditions, as its favourable safety profile makes it the most suitable drug in some cases. [Wikipedia]
+4. Indication:  For the the treatment of depressive fatigue in convalescence and other debilitated states as well as in the treatment of depressive day-time fatigue, lack of concentration and lethargy.
+DrugId:  4
+1. Name:  Guanfacine
+2. Groups:  Approved, Investigational
+3. Description:  A centrally acting antihypertensive agent. The drug lowers both systolic and diastolic blood pressure by activating the central nervous system alpha-2 adrenoreceptors, which results in reduced sympathetic outflow leading to reduced vascular tone. Its adverse reactions include dry mouth, sedation, and constipation. [PubChem]
+4. Indication:  For use alone or in combination with other classes of antihypertensive agents in the management of hypertension. Has also been used for the treatment of attention deficit hyperactivity disorder (ADHD) in pediatric patients.
+DrugId:  5
+1. Name:  Practolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist that has been used in the emergency treatment of cardiac arrhythmias. [PubChem]
+4. Indication:  Used in the emergency treatment of cardiac arrhythmias.
+DrugId:  6
+1. Name:  Apraclonidine
+2. Groups:  Approved
+3. Description:  Apraclonidine, also known as iopidine, is a sympathomimetic used in glaucoma therapy. It is an alpha2-adrenergic agonist.
+4. Indication:  For prevention or reduction of intraoperative and postoperative increases in intraocular pressure (IOP) before and after ocular laser surgery when used prophylactically. Also used as a short-term adjunctive therapy in patients with open-angle glaucoma who are on maximally tolerated medical therapy requiring additional IOP reduction.
+DrugId:  7
+1. Name:  Acetohydroxamic Acid
+2. Groups:  Approved
+3. Description:  Acetohydroxamic Acid, a synthetic drug derived from hydroxylamine and ethyl acetate, is similar in structure to urea. In the urine, it acts as an antagonist of the bacterial enzyme urease. Acetohydroxamic Acid has no direct antimicrobial action and does not acidify urine directly. It is used, in addition to antibiotics or medical procedures, to treat chronic urea-splitting urinary infections.
+4. Indication:  Used, in addition to antibiotics or medical procedures, to treat chronic urea-splitting urinary infections.
+DrugId:  8
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  9
+1. Name:  Valdecoxib
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Valdecoxib was removed from the Canadian, U.S., and E.U. markets in 2005 due to concerns about possible increased risk of heart attack and stroke.
+4. Indication:  For the treatment of osteoarthritis and dysmenorrhoea
+DrugId:  10
+1. Name:  Hydroflumethiazide
+2. Groups:  Approved, Investigational
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p822)
+4. Indication:  Used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. Also used in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  11
+1. Name:  Bumetanide
+2. Groups:  Approved
+3. Description:  A sulfamyl diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, hepatic and renal disease including the nephrotic syndrome.
+DrugId:  12
+1. Name:  Tiagabine
+2. Groups:  Approved, Investigational
+3. Description:  Tiagabine is an anti-convulsive medication. It is also used in the treatment for panic disorder as are a few other anticonvulsants. Though the exact mechanism by which tiagabine exerts its effect on the human body is unknown, it does appear to operate as a selective GABA reuptake inhibitor.
+4. Indication:  For the treatment of partial seizures
+DrugId:  13
+1. Name:  Tolmetin
+2. Groups:  Approved
+3. Description:  A non-steroidal anti-inflammatory agent (anti-inflammatory agents, NON-steroidal) similar in mode of action to indomethacin. [PubChem]
+4. Indication:  For the relief of signs and symptoms of rheumatoid arthritis and osteoarthritis, including the treatment of acute flares long-term management. Also for treatment of juvenile rheumatoid arthritis.
+DrugId:  14
+1. Name:  Nalidixic Acid
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic 1,8-naphthyridine antimicrobial agent with a limited bacteriocidal spectrum. It is an inhibitor of the A subunit of bacterial DNA gyrase. [PubChem]
+4. Indication:  For the treatment of urinary tract infections caused by susceptible gram-negative microorganisms, including the majority of E. Coli, Enterobacter species, Klebsiella species, and Proteus species.
+DrugId:  15
+1. Name:  Aminoglutethimide
+2. Groups:  Approved, Investigational
+3. Description:  An aromatase inhibitor that produces a state of "medical" adrenalectomy by blocking the production of adrenal steroids. It also blocks the conversion of androgens to estrogens. Aminoglutethimide has been used in the treatment of advanced breast and prostate cancer. It was formerly used for its weak anticonvulsant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p454)
+4. Indication:  For the suppression of adrenal function in selected patients with Cushing's syndrome, malignant neoplasm of the female breast, and carcinoma in situ of the breast.
+DrugId:  16
+1. Name:  Metolazone
+2. Groups:  Approved
+3. Description:  A quinazoline-sulfonamide that is considered a thiazide-like diuretic which is long-acting so useful in chronic renal failure. It also tends to lower blood pressure and increase potassium loss. [PubChem]
+4. Indication:  For the treatment of hypertension, alone or in combination with other antihypertensive drugs of a different class.
+DrugId:  17
+1. Name:  Pentostatin
+2. Groups:  Approved, Investigational
+3. Description:  A potent inhibitor of adenosine deaminase. The drug is effective in the treatment of many lymphoproliferative malignancies, particularly hairy-cell leukemia. It is also synergistic with some other antineoplastic agents and has immunosuppressive activity. [PubChem]
+4. Indication:  For the treatment of hairy cell leukaemia refractory to alpha interferon.
+DrugId:  18
+1. Name:  Colistimethate
+2. Groups:  Approved, Vet approved
+3. Description:  Colistimethate is an antibiotic that has been shown to have bactericidal activity against aerobic gram-negative microorganisms. Colistimethate is particularly indicated when the infection is caused by sensitive strains of Pseudomonas aeruginosa. 
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  19
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  20
+1. Name:  Oxprenolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+4. Indication:  Used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+DrugId:  21
+1. Name:  Colistin
+2. Groups:  Approved
+3. Description:  Cyclic polypeptide antibiotic from Bacillus colistinus. It is composed of Polymyxins E1 and E2 (or Colistins A, B, and C) which act as detergents on cell membranes. Colistin is less toxic than Polymyxin B, but otherwise similar; the methanesulfonate is used orally.
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  22
+1. Name:  Amantadine
+2. Groups:  Approved
+3. Description:  An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the chemoprophylaxis, prophylaxis, and treatment of signs and symptoms of infection caused by various strains of influenza A virus. Also for the treatment of parkinsonism and drug-induced extrapyramidal reactions.
+DrugId:  23
+1. Name:  Dantrolene
+2. Groups:  Approved, Investigational
+3. Description:  Chemically, dantrolene is a hydantoin derivative, but does not exhibit antiepileptic activity like other hydantoin derivates such as phenytoin.
+4. Indication:  For use, along with appropriate supportive measures, for the management of the fulminant hypermetabolism of skeletal muscle characteristic of malignant hyperthermia crises in patients of all ages. Also used preoperatively, and sometimes postoperatively, to prevent or attenuate the development of clinical and laboratory signs of malignant hyperthermia in individuals judged to be malignant hyperthermia susceptible.
+DrugId:  24
+1. Name:  Fosphenytoin
+2. Groups:  Approved, Investigational
+3. Description:  Fosphenytoin is a water-soluble phenytoin prodrug used only in hospitals for the treatment of epileptic seizures. It works by slowing down impulses in the brain that cause seizures. Its main mechanism is to block frequency-dependent, use-dependent and voltage-dependent neuronal sodium channels, and therefore limit repetitive firing of action potentials.
+4. Indication:  For the control of generalized convulsive status epilepticus and prevention and treatment of seizures occurring during neurosurgery. It can also be substituted, short-term, for oral phenytoin.
+DrugId:  25
+1. Name:  Magnesium acetate tetrahydrate
+2. Groups:  Approved
+3. Description:  Magnesium acetate tetrahydrate is a hydrated form of anhydrous magnesium acetate salt with the chemical formula of Mg(CH3COO)2 • 4H2O. As a salt form of magnesium, magnesium acetate is one of the bioavailable forms of magnesium and forms a very water soluble compound. Magnesium is an essential element and second most abundant cation in the body that plays a key role in maintaining normal cellular function such as production of ATP and efficient enzyme activity. Magnesium acetate tetrahydrate can be used as an electrolyte supplementation or a reagent in molecular biology experiments.
+4. Indication:  Used as magnesium salf-containing laxatives to prevent constipation. It can bring synergistic effect to restore normal bowel function when using in combination with aluminum salts that induce bowel retention [8]. Magnesium acetate tetrahydrate is used as a source of water and electrolytes when combined with dextrose and other salts to form intravenous infusions. This injection can be used for patients with carbohydrate or magnesium deficiency, insulin hypoglycemia, constipation or hypertension during pregnancy.

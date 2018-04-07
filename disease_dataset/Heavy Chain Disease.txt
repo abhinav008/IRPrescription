@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Iratumumab
+2. Groups:  Investigational
+3. Description:  Immunoglobulin G1, anti-(human CD30 (antigen)) (human monoclonal MDX-060 heavy chain), disulfide with human monoclonal MDX-060 light chain, dimer. Molecular weight is approximately 170,000 daltons. In phase I/II clinical trials for treatment of CD30+ lymphomas.
+4. Indication:  Investigated for use/treatment in lymphoma (unspecified).
+DrugId:  2
+1. Name:  Palivizumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized monoclonal antibody (IgG1k) produced by recombinant DNA technology, directed to an epitope in the A antigenic site of the F protein of respiratory syncytial virus (RSV). Synagis is a composite of human (95%) and murine (5%) antibody sequences. The human heavy chain sequence was derived from the constant domains of human IgG1 and the variable framework regions of the VH genes Cor (1) and Cess (2). The human lightchain sequence was derived from the constant domain of Ck and the variable framework regions of the VL gene K104 withJk-4. Palivizumab is expressed from a stable murine (mouse) myeloma cell line (NS0). Palivizumab is composed of to heavy chains (50.6 kDa each) and two light chains (27.6 kDa each), contains 1-2% carbohydrate by weight and has a molecular weight of 147.7 kDa +/- 1 kDa (MALDI-TOF)
+4. Indication:  For prophylaxis of respiratory diseases casued by respiratory syncytial virus.
+DrugId:  3
+1. Name:  Belimumab
+2. Groups:  Approved
+3. Description:  Belimumab is an intravenous immunosupressant for the adjunctive treatment of systemic lupus erythematosus (SLE). More specifically, it is a fully human recombinant IgG1λ monoclonal antibody produced from a recombinant NS0 cell line stably transfected with the belimumab heavy chain and light chain genes. It is the first biological treatment approved for the indication of SLE. Concomitant use with live or inactivated vaccines must be avoided. Belimumab was FDA approved on March 9, 2011. Belimumab consists of 2 heavy chains, and 2 light chains of the lambda subclass. Each heavy chain contains 452 amino acid residues and each light chain contains 214 amino acid residues. There are 3 post-translational modifications: a conserved N-linked glycosylation on the CH2 domain at Asn 303 of the heavy chain, the conversion of the N-terminal glutamine residue of the heavy chain into pyroglutamate, and loss of C-terminal lysine residue of the heavy chain.
+4. Indication:  Adjunct treatment for auto-antibody-positive active systemic lupus erythematosus. 
+DrugId:  4
+1. Name:  Dinutuximab
+2. Groups:  Approved, Investigational
+3. Description:  Dinutuximab is an IgG1 monoclonal human/mouse chimeric antibody against GD2, a disialoganglioside expressed on tumors of neuroectodermal origin, including human neuroblastoma and melanoma, with highly restricted expression on normal tissues. It is composed of the variable heavy- and light-chain regions of the murine anti-GD2 mAb 14.18 and the constant regions of human IgG1 heavy-chain and kappa light-chain. By binding to GD2, dinutiximab induces antibody-dependent cell-mediated cytotoxicity and complement-dependent cytotoxicity of tumor cells thereby leading to apoptosis and inhibiting proliferation of the tumour. It is indicated, in combination with granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-2 (IL-2), and 13-cis-retinoic acid (RA), for the treatment of pediatric patients with high-risk neuroblastoma who achieve at least a partial response to prior first-line multiagent, multimodality therapy. Despite a high clinical response seen after first-line treatment, the complete eradication of neuroblastoma is rarely achieved and the majority of patients with advanced disease suffer a relapse. Current strategies for treatment include immunotherapy with drugs such as dinutuximab to target surviving neuroblastoma cells and to prevent relapse.
+4. Indication:  Dinutuximab is indicated, in combination with granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-2 (IL-2), and 13-cis-retinoic acid (RA), for the treatment of pediatric patients with high-risk neuroblastoma who achieve at least a partial response to prior first-line multiagent, multimodality therapy. Despite a high clinical response seen after first-line treatment, the complete eradication of neuroblastoma is rarely achieved and the majority of patients with advanced disease suffer a relapse. Current strategies for treatment include immunotherapy with drugs such as dinutuximab to target surviving neuroblastoma cells and to prevent relapse.
+DrugId:  5
+1. Name:  Barium
+2. Groups:  Investigational
+3. Description:  Barium is under investigation for the diagnostic of Known or Suspected Abdominal Disease.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Coagulation Factor IX Human
+2. Groups:  Approved
+3. Description:  Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.
+4. Indication:  Factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection factor IX produced from human plasma. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.
+DrugId:  7
+1. Name:  Interferon gamma-1b
+2. Groups:  Approved, Investigational
+3. Description:  Human Interferon gamma-1b (140 residues), produced from E. coli. Production of Actimmune is achieved by fermentation of a genetically engineered Escherichia coli bacterium containing the DNA which encodes for the human protein. Purification of the product is achieved by conventional column chromatography.The sequence displayed is a cDNA sequence which codes for human interferon gamma, as described by Gray et. al. and not specifically interferon gamma 1b.
+4. Indication:  Interferon gamma-1b is used for the treatment of Chronic granulomatous disease and Osteopetrosis.
+DrugId:  8
+1. Name:  Cetuximab
+2. Groups:  Approved
+3. Description:  Cetuximab is an epidermal growth factor receptor binding FAB. Cetuximab is composed of the Fv (variable; antigen-binding) regions of the 225 murine EGFr monoclonal antibody specific for the N-terminal portion of human EGFr with human IgG1 heavy and kappa light chain constant (framework) regions. Cetuximab is marketed under the brand Erbitux® by Eli Lilly and Company. In the United States, a regimen of cetuximab costs approximately $30,790 for an eight-week course.
+4. Indication:  Cetuximab, used in combination with irinotecan, is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are refractory to irinotecan-based chemotherapy. Cetuximab administered as a single agent is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are intolerant to irinotecan-based chemotherapy.
+DrugId:  9
+1. Name:  Actinium
+2. Groups:  Investigational
+3. Description:  Actinium has been investigated for the treatment of Breast Cancer and Pulmonary Disease, Chronic Obstructive.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Tocilizumab
+2. Groups:  Approved
+3. Description:  Tocilizumab is a recombinant, humanized, anti-human interleukin 6 (IL-6) receptor monoclonal antibody that achieves a significant therapeutic response rate. The light chain is made up of 214 amino acids. The heavy chain is made up of 448 amino acids. The four polypeptide chains are linked intra- and inter-molecularly by disulfide bonds. FDA approved on January 8, 2010. Tocilizumab (injection) was further approved by the FDA for the treatment of adults with giant cell arteritis, an inflammation of the blood vessels (vasculitis) in May, 2017. In a double-blind, placebo-controlled study, the patients achieved sustained remission from Week 12 through Week 52, which was associated with significant improvements in symptoms of giant cell arteritis, normalization of inflammatory laboratory tests and tapering the use of corticosteroids [2].
+4. Indication:  Indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis (RA) who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs). It is also indicated for the treatment of active polyarticular juvenile idiopathic arthritis (PJIA) and active systemic juvenile idiopathic arthritis (SJIA) in patients 2 years of age and older.
+DrugId:  11
+1. Name:  Drotrecogin alfa
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Drotrecogin alfa is activated human protein C that is synthesized by recombinant DNA technology. It is a glycoprotein of approximately 55 kilodalton molecular weight, consisting of a heavy chain and a light chain linked by a disulfide bond. Drotrecogin alfa was withdrawn from the market after a major study indicated that it was not effective in improving outcomes in patients with sepsis. 
+4. Indication:  For reduction of mortality in patients with severe sepsis.
+DrugId:  12
+1. Name:  Certolizumab pegol
+2. Groups:  Approved
+3. Description:  Certolizumab pegol is a recombinant Fab' antibody fragment against tumor necrosis factor alpha which is conjugated to an approximately 40kDa polyethylene glycol (PEG2MAL40K). Polyethylene glycol helps to delay the metabolism and elimination of the drugs. Chemically, the light chain is made up of 214 amino acid residues while the heavy chain is composed of 229 amino acid residues. The molecular mass of the Fab' antibody fragment itself is 47.8 kDa. It is used for the treatment of rheumatoid arthritis and Crohn’s disease. FDA approved on April 22, 2008
+4. Indication:  Reducing signs and symptoms of Crohn's disease and treatment of moderately to severely active rheumatoid arthritis (RA). 
+DrugId:  13
+1. Name:  Elotuzumab
+2. Groups:  Approved
+3. Description:  Elotuzumab is a humanized IgG1 (Immunoglobulin G) monoclonal antibody indicated in combination with lenalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received one to three prior therapies. Elotuzumab targets SLAMF7, also known as Signaling Lymphocytic Activation Molecule Family member 7, a cell surface glycoprotein. Elotuzumab consists of the complementary determining regions (CDR) of the mouse antibody, MuLuc63, grafted onto human IgG1 heavy and kappa light chain frameworks. Elotuzumab is produced in NS0 cells by recombinant DNA technology. Elotuzumab has a theoretical mass of 148.1 kDa for the intact antibody. Elotuzumab was approved on November 30, 2015 by the U.S. Food and Drug Administration. Elotuzumab is marketed under the brand Empliciti™ by Bristol-Myers Squibb. 
+4. Indication:  Indicated in combination with lenalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received one to three prior therapies.
+DrugId:  14
+1. Name:  Basiliximab
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant chimeric (murine/human) monoclonal antibody (IgG1k) that functions as an immunosuppressive agent, specifically binding to and blocking the interleukin-2 receptor a-chain (IL-2R alpha, also known as CD25 antigen) on the surface of activated T-lymphocytes. It is a 144 kDa glycoprotein obtained from fermentation of an established mouse myeloma cell line genetically engineered to express plasmids containing the human heavy and light chain constant region genes and mouse heavy and light chain variable region genes encoding the RFT5 antibody that binds selectively to the IL-2R alpha.
+4. Indication:  For prophylactic treatment of kidney transplant rejection
+DrugId:  15
+1. Name:  Coagulation Factor IX (Recombinant)
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant Coagulation Factor IX is a purified Factor IX glycoprotein produced by recombinant DNA technology. It has a primary amino acid sequence that is identical to the Ala148 allelic form of human factor IX, and has structural and functional characteristics similar to those of endogenous factor IX. It is not derived from human blood (unlike human Factor IX complex), and is instead produced by a genetically engineered Chinese hamster ovary (CHO) cell line that secretes recombinant Factor IX into cell medium that is then processed and purified for use as a pharmaceutical agent. Recombinant Factor IX is indicated for the control and prevention of bleeding episodes in adult and pediatric patients with congenital factor IX deficiency (Hemophilia B).
+4. Indication:  For treatment of hemophilia (Christmas disease).
+DrugId:  16
+1. Name:  Fibrinolysin
+2. Groups:  Investigational
+3. Description:  Fibrinolysin (also known as bovine plasmin) is a bovine enzyme derived from bovine plasma or extracted from bacterial cultures. It is a globular protein with a molecular weight of ~90,000 daltons. Fibrinolysin consists of two polypeptide chains, one light and one heavy, linked by a disulfide bond. The light chain has a molecular weight of approximately 27,000 Da and contains the active center of Fibrinolysin; the heavy chain has a molecular weight of approximately 57,000 Da. Fibrinolysin is used as a local healing ointment when combined together with the enzyme deoxyribonuclease I (extracted from bovine pancreas). Fibrinolysin and deoxyribonuclease both act as lytic enzymes. The combination is available as ointment containing 1 BU (Biological Unit) Fibrinolysin and 666 BUs desoxyribonuclease per gram. The ointment is marketed by Pfizer under the brand name Fibrolan in a variety of countries (e.g. Switzerland). It is currently not approved in the USA.
+4. Indication:  Fibrinolysin assists with the healing of minor burns, superficial wounds, ulcers, surgical wounds, and superficial hematomas.
+DrugId:  17
+1. Name:  Rituximab
+2. Groups:  Approved
+3. Description:  Rituxan is a genetically engineered chimeric murine/human monoclonal antibody directed against the CD20 antigen found on the surface of normal and malignant B lymphocytes. The antibody is an IgG1 kappa immunoglobulin containing murine light- and heavy-chain variable region sequences and human constant region sequences. Rituximab is composed of two heavy chains of 451 amino acids and two light chains of 213 amino acids
+4. Indication:  For treatment of CD20-positive non-Hodgkins lymphoma, chronic lymphocytic leukemia, and rheumatoid arthritis.
+DrugId:  18
+1. Name:  Coagulation factor X human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation Factor X (Human), is a plasma-derived human blood coagulation factor is used by adults and children (aged 12 years and above) with hereditary Factor X deficiency. However its use is limited in the perioperative setting for the management of bleeding in major surgery in patients with moderate and severe hereditary Factor X deficiency. Coagulation Factor X is a vitamin K-dependent, liver-produced serine protease that serves as the first enzyme in the coagulation cascade to form fibrin. It is a two-chain glycoprotein with the molecular weight of approximately 59 kDa [2]. While Factor X normally circulates in the plasma as inactive molecules, the activation of Factor X is involved in both the intrinsic and extrinsic coagulation pathways. Inherited factor X deficiency is a rare autosomal recessive bleeding disorder that is estimated to occur in 1:1 000 000 individuals up to 1:500 carriers [1]. Administration of coagulation Factor X from healthy donor serves to restore and achieve effective hemostasis. Coagulation Factor X (Human) solution is approved by the FDA for intravenous injection under the market name Coagadex which contains normally 100 IU/mL of coagulation Factor X derived from healthy donors who have passed viral screening tests [FDA Label].
+4. Indication:  Indicated in adults and children (aged 12 years and above) with hereditary Factor X deficiency for on-demand treatment and control of bleeding episodes, or for perioperative management of bleeding in patients with mild hereditary Factor X deficiency [FDA Label]. 
+DrugId:  19
+1. Name:  Lyme disease vaccine (recombinant OspA)
+2. Groups:  Approved, Withdrawn
+3. Description:  Vaccine against Lyme disease that contains lipoprotein OspA, an outer surface protein of Borrelia burgdorferi sensu stricto ZS7, as expressed by Escherichia coli. Lipoprotein OspA is a single polypeptide chain of 257 amino acids with lipids covalently bonded to the N terminus. It is conjugated with alum (aluminum hydroxide) as an adjuvant.
+4. Indication:  For prophylactic treatment of Lyme Disease
+DrugId:  20
+1. Name:  Octacosanol
+2. Groups:  Nutraceutical
+3. Description:  1-octacosanol is a straight-chain aliphatic 28-carbon primary fatty alcohol that is used as a nutritional supplement. This high–molecular-weight organic compound is the main component of a natural product wax extracted from plants [1]. 1-octacosanol is reported to possess cholesterol-lowering effects, antiaggregatory properties, cytoprotective use, and ergogenic properties [1]. It has been studied as a potential therapeutic agent for the treatment of Parkinson's disease.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Perflubutane
+2. Groups:  Approved, Investigational
+3. Description:  Perflubutane has been used in trials studying the diagnostic of Liver Mass, Liver Diseases, Liver Metastasis, Portal Hypertension, and Peripheral Artery Disease. It is a cardiovascular drug designed to enable ultrasound to compete more effectively with nuclear stress testing; currently the leading procedure for detecting coronary heart disease.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Tiomolibdate ion
+2. Groups:  Investigational
+3. Description:  Tetrathiomolybdate is an oral, small-molecule, anticopper agent that is highly specific for lowering the levels of free copper in serum. COPREXA has completed pivotal clinical trials for the treatment of neurologic Wilson's disease. It is also developed for fibrotic disorders based upon the rationale that the fibrotic disease process is dependent upon the availability of free copper in the body.
+4. Indication:  Investigated for use/treatment in liver disease and pulmonary fibrosis.
+DrugId:  23
+1. Name:  Eculizumab
+2. Groups:  Approved, Investigational
+3. Description:  Soliris is a formulation of eculizumab which is a recombinant humanized monoclonal IgG2/4;κ antibody produced by murine myeloma cell culture and purified by standard bioprocess technology. Eculizumab contains human constant regions from human IgG2 sequences and human IgG4 sequences and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions. Eculizumab is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148 kDa.
+4. Indication:  For the treatment of patients with paroxysmal nocturnal hemoglobinuria (PNH) to reduce hemolysis.
+DrugId:  24
+1. Name:  Caprospinol
+2. Groups:  Investigational
+3. Description:  Caprospinol (SP-233) is the first drug ever to demonstrate the correlation of clearing beta-amyloid from the brain. It also improves the brain histopathology and recovers memory function.
+4. Indication:  Alzheimer's Disease
+DrugId:  25
+1. Name:  Turoctocog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Turoctocog alfa is a recombinant factor VIII (rFVIII) with a truncated B-domain made from the sequence coding for 10 amino acids from the N-terminus and 11 amino acids from the C-terminus of the naturally occurring B-domain. Turoctocog alfa is produced in Chinese hamster ovary (CHO) cells without addition of any human- or animal-derived materials. During secretion, some rFVIII molecules are cleaved at the C-terminal of the heavy chain (HC) at amino acid 720, and a monoclonal antibody binding C-terminal to this position is used in the purification process allowing isolation of the intact rFVIII.[1] It was developped by Novo Nordisk and FDA approved in October 16, 2013.[6]
+4. Indication:  Turoctocog alfa is indicated for the treatment and prophylaxis of bleedings in patients presenting hemophilia A.[7] The treatment with turoctocog alfa is related with its use to control bleeding episodes or as a perioperative management.[8] Hemophilia A is a hereditary hemorrhagic disorder generated by the congenital deficit of the coagulation factor VIII. This disease is manifested as excessive spontaneous or trauma-driven bleeding. The coagulation factor VIII is a robust initiator of thrombin which is later required for the generation of fibrin to form a platelet plug and its gene is expressed in the X chromosome.[2]

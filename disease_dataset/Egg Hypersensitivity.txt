@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Egg
+2. Groups:  Approved
+3. Description:  Egg allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Egg yolk
+2. Groups:  Approved
+3. Description:  Egg yolk allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Egg white
+2. Groups:  Approved
+3. Description:  Egg white allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Carbon Black
+2. Groups:  Investigational
+3. Description:  Carbon Black has been used in trials studying Atopic Hypersensitivity and Hypersensitivity, Immediate.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Eggplant
+2. Groups:  Approved
+3. Description:  Eggplant allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ancrod
+2. Groups:  Approved, Investigational
+3. Description:  Ancrod (current brand name: Viprinex) is a defibrinogenating agent derived from the venom of the Malayan pit viper. The defribrinogenation of blood results in an anticoagulant effect. Currently, Viprinex®/ancrod is not approved or marketed in any country, but is being investigated as a stroke treatment in worldwide clinical trials. In January 2005, the U.S. FDA granted a 'fast-track status' for investigation of ancrod use in patients suffering from acute ischemic stroke, a life threatening condition caused by the blockage of blood vessels supplying blood and oxygen to portions of the brain, for which phase III trials are currently being conducted.
+4. Indication:  For the treatment of established deep vein thrombosis; central retinal and branch vein thrombosis; priapism; pulmonary hypertension of embolic origin; embolism after insertion of prosthetic cardiac valves; rethrombosis after thrombolytic therapy and rethrombosis after vascular surgery. It is also indicated for the prevention of deep venous thrombosis after repair of the fractured neck of a femur.
+DrugId:  7
+1. Name:  Coccidioides immitis spherule
+2. Groups:  Approved
+3. Description:  Coccidioides immitis spherule is a skin test antigen indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis.
+4. Indication:  Indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis. Use in 18-64 year old patients. A positive result occurs if 48h after administration if the diameter of the induration is >5mm. 
+DrugId:  8
+1. Name:  Ranpirnase
+2. Groups:  Investigational
+3. Description:  Ranpirnase is a ribonuclease enzyme found in Rana pipiens oocytes. It is being studied in the treatment of cancer. It is manufactured by Alfacell Corporation. It is the first ribonuclease to enter cancer clinical trials.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  9
+1. Name:  Diphencyprone
+2. Groups:  Investigational
+3. Description:  Diphencyprone has been used in trials studying the treatment and basic science of Melanoma, Ultraviolet Rays, Immunosuppression, Neoplasm Metastasis, and Hypersensitivity, Delayed, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  11
+1. Name:  Oxamniquine
+2. Groups:  Approved
+3. Description:  An anthelmintic with schistosomicidal activity against Schistosoma mansoni, but not against other Schistosoma spp. Oxamniquine causes worms to shift from the mesenteric veins to the liver where the male worms are retained; the female worms return to the mesentery, but can no longer release eggs. (From Martidale, The Extra Pharmacopoeia, 31st ed, p121)
+4. Indication:  For treatment of Schistosomiasis caused by Schistosoma mansoni
+DrugId:  12
+1. Name:  Asparaginase Erwinia chrysanthemi
+2. Groups:  Approved, Investigational
+3. Description:  Erwinaze (asparaginase Erwinia chrysanthemi) contains an asparaginase specific enzyme derived from Erwinia chrysanthemi [4]. Specifically, this L-asparaginase is a tetrameric enzyme consisting of four identical subunits, each having a molecular weight of about 35 kDa [4]. The activity of Erwinaze is expressed in terms of International Units. It is an antineoplastic agent and was FDA approved in November 19, 2011 [4].
+4. Indication:  Asparaginase Erwinia chrysanthemi is for the treatment of patients with acute lymphoblastic leukemia (ALL) that have developed a hypersensitivity to E. coli-derivied asparaginase [4]. It is a component of a multi-agent chemotherpeutic regimen [4] for the treatment of the aforementioned disease and is considered second- or third- line treatment in European and American protocols [1]. 
+DrugId:  13
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  14
+1. Name:  Pemirolast
+2. Groups:  Approved, Investigational
+3. Description:  Pemirolast potassium is a slightly yellow powder that is soluble in water. It is a mast cell stabilizer that acts as an antiallergic agent. As an ophthalmic aqueous sterile solution, pemirolast is used for the prevention of itching of the eyes caused by allergies such as hay fever, and allergic conjunctivitis. Pemirolast is potentially useful for prophylaxis of pulmonary hypersensitivity reactions to drugs such as paclitaxel.
+4. Indication:  For the prevention of itching of the eyes caused by allergies such as hay fever, and allergic conjunctivitis
+DrugId:  15
+1. Name:  Etonogestrel
+2. Groups:  Approved, Investigational
+3. Description:  Etonogestrel is a molecule used in hormonal contraceptives, most notably the subdermal implant Implanon.
+4. Indication:  For use as a female contraceptive (depot).
+DrugId:  16
+1. Name:  Hydrogen peroxide
+2. Groups:  Approved, Vet approved
+3. Description:  Hydrogen peroxide is the simplest peroxide with a chemical formula H2O2. Hydrogen peroxide is an unstable compound in the presence of a base or catalyst, and is typically stored with a stabilizer in a weakly acidic solution. If heated to its boiling point, it may undergo potentially explosive thermal decomposition. Hydrogen peroxide is formed in the body of mammals during reduction of oxygen either directly in a two-electron transfer reaction [4]. As a natural product of metabolism, it readily undergoes decomposition by catalase in normal cells [4]. Due to its potent and broad-spectrum antimicrobial actions, hydrogen peroxide is used in both liquid and gas form for preservative, disinfection and sterilization applications as an oxidative biocide [1]. It is used in industrial and cosmetic applications as a bleaching agent. Hydrogen peroxide is also considered as a generally recognized as safe compound by the FDA [4]; it is used as an antimicrobial agent in starch and cheese products, and as an oxidizing and reducing agent in products containing dried eggs, dried egg whites, and dried egg yolks.
+4. Indication:  Indicated to be used as a disinfectant and sterilizer. 
+DrugId:  17
+1. Name:  Lodoxamide
+2. Groups:  Approved
+3. Description:  Lodoxamide is a mast-cell stabilizer for topical administration into the eye. Mast-cell stabilizers, first one approved being cromolyn sodium, are used in treatment of ocular hypersensitivity reactions such as vernal conjunctivitis. These conditions often require treatment with anti-inflammatory medications such as ophthalmic NSAIDs or topical steroids which may cause systemic or toxic effects long-term. Although less effective than topical steroids at decreasing inflammation, mast-cell stabilizers offer another treatment option and exhibit minimal adverse effects. Lodoxamide is marketed under the brand name Alomide by Alcon. 
+4. Indication:  Indicated in the treatment of the ocular disorders referred to by the terms vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  18
+1. Name:  Pegaspargase
+2. Groups:  Approved, Investigational
+3. Description:  Pegylated L-asparagine amidohydrolase from E. coli. Pegylation substantially (by a factor of 4) extends the protein half life.
+4. Indication:  For treatment of acute lymphoblastic leukemia
+DrugId:  19
+1. Name:  Thiabendazole
+2. Groups:  Approved, Vet approved
+3. Description:  2-Substituted benzimidazole first introduced in 1962. It is active against a variety of nematodes and is the drug of choice for strongyloidiasis. It has CNS side effects and hepatototoxic potential. (From Smith and Reynard, Textbook of Pharmacology, 1992, p919)
+4. Indication:  For the treatment of strongyloidiasis (threadworm), cutaneous larva migrans (creeping eruption), visceral larva migrans, and trichinosis.
+DrugId:  20
+1. Name:  Mafenide
+2. Groups:  Approved, Vet approved
+3. Description:  Mafenide is a sulfonamide-type medication used to treat severe burns. It acts by reducing the bacterial population present in the burn tissue and promotes healing of deep burns. 
+4. Indication:  Mafenide is indicated in the treatment of severe burns.
+DrugId:  21
+1. Name:  Pirbuterol
+2. Groups:  Approved
+3. Description:  Pirbuterol is a beta-2 adrenergic bronchodilator. In vitro studies and in vivo pharmacologic studies have demonstrated that pirbuterol has a preferential effect on beta-2 Adrenergic receptors compared with isoproterenol. While it is recognized that beta-2 adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta-2 receptors in the human heart, existing in a concentration between 10-50%. The precise function of these receptors has not been established.The pharmacologic effects of beta adrenergic agonist drugs, including pirbuterol, are at least in proof attributable to stimulation through beta adrenergic receptors of intracellular adenyl cyclase, the enzyme which catalyzes the conversion of adenosine triphosphate (AlP) to cyclic-3† ,5†-adenosine monophosphate (c-AMP). Increased c-AMP levels are associated with relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible bronchospasm including asthma.
+DrugId:  22
+1. Name:  Ethynodiol diacetate
+2. Groups:  Approved
+3. Description:  A synthetic progestational hormone used alone or in combination with estrogens as an oral contraceptive. Although etynodiol or ethynodiol are sometimes used as a synonym for ethynodiol diacetate, what is usually being referred to is actually ethynodiol diacetate and not ethynodiol (which is a separate drug that has never been marketed, see Ethynodiol).
+4. Indication:  For the prevention of pregnancy in women who elect to use this product as a method of contraception.
+DrugId:  23
+1. Name:  Cholecystokinin
+2. Groups:  Approved, Investigational
+3. Description:  Cholecystokinin ( also known as CCK or CCK-PZ) is a peptide hormone of the gastrointestinal system which is responsible for stimulating the digestion of fat and protein. Cholecystokinin, previously called pancreozymin, is synthesized and secreted by enteroendocrine cells in the duodenum (the first portion of the small intestine) and leads to the release of bile and digestive enzymes. CCK also acts as an appetite suppressant and has been studied for weight management regimens [12]. Normally, it is an endogenous hormone but is available commercially for diagnostic processes and replacement in pancreatic insufficiency [21, 22, 23]. in the octapeptide form.Cholecystokinin is one of the first gastrointestinal hormones discovered, identified more than 90 years ago due to its ability to stimulate gallbladder contraction in 1928. Soon after, it was recognized to be identical to the factor responsible for stimulating pancreatic exocrine secretion in 1943 [11]. This hormone has also been shown to have positive effects on enteric smooth muscle contraction and on nerve activity at multiple locations in the peripheral and central nervous system. In addition to its roles in promoting smooth muscle cell contraction/exocrine cell secretion, CCK promotes cell growth, energy production, gene expression and protein synthesis, processes that have profound for drug development [11]. This drug has also been investigated for possible antipsychotic properties, owing to its effect on CCK receptors in the brain [13].Recent studies have suggested that cholecystokinin also plays a major role in inducing drug tolerance to opioids such as morphine and heroin, and is partially implicated in experiences of pain hypersensitivity during opioid withdrawal [1].
+4. Indication:  For use as a diagnostic aid for evaluation of gallbladder disorders. It is also used in conjunction with secretin in pancreatic insufficiency [9].
+DrugId:  24
+1. Name:  Olopatadine
+2. Groups:  Approved
+3. Description:  Used to treat allergic conjunctivitis (itching eyes), olopatadine inhibits the release of histamine from mast cells. It is a relatively selective histamine H1 antagonist that inhibits the in vivo and in vitro type 1 immediate hypersensitivity reaction including inhibition of histamine induced effects on human conjunctival epithelial cells.
+4. Indication:  For the treatment of ocular itching associated with allergic conjunctivitis.
+DrugId:  25
+1. Name:  Isoetarine
+2. Groups:  Approved
+3. Description:  Isoetarine is a selective adrenergic beta-2 agonist used as fast acting bronchodilator for emphysema, bronchitis and asthma. [PubChem]
+4. Indication:  For the treatment of asthma, wheezing, and chronic asthmatic bronchitis.

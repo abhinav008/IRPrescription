@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  MM-093
+2. Groups:  Investigational
+3. Description:  MM-093 is a recombinant version of human alpha-fetoprotein (hAFP), an immunomodulatory serum protein normally produced at very high levels by the fetus and present in low levels in the blood of adults and children. Research on AFP suggests that it may play a role in modulating the immune system of the mother in order to protect the developing fetus during pregnancy. The presence of hAFP in the pregnant mother’s blood has long been associated with remission of many autoimmune diseases, including rheumatoid arthritis, psoriasis and multiple sclerosis, during the third trimester of pregnancy. Current studies are assessing MM-093’s potential to improve the treatment of autoimmune disease.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, psoriasis and psoriatic disorders, and rheumatoid arthritis.
+DrugId:  2
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  3
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  4
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  5
+1. Name:  KB002
+2. Groups:  Investigational
+3. Description:  KB002 is an engineered human IgG1k antibody engineered human. It is developed for the treatment of autoimmune diseases, initially rheumatoid arthritis.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  6
+1. Name:  Nerispirdine
+2. Groups:  Investigational
+3. Description:  Nerispirdine has been used in trials studying the treatment of Neuritis, Optic Nerve, and Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  8
+1. Name:  humanized SMART Anti-IL-12 Antibody
+2. Groups:  Investigational
+3. Description:  The humanized anti-IL-12 antibody is an important addition to PDL's already strong pipeline of humanized antibodies being developed for the treatment of autoimmune diseases. SMART Anti-IL-12 Antibody was humanized at PDL from a murine anti-IL-12 antibody that was licensed, together with certain intellectual property related to anti-IL-12 therapy, from Hoffmann-La Roche Inc. IL-12 is a cytokine that may have considerable potential as a target in the therapy of autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  9
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  10
+1. Name:  Briakinumab
+2. Groups:  Investigational
+3. Description:  Briakinumab is a human anti-IL-12 monoclonal antibody being developed for the treatment of a number of T-cell driven autoimmune diseases. It targets and neutralize interleukin-12 and interleukin-23, two proteins associated with inflammation, such as pro-inflammatory interleukins or tumor necrosis factor- alpha. Briakinumab represents a novel approach to treating psoriasis, Multiple Sclerosis, Crohn’s Disease and other autoimmune and inflammatory disorders. As of 2011 drug development for psoriasis has been discontinued in the U.S. and Europe.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, crohn's disease, multiple sclerosis, psoriasis and psoriatic disorders, and rheumatoid arthritis.
+DrugId:  11
+1. Name:  Cannabinor
+2. Groups:  Investigational
+3. Description:  Cannabinor a synthetic CB2-selective agonist, is in Phase 2 clinical testing as an analgesic.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  12
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  13
+1. Name:  Otelixizumab
+2. Groups:  Investigational
+3. Description:  Otelixizumab is a monoclonal antibody that binds to a receptor found on all T cells called CD3, which is involved in normal T cell signaling. Otelixizumab is believed to inhibit the function of autoreactive T cells, which are important in propagating autoimmune diseases, while inducing regulatory T cell pathways that promote immunological tolerance and inhibit autoreactive disease activity. Tolerx is developing otelixizumab to treat patients with type 1 diabetes, psoriasis and other autoimmune diseases such as rheumatoid arthritis.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1, pediatric indications, and psoriasis and psoriatic disorders.
+DrugId:  14
+1. Name:  SC12267
+2. Groups:  Investigational
+3. Description:  SC12267 is a novel, small molecule agent from the class of DMARDs (disease modifying anti-rheumatic drug) for the therapy of autoimmune diseases such as rheumatoid arthritis or multiple sclerosis. Through highly selective inhibition of pyrimidine biosynthesis, it controls the growth of rapidly proliferating cells, especially of lymphocytes, which are important for the immune response.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and rheumatoid arthritis.
+DrugId:  15
+1. Name:  VX-148
+2. Groups:  Investigational
+3. Description:  VX-148 is a second-generation, orally administered inhibitor of inosine monophosphate dehydrogenase (IMPDH). The IMPDH enzyme plays a key role in regulating immune response and proliferation of specific cell types, including lymphocytes. VX-148 is a developed for the treatment of autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, psoriasis and psoriatic disorders, and viral infection.
+DrugId:  16
+1. Name:  Atacicept
+2. Groups:  Investigational
+3. Description:  Atacicept is a recombinant fusion protein combined with the extracellular ligand binding portion of TACI.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, systemic lupus erythematosus, rheumatoid arthritis, multiple myeloma, lymphoma (non-hodgkin's), and leukemia (lymphoid).
+DrugId:  17
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  18
+1. Name:  Tabalumab
+2. Groups:  Investigational
+3. Description:  Tabalumab has been used in trials studying the treatment of Autoimmune Disease, Rheumatoid Arthritis, Kidney Failure, Chronic, Connective Tissue Disease, and Systemic Lupus Erythematosus, among others.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Namilumab
+2. Groups:  Investigational
+3. Description:  Namilumab has been used in trials studying the treatment of Plaque Psoriasis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  MDX-018
+2. Groups:  Investigational
+3. Description:  MDX-018, also known as HuMax-Inflam, is a fully human antibody that is directed to IL-8 (interleukin-8) and may have potential application in oncology and inflammation. Trials will initially focus on studies to treat glioblastoma, a cancer of the central nervous system. Other possible indications include chronic obstructive pulmonary disease (COPD) and pustular dermatoses. In pre-clinical studies, HuMax-Inflam has been shown to inhibit tumor growth in tumor models using primary human tumors in immunodeficient mice. HuMax-Inflam was also effective in reducing disease activity in palmoplantar pustulosis patients in a clinical study.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  21
+1. Name:  PMI-001
+2. Groups:  Investigational
+3. Description:  PMI-001 is a stand-alone, disease-modifying, anti-rheumatic drug (DMARD) being developed by Phytomedics Inc. It is an extract of the roots of an undisclosed perennial shrub which interferes with the production of IL-2 and COX-2 proteins, for the potential treatment of autoimmune diseases, such as rheumatoid arthritis, lupus erythematosus and psoriasis.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  22
+1. Name:  TAFA-93
+2. Groups:  Investigational
+3. Description:  TAFA93 is a novel prodrug of the mTOR inhibitor rapamycin which has successfully completed Phase 1 clinical development. mTOR inhibitors are currently used in the prevention of organ rejection in transplantation, the treatment of autoimmune and oncological diseases, and as a component of coated stents for the treatment of coronary artery disease.
+4. Indication:  Investigated for use/treatment in transplant (rejection).
+DrugId:  23
+1. Name:  Molgramostim
+2. Groups:  Investigational
+3. Description:  Molgramostim has been used in trials studying the treatment of Bronchiectasis, Cystic Fibrosis, Pulmonary Alveolar Proteinosis, Acute Respiratory Distress Syndrome, and Autoimmune Pulmonary Alveolar Proteinosis.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Sifalimumab
+2. Groups:  Investigational
+3. Description:  Sifalimumab is a fully human monoclonal antibody targeting interferon-alpha. The levels of interferon-alpha are elevated in many patients with active systemic lupus erythematosus (SLE, or lupus) and other autoimmune disorders, and may be associated with disease activity. Sifalimumab may suppress the abnormal immune activity associated with lupus by binding to multiple interferon-alpha subtypes seen in the serum of lupus patients.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Atl146e
+2. Groups:  Investigational
+3. Description:  ATL146e is an anti-inflammatory compounds which is an agonist of A2A adenosine receptors. 
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified).

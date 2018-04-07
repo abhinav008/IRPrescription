@@ -1,0 +1,105 @@
+DrugId:  1
+1. Name:  Entolimod
+2. Groups:  Investigational
+3. Description:  Entolimod has been used in trials studying the treatment of Mucositis, Tongue Cancer, Colorectal Cancer, Stage IVA Verrucous Carcinoma of the Larynx, and Stage IVB Verrucous Carcinoma of the Larynx, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Palifermin
+2. Groups:  Approved
+3. Description:  Palifermin is a recombinant human keratinocyte growth factor (KGF). It is 140 residues long, and is produced using E. coli.
+4. Indication:  For treatment of oral mucositis associated with chemotherapy and radiation therapy.
+DrugId:  3
+1. Name:  Motolimod
+2. Groups:  Investigational
+3. Description:  Motolimod has been used in trials studying the treatment of Lymphoma, Tongue Cancer, Ovarian Cancer, Adult Solid Neoplasm, and Fallopian Tube Cancer, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Hexylcaine
+2. Groups:  Approved, Withdrawn
+3. Description:  Hexylcaine hydrochloride, also called cyclaine (Merck) or osmocaine, is a short-acting local anesthetic. It acts by inhibiting sodium channel conduction. Overdose can lead to headache, tinnitus, numbness and tingling around the mouth and tongue, convulsions, inability to breathe, and decreased heart function. Hexylcaine has been discontinued in the US market. 
+4. Indication:  Used as a local anesthetic for surface application, infiltration or nerve block
+DrugId:  5
+1. Name:  MK-1775
+2. Groups:  Investigational
+3. Description:  MK-1775 has been used in trials studying the treatment of LYMPHOMA, Neoplasms, Ovarian Cancer, Tongue Carcinoma, and Adult Glioblastoma, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Sulpiride
+2. Groups:  Approved, Investigational
+3. Description:  A dopamine D2-receptor antagonist. It has been used therapeutically as an antidepressant, antipsychotic, and as a digestive aid. (From Merck Index, 11th ed)
+4. Indication:  Sulpiride is indicated for the treatment of schizophrenia.
+DrugId:  7
+1. Name:  Bromodiphenhydramine
+2. Groups:  Approved
+3. Description:  Bromodiphenhydramine is an ethanolamine antihistamine with antimicrobial property. Bromodiphenhydramine is used in the control of cutaneous allergies. Ethanolamine antihistamines produce marked sedation in most patients
+4. Indication:  For management of symptoms related to hay fever and other types of allergy and used to help bring up phlegm, thin secretions, and make a cough productive.
+DrugId:  8
+1. Name:  Ambenonium
+2. Groups:  Approved
+3. Description:  Ambenonium is a cholinesterase inhibitor used in the management of myasthenia gravis. [Wikipedia]
+4. Indication:  Ambenonium is used to treat muscle weakness due to muscle disease (myasthenia gravis).
+DrugId:  9
+1. Name:  Salmon Calcitonin
+2. Groups:  Approved, Investigational
+3. Description:  Synthetic peptide, 32 residues long formulated as a nasal spray.
+4. Indication:  Used in the treatment of symptomatic Paget's disease for patients unresponsive to alternate treatments or intolerant to such treatments. In addition, it is used in emergency situations when serum calcium levels must be decreased quickly until the underlying condition is identified. It can also be added to existing therapeutic regimens for hypercalcemia such as intravenous fluids and furosemide, oral phosphate or corticosteroids, or other agents. Calcitonin can be used in patients with azotemia and cases where intravenous fluids would be contraindicated due to limited cardiac reserves. Also for the treatment of post-menopausal osteoporosis in women more than 5 years post-menopause. 
+DrugId:  10
+1. Name:  Enalaprilat
+2. Groups:  Approved
+3. Description:  Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume. Enalaprilat was originally created to overcome the limitations of the first ACE inhibitor, captopril, which had numerous side effects and left a metallic taste in the mouth. Removal of the problematic thiol group from captopril resulted in enalaprilat, which was then modified further with an ester to create the orally available pro-drug enalapril.Enalaprilat is poorly orally available and is therefore only available as an intravenous injection for the treatment of hypertension when oral therapy is not possible.
+4. Indication:  Enalaprilat injection is indicated for the treatment of hypertension when oral therapy is not practical.
+DrugId:  11
+1. Name:  Iron saccharate
+2. Groups:  Approved
+3. Description:  Iron saccharate (Sucroferric oxyhydroxide or Iron Sucrose) is used as a source of iron in patients with iron deficiency anemia with chronic kidney disease (CKD), including those who are undergoing dialysis (hemodialysis or peritoneal) and those who do not require dialysis. Due to less side effects than iron dextran, iron saccharate is more preferred in chronic kidney disease patients.
+4. Indication:  Iron sucrose is elemental iron as an injection. It replenishes body iron stores in patients with iron deficiency.
+DrugId:  12
+1. Name:  Cloxacillin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A semi-synthetic antibiotic that is a chlorinated derivative of oxacillin.
+4. Indication:  Used to treat infections caused by penicillinase-producing staphylococci, including pneumococci, group A beta-hemolytic streptococci, and penicillin G-sensitive and penicillin G-resistant staphylococci.
+DrugId:  13
+1. Name:  Dopamine
+2. Groups:  Approved
+3. Description:  One of the catecholamine neurotransmitters in the brain. It is derived from tyrosine and is the precursor to norepinephrine and epinephrine. Dopamine is a major transmitter in the extrapyramidal system of the brain, and important in regulating movement. A family of receptors (receptors, dopamine) mediate its action.
+4. Indication:  For the correction of hemodynamic imbalances present in the shock syndrome due to myocardial infarction, trauma, endotoxic septicemia, open-heart surgery, renal failure, and chronic cardiac decompensation as in congestive failure
+DrugId:  14
+1. Name:  Bismuth Subsalicylate
+2. Groups:  Approved, Vet approved
+3. Description:  Bismuth subsalicylate is the active ingredient in the popular medication Pepto-Bismol that is used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract. It is also the main ingredient of Kaopectate. It displays anti-inflammatory action (due to salicylic acid) and also acts as an antacid and mild antibiotic.
+4. Indication:  Used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract.
+DrugId:  15
+1. Name:  Imipramine
+2. Groups:  Approved
+3. Description:  Imipramine, the prototypical tricyclic antidepressant (TCA), is a dibenzazepine-derivative TCA. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, imipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, imipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as imipramine and amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also block histamine H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively [5]. Imipramine has less sedative and anticholinergic effects than the tertiary amine TCAs, amitriptyline and clomipramine. Imipramine may be used to treat depression and nocturnal enuresis in children [FDA Label]. Unlabeled indications include chronic and neuropathic pain (including diabetic neuropathy), panic disorder, attention-deficit/hyperactivity disorder (ADHD), and post-traumatic stress disorder (PTSD) [12, 11, 1, 13, 14, 15, 2].
+4. Indication:  For the relief of symptoms of depression and as temporary adjunctive therapy in reducing enuresis in children aged 6 years and older [FDA Label]. May also be used off-label to manage panic disorders with or without agoraphobia, as a second line agent for ADHD in children and adolescents, to manage bulimia nervosa, for short-term management of acute depressive episodes in bipolar disorder and schizophrenia, for the treatment of acute stress disorder and posttraumatic stress disorder, and for symptomatic treatment of postherpetic neuralgia and painful diabetic neuropathy [12, 11, 1, 13, 14, 15, 2]. 
+DrugId:  16
+1. Name:  Dermatophagoides farinae
+2. Groups:  Approved
+3. Description:  Dermatophagoides farinae extracts are sterile solutions used for intradermal testing or subcutaneous immunotherapy. This combination is approved for as a year-round, once-a-day tablet that's dissolved under the tongue as a treatment for dust mite allergies.
+4. Indication:  Dermatophagoides farinae extract is an allergen extract indicated as immunotherapy for house dust mite (HDM)-induced allergic rhinitis, with or without conjunctivitis, confirmed by in vitro testing for IgE antibodies to Dermatophagoidesfarinae house dust mites, or skin testing to  licensed house dust mite allergen extracts. ODACTRA is approved for use in adults 18 through 65 years of age
+DrugId:  17
+1. Name:  Buprenorphine
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  Buprenorphine is a derivative of the opioid alkaloid thebaine that is a more potent (25 - 40 times) and longer lasting analgesic than morphine. It appears to act as a partial agonist at mu and kappa opioid receptors and as an antagonist at delta receptors. The lack of delta-agonist activity has been suggested to account for the observation that buprenorphine tolerance may not develop with chronic use.
+4. Indication:  For the treatment of moderate to severe pain, peri-operative analgesia, and opioid dependence.
+DrugId:  18
+1. Name:  Dermatophagoides pteronyssinus
+2. Groups:  Approved
+3. Description:  Dermatophagoides pteronyssinus extracts are sterile solutions used for intradermal testing or subcutaneous immunotherapy. This combination is approved for as a year-round, once-a-day tablet that's dissolved under the tongue as a treatment for dust mite allergies.
+4. Indication:  Dermatophagoides pteronyssinus is an allergen extract indicated as immunotherapy for house dust mite (HDM)-induced allergic rhinitis, with or without conjunctivitis, confirmed by in vitro testing for IgE antibodies to Dermatophagoides pteronyssinus house dust mites, or skin testing to licensed house dust mite allergen extracts. Dermatophagoides pteronyssinus is approved for use in adults 18 through 65 years of age. 
+DrugId:  19
+1. Name:  Benzydamine
+2. Groups:  Approved
+3. Description:  Benzydamine (also known as Tantum Verde and branded in some countries as Difflam), available as the hydrochloride salt, is a locally-acting nonsteroidal anti-inflammatory drug (NSAID) with local anaesthetic and analgesic properties for pain relief and anti-inflammatory treatment of typically topical inflammatory conditions associated with the mouth, throat, or muscoskeletal locations.Although the indazole analogue benzydamine is a non-steroidal anti-inflammatory drug (NSAID), it has various physicochemical properties and pharmacologic activities that are different from those of traditional aspirin-like NSAIDs but facilitate benzydamine's mechanism of action as an effective locally-acting NSAID with local anaesthetic and analgesic properties. Moreover, unlike aspirin-like NSAIDs which are acids or metabolised to acids, benzydamine is in fact a weak base.
+4. Indication:  Available predominantly as a liquid mouthwash, oromucosal spray, or topical cream, benzydamine is most frequently employed as a locally acting analgesic and anti-inflammatory treatment for the relief of painful inflammatory conditions. When formulated as a mouthwash or spray, benzydamine may be used to treat traumatic conditions like pharyngitis following tonsillectomy or the use of a naso-gastric tube, inflammatory conditions like pharyngitis, aphthous ulcers and oral ulceration due to radiation therapy, dentistry operations and procedures, or more general conditions like sore throat, sore tongue, sore gums, mouth ulcers, or discomfort caused by dentures. [6] When used as a topical cream, benzydamine may be employed to relieve symptoms associated with painful inflammatory conditions of the muscolo-skeletal system including acute inflammatory disorders such as myalgia and bursitis or traumatic conditions like sprains, strains, bruises, sore muscles, stiff joints, or even the after-effects of fractures. [7]
+DrugId:  20
+1. Name:  Benzalkonium
+2. Groups:  Approved
+3. Description:  Benzalkonium is a quaternary ammonium compound used as a biocide, a cationic surfactant, and as a phase transfer agent [FDA Label]. Benzalkonium is more commonly contained in consumer products in its salt form, benzalkonium chloride [FDA Label]. This salt is used in a great variety of international pharmaceutical products such as eye, ear, and nasal drops or sprays as an excipient ingredient serving as an antimicrobial preservative [FDA Label]. When used as an ingredient in antiseptic and disinfectant products however, it is an active antimicrobial agent [2].
+4. Indication:  When used as an active ingredient in products like antibacterial, antiseptic, or disinfectant soaps, topical sanitizers, or cleaning agents, benzalkonium is primarily implemented in its salt form, benzalkonium chloride, where it may often be the only active ingredient present and indicated for the primary purpose of topical washing to decrease bacteria on skin [2].Conversely, when implemented as an excipient ingredient in a variety of multidose aqueous nose, eye, or ear products, benzalkonium chloride is being used as the antimicrobial preservative of choice to facilitate effective bactericidal and fungicidal actions to help minimize the growth of unwanted organisms in the multidose containers [FDA Label]. 
+DrugId:  21
+1. Name:  Doxylamine
+2. Groups:  Approved, Vet approved
+3. Description:  Histamine H1 antagonist with pronounced sedative properties. It is used in allergies and as an antitussive, antiemetic, and hypnotic. Doxylamine has also been administered in veterinary applications and was formerly used in parkinsonism. [PubChem]
+4. Indication:  Used alone as a short-term sleep aid, in combination with other drugs as a night-time cold and allergy relief drug. Also used in combination with Vitamin B6 (pyridoxine) to prevent morning sickness in pregnant women.

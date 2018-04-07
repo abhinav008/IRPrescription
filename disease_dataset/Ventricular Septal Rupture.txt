@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  2
+1. Name:  Bretylium
+2. Groups:  Approved
+3. Description:  Bretylium blocks the release of noradrenaline from the peripheral sympathetic nervous system, and is used in emergency medicine, cardiology, and other specialties for the acute management of ventricular tachycardia and ventricular fibrillation. The primary mode of action for bretylium is thought to be inhibition of voltage-gated K(+) channels. Recent evidence has shown that bretylium may also inhibit the Na,K-ATPase by binding to the extracellular K-site.
+4. Indication:  For use in the prophylaxis and therapy of ventricular fibrillation. Also used in the treatment of life-threatening ventricular arrhythmias, such as ventricular tachycardia, that have failed to respond to adequate doses of a first-line antiarrhythmic agent, such as lidocaine.
+DrugId:  3
+1. Name:  Menotropins
+2. Groups:  Approved
+3. Description:  Menotropins contains follicle stimulating hormone (FSH) and luteinizing hormone (LH) purified from the urine of postmenopausal women. It is used as a fertility medication that is injected either subcutaneously or intramuscularly. It is composed of LH with 2 subunits, alpha = 92 residues, beta = 121 residues and FSH with 2 subunits, alpha = 92 residues, beta=111 residues.
+4. Indication:  For the treatment of female infertility
+DrugId:  4
+1. Name:  Mexiletine
+2. Groups:  Approved, Investigational
+3. Description:  Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties. [PubChem]
+4. Indication:  For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.
+DrugId:  5
+1. Name:  Varespladib methyl
+2. Groups:  Investigational
+3. Description:  Varespladib methyl has been investigated for the treatment of Acute Coronary Syndrome. Studies showed that Varespladib methyl treatment resulted in significant positive changes on lipoproteins and inflammation.
+4. Indication:  Investigated for use/treatment in atherosclerosis and coronary artery disease.
+DrugId:  6
+1. Name:  Choriogonadotropin alfa
+2. Groups:  Approved
+3. Description:  Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.
+4. Indication:  For the treatment of female infertility
+DrugId:  7
+1. Name:  Disopyramide
+2. Groups:  Approved
+3. Description:  A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.
+DrugId:  8
+1. Name:  Tetrofosmin
+2. Groups:  Approved
+3. Description:  Tetrofosmin was developed to overcome the non-target uptake of radioligands by the generation of hetero-atomic compounds. It presents a molecular formula of 1,2-bis(bis(2-ethoxyethyl)phosphino)ethane. Tetrofosmin is part of the group of diphosphines. The sell of tetrofosmin in a freeze-dried kit is FDA approved and it is always accompanied by technetium Tc-99m as a radiopharmaceutical.[1]
+4. Indication:  Tetrofosmin is indicated to be used as a complex with technetium Tc-99m for scintigraphic imaging of the myocardium following separate administrations under exercise and/or resting conditions. It helps in the delineation of regions of reversible myocardial ischemia in absence of infarcted myocardium.[4]This complex is also used for scintigraphic imaging of the myocardium to identify changes in perfusion induced by pharmacologic stress in patients with known or suspected coronary artery disease.[4]This complex is indicated for the assessment of left ventricular function in patients evaluated for heart disease.[4]
+DrugId:  9
+1. Name:  Dextran 75
+2. Groups:  Approved
+3. Description:  Dextran 75 is a complex branched glucan with an average molecular weight 75000 Daltons. It is produced from certain bacteria that with α-1,6 glycosidic linkages between glucose molecules and α-1,3 linkages between branches. Dextrans are used therapeutically as plasma volume expanders in hypovolemia and antithrombin agents to reduce blood viscosity. When labelled with technetium Tc99m, dextran 75 is intravenously administered as an imaging agent to detect and diagnose conditions in the vascular compartment such as pericardial effusion or ventricular aneurysm.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  11
+1. Name:  Amiodarone
+2. Groups:  Approved, Investigational
+3. Description:  An antianginal and antiarrhythmic drug. It increases the duration of ventricular and atrial muscle action by inhibiting Na,K-activated myocardial adenosine triphosphatase. There is a resulting decrease in heart rate and in vascular resistance. [PubChem]
+4. Indication:  Intravenously, for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation and hemodynamically unstable ventricular tachycardia in patients refractory to other therapy. Orally, for the treatment of life-threatening recurrent ventricular arrhythmias such as recurrent ventricular fibrillation and recurrent hemodynamically unstable ventricular tachycardia.
+DrugId:  12
+1. Name:  Tocainide
+2. Groups:  Approved
+3. Description:  An antiarrhythmic agent which exerts a potential- and frequency-dependent block of sodium channels. [PubChem]
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, that, in the judgment of the physician, are life-threatening.
+DrugId:  13
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  14
+1. Name:  Sulfur hexafluoride
+2. Groups:  Approved
+3. Description:  Sulfur hexafluoride is an ultrasound contrast agent indicated for use•in echocardiography to opacify the left ventricular chamber and to improve the delineation of the left ventricular endocardial border in adult patients with suboptimal echocardiograms•in ultrasonography of the liver for characterization of focal liver lesions in adult and pediatric patients
+4. Indication:  Echocardiography: Sulfur hexafluoride is indicated for use in adult patients with suboptimal echocardiograms to opacify the left ventricular chamber and to improve the delineation of the left ventricularendocardial border.Ultrasonography of the Liver: Sulfur hexafluoride is indicated for use with ultrasound of the liver in adult and pediatric patients to characterize focal liver lesions.
+DrugId:  15
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  16
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  18
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  19
+1. Name:  Procainamide
+2. Groups:  Approved
+3. Description:  A derivative of procaine with less CNS action. [PubChem]
+4. Indication:  For the treatment of life-threatening ventricular arrhythmias.
+DrugId:  20
+1. Name:  Propafenone
+2. Groups:  Approved
+3. Description:  An antiarrhythmia agent that is particularly effective in ventricular arrhythmias. It also has weak beta-blocking activity. The drug is generally well tolerated. [PubChem]
+4. Indication:  Used to prolong the time to recurrence of paroxysmal atrial fibrillation/flutter (PAF) associated with disabling symptoms in patients without structural heart disease. Also used for the treatment of life-threatening documented ventricular arrhythmias, such as sustained ventricular tachycardia.
+DrugId:  21
+1. Name:  Deslanoside
+2. Groups:  Approved
+3. Description:  Deacetyllanatoside C. A cardiotonic glycoside from the leaves of Digitalis lanata. [PubChem]
+4. Indication:  For the treatment and management of Congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  22
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  23
+1. Name:  Vernakalant
+2. Groups:  Approved, Investigational
+3. Description:  Vernakalant was developed by Cardiome Pharma as as an antiarrhythmic drug intended for rapid conversion of atrial fibrillation to sinus rhythm. It acts as an atypical class III antiarrhythmic drug that potentiates its effect in higher heart rates. Intravenous formulation was approved in Europe in September 2010 as Brinavess and in Canada in April 2017. It is an investigational drug under regulatory review by FDA.
+4. Indication:  Indicated for the rapid conversion of recent onset of atrial fibrillation to sinus rhythm in adults for non-surgery patients that lasts for less than 7 days of duration and post-cardiac surgery patients with atrial fibrillation lasting less than 3 days of duration.
+DrugId:  24
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  25
+1. Name:  Carboprost Tromethamine
+2. Groups:  Approved
+3. Description:  A nonsteroidal abortifacient agent that is effective in both the first and second trimesters of pregnancy. [PubChem]
+4. Indication:  For aborting pregnancy between the 13th and 20th weeks of gestation as calculated from the first day of the last normal menstrual period and in the following conditions related to second trimester abortion: 1. Failure of expulsion of the fetus during the course of treatment by another method; 2. Premature rupture of membranes in intrauterine methods with loss of drug and insufficient or absent uterine activity; 3. Requirement of a repeat intrauterine instillation of drug for expulsion of the fetus; 4. Inadvertent or spontaneous rupture of membranes in the presence of a previable fetus and absence of adequate activity for expulsion. Also for the treatment of postpartum hemorrhage due to uterine atony which has not responded to conventional methods of management.

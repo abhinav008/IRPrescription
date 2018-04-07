@@ -1,0 +1,110 @@
+DrugId:  1
+1. Name:  Cytisine
+2. Groups:  Approved, Investigational
+3. Description:  Cytisine is an alkaloid that is found naturally in several plant genera such as Laburnum and Cytisus of the family Fabaceae. Recent studies have shown it to be a more effective and significantly more affordable smoking cessation treatment than nicotine replacement therapy. Also known as baptitoxine or sophorine, cytisine has been used as a smoking cessation treatment since 1964, and is relatively unknown in regions outside of central and Eastern Europe. Cytisine is a partial nicotinic acetylcholine agonist with a half-life of 4.8 hours. Recent Phase III clinical trials using Tabex (a brand of Cytisine marketed by Sopharma AD) have shown similar efficacy to varenicline, but at a fraction of the cost. 
+4. Indication:  Indicated for use in smoking cessation. 
+DrugId:  2
+1. Name:  Quazepam
+2. Groups:  Approved, Illicit
+3. Description:  Quazepam is a drug which is a benzodiazepine derivative. It induces impairment of motor function and has hypnotic properties. Quazepam is used to treat insomnia.
+4. Indication:  Used to treat insomnia.
+DrugId:  3
+1. Name:  Sulfasalazine
+2. Groups:  Approved
+3. Description:  A drug that is used in the management of inflammatory bowel diseases. Its activity is generally considered to lie in its metabolic breakdown product, 5-aminosalicylic acid (see mesalamine) released in the colon. (From Martindale, The Extra Pharmacopoeia, 30th ed, p907)
+4. Indication:  For the treatment of Crohn's disease and rheumatoid arthritis as a second-line agent.
+DrugId:  4
+1. Name:  Phenolphthalein
+2. Groups:  Approved, Withdrawn
+3. Description:  Phenolphthalein was withdrawn in Canada due to concerns with carcinogenicity in 1997.
+4. Indication:  Used for over a century as a laxative.
+DrugId:  5
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  6
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 
+DrugId:  7
+1. Name:  Polycarbophil calcium
+2. Groups:  Approved
+3. Description:  Polycarbophil calcium is a drug used as a stool stabilizer. Chemically, it is a synthetic polymer of polyacrylic acid cross-linked with divinyl glycol, with calcium as a counter-ion. Polycarbophil is used to treat constipation. This drug may also be used to help relieve the symptoms of irritable bowel syndrome or diarrhea.Less gas and bloating compared to psyllium laxative products, but can cause heartburn, and belly cramps. It is insoluble in water, dilute acids, and dilute alkali. The material possesses exceptionally high water-binding capacity. is not absorbed, does not interfere with the activity of digestive enzymes or intestinal absorption, possesses satisfactory stability, is physiologically inert, and does not cause gastrointestinal irritation.
+4. Indication:  Polycarbophil is used to treat constipation and to help maintain regular bowel movements.
+DrugId:  8
+1. Name:  Tetracycline
+2. Groups:  Approved, Vet approved
+3. Description:  Tetracycline is a broad spectrum polyketide antibiotic produced by the Streptomyces genus of Actinobacteria. It exerts a bacteriostatic effect on bacteria by binding reversible to the bacterial 30S ribosomal subunit and blocking incoming aminoacyl tRNA from binding to the ribosome acceptor site. It also binds to some extent to the bacterial 50S ribosomal subunit and may alter the cytoplasmic membrane causing intracellular components to leak from bacterial cells.
+4. Indication:  Used to treat bacterial infections such as Rocky Mountain spotted fever, typhus fever, tick fevers, Q fever, rickettsialpox and Brill-Zinsser disease. May be used to treat infections caused by Chlamydiae spp., B. burgdorferi (Lyme disease), and upper respiratory infections caused by typical (S. pneumoniae, H. influenzae, and M. catarrhalis) and atypical organisms (C. pneumoniae, M. pneumoniae, L. pneumophila). May also be used to treat acne. Tetracycline may be an alternative drug for people who are allergic to penicillin.
+DrugId:  9
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  10
+1. Name:  Gabapentin
+2. Groups:  Approved, Investigational
+3. Description:  Gabapentin (brand name Neurontin) is a medication originally developed for the treatment of epilepsy. Presently, gabapentin is widely used to relieve pain, especially neuropathic pain. Gabapentin is well tolerated in most patients, has a relatively mild side-effect profile, and passes through the body unmetabolized.
+4. Indication:  For the management of postherpetic neuralgia in adults and as adjunctive therapy in the treatment of partial seizures with and without secondary generalization in patients over 12 years of age with epilepsy.
+DrugId:  11
+1. Name:  Meclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in the treatment of motion sickness, vertigo, and nausea during pregnancy and radiation sickness. [PubChem]
+4. Indication:  For the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness.
+DrugId:  12
+1. Name:  Phenazopyridine
+2. Groups:  Approved
+3. Description:  A local anesthetic that has been used in urinary tract disorders. Its use is limited by problems with toxicity (primarily blood disorders) and potential carcinogenicity. [PubChem]
+4. Indication:  For the symptomatic relief of pain, burning, urgency, frequency, and other discomforts arising from irritation of the lower urinary tract mucosa caused by infection, trauma, surgery, endoscopic procedures, or the passage of sounds or catheters.
+DrugId:  13
+1. Name:  Dimenhydrinate
+2. Groups:  Approved
+3. Description:  Dimenhydrinate (Dramamine, Gravol and Vertirosan) is an over-the-counter drug used to prevent motion sickness. It is closely related to diphenhydramine HCl, or Benadryl. It is primarily a H1-antagonist, but also possesses an antimuscarinic effect.
+4. Indication:  Used for treating vertigo, motion sickness, and nausea associated with pregnancy.
+DrugId:  14
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  15
+1. Name:  Calcium
+2. Groups:  Approved, Nutraceutical
+3. Description:  Calcium plays a vital role in the anatomy, physiology and biochemistry of organisms and of the cell, particularly in signal transduction pathways. The skeleton acts as a major mineral storage site for the element and releases Ca2+ ions into the bloodstream under controlled conditions. Circulating calcium is either in the free, ionized form or bound to blood proteins such as serum albumin. Although calcium flow to and from the bone is neutral, about 5 mmol is turned over a day. Bone serves as an important storage point for calcium, as it contains 99% of the total body calcium. Low calcium intake may also be a risk factor in the development of osteoporosis. The best-absorbed form of calcium from a pill is a calcium salt like carbonate or phosphate. Calcium gluconate and calcium lactate are absorbed well by pregnant women. Seniors absorb calcium lactate, gluconate and citrate better unless they take their calcium supplement with a full breakfast.
+4. Indication:  Calcium plays a vital role in the anatomy, physiology and biochemistry of organisms and of the cell, particularly in signal transduction pathways. It is vital in cell signaling, muscular contractions, bone health, and signalling cascades.
+DrugId:  16
+1. Name:  Sennosides
+2. Groups:  Approved
+3. Description:  Sennosides (also known as senna glycoside or senna) is a medication used to treat constipation and empty the large intestine before surgery. The medication is taken by mouth or via the rectum. It typically begins working in minutes when given by rectum and within twelve hours when given by mouth. It is a weaker laxative than bisacodyl or castor oil. Sennoside A, one of the sennosides present in the laxative medication, has recently proven effective in inhibiting the ribonuclease H (RNase H) activity of human immunodeficiency virus (HIV) reverse transcriptase [1].
+4. Indication:  For the over the counter treatment of constipation [FDA Label].
+DrugId:  17
+1. Name:  Bismuth Subsalicylate
+2. Groups:  Approved, Vet approved
+3. Description:  Bismuth subsalicylate is the active ingredient in the popular medication Pepto-Bismol that is used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract. It is also the main ingredient of Kaopectate. It displays anti-inflammatory action (due to salicylic acid) and also acts as an antacid and mild antibiotic.
+4. Indication:  Used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract.
+DrugId:  18
+1. Name:  Pseudoephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  For the treatment of nasal congestion, sinus congestion, Eustachian tube congestion, and vasomotor rhinitis, and as an adjunct to other agents in the optimum treatment of allergic rhinitis, croup, sinusitis, otitis media, and tracheobronchitis. Also used as first-line therapy of priapism.
+DrugId:  19
+1. Name:  Guaifenesin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An expectorant that also has some muscle relaxing action. It is used in many cough preparations. [PubChem]
+4. Indication:  Used to assist the expectoration of phlegm from the airways in acute respiratory tract infections.
+DrugId:  20
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  21
+1. Name:  Ibuprofen
+2. Groups:  Approved
+3. Description:  Ibuprofen, a propionic acid derivative, is a prototypical nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties.
+4. Indication:  For symptomatic treatment of rheumatoid arthritis, juvenile rheumatoid arthritis and osteoarthritis. May be used to treat mild to moderate pain and for the management of dysmenorrhea. May be used to reduce fever. Has been used with some success for treating ankylosing spondylitis, gout and psoriatic arthritis. May reduce pain, fever and inflammation of pericarditis. May be used IV with opiates to relieve moderate to severe pain. Ibuprofen lysine may be used IV to treat patent ductus arteriosus (PDA) in premature neonates. 
+DrugId:  22
+1. Name:  Vitamin C
+2. Groups:  Approved, Nutraceutical
+3. Description:  A six carbon compound related to glucose. It is found naturally in citrus fruits and many vegetables. Ascorbic acid is an essential nutrient in human diets, and necessary to maintain connective tissue and bone. Its biologically active form, vitamin C, functions as a reducing agent and coenzyme in several metabolic pathways. Vitamin C is considered an antioxidant.
+4. Indication:  Used to treat vitamin C deficiency, scurvy, delayed wound and bone healing, urine acidification, and in general as an antioxidant. It has also been suggested to be an effective antiviral agent.

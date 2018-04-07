@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  2
+1. Name:  Pirfenidone
+2. Groups:  Approved, Investigational
+3. Description:  Pirfenidone is an orally active small molecule drug that may inhibit collagen synthesis, down regulate production of multiple cytokines and block fibroblast proliferation and stimulation in response to cytokines. Pirfenidone has demonstrated activity in multiple fibrotic conditions, including those of the lung, kidney and liver. It is being investigated by InterMune.
+4. Indication:  For the treatment of idiopathic pulmonary fibrosis (IPF).
+DrugId:  3
+1. Name:  SQ-109
+2. Groups:  Investigational
+3. Description:  SQ-109 is an orally active, small molecule antibiotic for treatment of pulmonary TB. Currently in Phase I clinical trials, SQ-109 could replace one or more drugs in the current first-line TB drug regimen, simplify therapy, and shorten the TB treatment regimen.
+4. Indication:  Investigated for use/treatment in bacterial infection, infectious and parasitic disease (unspecified), and tuberculosis.
+DrugId:  4
+1. Name:  ADC4022
+2. Groups:  Investigational
+3. Description:  ADC4022 is an investigational medicine for the treatment of Chronic Obstructive Pulmonary Disease (COPD) and severe asthma.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  5
+1. Name:  KB001
+2. Groups:  Investigational
+3. Description:  KB001 is a Humaneered™ PEGylated monoclonal antibody fragment for the treatment of life-threatening Pseudomonas aeruginosa infections, a common problem of cystic fibrosis and mechanically ventilated patients.
+4. Indication:  For the treatment of infections caused by multi-drug resistant Pseudomonas aeruginosa.
+DrugId:  6
+1. Name:  Selexipag
+2. Groups:  Approved
+3. Description:  Selexipag was approved by the United States FDA on December 22, 2015 for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization. PAH is a relatively rare disease with usually a poor prognosis requiring more treatment options to prolong long-term outcomes. Marketed by Actelion Pharmaceuticals under brand name Uptravi, selexipag and its active metabolite, ACT-333679 (MRE-269), act as agonists of the prostacyclin receptor to increase vasodilation in the pulmonary circulation and decrease elevated pressure in the blood vessels supplying blood to the lungs. 
+4. Indication:  Selexipag is indicated for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization.
+DrugId:  7
+1. Name:  ALKS 27
+2. Groups:  Investigational
+3. Description:  ALKS 27 is an inhaled formulation of trospium chloride for the treatment of chronic obstructive pulmonary disease (COPD). Study showed that ALKS 27 was well-tolerated over a wide dose range, with no dose-limited effects observed.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  8
+1. Name:  Carmustine
+2. Groups:  Approved, Investigational
+3. Description:  A cell-cycle phase nonspecific alkylating antineoplastic agent. It is used in the treatment of brain tumors and various other malignant neoplasms. (From Martindale, The Extra Pharmacopoeia, 30th ed, p462) This substance may reasonably be anticipated to be a carcinogen according to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985). (From Merck Index, 11th ed)
+4. Indication:  For the treatment of brain tumors, multiple myeloma, Hodgkin's disease and Non-Hodgkin's lymphomas.
+DrugId:  9
+1. Name:  Enoxaparin
+2. Groups:  Approved
+3. Description:  Enoxaparin is a low molecular weight heparin. Enoxaparin is used to prevent and treat deep vein thrombosis or pulmonary embolism, and is given as a subcutaneous injection. Enoxaparin binds to and accelerates the activity of antithrombin III. By activating antithrombin III, enoxaparin preferentially potentiates the inhibition of coagulation factors Xa and IIa. Factor Xa catalyzes the conversion of prothrombin to thrombin, so enoxaparin's inhibition of this process results in decreased thrombin and ultimately the prevention of fibrin clot formation. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  For the prophylaxis of deep vein thrombosis, which may lead to pulmonary embolism, and also for the prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin.
+DrugId:  10
+1. Name:  Isotretinoin
+2. Groups:  Approved
+3. Description:  Isotretinoin is a medication used for the treatment of severe acne. It is sometimes used in prevention of certain skin cancers. It is a retinoid, meaning it derives from vitamin A and is found in small quantities naturally in the body. Isotretinoin binds to and activates nuclear retinoic acid receptors (RAR), thereby regulating cell proliferation and differentiation. This agent also exhibits immunomodulatory and anti-inflammatory responses and inhibits ornithine decarboxylase, thereby decreasing polyamine synthesis and keratinization.
+4. Indication:  For the treatment of severe recalcitrant nodular acne
+DrugId:  11
+1. Name:  REN-850
+2. Groups:  Investigational
+3. Description:  REN-850 is an oral drug for multiple sclerosis which is in Phase I of clinical trials.
+4. Indication:  Investigated for use/treatment in multiple sclerosis.
+DrugId:  12
+1. Name:  Ardeparin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Ardeparin, marketed under the US trade name Normiflo, is a low molecular weight heparin (LMWH) anticoagulant used for the prevention of postoperative venous thrombosis. Ardeparin is derived via peroxide degradation of heparin extracted from porcine intestinal mucosa. Its molecular weight ranges from 2000 to 15,000 with an average molecular weight of 5500 to 6500. Normiflo was withdrawn from the US market in March 2000.
+4. Indication:  For prevention of deep vein thrombosis, which may result in pulmonary embolism, following knee surgery.
+DrugId:  13
+1. Name:  Alprostadil
+2. Groups:  Approved, Investigational
+3. Description:  Alprostadil is produced endogenously and causes vasodilation by means of a direct effect on vascular and ductus arteriosus (DA) smooth muscle, preventing or reversing the functional closure of the DA that occurs shortly after birth. This results in increased pulmonary or systemic blood flow in infants. In infants, it is used for palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. In adults, it is used for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+4. Indication:  For palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. Also for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+DrugId:  14
+1. Name:  Iron
+2. Groups:  Approved
+3. Description:  A metallic element found in certain minerals, in nearly all soils, and in mineral waters. It is an essential constituent of hemoglobin, cytochrome, and other components of respiratory enzyme systems. Its chief functions are in the transport of oxygen to tissue (hemoglobin) and in cellular oxidation mechanisms. Depletion of iron stores may result in iron-deficiency anemia. Iron is used to build up the blood in anemia.
+4. Indication:  Used in preventing and treating iron-deficiency anemia.
+DrugId:  15
+1. Name:  NCX 950
+2. Groups:  Investigational
+3. Description:  NCX 950, beta2-adrenoceptor agonists is widely used in the treatment of pulmonary diseases.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  16
+1. Name:  BTA798
+2. Groups:  Investigational
+3. Description:  BTA798 is an antiviral for the treatment of HRV, the common cold virus, known to cause significant clinical complications in sufferers of Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  17
+1. Name:  MLN-977
+2. Groups:  Investigational
+3. Description:  MLN-977 is a small molecule compound that inhibits the production of leukotrienes, especially 5-lipoxygenase. It is developed by PharmaEngine to treat asthma and chronic obstructive pulmonary disease. 
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  18
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  19
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
+DrugId:  20
+1. Name:  Ozanezumab
+2. Groups:  Investigational
+3. Description:  Ozanezumab has been used in trials studying the treatment of Multiple Sclerosis, Amyotrophic Lateral Sclerosis, and Multiple Sclerosis, Relapsing-Remitting.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Indacaterol
+2. Groups:  Approved
+3. Description:  Indacaterol is a novel, ultra-long-acting, rapid onset β(2)-adrenoceptor agonist developed for Novartis for the once-daily management of asthma and chronic obstructive pulmonary disease. It was approved by the European Medicines Agency (EMA) under the trade name Onbrez on November 30, 2009, and by the United States Food and Drug Administration (FDA), under the trade name Arcapta Neohaler, on July 1, 2011. Indacaterol is provided as its maleate salt form. Indacaterol is also a chiral molecule but only the pure R-enantiomer is dispensed.
+4. Indication:  For the long term, once-daily-dosing maintenance of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
+DrugId:  22
+1. Name:  Tolazoline
+2. Groups:  Approved, Vet approved
+3. Description:  A vasodilator that apparently has direct actions on blood vessels and also increases cardiac output. Tolazoline can interact to some degree with histamine, adrenergic, and cholinergic receptors, but the mechanisms of its therapeutic effects are not clear. It is used in treatment of persistent pulmonary hypertension of the newborn. [PubChem]
+4. Indication:  For the treatment of pulmonary artery anomalies
+DrugId:  23
+1. Name:  Nintedanib
+2. Groups:  Approved
+3. Description:  Nintedanib is a drug indicated for the treatment of idiopathic pulmonary fibrosis (IPF) that targets multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs). Nintedanib inhibits the following RTKs: platelet-derived growth factor receptor (PDGFR) α and β, fibroblast growth factor receptor (FGFR) 1-3, vascular endothelial growth factor receptor (VEGFR) 1-3, and Fms-like tyrosine kinase-3 (FLT3). Among them, FGFR, PDGFR, and VEGFR have been implicated in IPF pathogenesis. Nintedanib binds competitively to the adenosine triphosphate (ATP) binding pocket of these receptors and blocks the intracellular signaling which is crucial for the proliferation, migration, and transformation of fibroblasts representing essential mechanisms of the IPF pathology. In addition, nintedanib inhibits the following nRTKs: Lck, Lyn and Src kinases. The contribution of FLT3 and nRTK inhibition to IPF efficacy is unknown.Idiopathic pulmonary fibrosis (IPF) is a progressive and ultimately fatal lung disease characterized by a progressive loss of lung function with worsening dyspnoea and cough. Development is thought to be instigated by repetitive lung injury (such as by cigarette smoke, industrial dusts, gastrooesophageal reflux and viral infection) leading to destruction of epithelial alveolar cells. Subsequent dysregulation of the repair process results in the proliferation/migration of fibroblasts and their differentiation into myofibroblasts, abnormal extracellular matrix deposition and excessive collagen accumulation in the lung interstitium and alveolar space, leading to progressive fibrosis and stiffening of the lungs. Vascular endothelial growth factor (VEGF), fibroblast growth factor (FGF) and platelet-derived growth factor (PDGF) mediate various processes, including fibrogenesis and angiogenesis, and are implicated in the pathogenesis of IPF. By blocking substrate binding and downstream signalling cascades, nintedanib interferes with processes active in fibrosis such as fibroblast proliferation, migration and differentiation, and the secretion of extracellular matrix.
+4. Indication:  Nintedanib is indicated for the treatment of idiopathic pulmonary fibrosis (IPF).
+DrugId:  24
+1. Name:  Vestronidase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Vestronidase alfa, or vestronidase alfa-vjbk, is a recombinant human lysosomal beta glucuronidase that is a purified enzyme produced by recombinant DNA technology in a Chinese hamster ovary cell line. The enzyme is a homotetramer consisted of 4 monomers with 629 amino acids, and holds the same amino acid sequence as human beta-glucuronidase (GUS) [FDA Label]. Vestronidase alfa is an enzyme replacement therapy for the treatment of mucopolysaccharidosis type VII (MPS VII), also known as Sly syndrome, which is an inherited, rare genetic metabolic condition that targets a small subset of population. MPS VII is a progressive condition that affects most tissues and organs due to the lack of a lysosomal enzyme called beta-glucuronidase, leading to buildup of toxic metabolites. The disorder is initiated with skeletal abnormalities, including short stature, along with other pathological conditions including enlarged liver and spleen, heart valve abnormalities, and narrowed airways which can lead to lung infections and trouble breathing. Last two conditions are leading causes of fatalities in patients with MPS VII. Some affected individuals do not survive infancy, while others may live into adolescence or adulthood and patients may experience developmental delay and progressive intellectual disability [FDA Label]. In clinical trials, vestronidase alfa treatment demonstrated improvement and stabilization in motor symptoms by increasing the patients' ability to walk longer distances in comparison to treatment with placebo . Few patients also experienced improved pulmonary function. Vestronidase alfa was FDA-approved on November 17th, 2017 under the trade name Mepsevii as an intravenous infusion for the treatment of pediatric and adult patients.
+4. Indication:  Indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome).
+DrugId:  25
+1. Name:  Midostaurin
+2. Groups:  Approved, Investigational
+3. Description:  Midostaurin (as Rydapt) is a multitarget kinase inhibitor for the treatment for adult patients with newly diagnosed acute myeloid leukemia (AML) who have a specific genetic mutation called FLT3. It was initially characterized as a potential broad-spectrum antineoplastic agent, with activity toward diverse solid and hematopoietic tumors [4]. It was approved on April 28, 2017 and has shown to increase the overall survival rate in patients with AML as an adjunct therapy along with chemotherapeutic agents.
+4. Indication:  Investigated for use/treatment in adult patients with high-risk acute myeloid leukemia (AML) who are FLT3 mutation-positive, agressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN), or mast cell leukemia (MCL). 

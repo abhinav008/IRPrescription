@@ -1,0 +1,85 @@
+DrugId:  1
+1. Name:  Lactulose
+2. Groups:  Approved
+3. Description:  A synthetic disaccharide used in the treatment of constipation and hepatic encephalopathy. It has also been used in the diagnosis of gastrointestinal disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p887)
+4. Indication:  For the treatment of constipation and hepatic encephalopathy.
+DrugId:  2
+1. Name:  Phenylacetic acid
+2. Groups:  Approved
+3. Description:  Phenylacetic acid is an organic compound containing a phenyl functional group and a carboxylic acid functional group. It is a white solid with a disagreeable odor. Because it is used in the illicit production of phenylacetone (used in the manufacture of substituted amphetamines), it is subject to controls in countries including the United States and China.
+4. Indication:  For use as adjunctive therapy for the treatment of acute hyperammonemia and associated encephalopathy in patients with deficiencies in enzymes of the urea cycle.
+DrugId:  3
+1. Name:  Chlormezanone
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  A non-benzodiazepine that is used in the management of anxiety. It has been suggested for use in the treatment of muscle spasm. [PubChem]
+4. Indication:  Used in the management of anxiety and in the treatment of muscle spasm.
+DrugId:  4
+1. Name:  Fludiazepam
+2. Groups:  Approved, Illicit
+3. Description:  Fludiazepam is a drug which is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. It is a scheduled drug in the U.S., but is approved for use in Japan.
+4. Indication:  Used for the short-term treatment of anxiety disorders.
+DrugId:  5
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  6
+1. Name:  Papaverine
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid found in opium but not closely related to the other opium alkaloids in its structure or pharmacological actions. It is a direct-acting smooth muscle relaxant used in the treatment of impotence and as a vasodilator, especially for cerebral vasodilation. The mechanism of its pharmacological actions is not clear, but it apparently can inhibit phosphodiesterases and it may have direct actions on calcium channels. [PubChem]
+4. Indication:  For the treatment of impotence and vasospasms.
+DrugId:  7
+1. Name:  Rifaximin
+2. Groups:  Approved, Investigational
+3. Description:  Rifaximin is a semisynthetic, rifamycin-based non-systemic antibiotic, meaning that the drug will not pass the gastrointestinal wall into the circulation as is common for other types of orally administered antibiotics. It has multiple indications and is used in treatment of traveller's diarrhea caused by E. coli; reduction in risk of overt hepatic encephalopathy recurrence; as well as diarrhea-predominant irritable bowel syndrome (IBS-D) in adult women and men. It is marketed under the brand name Xifaxan by Salix Pharmaceuticals.
+4. Indication:  Rifaximin has multiple indications by the FDA: for the treatment of patients (≥12 years of age) with traveller's diarrhea caused by noninvasive strains of Escherichia coli; for the reduction of overt hepatic encephalopathy recurrence in patients ≥18 years of age; and in May 2015 it was approved for irritable bowel syndrome with diarrhea (IBS-D) treatment in adult men and women. 
+DrugId:  8
+1. Name:  Edetic Acid
+2. Groups:  Approved, Vet approved
+3. Description:  A chelating agent (chelating agents) that sequesters a variety of polyvalent cations. It is used in pharmaceutical manufacturing and as a food additive. [PubChem]
+4. Indication:  For the reduction of blood levels and depot stores of lead in lead poisoning (acute and chronic) and lead encephalopathy, in both pediatric populations and adults.
+DrugId:  9
+1. Name:  Acetylcarnitine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcarnitine is an investigational drug in the United states, Italy, United Kingdom, China, Israel, and Norway, and it is approved in Italy, Portugal, Argentina, Chile, Philippines, Australia, and India. Acetylcarnitine can be synthesized, but it is also naturally found in adequate amounts in healthy humans. In human plasma and tissues, acetylcarnitine is the most predominant acylated ester of carnitine, which is an amino acid derivative that is made in the kidney, liver, and brain from lysine and methionine. The main role of acetylcarnitine is to help transport fatty acids into the mitochondrial matrix where fatty acid metabolism occurs.
+4. Indication:  Acetylcarnitine is not approved for any indication in the United states and Canada, but it is approved and indicated in Italy for cerebrovascular disorders, mental function disorders, peripheral nerve disorders, diabetic neuropathy, and nutritional supplementation; Portugal for mental function disorders; Argentina for cerebral vasculopathy, nutritional supplementation, and peripheral neuropathy; Chile for dementia; Philippines for cerebrovascular disorders and mental function disorders; Australia for nutritional supplementation; and India for nutritional supplementation to increase sperm count. Acetylcarnitine also has several potential therapeutic indications for which it is still being investigated: in Norway, acetylcarnitine is in a phase IV trial for prophylactic treatment of migraines; in Italy acetylcarnitine is in a phase II trial for use in patients with type 2 Diabetes Mellitus, a phase III trial for alleviating fatigue in patients with chronic hepatitis C, and for use in patients with Minimal Hepatic Encephalopathy; in the United States acetylcarnitine is in a phase II trial for the neurodegenerative disorder Progressive Supranuclear Palsy, a phase II and III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy, a phase I and II trial for treating patients in septic shock, a phase II trial for bipolar depression, a phase II trial to reduce oxidative stress in patients with Sickle Cell disease, a phase I and II trial for chronic fatigue syndrome, and a study for preventing nerve damage in HIV patients; in China acetylcarnitine is in a phase III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy; in the United Kingdom acetylcarnitine is being investigated for preventing nerve damage in HIV patients; and in Israel acetylcarnitine is being studied for the treatment of male infertility.
+DrugId:  10
+1. Name:  Chromic chloride
+2. Groups:  Approved
+3. Description:  Chromic chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  11
+1. Name:  L-Isoleucine
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An essential branched-chain aliphatic amino acid found in many proteins. It is an isomer of leucine. It is important in hemoglobin synthesis and regulation of blood sugar and energy levels. [PubChem]
+4. Indication:  The branched-chain amino acids may have antihepatic encephalopathy activity in some. They may also have anticatabolic and antitardive dyskinesia activity.
+DrugId:  12
+1. Name:  Methionine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A sulfur containing essential amino acid that is important in many body functions. It is a chelating agent for heavy metals.
+4. Indication:  Used for protein synthesis including the formation of SAMe, L-homocysteine, L-cysteine, taurine, and sulfate.
+DrugId:  13
+1. Name:  Ceftazidime
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibacterial derived from cephaloridine and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+4. Indication:  For the treatment of patients with infections caused by susceptible strains of organisms in the following diseases: lower respiratory tract infections,skin and skin structure infections, urinary tract infections, bacterial septicemia, bone and joint infections, gynecologic infections, intra abdominal infections (including peritonitis), and central nervous system infections (including meningitis).
+DrugId:  14
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  15
+1. Name:  L-Valine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A branched-chain essential amino acid that has stimulant activity. It promotes muscle growth and tissue repair. It is a precursor in the penicillin biosynthetic pathway. [PubChem]
+4. Indication:  Promotes mental vigor, muscle coordination, and calm emotions. May also be of use in a minority of patients with hepatic encephalopathy and in some with phenylketonuria.
+DrugId:  16
+1. Name:  Neomycin
+2. Groups:  Approved, Vet approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed). Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and acceptor tRNA sites and results in the production of non-functional or toxic peptides.
+4. Indication:  Topical uses include treatment for superficial eye infections caused by susceptible bacteria (used in combination with other antiinfectives), treatment of otitis externa caused by susceptible bacteria, treatment or prevention of bacterial infections in skin lesions, and use as a continuous short-term irrigant or rinse to prevent bacteriuria and gram negative rod bacteremia in abacteriuric patients with indwelling catheters. May be used orally to treat hepatic encephalopathy, as a perioperative prophylactic agent, and as an adjunct to fluid and electrolyte replacement in the treatment of diarrhea caused to enteropathogenic E. coli (EPEC). 
+DrugId:  17
+1. Name:  Thiamine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Thiamine or thiamin, also known as vitamin B1, is a colorless compound with the chemical formula C12H17N4OS. It is soluble in water and insoluble in alcohol. Thiamine decomposes if heated. Thiamine was first discovered by Umetaro Suzuki in Japan when researching how rice bran cured patients of Beriberi. Thiamine plays a key role in intracellular glucose metabolism and it is thought that thiamine inhibits the effect of glucose and insulin on arterial smooth muscle cell proliferation. Thiamine plays an important role in helping the body convert carbohydrates and fat into energy. It is essential for normal growth and development and helps to maintain proper functioning of the heart and the nervous and digestive systems. Thiamine cannot be stored in the body; however, once absorbed, the vitamin is concentrated in muscle tissue.
+4. Indication:  For the treatment of thiamine and niacin deficiency states, Korsakov's alcoholic psychosis, Wernicke-Korsakov syndrome, delirium, and peripheral neuritis.

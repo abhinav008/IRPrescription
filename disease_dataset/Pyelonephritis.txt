@@ -1,0 +1,55 @@
+DrugId:  1
+1. Name:  Plazomicin
+2. Groups:  Investigational
+3. Description:  Plazomicin has been used in trials studying the treatment of Acute Pyelonephritis, Complicated Urinary Tract Infection, Acute Pyelonephritis (AP) Due to CRE, Bloodstream Infections (BSI) Due to CRE, and Complicated Urinary Tract Infection (cUTI) Due to CRE, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Loracarbef
+2. Groups:  Investigational, Withdrawn
+3. Description:  Loracarbef is a carbacephem antibiotic sometimes grouped together with the second-generation cephalosporin antibiotics. It is marketed under the trade name Lorabid.
+4. Indication:  Used to treat upper respiratory tract bacterial infections, chronic bronchitis, pneumonia, sinusitis, pharyntitis and tonsillitis, skin absceses, urinary tract infections and pyelonephritis caused by E. coli, S. pyogenes, S. aureus, S. saprphyticus, S. penumoniae, H. influenzae and M. catarrhalis.
+DrugId:  3
+1. Name:  Avibactam
+2. Groups:  Approved
+3. Description:  Avibactam is a non-β-lactam β-lactamase inhibitor that is available in combination with ceftazidime (Avycaz). This combination was approved by the FDA on February 25, 2015 for the treatment of complicated intra-abdominal infections in combination with metronidazole, and the treatment of complicated urinary tract infections, including pyelonephritis caused by antibiotic resistant-pathogens, including those caused by multi-drug resistant gram-negative bacterial pathogens. As there is limited clinical safety and efficacy data, Avycaz should be reserved for patients over 18 years old who have limited or not alternative treatment options. 
+4. Indication:  AVYCAZ (ceftazidime-avibactam), in combination with metronidazole, is indicated for the treatment of complicated intra-abdominal infections caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Providencia stuartii, Enterobacter cloacae, Klebsiella oxytoca, and Pseudomonas aeruginosa in patients 18 years or older.AVYCAZ is also indicated for the treatment of complicated urinary tract infections including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, Citrobacter koseri, Enterobacter aerogenes, Enterobacter cloacae, Citrobacter freundii, Proteus spp., and Pseudomonas aeruginosa in patients 18 years or older.
+DrugId:  4
+1. Name:  Ceftolozane
+2. Groups:  Approved, Investigational
+3. Description:  Ceftolozane is a semi-synthetic beta-lactam antibiotic. It was approved by the FDA in January 2015 for use in combination with tazobactam for the treatment of:-Complicated Intra-abdominal Infections, used in combination with metronidazole.-Complicated Urinary Tract Infections, including Pyelonephritis.Ceftolozane/tazobactam is marketed under the brand name Zerbaxa™ by Cubist Pharmaceuticals U.S, which effective January 22, 2015, is now a wholly owned subsidiary of Merck & Co., Inc.
+4. Indication:  -Complicated Intra-abdominal Infections, used in combination with metronidazole.-Complicated Urinary Tract Infections, including Pyelonephritis.
+DrugId:  5
+1. Name:  Vaborbactam
+2. Groups:  Approved, Investigational
+3. Description:  Vaborbactam is a cyclic boronic acid pharmacophore β-lactamase inhibitor. It has been used in trials studying the treatment of bacterial infections in subjects with varying degrees of renal insufficiency. In August 2017, a combination antibacterial therapy under the market name Vabomere was approved for the treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of vaborbactam and Meropenem and is intravenously admininstered. Vaborbactam is added to the therapy to reduce the extent of meropenem degradation by inhibiting serine beta-lactamases of microorganisms [FDA Label]. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  Indicated in combination with meropenem for the treatment of patients 18 years of age and older with complicated urinary tract infections (cUTI) including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, and Enterobacter cloacae species complex [FDA Label].
+DrugId:  6
+1. Name:  Levofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic fluoroquinolone (fluoroquinolones) antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication. [PubChem]
+4. Indication:  For the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species, Staphylococus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae, Streptococcus (Groups C/F/G), Viridans group streptococci, Acinetobacter lwoffii, Haemophilus influenzae, Serratia marcescens.
+DrugId:  7
+1. Name:  Ertapenem
+2. Groups:  Approved, Investigational
+3. Description:  Ertapenem is a carbapenem antibiotic marketed by Merck as Invanz®. It is structurally very similar to meropenem in that it possess a 1-beta-methyl group. [Wikipedia]
+4. Indication:  For the treatment the following moderate to severe infections caused by susceptible isolates of the designated microorganisms: (1) complicated intra-abdominal infections due to Escherichia coli, Clostridium clostridioforme, Eubacterium lentum, Peptostreptococcus species, Bacteroides fragilis, Bacteroides distasonis, Bacteroides ovatus, Bacteroides thetaiotaomicron, or Bacteroides uniformis, (2) complicated skin and skin structure infections, including diabetic foot infections without osteomyelitis due to Staphylococcus aureus (methicillin susceptible isolates only), Streptococcus agalactiae, Streptococcus pyogenes, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Bacteroides fragilis, Peptostreptococcus species, Porphyromonas asaccharolytica, or Prevotella bivia, (3) community acquired pneumonia due to Streptococcus pneumoniae (penicillin susceptible isolates only) including cases with concurrent bacteremia, Haemophilus influenzae (beta-lactamase negative isolates only), or Moraxella catarrhalis, (4) complicated urinary tract infections including pyelonephritis due to Escherichia coli, including cases with concurrent bacteremia, or Klebsiella pneumoniae, (5) acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
+DrugId:  8
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  9
+1. Name:  Cefotaxime
+2. Groups:  Approved
+3. Description:  Cefotaxime is a third-generation cephalosporin antibiotic. Like other third-generation cephalosporins, it has broad spectrum activity against Gram positive and Gram negative bacteria. In most cases, it is considered to be equivalent to ceftriaxone in terms of safety and efficacy. Cefotaxime sodium is marketed under various trade names including Claforan (Sanofi-Aventis).
+4. Indication:  Used to treat gonorrhoea, meningitis, and severe infections including infections of the kidney (pyelonephritis) and urinary system. Also used before an operation to prevent infection after surgery.
+DrugId:  10
+1. Name:  Doripenem
+2. Groups:  Approved, Investigational
+3. Description:  Doripenem is a broad-spectrum, carbapenem antibiotic marketed under the brand name Doribax by Janssen. Doripenem injection was approved by the FDA in 2007 to treat complicated urinary tract and intra-abdominal infections. In a clinical trial of doripenem treatment in ventilator associated pneumonia (vs. imipenem and cilastatin), it was found that doripenem carried an increased risk of death and lower clinical cure rates, resulting in a premature termination of the trial. The FDA revised the doripenem label in 2014 to include a warning against use in ventilator-associated pneumonia and to reiterate its safety and efficacy for its approved indications. 
+4. Indication:  Doripenem is indicated in the treatment of complicated intra-abdominal infections and complicated urinary tract infections, including pyelonephritis, caused by designated susceptible bacteria.
+DrugId:  11
+1. Name:  Trimethoprim
+2. Groups:  Approved, Vet approved
+3. Description:  A pyrimidine inhibitor of dihydrofolate reductase, it is an antibacterial related to pyrimethamine. The interference with folic acid metabolism may cause a depression of hematopoiesis. It is potentiated by sulfonamides and the trimethoprim-sulfamethoxazole combination is the form most often used. It is sometimes used alone as an antimalarial. Trimethoprim resistance has been reported. [PubChem]
+4. Indication:  For the treatment of urinary tract infections, uncomplicated pyelonephritis (with sulfamethoxazole) and mild acute prostatitis. May be used as pericoital (with sulfamethoxazole) or continuous prophylaxis in females with recurrent cystitis. May be used as an alternative to treat asymptomatic bacteriuria during pregnancy (only before the last 6 weeks of pregnancy). Other uses include: alternative agent in respiratory tract infections (otitis, sinusitus, bronchitis and pneumonia), treatment of Pneumocystis jirovecii pneumonia (acute or prophylaxis), Nocardia infections, and traveller's diarrhea.

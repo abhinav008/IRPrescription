@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Antithrombin Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Antithrombin Alfa is a recombinant antithrombin , an anticoagulant, that is used for the prevention of thromboembolic events in patients that have hereditary deficiency of antithrombin in high risk situations.
+4. Indication:  Antithrombin alfa is a recombinant antithrombin it is indicated for the prevention of peri-operative and peri-partum thromboembolic events in patients with hereditary deficiency of antithrombin. 
+DrugId:  2
+1. Name:  Antithrombin III human
+2. Groups:  Approved
+3. Description:  A plasma alpha 2 glycoprotein that accounts for the major antithrombin activity of normal plasma and also inhibits several other enzymes. It is a member of the serpin superfamily.
+4. Indication:  Antithrombin III human is a human antithrombin (AT) indicated in patients with hereditary antithrombin deficiency for the treatment and prevention of thromboembolism and prevention of peri-operative and peri-partum thromboembolism
+DrugId:  3
+1. Name:  Enoxaparin
+2. Groups:  Approved
+3. Description:  Enoxaparin is a low molecular weight heparin. Enoxaparin is used to prevent and treat deep vein thrombosis or pulmonary embolism, and is given as a subcutaneous injection. Enoxaparin binds to and accelerates the activity of antithrombin III. By activating antithrombin III, enoxaparin preferentially potentiates the inhibition of coagulation factors Xa and IIa. Factor Xa catalyzes the conversion of prothrombin to thrombin, so enoxaparin's inhibition of this process results in decreased thrombin and ultimately the prevention of fibrin clot formation. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  For the prophylaxis of deep vein thrombosis, which may lead to pulmonary embolism, and also for the prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin.
+DrugId:  4
+1. Name:  Nandrolone decanoate
+2. Groups:  Approved, Illicit
+3. Description:  C18 steroid with androgenic and anabolic properties. It is generally prepared from alkyl ethers of estradiol to resemble testosterone but less one carbon at the 19 position. It is a schedule III drug in the U.S.
+4. Indication:  For the treatment of refractory deficient red cell production anemias, breast carcinoma, hereditary angioedema, antithrombin III deficiency, fibrinogen excess, growth failure and Turner's syndrome. It is also indicated in the prophylaxis of hereditary angioedema.
+DrugId:  5
+1. Name:  Nandrolone phenpropionate
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  C18 steroid with androgenic and anabolic properties. It is generally prepared from alkyl ethers of estradiol to resemble testosterone but less one carbon at the 19 position. It is a schedule III drug in the U.S.
+4. Indication:  For the treatment of refractory deficient red cell production anemias, breast carcinoma, hereditary angioedema, antithrombin III deficiency, fibrinogen excess, growth failure and Turner's syndrome. It is also indicated in the prophylaxis of hereditary angioedema.
+DrugId:  6
+1. Name:  Sulodexide
+2. Groups:  Approved, Investigational
+3. Description:  Sulodexide is a mixture of glycosaminoglycans (GAGs) composed of dermatan sulfate (DS) and fast moving heparin (FMH).
+4. Indication:  Sulodexide has been used clinically for the prophylaxis and treatment of vascular diseases with increased risk of thrombosis, including intermittent claudication, peripheral arterial occlusive disease and post-myocardial infarc-tion. Also investigated in the treatment of diabetic kidney disease and diabetic neuropathy. New anti-inflammatory properties have also extended its use in venous disease.
+DrugId:  7
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  8
+1. Name:  Ardeparin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Ardeparin, marketed under the US trade name Normiflo, is a low molecular weight heparin (LMWH) anticoagulant used for the prevention of postoperative venous thrombosis. Ardeparin is derived via peroxide degradation of heparin extracted from porcine intestinal mucosa. Its molecular weight ranges from 2000 to 15,000 with an average molecular weight of 5500 to 6500. Normiflo was withdrawn from the US market in March 2000.
+4. Indication:  For prevention of deep vein thrombosis, which may result in pulmonary embolism, following knee surgery.
+DrugId:  9
+1. Name:  Tinzaparin
+2. Groups:  Approved
+3. Description:  Tinzaparin is a low molecular weight heparin (LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III (ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Tinzaparin is used for the prevention of postoperative venous thromboembolism in patients undergoing orthopedic surgery and in patients undergoing general surgery who are at high risk of developing postoperative venous thromboembolism. It is also used for the treatment of deep vein thrombosis and/or pulmonary embolism. It is indicated for use in preventing clot formation in indwelling intravenous lines for hemodialysis.
+DrugId:  10
+1. Name:  Nadroparin
+2. Groups:  Approved, Investigational
+3. Description:  Nadroparin is a low molecular weight heparin (LMWH) which, when bound to antithrombin III (ATIII), accelerates the inactivation of factor II and factor Xa. Nadroparin halts the coagulation pathway by inhibiting the activation of thrombin (factor IIa) by factor Xa. The amplification of the fibrin clotting cascade is stopped once factors Xa and IIa are inactivated. It is derived from porcine sources and has a mean molecular size of 5000 daltons. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Nadroparin is used for prophylaxis of thromboembolic disorders and general surgery in orthopedic surgery, treatment of deep vein thrombosis, prevention of clotting during hemodialysis and treatment of unstable angina and non-Q wave myocardial infarction
+DrugId:  11
+1. Name:  Ferric Carboxymaltose
+2. Groups:  Approved
+3. Description:  Ferric Carboxymaltose is an iron replacement product and chemically, an iron carbohydrate complex. FDA approved on July 25, 2013. 
+4. Indication:  Ferric carboxymaltose is a iron replacement product indicated for the treatment of iron deficiency anemia in adult patients who have intolerance to oral iron or have had unsatisfactory response to oral iron or those who have non-dialysis dependent chronic kidney disease. 
+DrugId:  12
+1. Name:  Water
+2. Groups:  Approved
+3. Description:  Water (chemical formula: H2O) is a transparent fluid which forms the world's streams, lakes, oceans and rain, and is the major constituent of the fluids of organisms. As a chemical compound, a water molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Water is a liquid at standard ambient temperature and pressure, but it often co-exists on Earth with its solid state, ice; and gaseous state, steam (water vapor).
+4. Indication:  For diluting or dissolving drugs for intravenous, intramuscular or subcutaneous injection, according to instructions of the manufacturer of the drug to be administered [FDA Label].
+DrugId:  13
+1. Name:  Ferric pyrophosphate
+2. Groups:  Experimental
+3. Description:  Ferric pyrophosphate is an iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate.[1] It presents an increasing interest as this insoluble form can be milder in the gastrointestinal tract and present higher bioavailability.[10]
+4. Indication:  Ferric pyrophosphate is intended to be indicated for the treatment of iron loss or iron deficiency as a formulation with a milder gastrointestinal effect.[9, 10] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  14
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Argatroban
+2. Groups:  Approved, Investigational
+3. Description:  Argatroban is a direct, selective thrombin inhibitor. The American College of Cardiologists (ACC) recommend using bivalirudin or argatroban in patients who have had, or at risk for, heparin induced thrombocytopenia (HIT) and are undergoing percutaneous coronary intervention. Argatroban is a non-heparin anticoagulant shown to both normalize platelet count in patients with HIT and prevent the formation of thrombi. Parental anticoagulants must be stopped and a baseline activated partial thromboplastin time must be obtained prior to administering argatroban.
+4. Indication:  Argatroban is indicated for prevention and treatment of thrombosis caused by heparin induced thrombocytopenia (HIT). It is also indicated for use in patients with, or at risk for, HIT who are undergoing percutaneous coronary intervention.
+DrugId:  16
+1. Name:  Apixaban
+2. Groups:  Approved
+3. Description:  Apixaban is an oral, direct, and highly selective factor Xa (FXa) inhibitor (of both free and prothrombinase-bound FXa independently of antithrombin III) for the prevention and treatment of thromboembolic diseases. It is marketed under the name Eliquis. FDA approved on December 28, 2012.
+4. Indication:  Apixaban is to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. It has also been used to lower the risk of developing venous thrombosis post-orthopedic surgical procedures. 
+DrugId:  17
+1. Name:  Fondaparinux sodium
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux (Arixtra) is a synthetic pentasaccharide anticoagulant. Apart from the O-methyl group at the reducing end of the molecule, the identity and sequence of the five monomeric sugar units contained in fondaparinux is identical to a sequence of five monomeric sugar units that can be isolated after either chemical or enzymatic cleavage of the polymeric glycosaminoglycan heparin and heparan sulfate (HS). This monomeric sequence in heparin and HS is thought to form the high affinity binding site for the natural anti-coagulant factor, antithrombin III (ATIII). Binding of heparin/HS to ATIII has been shown to increase the anti-coagulant activity of antithrombin III 1000-fold. Fondaparinux potentiates the neutralizing action of ATIII on activated Factor X 300-fold. Fondaparinux may be used: to prevent venous thromboembolism in patients who have undergone orthopedic surgery of the lower limbs (e.g. hip fracture, hip replacement and knee surgery); to prevent VTE in patients undergoing abdominal surgery who are are at high risk of thromboembolic complications; in the treatment of deep vein thrombosis (DVT) and pumonary embolism (PE); in the management of unstable angina (UA) and non-ST segment elevation myocardial infarction (NSTEMI); and in the management of ST segment elevation myocardial infarction (STEMI).
+4. Indication:  Approved for: (1) prophylaxis of VTE for up to one month post surgery in patients undergoing orthopedic surgery of the lower limbs such as hip fracture, hip replacement and knee surgery; (2) prophylaxis of VTE patients undergoing abdominal surgery who are at high risk of thromboembolic complications (e.g. patients undergoing abdominal cancer surgery); (3) treatment of acute DVT and PE; (4) management of UA and NSTEMI for the prevention of death and subsequent myocardial infarction (MI); and (5) management of STEMI for the prevention of death and myocardial reinfarction in patients who are managed with thrombolytics or who are initially to receive no form of reperfusion therapy. Fondaparinux should not be used as the sole anticoagulant during percutaneous coronary intervention (PCI) due to an increased risk of guiding catheter thrombosis. 
+DrugId:  18
+1. Name:  Iron saccharate
+2. Groups:  Approved
+3. Description:  Iron saccharate (Sucroferric oxyhydroxide or Iron Sucrose) is used as a source of iron in patients with iron deficiency anemia with chronic kidney disease (CKD), including those who are undergoing dialysis (hemodialysis or peritoneal) and those who do not require dialysis. Due to less side effects than iron dextran, iron saccharate is more preferred in chronic kidney disease patients.
+4. Indication:  Iron sucrose is elemental iron as an injection. It replenishes body iron stores in patients with iron deficiency.
+DrugId:  19
+1. Name:  Efmoroctocog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Efmoroctocog alfa is a fully recombinant factor VIII-Fc fusion protein (rFVIIIFc) with an extended half-life compared with conventional factor VIII (FVIII) preparations, including recombinant FVIII (rFVIII) products such as Moroctocog alfa[1]. It is an antihemorrhagic agent used in replacement therapy for patients with haemophilia A (congenital factor VIII deficiency). It is suitable for all age groups. Haemophilia A is a rare bleeding disorder associated with a slow clotting process caused by the deficiency of factor VIII. Patients with this disorder are more susceptible to recurrent bleeding episodes and excessive bleeding following minor traumatic injuries or surgical procedures [1]. Prophylactic treatment may dramatically improve the management of severe haemophilia A in the future by reducing joint bleeding and other hemorrhages that cause chronic pain and disability to patients [1, 2]. Prophylaxis has also shown to reduce the formation of neutralizing anti-FVIII antibodies, or inhibitors [2]. Factor VIII is a blood coagulant factor involved in the intrinsic pathway to form fibrin, or a blood clot. Efmoroctocog alfa is a first commercially available rFVIII-Fc fusion protein (rFVIIIFc) where the conjugated molecule of rFVIII to polyethylene glycol is covalently fused to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein [FDA Label]. The B domain of factor VIII is deleted. In animal models of haemophilia, efmoroctocog alfa demonstrated an approximately two-fold longer t½ than commercially available rFVIII products [1].Other drug products with similar structure and function to Efmoroctocog alfa include Moroctocog alfa, which is produced by recombinant DNA technology and is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function, and Antihemophilic factor human, which is purified endogenous Factor VIII from human pooled blood and contains both A- and B-subunits. It is commonly marketed as Elocta or Eloctate for intravenous injection. To date, no confirmed inhibitory autoantibodies were seen in previously treated patients included in clinical studies and treatment-emergent adverse events were generally consistent with those expected in the patient populations being studied [1]. The extended half-life of efmoroctocog alfa provides several clinical benefits for patients, including reduced frequency of injections required and improved adherence to prophylaxis [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency) [FDA Label].
+DrugId:  20
+1. Name:  Sodium ferric gluconate complex
+2. Groups:  Approved
+3. Description:  Sodium ferric gluconate complex is an iron replacement product for treatment of iron deficiency anemia. The stable macromolecular complex is negatively charged at alkaline pH with an apparent molecular weight of 289,000 – 440,000 daltons on gel chromatography. It is composed of iron (III) oxide hydrate directly bonded to sucrose with a chelating gluconate function in a molar ratio of two iron molecules to one gluconate. It is used in adult and in pediatric patients over the age of 6 years with chronic kidney disease (CKD) receiving hemodialysis and receiving supplemental epoetin therapy.
+4. Indication:  Used to replete the total body content of iron during iron deficiency anemia in patients age 6 years and older with chronic kidney disease receiving hemodialysis and receiving supplemental epoetin therapy.
+DrugId:  21
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Eftrenonacog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Eftrenonacog alfa is a long-acting recombinant fusion protein used in the treatment of hemophilia B. It is comprised of a single molecule of human factor IX (FIX) covalently linked to the constant region (Fc) domain of human IgG1 via recombinant DNA technology in a human embryonic kidney cell line (HEK293H) [1]. The presence of the Fc domain extends the terminal half-life which confers clinical benefits of prolonged therapeutic efficacy, less frequent intravenous injections for patient convenience and improved adherence to prophylaxis. Hemophilia B is a blood disorder with an incidence of approximately once every 30,000 male births in all populations and ethnic groups [2]. It is an X-linked genetic disease caused by mutation of the gene for coagulation protein factor IX (FIX), leading to decreased levels of endogenous factor IX and increased susceptibility to recurrent bleeding episodes caused spontaneously or as a result of accidental or surgical trauma [FDA Label]. When untreated, most patients die from bleeding complications before 25 years of age [2]. Eftrenonacog alfa acts as a replacement therapy to restore the levels of factor IX and allow normal hemostasis. Eftrenonacog alfa was developed and marketed as Alprolix for intravenous injection by Biogen. It was first approved by the FDA in March 2014 and later approved by the EMA in May 2016. Eftrenonacog alfa treatment demonstrated good tolerability with no reports of inhibitor development in clinical studies [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients of all age with haemophilia B (congenital factor IX deficiency).
+DrugId:  23
+1. Name:  Bemiparin
+2. Groups:  Approved, Investigational
+3. Description:  Bemiparin is an antithrombotic and belongs to the group of drugs known as the low molecular weight heparins (LMWH). Like semuloparin, bemiparin is classified as an ultra-LMH because of its low mean molecular mass of 3600 daltons, which is a unique property of this class [1]. These heparins have lower anti-thrombin activity than the traditional low molecular weight heparins and act mainly on factor-Xa, reducing the risk of bleeding due to selectivity for this specific clotting factor. Interestingly, current research is underway for the potential benefit of bemiparin in the treatment of tumors and diabetic foot ulcers [12, 1].
+4. Indication:  Bemiparin is indicated in the following cases: To prevent blood clots in the veins after general abdominal surgery in patients with a moderate risk of venous thromboembolism; in the prevention of the thromboembolic disease in non-surgical patients; prevention of clotting in the extracorporeal circuit during hemodialysis; to prevent blood clots in the veins after a major orthopedic surgery in patients with high risk of venous thromboembolism; secondary prevention of venous thromboembolism; recurrence in patients with deep vein thrombosis; transient prevention and treatment of deep vein thrombosis (DVT) [8].
+DrugId:  24
+1. Name:  Chromic chloride
+2. Groups:  Approved
+3. Description:  Chromic chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  25
+1. Name:  SR-123781A
+2. Groups:  Investigational
+3. Description:  SR-123781A is a synthetic hexadecasaccharide Factor IIa and Xa antagonist. It is under investigation by Sanofi-Aventis and Organon for the treatment of thrombosis and acute coronary syndromes (ACS).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, thrombosis, and venous thromboembolism.

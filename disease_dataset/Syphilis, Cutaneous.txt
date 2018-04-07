@@ -87,3 +87,39 @@ DrugId:  18
 1. Name:  Miltefosine
 2. Groups:  Approved, Investigational
 3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  19
+1. Name:  Forodesine
+2. Groups:  Investigational
+3. Description:  Forodesine is a highly potent, orally active, rationally designed PNP inhibitor that has shown activity in preclinical studies with malignant cells and clinical utility against T-cell acute lymphoblastic leukemia and cutaneous T-cell lymphoma. Additional preliminary findings support its use for the management of some B-cell malignancies.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and leukemia (lymphoid).
+DrugId:  20
+1. Name:  Talarozole
+2. Groups:  Investigational
+3. Description:  Talarozole has been investigated for the treatment of Psoriasis and Cutaneous Inflammation.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Romidepsin
+2. Groups:  Approved, Investigational
+3. Description:  Romidepsin is a selective inhibitor of histone deacetylase, approved in the US in 2009 for the treatment of cutaneous T-cell lymphoma (CTCL) or/and peripheral T-cell lymphoma (PTCL) in patients who have received at least one prior systemic therapy. These indications are based on response rate. Clinical benefit such as improvement in overall survival has not been demonstrated. 
+4. Indication:  For the treatment of cutaneous T-cell lymphoma (CTCL) or/and peripheral T-cell lymphoma (PTCL) in patients who have received at least one prior systemic therapy. These indications are based on response rate. Clinical benefit such as improvement in overall survival has not been demonstrated. 
+DrugId:  22
+1. Name:  Myrrh
+2. Groups:  Approved
+3. Description:  Extractives and their physically modified derivatives such as tinctures, concretes, absolutes, essential oils, oleoresins, terpenes, terpene-free fractions, distillates, residues, obtained from Commiphora abyssinica, Burseraceae.
+4. Indication:  FDA approved only for use in food. Historically used for indigestion, ulcers, colds, cough, asthma, bronchial congestion, arthritic pain, cancer, leprosy, and syphilis. It is also used orally as a stimulant, antispasmodic, and to increase menstrual flow. Topically, myrrh is used for mild inflammation of the oral and pharyngeal mucosa, aphthous ulcers, gingivitis, chapped lips, hemorrhoids, bedsores, wounds, abrasions, furunculosis, bad breath, and loose teeth. In foods and beverages, myrrh is used as a flavoring component. In manufacturing, myrrh is used as a fragrance and fixative in cosmetics. It is also used in embalming and as incense. 
+DrugId:  23
+1. Name:  Bromodiphenhydramine
+2. Groups:  Approved
+3. Description:  Bromodiphenhydramine is an ethanolamine antihistamine with antimicrobial property. Bromodiphenhydramine is used in the control of cutaneous allergies. Ethanolamine antihistamines produce marked sedation in most patients
+4. Indication:  For management of symptoms related to hay fever and other types of allergy and used to help bring up phlegm, thin secretions, and make a cough productive.
+DrugId:  24
+1. Name:  Clobetasol
+2. Groups:  Approved, Investigational
+3. Description:  Clobetasol is under investigation for the treatment of Scleroderma. Clobetasol has been investigated for the prevention of Psoriasis and Cutaneous Atrophy Due to Corticosteroids.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Levomenol
+2. Groups:  Approved, Experimental
+3. Description:  Bisabolol, or more formally α-(−)-bisabolol or also known as levomenol, (-)-alpha-Bisabolol is found in fats and oils. (-)-alpha-Bisabolol is isolated from essential oil of Matricaria chamomilla (German chamomile) (-)-alpha-Bisabolol belongs to the family of Sesquiterpenes. These are terpenes with three consecutive isoprene units.
+4. Indication:  Levomenol is known to have anti-irritant, anti-inflammatory and anti-microbial properties. Bisabolol is also demonstrated to enhance the percutaneous absorption of certain molecules

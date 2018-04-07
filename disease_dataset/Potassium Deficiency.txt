@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Potassium gluconate
+2. Groups:  Approved, Experimental
+3. Description:  Potassium gluconate is a source of potassium that is consisted of potassium cations and the conjugate base of gluconic acid. It has the formula C6H11KO7. It is found in mineral supplements and sequestrants including OTC products to prevent potassium deficiency.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Potassium Chloride
+2. Groups:  Approved, Withdrawn
+3. Description:  A white crystal or crystalline powder used as an electrolyte replenisher, in the treatment of hypokalemia, in buffer solutions, and in fertilizers and explosives.
+4. Indication:  For use as an electrolyte replenisher and in the treatment of hypokalemia.
+DrugId:  3
+1. Name:  Clavulanate
+2. Groups:  Approved, Vet approved
+3. Description:  Clavulanic acid and its salts and esters. The acid is a suicide inhibitor of bacterial beta-lactamase enzymes from Streptomyces clavuligerus. Administered alone, it has only weak antibacterial activity against most organisms, but given in combination with beta-lactam antibiotics prevents antibiotic inactivation by microbial lactamase. [PubChem]
+4. Indication:  For use with Amoxicillin, clavulanic acid is suitable for the treatment of infections with Staph. aureus and Bacteroides fragilis, or with beta-lactamase producing H. influenzae and E. coli.
+DrugId:  4
+1. Name:  Amoxicillin
+2. Groups:  Approved, Vet approved
+3. Description:  A broad-spectrum semisynthetic antibiotic similar to ampicillin except that its resistance to gastric acid permits higher serum levels with oral administration. Amoxicillin is commonly prescribed with clauvanic acid (a beta lactamase inhibitor) as it is susceptible to beta-lacatamase degradation.
+4. Indication:  For the treatment of infections of the ear, nose, and throat, the genitourinary tract, the skin and skin structure, and the lower respiratory tract due to susceptible (only b-lactamase-negative) strains of Streptococcus spp. (a- and b-hemolytic strains only), S. pneumoniae, Staphylococcus spp., H. influenzae, E. coli, P. mirabilis, or E. faecalis. Also for the treatment of acute, uncomplicated gonorrhea (ano-genital and urethral infections) due to N. gonorrhoeae (males and females).
+DrugId:  5
+1. Name:  Methyclothiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with properties similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p825)
+4. Indication:  For use in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension. Also used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy.
+DrugId:  6
+1. Name:  Losartan
+2. Groups:  Approved
+3. Description:  Losartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. Losartan and its longer acting metabolite, E-3174, lower blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); they compete with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Losartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of systolic dysfunction, myocardial infarction, coronary artery disease, and heart failure. 
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Losartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  7
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Potassium permanganate
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Potassium bicarbonate
+2. Groups:  Approved
+3. Description:  Potassium bicarbonate is a white, crystalline, slightly alkaline and salty substance. It is produced by the passage of carbon dioxide through an aqueous potassium carbonate solution. It is used in medicine as an antacid.[3] It is registered in the FDA under the section of suitable, safe and effective ingredients for OTC antacids.[7] This FDA denomination classifies potassium bicarbonate as a GRAS ingredient.[8]
+4. Indication:  Potassium bicarbonate is used as an antacid, electrolyte replenisher and potassium supplement. It can also be used as an excipient in drug formulations.[8] An antacid is a medication used to neutralize gastric acid in a short timeframe after ingestion and the effect is soon overcome by meal-stimulated acid secretion.[1]
+DrugId:  10
+1. Name:  Potassium
+2. Groups:  Approved, Investigational
+3. Description:  Potassium is the major cation (positive ion) inside animal cells, while sodium is the major cation outside animal cells. The concentration differences of these charged particles causes a difference in electric potential between the inside and outside of cells, known as the membrane potential. The balance between potassium and sodium is maintained by ion pumps in the cell membrane. The cell membrane potential created by potassium and sodium ions allows the cell generate an action potential—a "spike" of electrical discharge. The ability of cells to produce electrical discharge is critical for body functions such as neurotransmission, muscle contraction, and heart function. Potassium is also an essential mineral needed to regulate water balance, blood pressure and levels of acidity.
+4. Indication:  Potassium is used to regulate hypokalemia as a primary condition or secondary to other medical conditions. 
+DrugId:  11
+1. Name:  Potassium Citrate
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Potassium citrate (also known as tripotassium citrate) is a potassium salt of citric acid. It is a white, hygroscopic crystalline powder. It is odorless with a saline taste. It contains 38.3% potassium by mass. In the monohydrate form it is highly hygroscopic and deliquescent.Potassium citrate is used to treat a kidney stone condition called renal tubular acidosis. Potassium Citrate is indicated also for the management of Hypocitraturic calcium oxalate nephrolithiasis.
+4. Indication:  For the management of renal tubular acidosis, hypocitraturic calcium oxalate nephrolithiasis, and uric acid lithiasis with or without calcium stones.
+DrugId:  12
+1. Name:  Gliquidone
+2. Groups:  Approved, Investigational
+3. Description:  Gliquidone is an anti-diabetic drug in the sulfonylurea class. It is used in the treatment of diabetes mellitus type 2. It is an ATP-dependent K+ (KATP) channel blocker. This block causes a depolarization which leads to activation of voltage-dependent Ca channels and Ca2+ influx, and eventually increases insulin release.
+4. Indication:  Used in the treatment of diabetes mellitus type 2.
+DrugId:  13
+1. Name:  Potassium dichromate
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Manganese
+2. Groups:  Approved, Nutraceutical
+3. Description:  Manganese is a transition metal with a molar mass of 54.94g/mol. Manganese is considered critical for human health, and plays important roles in development, metabolism, and the antioxidant system. That said, excessive manganese intake is associated with manganism, a neurodegenerative disorder that causes dopaminergic neuronal death and parkinsonian-like symptoms.
+4. Indication:  Indicated for use as a supplement to intravenous solutions given for Total Parenteral Nutrition (TPN). Administration helps to maintain plasma levels and to prevent depletion of endogenous stores and subsequent deficiency symptoms.
+DrugId:  15
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Tolevamer
+2. Groups:  Approved, Investigational
+3. Description:  Sodium polystyrene sulfonate is a medication used to treat abnormally high potassium levels. It may be taken orally or by rectum, as an enema, and functions as a potassium-binding resin in the intestines. It is also an effective topical microbicide and spermicide, inhibiting the genital transfection of, among others, HIV.
+4. Indication:  Used to treat abnormally high potassium levels.
+DrugId:  17
+1. Name:  Epitizide
+2. Groups:  Experimental
+3. Description:  Epitizide is a diuretic. It is often combined with triamterene.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Monopotassium phosphate
+2. Groups:  Approved, Vet approved
+3. Description:  Monopotassium phosphate, MKP, (also potassium dihydrogenphosphate, KDP, or monobasic potassium phosphate), KH2PO4, is a soluble salt of potassium and the dihydrogen phosphate ion. It is a source of phosphorus and potassium. It is also a buffering agent. When used in fertilizer mixtures with urea and ammonium phosphates, it minimizes escape of ammonia by keeping the pH at a relatively low level.
+4. Indication:  Used in buffers (determination of pH, pharmaceutical production, urinary acidifier, paper processing, baking powder, and food), nutrient solutions, yeast foods, special liquid fertilizers, sonar systems and other electronic applications;Used as a nutritional supplement in foods, a nonlinear optical material for laser use, and in wastewater treatment; 
+DrugId:  19
+1. Name:  Potassium alum
+2. Groups:  Approved
+3. Description:  Potassium alum is considered by the FDA as a generally recognized as safe (GRAS) substance.[9] It is an inorganic salt, also called potassium aluminum sulfate with a formula of AlK(SO4)2 that is predominantly produced in the dodecahydrate form (AlK(SO4)2 * 12H2O). Potassium alum is formed by large, transparent crystals that are used in different products like food or drugs as a buffer, neutralizing or forming agent.[4]
+4. Indication:  Potassium alum is considered safe by the FDA and its use is in homepathic or OTC products. Due to its presence in several different drugs, the main indications for the use of potassium alum are:-Constipation[10]-Cosmetic or drug astringent, helping the shrinkage of tissues and the dry of secretions[11]-Oral health care drug[11]-Part of formulation in cleansing products, skin-care products, mosturizers, face powders and deodorants[12]-Antiperspirant[13]-Antifungal[13]
+DrugId:  20
+1. Name:  Canrenoic acid
+2. Groups:  Approved, Withdrawn
+3. Description:  Canrenoic acid (as the salt potassium canrenoate) is an aldosterone antagonist. Like spironolactone, it is a prodrug, which is metabolized to canrenone in the body.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  tripotassium (1R)-4-biphenyl-4-yl-1-phosphonatobutane-1-sulfonate
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Fluoxymesterone
+2. Groups:  Approved, Illicit
+3. Description:  An anabolic steroid that has been used in the treatment of male hypogonadism, delayed puberty in males, and in the treatment of breast neoplasms in women. [PubChem]
+4. Indication:  In males, used as replacement therapy in conditions associated with symptoms of deficiency or absence of endogenous testosterone. In females, for palliation of androgenresponsive recurrent mammary cancer in women who are more than one year but less than five years postmenopausal.
+DrugId:  24
+1. Name:  Ferrous asparto glycinate
+2. Groups:  Approved
+3. Description:  Ferrous asparto glycinate is an iron-amino acid chelate. It is available as a dietary supplement used in the treatment of iron deficiency and iron deficiency anemia.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Potassium bitartrate
+2. Groups:  Approved
+3. Description:  Potassium bitartate is a potassium acid salt of tartaric acid that is a byproduct of winemaking during the fermentation process. It is added in food products as an additive, stabilizer or thickening agent. It can be found in some rectally-administered laxatives for the relief of occasional constipation and production of a bowel movement.
+4. Indication:  Not Available

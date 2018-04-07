@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Avibactam
+2. Groups:  Approved
+3. Description:  Avibactam is a non-β-lactam β-lactamase inhibitor that is available in combination with ceftazidime (Avycaz). This combination was approved by the FDA on February 25, 2015 for the treatment of complicated intra-abdominal infections in combination with metronidazole, and the treatment of complicated urinary tract infections, including pyelonephritis caused by antibiotic resistant-pathogens, including those caused by multi-drug resistant gram-negative bacterial pathogens. As there is limited clinical safety and efficacy data, Avycaz should be reserved for patients over 18 years old who have limited or not alternative treatment options. 
+4. Indication:  AVYCAZ (ceftazidime-avibactam), in combination with metronidazole, is indicated for the treatment of complicated intra-abdominal infections caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Providencia stuartii, Enterobacter cloacae, Klebsiella oxytoca, and Pseudomonas aeruginosa in patients 18 years or older.AVYCAZ is also indicated for the treatment of complicated urinary tract infections including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, Citrobacter koseri, Enterobacter aerogenes, Enterobacter cloacae, Citrobacter freundii, Proteus spp., and Pseudomonas aeruginosa in patients 18 years or older.
+DrugId:  2
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  3
+1. Name:  Sulfadimethoxine
+2. Groups:  Approved, Vet approved
+3. Description:  Sulfadimethoxine is a sulfonamide antibiotic. Sulfadimethoxine is used to treat many infections including treatment of respiratory, urinary tract, enteric, and soft tissue infections. It is most frequently used in veterinary medicine, although it is approved in some countries for use in humans. Sulfadimethoxine inhibits bacterial synthesis of folic acid (pteroylglutamic acid) from para-aminobenzoic acid. Sulfadimethoxine is approved in Russia for use in humans, including children, and has been successfully used there for more than 35 years. It is widely available in Russia as an over-the-counter drug manufactured by a number of Russian pharmaceutical companies.
+4. Indication:  For use in the treatment of infections.
+DrugId:  4
+1. Name:  Cefprozil
+2. Groups:  Approved
+3. Description:  Cefprozil is a cephalosporin antibiotic. It can be used to treat bronchitis, ear infections, skin infections, and other bacterial infections.
+4. Indication:  For the treatment of the following infections (respiratory, skin, soft tissue, UTI, ENT) caused by; S. pneumoniae, H. influenzae, staphylococci, S. pyogenes (group A beta-hemolytic streptococci), E. coli, P. mirabilis, Klebsiella sp, coagulase-negative staph
+DrugId:  5
+1. Name:  Ertapenem
+2. Groups:  Approved, Investigational
+3. Description:  Ertapenem is a carbapenem antibiotic marketed by Merck as Invanz®. It is structurally very similar to meropenem in that it possess a 1-beta-methyl group. [Wikipedia]
+4. Indication:  For the treatment the following moderate to severe infections caused by susceptible isolates of the designated microorganisms: (1) complicated intra-abdominal infections due to Escherichia coli, Clostridium clostridioforme, Eubacterium lentum, Peptostreptococcus species, Bacteroides fragilis, Bacteroides distasonis, Bacteroides ovatus, Bacteroides thetaiotaomicron, or Bacteroides uniformis, (2) complicated skin and skin structure infections, including diabetic foot infections without osteomyelitis due to Staphylococcus aureus (methicillin susceptible isolates only), Streptococcus agalactiae, Streptococcus pyogenes, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Bacteroides fragilis, Peptostreptococcus species, Porphyromonas asaccharolytica, or Prevotella bivia, (3) community acquired pneumonia due to Streptococcus pneumoniae (penicillin susceptible isolates only) including cases with concurrent bacteremia, Haemophilus influenzae (beta-lactamase negative isolates only), or Moraxella catarrhalis, (4) complicated urinary tract infections including pyelonephritis due to Escherichia coli, including cases with concurrent bacteremia, or Klebsiella pneumoniae, (5) acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
+DrugId:  6
+1. Name:  Cefadroxil
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  Long-acting, broad-spectrum, water-soluble, cephalexin derivative.
+4. Indication:  For the treatment of the following infections (skin, UTI, ENT) caused by; S. pneumoniae, H. influenzae, staphylococci, S. pyogenes (group A beta-hemolytic streptococci), E. coli, P. mirabilis, Klebsiella sp, coagulase-negative staphylococci and Streptococcus pyogenes
+DrugId:  7
+1. Name:  Sulbactam
+2. Groups:  Approved
+3. Description:  Sulbactam is a β-lactamase inhibitor given in combination with β-lactam antibiotics to inhibit β-lactamase, an enzyme produced by bacteria that destroys antibiotic activity.
+4. Indication:  Sulbactam is currently available in combination products with ampicillin. Within this formulation it is indicated for the treatment of infections due to susceptible strains of the designated microorganisms in the conditions listed below.Skin and Skin Structure Infections caused by beta-lactamase producing strains of Staphylococcus aureus, Escherichia coli, Klebsiella spp. (including K. pneumoniae), Proteus mirabilis, Bacteroides fragilis, Enterobacter spp., and Acinetobacter calcoaceticus.Intra-Abdominal Infections caused by beta-lactamase producing strains of Escherichia coli, Klebsiella spp. (including K. pneumoniae), Bacteroides spp. (including B. fragilis), and Enterobacter spp.Gynecological Infections caused by beta-lactamase producing strains of Escherichia coli, and Bacteroides spp. (including B. fragilis).
+DrugId:  8
+1. Name:  Enoxacin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum 6-fluoronaphthyridinone antibacterial agent (fluoroquinolones) structurally related to nalidixic acid. [PubChem]
+4. Indication:  For the treatment of adults (≥18 years of age) with the following infections caused by susceptible strains of the designated microorganisms: (1) uncomplicated urethral or cervical gonorrhea due to Neisseria gonorrhoeae, (2) uncomplicated urinary tract infections (cystitis) due to Escherichia coli, Staphylococcus epidermidis, or Staphylococcus saprophyticus, and (3) complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Staphylococcus epidermidis, or Enterobacter cloacae.
+DrugId:  9
+1. Name:  Tigecycline
+2. Groups:  Approved
+3. Description:  Tigecycline is a glycylcycline antibiotic developed and marketed by Wyeth under the brand name Tygacil. It was given a U.S. Food and Drug Administration (FDA) fast-track approval and was approved on June 17, 2005. It was developed in response to the growing prevalence of antibiotic resistance in bacteria such as Staphylococcus aureus.
+4. Indication:  For the treatment of infections caused by susceptible strains of the designated microorganisms in the following conditions: Complicated skin and skin structure infections caused by Escherichia coli, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible and -resistant isolates), Streptococcus agalactiae, Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Streptococcus pyogenes and Bacteroides fragilis. Complicated intra-abdominal infections caused by Citrobacter freundii, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides vulgatus, Clostridium perfringens, and Peptostreptococcus micros.
+DrugId:  10
+1. Name:  Cefaclor
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibiotic derivative of cephalexin.
+4. Indication:  For the treatment of certain infections caused by bacteria such as pneumonia and ear, lung, skin, throat, and urinary tract infections.
+DrugId:  11
+1. Name:  Amdinocillin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Amidinopenicillanic acid derivative with broad spectrum antibacterial action. It is poorly absorbed if given orally and is used in urinary infections and typhus. Amdinocillin is not available in the United States.
+4. Indication:  Used in the treatment of urinary tract infections caused by some strains of E. coli and klebsiella and enterobacter species. Used mainly against Gram negative organisms.
+DrugId:  12
+1. Name:  Cephalexin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A semisynthetic cephalosporin antibiotic with antimicrobial activity similar to that of cephaloridine or cephalothin, but somewhat less potent. It is effective against both gram-positive and gram-negative organisms.
+4. Indication:  For the treatment of respiratory tract infections caused by Streptococcus pneumoniae and Streptococcus pyogenes; otitis media due to Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, and Moraxella catarrhalis; skin and skin structure infections caused by Staphylococcus aureus and/or Streptococcus pyogenes; bone infections caused by Staphylococcus aureus and/or Proteus mirabilis; genitourinary tract infections, including acute prostatitis, caused by Escherichia coli, Proteus mirabilis, and Klebsiella pneumoniae.
+DrugId:  13
+1. Name:  Cinoxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Synthetic antimicrobial related to oxolinic acid and nalidixic acid and used in urinary tract infections. [PubChem]
+4. Indication:  For the treatment of initial and recurrent urinary tract infections in adults caused by the following susceptible microorganisms: Escherichia coli, Proteus mirabilis, Proteus vulgaris, Klebsiella species (including K. pneumoniae), and Enterobacter species.
+DrugId:  14
+1. Name:  Ceftriaxone
+2. Groups:  Approved
+3. Description:  A broad-spectrum cephalosporin antibiotic with a very long half-life and high penetrability to meninges, eyes and inner ears. [PubChem]
+4. Indication:  For the treatment of the infections (respiratory, skin, soft tissue, UTI, ENT) caused by S. pneumoniae, H. influenzae, staphylococci, S. pyogenes (group A beta-hemolytic streptococci), E. coli, P. mirabilis, Klebsiella sp, coagulase-negative staph
+DrugId:  15
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  16
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  17
+1. Name:  Nalidixic Acid
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic 1,8-naphthyridine antimicrobial agent with a limited bacteriocidal spectrum. It is an inhibitor of the A subunit of bacterial DNA gyrase. [PubChem]
+4. Indication:  For the treatment of urinary tract infections caused by susceptible gram-negative microorganisms, including the majority of E. Coli, Enterobacter species, Klebsiella species, and Proteus species.
+DrugId:  18
+1. Name:  Cefuroxime
+2. Groups:  Approved
+3. Description:  Broad-spectrum cephalosporin antibiotic resistant to beta-lactamase. It has been proposed for infections with gram-negative and gram-positive organisms, gonorrhea, and haemophilus. [PubChem]
+4. Indication:  For the treatment of many different types of bacterial infections such as bronchitis, sinusitis, tonsillitis, ear infections, skin infections, gonorrhea, and urinary tract infections.
+DrugId:  19
+1. Name:  Meropenem
+2. Groups:  Approved, Investigational
+3. Description:  Meropenem is a broad-spectrum carbapenem antibiotic. It is active against Gram-positive and Gram-negative bacteria. Meropenem exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death.In August 2017, a combination antibacterial therapy under the market name vabomere was approved for treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of meropenem and Vaborbactam and is intravenously admininstered. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  For use as single agent therapy for the treatment of the following infections when caused by susceptible isolates of the designated microorganisms: complicated skin and skin structure infections due to Staphylococcus aureus (b-lactamase and non-b-lactamase producing, methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (excluding vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis and Peptostreptococcus species; complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species. Also for use in the treatment of bacterial meningitis caused by Streptococcus pneumoniae, Haemophilus influenzae (b-lactamase and non-b-lactamase-producing isolates), and Neisseria meningitidis.
+DrugId:  20
+1. Name:  Delafloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Delafloxacin is a fluoroquinolone antibiotic which has been used in trials studying the treatment and basic science of Gonorrhea, Hepatic Impairment, Bacterial Skin Diseases, Skin Structure Infections, and Community Acquired Pneumonia, among others. It was approved in June 2017 under the trade name Baxdela for use in the treatment of acute bacterial skin and skin structure infections.
+4. Indication:  Delafloxacin is indicated for the treatment of acute bacterial skin and skin structure infections caused by the Gram-positive organisms Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates), Staphylococcus haemolyticus, Staphylococcus lugdunensis, Streptococcus agalactiae, Streptococcus anginosus Group (including Streptococcus anginosus, Streptococcus intermedius, and Streptococcus constellatus), Streptococcus pyogenes, and Enterococcus faecalis as well as the Gram-negative organisms Escherichia coli, Enterobacter cloacae, Klebsiella pneumoniae, and Pseudomonas aeruginosa [FDA Label].
+DrugId:  21
+1. Name:  Mezlocillin
+2. Groups:  Approved, Investigational
+3. Description:  Semisynthetic ampicillin-derived acylureido penicillin. It has been proposed for infections with certain anaerobes and may be useful in inner ear, bile, and CNS infections. [PubChem]
+4. Indication:  Used to treat serious gram–negative infections of the lungs, urinary tract, and skin.
+DrugId:  22
+1. Name:  Ceforanide
+2. Groups:  Approved
+3. Description:  Ceforanide is a second-generation parenteral cephalosporin antibiotic. It has a longer elimination half-life than any currently available cephalosporin. Its activity is very similar to that of cefamandole, a second-generation cephalosporin, except that ceforanide is less active against most gram-positive organisms. Many coliforms, including Escherichia coli, Klebsiella, Enterobacter, and Proteus, are susceptible to ceforanide, as are most strains of Salmonella, Shigella, Hemophilus, Citrobacter and Arizona species.
+4. Indication:  For the treatment of infections caused by susceptible organisms.
+DrugId:  23
+1. Name:  Cefmetazole
+2. Groups:  Approved, Investigational
+3. Description:  A semisynthetic cephamycin antibiotic with a broad spectrum of activity against both gram-positive and gram-negative microorganisms. It has a high rate of efficacy in many types of infection and to date no severe side effects have been noted. [PubChem]
+4. Indication:  For the treatment of infections caused by susceptible organisms.
+DrugId:  24
+1. Name:  Ceftizoxime
+2. Groups:  Approved, Investigational
+3. Description:  A semisynthetic cephalosporin antibiotic which can be administered intravenously or by suppository. The drug is highly resistant to a broad spectrum of beta-lactamases and is active against a wide range of both aerobic and anaerobic gram-positive and gram-negative organisms. It has few side effects and is reported to be safe and effective in aged patients and in patients with hematologic disorders. [PubChem]
+4. Indication:  For the treatment of infections due to susceptible strains of microorganisms.
+DrugId:  25
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.

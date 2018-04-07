@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bacillus calmette-guerin substrain danish 1331 live antigen
+2. Groups:  Investigational
+3. Description:  BCG SSI has been used in trials studying Tuberculosis.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Yellow Fever Vaccine
+2. Groups:  Approved, Investigational
+3. Description:  Yellow Fever vaccine prevents against Yellow Fever, a viral hemorrhagic disease caused by the transmission of a flavivirus through the bite of an infected mosquito. Symptoms of Yellow Fever can range from asymptomatic, to mild flu-like illness, to more severe symptoms such as shock, jaundice, internal bleeding, and organ failure [4]. Interestingly, Yellow Fever got its name from the characteristic yellowing of the skin and eyes that occurs from the development of jaundice when the virus attacks the liver. Although there is supportive treatment available for managing Yellow Fever, there are currently no antivirals developed to specifically treat Yellow Fever. Vaccination with Yellow Fever vaccine is therefore considered to be the most important and effective measure to protect against Yellow Fever, with protective immunity developing within 10 days after vaccination; in two separate clinical trials of Yellow Fever Vaccine, 90% of subjects seroconverted within 10 days after vaccination, and 100% of subjects seroconverted within 14 days [FDA Label]. The World Health Organization no longer recommends the use of a 10-year booster dose following primary immunization, as a single dose is "sufficient to confer life-long immunity against yellow fever disease" [3]. Yellow Fever is most commonly found in the southern hemisphere, in tropical regions of Africa and Central/South America [2]. The World Health Organization recommends routine vaccination in countries where Yellow Fever is endemic, and for travellers going to endemic areas as proof of vaccination is often a requirement at border crossings to prevent international spread of the disease [2, 5].Yellow Fever Vaccine is a subcutaneously administered vaccination for the active immunization and prophylaxis of yellow fever in pediatric patients 9 months of age and older. It is composed of two live, attenuated strains of yellow fever virus, 17D-204 and 17DD, which have been shown to elicit an immune response identical to that induced by wild-type infection [FDA Label]. The FDA recommends vaccination with Yellow Fever Vaccine for persons living in or travelling to endemic areas and for laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus.
+4. Indication:  Yellow Fever Vaccine is indicated for active immunization for the prevention of yellow fever in persons 9 months of age and older in the following categories:Persons Living in or Traveling to Endemic Areas: While the actual risk for contracting yellow fever during travel is probably low, variability of itineraries, behaviors and seasonal incidence of disease make it difficult to predict the actual risk for a given individual living in or traveling to a known endemic or epidemic area. Greater risk is associated with living in or traveling to areas of South America and Africa where yellow fever infection is officially reported at the time of travel and with traveling outside the urban areas of countries that do not officially report the disease but that lie in a yellow fever endemic zone.Persons Travelling Internationally Through Countries with Yellow Fever: Some countries require an individual to have a valid International Certificate of Vaccination or Prophylaxis (ICVP) if the individual has been in countries either known or thought to harbor yellow fever virus. The certificate becomes valid 10 days after vaccination with Yellow Fever Vaccine.Laboratory Personnel: Laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus strains may be at risk of exposure by direct or indirect contact or by aerosols.
+DrugId:  3
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  4
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Terizidone
+2. Groups:  Approved, Investigational
+3. Description:  Terizidone has been used in trials studying the treatment of Tuberculosis, HIV Infections, Multidrug Resistant Tuberculosis, and Extensively-drug Resistant Tuberculosis.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Delamanid
+2. Groups:  Approved, Investigational
+3. Description:  Delamanid is an anti-tuberculosis agent derived from the nitro-dihydro-imidazooxazole class of compounds that inhibits mycolic acid synthesis of bacterial cell wall [1]. It is used in the treatment of multidrug-resistant and extensively drug-resistant tuberculosis (TB) in a combination regimen. Emergence of multidrug-resistant and extensively drug-resistant tuberculosis creates clinical challenges for patients, as the disease is associated with a higher mortality rate and insufficient therapeutic response to standardized antituberculosis treatments as Isoniazid and Rifampicin. Multidrug-resistant tuberculosis may also require more than 2 years of chemotherapy and second-line therapies with narrow therapeutic index [4]. In a clinical study involving patients with pulmonary multidrug-resistant tuberculosis or extensively drug-resistant tuberculosis, treatment of delamanid in combination with WHO-recommended optimised background treatment regimen was associated with improved treatment outcomes and reduced mortality rate [1]. Spontaneous resistance to delamanid was observed during treatment, where mutation in one of the 5 F420 coenzymes responsible for bioactivation of delamanid contributes to this effect [6]. Delamanid is approved by the EMA and is marketed under the trade name Deltyba as oral tablets. It is marketed by Otsuka Pharmaceutical Co., Ltd (Tokyo, Japan).
+4. Indication:  Indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adult patients when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability [6].
+DrugId:  7
+1. Name:  Ethionamide
+2. Groups:  Approved
+3. Description:  A second-line antitubercular agent that inhibits mycolic acid synthesis. It also may be used for treatment of leprosy. (From Smith and Reynard, Textbook of Pharmacology, 1992, p868)
+4. Indication:  For use in the treatment of pulmonary and extrapulmonary tuberculosis when other antitubercular drugs have failed.
+DrugId:  8
+1. Name:  Pyrazinamide
+2. Groups:  Approved, Investigational
+3. Description:  A pyrazine that is used therapeutically as an antitubercular agent.
+4. Indication:  For the initial treatment of active tuberculosis in adults and children when combined with other antituberculous agents.
+DrugId:  9
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  10
+1. Name:  Sutezolid
+2. Groups:  Investigational
+3. Description:  Sutezolid has been used in trials studying the treatment of Tuberculosis.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Rifapentine
+2. Groups:  Approved, Investigational
+3. Description:  Rifapentine is an antibiotic drug used in the treatment of tuberculosis. It inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme.
+4. Indication:  For the treatment of pulmonary tuberculosis.
+DrugId:  12
+1. Name:  Ethambutol
+2. Groups:  Approved
+3. Description:  An antitubercular agent that inhibits the transfer of mycolic acids into the cell wall of the tubercle bacillus. It may also inhibit the synthesis of spermidine in mycobacteria. The action is usually bactericidal, and the drug can penetrate human cell membranes to exert its lethal effect. (From Smith and Reynard, Textbook of Pharmacology, 1992, p863)
+4. Indication:  For use, as an adjunct, in the treatment of pulmonary tuberculosis.
+DrugId:  13
+1. Name:  Bacillus calmette-guerin substrain tice live antigen
+2. Groups:  Approved
+3. Description:  Bacillus calmette-guerin substrain tice live antigen is a vaccine containing attenuated live culture preparation of the Bacillus of Calmette and Guerin (BCG) strain of Mycobacterium bovis for percutaneous use. It is administered to prevent the development of tuberculosis.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  5-amino-1,3,4-thiadiazole-2-thiol
+2. Groups:  Investigational
+3. Description:  ATT has been investigated in Pulmonary Tuberculosis.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Viomycin
+2. Groups:  Approved
+3. Description:  Viomycin is a member of the tuberactinomycin family, a group of nonribosomal peptide antibiotics exhibiting anti-tuberculosis properties. The tuberactinomycin family is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis. Viomycin was the first member of the tuberactinomycins to be isolated and identified and was used to treat TB until it was replaced by the less toxic, but structurally related compound, capreomycin. The tuberactinomycins target bacterial ribosomes, binding RNA and disrupting bacterial protein biosynthesis. It is produced by the actinomycete Streptomyces puniceus, that binds to RNA and inhibits prokaryotic protein synthesis and certain forms of RNA splicing. [Wikipedia]
+4. Indication:  Viomycin is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis.
+DrugId:  16
+1. Name:  Bedaquiline
+2. Groups:  Approved
+3. Description:  Bedaquiline is a bactericidal antimycobacterial drug. Chemically it is a diarylquinoline. FDA approved on December 28, 2012. 
+4. Indication:  Bedaquiline is indicated as part of combination therapy in adults (≥ 18 years) with pulmonary multi-drug resistant tuberculosis (MDR-TB). 
+DrugId:  17
+1. Name:  Faropenem
+2. Groups:  Investigational
+3. Description:  Faropenem has been used in trials studying the treatment of Tuberculosis, Pulmonary Tuberculosis, and Community Acquired Pneumonia.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Isoniazid
+2. Groups:  Approved, Investigational
+3. Description:  Antibacterial agent used primarily as a tuberculostatic. It remains the treatment of choice for tuberculosis. [PubChem]
+4. Indication:  For the treatment of all forms of tuberculosis in which organisms are susceptible.
+DrugId:  19
+1. Name:  Aminosalicylic Acid
+2. Groups:  Approved
+3. Description:  An antitubercular agent often administered in association with isoniazid. The sodium salt of the drug is better tolerated than the free acid.
+4. Indication:  For the treatment of tuberculosis
+DrugId:  20
+1. Name:  Golotimod
+2. Groups:  Investigational
+3. Description:  SCV-07 (g -D-glutamyl-L-tryptophan) is a novel synthetic dipeptide that acts broadly on the Toll-like receptor pathway. It has been shown to stimulate T-lymphocyte differentiation, macrocytic phagocytosis, and specific immune responses, and enhance IL-2 and INF-g production. Due to this preferential activation of Th1 cytokine production, SCV-07 may show utility in treatment of tuberculosis. It can be administered orally or subcutaneously. In independent studies, treatment of tuberculosis with SCV-07 improved clearance of mycobacteria, improved cavity healing, improvements in immune parameters and reduced symptoms (fever, weakness, sweating, dry cough, productive cough, dyspnea, chest pain, tachycardia) without any adverse local or general effects. SCV-07 has shown efficacy in treating various viral and bacterial infections.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), infectious and parasitic disease (unspecified), and tuberculosis.
+DrugId:  21
+1. Name:  SQ-109
+2. Groups:  Investigational
+3. Description:  SQ-109 is an orally active, small molecule antibiotic for treatment of pulmonary TB. Currently in Phase I clinical trials, SQ-109 could replace one or more drugs in the current first-line TB drug regimen, simplify therapy, and shorten the TB treatment regimen.
+4. Indication:  Investigated for use/treatment in bacterial infection, infectious and parasitic disease (unspecified), and tuberculosis.
+DrugId:  22
+1. Name:  Protionamide
+2. Groups:  Approved, Investigational
+3. Description:  Prothionamide has been used in trials studying the treatment of MDR-TB and HIV Infections.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Amithiozone
+2. Groups:  Investigational
+3. Description:  Amithiozone has been used in trials studying the treatment of Mycobacterium Avium-intracellulare Infection.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Capreomycin
+2. Groups:  Approved
+3. Description:  Cyclic peptide antibiotic similar to viomycin. It is produced by Streptomyces capreolus. [PubChem]
+4. Indication:  Used in the treatment of tuberculosis in combination with other drugs.
+DrugId:  25
+1. Name:  Cycloserine
+2. Groups:  Approved
+3. Description:  Antibiotic substance produced by Streptomyces garyphalus. [PubChem]
+4. Indication:  Used in combination with up to 5 other drugs as a treatment for Mycobacterium avium complex (MAC) and is also used to treat tuberculosis (TB).

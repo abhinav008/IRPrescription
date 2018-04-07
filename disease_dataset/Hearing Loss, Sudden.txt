@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  D-JNKI-1
+2. Groups:  Investigational
+3. Description:  A synthetic, cell permeable peptide that blocks the MAPK-JNK signal pathway; has potential therapeutic value for long-term protection of both the morphological integrity and physiological function of the organ of Corti during times of oxidative stress.
+4. Indication:  Investigated for use/treatment in hearing loss.
+DrugId:  2
+1. Name:  Vatiquinone
+2. Groups:  Investigational
+3. Description:  Vatiquinone has been investigated for the treatment and prevention of Retinopathy, Rett Syndrome, Genetic Disease, Noise-induced Hearing Loss, and Methylmalonic Aciduria and Homocystinuria,Cblc Type.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Neramexane
+2. Groups:  Investigational
+3. Description:  Neramexane is a low-to-moderate affinity uncompetitive NMDA receptor antagonist.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, hearing loss, and pain (acute or chronic).
+DrugId:  4
+1. Name:  PF-04958242
+2. Groups:  Investigational
+3. Description:  PF-04958242 has been used in trials studying the basic science and treatment of Schizophrenia and Hearing Loss, Sensorineural.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.
+DrugId:  6
+1. Name:  Streptomycin
+2. Groups:  Approved, Vet approved
+3. Description:  Streptomycin is an aminoglycoside antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by binding to the 30S ribosomal subunit of susceptible organisms and disrupting the initiation and elongation steps in protein synthesis. It is bactericidal due to effects that are not fully understood.
+4. Indication:  For the treatment of tuberculosis. May also be used in combination with other drugs to treat tularemia (Francisella tularensis), plague (Yersia pestis), severe M. avium complex, brucellosis, and enterococcal endocarditis (e.g. E. faecalis, E. faecium).
+DrugId:  7
+1. Name:  Mersalyl
+2. Groups:  Approved
+3. Description:  Mersalyl is the sodium salt form of mersalyl acid, a mercurial diuretic. It is an outdated drug, and its approval has been discontinued by the FDA. Mersalyl acid is currently replaced by less toxic non-mercury containing diuretics [4, 6]. The sodium salt of a mercury-containing derivative of salicylamide, was formerly used (often in combination with theophylline) to treat edema, due to its powerful diuretic properties [6]. Interestingly, it has been found to have antiviral properties in mice [13].
+4. Indication:  Elevated blood pressure, edema [6, 14].
+DrugId:  8
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  9
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  10
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  11
+1. Name:  Benzyl Benzoate
+2. Groups:  Approved
+3. Description:  Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+4. Indication:  Used to kill lice and the mites responsible for the skin condition scabies.
+DrugId:  12
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  13
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  14
+1. Name:  Pitolisant
+2. Groups:  Approved, Investigational
+3. Description:  Pitolisant is also known as 1-{3-[3-(4-chlorophenyl)propoxy]propyl}piperidine or BF2.649 [4]. It is a selective inverse agonist of the histamine H3 receptor that is used in the treatment of type 1 or 2 narcolepsy with or without cataplexy in adults. Narcolepsy is a chronic neurological disorder that that affects 1 in 2,000 individuals and is characterized by excessive daytime sleepiness, abnormal REM sleep manifestations, sleep paralysis and hypnagogic hallucinations [4]. About 60-70% of patients with narcolepsy experience cataplexy, which is a sudden loss of muscle tone triggered by positive or negative emotion [1]. As histaminergic signalling in neurons plays a role in maintaining wakefulness, pitolisant works by blocking histamine autoreceptors and enhancing the activity of brain histaminergic neurons [5]. In a European clinical trial of adult patients with narcolepsy, a reduction in the Epworth Sleepiness Scale (ESS) score was observed from pitolisant treatment compared to placebo [3]. The therapeutic effectiveness of pitolisant was comparable to that of Modafinil [3]. Pitolisant therapy was also effective in treating refractory sleepiness in adolescent patients with narcolepsy, where it decreased ESS score and increased the mean sleep onset latency [2]. Adolescent patients with cataplexy also experienced a slight improvement in the frequency and severity of symptoms [2], however the safety of use in adolescent or paediatric patients have not been established with pitolisant. Pitolisant is marketed by EMA under the trade name Wakix as oral tablets.
+4. Indication:  Indicated in adults for the treatment of narcolepsy with or without cataplexy [5].
+DrugId:  15
+1. Name:  Minoxidil
+2. Groups:  Approved, Investigational
+3. Description:  A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure. (From Martindale, The Extra Pharmacopoeia, 30th ed, p371)
+4. Indication:  For the treatment of severe hypertension and in the topical treatment (regrowth) of androgenic alopecia in males and females and stabilisation of hair loss in patients with androgenic alopecia.
+DrugId:  16
+1. Name:  Busulfan
+2. Groups:  Approved, Investigational
+3. Description:  Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen. [PubChem]
+4. Indication:  For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.
+DrugId:  17
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  18
+1. Name:  Neomycin
+2. Groups:  Approved, Vet approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed). Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and acceptor tRNA sites and results in the production of non-functional or toxic peptides.
+4. Indication:  Topical uses include treatment for superficial eye infections caused by susceptible bacteria (used in combination with other antiinfectives), treatment of otitis externa caused by susceptible bacteria, treatment or prevention of bacterial infections in skin lesions, and use as a continuous short-term irrigant or rinse to prevent bacteriuria and gram negative rod bacteremia in abacteriuric patients with indwelling catheters. May be used orally to treat hepatic encephalopathy, as a perioperative prophylactic agent, and as an adjunct to fluid and electrolyte replacement in the treatment of diarrhea caused to enteropathogenic E. coli (EPEC). 
+DrugId:  19
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  20
+1. Name:  PH-284
+2. Groups:  Investigational
+3. Description:  PH-284 belongs to a new family of new chemical entities called vomeropherins. Vomeropherins are self-administered by the patient with a metered nasal spray, or nasal aerosol device so that they can bind to peripheral chemosensory receptors in the nasal passages. This binding produces neural impulses that are transmitted by specific pathways to the hypothalamic centre that directly and rapidly affect brain function. PH-284 is under investigation by Pherin and Organon for the treatment of anorexia nervosa, and loss of appetite and cachexia in cancer and AIDS patients.
+4. Indication:  Investigated for use/treatment in anorexia and other conditions causing harmful weight loss. The manufacturer suggests it could be relevant for treatment of weight loss and the associated symptoms-- i.e., lack of energy, decrease in appetite, physical wasting, vulnerability to toxicity, and sometimes reduced life expectancy-- in patients with eating disorders, patients with advanced cancer, patients with AIDS, and patients experiencing loss of appetite due to aging, acute illness, or pregnancy.
+DrugId:  21
+1. Name:  Choline magnesium trisalicylate
+2. Groups:  Approved
+3. Description:  Choline magnesium trisalicylate is a non-acetylated salicylate used widely as a nonsteroidal anti-inflammatory drug. Trisalicylate significantly reduces methotrexate renal clearance, displacing methotrexate from protein, increasing the fraction unbound by 28% [1, 2].
+4. Indication:  Choline magnesium trisalicylate is used to reduce pain and inflammation caused by conditions such as arthritis. This medication is also used to treat fever in adults.
+DrugId:  22
+1. Name:  CHF 4227
+2. Groups:  Investigational
+3. Description:  CHF 4227 is a new selective estrogen receptor modulator (SERM). The compound has a high receptor affinity and has shown promising efficacy in the prevention of bone loss in animal models of osteoporosis. Additionally, the compound has shown no uterotrophic activity suggesting a potential therapeutic advantage over drugs normally used in postmenopausal therapy.
+4. Indication:  Investigated for use/treatment in osteoporosis.
+DrugId:  23
+1. Name:  Magnesium hydroxide
+2. Groups:  Approved, Investigational
+3. Description:  Magnesium hydroxide is an inorganic compound with the chemical formula Mg(OH)2. It is naturally found as the mineral brucite. Magnesium hydroxide can be used an antacid or a laxative in either an oral liquid suspension or chewable tablet form.Additionally, magnesium hydroxide has smoke supressing and flame retardant properties and is thus used commercially as a fire retardant.It can also be used topically as an antiperspirant underarm deodorant or for relief of canker sores (aphthous ulcers).
+4. Indication:  Magnesium hydroxide can be used as an antacid or a laxative depending on the administered dose.As an antacid, it is used for the temporary relief of heartburn, upset stomach, sour stomach or acid indigestion.As a laxative, it is used for the relief of occasional constipation by promoting bowel movements for 30 minutes and up to 6 hours.
+DrugId:  24
+1. Name:  Oleoyl-estrone
+2. Groups:  Investigational
+3. Description:  Oleoyl-estrone (OE) is a fatty acid ester of estrone. It is a naturally circulating hormone in animals including humans. It was first reported in 1996 to cause a body fat loss effect in rats in the International Journal of Obesity and Related Metabolic Disorders. The animal research has all been conducted by the Nitrogen-Obesity Research Group of the University of Barcelona. The compound was found to potently induce body-fat loss while preserving protein stores in animals which is the ultimate goal of an anti-obesity agent as body protein loss is an undesired but inevitable (to some degree) side effect of fat loss via calorie restriction. [Wikipedia]
+4. Indication:  For the treatment of obesity.
+DrugId:  25
+1. Name:  Alpha-Linolenic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alpha-linolenic acid (ALA) is a polyunsaturated omega-3 fatty acid. It is a component of many common vegetable oils and is important to human nutrition.
+4. Indication:  For nutritional supplementation and for treating dietary shortage or imbalance.

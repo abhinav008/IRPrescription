@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Fondaparinux
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux is under investigation for the treatment of Superficial Vein Thrombosis. Fondaparinux has been investigated for the treatment and prevention of Thromboembolism, Pulmonary Embolism, Thrombosis, Venous, Deep Vein Thrombosis, and Fibrillation, Atrial, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Edoxaban
+2. Groups:  Approved
+3. Description:  Edoxaban is a member of the Novel Oral Anti-Coagulants (NOACs) class of drugs, and is a rapidly acting, oral, selective factor Xa inhibitor. By inhibiting factor Xa, a key protein in the coagulation cascade, edoxaban prevents the stepwise amplification of protein factors needed to form blood clots. It is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF) and for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant. Traditionally, warfarin, a vitamin K antagonist, was used for stroke prevention in these individuals but effective use of this drug is limited by it's delayed onset, narrow therapeutic window, need for regular monitoring and INR testing, and numerous drug-drug and drug-food interactions. This has prompted enthusiasm for newer agents such as dabigatran, apixaban, and rivaroxaban for effective clot prevention. In addition to once daily dosing, the benefits over warfarin also include significant reductions in hemorrhagic stroke and GI bleeding, and improved compliance, which is beneficial as many patients will be on lifelong therapy. 
+4. Indication:  Edoxaban is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF). However, it should not be used in patients with creatinine clearance (CrCL) > 95 mL/min because of increased risk of ischemic stroke compared to warfarin at the highest dose studied (60 mg). It is also indicated for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant.
+DrugId:  3
+1. Name:  Certoparin
+2. Groups:  Approved, Investigational
+3. Description:  Certoparin is a low molecular weight heparin, primarily active against factor Xa. Like other low molecular weight heparins, it is used to prevent deep venous thrombosis.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  4
+1. Name:  SR-123781A
+2. Groups:  Investigational
+3. Description:  SR-123781A is a synthetic hexadecasaccharide Factor IIa and Xa antagonist. It is under investigation by Sanofi-Aventis and Organon for the treatment of thrombosis and acute coronary syndromes (ACS).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  5
+1. Name:  Caplacizumab
+2. Groups:  Investigational
+3. Description:  ALX-0081 is a novel ‘first-in-class’ therapeutic Nanobody®targeting von Willebrand Factor (vWF), which can reduce the risk of thrombosis in patients with acute coronary syndrome. ALX-0081 is intended to prevent arterial thrombosis, without interfering with the desired haemostatis (wound healing) in the patient which results in less bleeding complications.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.
+DrugId:  6
+1. Name:  Pegnivacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, coronary artery disease, and vascular diseases.
+DrugId:  7
+1. Name:  AZD-9684
+2. Groups:  Investigational
+3. Description:  AZD-9684 is the first member of a new anti-thrombotic class (CPU inhibitors). It is being developed by AstraZeneca.
+4. Indication:  Investigated for use/treatment in thrombosis.
+DrugId:  8
+1. Name:  Amediplase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in myocardial infarction and thrombosis.
+DrugId:  9
+1. Name:  LJP 1082
+2. Groups:  Investigational
+3. Description:  LJP 1082 is a Toleragen that is designed to shut down the B cells that produce antibodies to ß2 GP1. LJP 1082 is undergoing trial for for the treatment of stroke, deep-vein thrombosis and other conditions associated with antibody-mediated thrombosis. Antibody-mediated thrombosis, also called antiphospholipid syndrome (APS), is a blood clotting disorder. Patients with high levels of anticardiolipin antibodies (ACA) have an increased risk of stroke, heart attack, deep vein thrombosis, and recurrent fetal loss. The target of the LJP 1082's clot-promoting antibodies is a small region on a key blood protein called beta 2-glycoprotein I. To date, our scientists have shown that approximately 90% of patients studied with antibody-mediated thrombosis have antibodies that bind to this region.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, strokes, and thrombosis.
+DrugId:  10
+1. Name:  Idraparinux
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, venous thromboembolism, strokes, heart disease, and atrial fibrillation.
+DrugId:  11
+1. Name:  Parnaparin
+2. Groups:  Approved, Investigational
+3. Description:  Parnaparin is an antithrombotic and belongs to the group of low molecular weight heparins.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  12
+1. Name:  APD791
+2. Groups:  Investigational
+3. Description:  APD791 is an oral anti-thrombotic drug candidate being evaluated in a Phase 1 clinical trial by Arena. APD791 is intended to lower the risk of arterial thrombosis by reducing the amplification of platelet aggregation, arterial constriction and intimal hyperplasia mediated by serotonin.
+4. Indication:  For the treatment and prophylaxis of arterial thrombosis.
+DrugId:  13
+1. Name:  Ardeparin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Ardeparin, marketed under the US trade name Normiflo, is a low molecular weight heparin (LMWH) anticoagulant used for the prevention of postoperative venous thrombosis. Ardeparin is derived via peroxide degradation of heparin extracted from porcine intestinal mucosa. Its molecular weight ranges from 2000 to 15,000 with an average molecular weight of 5500 to 6500. Normiflo was withdrawn from the US market in March 2000.
+4. Indication:  For prevention of deep vein thrombosis, which may result in pulmonary embolism, following knee surgery.
+DrugId:  14
+1. Name:  Regrelor
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, coronary artery disease, thrombosis, and transfusion.
+DrugId:  15
+1. Name:  Odiparcil
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in atrial fibrillation, cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  16
+1. Name:  Enoxaparin
+2. Groups:  Approved
+3. Description:  Enoxaparin is a low molecular weight heparin. Enoxaparin is used to prevent and treat deep vein thrombosis or pulmonary embolism, and is given as a subcutaneous injection. Enoxaparin binds to and accelerates the activity of antithrombin III. By activating antithrombin III, enoxaparin preferentially potentiates the inhibition of coagulation factors Xa and IIa. Factor Xa catalyzes the conversion of prothrombin to thrombin, so enoxaparin's inhibition of this process results in decreased thrombin and ultimately the prevention of fibrin clot formation. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  For the prophylaxis of deep vein thrombosis, which may lead to pulmonary embolism, and also for the prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin.
+DrugId:  17
+1. Name:  Fluindione
+2. Groups:  Approved, Investigational
+3. Description:  Fluindione is under investigation for the treatment of Venous Thrombosis, Pulmonary Embolism, Permanent Atrial Fibrillation, and Anticoagulating Treatment on a Duration at Least 12-month-old Superior. Fluindione has been investigated for the treatment of Blood Coagulation Disorders.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  19
+1. Name:  Anti-inhibitor coagulant complex
+2. Groups:  Approved, Investigational
+3. Description:  Anti-inhibitor coagulant complex, also known as FEIBA (factor eight inhibitor bypassing activity), contains several proteins involved in the prothrombinase complex. It is used to control bleeding in hemophilia A and B patients with inhibitors.
+4. Indication:  For use in the control of bleeding episodes, perioperative management, and routine prophylaxis against bleeding episodes in hemophilia A and B patients with inhibitors [FDA Label]. It is not indicated in the absence of factor VIII or IX inhibitors.
+DrugId:  20
+1. Name:  RUS 3108
+2. Groups:  Investigational
+3. Description:  RUS 3108 is being developed for the treatment of atherosclerosis, the major cause of cardiovascular disorders such as heart attacks and stroke by Dr. Reddy’s Laboratories.The drug’s Phase I clinical trials have been initiated in Europe to assess safety of the drug compound in healthy volunteers. 
+4. Indication:  Investigated for use/treatment in atherosclerosis.
+DrugId:  21
+1. Name:  Tecarfarin
+2. Groups:  Investigational
+3. Description:  Tecarfarin has been used in trials studying the prevention of Thrombosis and Thromboembolism.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Clazosentan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  23
+1. Name:  Gadoteric acid
+2. Groups:  Approved
+3. Description:  Gadoteric acid is a macrocycle-structured gadolinium-based MRI contrast agent. It is composed of the organic acid DOTA (1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid) used for its chelating properties, and gadolinium (Gd3+). As a paramagnetic molecule, gadoterate develops a magnetic moment when placed in a magnetic field. This magnetic moment enhances the relaxation rates of water protons in its vicinity, leading to an increase in signal intensity (brightness) of tissues. More specifically, it reduces the T1 relaxation time (and to some extent the T2 and T2* relaxation times) in NMR, which is the source of its clinical utility. Increased signal brightness allows it to be used in imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become 'leaky'. Gadoteric acid, as the FDA approved product Dotarem, is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+4. Indication:  Gadoteric acid is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+DrugId:  24
+1. Name:  SSR-126517E
+2. Groups:  Investigational
+3. Description:  SSR-126517E is a second generation synthetic pentasaccharide that binds antithrombin with such high affinity that it assumes a plasma half-life of 80 hours. 
+4. Indication:  Investigated for use/treatment in thrombosis and venous thromboembolism.
+DrugId:  25
+1. Name:  EP-2104R
+2. Groups:  Investigational
+3. Description:  EP-2104R is an imaging pharmaceutical under development for the detection of blood clots. It is the first targeted high-resolution technique designed to visualize blood clots directly. It is being developed by EPIX Pharmaceuticals, Inc.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.

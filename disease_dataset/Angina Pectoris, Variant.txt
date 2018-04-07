@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lercanidipine
+2. Groups:  Approved, Investigational
+3. Description:  Lercanidipine is a calcium channel blocker of the dihydropyridine class.It is sold under various commercial names including Zanidip.
+4. Indication:  For the treatment of Hypertension, management of angina pectoris and Raynaud's syndrome
+DrugId:  2
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  3
+1. Name:  Nitrendipine
+2. Groups:  Approved, Investigational
+3. Description:  A calcium channel blocker with marked vasodilator action. It is an effective antihypertensive agent and differs from other calcium channel blockers in that it does not reduce glomerular filtration rate and is mildly natriuretic, rather than sodium retentive. [PubChem]
+4. Indication:  For the treatment of mild to moderate hypertension
+DrugId:  4
+1. Name:  Nicardipine
+2. Groups:  Approved, Investigational
+3. Description:  A potent calcium channel blockader with marked vasodilator action. It has antihypertensive properties and is effective in the treatment of angina and coronary spasms without showing cardiodepressant effects. It has also been used in the treatment of asthma and enhances the action of specific antineoplastic agents. [PubChem]
+4. Indication:  Used for the management of patients with chronic stable angina and for the treatment of hypertension.
+DrugId:  5
+1. Name:  Bevantolol
+2. Groups:  Approved
+3. Description:  Bevantolol is a beta-1 adrenoceptor antagonist that has been shown to be as effective as other beta blockers for the treatment of angina pectoris and hypertension. Mechanism of Action Animal experiments confirm both agonist and antagonist effects on alpha-receptors, in addition to antagonist activity at beta-1 receptors.
+4. Indication:  For the treatment of angina pectoris and hypertension.
+DrugId:  6
+1. Name:  Nisoldipine
+2. Groups:  Approved
+3. Description:  Nisoldipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nisoldipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Nisoldipine may be used in alone or in combination with other agents in the management of hypertension. 
+4. Indication:  For the treatment of hypertension. It may be used alone or in combination with other antihypertensive agents.
+DrugId:  7
+1. Name:  Diltiazem
+2. Groups:  Approved, Investigational
+3. Description:  A benzothiazepine derivative with vasodilating action due to its antagonism of the actions of the calcium ion in membrane functions. It is also teratogenic. [PubChem]
+4. Indication:  For the treatment of Hypertension
+DrugId:  8
+1. Name:  Bromelains
+2. Groups:  Approved, Experimental
+3. Description:  Bromelain is a protease enzyme derived from the stems of pineapples that is composed of a mixture of different thiol endopeptidases and other components like phosphatase, glucosidase, peroxidase, cellulase, escharase, and several protease inhibitors [2]. It works by selectively inhibiting the biosynthesis of proinflammatory prostaglandins [1] and also has analgesic properties, as well as anticancerous and pro-apoptotic effects. Bromelain holds potential therapeutic effect as a treatment of conditions including angina pectoris, bronchitis, sinusitis, surgical trauma, and osteoarthritis. It is considered as a safe food supplement.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Isosorbide Mononitrate
+2. Groups:  Approved
+3. Description:  Isosorbide mononitrate is a drug used principally in the treatment of angina pectoris and acts by dilating the blood vessels so as to reduce the blood pressure. It is sold by AstraZeneca under the trade name Imdur.Isosorbide mononitrate is used to for the the prophylactic treatment of angina pectoris; that is, it is taken in order to prevent or at least reduce the occurrence of angina. Research on Isosorbide mononitrate as a cervical ripener to reduce time at hospital to birth is supportive.Isosorbide mononitrate is an active metabolite of isosorbide dinitrate and exerts qualitatively similar effects. Isosorbide mononitrate reduces the workload of the heart by producing venous and arterial dilation. By reducing the end diastolic pressure and volume, isosorbide mononitrate lowers intramural pressure, hence leading to an improvement in the subendocardial blood flow. The net effect when administering isosorbide mononitrate is therefore a reduced workload for the heart and an improvement in the oxygen supply/demand balance of the myocardium.The adverse reactions which follow have been reported in studies with isosorbide mononitrate:Very common. Headache predominates (up to 30%) necessitating withdrawal of 2 to 3 % of patients, but the incidence reduces rapidly as treatment continues .Common. Tiredness, sleep disturbances (6%) and gastrointestinal disturbances (6%) have been reported during clinical trials with isosorbide mononitrate modified release tablets, but at a frequency no greater than for placebo. Hypotension (4 to 5%), poor appetite (2.5%), nausea (1%).Adverse effects associated with the clinical use of the drug are as expected with all nitrate preparations. They occur mainly in the early stages of treatment.Hypotension (4%) with symptoms such as dizziness and nausea (1%) have been reported. These symptoms generally disappear during long-term treatment.Other reactions that have been reported with isosorbide mononitrate modified release tablets include tachycardia, vomiting, diarrhoea, vertigo and heartburn
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease and the treatment of acute and chronic angina pectoris, hypertension, and myocardial infarction.
+DrugId:  10
+1. Name:  Isosorbide Dinitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator used in the treatment of angina pectoris. Its actions are similar to nitroglycerin but with a slower onset of action. [PubChem]
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease.
+DrugId:  11
+1. Name:  Trimetazidine
+2. Groups:  Approved, Investigational
+3. Description:  Trimetazidine is a drug for angina pectoris sold under the brand name Vastarel MR. Trimetazidine is described as the first cytoprotective anti-ischemic agent developed and marketed by Laboratoires Servier (France). Trimetazidine is an anti-ischemic (anti-anginal) metabolic agent, which improves myocardial glucose utilization through inhibition of long-chain 3-ketoacyl CoA thiolase activity, which results in a reduction in fatty acid oxidation and a stimulation of glucose oxidation. High fatty acid oxidation rates are detrimental during ischemia due to an inhibition of glucose oxidation leading to uncoupling of glycolysis and an increase in proton production, which has the potential to accelerate sodium and calcium overload in the heart, which leads to an exacerbation of ischemic injury and decreased cardiac efficiency during reperfusion.
+4. Indication:  Trimetazidine is indicated for use in angina pectoris.
+DrugId:  12
+1. Name:  Nitroglycerin
+2. Groups:  Approved, Investigational
+3. Description:  A volatile vasodilator which relieves angina pectoris by stimulating guanylate cyclase and lowering cytosolic calcium. [PubChem]
+4. Indication:  For the prevention of angina
+DrugId:  13
+1. Name:  Imolamine
+2. Groups:  Investigational
+3. Description:  Imolamine is a compound with a molecular weight of 260.33 g/mol with the formula diethyl[2-{5-imino-3-phenyl-4,5-dihydro-1,2,3-oxadiazol,-4-yl)ethyl]amine. It is developed under the brand name Coremax by Novartis consumer health SA.
+4. Indication:  Imolamine is indicated for the treatment of angina pectoris. The hydrochloride form is used as a local anesthetic.[2]
+DrugId:  14
+1. Name:  Perhexiline
+2. Groups:  Approved, Investigational
+3. Description:  2-(2,2-Dicyclohexylethyl)piperidine. Coronary vasodilator used especially for angina of effort. It may cause neuropathy and hepatitis. [PubChem]
+4. Indication:  For the management of severe angina pectoris.
+DrugId:  15
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  16
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  17
+1. Name:  Oxprenolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+4. Indication:  Used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+DrugId:  18
+1. Name:  Amyl Nitrite
+2. Groups:  Approved
+3. Description:  Amyl Nitrite is an antihypertensive medicine. Amyl nitrite is employed medically to treat heart diseases such as angina and to treat cyanide poisoning. Like other alkyl nitrites, amyl nitrite is bioactive in mammals, being a vasodilator which is the basis of its use as a prescription medicine. As an inhalant, it also has psychoactive effect which has led to illegal drug use.
+4. Indication:  For the rapid relief of angina pectoris.
+DrugId:  19
+1. Name:  Nicorandil
+2. Groups:  Approved, Investigational
+3. Description:  Nicorandil is an orally efficacious vasodilatory drug and antianginal agent marketed in the UK, Australia, most of Europe, India, Philippines, Japan, South Korea, and Taiwan. It is not an approved drug by FDA. It is a niacinamide derivative that induces vasodilation of arterioles and large coronary arteries by activating potassium channels. It is often used for patients with angina who remain symptomatic despite optimal treatment ith other antianginal drugs [10]. Nicorandil is a dual-action potassium channel opener that relaxes vascular smooth muscle through membrane hyperpolarization via increased transmembrane potassium conductance and increased intracellular concentration of cyclic GMP. It is shown to dilate normal and stenotic coronary arteries and reduces both ventricular preload and afterload [A20325].
+4. Indication:  Indicated for the prevention and treatment of chronic stable angina pectoris and reduction in the risk of acute coronary syndromes. 
+DrugId:  20
+1. Name:  Bisoprolol
+2. Groups:  Approved
+3. Description:  Bisoprolol is a cardioselective β1-adrenergic blocking agent used for secondary prevention of myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. Bisoprolol is structurally similar to metoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At lower doses (less than 20 mg daily), bisoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with daily doses of 20 mg or greater. Unlike propranolol and pindolol, bisoprolol does not exhibit membrane-stabilizing or sympathomimetic activity. Bisoprolol possesses a single chiral centre and is administered as a racemic mixture. Only l-bisoprolol exhibits significant β-blocking activity.
+4. Indication:  For management of heart failure, angina pectoris, and mild to moderate hypertension and for secondary prevention of myocardial infarction (MI). 
+DrugId:  21
+1. Name:  Metoprolol
+2. Groups:  Approved, Investigational
+3. Description:  Metoprolol is a cardioselective β1-adrenergic blocking agent used for acute myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. It may also be used for supraventricular and tachyarrhythmias and prophylaxis for migraine headaches. Metoprolol is structurally similar to bisoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At low doses, metoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with higher doses. Unlike propranolol and pindolol, metoprolol does not exhibit membrane-stabilizing or intrinsic sympathomimetic activity. Membrane-stabilizing effects are only observed at doses much higher than those needed for β-adrenergic blocking activity. Metoprolol possesses a single chiral centre and is administered as a racemic mixture.
+4. Indication:  For the management of acute myocardial infarction, angina pectoris, heart failure and mild to moderate hypertension. May be used to treat supraventricular and tachyarrhythmias and as prophylaxis for migraine headaches.
+DrugId:  22
+1. Name:  Indinavir
+2. Groups:  Approved
+3. Description:  A potent and specific HIV protease inhibitor that appears to have good oral bioavailability. [PubChem]
+4. Indication:  Indinavir is an antiretroviral drug for the treatment of HIV infection.
+DrugId:  23
+1. Name:  Theobromine
+2. Groups:  Approved, Investigational
+3. Description:  3,7-Dimethylxanthine. The principle alkaloid in Theobroma cacao (the cacao bean) and other plants. A xanthine alkaloid that is used as a bronchodilator and as a vasodilator. It has a weaker diuretic activity than theophylline and is also a less powerful stimulant of smooth muscle. It has practically no stimulant effect on the central nervous system. It was formerly used as a diuretic and in the treatment of angina pectoris and hypertension. (From Martindale, The Extra Pharmacopoeia, 30th ed, pp1318-9)
+4. Indication:  theobromine is used as a vasodilator, a diuretic, and heart stimulant. And similar to caffeine, it may be useful in management of fatigue and orthostatic hypotension.
+DrugId:  24
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  25
+1. Name:  Ephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  Ephedrine commonly used as a stimulant, appetite suppressant, concentration aid, decongestant, and to treat hypotension associated with anaesthesia.

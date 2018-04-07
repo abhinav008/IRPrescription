@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Equus caballus dander
+2. Groups:  Approved
+3. Description:  Equus caballus dander is the dander of Equus caballus. Equus caballus dander is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Cavia porcellus hair
+2. Groups:  Approved
+3. Description:  Guinea pig hair is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Canis lupus familiaris dander
+2. Groups:  Approved
+3. Description:  Canis lupus familiaris dander is the dander of Canis lupus familiaris. Canis lupus familiaris dander is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Bos taurus hair
+2. Groups:  Approved
+3. Description:  Bos taurus hair is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Pyrimethamine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the folic acid antagonists that is used as an antimalarial or with a sulfonamide to treat toxoplasmosis. [PubChem]
+4. Indication:  For the treatment of toxoplasmosis and acute malaria; For the prevention of malaria in areas non-resistant to pyrimethamine
+DrugId:  6
+1. Name:  Equus caballus hair
+2. Groups:  Approved
+3. Description:  Horse hair is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Bos taurus skin
+2. Groups:  Approved
+3. Description:  Bos taurus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Cavia porcellus skin
+2. Groups:  Approved
+3. Description:  Cavia porcellus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Egg white
+2. Groups:  Approved
+3. Description:  Egg white allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Mesocricetus auratus skin
+2. Groups:  Approved
+3. Description:  Mesocricetus auratus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Rattus norvegicus skin
+2. Groups:  Approved
+3. Description:  Rattus norvegicus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Beef
+2. Groups:  Approved
+3. Description:  Beef allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Egg yolk
+2. Groups:  Approved
+3. Description:  Egg yolk allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Sus scrofa hair
+2. Groups:  Approved
+3. Description:  Wild boar hair is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  SD118
+2. Groups:  Investigational
+3. Description:  SD118 was previously under investigation in Japan for a different indication and now, following re-profiling and evaluation in experimental animal models, has demonstrated its potential as a new oral therapy for neuropathic pain.
+4. Indication:  Central Nervous System - Neuropathic pain 
+DrugId:  16
+1. Name:  DNB-001
+2. Groups:  Investigational
+3. Description:  DNB-001 is a first-in-class oral therapy with dual mechanism of action, which is initially being developed for the treatment of glaucoma. In preclinical animal models, DNB-001 has demonstrated potent IOP- lowering effects as well as neuroprotective effects on the optic nerve.
+4. Indication:  Investigated for use/treatment in ocular hypertension.
+DrugId:  17
+1. Name:  Mus musculus skin
+2. Groups:  Approved
+3. Description:  Mus musculus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Meriones unguiculatus skin
+2. Groups:  Approved
+3. Description:  Meriones unguiculatus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  20
+1. Name:  Sulfadiazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections. [PubChem]
+4. Indication:  For the treatment of rheumatic fever and meningococcal meningitis
+DrugId:  21
+1. Name:  Pork
+2. Groups:  Approved
+3. Description:  Pork allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Capra hircus skin
+2. Groups:  Approved
+3. Description:  Capra hircus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Oryctolagus cuniculus hair
+2. Groups:  Approved
+3. Description:  European rabbit hair is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  25
+1. Name:  VSF-173
+2. Groups:  Investigational
+3. Description:  VSF-173 is an oral small molecule. It is an oral compound that has demonstrated effects on animal sleep/wake patterns and gene expression patterns suggestive of a stimulant effect. It is developed for the treatment of excessive sleepiness. Study shows that VSF-173 possesses a novel mechanism to address disorders of excessive sleepiness.
+4. Indication:  Investigated for use/treatment in sleep disorders.

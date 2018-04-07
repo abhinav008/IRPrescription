@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Tirapazamine
+2. Groups:  Investigational
+3. Description:  Tirapazamine (SR-4233) is an experimental anticancer drug that is activated to a toxic radical only at very low levels of oxygen (hypoxia). Such levels are common in human solid tumors, a phenomenon known as tumor hypoxia. Thus, tirapazamine is activated to its toxic form preferentially in the hypoxic areas of solid tumors. Cells in these regions are resistant to killing by radiotherapy and most anticancer drugs. Thus the combination of tirapazamine with conventional anticancer treatments is particularly effective. As of 2006, tirapazamine is undergoing phase III testing in patients with head and neck cancer and gynecological cancer, and similar trials are being undertaken for other solid tumor types. [Wikipedia]
+4. Indication:  For the treatment of head and neck cancer.
+DrugId:  2
+1. Name:  Terazosin
+2. Groups:  Approved
+3. Description:  Terazosin is a selective alpha1-antagonist used for treatment of symptoms of benign prostatic hyperplasia (BPH). It also acts to lower blood pressure, so it is a drug of choice for men with hypertension and prostate enlargement. It works by blocking the action of adrenaline on smooth muscle of the bladder and the blood vessel walls.
+4. Indication:  For the treatment of symptomatic BPH and mild to moderate hypertension.
+DrugId:  3
+1. Name:  Furazolidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A nitrofuran derivative with antiprotozoal and antibacterial activity. Furazolidone binds bacterial DNA which leads to the gradual inhibition of monoamine oxidase. (From Martindale, The Extra Pharmacopoeia, 30th ed, p514)
+4. Indication:  For the specific and symptomatic treatment of bacterial or protozoal diarrhea and enteritis caused by susceptible organisms.
+DrugId:  4
+1. Name:  Radotinib
+2. Groups:  Investigational
+3. Description:  Radotinib is under investigation for the treatment of Leukemia, Myelogenous, Chronic, BCR-ABL Positive.
+4. Indication:  Radotinib is indicated for the treatment of different types of cancer, most notably Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) with resistance or intolerance of other Bcr-Abl tyrosine-kinase inhibitors, such as patients resistant or intolerant to imatinib.
+DrugId:  5
+1. Name:  Policresulen
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Promestriene
+2. Groups:  Investigational
+3. Description:  Promestriene has been used in trials studying the prevention of Hypospadias.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Apalutamide
+2. Groups:  Approved, Investigational
+3. Description:  Apalutamide is a potent androgen receptor (AR) antagonist that selectively binds to the ligand-binding domain of AR and blocks AR nuclear translocation or binding to androgen response elements [1]. It has been used in trials studying the treatment of Prostate Cancer, Hepatic Impairment, Prostatic Neoplasms, Castration-Resistant Prostate Cancer, and Prostatic Neoplasms, Castration-Resistant, among others. Exerting an antitumor action, apalutamide blocking the effect of androgens that promote tumor growth. It targets the AR ligand-binding domain and prevents AR nuclear translocation, DNA binding, and transcription of AR gene targets in prostate tumors [1]. In mice bearing human CRPC xenograft models, apalutamide treatment produced tumor regressions in a dose-dependent manner that was more effective than that of Bicalutamide or Enzalutamide. Unlike bicalutamide, apalutamide antagonized AR-mediated signaling in AR overexpressing human CRPC cell lines [1].Androgen-deprivation therapy, or hormone therapy, can be used as part of maintenance therapy for patients with non-metastatic prostate cancer. Although most patients achieve therapeutic responses at the initial hormone therapy, many patients progress to non-metastatic castration-resistant (resistance to hormone therapy) prostate cancer which is the second-most common cause of cancer-related deaths in American males [2]. Castration-resistant prostate cancer is often incurable, which poses significant clinical challenges for patients. Approximately 10 to 20 % of prostate cancer cases are castration-resistant, and up to 16% of these patients show no evidence of cancer metastasis at the time of castration-resistant diagnosis [3]. Higher prostate-specific antigen (PSA) and shorter PSA doubling time (PSA DT) are associated with a higher risk for metastases and death [1]. In a phase-2 multicenter open-label study, 89% of patients with non-metastatic, castration-resistant prostate cancer had ≥50% PSA decline at week 12 of apalutamide treatment [1]. In a randomized trial, the median metastasis-free survival for patients taking apalutamide was 40.5 months compared to 16.2 months for patients taking a placebo [3]. Apalutamide displayed good tolerability and safety profile in clinical studies. Apalutamide was approved in February 2018 by the FDA as Erleada for the treatment of patients with non-metastatic prostate cancer that is resistant to treatment with hormone therapy (castration-resistant). It is available as oral tablets. Apalutamide is the first FDA-approved treatment for non-metastatic, castration-resistant prostate cancer [3].
+4. Indication:  Indicated for the treatment of patients with non-metastatic, castration-resistant prostate cancer (NM-CRPC) [FDA Label].
+DrugId:  8
+1. Name:  Pembrolizumab
+2. Groups:  Approved
+3. Description:  Pembrolizumab is a humanized monoclonal antibody that blocks the interaction between PD-1 and its ligands, PD-L1 and PD-L2. It is used for the treatment of several types of cancer such as, Melanoma, Non-Small Cell Lung Cancer and Head and Neck Cancer.Due to its success in clinical trials, pembrolizumab was approved early to allow quick patient access and was given breakthrough therapy and orphan drug designation. Pembrolizumab (as Keytruda) was approved by the U.S. Food and Drug Administration to treat advanced cases of the most common type of lung malignancy, non-small cell lung cancer on Oct. 2, 2015. Keytruda was additionally approved for the treatment of Classical Hodgkin Lymphoma (cHL) in March, 2017.
+4. Indication:  Pembrolizumab is a programmed death receptor-1 (PD-1)-blocking antibody indicated for the treatment of: patients with unresectable or metastatic melanoma. patients with metastatic NSCLC whose tumors have high PD-L1 expression [(Tumor Proportion Score (TPS) ≥50%)] as determined by an FDA-approved test, with no EGFR or ALK genomic tumor aberrations, and no prior systemic chemotherapy treatment for metastatic NSCLC. patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test, with disease progression on or after platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA. patients with recurrent or metastatic HNSCC with disease progression on or after platinum-containing chemotherapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials. 
+DrugId:  9
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  10
+1. Name:  Cimicifuga racemosa
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Bosutinib
+2. Groups:  Approved
+3. Description:  Bosutinib is a Bcr-Abl kinase inhibitor for the treatment of Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML). Compared to other tyrosine kinase inhibitors, it has a more favourable hematologic toxicity profile. FDA approved on September 4, 2012. 
+4. Indication:  Treatment of chronic, accelerated, or blast phase Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) with resistance or intolerance to prior therapy in adult patients. 
+DrugId:  12
+1. Name:  Nomegestrol
+2. Groups:  Approved
+3. Description:  Nomegestrol is an ingredient in the EMA-authorised product Zoely.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Lenalidomide
+2. Groups:  Approved
+3. Description:  Lenalidomide (initially known as CC-5013 and marketed as Revlimid® by Celgene) is a derivative of thalidomide introduced in 2004. It was initially intended as a treatment for multiple myeloma, for which thalidomide is an accepted therapeutic modality, but has also shown efficacy in the hematological disorders known as the myelodysplastic syndromes. [Wikipedia] FDA approved on December 27, 2005. 
+4. Indication:  Lenalidomide is indicated for the treatment of multiple myeloma in combination with dexamethasone. It is also indicated for the treatment of patients with transfusion-dependent anemia due to low- or intermediate- risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+DrugId:  14
+1. Name:  Vitex agnus-castus fruit extract
+2. Groups:  Experimental
+3. Description:  Vitex agnus-castus fruit extract is obtained from dry fruits of Vitex agnus-castus. The fruits contain mixture of iridoids, flavonoids and compounds in leaves and flowers that structurally resemble sex hormones. Clinical studies demonstrates effectiveness of vitex agnus-castus fruit extract in the management of premenstrual stress syndrome (PMS) and cyclical breast pain (mastalgia). The main mechanism of action of vitex agnus-castus fruit extract has not been fully elucidated, however it is suggested to modulate the stress-induced prolactin secretion via dopaminergic actions, and μ (mu) - and δ (delta) -opioid receptors.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  GSK-923295
+2. Groups:  Investigational
+3. Description:  GSK-923295 is a small-molecule inhibitor of the mitotic kinesin centromere-associated protein E (CENP-E), and the third novel drug candidate to arise from Cytokinetics' broad strategic alliance with GlaxoSmithKline (GSK). GSK-923295 demonstrated a broad spectrum of activity against a range of human tumor xenografts grown in nude mice, including models of colon, breast, ovarian, lung and other tumors. GSK-923295 is the first drug candidate to enter human clinical trials that specifically targets CENP-E and is currently in Phase I human clinical trials being conducted by GSK.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  16
+1. Name:  ABL-001
+2. Groups:  Investigational
+3. Description:  ABL001 has been used in trials studying the health services research of Chronic Myelogenous Leukemia and Philadelphia Chromosome-positive Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Imatinib
+2. Groups:  Approved
+3. Description:  Imatinib is a small molecule kinase inhibitor used to treat certain types of cancer. It is currently marketed by Novartis as Gleevec (USA) or Glivec (Europe/Australia) as its mesylate salt, imatinib mesilate (INN). It is occasionally referred to as CGP57148B or STI571 (especially in older publications). It is used in treating chronic myelogenous leukemia (CML), gastrointestinal stromal tumors (GISTs) and a number of other malignancies.It is the first member of a new class of agents that act by inhibiting particular tyrosine kinase enzymes, instead of non-specifically inhibiting rapidly dividing cells.
+4. Indication:  For the treatment of Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML), Ph+ acute lymphoblastic leukaemia, myelodysplastic/myeloproliferative diseases, aggressive systemic mastocytosis, hypereosinophilic syndrome and/or chronic eosinophilic leukemia (CEL), dermatofibrosarcoma protuberans, and malignant gastrointestinal stromal tumors (GIST).
+DrugId:  18
+1. Name:  Methallenestril
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Trimegestone
+2. Groups:  Investigational
+3. Description:  Trimegestone has been used in trials studying the treatment of Postmenopause.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Ponatinib
+2. Groups:  Approved, Investigational
+3. Description:  Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.
+4. Indication:  Ponatinib is indicated for the treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia (CML) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy or Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ALL) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy.
+DrugId:  21
+1. Name:  Mesterolone
+2. Groups:  Experimental
+3. Description:  Mesterolone is a synthetic anabolic-androgenic steroid (AAS) and derivative of dihydrotestosterone (DHT). It is inactivated by 3α-hydroxysteroid dehydrogenase in skeleta muscules so it is considered a weak androgen. It is not a substrate for aromatase so it is not converted into estrogen. Mesterolone demonstrated to have minimal effect on sperm counts and levels of FSH or LH [1, 2]. Experiments of mesterolone serving as a potential treatment of depression are still undergoing.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Gestodene
+2. Groups:  Approved, Investigational
+3. Description:  Gestodene is a progestogen hormonal contraceptive. Products containing gestoden include Meliane, which contains 20 mcg of ethinylestradiol and 75 mcg of gestodene; and Gynera, which contains 30 mcg of ethinylestradiol and 75 mcg of gestodene.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Lynestrenol
+2. Groups:  Approved, Investigational
+3. Description:  Lynestrenol has been used in trials studying the basic science of Transsexualism and Gender Dysphoria.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Choriogonadotropin alfa
+2. Groups:  Approved
+3. Description:  Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.
+4. Indication:  For the treatment of female infertility
+DrugId:  25
+1. Name:  Tibolone
+2. Groups:  Approved, Investigational
+3. Description:  Tibolone is a synthetic steroid hormone drug, which is mainly non-selective in its binding profile, acting as an agonist primarily at estrogen receptors (ER), with a preference for ER alpha [11].Tibolone (Livial, Org OD 14), produced by Organon (West Orange, NJ), is a synthetic steroid that possesses estrogenic, androgenic and progestogenic properties. It has been used in Europe for almost 2 decades, primarily for the prevention of postmenopausal osteoporosis and the treatment of post-menopausal symptoms [4]. Tibolone is approved in 90 countries to manage menopausal symptoms and in 45 countries to prevent the development of osteoporosis [12].In June 2006, Organon Pharmaceuticals announced the receipt of a Not Approvable Letter from the U.S. Food and Drug Administration (FDA), advising the company that the New Drug Application (NDA) for tibolone had not been approved [5].Interestingly, the use of tibolone in the treatment cardiovascular disease has been studied with inconclusive results [2]. Tibolone has been to have anti-resorptive effects on bone [11].
+4. Indication:  For the relief of post-menopausal symptoms and for the prevention of osteoporosis [7].

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Guanidine
+2. Groups:  Approved
+3. Description:  A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC. [PubChem]
+4. Indication:  For the reduction of the symptoms of muscle weakness and easy fatigability associated with the myasthenic syndrome of Eaton-Lambert. It is not indicated for treating myasthenia gravis.
+DrugId:  2
+1. Name:  Radotinib
+2. Groups:  Investigational
+3. Description:  Radotinib is under investigation for the treatment of Leukemia, Myelogenous, Chronic, BCR-ABL Positive.
+4. Indication:  Radotinib is indicated for the treatment of different types of cancer, most notably Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) with resistance or intolerance of other Bcr-Abl tyrosine-kinase inhibitors, such as patients resistant or intolerant to imatinib.
+DrugId:  3
+1. Name:  Trestolone
+2. Groups:  Investigational
+3. Description:  Trestolone (7α-methyl-19-nortestosterone) is a synthetic androgen developed by the Population Council as a potential candidate drug for use in hormonal male contraceptive methods. In males, regular administration of sufficient quantities of trestolone induces a state of temporary infertility.
+4. Indication:  Investigated for use/treatment in contraception and male hormonal deficiencies/abnormalities.
+DrugId:  4
+1. Name:  Guselkumab
+2. Groups:  Approved, Investigational
+3. Description:  Guselkumab is a human immunoglobulin G1 lambda (IgG1λ) monoclonal antibody that selectively blocks interleukin-23. IL-23 is an inflammatory cytokine that activates the CD4+ T-helper (Th17) cell pathway to mediate the inflammatory cascade that induces psoriatic plaque formation [2]. In clinical trials, guselkumab demonstrated improved skin clearance and symptomatic improvements in dermatological manifestations of psoriasis. Developed by Janssen, the subcutenous injection form of guselkumab was approved in July 2017 under the market name Tremfya for the treatment of adult patients with moderate-to-severe plaque psoriasis.
+4. Indication:  Indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+DrugId:  5
+1. Name:  Alosetron
+2. Groups:  Approved, Withdrawn
+3. Description:  Alosetron is a 5-HT3 antagonist used only for the management of severe diarrhoea-predominant irritable bowel syndrome (IBS) in women. Alosetron has an antagonist action on the 5-HT3 receptors and thus may modulate serotonin-sensitive gastrointestinal (GI) processes. Alosetron was voluntarily withdrawn from the US market in November 2000 by the manufacturer due to numerous reports of severe adverse effects including ischemic colitis, severely obstructed or ruptured bowel, and death. In June 2002, the FDA approved a supplemental new drug application allowing the remarketing of the drug under restricted conditions of use.
+4. Indication:  Only for the treatment of symptoms of severe diarrhea-predominant irritable bowel syndrome (IBS) in women with chronic symptoms (generally lasting greater than 6 months) who does not present with anatomic or biochemical GI abnormalities and have not responded to conventional therapy.
+DrugId:  6
+1. Name:  ARX201
+2. Groups:  Investigational
+3. Description:  ARX201 (PEG-ahGH) is a recombinant form of human growth hormone that has been modified using Ambrx’s patented ReCODE™ technology to achieve precise spatial positioning of the site of polyethylene glycol (PEG) attachment to human growth hormone, by biosynthetic incorporation of a chemically unique amino acid (ahGH). ARX201 has improved pharmacological properties, which should allow less frequent administration than the daily dosing regimen of currently available growth hormones.
+4. Indication:  Investigated for use/treatment in growth hormone deficiencies/abnormalities.
+DrugId:  7
+1. Name:  Nivolumab
+2. Groups:  Approved
+3. Description:  Nivolumab is a fully human IgG4 monoclonal antibody that acts as an immunomodulator by blocking ligand activation of programmed cell death 1 (PD-1) receptor on T cells. It is indicated for use in patients with unresectable (cannot be surgically removed) or metastatic melanoma who no longer respond to other drugs. Nivolumab is administered as an intravenous infusion over 60 minutes every 2 weeks.
+4. Indication:  Nivolumab is indicated for the treatment of unresectable or metastatic melanoma for patients who no longer respond to treatment with other drugs. It is intended for use in patients who have been previously treated with ipilimumab and is used for melanoma patients after treatment with ipilimumab and a BRAF inhibitor in patients whose tumors express BRAF V600 gene mutations. Historically there have been very few effective treatments for advanced melanoma, which is why this product was approved under an FDA accelerated program to allow earlier patient access.
+DrugId:  8
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  9
+1. Name:  Fispemifene
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in male hormonal deficiencies/abnormalities.
+DrugId:  10
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  11
+1. Name:  Venlafaxine
+2. Groups:  Approved
+3. Description:  Venlafaxine (Effexor) is an antidepressant of the serotonin-norepinephrine reuptake inhibitor (SNRI) class first introduced by Wyeth in 1993. It is prescribed for the treatment of clinical depression and anxiety disorders. Due to the pronounced side effects and suspicions that venlafaxine may significantly increase the risk of suicide it is not recommended as a first line treatment of depression. However, it is often effective for depression not responding to SSRIs. Venlafaxine was the sixth most widely-used antidepressant based on the amount of retail prescriptions in the US (17.1 million) in 2006. [Wikipedia]
+4. Indication:  For the management of major depressive disorder (MDD), generalized anxiety disorder (GAD), social anxiety disorder (social phobia), panic disorder with or without agoraphobia, vasomotor symptoms in women with breast cancer and in postmenopausal women, and neuropathic pain.
+DrugId:  12
+1. Name:  1alpha,24S-Dihydroxyvitamin D2
+2. Groups:  Investigational
+3. Description:  LR-103 is a naturally occurring D-hormone that is produced by the kidneys from vitamin D. LR-103 is one of the D-hormones produced from Hectorol. It is developed for the treatment of secondary hyperparathyroidism in patients with chronic kidney disease (CKD). Studies have shown LR-103 has the same potency as calcitriol, but much lower toxicity.
+4. Indication:  Investigated for use/treatment in parathyroid disorders.
+DrugId:  13
+1. Name:  AER001
+2. Groups:  Investigational
+3. Description:  AER001, an IL4/13 receptor antagonist for severe asthma and eczema currently in Phase 2 studies.
+4. Indication:  Investigated for use/treatment in asthma.
+DrugId:  14
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  15
+1. Name:  Calcitonin eel
+2. Groups:  Investigational
+3. Description:  HC-58 has been used in trials studying the prevention of Severe Upper Limb Hemiplegia.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Methylmalonic Acid
+2. Groups:  Experimental
+3. Description:  A malonic acid derivative which is a vital intermediate in the metabolism of fat and protein. Abnormalities in methylmalonic acid metabolism lead to methylmalonic aciduria. This metabolic disease is attributed to a block in the enzymatic conversion of methylmalonyl CoA to succinyl CoA. [PubChem]
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Phenylephrine
+2. Groups:  Approved
+3. Description:  Phenylephrine is a sympathomimetic amine that acts predominantly on α-adrenergic receptors. It is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+4. Indication:  Phenylephrine is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+DrugId:  18
+1. Name:  Metformin
+2. Groups:  Approved
+3. Description:  Metformin is a biguanide antihyperglycemic agent used for treating non-insulin-dependent diabetes mellitus (NIDDM). It improves glycemic control by decreasing hepatic glucose production, decreasing glucose absorption and increasing insulin-mediated glucose uptake. Metformin may induce weight loss and is the drug of choice for obese NIDDM patients. Use of metformin is associated with modest weight loss. When used alone, metformin does not cause hypoglycemia; however, it may potentiate the hypoglycemic effects of sulfonylureas and insulin. Its main side effects are dyspepsia, nausea and diarrhea. Dose titration and/or use of smaller divided doses may decrease side effects. Metformin should be avoided in those with severely compromised renal function (creatinine clearance < 30 ml/min), acute/decompensated heart failure, severe liver disease and for 48 hours after the use of iodinated contrast dyes due to the risk of lactic acidosis. Lower doses should be used in the elderly and those with decreased renal function. Metformin decreases fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Metformin may also have a positive effect on lipid levels. In 2012, a combination tablet of linagliptin plus metformin hydrochloride was marketed under the name Jentadueto for use in patients when treatment with both linagliptin and metformin is appropriate.
+4. Indication:  For use as an adjunct to diet and exercise in adult patients (18 years and older) with NIDDM. May also be used for the management of metabolic and reproductive abnormalities associated with polycystic ovary syndrome (PCOS). Jentadueto is for the treatment of patients when both linagliptin and metformin is appropriate.
+DrugId:  19
+1. Name:  ADC4022
+2. Groups:  Investigational
+3. Description:  ADC4022 is an investigational medicine for the treatment of Chronic Obstructive Pulmonary Disease (COPD) and severe asthma.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  20
+1. Name:  PYM50018
+2. Groups:  Investigational
+3. Description:  PYM50018 is a patented, orally active, neuroprotective and neuroregenerative compound. It is developed for the treatment of amyotrophic lateral sclerosis (ALS, also known as Lou Gehrig's disease). In pre-clinical models, PYM50018 has been observed to protect against neuronal damage, increase neurite outgrowth, reverse oxidative damage and reverse neuronal apoptosis in vitro. When administered orally to a transgenic pre-clinical model of ALS, PYM50018 delays the loss of muscle strength and extends survival time.
+4. Indication:  Investigated for use/treatment in amyotrophic lateral sclerosis (ALS).
+DrugId:  21
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
+DrugId:  22
+1. Name:  Guaifenesin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An expectorant that also has some muscle relaxing action. It is used in many cough preparations. [PubChem]
+4. Indication:  Used to assist the expectoration of phlegm from the airways in acute respiratory tract infections.
+DrugId:  23
+1. Name:  Doxylamine
+2. Groups:  Approved, Vet approved
+3. Description:  Histamine H1 antagonist with pronounced sedative properties. It is used in allergies and as an antitussive, antiemetic, and hypnotic. Doxylamine has also been administered in veterinary applications and was formerly used in parkinsonism. [PubChem]
+4. Indication:  Used alone as a short-term sleep aid, in combination with other drugs as a night-time cold and allergy relief drug. Also used in combination with Vitamin B6 (pyridoxine) to prevent morning sickness in pregnant women.
+DrugId:  24
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  25
+1. Name:  Dextromethorphan
+2. Groups:  Approved
+3. Description:  The d-isomer of the codeine analog of levorphanol. Dextromethorphan shows high affinity binding to several regions of the brain, including the medullary cough center. This compound is an NMDA receptor antagonist (receptors, N-methyl-D-aspartate) and acts as a non-competitive channel blocker. It is one of the widely used antitussives, and is also used to study the involvement of glutamate receptors in neurotoxicity. [PubChem]
+4. Indication:  For treatment and relief of dry cough.

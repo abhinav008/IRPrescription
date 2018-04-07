@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Corticorelin ovine triflutate
+2. Groups:  Approved
+3. Description:  Corticorelin, available commercially as corticorelin ovine triflutate (tradename Acthrel), is a synthetic form of the peptide human corticotropin-releasing hormone (hCRH), a potent stimulator of adrenocorticotropic hormone (ACTH) release from the anterior pituitary. Endogenous forms hCRH are involved in the stress response and its main function is stimulation of the pituitary to release ACTH. It is used as a diagnostic agent to evaluate the status of the pituitary-adrenal axis in the differentiation of a pituitary source from an ectopic source of excessive ACTH secretion. It provides a differential diagnosis for Cushing's disease (a pituitary source of ACTH excess) or of ectopic ACTH syndrome (an ectopic source of ACTH excess). If corticorelin injection results in an increase of plasma ACTH and cortisol, the patient is diagnosed with Cushing's disease. However, if corticorelin injection does not result in an increase of plasma ACTH and cortisol, the patient is diagnosed with ectopic ACTH syndrome.
+4. Indication:  Corticorelin is indicated for use in differentiating pituitary and ectopic production of ACTH in patients with ACTH-dependent Cushing's syndrome.
+DrugId:  2
+1. Name:  Metyrapone
+2. Groups:  Approved, Investigational
+3. Description:  An inhibitor of the enzyme steroid 11-beta-monooxygenase. It is used as a test of the feedback hypothalamic-pituitary mechanism in the diagnosis of cushing syndrome. [PubChem]
+4. Indication:  Used as a diagnostic drug for testing hypothalamic-pituitary ACTH function. Occasionally used in Cushing's syndrome.
+DrugId:  3
+1. Name:  Aminoglutethimide
+2. Groups:  Approved, Investigational
+3. Description:  An aromatase inhibitor that produces a state of "medical" adrenalectomy by blocking the production of adrenal steroids. It also blocks the conversion of androgens to estrogens. Aminoglutethimide has been used in the treatment of advanced breast and prostate cancer. It was formerly used for its weak anticonvulsant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p454)
+4. Indication:  For the suppression of adrenal function in selected patients with Cushing's syndrome, malignant neoplasm of the female breast, and carcinoma in situ of the breast.
+DrugId:  4
+1. Name:  Prasterone sulfate
+2. Groups:  Investigational
+3. Description:  DHEA sulfate is the major steroid of the fetal adrenal. DHEA-S is the principal adrenal androgen and is secreted together with cortisol under the control of ACTH and prolactin. DHEA-S is elevated with hyperprolactinemia.
+4. Indication:  Investigated for use/treatment in asthma and burns and burn infections.
+DrugId:  5
+1. Name:  Mifepristone
+2. Groups:  Approved, Investigational
+3. Description:  A progestational and glucocorticoid hormone antagonist. Its inhibition of progesterone induces bleeding during the luteal phase and in early pregnancy by releasing endogenous prostaglandins from the endometrium or decidua. As a glucocorticoid receptor antagonist, the drug has been used to treat hypercortisolism in patients with nonpituitary cushing syndrome [PubChem]. The two marketed forms of mifepristone are Mifeprex® (mifepristone 200mg) and Korlym™ (mifepristone 300mg). Currently under investigation for use in psychotic depression (phase 3 trials). 
+4. Indication:  For the medical termination of intrauterine pregnancy through 49 days' pregnancy. Also indicated to control hyperglycemia secondary to hypercortisolism in adult patients with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and are not candidates for surgery or have had unsuccessful surgery.
+DrugId:  6
+1. Name:  Corticotropin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Corticotropin (ACTH or adrenocorticotropic hormone) is a polypeptide hormone produced and secreted by the pituitary gland. It is an important player in the hypothalamic-pituitary-adrenal axis.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  7
+1. Name:  Tetracosactide
+2. Groups:  Approved
+3. Description:  Tetracosactide (also known as Cosyntropin) is a synthetic peptide that is identical to the 24-amino acid segment (sequence: SYSMEHFRWGKPVGKKRRPVKVYP) at the N-terminal of adrenocorticotropic hormone. ACTH (1-24), a segment similar in all species, contains the biological activity that stimulates production of corticosteroids in the adrenal cortex. Tetracosactide exhibits the same activity as natural ACTH with regard to all its biological activities. The complex results in a product whose absorption in man is effected over a longer period of time as compared to corticotropin. Therefore, therapy may be maintained with less frequent administration.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  8
+1. Name:  Corticorelin
+2. Groups:  Investigational
+3. Description:  Corticotropin-releasing factor is studied in the treatment of brain cancer. It is made naturally by the hypothalamus (a part of the brain) and can also be made in the laboratory. Human corticotropin-releasing factor may help reduce symptoms caused by edema (swelling) of the brain. It is a type of neurohormone, also called hCRF.
+4. Indication:  Investigated for use/treatment in brain cancer and neurologic disorders.
+DrugId:  9
+1. Name:  Nicotine
+2. Groups:  Approved
+3. Description:  Nicotine is highly toxic alkaloid. It is the prototypical agonist at nicotinic cholinergic receptors where it dramatically stimulates neurons and ultimately blocks synaptic transmission. Nicotine is also important medically because of its presence in tobacco smoke.
+4. Indication:  For the relief of nicotine withdrawal symptoms and as an aid to smoking cessation.
+DrugId:  10
+1. Name:  Sevelamer
+2. Groups:  Approved
+3. Description:  Sevelamer is a phosphate binding drug used to prevent hyperphosphataemia in patients with chronic renal failure. When taken with meals, sevelamer binds to dietary phosphate and prevents its absorption. It is marketed by Genzyme under the trade name Renagel.
+4. Indication:  For the control of serum phosphorus in patients with Chronic Kidney Disease (CKD) on hemodialysis.
+DrugId:  11
+1. Name:  Tubocurarine
+2. Groups:  Approved
+3. Description:  A neuromuscular blocker and active ingredient in curare; plant based alkaloid of Menispermaceae. [PubChem]
+4. Indication:  Used as a diagnosis agent for myasthenia gravis, and also to facilitate the intubation after induction of anesthesia in surgical procedure
+DrugId:  12
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  13
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  14
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Glucagon-like peptide II
+2. Groups:  Investigational
+3. Description:  Glucagon-like peptide II is under investigation for the basic science of Short Bowel Syndrome.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Eplerenone
+2. Groups:  Approved
+3. Description:  Eplerenone, an aldosterone receptor antagonist similar to spironolactone, has been shown to produce sustained increases in plasma renin and serum aldosterone, consistent with inhibition of the negative regulatory feedback of aldosterone on renin secretion. The resulting increased plasma renin activity and aldosterone circulating levels do not overcome the effects of eplerenone. Eplerenone selectively binds to recombinant human mineralocorticoid receptors relative to its binding to recombinant human glucocorticoid, progesterone and androgen receptors.
+4. Indication:  For improvement of survival of stable patients with left ventricular systolic dysfunction (ejection fraction <40%) and clinical evidence of congestive heart failure after an acute myocardial infarction.
+DrugId:  19
+1. Name:  TC-5231
+2. Groups:  Investigational
+3. Description:  TC-5231 is a small molecule that has been under investigation as an oral treatment for ADHD (Attention Deficit/Hyperactivity Disorder). TC-5231 is mecamylamine hydrochloride, the active ingredient in FDA-approved product, Inversine, but in a lower dose than Inversine. 
+4. Indication:  Investigated for use/treatment in attention deficit/hyperactivity disorder (ADHD), neurologic disorders, and tourette's syndrome.
+DrugId:  20
+1. Name:  Alfacalcidol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism. Alfacalcidol is Vitamin D-hormone analog which is activated by the enzyme 25-hydroxylase in the liver for systemic and in osteoblasts for local D-hormone actions. It possesses a unique pattern of pleiotropic effects on, e.g. gut, bone, pararthyroids, muscle and brain. Alfacalcidol is superior to plain vitamin D (cholecalciferol) because the final kidney activation of the latter is regulated by a negative feedback mechanism. (PMID:17438884,17668216)
+4. Indication:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism.
+DrugId:  21
+1. Name:  Danazol
+2. Groups:  Approved
+3. Description:  A synthetic steroid with antigonadotropic and anti-estrogenic activities that acts as an anterior pituitary suppressant by inhibiting the pituitary output of gonadotropins. It possesses some androgenic properties. Danazol has been used in the treatment of endometriosis and some benign breast disorders. [PubChem]
+4. Indication:  For the treatment of endometriosis and fibrocystic breast disease (in patients unresponsive to simple measures). Also used for the prophylactic treatment of all types of hereditary angioedema in males and females.
+DrugId:  22
+1. Name:  Pasireotide
+2. Groups:  Approved
+3. Description:  Pasireotide is a synthetic long-acting cyclic hexapeptide with somatostatin-like activity. It is marketed as a diaspartate salt called Signifor, which is used in the treatment of Cushing's disease.
+4. Indication:  For the treatment of Cushing’s disease, specifically for those patients whom pituitary surgery has not been curative or is not an option.
+DrugId:  23
+1. Name:  AT7519
+2. Groups:  Investigational
+3. Description:  AT7519 is a selective inhibitor of certain Cyclin Dependent Kinases (CDKs) leading to tumour regression. It is developed by Astex for the treatment of solid tumours and haematological malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (unspecified), lymphoma (unspecified), myelodysplastic syndrome, and solid tumors.
+DrugId:  24
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  25
+1. Name:  Calfactant
+2. Groups:  Approved
+3. Description:  Calfactant is a sterile, non-pyrogenic lung surfactant intended for intratracheal instillation. It is an off-white suspension of an extract of natural surfactant from calf lungs suspended in 0.9% saline. Each milliliter of calfactant contains 35mg of phospholipids (including 26 mg phosphatidylcholine of which 16 mg is disaturated phosphatidylcholine) and 0.65mg of proteins including surfactant-associated proteins B and C.Calfactant is approved for use in the United States of America. It is used to prevent or treat respiratory distress syndrome in premature infants with lung surfactant deficiency. Calfactant has been shown to decrease the incidence of respiratory distress syndrome, mortality due to respiratory distress syndrome, and air leaks associated with respiratory distress syndrome in clinical trials. It adsorbs to the air:fluid interface in the lungs and works to reduce surface tension, in a manner similar to endogenous pulmonary surfactant.
+4. Indication:  Calfactant is indicated for prophylaxis therapy to prevent respiratory distress syndrome (RDS) in premature infants <29 weeks of gestational age with low lung surfactant and at high risk for RDS. Calfactant therapy is also indicated for the treatment of respiratory distress syndrome in infants 72 hours or less of age with RDS confirmed by clinical and radiologic findings and requiring endotracheal intubation.

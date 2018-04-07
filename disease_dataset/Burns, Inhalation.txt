@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  2
+1. Name:  Sutilains
+2. Groups:  Approved
+3. Description:  Sutilains is a topical agent that is used in the treatment of chemical debridement of burns.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Vibriolysin
+2. Groups:  Investigational
+3. Description:  Vibriolysin is a proteolytic enzyme secreted by the marine microorganism Vibrio proteolyticus. It is a new agent for enzymatic debridement, shown to rapidly and thoroughly hydrolyze burn wound eschar within full-thickness wounds.
+4. Indication:  Investigated for use/treatment in burns and burn infections.
+DrugId:  4
+1. Name:  Stem bromelain
+2. Groups:  Approved, Investigational
+3. Description:  Nexobrid has been used in trials studying the treatment of Thermal Burns. It was approved by the EMA in 2012.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Mafenide
+2. Groups:  Approved, Vet approved
+3. Description:  Mafenide is a sulfonamide-type medication used to treat severe burns. It acts by reducing the bacterial population present in the burn tissue and promotes healing of deep burns. 
+4. Indication:  Mafenide is indicated in the treatment of severe burns.
+DrugId:  6
+1. Name:  Isoflurane
+2. Groups:  Approved, Vet approved
+3. Description:  A stable, non-explosive inhalation anesthetic, relatively free from significant side effects.
+4. Indication:  For induction and maintenance of general anesthesia.
+DrugId:  7
+1. Name:  Endothelin-1
+2. Groups:  Investigational
+3. Description:  Endothelin 1 is under investigation in clinical trial NCT00745693 (The Effects of Diesel Exhaust Inhalation on Vascular Function - the Role of Endothelin).
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  9
+1. Name:  Desflurane
+2. Groups:  Approved
+3. Description:  Desflurane is a highly fluorinated methyl ethyl ether used for maintenance of general anaesthesia. Volatile agents such as desflurane may activate GABA channels and hyperpolarize cell membranes. In addition, they may inhibit certain calcium channels and therefore prevent release of neurotransmitters and inhibit glutamate channels. Volatile anesthetics easily partition into cellular membranes and could expand the volume of the cell membrane and subsequently distort channels necessary for sodium ion flux and the development of action potentials necessary for synaptic transmission. Desflurane preconditions human myocardium against ischemia through activation of mitochondrial K(ATP) channels, adenosine A1 receptor, and alpha and beta adrenoceptors.
+4. Indication:  For use as an inhalation agent for induction and/or maintenance of anesthesia for inpatient and outpatient surgery in adults.
+DrugId:  10
+1. Name:  Fibrinolysin
+2. Groups:  Investigational
+3. Description:  Fibrinolysin (also known as bovine plasmin) is a bovine enzyme derived from bovine plasma or extracted from bacterial cultures. It is a globular protein with a molecular weight of ~90,000 daltons. Fibrinolysin consists of two polypeptide chains, one light and one heavy, linked by a disulfide bond. The light chain has a molecular weight of approximately 27,000 Da and contains the active center of Fibrinolysin; the heavy chain has a molecular weight of approximately 57,000 Da. Fibrinolysin is used as a local healing ointment when combined together with the enzyme deoxyribonuclease I (extracted from bovine pancreas). Fibrinolysin and deoxyribonuclease both act as lytic enzymes. The combination is available as ointment containing 1 BU (Biological Unit) Fibrinolysin and 666 BUs desoxyribonuclease per gram. The ointment is marketed by Pfizer under the brand name Fibrolan in a variety of countries (e.g. Switzerland). It is currently not approved in the USA.
+4. Indication:  Fibrinolysin assists with the healing of minor burns, superficial wounds, ulcers, surgical wounds, and superficial hematomas.
+DrugId:  11
+1. Name:  Xenon-133
+2. Groups:  Approved
+3. Description:  Xenon-133 is an isotope of xenon. It is a radionuclide that is inhaled to assess pulmonary function, and to image the lungs. It is also used to image blood flow, particularly in the brain.
+4. Indication:  Inhalation of Xenon Xe 133 Gas has proved valuable for the evaluation of pulmonary function and for imaging the lungs. It may also be applied to assessment of cerebral flow. 
+DrugId:  12
+1. Name:  Turpentine
+2. Groups:  Approved, Experimental
+3. Description:  Turpentine (also called spirit of turpentine, oil of turpentine, wood turpentine and colloquially turps) is a fluid obtained by the distillation of resin obtained from live trees, mainly pines. It is mainly used as a solvent and as a source of materials for organic synthesis. Turpentine is composed of terpenes, mainly the monoterpenes alpha-pinene and beta-pinene with lesser amounts of carene, camphene, dipentene, and terpinolene.
+4. Indication:  Turpentine has been used experimentally in a bath for the treatment of disseminated sclerosis and sexual dysfunction. It also has been studied for its antibacterial activity and inhibition of osteoclast activity. Turpentine is utilized in experimental models of inflammation to induce a systemic inflammatory immune response in animals.
+DrugId:  13
+1. Name:  Racepinephrine
+2. Groups:  Approved
+3. Description:  Racepinephrine is a racemic mixture consisting of d-Epinephrine and l-Epinephrine enantiomers. Epinephrine is a non-selective α- and β-adrenergic receptor agonist. It is a bronchodilator used in the temporary relief of mild symptoms of intermittent asthma including wheezing, tightness of chest and shortness of breath. It is an active ingredient in oral inhalation over-the-counter products as racepinephrine hydrochloride.
+4. Indication:  Indicated for temporary relief of mild symptoms of intermittent asthma.
+DrugId:  14
+1. Name:  Collagenase clostridium histolyticum
+2. Groups:  Approved, Investigational
+3. Description:  Collagenase clostridium histolyticum is an enzyme produced by the bacterium Clostridium histolyticum that dismantles collagen. It is used as a powder-and-solvent injection kit for the treatment of Dupuytren's contracture, a condition where the fingers bend towards the palm and cannot be fully straightened, and Peyronie's disease, a connective tissue disorder involving the growth of fibrous plaques in the soft tissue of the penis. BioSpecifics Technologies developed the preparation, which is manufactured and marketed by Auxilium Pharmaceuticals as Xiaflex in the US and by Sobi as Xiapex in Europe.
+4. Indication:  Used to promote debridement of necrotic tissue in the treatment of severe burns and dermal ulcers including decubitus ulcers.
+DrugId:  15
+1. Name:  Methoxyflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An inhalation anesthetic. Currently, methoxyflurane is rarely used for surgical, obstetric, or dental anesthesia. If so employed, it should be administered with nitrous oxide to achieve a relatively light level of anesthesia, and a neuromuscular blocking agent given concurrently to obtain the desired degree of muscular relaxation. (From AMA Drug Evaluations Annual, 1994, p180)
+4. Indication:  For use in the induction and maintenance of general anesthesia
+DrugId:  16
+1. Name:  Procaterol
+2. Groups:  Approved, Investigational
+3. Description:  A long-acting beta-2-adrenergic receptor agonist. It is a potent bronchodilator that may be administered orally or by aerosol inhalation. [PubChem]
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  17
+1. Name:  MDX-1303
+2. Groups:  Investigational
+3. Description:  MDX-1303 is a fully human antibody against the inhalation anthrax, the most lethal form of illness in humans caused by the Bacillus anthracis bacterium, and targets a protein component of these lethal toxins known as the anthrax protective antigen.
+4. Indication:  Investigated for use/treatment in anthrax exposure and bacterial infection.
+DrugId:  18
+1. Name:  Silver sulfadiazine
+2. Groups:  Approved, Vet approved
+3. Description:  Silver sulfadiazine is a sulfa derivative topical antibacterial used primarily on second- and third-degree burns. [Wikipedia]
+4. Indication:  Indicated as an adjunct for the prevention and treatment of wound sepsis in patients with second- and third-degree burns.
+DrugId:  19
+1. Name:  AeroLEF
+2. Groups:  Investigational
+3. Description:  AeroLEF™ (aerosolized liposome-encapsulated fentanyl) is a novel, proprietary inhalation formulation of free and liposome-encapsulated fentanyl intended to provide rapid, extended and personalized analgesia for patients experiencing acute pain episodes. AeroLEF™ is in development for the treatment of moderate to severe pain, including cancer pain.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  20
+1. Name:  Ethyl pyruvate
+2. Groups:  Investigational
+3. Description:  CTI-01 (ethyl pyruvate) is a novel anti-inflammatory agent for the treatment of critical inflammatory conditions. CTI-01 shows a potent anti-inflammatory and tissue protection activity in multiple animal models of disease including pancreatitis, ischemia-reperfusion injury, sepsis, renal injury and endotoxemia.
+4. Indication:  Investigated for use/treatment in burns and burn infections, cardiac surgery, inflammatory disorders (unspecified), ischemic reperfusion injury, and sepsis and septicemia.
+DrugId:  21
+1. Name:  Balsam of Peru
+2. Groups:  Approved, Vet approved
+3. Description:  Balsam of Peru, also known and marketed by many other names, is a natural resin derived from a tree known as Myroxylon, which is grown in Central America (primarily in El Salvador) and South America. It is a contact allergen but has been used in the local treatment of burns and wounds. Other applications include flavoring agent in foods and drinks and frangrance in cosmetic products.
+4. Indication:  For use as an aid in the treatment of external wounds and assists healing by facilitating the removal of necrotic tissue, exudate and organic debris.
+DrugId:  22
+1. Name:  Beeswax
+2. Groups:  Approved
+3. Description:  The wax obtained from the honeycomb of the bee. It consists primarily of myricyl palmitate, cerotic acid esters and some high-carbon paraffins. Beeswax is used as a stiffening agent in ointments and creams, and enables water to be incorporated to produce water-in-oil emulsions. It is also used as a coating in the manufacture of modified-release oral preparations
+4. Indication:  Beeswax is also characterized by several therapeutic properties of great interest to us; it is thought to be particularly effective in healing bruises, inflammation and burns. Recently, the interest of researchers has moved even on antimicrobial properties of beeswax although there are still few studies in the literature focused only on the action of beeswax. The few studies showed an antimicrobic effectiveness of beeswax against overall Staphylococcus aureus, Salmonella enterica, Candida albicans and Aspergillus niger. A sterile preparation of white beeswax, hard paraffin, and isopropyl palmitate (Sterile Surgical Bone Wax) is used to control bleeding from damaged bone during surgery. It should not be confused with Aseptic Surgical Wax (BPC 1949), also known as Horsley's Wax , which contained yellow beeswax, olive oil, and phenol in a mercuric chloride solution and was used to control haemorrhage in bone or cranial surgery.
+DrugId:  23
+1. Name:  Sodium hydroxide
+2. Groups:  Approved
+3. Description:  Sodium hydroxide is also known as lye or soda , or caustic soda [6].At room temperature, sodium hydroxide is a white crystalline odorless solid that absorbs moisture from the air. It is a synthetically manufactured substance. When dissolved in water or neutralized with acid it releases substantial amounts of heat, which may prove sufficient to ignite combustible materials. Sodium hydroxide is highly corrosive [2].Sodium hydroxide is generally used as a solid or a diluted in a 50% solution. This chemical is used to manufacture soaps, rayon, paper, explosives, dyestuffs, and petroleum products [2].It is also used in processing cotton fabric, laundering and bleaching, metal cleaning and processing, oxide coating, electroplating, and electrolytic extracting. It is commonly found in commercial drain/ oven cleaners [2]. According to the the FDA, sodium hydroxide is considered a direct food recognized as safe, where it serves as a pH control agent and follows good manufacturing guidelines [3].Interestingly, sodium hydroxide has been studied for its use in the treatment of prion disease (as occurs in mad cow disease and kuru). The use of this compound has been shown to effectively reduce prion levels in an in vitro inactivation assay [1].
+4. Indication:  Used to destroy or kill the mail matrix (matrixectomies) [4].
+DrugId:  24
+1. Name:  Tyloxapol
+2. Groups:  Approved, Investigational
+3. Description:  Tyloxapol is a non-ionic detergent often used as a surfactant.
+4. Indication:  Used as a surfactant to aid liquefaction and removal of mucopurulent (containing mucus and pus) bronchopulmonary secretions, administered by inhalation through a nebulizer or with a stream of oxygen. Also investigated for use/treatment in cystic fibrosis and pediatric indications.
+DrugId:  25
+1. Name:  Enflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An extremely stable inhalation anesthetic that allows rapid adjustments of anesthesia depth with little change in pulse or respiratory rate. [PubChem]
+4. Indication:  Used for the induction and maintenance of general anaesthesia during surgery and cesarean section and also used for analgesia during vaginal delivery.

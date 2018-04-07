@@ -1,0 +1,25 @@
+DrugId:  1
+1. Name:  Podophyllin
+2. Groups:  Approved
+3. Description:  Podophyllin is a resin extracted from the root of the plant Podophyllum sp. Berberidaceae (mandrake), which contains numerous compounds, among which podophyllotoxin. Podophyllin is the principal active component. Podophyllin arrests mitosis in metaphase.
+4. Indication:  25% podophyllin (in benzoin tincture) is indicated for the removal of soft genital (venereal) warts (condylomata acuminata).
+DrugId:  2
+1. Name:  Furazolidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A nitrofuran derivative with antiprotozoal and antibacterial activity. Furazolidone binds bacterial DNA which leads to the gradual inhibition of monoamine oxidase. (From Martindale, The Extra Pharmacopoeia, 30th ed, p514)
+4. Indication:  For the specific and symptomatic treatment of bacterial or protozoal diarrhea and enteritis caused by susceptible organisms.
+DrugId:  3
+1. Name:  Picrotoxin
+2. Groups:  Experimental
+3. Description:  A noncompetitive antagonist at GABA-A receptors and thus a convulsant. Picrotoxin blocks the gamma-aminobutyric acid-activated chloride ionophore. Although it is most often used as a research tool, it has been used as a CNS stimulant and an antidote in poisoning by CNS depressants, especially the barbiturates. [PubChem]
+4. Indication:  Used internally for relieving respiratory distress. Also for use as an antidote in poisoning by CNS depressants, especially barbiturates.
+DrugId:  4
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  5
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].

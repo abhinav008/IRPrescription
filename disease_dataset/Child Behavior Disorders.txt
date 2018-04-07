@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Fenfluramine
+2. Groups:  Approved, Illicit, Investigational, Withdrawn
+3. Description:  Fenfluramine was withdrawn from the U.S. market in 1997 after reports of heart valve disease and pulmonary hypertension, including a condition known as cardiac fibrosis.
+4. Indication:  For the management of exogenous obesity as a short-term (a few weeks) adjunct in a regimen of weight reduction based on caloric restriction.
+DrugId:  2
+1. Name:  Triflupromazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine used as an antipsychotic agent and as an antiemetic. [PubChem]
+4. Indication:  Used mainly in the management of psychoses. Also used to control nausea and vomiting.
+DrugId:  3
+1. Name:  Lintitript
+2. Groups:  Investigational
+3. Description:  Lintitript is a new, highly specific and potent CCK-A receptor antagonist.
+4. Indication:  For the treatment of pancreatic cancer and appetite disorders.
+DrugId:  4
+1. Name:  Oleoyl-estrone
+2. Groups:  Investigational
+3. Description:  Oleoyl-estrone (OE) is a fatty acid ester of estrone. It is a naturally circulating hormone in animals including humans. It was first reported in 1996 to cause a body fat loss effect in rats in the International Journal of Obesity and Related Metabolic Disorders. The animal research has all been conducted by the Nitrogen-Obesity Research Group of the University of Barcelona. The compound was found to potently induce body-fat loss while preserving protein stores in animals which is the ultimate goal of an anti-obesity agent as body protein loss is an undesired but inevitable (to some degree) side effect of fat loss via calorie restriction. [Wikipedia]
+4. Indication:  For the treatment of obesity.
+DrugId:  5
+1. Name:  JNJ-28330835
+2. Groups:  Experimental
+3. Description:  A selective androgen receptor modulator with minimal prostate hypertrophic activity, enhances lean body mass in male rats and stimulates sexual behavior in female rats.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Molindone
+2. Groups:  Approved
+3. Description:  An indole derivative effective in schizophrenia and other psychoses and possibly useful in the treatment of the aggressive type of undersocialized conduct disorder. Molindone has much lower affinity for D2 receptors than most antipsychotic agents and has a relatively low affinity for D1 receptors. It has only low to moderate affinity for cholinergic and alpha-adrenergic receptors. Some electrophysiologic data from animals indicate that molindone has certain characteristics that resemble those of clozapine. (From AMA Drug Evaluations Annual, 1994, p283)
+4. Indication:  Molindone is used for the management of the manifestations of psychotic disorders.
+DrugId:  7
+1. Name:  Ripasudil
+2. Groups:  Approved
+3. Description:  Ripasudil, as hydrochloride hydrate (K-115), is a specifc Rho-associated coiled-coil containing protein kinase (ROCK) inhibitor used for the treatment of glaucoma and ocular hypertension. It was first approved for treatment in Japan in September 2014. This medication is available in the form of a 0.4% eye drop solution under the brand name Glanatec. Ripasudil is a well tolerated medication that is used when other drugs have been proven to be non-effective or cannot be administered.
+4. Indication:  Ripasudil has been proven to be effective in the twice daily treatment of glaucoma and ocular hypertension. It is currently in studies to be approved for both diabetic retinopathy and diabetic macular oedema. 
+DrugId:  8
+1. Name:  R1204
+2. Groups:  Investigational
+3. Description:  R1204 is G-protein-coupled receptor modulator. It is developed for the treatment of depression.
+4. Indication:  Investigated for use/treatment in depression.
+DrugId:  9
+1. Name:  Amantadine
+2. Groups:  Approved
+3. Description:  An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the chemoprophylaxis, prophylaxis, and treatment of signs and symptoms of infection caused by various strains of influenza A virus. Also for the treatment of parkinsonism and drug-induced extrapyramidal reactions.
+DrugId:  10
+1. Name:  Fluconazole
+2. Groups:  Approved, Investigational
+3. Description:  Triazole antifungal agent that is used to treat oropharyngeal candidiasis and cryptococcal meningitis in AIDS. [PubChem]
+4. Indication:  For the treatment of fungal infections.
+DrugId:  11
+1. Name:  Thioridazine
+2. Groups:  Approved, Withdrawn
+3. Description:  A phenothiazine antipsychotic used in the management of psychoses, including schizophrenia, and in the control of severely disturbed or agitated behavior. It has little antiemetic activity. Thioridazine has a higher incidence of antimuscarinic effects, but a lower incidence of extrapyramidal symptoms, than chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p618).Thioridazine was withdrawn worldwide in 2005 due to it's association with cardiac arrythmias.
+4. Indication:  For the treatment of schizophrenia and generalized anxiety disorder.
+DrugId:  12
+1. Name:  Lopinavir
+2. Groups:  Approved
+3. Description:  Lopinavir (ABT-378) is an antiretroviral of the protease inhibitor class. It is marketed by Abbott as Kaletra, a co-formulation with a sub-therapeutic dose of ritonavir, as a component of combination therapy to treat HIV/AIDS.
+4. Indication:  Indicated in combination with other antiretroviral agents for the treatment of HIV-infection.
+DrugId:  13
+1. Name:  Bupropion
+2. Groups:  Approved
+3. Description:  A unicyclic, aminoketone antidepressant. The mechanism of its therapeutic actions is not well understood, but it does appear to block dopamine uptake. The hydrochloride is available as an aid to smoking cessation treatment.
+4. Indication:  For the treatment of depression and as aid to smoking cessation.
+DrugId:  14
+1. Name:  Loxapine
+2. Groups:  Approved
+3. Description:  An antipsychotic agent used in schizophrenia. [PubChem]
+4. Indication:  For the management of the manifestations of psychotic disorders such as schizophrenia
+DrugId:  15
+1. Name:  Chlorpromazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  The prototypical phenothiazine antipsychotic drug. Like the other drugs in this class, chlorpromazine's antipsychotic actions are thought to be due to long-term adaptation by the brain to blocking dopamine receptors. Chlorpromazine has several other actions and therapeutic uses, including as an antiemetic and in the treatment of intractable hiccup.
+4. Indication:  For the treatment of schizophrenia; to control nausea and vomiting; for relief of restlessness and apprehension before surgery; for acute intermittent porphyria; as an adjunct in the treatment of tetanus; to control the manifestations of the manic type of manic-depressive illness; for relief of intractable hiccups; for the treatment of severe behavioral problems in children (1 to 12 years of age) marked by combativeness and/or explosive hyperexcitable behavior (out of proportion to immediate provocations), and in the short-term treatment of hyperactive children who show excessive motor activity with accompanying conduct disorders consisting of some or all of the following symptoms: impulsivity, difficulty sustaining attention, aggressivity, mood lability, and poor frustration tolerance.
+DrugId:  16
+1. Name:  Duloxetine
+2. Groups:  Approved
+3. Description:  Duloxetine (brand names Cymbalta, Yentreve, and in parts of Europe, Xeristar or Ariclaim) is a drug which primarily targets major depressive disorder (MDD), generalized anxiety disorder (GAD), pain related to diabetic peripheral neuropathy and in some countries stress urinary incontinence (SUI). It is manufactured and marketed by Eli Lilly and Company.Duloxetine has not yet been FDA approved for stress urinary incontinence or for fibromyalgia.Duloxetine is a selective SNRI (selective serotonin-norepinephrine reuptake inhibitor). Duloxetine is a systemic drug therapy which affects the body as a whole. Known also under the code name LY248686, it is a potent dual reuptake inhibitor of serotonin (5-hydroxytryptamine, 5-HT) and norepinephrine (NE), possessing comparable affinities in binding to NE- and 5-HT transporter sites. It is a less potent inhibitor of dopamine reuptake.
+4. Indication:  For the acute and maintenance treatment of major depressive disorder (MDD), as well as acute management of generalized anxiety disorder. Also used for the management of neuropathic pain associated with diabetic peripheral neuropathy, and fibromyalgia. Has been used in the management of moderate to severe stress urinary incontinence (SUI) in women.
+DrugId:  17
+1. Name:  Phenelzine
+2. Groups:  Approved
+3. Description:  Phenelzine, with the formula β-phenylethylhydrazine, is a monoamine oxidase inhibiting antidepressant that is effective in the treatment of panic disorder and social anxiety disorder.[3] It was developed by Parke Davis and originally FDA approved on June 9th, 1961. It is currently approved under prescription by the name of Nardil.
+4. Indication:  Phenelzine is indicated for the treatment of nonendogenous, neurotic or atypical depression for patients that do not tolerate other forms of therapy.[12] Atypical depression has a high prevalence rate, starts in early life, tends to last longer, is more likely to occur in people with bipolar disorder, has a high comorbidity with anxiety disorder and carries more risk of suicidal behavior. It is important to specify the atypical feature to predict the clinical course of depression and hence generate the best treatment and service. The featuring symptoms of the atypical feature include mood reactivity, two or more of this symptoms: 1) increased appetite, 2) increased sleep, 3) leaden paralysis and 4) interpersonal rejection sensitivity and should not have melancholic or catatonic features of depression.[4]Neurotic depression is a depression of an emotionally unstable person. It is a secondary condition to major personality disorder, neuroses and drug use disorders. Likewise, a primary depression with a family history of depression spectrum disease would fit in this category.[5]A nonendogenous depression is characterized by a disturbance in mood and general outlook. The physical symptoms tend to be less severe and it often occurs in response to stressful life events that keep occurring over a large period of time generating a continuous stress in the daily living.[6]
+DrugId:  18
+1. Name:  Voriconazole
+2. Groups:  Approved, Investigational
+3. Description:  Voriconazole (Vfend®, Pfizer) is a triazole antifungal medication used to treat serious fungal infections. It is used to treat invasive fungal infections that are generally seen in patients who are immunocompromised. These include invasive candidiasis, invasive aspergillosis, and emerging fungal infections.
+4. Indication:  For the treatment of esophageal candidiasis, invasive pulmonary aspergillosis, and serious fungal infections caused by Scedosporium apiospermum and Fusarium spp.
+DrugId:  19
+1. Name:  Macitentan
+2. Groups:  Approved
+3. Description:  Macitentan was approved in October 2013. It is indicated for patients with pulmonary arterial hypertension, and is marketed under the brand name Opsumit. Macitentan is an antagonist/blocker of endothelin receptors on blood vessels and smooth muscle, and, thus, blocks the stimulation of vasculature hypertrophy, inflammation, fibrosis, proliferation, and vasoconstriction. Similar to all drugs acting on the renin-angiotensin system, macitentan is associated with embryo and fetal toxicity, so it should not be used in pregnancy and has special precautions that must be followed for all females of child-bearing age. 
+4. Indication:  Macitentan is indicated for patients with pulmonary arterial hypertension.
+DrugId:  20
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  21
+1. Name:  Nelotanserin
+2. Groups:  Investigational
+3. Description:  Nelotanserin has been used in trials studying the treatment of Lewy Body Dementia, Visual Hallucinations, Dementia With Lewy Bodies, and REM Sleep Behavior Disorder. It is a highly selective antagonist at the 5-HT2A serotonin receptor. It increases non-REM sleep, the most restorative phase of the sleep cycle, without sacrificing REM or dream sleep. Nelotanserin works through a mechanism of action that is different from currently marketed drugs.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  23
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  24
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  25
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.

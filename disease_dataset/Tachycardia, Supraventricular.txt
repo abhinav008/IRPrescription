@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Etripamil
+2. Groups:  Investigational
+3. Description:  Etripamil has been used in trials studying the treatment of Paroxysmal Supraventricular Tachycardia (PSVT).
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  3
+1. Name:  Tecadenoson
+2. Groups:  Investigational
+3. Description:  Tecadenoson is a novel selective A1 adenosine receptor agonist that is currently being evaluated for the conversion of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm. It is being developed by CV Therapeutics, Inc.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  4
+1. Name:  Deslanoside
+2. Groups:  Approved
+3. Description:  Deacetyllanatoside C. A cardiotonic glycoside from the leaves of Digitalis lanata. [PubChem]
+4. Indication:  For the treatment and management of Congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  5
+1. Name:  Regadenoson
+2. Groups:  Approved, Investigational
+3. Description:  Regadenoson is an A2A adenosine receptor agonist that causes coronary vasodilation and used for myocardial perfusion imagining. Manufactured by Astellas and FDA approved April 10, 2008. 
+4. Indication:  Diagnostic agent for radionuclide myocardial perfusion imaging (MPI) 
+DrugId:  6
+1. Name:  Amiodarone
+2. Groups:  Approved, Investigational
+3. Description:  An antianginal and antiarrhythmic drug. It increases the duration of ventricular and atrial muscle action by inhibiting Na,K-activated myocardial adenosine triphosphatase. There is a resulting decrease in heart rate and in vascular resistance. [PubChem]
+4. Indication:  Intravenously, for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation and hemodynamically unstable ventricular tachycardia in patients refractory to other therapy. Orally, for the treatment of life-threatening recurrent ventricular arrhythmias such as recurrent ventricular fibrillation and recurrent hemodynamically unstable ventricular tachycardia.
+DrugId:  7
+1. Name:  Digoxin
+2. Groups:  Approved
+3. Description:  A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone digoxigenin. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  8
+1. Name:  Adenine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A purine base and a fundamental unit of adenine nucleotides.
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  9
+1. Name:  Adenosine
+2. Groups:  Approved, Investigational
+3. Description:  A nucleoside that is composed of adenine and d-ribose. Adenosine or adenosine derivatives play many important biological roles in addition to being components of DNA and RNA. Adenosine itself is a neurotransmitter.
+4. Indication:  Used as an initial treatment for the termination of paroxysmal supraventricular tachycardia (PVST), including that associated with accessory bypass tracts, and is a drug of choice for terminating stable, narrow-complex supraventricular tachycardias (SVT). Also used as an adjunct to thallous chloride TI 201 myocardial perfusion scintigraphy (thallium stress test) in patients who are unable to exercise adequately, as well as an adjunct to vagal maneuvers and clinical assessment to establish a specific diagnosis of undefined, stable, narrow-complex SVT.
+DrugId:  10
+1. Name:  Ouabain
+2. Groups:  Approved
+3. Description:  A cardioactive glycoside consisting of rhamnose and ouabagenin, obtained from the seeds of Strophanthus gratus and other plants of the Apocynaceae; used like digitalis. It is commonly used in cell biological studies as an inhibitor of the NA(+)-K(+)-exchanging ATPase.
+4. Indication:  For the treatment of atrial fibrillation and flutter and heart failure
+DrugId:  11
+1. Name:  Metoprolol
+2. Groups:  Approved, Investigational
+3. Description:  Metoprolol is a cardioselective β1-adrenergic blocking agent used for acute myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. It may also be used for supraventricular and tachyarrhythmias and prophylaxis for migraine headaches. Metoprolol is structurally similar to bisoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At low doses, metoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with higher doses. Unlike propranolol and pindolol, metoprolol does not exhibit membrane-stabilizing or intrinsic sympathomimetic activity. Membrane-stabilizing effects are only observed at doses much higher than those needed for β-adrenergic blocking activity. Metoprolol possesses a single chiral centre and is administered as a racemic mixture.
+4. Indication:  For the management of acute myocardial infarction, angina pectoris, heart failure and mild to moderate hypertension. May be used to treat supraventricular and tachyarrhythmias and as prophylaxis for migraine headaches.
+DrugId:  12
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  13
+1. Name:  Bretylium
+2. Groups:  Approved
+3. Description:  Bretylium blocks the release of noradrenaline from the peripheral sympathetic nervous system, and is used in emergency medicine, cardiology, and other specialties for the acute management of ventricular tachycardia and ventricular fibrillation. The primary mode of action for bretylium is thought to be inhibition of voltage-gated K(+) channels. Recent evidence has shown that bretylium may also inhibit the Na,K-ATPase by binding to the extracellular K-site.
+4. Indication:  For use in the prophylaxis and therapy of ventricular fibrillation. Also used in the treatment of life-threatening ventricular arrhythmias, such as ventricular tachycardia, that have failed to respond to adequate doses of a first-line antiarrhythmic agent, such as lidocaine.
+DrugId:  14
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  15
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  16
+1. Name:  Alpha-methyltryptamine
+2. Groups:  Experimental, Illicit
+3. Description:  A stimulant and psychoactive drug which produces effects similar to 3,4-methylenedioxy-N-methylamphetamine (MDMA), despite being structurally dissimilar.It was developed in the 1960's by Upjohn with the intention for use as an antidepressant. In the 1990's, alpha-methyltryptamine became regulated as a Schedule I controlled substance in the United states. 
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Cyclandelate
+2. Groups:  Approved
+3. Description:  A direct-acting smooth muscle relaxant used to dilate blood vessels. It may cause gastrointestinal distress and tachycardia. Cyclandelate is not approved for use in the U.S. or Canada, but is approved in various European countries.
+4. Indication:  Used in the treatment of various blood vessel diseases (e.g., claudication, arteriosclerosis and Raynaud's disease) and nighttime leg cramps.
+DrugId:  18
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  19
+1. Name:  Triprolidine
+2. Groups:  Approved
+3. Description:  First generation histamine H1 antagonist used in allergic rhinitis; asthma; and urticaria. It is a component of cough and cold medicines. It may cause drowsiness.
+4. Indication:  For the symptomatic relief of seasonal or perennial allergic rhinitis or nonallergic rhinitis; allergic conjunctivitis; and mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Also used in combination with other agents for the symptomatic relief of symptoms associated with the common cold.
+DrugId:  20
+1. Name:  Acepromazine
+2. Groups:  Approved, Vet approved
+3. Description:  Acepromazine is one of the phenothiazine derivative psychotropic drugs, used little in humans, however frequently in animals as a sedative and antiemetic.
+4. Indication:  Acepromazine was first used in humans in the 1950s as an antipsychotic agent. It is now rarely used in humans. Acepromazine is frequently used in animals as a sedative and antiemetic. Its principal value is in quietening and calming anxious animals.
+DrugId:  21
+1. Name:  Metixene
+2. Groups:  Approved
+3. Description:  Metixene (or methixene) is a anticholinergic used as an antiparkinsonian agent.
+4. Indication:  Used for the symptomatic treatment of parkinsonism.
+DrugId:  22
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  23
+1. Name:  Pipotiazine
+2. Groups:  Approved, Investigational
+3. Description:  Pipotiazine has actions similar to those of other phenothiazines. Among the different phenothiazine derivatives, it appears to be less sedating and to have a weak propensity for causing hypotension or potentiating the effects of CNS depressants and anesthetics. However, it produces a high incidence of extra pyramidal reactions. It is used for the maintenance treatment of chronic non-agitated schizophrenic patients. Symptoms of overdose include severe extrapyramidal manifestations, hypotension, lethargy and sedation.
+4. Indication:  For the maintenance treatment of chronic non-agitated schizophrenic patients.
+DrugId:  24
+1. Name:  Thioproperazine
+2. Groups:  Approved
+3. Description:  Thioproperazine is a potent neuroleptic with antipsychotic properties. Thioproperazine has a marked cataleptic and antiapomorphine activity associated with relatively slight sedative, hypothermic and spasmolytic effects. It is virtually without antiserotonin and hypotensive action and has no antihistaminic property. It is used for the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.Overdosage may result in severe extrapyramidal symptoms with dysphagia, marked sialorrhea, persistent and rapidly increasing hyperthermia, pulmonary syndrome, state of shock with pallor and profuse sweating, which may be followed by collapse and coma. LD50 in mice is 70 mg/kg I.V., 120 mg/kg I.P., 500 mg/kg S.C. and 830 mg/kg P.O.
+4. Indication:  For the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.
+DrugId:  25
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.

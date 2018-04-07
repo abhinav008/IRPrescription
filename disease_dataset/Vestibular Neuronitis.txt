@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Buclizine
+2. Groups:  Approved
+3. Description:  Buclizine is an antihistamine of the piperazine derivative family. [Wikipedia]
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness and vertigo (dizziness caused by other medical problems).
+DrugId:  2
+1. Name:  AR-42
+2. Groups:  Investigational
+3. Description:  AR-42 has been used in trials studying the treatment of Meningioma, Acoustic Neuroma, Testicular Lymphoma, Intraocular Lymphoma, and Vestibular Schwannoma, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Cinnarizine
+2. Groups:  Approved, Investigational
+3. Description:  Cinnarizine is an anti-histaminic drug which is mainly used for the control of vomiting due to motion sickness. Cinnarizine was first synthesized by Janssen Pharmaceutica in 1955.It acts by interfering with the signal transmission between vestibular apparatus of the inner ear and the vomiting centre of the hypothalamus. The disparity of signal processing between inner ear motion receptors and the visual senses is abolished, so that the confusion of brain whether the individual is moving or standing is reduced. Vomiting in motion sickness is actually a physiological compensatory mechanism of the brain to keep the individual from moving so that it can adjust to the signal perception.Cinnarizine could be also viewed as a nootropic drug because of its vasorelaxating abilities (due to calcium channel blockage), which happen mostly in brain. It is also effectively combined with other nootropics, primarily piracetam; in such combination each drug potentiate the other in boosting brain oxygen supply.
+4. Indication:  For the treatment of vertigo/meniere's disease, nausea and vomiting, motion sickness and also useful for vestibular symptoms of other origins.
+DrugId:  4
+1. Name:  Cyclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist given by mouth or parenterally for the control of postoperative and drug-induced vomiting and in motion sickness. (From Martindale, The Extra Pharmacopoeia, 30th ed, p935)
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness, and vertigo (dizziness caused by other medical problems).
+DrugId:  5
+1. Name:  Betahistine
+2. Groups:  Approved, Investigational
+3. Description:  Betahistine is an antivertigo drug first used for treating vertigo assosicated with Ménière's disease. It is also commonly used for patients with balance disorders.
+4. Indication:  For the reduction of episodes of vertigo association with Ménière's disease.
+DrugId:  6
+1. Name:  Diphenidol
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Diphenidol is an antiemetic agent used in the treatment of vomiting and vertigo. Diphenidol overdose may result in serious toxicity in children.
+4. Indication:  For use in the prevention and symptomatic treatment of peripheral (labyrinthine) vertigo and associated nausea and vomiting that occur in such conditions as Meniere's disease and surgery of the middle and inner ear. Also for the control of nausea and vomiting associated with postoperative states, malignant neoplasms, labyrinthine disturbances, antineoplastic agent therapy, radiation sickness, and infectious diseases.
+DrugId:  7
+1. Name:  Meclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in the treatment of motion sickness, vertigo, and nausea during pregnancy and radiation sickness. [PubChem]
+4. Indication:  For the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness.
+DrugId:  8
+1. Name:  Dimenhydrinate
+2. Groups:  Approved
+3. Description:  Dimenhydrinate (Dramamine, Gravol and Vertirosan) is an over-the-counter drug used to prevent motion sickness. It is closely related to diphenhydramine HCl, or Benadryl. It is primarily a H1-antagonist, but also possesses an antimuscarinic effect.
+4. Indication:  Used for treating vertigo, motion sickness, and nausea associated with pregnancy.
+DrugId:  9
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.
+DrugId:  10
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  11
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  12
+1. Name:  Streptomycin
+2. Groups:  Approved, Vet approved
+3. Description:  Streptomycin is an aminoglycoside antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by binding to the 30S ribosomal subunit of susceptible organisms and disrupting the initiation and elongation steps in protein synthesis. It is bactericidal due to effects that are not fully understood.
+4. Indication:  For the treatment of tuberculosis. May also be used in combination with other drugs to treat tularemia (Francisella tularensis), plague (Yersia pestis), severe M. avium complex, brucellosis, and enterococcal endocarditis (e.g. E. faecalis, E. faecium).
+DrugId:  13
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  14
+1. Name:  Methylscopolamine bromide
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used to study binding characteristics of muscarinic cholinergic receptors. [PubChem]
+4. Indication:  Used as adjunctive therapy for the treatment of peptic ulcer. Also used to treat nausea and vomiting due to motion sickness.
+DrugId:  15
+1. Name:  Scopolamine
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid from Solanaceae, especially Datura metel L. and Scopola carniolica. Scopolamine and its quaternary derivatives act as antimuscarinics like atropine, but may have more central nervous system effects. Among the many uses are as an anesthetic premedication, in urinary incontinence, in motion sickness, as an antispasmodic, and as a mydriatic and cycloplegic. [PubChem]
+4. Indication:  For the treatment of excessive salivation, colicky abdominal pain, bradycardia, sialorrhoea, diverticulitis, irritable bowel syndrome and motion sickness.
+DrugId:  16
+1. Name:  Neomycin
+2. Groups:  Approved, Vet approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed). Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and acceptor tRNA sites and results in the production of non-functional or toxic peptides.
+4. Indication:  Topical uses include treatment for superficial eye infections caused by susceptible bacteria (used in combination with other antiinfectives), treatment of otitis externa caused by susceptible bacteria, treatment or prevention of bacterial infections in skin lesions, and use as a continuous short-term irrigant or rinse to prevent bacteriuria and gram negative rod bacteremia in abacteriuric patients with indwelling catheters. May be used orally to treat hepatic encephalopathy, as a perioperative prophylactic agent, and as an adjunct to fluid and electrolyte replacement in the treatment of diarrhea caused to enteropathogenic E. coli (EPEC). 

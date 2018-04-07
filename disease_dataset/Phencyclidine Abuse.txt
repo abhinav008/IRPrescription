@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Phencyclidine
+2. Groups:  Illicit
+3. Description:  A hallucinogen formerly used as a veterinary anesthetic, and briefly as a general anesthetic for humans. Phencyclidine is similar to ketamine in structure and in many of its effects. Like ketamine, it can produce a dissociative state. It exerts its pharmacological action through inhibition of NMDA receptors (receptors, N-methyl-D-aspartate). As a drug of abuse, it is known as PCP and Angel Dust. [PubChem]
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  PTI-801
+2. Groups:  Investigational
+3. Description:  PTI-801 represents a new class of drugs to treat pain. PTI-801 can minimize the opioid tolerance, dependence or addiction that is often associated with repeat use of oxycodone.
+4. Indication:  Investigated for use/treatment in addictions, osteoarthritis, and pain (acute or chronic).
+DrugId:  3
+1. Name:  Carisbamate
+2. Groups:  Investigational
+3. Description:  Carisbamate has been investigated in Alcohol Abuse, Substance Abuse, and Alcohol Dependence.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Rolicyclidine
+2. Groups:  Experimental, Illicit
+3. Description:  Rolicyclidine (PCPy) is a dissociative anesthetic drug with hallucinogenic and sedative effects. Due to its similarity in effects to PCP, PCPy was placed into the Schedule I list of illegal drugs in the 1970s, although it has never been widely abused and is now little known.
+4. Indication:  Rolicyclidine has anesthetic properties and can induce a sedative effect. 
+DrugId:  5
+1. Name:  Tenocyclidine
+2. Groups:  Experimental, Illicit, Investigational
+3. Description:  Tenocyclidine (TCP, thienyl cyclohexylpiperidine) is a dissociative anesthetic drug with stimulant and hallucinogenic effects. It is similar in effects to phencyclidine but is considerably more potent. Due to its similarity in effects to PCP, TCP was placed into the Schedule I list of illegal drugs in the 1970s, although it was only briefly abused in the 1970s and 1980s and is now little known. [Wikipedia]
+4. Indication:  Because of its high affinity for the phencyclidine binding site on the NMDA receptor, the 3H radiolabelled form of tenocyclidine is widely used in research into NMDA receptors.
+DrugId:  6
+1. Name:  Dexmecamylamine
+2. Groups:  Investigational
+3. Description:  Dexmecamylamine has been used in trials studying the basic science and treatment of Patients, Depression, Drug Abuse, Pharmacokinetics, and Renal Impairment, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Citicoline
+2. Groups:  Approved, Investigational
+3. Description:  Citicoline has been investigated for the treatment, supportive care, and diagnostic of Mania, Stroke, Hypomania, Cocaine Abuse, and Bipolar Disorder, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  ADX-10061
+2. Groups:  Investigational
+3. Description:  ADX10061 is a potent, selective antagonist of the dopamine D1 receptor. It is developed by Addex Pharmaceuticals for the treatment of nicotine dependence.
+4. Indication:  Investigated for use/treatment in sleep disorders, smoking cessation, and substance abuse.
+DrugId:  9
+1. Name:  Alaproclate
+2. Groups:  Experimental
+3. Description:  Alaproclate is a drug that was being developed as an antidepressant by the Swedish pharmaceutical company Astra AB (now AstraZeneca) in the 1970s. It acts as a selective serotonin reuptake inhibitor (SSRI), and along with zimelidine and indalpine, was one of the first of its kind. Development was discontinued due to the observation of liver complications in rodent studies. In addition to its SSRI properties, alaproclate has been found to act as a non-competitive NMDA receptor antagonist, but does not have discriminative stimulus properties similar to phencyclidine.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Dimethylthiambutene
+2. Groups:  Experimental, Illicit
+3. Description:  Dimethylthiambutene (N,N-Dimethyl-1-methyl-3,3-di-2-thienylallylamine, Dimethibutin, Ohton) is an opioid analgesic drug. It is now under international control under Schedule I of the UN Single Convention On Narcotic Drugs 1961, presumably due to high abuse potential, although little more information is available.
+4. Indication:  Dimethylthiambutene is an opioid analgesic previously used in moderate pain relief.
+DrugId:  11
+1. Name:  Dihydromorphine
+2. Groups:  Experimental, Illicit
+3. Description:  A semisynthetic analgesic used in the study of narcotic receptors. It has abuse potential. [PubChem]
+4. Indication:  Dihydromorphine is an opioid analgesic used for moderate to severe pain relief.
+DrugId:  12
+1. Name:  Istradefylline
+2. Groups:  Investigational
+3. Description:  Istradefylline has been used in trials studying the treatment and basic science of Drug Abuse, Sleep Disorder, Hepatic Impairment, Parkinson's Disease, and Restless Legs Syndrome, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Puerarin
+2. Groups:  Investigational
+3. Description:  Puerarin has been investigated for the treatment of Alcohol Abuse.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Benzylfentanyl
+2. Groups:  Illicit
+3. Description:  Benzylfentanyl (R-4129) is a fentanyl analog. It was temporarily placed in the US Schedule I by emergency scheduling in 1985 due to concerns about its potential for abuse as a designer drug, but this placement was allowed to expire and benzylfentanyl was formally removed from controlled substance listing in 2010, after the DEA's testing determined it to be "essentially inactive" as an opioid. Benzylfentanyl has a Ki of 213nM at the mu opioid receptor, binding around 200x less strongly than fentanyl itself.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Chlorphentermine
+2. Groups:  Illicit, Withdrawn
+3. Description:  A sympathomimetic agent that was formerly used as an anorectic. It has properties similar to those of dextroamphetamine. It has been implicated in lipid storage disorders and pulmonary hypertension. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1223)
+4. Indication:  Used as an appetite suppressant.
+DrugId:  16
+1. Name:  Bromazepam
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  One of the benzodiazepines that is used in the treatment of anxiety disorders. [PubChem] It is a Schedule IV drug in the U.S. and Canada and under the Convention on Psychotropic Substances. It is a intermediate-acting benzodiazepines. 
+4. Indication:  For the short-term treatment of insomnia, short-term treatment of anxiety or panic attacks, if a benzodiazepine is required, and the alleviation of the symptoms of alcohol- and opiate-withdrawal.
+DrugId:  17
+1. Name:  Barbexaclone
+2. Groups:  Experimental
+3. Description:  Barbexaclone, a salt compound of propylhexedrine and phenobarbital, is a potent antiepileptic. By weight, barbexaclone is 40% propylhexedrine and 60% phenobarbital. While barbexaclone has sedative properties, propylhexedrine has psychostimulant properties intended to offset these sedative effects. Pharmacokinetic studies have demonstrated that the pharmacokinetics of phenobarbital given as barbexaclone are not affected by propylhexedrine. Several reports from Spanish and Italian literature suggest that barbexaclone is at least as effective as phenobarbital in adults and children, while being better tolerated and having less sedative properties. These reports were conducted in a small series of patients in the 1970s and 1980s, and have yet to be confirmed by larger controlled trials. Despite the lack of controlled trials, barbexaclone was used widely in Turkey until it was discontinued in 2009. Barbexaclone exists in 25mg and 100mg tablets. 100mg of barbexaclone is equivalent to 60mg of phenobarbital. With this difference in potency in mind, other pharmacokinetic considerations such as dose titration, daily dosing, and optimal plasma concentration can be considered the same as for the equivalent amount of phenobarbital. There has been a case of barbexaclone abuse due to the amphetamine like properties of propylhexedrine, although the comparative abuse potential is much lower than amphetamine.
+4. Indication:  Created for the treatment for epilepsy, with the intent of creating an antiepileptic with less sedative properties than phenobarbital. 
+DrugId:  18
+1. Name:  Ketamine
+2. Groups:  Approved, Vet approved
+3. Description:  Ketamine is an NMDA receptor antagonist with a potent anesthetic effect.[6] It was developed in 1963 as a replacement for phencyclidine (PCP) by Calvin Stevens at Parke Davis Laboratories. It started being used for veterinary purposes in Belgium and in 1964 was proven that compared to PCP, it produced minor hallucinogenic effects and shorter psychotomimetic effects. It was FDA approved in 1970, and from there, it has been used as an anesthetic for children or patients undergoing minor surgeries but mainly for veterinary purposes.[14]
+4. Indication:  Ketamine is indicated as an anesthetic agent for recommended diagnostic and surgical procedures. If skeletal muscle relaxation is needed, it should be combined with a muscle relaxant. If the surgical procedure involves visceral pain, it should be supplemented with an agent that obtunds visceral pain. Ketamine can be used for induction of anesthesia prior other general anesthetic agents and as a supplement of low potency agents.[15]Reports have indicated a potential use of ketamine as a therapeutic tool for the management of depression when administered in lower doses.[7] These reports have increased the interest for ketamine in this area and several clinical trials are launched for this indication.[16, 8]
+DrugId:  19
+1. Name:  Tasimelteon
+2. Groups:  Approved, Investigational
+3. Description:  Tasimelteon is a selective dual melatonin receptor agonist indicated for the treatment of Non-24-Hour Sleep-Wake Disorder (N24HSWD). Occurring commonly in blind individuals without light perception, this condition is often characterized by periods of night-time insomnia and day-time sleepiness. In blind individuals, a lack of light stimulation causes an extension of the 24-hour circadian cycle and can lead to progressively delayed sleep onset. By activating melatonin receptors MT1 and MT2 in the suprachiasmatic nucleus of the brain, tasimelteon has been shown to improve sleep by resynchronizing the circadian rhythm through its "non-photic" mechanism. Tasimelteon is currently the only drug available for the treatment of N24HSWD and was granted orphan drug status by the FDA in 2010.
+4. Indication:  Tasimelteon is indicated for the treatment of Non-24-Hour Sleep-Wake Disorder (N24HSWD).
+DrugId:  20
+1. Name:  Glutamic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  A peptide that is a homopolymer of glutamic acid.
+4. Indication:  Considered to be nature's "Brain food" by improving mental capacities; helps speed the healing of ulcers; gives a "lift" from fatigue; helps control alcoholism, schizophrenia and the craving for sugar.
+DrugId:  21
+1. Name:  Fluoride ion F-18
+2. Groups:  Approved
+3. Description:  Sodium Fluoride F 18 Injection is a positron emitting radiopharmaceutical, no-carrier added. It contains radioactive fluoride F 18 that is used for diagnostic purposes in conjunction with positron emission tomography (PET) imaging and is administered by intravenous injection. Its primary indication is for bone imaging. Increased deposition around joints can occur in arthritis and following trauma and increased deposition in bone has been noted around fracture sites, in osteomyelitis, fibrous dysplasia, spondylitis tuberculosa, and Paget's disease. No adverse reactions have been reported.
+4. Indication:  18F is used as a bone imaging agent to define areas of altered osteogenic activity. It has been indicated for back pain and otherwise unexplained bone pain, child abuse, abnormal radiographic or laboratory findings, osteomyelitis, trauma, inflammatory and degenerative arthritis, avascular necrosis. Osteonecrosis of the mandible, condylar hyperplasia, and metabolic bone disease are also among the indications for fluoride imaging. 
+DrugId:  22
+1. Name:  Rimonabant
+2. Groups:  Approved, Investigational
+3. Description:  Rimonabant is an anorectic anti-obesity drug produced and marketed by Sanofi-Aventis. It is an inverse agonist for the cannabinoid receptor CB1. Its main avenue of effect is reduction in appetite. Rimonabant is the first selective CB1 receptor blocker to be approved for use anywhere in the world. Rimonabant is approved in 38 countries including the E.U., Mexico, and Brazil. It was rejected for approval for use in the United States. This decision was made after a U.S. advisory panel recommended the medicine not be approved because it may increase suicidal thinking and depression.
+4. Indication:  For use in conjunction with diet and exercise for patients with a body mass index greater than 30 kg/m2, or patients wih a BMI greater than 27 kg/m2 with associated risk factors, such as type 2 diabetes or dyslipidaemia.
+DrugId:  23
+1. Name:  Ramelteon
+2. Groups:  Approved, Investigational
+3. Description:  Ramelteon is the first in a new class of sleep agents that selectively binds to the melatonin receptors in the suprachiasmatic nucleus (SCN). It is used for insomnia, particularly delayed sleep onset. Ramelteon has not been shown to produce dependence and has shown no potential for abuse.
+4. Indication:  For the treatment of insomnia characterized by difficulty with sleep onset.
+DrugId:  24
+1. Name:  Fencamfamine
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Fencamfamine (Glucoenergan, Reactivan) is a stimulant which was developed in the 1960s as an appetite suppressant, but was later withdrawn for this application due to problems with dependence and abuse. It is around half the potency of dexamphetamine, and is prescribed at a dose of 10-60mg, although abusers of the drug tend to rapidly develop tolerance and escalate their dose. Reactivan is still rarely used for treating depressive day-time fatigue, lack of concentration and lethargy, particularly in individuals who have chronic medical conditions, as its favourable safety profile makes it the most suitable drug in some cases. [Wikipedia]
+4. Indication:  For the the treatment of depressive fatigue in convalescence and other debilitated states as well as in the treatment of depressive day-time fatigue, lack of concentration and lethargy.
+DrugId:  25
+1. Name:  Phendimetrazine
+2. Groups:  Approved, Illicit
+3. Description:  Phendimetrazine is a weight loss medication. Phendimetrazine is chemically related to amphetamines and is a Schedule III drug under the Convention on Psychotropic Substances. In the United States, phendimetrazine is a Schedule III controlled substance under the Uniform Controlled Substances Act of 1970.
+4. Indication:  Used in the management of exogenous obesity as a short term adjunct (a few weeks) in a regimen of weight reduction based on caloric restriction.

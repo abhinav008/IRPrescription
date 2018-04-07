@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Calcium glycerophosphate
+2. Groups:  Approved
+3. Description:  Calcium glycerophosphate is a calcium salt of glycerophosphoric acid that forms a white, fine, slightly hygroscopic powder. The commercial product is a mixture of calcium beta-, and D-, and L -alpha-glycerophosphate. By FDA, calcium glycerophosphate is considered a generally recognized as safe (GRAS) food ingredient as a nutrient supplement (source of calcium or phosphorus), or in food products such as gelatins, puddings, and fillings. It is also present in dental or oral hygiene products due to its cariostatic effects. It is suggested that calcium glycerophosphate promotes plaque-pH buffering, elevation of plaque calcium and phosphate levels and direct interaction with dental mineral [2].
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Fenamole
+2. Groups:  Investigational
+3. Description:  Pat has been investigated for the supportive care of Side Effects and Dental Plaque.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Cetylpyridinium
+2. Groups:  Approved
+3. Description:  Cetylpyridinium is a quaternary ammonium with a broad-spectrum antiseptic properties. Its salt form, cetylpyridinium chloride, is found as an active ingredient in mouthwashes, toothpastes, lozenges, throat sprays, breath sprays, and nasal sprays. In dental hygiene products, it mediates a protective action against dental plaque and reducing gingivitis.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Benzoic Acid
+2. Groups:  Approved, Investigational
+3. Description:  A fungistatic compound that is widely used as a food preservative. It is conjugated to GLYCINE in the liver and excreted as hippuric acid. As the sodium salt form, sodium benzoate is used as a treatment for urea cycle disorders due to its ability to bind amino acids. This leads to excretion of these amino acids and a decrease in ammonia levels. Recent research shows that sodium benzoate may be beneficial as an add-on therapy (1 gram/day) in schizophrenia. Total Positive and Negative Syndrome Scale scores dropped by 21% compared to placebo.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Sodium lauryl sulfate
+2. Groups:  Approved
+3. Description:  Sodium Lauryl Sulfate (SLS) is an anionic surfactant naturally derived from coconut and/or palm kernel oil. It usually consists of a mixture of sodium alkyl sulfates, mainly the lauryl. SLS lowers surface tension of aqueous solutions and is used as fat emulsifier, wetting agent, and detergent in cosmetics, pharmaceuticals and toothpastes. It is also used in creams and pastes to properly disperse the ingredients and as research tool in protein biochemistry. SLS also has some microbicidal activity. 
+4. Indication:  SLS is used as a surfactant in shampoos and toothpastes. SLS also has microbicidal activities against both enveloped (Herpes simplex viruses, HIV-1, Semliki Forest virus) and nonenveloped (papillomaviruses, reovirus, rotavirus and poliovirus) viruses, although it has not been approved for this use.
+DrugId:  7
+1. Name:  Sodium fluoride
+2. Groups:  Approved
+3. Description:  Sodium fluoride is an inorganic chemical compound. A colorless solid, it is a source of the fluoride ion in diverse applications. Sodium fluoride is less expensive and less hygroscopic than the related salt potassium fluoride.
+4. Indication:  To prevent cavities. 
+DrugId:  8
+1. Name:  Bimekizumab
+2. Groups:  Investigational
+3. Description:  Bimekizumab has been used in trials studying the treatment of Psoriatic arthritis, Ankylosing Spondylitis, Chronic Plaque Psoriasis, and Mild to Moderate Psoriasis.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  LLL-3348
+2. Groups:  Investigational
+3. Description:  The botanical drug product LLL-3348 is a once-daily oral formulation for treatment of chronic stable plaque type psoriasis.
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders.
+DrugId:  10
+1. Name:  Ammonio methacrylate copolymer type A
+2. Groups:  Investigational
+3. Description:  Ammonio methacrylate copolymer type a has been used in trials studying the treatment of GERD.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Namilumab
+2. Groups:  Investigational
+3. Description:  Namilumab has been used in trials studying the treatment of Plaque Psoriasis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Ixekizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ixekizumab is a humanized immunoglobulin G subclass 4 (IgG4) monoclonal antibody (mAb) against interleukin-17A (IL-17A) and prevents it from interacting with the IL-17A receptor. As IL-17A is a pro-inflammatory cytokine involved in inflammation and immune responses, blocking its effect is beneficial for use in inflammatory conditions. In particular, IL-17A has been found to be implicated in a variety of autoimmune diseases including Rheumatoid Arthritis and plaque psoriasis. Ixekizumab is produced by recombinant DNA technology in a recombinant mammalian cell line and purified using standard technology for bioprocessing. Ixekizumab is comprised of two identical light chain polypeptides of 219 amino acids each and two identical heavy chain polypeptides of 445 amino acids each, and has a molecular weight of 146,158 Daltons for the protein backbone of the molecule. It is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+4. Indication:  Ixekizumab is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. 
+DrugId:  13
+1. Name:  Chlorhexidine
+2. Groups:  Approved, Vet approved
+3. Description:  A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque. [PubChem]
+4. Indication:  For reduction of pocket depth in patients with adult periodontitis, used as an adjunct to scaling and root planing procedures. Also for prevention of dental caries, oropharyngeal decontamination in critically ill patients, hand hygiene in health-care personnel, general skin cleanser, and catheter site preparation and care.
+DrugId:  14
+1. Name:  Guselkumab
+2. Groups:  Approved, Investigational
+3. Description:  Guselkumab is a human immunoglobulin G1 lambda (IgG1λ) monoclonal antibody that selectively blocks interleukin-23. IL-23 is an inflammatory cytokine that activates the CD4+ T-helper (Th17) cell pathway to mediate the inflammatory cascade that induces psoriatic plaque formation [2]. In clinical trials, guselkumab demonstrated improved skin clearance and symptomatic improvements in dermatological manifestations of psoriasis. Developed by Janssen, the subcutenous injection form of guselkumab was approved in July 2017 under the market name Tremfya for the treatment of adult patients with moderate-to-severe plaque psoriasis.
+4. Indication:  Indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+DrugId:  15
+1. Name:  Alefacept
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Immunosuppressive dimeric fusion protein that consists of the extracellular CD2-binding portion of the human leukocyte function antigen-3 (LFA-3) linked to the Fc (hinge, CH2 and CH3 domains) portion of human IgG1. Produced by CHO cells, mW is 91.4 kD.
+4. Indication:  As an immunosuppressive drug, Alefacept can be used for treatment of moderate to severe chronic plaque psoriasis
+DrugId:  16
+1. Name:  Lentinan
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Invert sugar
+2. Groups:  Approved
+3. Description:  Invert sugar is obtained from sugar cane when this is treated with dilute acid or with the invertase enzyme. It is formed by an equal amount of glucose and fructose. It differentiates from sugar cane in the rotation of the polarized light, which in the case of invert sugar it is to the left (levorotatory).[1] Invert sugar is FDA approved since 1988 as a safe substance (GRAS).
+4. Indication:  Invert sugar presents a large variety of uses. It can be used therapeutically for parenteral hyperalimentation[6] or to be used as an excipient with a known effect.[10] Invert sugar is also approved for its use in food products as a humectant, crystallization modifier, and liquid and nutritive sweetener.[7]
+DrugId:  18
+1. Name:  Pegamotecan
+2. Groups:  Investigational
+3. Description:  Pegamotecan has been used in trials studying the treatment of Cancer of Stomach, Sarcoma, Soft Tissue, and Gastroesophageal Cancer.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Efalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized IgG1 kappa isotype monoclonal antibody that binds to human CD11a. Efalizumab has a molecular weight of approximately 150 kilodaltons and is produced in a Chinese hamster ovary mammalian cell expression system in a nutrient medium containing the antibiotic gentamicin.
+4. Indication:  For the treatment of adult patients with moderate to severe chronic plaque psoriasis, who are candidates for phototherapy or systemic therapy.
+DrugId:  20
+1. Name:  Abacavir hydroxyacetate
+2. Groups:  Investigational
+3. Description:  Prurisol is under investigation for the treatment of Chronic Stable Plaque Psoriasis. Prurisol has been investigated for the treatment of Plaque Psoriasis.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  E-6201
+2. Groups:  Investigational
+3. Description:  E6201 has been investigated for the treatment of Chronic Plaque Psoriasis.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Karaya gum
+2. Groups:  Approved
+3. Description:  Karaya gum allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Carob
+2. Groups:  Approved
+3. Description:  Carob allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Insulin peglispro
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Silver
+2. Groups:  Approved, Investigational
+3. Description:  Silver has been used in trials studying the treatment of Dental Caries.
+4. Indication:  Not Available

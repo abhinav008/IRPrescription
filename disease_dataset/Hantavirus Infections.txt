@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ribavirin
+2. Groups:  Approved
+3. Description:  Producing a broad-spectrum activity against several RNA and DNA viruses, Ribavirin is a synthetic guanosine nucleoside and antiviral agent that interferes with the synthesis of viral mRNA. It is primarily indicated for use in treating hepatitis C and viral hemorrhagic fevers. HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [10]. It is reported that ribavirin might be only effective in early stages of viral hemorrhagic fevers including Lasser fever, Crimean-Congo hemorrhagic fever, Venezuelan hemorrhagic fever, and Hantavirus infection. Ribavirin is a prodrug that is metabolized into nucleoside analogs that blocks viral RNA synthesis and viral mRNA capping. Before the development of newer drugs, ribavirin and Peginterferon alfa-2a/Peginterferon alfa-2b dual therapy was considered the first-generation and standard antiviral treatment [5]. The dual therapy was administered for 48 weeks in patients with genotype 1, 4, 5, and 6, and 24 weeks in patients with genotype 2 and 3 [5]. Newer drugs developed as Hepatitis C viral infection treatments can be used to reduce or eliminate the use of ribavirin, which are associated with serious adverse effects. They also improve therapeutic efficacy in patients with failed Peginterferon alfa-2a/Peginterferon alfa-2b and ribavirin-based therapy. The potential use of ribavirin as a treatment for acute myeloid leukemia is currently under investigation.According to 2017 American Association for the Study of Liver Diseases (AASLD) and 2015 consensus guidelines from the Canadian Association for the Study of the Liver (CASL), ribavirin is typically used as an adjunct therapy to various first-line and second-line combination therapies recommended for each genotypes. Ribavirin is added to decrease relapse rates by accelerating viral clearance early in the treatment course [7]. When used to treat Hepatitis C virus (HCV) infections, it is always used as a part of combination therapies as ribavirin monotherapy is not efficacious in the treatment of chronic hepatitis C infection [6]. Additionally, including ribavirin in the regimen can increase the risk of anemia. In HCV genotye 1/2/3/4/5/6 patients, ribavirin can be used in combination therapy involving Daclatasvir and Sofosbuvir, Eplusa (Sofosbuvir, Velpatasvir), Harvoni (Sofosbuvir, Ledipasvir), Simeprevir and Sofosbuvir, Viekira Pak (Ombitasvir, Paritaprevir, Ritonavir, Dasabuvir), Technivie (Ritonavir, Ombitasvir, Paritaprevir) and Zepatier (Elbasvir, Grazoprevir). Addition of weight-based ribavirin to Technivie therapy increased sustained virologic response after 12 weeks of daily therapy (SVR12) from 90% to 97% in patients with HCV genotype 1a and 90.9% to 100% in HCV genotype 4 patients [10]. Zepatier therapy along with ribavirin improved SVR in HCV genotype 5 patients. Combination therapy of ribavirin and Peginterferon alfa-2a results in the SVR of 44% in patients with genotype 1 infection and 70% in patients with genotype 2-6. The inclusion of ribavirin in the combination therapies depend on individual patient's profile, for example if HCV genotype 3 patient has a Y93H genetic variant and compensated cirrhosis.
+4. Indication:  Indicated for the treatment of chronic Hepatitis C virus (HCV) infection in combination with other antiviral agents with the intent to cure or achieve a sustained virologic response (SVR). Typically added to improve SVR and reduce relapse rates [6].The addition of ribavirin in Technivie therapy indicated for treating HCV genotype 1a and 4 infections is recommended in patients with or without cirrhosis. Resistance: viral genetic determinants resulting in variable response to ribavirin therapy has not been yet determined. 
+DrugId:  2
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  3
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  4
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  6
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  7
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  8
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  11
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  13
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Vibriolysin
+2. Groups:  Investigational
+3. Description:  Vibriolysin is a proteolytic enzyme secreted by the marine microorganism Vibrio proteolyticus. It is a new agent for enzymatic debridement, shown to rapidly and thoroughly hydrolyze burn wound eschar within full-thickness wounds.
+4. Indication:  Investigated for use/treatment in burns and burn infections.
+DrugId:  15
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  17
+1. Name:  PAC-113
+2. Groups:  Investigational
+3. Description:  PAC-113 an anti-fungal, for the treatment of oral candidiasis infections. It is a 12 amino-acid antimicrobial peptide derived from a naturally occurring histatin protein found in saliva. In vitro studies demonstrate that it has potent anti-fungal activity against the Candida albicans, including drug-resistant HIV patient isolates. PAC-113 is targeting oral Candida infections in immunocompromised patients and patients with salivary dysfunction.
+4. Indication:  Investigated for use/treatment in candidiasis, fungal infections, and saliva and salivary gland dysfunction.
+DrugId:  18
+1. Name:  Gepotidacin
+2. Groups:  Investigational
+3. Description:  Gepotidacin has been used in trials studying the treatment of Gonorrhea, Infections, Bacterial, and Infections, Respiratory Tract.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  20
+1. Name:  KB001
+2. Groups:  Investigational
+3. Description:  KB001 is a Humaneered™ PEGylated monoclonal antibody fragment for the treatment of life-threatening Pseudomonas aeruginosa infections, a common problem of cystic fibrosis and mechanically ventilated patients.
+4. Indication:  For the treatment of infections caused by multi-drug resistant Pseudomonas aeruginosa.
+DrugId:  21
+1. Name:  Diethylhomospermine
+2. Groups:  Investigational
+3. Description:  Diethylhomospermine has been used in trials studying the treatment of Diarrhea and HIV Infections.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  PA mAb
+2. Groups:  Investigational
+3. Description:  PA mAb(ABthrax) is a human monoclonal antibody to Bacillus anthracis protective antigen that was discovered and developed by Human Genome Sciences. PA mAb has been shown to be effective in protecting against anthrax in multiple experimental models in animals. A single dose of PA mAb increases survival significantly in both rabbit and nonhuman primate models of inhalational anthrax. 
+4. Indication:  Investigated for use/treatment in anthrax exposure and bacterial infection.
+DrugId:  23
+1. Name:  Latamoxef
+2. Groups:  Approved, Investigational
+3. Description:  Broad- spectrum beta-lactam antibiotic similar in structure to the cephalosporins except for the substitution of an oxaazabicyclo moiety for the thiaazabicyclo moiety of certain cephalosporins. It has been proposed especially for the meningitides because it passes the blood-brain barrier and for anaerobic infections. [PubChem]
+4. Indication:  Latamoxef is an oxacephem antibiotic usually grouped with the cephalosporins. It is used to treat bacterial infections. Latamoxef is primarily indicated in conditions like Bone and joint infection, GI infections, Gynecological infections, Meningitis, Respiratory tract infections, Septicaemia, Skin infections, Soft tissue infections, UTI. 
+DrugId:  24
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  25
+1. Name:  Cefonicid
+2. Groups:  Approved, Investigational
+3. Description:  A second-generation cephalosporin administered intravenously or intramuscularly. Its bactericidal action results from inhibition of cell wall synthesis. It is used for urinary tract infections, lower respiratory tract infections, and soft tissue and bone infections. [PubChem]
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms.

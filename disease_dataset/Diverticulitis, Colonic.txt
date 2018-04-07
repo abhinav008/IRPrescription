@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Maltodextrin
+2. Groups:  Investigational
+3. Description:  Maltodextrin is under investigation for the treatment and prevention of Autism, Pouchitis, Inflammation, Colonic Cancer, and Atopic Dermatitis, among others. Maltodextrin has been investigated for the prevention and treatment of Fatigue, Thalassemia, Constipation, Type I Diabetes, and Sickle Cell Anemia, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  TU-100
+2. Groups:  Investigational
+3. Description:  TU-100 has been used in trials studying the treatment of Abdominal Pain, Colonic Transit, Crohn's Disease, Rectal Sensation, and Gastric Emptying, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Picosulfuric acid
+2. Groups:  Approved
+3. Description:  Picosulfuric acid (as sodium picosulfate) is a contact laxative used as a treatment for constipation or to prepare the large bowel before colonoscopy or surgery.
+4. Indication:  For cleansing of the colon as a preparation for colonoscopy in adults.
+DrugId:  4
+1. Name:  Bisacodyl
+2. Groups:  Approved
+3. Description:  Bisacodyl is an organic compound that is used as a stimulant laxative drug. It works directly on the colon to produce a bowel movement. It is typically prescribed for relief of constipation and for the management of neurogenic bowel dysfunction as well as part of bowel preparation before medical examinations, such as for a colonoscopy.
+4. Indication:  Indicated for cleansing of the colon as a preparation for colonoscopy in adults. 
+DrugId:  5
+1. Name:  Clidinium
+2. Groups:  Approved
+3. Description:  Clidinium is a synthetic anticholinergic agent which has been shown in experimental and clinical studies to have a pronounced antispasmodic and antisecretory effect on the gastrointestinal tract. It inhibits muscarinic actions of acetylcholine at postganglionic parasympathetic neuroeffector sites. It is used for the treatment of peptic ulcer disease and also to help relieve abdominal or stomach spasms or cramps due to colicky abdominal pain, diverticulitis, and irritable bowel syndrome.
+4. Indication:  For the treatment of peptic ulcer disease and also to help relieve abdominal or stomach spasms or cramps due to colicky abdominal pain, diverticulitis, and irritable bowel syndrome.
+DrugId:  6
+1. Name:  AV608
+2. Groups:  Investigational
+3. Description:  AV608 is a NK-1 antagonist. It is developed for the treatment of Social anxiety disorder (SAD), irritable bowel syndrome (IBS) and overactive bladder (OAB).
+4. Indication:  Investigated for use/treatment in anxiety disorders, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  7
+1. Name:  Dicyclomine
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used as an antispasmodic and in urinary incontinence. It has little effect on glandular secretion or the cardiovascular system. It does have some local anesthetic properties and is used in gastrointestinal, biliary, and urinary tract spasms. [PubChem]
+4. Indication:  For the treatment of functional bowel/irritable bowel syndromeincluding Colicky abdominal pain; diverticulitis
+DrugId:  8
+1. Name:  Prucalopride
+2. Groups:  Approved
+3. Description:  Prucalopride (brand name Resolor, developed by Johnson & Johnson and licensed to Movetis) is a drug acting as a selective, high affinity 5-HT4 receptor agonist which targets the impaired motility associated with chronic constipation, thus normalising bowel movements. Prucalopride was approved for use in Europe in 2009 and in Canada (named Resotran) on December 7, 2011 but it has not been approved by the Food and Drug Administration for use in the United States. The drug has also been tested for the treatment of chronic intestinal pseudo-obstruction.
+4. Indication:  Investigated for use/treatment in constipation, ileus, and pediatric indications.
+DrugId:  9
+1. Name:  ATL-2502
+2. Groups:  Investigational
+3. Description:  ATL-2502(Colal-Pred) is an old drug (prednisolone metasulphobenzoate, a steroid) with a new delivery system that releases the medication only in the colon. Releasing the drug directly into the colon reduces the potential for significant side effects often experienced with steroid drugs. Colal-Pred is being studied for use in ulcerative colitis.
+4. Indication:  Investigated for use/treatment in inflammatory bowel disease and ulcerative colitis.
+DrugId:  10
+1. Name:  Eluxadoline
+2. Groups:  Approved, Investigational
+3. Description:  Eluxadoline is a mixed mu-opioid receptor agonist, kappa-opioid receptor agonist, and a-delta opioid receptor antagonist indicated for use in diarrhea-predominant irritable bowel syndrome (IBS-D). The mu-, kappa-, and delta-opioid receptors mediate endogenous and exogenous opioid response in the central nervous system and peripherally in the gastrointestinal system. Agonism of peripheral mu-opioid receptors results in reduced colonic motility, while antagonism of central delta-opioid receptors results in improved analgesia, making eluxadoline usable for the symptoms of both pain and diarrhea characteristic of IBS-D. Marketed under the tradename Viberzi (FDA), eluxadoline is an antimotility agent that decreases bowel contractions, inhibits colonic transit, and reduces ﬂuid/ion secretion resulting in improved symptoms of abdominal pain and reductions in the Bristol Stool Scale. 
+4. Indication:  For the treatment of irritable bowel syndrome with diarrhea (IBS-D).
+DrugId:  11
+1. Name:  Refametinib
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  12
+1. Name:  Lactulose
+2. Groups:  Approved
+3. Description:  A synthetic disaccharide used in the treatment of constipation and hepatic encephalopathy. It has also been used in the diagnosis of gastrointestinal disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p887)
+4. Indication:  For the treatment of constipation and hepatic encephalopathy.
+DrugId:  13
+1. Name:  Alosetron
+2. Groups:  Approved, Withdrawn
+3. Description:  Alosetron is a 5-HT3 antagonist used only for the management of severe diarrhoea-predominant irritable bowel syndrome (IBS) in women. Alosetron has an antagonist action on the 5-HT3 receptors and thus may modulate serotonin-sensitive gastrointestinal (GI) processes. Alosetron was voluntarily withdrawn from the US market in November 2000 by the manufacturer due to numerous reports of severe adverse effects including ischemic colitis, severely obstructed or ruptured bowel, and death. In June 2002, the FDA approved a supplemental new drug application allowing the remarketing of the drug under restricted conditions of use.
+4. Indication:  Only for the treatment of symptoms of severe diarrhea-predominant irritable bowel syndrome (IBS) in women with chronic symptoms (generally lasting greater than 6 months) who does not present with anatomic or biochemical GI abnormalities and have not responded to conventional therapy.
+DrugId:  14
+1. Name:  Trimebutine
+2. Groups:  Approved
+3. Description:  Trimebutine is a spasmolytic agent that regulates intestinal and colonic motility and relieves abdominal pain with antimuscarinic and weak mu opioid agonist effects. It is marketed for the treatment of irritable bowel syndrome (IBS) and lower gastrointestinal tract motility disorders, with IBS being one of the most common multifactorial GI disorders [2]. It is used to restore normal bowel function and is commonly present in pharmaceutical mixtures as trimebutine maleate salt form. Trimebutine is not a FDA-approved drug, but it is available in Canada and several other international countries.
+4. Indication:  Indicated for symptomatic treatment of irritable bowel syndrome (IBS) and treatment of postoperative paralytic ileus following abdominal surgery. 
+DrugId:  15
+1. Name:  Magnesium oxide
+2. Groups:  Approved
+3. Description:  Magnesium oxide is an inorganic compound that occurs in nature as the mineral periclase. In aqueous media combines quickly with water to form magnesium hydroxide. It is used as an antacid and mild laxative and has many nonmedicinal uses. [PubChem]
+4. Indication:  Magnesium hydroxide is used as a laxative to relieve occasional constipation (irregularity) and as an antacid to relieve indigestion, sour stomach, and heartburn.
+DrugId:  16
+1. Name:  Cilansetron
+2. Groups:  Investigational
+3. Description:  Cilansetron is a drug that is a 5HT-3 antagonist currently under trial phase in the EU and US. It is manufactured by Solvay Pharmaceuticals INC. [Wikipedia]
+4. Indication:  For the treatment of symptoms associated with irritable bowel syndrome.
+DrugId:  17
+1. Name:  Technetium Tc-99m exametazime
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m exametazime is a radiopharmaceutical sold under the trade name Ceretec, and is used by nuclear medicine physicians for the detection of altered regional cerebral perfusion in stroke and other cerebrovascular diseases. It can also be used for the labelling of leukocytes to localise intra-abdominal infections and inflammatory bowel disease. Exametazime, also known as hexamethylpropyleneamine oxime or HMPAO, acts as a chelating agent for the Tc-99m radioisotope.
+4. Indication:  Technetium Tc99m exametazime scintigraphy (with or without methylene blue stabilization) may be useful as an adjunct in the detection of altered regional cerebral perfusion in stroke. Tc99m exametazime without methylene blue stabilization is indicated for leukocyte labeled scintigraphy as an adjunct in the localization of intra-abdominal infection and inflammatory bowel disease.
+DrugId:  18
+1. Name:  Panitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Panitumumab (ABX-EGF) is a recombinant human IgG2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (EGFR). This drug is an antineoplastic agent.
+4. Indication:  For the treatment of EGFR-expressing, metastatic colorectal carcinoma that is refractory to fluoropyrimidine-, oxaliplatin-, and irinotecan- containing chemotherapy regimens.
+DrugId:  19
+1. Name:  Beclomethasone dipropionate
+2. Groups:  Approved, Investigational
+3. Description:  Beclomethasone dipropionate is a prodrug of the free form, beclomethasone (beclomethasone-17-monopropionate). An anti-inflammatory, synthetic corticosteroid, it is used topically as an anti-inflammatory agent and in aerosol form for the treatment of asthma and allergic rhinitis (seasonal and perennial). Beclometasone dipropionate is also being investigated for oral treatment in mild-to-moderate Crohn's disease of ileal or ileal-right colonic localisation and for "topical" use mild-to-moderate graft versus host disease. It is marketed under several brand names such as Qnasl (US) and Rivanase AQ (Canada).
+4. Indication:  Used in the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older, and in treating symptoms for allergic rhinitis (seasonal or perennial) in patients 12 years of age and older. Also being investigated for oral treatment in mild-to-moderate Crohn's disease of ileal or ileal-right colonic localisation and for "topical" use mild-to-moderate graft versus host disease.
+DrugId:  20
+1. Name:  Scopolamine
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid from Solanaceae, especially Datura metel L. and Scopola carniolica. Scopolamine and its quaternary derivatives act as antimuscarinics like atropine, but may have more central nervous system effects. Among the many uses are as an anesthetic premedication, in urinary incontinence, in motion sickness, as an antispasmodic, and as a mydriatic and cycloplegic. [PubChem]
+4. Indication:  For the treatment of excessive salivation, colicky abdominal pain, bradycardia, sialorrhoea, diverticulitis, irritable bowel syndrome and motion sickness.
+DrugId:  21
+1. Name:  Hyoscyamine
+2. Groups:  Approved
+3. Description:  Hyoscyamine is a chemical compound, a tropane alkaloid it is the levo-isomer to atropine. It is a secondary metabolite of some plants, particularly henbane (Hyoscamus niger.)Hyoscyamine is used to provide symptomatic relief to various gastrointestinal disorders including spasms, peptic ulcers, irritable bowel syndrome, pancreatitis, colic and cystitis. It has also been used to relieve some heart problems, control some of the symptoms of Parkinson's disease, as well as for control of respiratory secretions in end of life care.
+4. Indication:  For treatment of bladder spasms, peptic ulcer disease, diverticulitis, colic, irritable bowel syndrome, cystitis, and pancreatitis. Also used to treat certain heart conditions, to control the symptoms of Parkinson's disease and rhinitis.
+DrugId:  22
+1. Name:  Lubiprostone
+2. Groups:  Approved, Investigational
+3. Description:  Lubiprostone is a medication used in the management of idiopathic chronic constipation. It is a bicyclic fatty acid (prostaglandin E1 derivative) which acts by specifically activating ClC-2 chloride channels on the apical aspect of gastrointestinal epithelial cells, producing a chloride-rich fluid secretion. These secretions soften the stool, increase motility, and promote spontaneous bowel movements (SBM).
+4. Indication:  For the treatment of chronic idiopathic constipation in the adult population. Also used for the treatment of irritable bowel syndrome with constipation in women who are 18 years of age or older.
+DrugId:  23
+1. Name:  Inulin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A starch found in the tubers and roots of many plants. Since it is hydrolyzable to fructose, it is classified as a fructosan. It has been used in physiologic investigation for determination of the rate of glomerular function. [PubChem]
+4. Indication:  Historically used in an important medical test of renal function, specifically a measure of glomerular filtration rate. Sometimes used to help relieve symptoms of diabetes mellitus - a condition characterised by hyperglycemia and/or hyperinsulinemia.
+DrugId:  24
+1. Name:  Sulfasalazine
+2. Groups:  Approved
+3. Description:  A drug that is used in the management of inflammatory bowel diseases. Its activity is generally considered to lie in its metabolic breakdown product, 5-aminosalicylic acid (see mesalamine) released in the colon. (From Martindale, The Extra Pharmacopoeia, 30th ed, p907)
+4. Indication:  For the treatment of Crohn's disease and rheumatoid arthritis as a second-line agent.
+DrugId:  25
+1. Name:  Olsalazine
+2. Groups:  Approved
+3. Description:  Olsalazine is an anti-inflammatory drug used in the treatment of Inflammatory Bowel Disease and Ulcerative Colitis. Olsalazine is a derivative of salicylic acid. Inactive by itself (it is a prodrug), it is converted by the bacteria in the colon to mesalamine. Mesalamine works as an anti-inflammatory agent in treating inflammatory diseases of the intestines.
+4. Indication:  For the treatment of Inflammatory Bowel Disease and Ulcerative Colitis.

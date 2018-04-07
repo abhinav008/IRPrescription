@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clobetasol propionate
+2. Groups:  Approved
+3. Description:  A derivative of prednisolone with high glucocorticoid activity and low mineralocorticoid activity. Absorbed through the skin faster than fluocinonide, it is used topically in treatment of psoriasis but may cause marked adrenocortical suppression.
+4. Indication:  For short-term topical treatment of the inflammatory and pruritic manifestations of moderate to severe corticosteroid-responsive dermatoses of the scalp.
+DrugId:  2
+1. Name:  Clocortolone
+2. Groups:  Approved
+3. Description:  Clocortolone is a medium potency corticosteroid that is often used as a topical cream for the relief of inflammatory oand pruritic (itching) arising from steroid-responsive dermatoses of the scalp.
+4. Indication:  For short-term topical treatment of the inflammatory and pruritic manifestations of moderate to severe corticosteroid-responsive dermatoses of the scalp.
+DrugId:  3
+1. Name:  Betamethasone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)
+4. Indication:  Topical use (cream, lotion and ointment): for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.Topical use (foam): relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses of the scalp.Systemic use: for the treatment of edocrine disorders, rheumatic disorders, collagen diseases, dermatological diseases, allergic states, ophthalmic diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, gastrointestinal diseases, tuberculous meningitis and trichinosis.
+DrugId:  4
+1. Name:  Pyrithione zinc
+2. Groups:  Approved
+3. Description:  Pyrithione zinc, or zinc pyrithione or zinc pyridinethione, is a coordination complex consisted of pyrithione ligands chelated to zinc (2+) ions via oxygen and sulfur centers. In the crystalline state, it exists as a centrosymmetric dimer. Due to its dynamic fungistatic and bacteriostatic properties, pyrithione zinc is used to treat dandruff and seborrheic dermatitis. Dandruff is a common scalp disease affecting >40% of the world's adult population, and may be caused by fungi such as Malassezia globosa and M. restricta [3].Pyrithione zinc is commonly found as an active ingredient in OTC antidandruff topical treatments such as shampoos. It mediates its action by increasing the cellular levels of copper, and damaging iron-sulfur clusters of proteins essential for fungal metabolism and growth [1]. Due to low solubility, pyrithione zinc released from the topical formulations is deposited and retained relatively well onto the target skin surfaces [2]. Other uses of pyrithione zinc include additive in antifouling outdoor paints and algaecide. While its use has been approved in the early 1960's by the FDA [4], safety and effectiveness of pyrithione zinc has been reported for decades. It is not shown to have any significant estrogenic activity according to the in vivo and in vitro assays [4].
+4. Indication:  Indicated for the treatment of dandruff and seborrheic dermatitis [2]. 
+DrugId:  5
+1. Name:  Hydrocortisone
+2. Groups:  Approved, Vet approved
+3. Description:  The main glucocorticoid secreted by the adrenal cortex. Its synthetic counterpart is used, either as an injection or topically, in the treatment of inflammation, allergy, collagen diseases, asthma, adrenocortical deficiency, shock, and some neoplastic conditions. [PubChem]
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many immune and allergic disorders, such as arthritis, lupus, severe psoriasis, severe asthma, ulcerative colitis, and Crohn's disease.
+DrugId:  6
+1. Name:  Chloroxine
+2. Groups:  Approved
+3. Description:  Chloroxine is a synthetic antibacterial compound. Chloroxine is a compound used in some shampoos for the treatment of dandruff and seborrheic dermatitis of the scalp.
+4. Indication:  Used in the treatment of dandruff and mild to moderately severe seborrheic dermatitis of the scalp.
+DrugId:  7
+1. Name:  Dexpanthenol
+2. Groups:  Approved
+3. Description:  Dexpanthenol is an alcohol derivative of pantothenic acid, a component of the B complex vitamins and an essential component of a normally functioning epithelium. Dexpanthenol is enzymatically cleaved to form pantothenic acid, which is an essential component of Coenzyme A, which acts as a cofactor in many enzymatic reactions that are important for protein metabolism in the epithelium[2]. Due to its good penetration and high local concentrations, dexpanthanol is used in many topical products, such as ointments and lotions for treatment of dermatological conditions to relieve itching or promote healing. Dermatological effects of the topical use of dexpanthenol include increased fibroblast proliferation and accelerated re-epithelialization in wound healing. Furthermore, it acts as a topical protectant, moisturizer, and has demonstrated anti-inflammatory properties [3].Dexpanthenol is also available as a racemic mixture containing both the dextrorotatory form (dexpanthenol) and the levorotatory form (levopanthenol) as Panthenol. While pantothenic acid is optically active, only the dextrorotatory form (dexpanthenol) is biologically active.
+4. Indication:  Injection: Prophylactic use immediately after major abdominal surgery to minimize the possibility of paralytic ileus. Intestinal atony causing abdominal distention; postoperative or postpartum retention of flatus, or postoperative delay in resumption of intestinal motility; paralytic ileus.Topical: This medication is used as a moisturizer to treat or prevent dry, rough, scaly, itchy skin and minor skin irritations (e.g., diaper rash, skin burns from radiation therapy). 
+DrugId:  8
+1. Name:  Desoximetasone
+2. Groups:  Approved
+3. Description:  A topical anti-inflammatory glucocorticoid used in dermatoses, skin allergies, psoriasis, etc. [PubChem]
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+DrugId:  9
+1. Name:  LTX-109
+2. Groups:  Investigational
+3. Description:  LTX-109 has been investigated for the treatment of Atopic Dermatitis, Mild Eczema/Dermatoses, and Gram-positive, Skin Infections.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Hydrocortamate
+2. Groups:  Approved
+3. Description:  Hydrocortamate is a synthetic glucocorticoid used for its anti-inflammatory or immunosuppressive properties to treat inflammation due to corticosteroid-responsive dermatoses. Glucocorticoids are a class of steroid hormones characterised by an ability to bind with the cortisol receptor and trigger a variety of important cardiovascular, metabolic, immunologic and homeostatic effects.
+4. Indication:  Used topically as an antiinflammatory in the treatment of steroid-responsive dermatoses
+DrugId:  11
+1. Name:  Halcinonide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Halcinonide is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses, and is distributed as a cream and ointment. Halcinonide is marketed under the brand name Halog® by Ranbaxy Laboratories Inc. Research suggests that clobetasol propionate demonstrates superior pharmacologic efficacy in the treatment of psoriasis when compared to halcinonide. 
+4. Indication:  Indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. 
+DrugId:  12
+1. Name:  MDX-018
+2. Groups:  Investigational
+3. Description:  MDX-018, also known as HuMax-Inflam, is a fully human antibody that is directed to IL-8 (interleukin-8) and may have potential application in oncology and inflammation. Trials will initially focus on studies to treat glioblastoma, a cancer of the central nervous system. Other possible indications include chronic obstructive pulmonary disease (COPD) and pustular dermatoses. In pre-clinical studies, HuMax-Inflam has been shown to inhibit tumor growth in tumor models using primary human tumors in immunodeficient mice. HuMax-Inflam was also effective in reducing disease activity in palmoplantar pustulosis patients in a clinical study.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  13
+1. Name:  Imiquimod
+2. Groups:  Approved, Investigational
+3. Description:  Imiquimod is an immune response modifier that acts as a toll-like receptor 7 agonist. Imiquimod is commonly used topically to treat warts on the skin of the genital and anal areas. Imiquimod does not cure warts, and new warts may appear during treatment. Imiquimod does not fight the viruses that cause warts directly, however, it does help to relieve and control wart production. Miquimod is also used to treat a skin condition of the face and scalp called actinic keratoses and certain types of skin cancer called superficial basal cell carcinoma.
+4. Indication:  For the topical treatment of clinically typical, nonhyperkeratotic, nonhypertrophic actinic keratoses on the face or scalp in immunocompetent adults. Also indicated for the treatment of external genital and perianal warts/condyloma acuminata in individuals 12 years old and above.
+DrugId:  14
+1. Name:  Bufexamac
+2. Groups:  Approved, Experimental
+3. Description:  Bufexamac is a non-steroidal anti-inflammatory drug (NSAID) under the market name Paraderm and Parfenac. It is typically administered topically to treat skin irritations and conditions such as eczema and other inflammatory dermatoses. Its main mechanism of action is thought to be through inhibition of cyooxygenase enzyme.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Diflorasone
+2. Groups:  Approved
+3. Description:  Diflorasone is a topical corticosteroid used to treat itching and inflammation of the skin.
+4. Indication:  For relief of the inflammatory and pruritic manifestations of corticosteroid responsive dermatoses.
+DrugId:  16
+1. Name:  Ulobetasol
+2. Groups:  Approved
+3. Description:  Ulobetasol (as ulobetasol propionate) is thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins. It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor arachidonic acid. Arachidonic acid is released from membrane phospholipids by phospholipase A2. It is used for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+DrugId:  17
+1. Name:  Coal tar
+2. Groups:  Approved
+3. Description:  Coal tar is a brown or black liquid of extremely high viscosity. Coal tar is among the by-products when coal is carbonized to make coke or gasified to make coal gas. Coal tars are complex and variable mixtures of phenols, polycyclic aromatic hydrocarbons (PAHs), and heterocyclic compounds.It has been indicated for local relief of itching, dryness, and irritation caused by psoriasis, seborrhea and eczema.
+4. Indication:  Relieving itching, irritation, redness, dryness, scaling, and flaking of the skin caused by psoriasis, seborrhea, or eczema. 
+DrugId:  18
+1. Name:  Allantoin
+2. Groups:  Approved
+3. Description:  Allantoin is a substance that is endogenous to the human body and also found as a normal component of human diets [FDA Label]. In healthy human volunteers, the mean plasma concentration of allantoin is about 2-3 mg/l. During exercise, the plasma allantoin concentration rapidly increases about two fold and remains elevated [FDA Label]. In human muscle, urate is oxidized to allantoin during such exercise [FDA Label]. The concentration of allantoin in muscles increases from a resting value of about 5000 ug/kg to about 16000 ug/kg immediately after short-term exhaustive cycling exercise [FDA Label]. More specifically, allantoin is a diureide of glyoxylic acid that is produced from uric acid. It is a major metabolic intermediate in most organisms. Allantoin is found in OTC cosmetic products and other commercial products such as oral hygiene products, in shampoos, lipsticks, anti-acne products, sun care products, and clarifying lotions [4]. Allantoin has also demonstrated to ameliorate the wound healing process in some studies [1].
+4. Indication:  Allantoin is commonly applied in a variety of topical vehicles or applications such as cosmetic creams, toothpastes, mouthwashes, shampoos, lipsticks, anti-acne products, and lotions [4] for the purpose of moisturizing skin, enhancing the smoothness of skin, stimulating the healing of wounds, and soothing irritated skin [4].
+DrugId:  19
+1. Name:  Methdilazine
+2. Groups:  Approved
+3. Description:  Methdilazine is a phenothiazine compound with antihistaminic activity. It is used in the treatment of various dermatoses to relieve pruritus.
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions and particularly for the control of pruritic skin disorders
+DrugId:  20
+1. Name:  Calcipotriol
+2. Groups:  Approved
+3. Description:  Calcipotriol (INN) or calcipotriene (USAN) is a sythetic derivative of calcitriol or Vitamin D.
+4. Indication:  For the treatment of moderate plaque psoriasis in adults.
+DrugId:  21
+1. Name:  Bevirimat
+2. Groups:  Investigational
+3. Description:  Bevirimat, also known as PA-457 or YK-FH312, is investigated in clinical trials for treating HIV infection. Bevirimat is a solid. This compound belongs to the androgens and derivatives, which are hydroxylated C19 steroid hormones. They are known to favour the development of masculine characteristics. They also show profound effects on scalp and body hair in humans. Bevirimat targets the protein gag-pol polyprotein. Bevirimat is derived from a betulinic acid-like compound, first isolated from Syzygium claviflorum, a Chinese herb. It is not currently FDA-approved, but is undergoing clinical trials conducted by the pharmaceutical company Panacos.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  22
+1. Name:  Selenium Sulfide
+2. Groups:  Approved
+3. Description:  Selenium Sulfide is an antifungal agent as well as a cytostatic agent, slowing the growth of hyperproliferative cells in seborrhea. Selenium Sulfide is the active ingredient often used in shampoos for the treatment of dandruff, seborrheic dermatitis and tinea capitis, a fungal infection that is primarily a disease of preadolescent children.
+4. Indication:  For treatment of tinea versicolor, tinea capitis, dandruff and seborrheic dermatitis of the scalp.
+DrugId:  23
+1. Name:  Finasteride
+2. Groups:  Approved
+3. Description:  An orally active testosterone 5-alpha-reductase inhibitor. It is used as a surgical alternative for treatment of benign prostatic hyperplasia. [PubChem]
+4. Indication:  For the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate to: Improve symptoms, reduce the risk of acute urinary retention, reduce the risk of the need for surgery including transurethral resection of the prostate. Also used for the stimulation of regrowth of hair in men with mild to moderate androgenetic alopecia (male pattern alopecia, hereditary alopecia, common male baldness).
+DrugId:  24
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  25
+1. Name:  Prednicarbate
+2. Groups:  Approved, Investigational
+3. Description:  Prednicarbate is a relatively new topical corticosteroid drug. It is similar in potency to hydrocortisone. It is used in the treatment of inflammatory skin diseases, such as atopic dermatitis. It has a favorable benefit-risk ratio, with an inflammatory action similar to that of a medium potency corticosteroid, but with a low potential to cause skin atrophy. The anti-inflammation action of corticosteroids is associated with the inhibition of the interleukin 1-alpha cytokine within keratinocytes. IL-1a is also found in fibroblasts, where it is responsible for proliferation, collagenase induction and IL-6 synthesis, which are related to skin thickness.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.

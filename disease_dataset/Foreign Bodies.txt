@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  ATG-Fresenius S
+2. Groups:  Investigational
+3. Description:  ATG-Fresenius S is a concentrated anti-human T-lymphocyte immunoglobulin preparation derived from rabbits after immunization with a T-lympoblast cell line. ATG-Fresenius S is an immunosuppressive product for the prevention and treatment of acute rejection following organ transplantation.
+4. Indication:  Investigated for use/treatment in immunosuppressive and transplant (rejection).
+DrugId:  2
+1. Name:  MUC1 Dendritic Cell Vaccine
+2. Groups:  Investigational
+3. Description:  Dendritic Cell (DC) Therapy is a newly emerging and potent form of immune therapy that amplifies the actions of the body's own immune system to help fight cancer, AIDS and other serious conditions. The Dendritic Cell is an immune cell whose role is the recognition, processing and presentation of foreign antigens to the T-cells to initiate a primary response in the effector arm of the immune system. Dendritic cells not only activate lymphocytes to induce the immune response, but they also minimize autoimmune reactions by downplaying self-antigens to stimulated T-cells. Dendritic Cell Therapy involves the harvesting of blood cells (ie monocytes or macrophages) from a patient and processing them in the laboratory to produce a greater than typical Dendritic Cell concentration. These cells are then given back to a patient as a vaccine in order to allow for a potent immune response to cancer.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and ovarian cancer.
+DrugId:  3
+1. Name:  Almitrine
+2. Groups:  Approved
+3. Description:  A respiratory stimulant that enhances respiration by acting as an agonist of peripheral chemoreceptors located on the carotid bodies. The drug increases arterial oxygen tension while decreasing arterial carbon dioxide tension in patients with chronic obstructive pulmonary disease. It may also prove useful in the treatment of nocturnal oxygen desaturation without impairing the quality of sleep. [PubChem]
+4. Indication:  For the treatment of chronic obstructive pulmonary disease.
+DrugId:  4
+1. Name:  Acetoacetic Acid
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  WF10
+2. Groups:  Approved, Investigational
+3. Description:  WF10 is a chlorite-based, immunomodulating drug is developed by Nuvo Research Inc. Certain preclinical evidence and clinical pilot data suggest that WF10 may be effective in treating certain cancers. The Corporation believes the research to-date demonstrates that WF10 acts on macrophages (a type of white blood cell) by modulating the balance between inflammation and phagocytosis, a state in which the body digests foreign, potentially harmful substances. The Corporation has commenced a Phase II clinical trial in an effort to demonstrate the efficacy of WF10 in combination with Xeloda (capecitabine) in the treatment of pancreatic cancer. The trial is being conducted in Germany at the University of Heidelberg and the National Centre for Tumor Diseases.
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, cancer/tumors (unspecified), HIV infection, and inflammatory disorders (unspecified).
+DrugId:  6
+1. Name:  Pegloticase
+2. Groups:  Approved, Investigational
+3. Description:  Pegloticase is a recombinant procine-like uricase drug indicated for the treatment of severe, treatment-refractory, chronic gout. Similarly to rasburicase, pegloticase metabolises the conversion of uric acid to allantoin. This reduces the risk of precipitate formation and development of gout, since allantoin is five to ten times more soluble than uric acid. In contrast to rasburicase, pegloticase is pegylated to increase its elimination half-life from about eight hours to ten or twelve days, and to decrease the immunogenicity of the foreign uricase protein. This modification allows for an application just once every two to four weeks, making this drug suitable for long-term treatment.
+4. Indication:  For the treatment of chronic gout in adult patients refractory to conventional therapy.
+DrugId:  7
+1. Name:  Basiliximab
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant chimeric (murine/human) monoclonal antibody (IgG1k) that functions as an immunosuppressive agent, specifically binding to and blocking the interleukin-2 receptor a-chain (IL-2R alpha, also known as CD25 antigen) on the surface of activated T-lymphocytes. It is a 144 kDa glycoprotein obtained from fermentation of an established mouse myeloma cell line genetically engineered to express plasmids containing the human heavy and light chain constant region genes and mouse heavy and light chain variable region genes encoding the RFT5 antibody that binds selectively to the IL-2R alpha.
+4. Indication:  For prophylactic treatment of kidney transplant rejection
+DrugId:  8
+1. Name:  Nelotanserin
+2. Groups:  Investigational
+3. Description:  Nelotanserin has been used in trials studying the treatment of Lewy Body Dementia, Visual Hallucinations, Dementia With Lewy Bodies, and REM Sleep Behavior Disorder. It is a highly selective antagonist at the 5-HT2A serotonin receptor. It increases non-REM sleep, the most restorative phase of the sleep cycle, without sacrificing REM or dream sleep. Nelotanserin works through a mechanism of action that is different from currently marketed drugs.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Pexelizumab
+2. Groups:  Investigational
+3. Description:  Pexelizumab is a humanized monoclonal antibody used as an immunosuppressive drug. It is being investigated by Alexion Pharmaceuticals.
+4. Indication:  For the treatment of inflammation during cardiac surgery.
+DrugId:  10
+1. Name:  Colloidal oatmeal
+2. Groups:  Approved, Nutraceutical
+3. Description:  Colloidal oatmeal is produced by grinding fine granules of oatmeal and boiling it to extract the colloidal material. It contains high concentrations of starches and beta-glucan that exhibits water-absorbing properties. Phenols are also contained in colloidal oatmeal, which possess antioxidant and anti-inflammatory activities, as well as UV-absorbing activity. Colloidal oatmeal is a FDA-approved skin protectant that temporarily protects and helps relieve minor skin irritation and itching due to rashes, eczema, poison ivy, oak, sumac, or insect bites. It is available in topical products as a skin soothing agent.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  12
+1. Name:  Oxybuprocaine
+2. Groups:  Approved, Investigational
+3. Description:  Oxybuprocaine is the name of a local anesthetic, which is used especially in ophthalmology and otolaryngology. Oxybuprocaine binds to sodium channels and reversibly stabilizes the neuronal membrane which decreases its permeability to sodium ions.
+4. Indication:  Used to temporarily numb the front surface of the eye so that the eye pressure can be measured or a foreign body removed.
+DrugId:  13
+1. Name:  Hydroxystilbamidine Isethionate
+2. Groups:  Approved
+3. Description:  Hydroxystilbamidine Isethionate is used in the therapy of some patients with nonprogressive blastomycosis of the skin, and pulmonary or systemic blastomycosis in children, with fewer side effects than amphotericin B. Hydroxystilbamidine Isethionate is also used in pathology for diagnostic purposes.
+4. Indication:  Used in the treatment of nonprogressive blastomycosis of the skin and other mycoses.
+DrugId:  14
+1. Name:  Stiripentol
+2. Groups:  Approved
+3. Description:  Stiripentol is an anticonvulsant drug used in the treatment of epilepsy as an adjunct therapy along with Clobazam and Valproic Acid. Unrelated to other anticonvulsants, stitipentol belongs to the group of aromatic allylic alcohols and may potentiate the effect of other antiepileptic drugs (AEDs) due to pharmacokinetic interactions. It elevates the levels of gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter that regulates electrical activity in the central nervous system. Use of stiripentol is approved for infants with Dravet syndrome, or Severe Myoclonic Epilepsy in Infancy (SMEI) that commonly occurs at the first year of life. Stiripentol is not FDA-approved but approved in Canada and European countries as oral tablets marketed as Diacomit.
+4. Indication:  Indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet’s syndrome) whose seizures are not adequately controlled with clobazam and valproate.
+DrugId:  15
+1. Name:  Framycetin
+2. Groups:  Approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed)
+4. Indication:  For the treatment of bacterial blepharitis, bacterial bonjunctivitis, corneal injuries, corneal ulcers and meibomianitis. For the prophylaxis of ocular infections following foreign body removal
+DrugId:  16
+1. Name:  Hydroxypropyl cellulose
+2. Groups:  Approved
+3. Description:  Hydroxypropyl cellulose is an ether of cellulose where some of the hydroxyl groups of the cellulose have been hydroxypropylated forming -OCH2CH(OH)CH3 groups. Lacrisertis a formulation of hydroxypropyl cellulose that is used for artificial tears. It is used to treat syndromes characterized by insufficient tear production (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes. As a food additive, hydroxypropyl cellulose is used as a thickener and as an emulsion stabilizer.
+4. Indication:  Used to relieve dryness and irritation caused by reduced tear flow that occurs in certain eye diseases (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes.
+DrugId:  17
+1. Name:  AV608
+2. Groups:  Investigational
+3. Description:  AV608 is a NK-1 antagonist. It is developed for the treatment of Social anxiety disorder (SAD), irritable bowel syndrome (IBS) and overactive bladder (OAB).
+4. Indication:  Investigated for use/treatment in anxiety disorders, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  18
+1. Name:  Ripasudil
+2. Groups:  Approved
+3. Description:  Ripasudil, as hydrochloride hydrate (K-115), is a specifc Rho-associated coiled-coil containing protein kinase (ROCK) inhibitor used for the treatment of glaucoma and ocular hypertension. It was first approved for treatment in Japan in September 2014. This medication is available in the form of a 0.4% eye drop solution under the brand name Glanatec. Ripasudil is a well tolerated medication that is used when other drugs have been proven to be non-effective or cannot be administered.
+4. Indication:  Ripasudil has been proven to be effective in the twice daily treatment of glaucoma and ocular hypertension. It is currently in studies to be approved for both diabetic retinopathy and diabetic macular oedema. 
+DrugId:  19
+1. Name:  Loteprednol
+2. Groups:  Approved
+3. Description:  Loteprednol (as Loteprednol Etabonate) is a topical corticoid antiinflammatory. It is used in ophthalmic solution for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, is used for the treatment and management of seasonal allergic rhinitis.
+4. Indication:  As an ophthalmic it is used for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, used for the treatment and management of seasonal allergic rhinitis.
+DrugId:  20
+1. Name:  Fluocinolone Acetonide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A glucocorticoid derivative used topically in the treatment of various skin disorders. It is usually employed as a cream, gel, lotion, or ointment. It has also been used topically in the treatment of inflammatory eye, ear, and nose disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732). It is also being investigated by Sivida and Alimera, under the brand name Medidur, as a sustained release intraocular implant for the treatment of diabetic macular edema.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also for the treatment of chronic non-infectious uveitis affecting the posterior segment of the eye (Retisert).
+DrugId:  21
+1. Name:  Fenproporex
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Fenproporex is an orally active stimulant drug, which was developed in the 1960s. It is used as an appetite suppressant and a treatment for obesity. However, due to an addictive potential, it is listed as an illicit substance in many countries. Structurally, fenproporex (N-2-cyanoethylamphetamine) falls within the phenylethamine and amphetamine chemical class of drugs. The N-2-cyanoethyl substituent was once believed to be resistant to cleavage, because fenproporex -- once recommended as an obesity treatment for patients with cardiovascular disease -- was originally claimed to lack stimulant properties. Contrary to the claim, research has demonstrated easy in vivo cleavage of the N-2-cyanothyl substituent to yield amphetamine as a metabolite. [5] However, in clinical practice, central nervous system stimulative effects are less notorious than with some other agents such as diethylpropion and mazindol. [7]In the United States fenproporex was never approved by the FDA for clinical use due to a lack of efficacy and safety data, and is listed as a drug in Schedule IV of the Controlled Substances Act. In 2006 and 2009, the FDA issued warnings that it had been detected in diet pills sold online, and imported from foreign manufacturers. It is also listed as a prohibited substance by the World Anti-Doping Agency. [Wikipedia]Despite being banned in the United States, fenproporex has been described as the second most commonly consumed appetite suppressant worldwide, [6] with fenproporex containing anorectics still being commonly prescribed in South America. Little is known about the specific hazards of amphetamine based diet pills, however case reports have noted side effects such as chest pain, palpitations, headaches, and insomnia. In addition, placebo controlled studies have shown that participants using fenproporex experience more joint pain, sweating, blurred vision and tremor. [2] 
+4. Indication:  Fenproporex is used as an appetite suppressant, and anti-obesity agent [2]; however, due to substance abuse potential, it is an illicit substance in many countries. In some countries, such as Brazil, it is still prescribed -- often in the form of diet pills (ie. Brazilian Diet Pills) which combine amphetamines, benzodiazepines, antidepressants, diuretics and laxatives. In the United States the sale of such diet pills has been banned due to concerns over side effects, and the risk of potentially fatal overdose.However, internet sales and illicit markets has lead to international availability. It has been found by primary care physicians that Brazilian immigrant women utilized imported diet pills at particularly high rates, and sometimes suffered from side effects requiring hospitalization or experienced a loss of employment. [3]
+DrugId:  22
+1. Name:  Fluocinonide
+2. Groups:  Approved, Investigational
+3. Description:  A topical glucocorticoid used in the treatment of eczema. [PubChem]
+4. Indication:  A topical anti-inflammatory product for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+DrugId:  23
+1. Name:  Vilazodone
+2. Groups:  Approved
+3. Description:  Vilazodone is a novel compound with combined high affinity and selectivity for the 5-hydroxytryptamine (5-HT) transporter and 5-HT(1A) receptors. It has been shown to be equally efficacious as other antidepressants with similar gastrointestinal side effects and possibly with reduced sexual side effects and weight gain. Vilazodone is an antidepressant agent that can used as an alternative for patients who cannot tolerate therapy with other antidepressant classes such as selective serotonin reuptake inhibitors or serotonin norepinephrine reuptake inhibitors. Treatment should be titrated towards the target dose, which is 40mg per day.
+4. Indication:  Vilazodone is approved for treatment of acute episodes of major depression. Labeling of vilazodone describes an increased risk of suicidal thoughts in children, adolescents and young adults. The use of vilazodone in pediatrics is not indicated. Its use with monoamine oxidase inhibitors (MAOI) is contraindicated due to increased risk of serotonin syndome. Once the MAOI is discontinued, a 14-day washout period must pass before starting vilazodone.
+DrugId:  24
+1. Name:  Buspirone
+2. Groups:  Approved, Investigational
+3. Description:  An anxiolytic agent and a serotonin receptor agonist belonging to the azaspirodecanedione class of compounds. Its structure is unrelated to those of the benzodiazepines, but it has an efficacy comparable to diazepam. [PubChem]
+4. Indication:  For the management of anxiety disorders or the short-term relief of the symptoms of anxiety, and also as an augmention of SSRI-treatment against depression.
+DrugId:  25
+1. Name:  Flurandrenolide
+2. Groups:  Approved
+3. Description:  A corticosteroid used topically in the treatment of various skin disorders. It is usually employed as a cream or an ointment, and is also used as a polyethylene tape with an adhesive. (From Martindale, The Extra Pharmacopoeia, 30th ed, p733)
+4. Indication:  For relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses, particularly dry, scaling localized lesions

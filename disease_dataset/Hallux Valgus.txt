@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Diazepam
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589)
+4. Indication:  Used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome.
+DrugId:  2
+1. Name:  Menthol
+2. Groups:  Approved
+3. Description:  Menthol is a covalent organic compound made synthetically or obtained from peppermint or other mint oils. It is a waxy, crystalline substance, clear or white in color, which is solid at room temperature and melts slightly above. The main form of menthol occurring in nature is (-)-menthol, which is assigned the (1R,2S,5R) configuration. Menthol has local anesthetic and counterirritant qualities, and it is widely used to relieve minor throat irritation.
+4. Indication:  Used to treat occasional minor irritation, pain, sore mouth, and sore throat as well as cough associated with a cold or inhaled irritants.
+DrugId:  3
+1. Name:  Bacitracin
+2. Groups:  Approved, Vet approved
+3. Description:  Bacitracin is a mixture of related cyclic polypeptides produced by organisms of the licheniformis group of Bacillus subtilis var Tracy. Its unique name derives from the fact that the bacillus producing it was first isolated in 1943 from a knee scrape from a girl named Margaret Tracy. As a toxic and difficult-to-use antibiotic, bacitracin doesn't work well orally. However, it is very effective topically.Bacitracin is synthesised via the so-called nonribosomal peptide synthetases (NRPSs), which means that ribosomes are not involved in its synthesis.
+4. Indication:  For the treatment of infants with pneumonia and empyema caused by staphylococci shown to be susceptible to the drug. Also used in ointment form for topical treatment of a variety of localized skin and eye infections, as well as for the prevention of wound infections. Used against gram positive bacteria. Bacitracin is also used as an inhibitor of proteases and other enzymes.However, specific activity of bactracin's inhibition of protein disulfide isomerase has been called into question. 
+DrugId:  4
+1. Name:  Pectin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Pectin is a heteropolysaccharide commercially derived from the cell wall of higher plants.[2] It is composed of partially methylated polygalacturonic acid units linked in the positions 1-4.[7] The carboxylic group of the constituents of pectin can exist in the form of esters, free acids, ammonium, potassium or sodium salts or as acid amides. Under the FDA regulation, pectin qualifies as a GRAS (generally recognized as safe) food substance. This status allows pectin to be used with no limitations.[6]
+4. Indication:  Pectin is used in food as a gelling agent and stabilizer. As a medical drug, it has obtained a great interest in its potential use as a source of dietary fiber, lipid, cholesterol, serum glucose and insulin level lowering effect, gastric emptying delay.[2] Some recent studies have researched the possibility of using pectin for the formation of nanoparticles as a delivery vehicle of drugs.[3]
+DrugId:  5
+1. Name:  Castor oil
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Castor oil is a type of vegetable oil extracted from the seeds of the castor oil plant (Ricinus communis) that is mainly cultivated in India, South Amercia, Africa and China. It is one of the oldest cultivated crops used for commercial purposes such as manufacturing of personal care products or as a renewable resource in the chemical industry. Castor oil a rich source of ricinoleic acid (RA), where the contents may consist of up to 90% ricinoleic, 4% linoleic, 3% oleic, 1% stearic, and less than 1% linolenic fatty acids[1]. By the FDA, castor oil is a food additive permitted for direct addition to food for human consumption. It can be found in hard candies as a release agent and antisticking agent, or in vitamin and mineral tablets as a component of protective coatings.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Omeprazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and Zollinger-Ellison syndrome. Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+4. Indication:  Omeprazole is indicated for the treatment of duodenal ulcers, benign gastric ulcers, gastroesophageal reflux disease (GERD), heartburn and other symptoms associated with GERD, erosive esophagitis, and long-term treatment of pathological hypersecretory conditions like Zollinger-Ellison syndrome, multiple endocrine adenomas, and systemic mastocytosis. 
+DrugId:  7
+1. Name:  Calcium Carbonate
+2. Groups:  Approved, Investigational
+3. Description:  Calcium carbonate is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects. Calcium carbonate may also be used as a nutritional supplement or to treat hypocalcemia.
+4. Indication:  For relief of heartburn and acid indigestion. May also be used as a nutritional supplement or to treat hypocalcemia. 
+DrugId:  8
+1. Name:  Loratadine
+2. Groups:  Approved, Investigational
+3. Description:  Loratadine is a derivative of azatadine and a second-generation histamine H1 receptor antagonist used in the treatment of allergic rhinitis and urticaria. Unlike most classical antihistamines (histamine H1 antagonists) it lacks central nervous system depressing effects such as drowsiness. [PubChem]
+4. Indication:  A self-medication that is used alone or in combination with pseudoephedrine sulfate for the symptomatic relief of seasonal allergic rhinitis. Also used for the symptomatic relief of pruritus, erythema, and urticaria associated with chronic idiopathic urticaria in patients (not for children under 6 unless directed by a clincian).
+DrugId:  9
+1. Name:  Witch hazel
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Zinc
+2. Groups:  Approved, Investigational
+3. Description:  A metallic element of atomic number 30 and atomic weight 65.38. It is a necessary trace element in the diet, forming an essential part of many enzymes, and playing an important role in protein synthesis and in cell division. Zinc deficiency is associated with anemia, short stature, hypogonadism, impaired wound healing, and geophagia. It is known by the symbol Zn [12].Interestingly recent review articles have already demonstrated the important role of zinc in the pathophysiology and treatment of affective disorders, plus discussed the potential value of zinc as a marker of these diseases [11]. Most recently, research has shown that polymorphism of the common polymorphism in zinc transporter SLC30A8/ZnT8 may increase susceptibility to type 2 diabetes provided novel insights into the role of zinc in diabetes [2].
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  12
+1. Name:  Polycarbophil calcium
+2. Groups:  Approved
+3. Description:  Polycarbophil calcium is a drug used as a stool stabilizer. Chemically, it is a synthetic polymer of polyacrylic acid cross-linked with divinyl glycol, with calcium as a counter-ion. Polycarbophil is used to treat constipation. This drug may also be used to help relieve the symptoms of irritable bowel syndrome or diarrhea.Less gas and bloating compared to psyllium laxative products, but can cause heartburn, and belly cramps. It is insoluble in water, dilute acids, and dilute alkali. The material possesses exceptionally high water-binding capacity. is not absorbed, does not interfere with the activity of digestive enzymes or intestinal absorption, possesses satisfactory stability, is physiologically inert, and does not cause gastrointestinal irritation.
+4. Indication:  Polycarbophil is used to treat constipation and to help maintain regular bowel movements.
+DrugId:  13
+1. Name:  Oxymetazoline
+2. Groups:  Approved, Investigational
+3. Description:  A direct acting sympathomimetic used as a vasoconstrictor to relieve nasal congestion. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1251)
+4. Indication:  For treatment of nasal congestion and redness associated with minor irritations of the eye
+DrugId:  14
+1. Name:  Minoxidil
+2. Groups:  Approved, Investigational
+3. Description:  A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure. (From Martindale, The Extra Pharmacopoeia, 30th ed, p371)
+4. Indication:  For the treatment of severe hypertension and in the topical treatment (regrowth) of androgenic alopecia in males and females and stabilisation of hair loss in patients with androgenic alopecia.
+DrugId:  15
+1. Name:  Loperamide
+2. Groups:  Approved
+3. Description:  One of the long-acting synthetic antidiarrheals; it is not significantly absorbed from the gut, and has no effect on the adrenergic system or central nervous system, but may antagonize histamine and interfere with acetylcholine release locally. [PubChem]
+4. Indication:  For the control and symptomatic relief of acute nonspecific diarrhea and of chronic diarrhea associated with inflammatory bowel disease or gastroenteritis. Also used for reducing the volume of discharge from ileostomies.
+DrugId:  16
+1. Name:  Cetirizine
+2. Groups:  Approved
+3. Description:  A potent second-generation histamine H1 antagonist that is effective in the treatment of allergic rhinitis, chronic urticaria, and pollen-induced asthma. Unlike many traditional antihistamines, it does not cause drowsiness or anticholinergic side effects. [PubChem]
+4. Indication:  For the relief of symptoms associated with seasonal allergic rhinitis, perennial allergic rhinitis and the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria
+DrugId:  17
+1. Name:  Hydrocortisone
+2. Groups:  Approved, Vet approved
+3. Description:  The main glucocorticoid secreted by the adrenal cortex. Its synthetic counterpart is used, either as an injection or topically, in the treatment of inflammation, allergy, collagen diseases, asthma, adrenocortical deficiency, shock, and some neoplastic conditions. [PubChem]
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many immune and allergic disorders, such as arthritis, lupus, severe psoriasis, severe asthma, ulcerative colitis, and Crohn's disease.
+DrugId:  18
+1. Name:  Tetryzoline
+2. Groups:  Approved
+3. Description:  Tetryzoline (also known as Tetrahydrozoline), a derivative of imidazoline, is found in over-the-counter eye drops and nasal sprays. Other derivatives include naphazoline, oxymetazoline, and xylometazoline. Johnson and Johnson manufactures tetryzoline eye drops under the brand Visine ®.
+4. Indication:  For temporary relief of discomfort and redness of the eye due to minor eye irritations.
+DrugId:  19
+1. Name:  Sodium bicarbonate
+2. Groups:  Approved
+3. Description:  Sodium bicarbonate is a white, crystalline powder that is commonly used as a pH buffering agent, an electrolyte replenisher, systemic alkalizer and in topical cleansing solutions.
+4. Indication:  Sodium bicarbonate is used for the treatment of metabolic acidosis which may occur in severe renal disease, uncontrolled diabetes, circulatory insufficiency due to shock or severe dehydration, extracorporeal circulation of blood, cardiac arrest and severe primary lactic acidosis. Also is indicated in severe diarrhea which is often accompanied by a significant loss of bicarbonate. Further indicated in the treatment of certain drug intoxications, including barbiturates (where dissociation of the barbiturateprotein complex is desired), in poisoning by salicylates or methyl alcohol and in hemolytic reactions requiring alkalinization of the urine to diminish nephrotoxicity of blood pigments.
+DrugId:  20
+1. Name:  Fluticasone propionate
+2. Groups:  Approved
+3. Description:  Fluticasone propionate, a medium-potency synthetic corticosteroid, is used topically to relieve inflammatory and pruritic symptoms of dermatoses and psoriasis, intranasally to manage symptoms of allergic and non-allergic rhinitis, and orally for the treatment of asthma. Fluticasone proprionate is marketed under several different brand names such as Flonase®. Fluticasone propionate is also available as a combination product of azelastine hydrochloride and fluticasone propionate called Dymista™. Dymista™ is indicated in patients over 12 years old for symptomatic relief of seasonal allergic rhinitis.
+4. Indication:  Fluticasone propionate, a medium-potency synthetic corticosteroid, is used topically to relieve inflammatory and pruritic symptoms of dermatoses and psoriasis, intranasally to manage symptoms of allergic and non-allergic rhinitis, and orally for the maintenance treatment of asthma as prophylactic therapy and for patients requiring oral corticosteroid therapy for asthma.
+DrugId:  21
+1. Name:  Mineral oil
+2. Groups:  Approved, Vet approved
+3. Description:  Mineral oil, or paraffin oil, is a mixture of higher alkanes from a mineral source, such as petroleum. Petroleum mineral oil is manufactured from crude oils by vacuum distillation to produce several distillates and a residual oil that are then further refined. During the modern refining process, aromatics are reduced by solvent extraction, catalytic hydrotreating, or hydrocracking. Unrefined or mildly treated mineral oils are classified as Group 3 carcinogens by the World Health Organizations, as chronic exposure to these aromatics including alkylated polycyclic aromatic compounds (PAC) can lead to skin cancer. Mineral oil is a common ingredient in baby lotions, cold creams, ointments and cosmetics to treat and prevent dry, rough, scaly, itchy skin and minor skin irritations. It is also used as a mild laxative for human or veterinary uses.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Plantago seed
+2. Groups:  Approved, Investigational
+3. Description:  Platango seeds refer to the seeds collected from various species of plantago trees. It is found in some laxatives for treating occasional constipation and restoring regularity in bowel movements. Its potential benefit in maintaining remission in ulcerative colitis has been studied [1].Regardless, this agent is most predominantly used as a gentle laxative agent in many parts of the world that is more commonly referred as psyllium or psyllium husk.
+4. Indication:  Indications include the treatment of patients needing a high fibre regime, perhaps for: (a) the relief of constipation, including constipation in pregnancy and the maintenance of regularity; (b) the management of bowel function in patients with colostomy, ileostomy, hemorrhoids, anal fissure, chronic diarrhea with diverticular disease, irritable bowel syndrome, and ulcerative colitis [3].
+DrugId:  23
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.
+DrugId:  24
+1. Name:  Famotidine
+2. Groups:  Approved
+3. Description:  A competitive histamine H2-receptor antagonist. Its main pharmacodynamic effect is the inhibition of gastric secretion. [PubChem]
+4. Indication:  For the treatment of peptic ulcer disease (PUD) and gastroesophageal reflux disease (GERD).
+DrugId:  25
+1. Name:  Chloroxylenol
+2. Groups:  Approved
+3. Description:  Chloroxylenol, also known as para-chloro-meta-xylenol (PCMX), is an antiseptic and disinfectant agent used for skin disinfection and cleaning surgical instruments. It is also commonly used in antibacterial soaps, wound-cleansing applications and household antiseptics. The halophenol is shown to be most effective against Gram positive bacteria where it disrupts the cell wall due to its phenolic nature [1]. Chloroxylenol is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.
+4. Indication:  The predominant medical applications for which chloroxylenol is formally indicated for therapeutic use is as an application to the skin for use in cuts, bites, stings, abrasions, and for use as antiseptic hand cleaner [7].

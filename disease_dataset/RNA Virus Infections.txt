@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  ANA380
+2. Groups:  Investigational
+3. Description:  ANA380 is a small-molecule orally available inhibitor of the HBV polymerase. The HBV polymerase is the enzyme that catalyzes the production of new RNA from the existing strand of RNA. ANA380 is believed to inhibit viral proliferation by interrupting the replicating machinery of the virus.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  2
+1. Name:  2'-C-methylcytidine
+2. Groups:  Experimental
+3. Description:  A nucleoside analog with anti-hepatitis C virus (HCV) activity. Upon phosphorylation into its 5-triphosphate form, this metabolite inhibits viral RNA chain elongation and viral RNA-dependent RNA polymerase activity. This blocks viral production of HCV RNA and thus viral replication.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Pleconaril
+2. Groups:  Investigational
+3. Description:  Pleconaril is an antiviral drug being developed by Schering-Plough for prevention of asthma exacerbations and common cold symptoms in asthmatic subjects exposed to picornavirus respiratory infections. Although the formulation used by Schering-Plough is a nasal spray, pleconaril is orally bioavailable, and is active against viruses in the Picornaviridae family, including Enterovirus and Rhinovirus.
+4. Indication:  Investigated for use/treatment in upper respiratory infection.
+DrugId:  5
+1. Name:  ISIS 14803
+2. Groups:  Investigational
+3. Description:  ISIS 14803 is a 20-unit antisense phosphorothioate oligodeoxynucleotide that binds to hepatitis C virus (HCV) RNA at the translation initiation region of the internal ribosome entry site (IRES) and inhibits protein expression in cell culture.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  6
+1. Name:  Ribavirin
+2. Groups:  Approved
+3. Description:  Producing a broad-spectrum activity against several RNA and DNA viruses, Ribavirin is a synthetic guanosine nucleoside and antiviral agent that interferes with the synthesis of viral mRNA. It is primarily indicated for use in treating hepatitis C and viral hemorrhagic fevers. HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [10]. It is reported that ribavirin might be only effective in early stages of viral hemorrhagic fevers including Lasser fever, Crimean-Congo hemorrhagic fever, Venezuelan hemorrhagic fever, and Hantavirus infection. Ribavirin is a prodrug that is metabolized into nucleoside analogs that blocks viral RNA synthesis and viral mRNA capping. Before the development of newer drugs, ribavirin and Peginterferon alfa-2a/Peginterferon alfa-2b dual therapy was considered the first-generation and standard antiviral treatment [5]. The dual therapy was administered for 48 weeks in patients with genotype 1, 4, 5, and 6, and 24 weeks in patients with genotype 2 and 3 [5]. Newer drugs developed as Hepatitis C viral infection treatments can be used to reduce or eliminate the use of ribavirin, which are associated with serious adverse effects. They also improve therapeutic efficacy in patients with failed Peginterferon alfa-2a/Peginterferon alfa-2b and ribavirin-based therapy. The potential use of ribavirin as a treatment for acute myeloid leukemia is currently under investigation.According to 2017 American Association for the Study of Liver Diseases (AASLD) and 2015 consensus guidelines from the Canadian Association for the Study of the Liver (CASL), ribavirin is typically used as an adjunct therapy to various first-line and second-line combination therapies recommended for each genotypes. Ribavirin is added to decrease relapse rates by accelerating viral clearance early in the treatment course [7]. When used to treat Hepatitis C virus (HCV) infections, it is always used as a part of combination therapies as ribavirin monotherapy is not efficacious in the treatment of chronic hepatitis C infection [6]. Additionally, including ribavirin in the regimen can increase the risk of anemia. In HCV genotye 1/2/3/4/5/6 patients, ribavirin can be used in combination therapy involving Daclatasvir and Sofosbuvir, Eplusa (Sofosbuvir, Velpatasvir), Harvoni (Sofosbuvir, Ledipasvir), Simeprevir and Sofosbuvir, Viekira Pak (Ombitasvir, Paritaprevir, Ritonavir, Dasabuvir), Technivie (Ritonavir, Ombitasvir, Paritaprevir) and Zepatier (Elbasvir, Grazoprevir). Addition of weight-based ribavirin to Technivie therapy increased sustained virologic response after 12 weeks of daily therapy (SVR12) from 90% to 97% in patients with HCV genotype 1a and 90.9% to 100% in HCV genotype 4 patients [10]. Zepatier therapy along with ribavirin improved SVR in HCV genotype 5 patients. Combination therapy of ribavirin and Peginterferon alfa-2a results in the SVR of 44% in patients with genotype 1 infection and 70% in patients with genotype 2-6. The inclusion of ribavirin in the combination therapies depend on individual patient's profile, for example if HCV genotype 3 patient has a Y93H genetic variant and compensated cirrhosis.
+4. Indication:  Indicated for the treatment of chronic Hepatitis C virus (HCV) infection in combination with other antiviral agents with the intent to cure or achieve a sustained virologic response (SVR). Typically added to improve SVR and reduce relapse rates [6].The addition of ribavirin in Technivie therapy indicated for treating HCV genotype 1a and 4 infections is recommended in patients with or without cirrhosis. Resistance: viral genetic determinants resulting in variable response to ribavirin therapy has not been yet determined. 
+DrugId:  7
+1. Name:  Valopicitabine
+2. Groups:  Experimental
+3. Description:  The 3-O-valine ester prodrug of the nucleoside analog 2'-C-methylcytidine with anti-hepatitis C virus (HCV) activity. Upon administration, valopicitabine is converted into 2'-C-methylcytidine; upon phosphorylation into its 5-triphosphate form, this metabolite inhibits viral RNA chain elongation and viral RNA-dependent RNA polymerase activity. This blocks viral production of HCV RNA and thus viral replication. [from NCI]
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Daclatasvir
+2. Groups:  Approved, Investigational
+3. Description:  Daclatasvir is a direct-acting antiviral agent against Hepatitis C Virus (HCV) used for the treatment of chronic HCV genotype 1 and 3 infection. It is marketed under the name DAKLINZA and is contained in daily oral tablets as the hydrochloride salt form . Hepatitis C is an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [8]. Daclatasvir was the first drug with demonstrated safety and therapeutic efficacy in treating HCV genotype 3 without the need for co-administration of interferon or Ribavirin. It exerts its antiviral action by preventing RNA replication and virion assembly via binding to NS5A, a nonstructural phosphoprotein encoded by HCV. Binding to the N-terminus of the D1 domain of NS5A prevents its interaction with host cell proteins and membranes required for virion replication complex assembly. Daclatasvir is shown to target both the cis- and trans-acting functions of NS5A and disrupts the function of new HCV replication complexes by modulating the NS5A phosphorylation status [3]. The most common critical NS5A amino acid substitutions that led to reduced susceptibility to daclatasvir therapy occured at position Q30 (Q30H/K/R) and M28 in genotype 1a patients and Y93H in genotype 3 patients. According to 2017 American Association for the Study of Liver Diseases (AASLD), 60mg of daclatasvir is recommended with 400mg Sofosbuvir for genotype 1a/b patients with or without cirrhosis as second-line therapy. The same dosing regimen can be used as first-line therapy in patients with genotype 3 without cirrhosis and second-line therapy in genotype 3 patients with compensated cirrhosis. Combination therapies that include daclatasir can be used for challenging-to-treat patients who have HIV-1 coinfection, advanced cirrhosis, or post-liver transplant recurrence of HCV [9]. The therapy is intended to cure or achieve a sustained virologic response (SVR12), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [6]. Daclatasvir was FDA-approved in July 2015 for use with Sofosbuvir (Sovaldi) with or without Ribavirin to treat HCV genotype 1 and 3 infections. The SVR12 in HCV genotype 1a-infected treatment-naïve subjects without and with cirrhosis undergoing daclatasvir and Sofosbuvir therapy were 88% and 99%, respectively [FDA Label]. The same dosing regimen in treatment-naïve patients with HCV genotype 3 infection with or without cirrhosis achieved SVR12 rates of 71% and 98%, respectively [FDA Label].
+4. Indication:  Indicated for use with sofosbuvir, with or without ribavirin, for the treatment of chronic HCV genotype 1a/b or 3 infection. The dosing regimen of 60mg daclatasvir 60 mg with 400mg sofosbuvir once a day is recommended for both genontypes. Resistance: Reduced susceptibility to daclatasvir was associated with the polymorphisms at NS5A amino acid positions M28, Q30, L31, and Y93 in genotypes 1a, 1b, and 3a patients. NS5A Resistance Testing is recommended for HCV genotype 1a-infected patients with cirrhosis prior to the initiaition of the treatment, as the risk of resistance development is higher in genotype 1a patients. 
+DrugId:  9
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  10
+1. Name:  BTA9881
+2. Groups:  Investigational
+3. Description:  BTA9881 is a respiratory syncytial virus (RSV) antiviral drug developed by the Australian company Biota Holdings. It is currently in phase I trials.
+4. Indication:  For the treatment of respiratory syncytial virus infections.
+DrugId:  11
+1. Name:  Rilpivirine
+2. Groups:  Approved
+3. Description:  Rilpivirine is non-nucleoside reverse transcriptase inhibitor (NNRTI) which is used for the treatment of HIV-1 infections in treatment-naive patients.[5] It is a diarylpyrimidine derivative, a class of molecules that resemble pyrimidine nucleotides found in DNA.[6] The internal conformational flexibility of rilpivirine and the plasticity of it interacting binding site gives it a very high potency and an unlikely generation of resistance compared to other NNRTI's.[7] Rilpivirine was developed by Tilbotec, Inc. and FDA approved on May 20, 2011.[10] On November 21, 2017, Rilpivirine, in combination with dolutegravir, was approved as part of the first complete treatment regimen with only two drugs for the treatment of adults with HIV-1 named Juluca.[11]
+4. Indication:  Rilpivirine, in combination with other agents, is indicated for the treatment of HIV-1 infections in antiretroviral treatment-naive patients with HIV-1 RNA ≤100,000 copies/mL and CD4+ cell count >200 cells/mm3.[10] The FDA combination therapy approval of rilpivirine and dolutegravir is indicated for adults with HIV-1 infections whose virus is currently suppressed (< 50 copies/ml) on a stable regimen for at least six months, without history of treatment failure and no known substitutions associated to resistance to any of the two components of the therapy.[11]
+DrugId:  12
+1. Name:  Emtricitabine
+2. Groups:  Approved, Investigational
+3. Description:  Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) for the treatment of HIV infection in adults. Emtricitabine is an analogue of cytidine. The drug works by inhibiting reverse transcriptase, the enzyme that copies HIV RNA into new viral DNA.
+4. Indication:  Indicated, in combination with other antiretroviral agents, for the treatment of HIV-1 infection in adults and for postexposure prophylaxis of HIV infection in health care workers and others exposed occupationally or nonoccupationally via percutaneous injury or mucous membrane or nonintact skin contact with blood, tissues, or other body fluids associated with risk for transmission of the virus.
+DrugId:  13
+1. Name:  Etravirine
+2. Groups:  Approved
+3. Description:  Etravirine is an antiretroviral agent more specifically classified as a Non-Nucleoside Reverse Transcriptase Inhibitor(NNRTI). Etraverine is used clinically for the treatment of human immunodeficiency virus type 1 (HIV-1) infection.On January 18, 2007, the FDA granted accelerated approved for the use of etravirine 100mg tablets in the treatment of adult HIV-1 infection documented to be resistant to therapy with other NNRTIs and antiretroviral agents. On March 26, 2012, approval was extended for use in treatment-experienced pediatric patients 6 to 18 years of age, weighing at least 16 kg. Etravarine must always be used in combination with other antiretroviral drugs. Etravirine exerts its effects via direct inhibition of the reverse transcriptase enzyme of human immunodeficiency virus type 1 (HIV-1), and consequently blocks DNA-dependent and RNA-dependent polymerase activity. Etravirine does not inhibit human DNA polymerase alpha, beta or gamma. Common side effects of use include mild to moderate rash within the first 6 weeks of therapy, nausea, diarrhea and peripheral neuropathy. Patients are advised to immediately contact their healthcare provider if a rash develops. In 2009, postmarketing case reports of Stevens-Johnson Syndrome, toxic epidermal necrolysis, erythema multiforme, and other hypersensitivity reactions lead to a revision of etravirine's "Warnings and Precautions," as well as notification of health care providers. In 2013, reports of Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barrésyndrome) in the setting of immune reconstitution, as well as more in depth information about the development of rashes in patients taking etravirine, lead to a modification of etravirine's monograph.
+4. Indication:  Indicated as an adjunct therapy in the treatment of adult HIV-1 infections resistant to therapy with other NNRTIs and antiretroviral agents. 
+DrugId:  14
+1. Name:  Ibalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ibalizumab (also known as ibalizumab-uiyk and formerly known as TNX-355) is a monoclonal antibody that binds to CD4 receptors on the surface of CD4-positive cells, preventing HIV particle entry into the lymphocytes. It is an advanced and current antibody in development for the treatment of HIV/AIDS. It has been developed by Taimed biologics and Theratechnologies [8, 5].This drug was approved in March 2018 for the management of treatment-resistant HIV [5].
+4. Indication:  Indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in highly treatment-experienced adults with multidrug-resistant HIV-1 infection failing their current antiretroviral regimen [FDA Label].The approval of Trogarzo was supported by a clinical trial of 40 treatment-experienced adults with MDR HIV-1 infection who persistently had elevated levels of HIV RNA in their blood despite heavy antiretroviral therapy. The majority of study patients had previously been treated with ≥10 antiretroviral medications [5].
+DrugId:  15
+1. Name:  Nevirapine
+2. Groups:  Approved
+3. Description:  A potent, non-nucleoside reverse transcriptase inhibitor (NNRTI) used in combination with nucleoside analogues for treatment of Human Immunodeficiency Virus Type 1 (HIV-1) infection and AIDS. [PubChem] Structurally, nevirapine belongs to the dipyridodiazepinone chemical class. 
+4. Indication:  For use in combination with other antiretroviral drugs in the ongoing treatment of HIV-1 infection.
+DrugId:  16
+1. Name:  Presatovir
+2. Groups:  Investigational
+3. Description:  Presatovir has been used in trials studying the treatment of RSV Infection, Respiratory Syncytial Virus (RSV), Respiratory Syncytial Virus Infections, and Respiratory Syncytial Virus (RSV) Infections.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Daptomycin
+2. Groups:  Approved, Investigational
+3. Description:  Daptomycin is a lipopeptide antibiotic that kills susceptible gram positive bacteria by disrupting their membrane potential. It is a naturally-occurring compound found in the soil bacterium Streptomyces roseosporus. Antibiotics are used in the treatment of infections caused by bacteria. They work by killing bacteria or preventing their growth. Daptomycin will not work for colds, flu, or other virus infections. It was approved in September 2003 for the treatment of complicated skin and soft tissue infections. It has a safety profile similar to other agents commonly administered to treat gram-positive infections.
+4. Indication:  For the treatment of complicated skin and skin structure infections caused by susceptible strains of Gram-positive microorganisms.
+DrugId:  18
+1. Name:  Efavirenz
+2. Groups:  Approved, Investigational
+3. Description:  Efavirenz (brand names Sustiva® and Stocrin®) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) and is used as part of highly active antiretroviral therapy (HAART) for the treatment of a human immunodeficiency virus (HIV) type 1.For HIV infection that has not previously been treated, efavirenz and lamivudine in combination with zidovudine or tenofovir is the preferred NNRTI-based regimen.Efavirenz is also used in combination with other antiretroviral agents as part of an expanded postexposure prophylaxis regimen to prevent HIV transmission for those exposed to materials associated with a high risk for HIV transmission.
+4. Indication:  For use in combination treatment of HIV infection (AIDS)
+DrugId:  19
+1. Name:  AGS-004
+2. Groups:  Investigational
+3. Description:  AGS-004 is a personalized RNA-loaded dendritic cellbasedimmunotherapy that is designed to stimulate the patient’s immune system to target and destroy the patient’s own unique viral burden. Non-personalized HIV immunotherapies are unable to raise cytotoxic T lymphocytes against HIV antigens, fail to induce T cell memory, and, most importantly, do not provide antiviral protection against the patient's own particular virus. A personalized immunotherapy addresses these issues because it is able to capture private viral mutations, providing a matched, complete immune response for each individual HIV patient. This approach may overcome the weaknesses of other available therapies and therefore could result in a better chance of success for HIV treatment.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  20
+1. Name:  Rimantadine
+2. Groups:  Approved, Investigational
+3. Description:  An RNA synthesis inhibitor that is used as an antiviral agent in the prophylaxis and treatment of influenza. [PubChem]
+4. Indication:  For the prophylaxis and treatment of illness caused by various strains of influenza A virus in adults.
+DrugId:  21
+1. Name:  Favipiravir
+2. Groups:  Investigational
+3. Description:  Favipiravir has been investigated for the treatment of Influenza. It is a unique viral RNA polymerase inhibitor, acting on viral genetic copying to prevent its reproduction.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Zalcitabine
+2. Groups:  Approved, Investigational
+3. Description:  A dideoxynucleoside compound in which the 3'-hydroxyl group on the sugar moiety has been replaced by a hydrogen. This modification prevents the formation of 5' to 3' phosphodiester linkages, which are needed for the elongation of DNA chains, thus resulting in the termination of viral DNA growth. The compound is a potent inhibitor of HIV replication at low concentrations, acting as a chain-terminator of viral DNA by binding to reverse transcriptase. Its principal toxic side effect is axonal degeneration resulting in peripheral neuropathy. [PubChem]
+4. Indication:  For the treatment of Human immunovirus (HIV) infections in conjunction with other antivirals.
+DrugId:  23
+1. Name:  PDPSC18
+2. Groups:  Investigational
+3. Description:  PDPSC18 is therapeutic DNA vaccine designed to fight chronic infections with the Hepatitis B virus, entering phase I clinical trials.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  24
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  PRO-542
+2. Groups:  Investigational
+3. Description:  PRO 542 belongs to a new class of drugs, viral-entry inhibitor, which is intended to prevent HIV from entering and infecting cells. PRO 542 (CD4-immunoglobulin G2) is a tetravalent CD4-immunoglobulin fusion protein that broadly neutralizes primary HIV-1 isolates. 
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, HIV infection, and pediatric indications.
