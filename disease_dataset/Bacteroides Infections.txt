@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ertapenem
+2. Groups:  Approved, Investigational
+3. Description:  Ertapenem is a carbapenem antibiotic marketed by Merck as Invanz®. It is structurally very similar to meropenem in that it possess a 1-beta-methyl group. [Wikipedia]
+4. Indication:  For the treatment the following moderate to severe infections caused by susceptible isolates of the designated microorganisms: (1) complicated intra-abdominal infections due to Escherichia coli, Clostridium clostridioforme, Eubacterium lentum, Peptostreptococcus species, Bacteroides fragilis, Bacteroides distasonis, Bacteroides ovatus, Bacteroides thetaiotaomicron, or Bacteroides uniformis, (2) complicated skin and skin structure infections, including diabetic foot infections without osteomyelitis due to Staphylococcus aureus (methicillin susceptible isolates only), Streptococcus agalactiae, Streptococcus pyogenes, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Bacteroides fragilis, Peptostreptococcus species, Porphyromonas asaccharolytica, or Prevotella bivia, (3) community acquired pneumonia due to Streptococcus pneumoniae (penicillin susceptible isolates only) including cases with concurrent bacteremia, Haemophilus influenzae (beta-lactamase negative isolates only), or Moraxella catarrhalis, (4) complicated urinary tract infections including pyelonephritis due to Escherichia coli, including cases with concurrent bacteremia, or Klebsiella pneumoniae, (5) acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
+DrugId:  2
+1. Name:  Tigecycline
+2. Groups:  Approved
+3. Description:  Tigecycline is a glycylcycline antibiotic developed and marketed by Wyeth under the brand name Tygacil. It was given a U.S. Food and Drug Administration (FDA) fast-track approval and was approved on June 17, 2005. It was developed in response to the growing prevalence of antibiotic resistance in bacteria such as Staphylococcus aureus.
+4. Indication:  For the treatment of infections caused by susceptible strains of the designated microorganisms in the following conditions: Complicated skin and skin structure infections caused by Escherichia coli, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible and -resistant isolates), Streptococcus agalactiae, Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Streptococcus pyogenes and Bacteroides fragilis. Complicated intra-abdominal infections caused by Citrobacter freundii, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides vulgatus, Clostridium perfringens, and Peptostreptococcus micros.
+DrugId:  3
+1. Name:  Lincomycin
+2. Groups:  Approved, Vet approved
+3. Description:  An antibiotic produced by Streptomyces lincolnensis var. lincolnensis. It has been used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+4. Indication:  Lincomycin is an antibiotic used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+DrugId:  4
+1. Name:  Sulbactam
+2. Groups:  Approved
+3. Description:  Sulbactam is a β-lactamase inhibitor given in combination with β-lactam antibiotics to inhibit β-lactamase, an enzyme produced by bacteria that destroys antibiotic activity.
+4. Indication:  Sulbactam is currently available in combination products with ampicillin. Within this formulation it is indicated for the treatment of infections due to susceptible strains of the designated microorganisms in the conditions listed below.Skin and Skin Structure Infections caused by beta-lactamase producing strains of Staphylococcus aureus, Escherichia coli, Klebsiella spp. (including K. pneumoniae), Proteus mirabilis, Bacteroides fragilis, Enterobacter spp., and Acinetobacter calcoaceticus.Intra-Abdominal Infections caused by beta-lactamase producing strains of Escherichia coli, Klebsiella spp. (including K. pneumoniae), Bacteroides spp. (including B. fragilis), and Enterobacter spp.Gynecological Infections caused by beta-lactamase producing strains of Escherichia coli, and Bacteroides spp. (including B. fragilis).
+DrugId:  5
+1. Name:  Meropenem
+2. Groups:  Approved, Investigational
+3. Description:  Meropenem is a broad-spectrum carbapenem antibiotic. It is active against Gram-positive and Gram-negative bacteria. Meropenem exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death.In August 2017, a combination antibacterial therapy under the market name vabomere was approved for treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of meropenem and Vaborbactam and is intravenously admininstered. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  For use as single agent therapy for the treatment of the following infections when caused by susceptible isolates of the designated microorganisms: complicated skin and skin structure infections due to Staphylococcus aureus (b-lactamase and non-b-lactamase producing, methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (excluding vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis and Peptostreptococcus species; complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species. Also for use in the treatment of bacterial meningitis caused by Streptococcus pneumoniae, Haemophilus influenzae (b-lactamase and non-b-lactamase-producing isolates), and Neisseria meningitidis.
+DrugId:  6
+1. Name:  Clindamycin
+2. Groups:  Approved, Vet approved
+3. Description:  Clindamycin is a semisynthetic lincosamide antibiotic that has largely replaced lincomycin due to an improved side effect profile. Clindamycin inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits. It may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For the treatment of serious infections caused by susceptible anaerobic bacteria, including Bacteroides spp., Peptostreptococcus, anaerobic streptococci, Clostridium spp., and microaerophilic streptococci. May be useful in polymicrobic infections such as intra-abdominal or pelvic infections, osteomyelitis, diabetic foot ulcers, aspiration pneumonia and dental infections. May also be used to treat MSSA and respiratory infections caused by S. pneumoniae and S. pyogenes in patients who are intolerant to other indicated antibiotics or who are infected with resistant organism. May be used vaginally to treat vaginosis caused by Gardnerella vaginosa. Clindamycin reduces the toxin producing effects of S. aureus and S. pyogenes and as such, may be particularly useful for treating necrotizing fasciitis. May be used topically to treat acne.
+DrugId:  7
+1. Name:  Secnidazole
+2. Groups:  Approved
+3. Description:  Secnidazole is a second-generation 5-nitroimidazole antimicrobial that is structurally related to other 5-nitroimidazoles including Metronidazole and Tinidazole, but displays improved oral absorption and longer terminal elimination half-life than antimicrobial agents in this class [1]. Secnidazole is selective against many anaerobic Gram-positive and Gram-negative bacteria and protozoa. In September 2017, FDA granted approval to secnidazole under the market name Solosec as a single-dose oral treatment for bacterial vaginosis, which is a common vaginal infection in women aged 15 to 44 years. The antimicrobial therapy is only intended to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria [FDA Label].
+4. Indication:  Indicated for the treatment of bacterial vaginosis in adult women . 
+DrugId:  8
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  9
+1. Name:  Cefpodoxime
+2. Groups:  Approved, Vet approved
+3. Description:  Cefpodoxime is an oral third generation cephalosporin antibiotic. It is active against most Gram positive and Gram negative bacteria. It is commonly used to treat acute otitis media, pharyngitis, and sinusitis. Cefpodoxime proxetil is a prodrug which is absorbed and de-esterified by the intestinal mucosa to Cefpodoxime.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms.
+DrugId:  10
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  11
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  12
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  13
+1. Name:  Clavulanate
+2. Groups:  Approved, Vet approved
+3. Description:  Clavulanic acid and its salts and esters. The acid is a suicide inhibitor of bacterial beta-lactamase enzymes from Streptomyces clavuligerus. Administered alone, it has only weak antibacterial activity against most organisms, but given in combination with beta-lactam antibiotics prevents antibiotic inactivation by microbial lactamase. [PubChem]
+4. Indication:  For use with Amoxicillin, clavulanic acid is suitable for the treatment of infections with Staph. aureus and Bacteroides fragilis, or with beta-lactamase producing H. influenzae and E. coli.
+DrugId:  14
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  16
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  17
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  19
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Vibriolysin
+2. Groups:  Investigational
+3. Description:  Vibriolysin is a proteolytic enzyme secreted by the marine microorganism Vibrio proteolyticus. It is a new agent for enzymatic debridement, shown to rapidly and thoroughly hydrolyze burn wound eschar within full-thickness wounds.
+4. Indication:  Investigated for use/treatment in burns and burn infections.
+DrugId:  23
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  25
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).

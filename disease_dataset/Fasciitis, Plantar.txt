@@ -1,0 +1,25 @@
+DrugId:  1
+1. Name:  Dabrafenib
+2. Groups:  Approved, Investigational
+3. Description:  Dabrafenib mesylate is a reversible ATP-competitive kinase inhibitor and targets the MAPK pathway. FDA approved on May 29, 2013. 
+4. Indication:  Dabrafenib is indicated for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test.
+DrugId:  2
+1. Name:  Clindamycin
+2. Groups:  Approved, Vet approved
+3. Description:  Clindamycin is a semisynthetic lincosamide antibiotic that has largely replaced lincomycin due to an improved side effect profile. Clindamycin inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits. It may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For the treatment of serious infections caused by susceptible anaerobic bacteria, including Bacteroides spp., Peptostreptococcus, anaerobic streptococci, Clostridium spp., and microaerophilic streptococci. May be useful in polymicrobic infections such as intra-abdominal or pelvic infections, osteomyelitis, diabetic foot ulcers, aspiration pneumonia and dental infections. May also be used to treat MSSA and respiratory infections caused by S. pneumoniae and S. pyogenes in patients who are intolerant to other indicated antibiotics or who are infected with resistant organism. May be used vaginally to treat vaginosis caused by Gardnerella vaginosa. Clindamycin reduces the toxin producing effects of S. aureus and S. pyogenes and as such, may be particularly useful for treating necrotizing fasciitis. May be used topically to treat acne.
+DrugId:  3
+1. Name:  Lenvatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFRα), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers.Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.
+4. Indication:  Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer.
+DrugId:  4
+1. Name:  Promethazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals. [PubChem]
+4. Indication:  For the treatment of allergic disorders, and nausea/vomiting.
+DrugId:  5
+1. Name:  Salicylic acid
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A compound obtained from the bark of the white willow and wintergreen leaves, and also prepared synthetically. It has bacteriostatic, fungicidal, and keratolytic actions. Its salts, the salicylates, are used as analgesics.
+4. Indication:  Key additive in many skin-care products for the treatment of acne, psoriasis, callouses, corns, keratosis pilaris and warts.

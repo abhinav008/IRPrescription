@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  BMS-906024
+2. Groups:  Investigational
+3. Description:  BMS-906024 has been used in trials studying the treatment of Cancer, Lymphoblastic Leukemia, Acute T-cell, and Precursor T-Cell Lymphoblastic Lymphoma.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Tisagenlecleucel
+2. Groups:  Approved, Investigational
+3. Description:  Tisagenlecleucel is a CD19-directed genetically modified autologous T cell immunotherapy, or a CAR-T cell therapy for B-cell acute lymphoblastic leukemia. It was granted approval by FDA in August 2017 under the market name Kymriah. Tisagenlecleucel is an immunocellular therapy that involves autologous T cells that are collected from each individual patient and genetically engineered to express a specific protein called a chimeric antigen receptor (CAR) that specifically target CD19 antigens. Modified T cells are infused back into the patient's body. These CD19-directed chimeric antigen receptors (CD19 CAR-T cells) direct the T cells to targt and kill leukiemia cells that express a specific antigen (CD19) on the cell surface.In a multicenter clinical trial involving pediatric and young adult patients with relapsed or refractory B-cell precursor ALL, the overall remission rate within three months of treatment was 83 percent [4].
+4. Indication:  Indicated for the treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse [FDA Label]. 
+DrugId:  4
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  5
+1. Name:  Forodesine
+2. Groups:  Investigational
+3. Description:  Forodesine is a highly potent, orally active, rationally designed PNP inhibitor that has shown activity in preclinical studies with malignant cells and clinical utility against T-cell acute lymphoblastic leukemia and cutaneous T-cell lymphoma. Additional preliminary findings support its use for the management of some B-cell malignancies.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and leukemia (lymphoid).
+DrugId:  6
+1. Name:  Nelarabine
+2. Groups:  Approved, Investigational
+3. Description:  Nelarabine is a chemotherapy drug used in T-cell acute lymphoblastic leukemia. Nelarabine is a purine nucleoside analog converted to its corresponding arabinosylguanine nucleotide triphosphate (araGTP), resulting in inhibition of DNA synthesis and cytotoxicity.
+4. Indication:  For the treatment of pediatric and adult patients with acute T-cell lymphoblastic leukemia and T-cell lymphoblastic lymphoma whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens.
+DrugId:  7
+1. Name:  Inotuzumab ozogamicin
+2. Groups:  Approved, Investigational
+3. Description:  Inotuzumab ozogamicin is an antibody-drug conjugate using linker and cytotoxic drug technology similar to that developed for the ground-breaking treatment Mylotarg (Gemtuzumab ozogamicin), which was approved by the US FDA in 2000 for the treatment of acute myeloid leukaemia. Inotuzumab ozogamicin consists of a recombinant humanised IgG4 kappa CD22-targeting monoclonal antibody covalently attached to calicheamicin derivative, N-acetyl-gamma-calicheamicin dimethylhydrazide, which is a potent DNA-binding cytotoxic agent [4]. Developed by Pfizer and UCB, inotuzumab ozogamicin was granted approval by EU in June 2017 followed by FDA on August 17th, 2017 for the treatment of adults with relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). ALL is a rapidly progressing cancer of the bone marrow that is associated with high mortality rates and low therapeutic response from standard chemotherapies in relasping conditions. In a randomized trial, inotuzumab ozogamicin displayed higher percentages of patients undergoing longer periods of complete remission with no evidence of disease in comparison to patients receiving alternative chemotherapy [5].
+4. Indication:  Indicated as monotherapy for the treatment of adults with relapsed or refractory CD22-positive B cell precursor acute lymphoblastic leukaemia (ALL). 
+DrugId:  8
+1. Name:  Coltuximab ravtansine
+2. Groups:  Investigational
+3. Description:  Coltuximab ravtansine (SAR3419) targets CD19 and is being investigated for the treatment of acute lymphoblastic leukemia (ALL).
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's).
+DrugId:  9
+1. Name:  IPH 1101
+2. Groups:  Investigational
+3. Description:  IPH 1101 is a chemically-synthesized structural analog of non-conventional bacterial phosphoantigens which specifically activate the Vγ9Vδ2 T cell subset. IPH 1101 is the most advanced drug candidate of the γδ T cell platform
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), leukemia (myeloid), and lymphoma (non-hodgkin's).
+DrugId:  10
+1. Name:  Asparaginase Escherichia coli
+2. Groups:  Approved, Investigational
+3. Description:  Asparaginase derived from Escherichia coli (L-asparagine amidohydrolase, EC 3.5.1.1) is an enzyme responsible for the metabolism of L-asparagine, by catalyzing L-asparagine into L-aspartic acid and ammonia. It also facilitates the production of oxaloacetate which is needed for general cellular metabolism. Asparaginase from E. coli has clinically shown to exhibit antitumor actions in models of leukaemias [1, 2]. L-asparaginase of E. coli is marketed under several different trade names, including Elspar, for the treatment of acute lymphoblastic leukemia (ALL) as part of a multi-agent chemotherapeutic regimen. It is available as intramuscular or intravenous injections. Therapeutic L-asparaginase from E. coli works by depleting the levels of non-essential amino acid, asparagine, in lymphoblastic leukemic cells thus promoting apoptotic cell death [3]. For patients who develop hypersensitivity to E. coli-derived formulations of L-asparaginase, the use of PEGylated or non-PEGylated Asparaginase Erwinia chrysanthemi is recommended [3].
+4. Indication:  Indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of patients with acute lymphoblastic leukemia (ALL) [FDA Label].
+DrugId:  11
+1. Name:  Denileukin diftitox
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant DNA-derived cytotoxic protein composed of the amino acid sequences for diphtheria toxin fragments A and B (Met 1-Thr 387)-His followed by the sequences for interleukin-2 (IL-2; Ala 1-Thr 133). It is produced in an E. coli expression system.
+4. Indication:  For treatment of cutaneous T-cell lymphoma
+DrugId:  12
+1. Name:  Siplizumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders, transplant (rejection), graft versus host disease, lymphoma (unspecified), and leukemia (unspecified).
+DrugId:  13
+1. Name:  FAV-201
+2. Groups:  Investigational
+3. Description:  FAV-201 is a patient-specific immunotherapy for the treatment of T-cell lymphoma.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's).
+DrugId:  14
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Daporinad
+2. Groups:  Investigational
+3. Description:  Daporinad has been used in trials studying the treatment of Melanoma, Cutaneous T-cell Lymphoma, and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Dacetuzumab
+2. Groups:  Investigational
+3. Description:  Dacetuzumab has been used in trials studying the treatment of Multiple Myeloma, Non-Hodgkin Lymphoma, Leukemia, Lymphocytic, Chronic, and Lymphoma, Large B-Cell, Diffuse. It is a humanized anti-CD40 antibody and induces cytotoxicity in human multiple myeloma cells.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and multiple myeloma.
+DrugId:  17
+1. Name:  Varlilumab
+2. Groups:  Investigational
+3. Description:  Varlilumab has been used in trials studying the treatment of MELANOMA, Skin Ulcer, Burkett's Lymphoma, Mantle cell lymphoma, and Any T-cell Malignancy, among others.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Vincristine
+2. Groups:  Approved, Investigational
+3. Description:  Vincristine is an antitumor vinca alkaloid isolated from Vinca Rosea. It is marketed under several brand names, many of which have different formulations such as Marqibo (liposomal injection) and Vincasar. Vincristine is indicated for the treatment of acute leukaemia, malignant lymphoma, Hodgkin's disease, acute erythraemia, and acute panmyelosis. vincristine sulfate is often chosen as part of polychemotherapy because of lack of significant bone–marrow suppression (at recommended doses) and of unique clinical toxicity (neuropathy). 
+4. Indication:  Treatment of acute lymphocytic leukemia (ALL), Hodgkin lymphoma, non-Hodgkin lymphomas, Wilms' tumor, neuroblastoma, rhabdomyosarcoma. Liposomal vincristine is indicated for the treatment of relapsed Philadelphia chromosome-negative (Ph-) acute lymphoblastic leukemia (ALL). 
+DrugId:  19
+1. Name:  Inebilizumab
+2. Groups:  Investigational
+3. Description:  Inebilizumab has been used in trials studying the treatment of Blood Cancer, B-cell Malignancies, Advanced B Cell Malignancies, Chronic Lymphocytic Leukemia (CLL), and Diffuse Large B-Cell Lymphoma (DLBCL).
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Treosulfan
+2. Groups:  Investigational
+3. Description:  Treosulfan is under investigation in Allogeneic Haematopoietic Stem Cell Transplantation. Treosulfan has been investigated for the treatment of Lymphoblastic Leukemia, Acute, Childhood.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Duvelisib
+2. Groups:  Investigational
+3. Description:  Duvelisib has been used in trials studying the treatment and basic science of Lymphoma, Leukemia, T-cell Lymphoma, Hepatic Impairment, and Follicular Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Pegaspargase
+2. Groups:  Approved, Investigational
+3. Description:  Pegylated L-asparagine amidohydrolase from E. coli. Pegylation substantially (by a factor of 4) extends the protein half life.
+4. Indication:  For treatment of acute lymphoblastic leukemia
+DrugId:  23
+1. Name:  Dasatinib
+2. Groups:  Approved, Investigational
+3. Description:  Dasatinib is an oral dual BCR/ABL and Src family tyrosine kinase inhibitor approved for use in patients with chronic myelogenous leukemia (CML). The main targets of Dasatinib, are BCRABL, SRC, Ephrins and GFR.
+4. Indication:  For the treatment of adults with chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia with resistance or intolerance to prior therapy. Also indicated for the treatment of adults with Philadelphia chromosome-positive acute lymphoblastic leukemia with resistance or intolerance to prior therapy.
+DrugId:  24
+1. Name:  Doxorubicin
+2. Groups:  Approved, Investigational
+3. Description:  Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius. Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
+4. Indication:  Doxorubicin is used to produce regression in disseminated neoplastic conditions like acute lymphoblastic leukemia, acute myeloblastic leukemia, Wilms’ tumor, neuroblastoma, soft tissue and bone sarcomas, breast carcinoma, ovarian carcinoma, transitional cell bladder carcinoma, thyroid carcinoma, gastric carcinoma, Hodgkin’s disease, malignant lymphoma and bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types. Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.
+DrugId:  25
+1. Name:  Cytarabine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)
+4. Indication:  For the treatment of acute non-lymphocytic leukemia, acute lymphocytic leukemia and blast phase of chronic myelocytic leukemia.

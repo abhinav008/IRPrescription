@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Corynebacterium diphtheriae
+2. Groups:  Approved
+3. Description:  Corynebacterium diphtheriae toxin is extracted from the pathogenic actinobacterium C. diphtheriae that causes diphtheria. The bacteria culture is grown in a medium and through purification, diphtheria toxin is detoxified with formaldehyde and diafiltered. The vaccine is intramuscularly administered to provide active immunization against diphtheria in infants and children.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Phenoxymethylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Phenoxymethylpenicillin (Penicillin V) is narrow spectrum antibiotic used to treat mild to moderate infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered orally. Penicillin V may also be used in some cases as prophylaxis against susceptible organisms.Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as Streptococcus pneumoniae, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (S. agalactiae), S. viridans, and Enterococcus faecalis. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as Bacillus anthracis, Corynebacterium diphtheriae, and Erysipelothrix rhusiopathiae. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by Neisseria meningitidis and Pasteurella. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+4. Indication:  For the treatment of mild to moderately severe infections (e.g. dental infection, infections in the heart, middle ear infections, rheumatic fever, scarlet fever, skin infections, upper and lower respiratory tract infections) due to microorganisms.
+DrugId:  3
+1. Name:  Erythromycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Erythromycin is a macrolide antibiotic produced by Saccharopolyspora erythraea (formerly Streptomyces erythraeus). It inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits; binding inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins. Erythromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For use in the treatment of infections caused by susceptible strains of microorganisms in the following diseases: respiratory tract infections (upper and lower) of mild to moderate degree, pertussis (whooping cough), as adjunct to antitoxin in infections due to Corynebacterium diphtheriae, in the treatment of infections due to Corynebacterium minutissimum, intestinal amebiasis caused by Entamoeba histolytica, acute pelvic inflammatory disease caused by Neisseria gonorrhoeae, skin and soft tissue infections of mild to moderate severity caused by Streptococcus pyogenes and Staphylococcus aureus, primary syphilis caused by Treponema pallidum, infections caused by Chlamydia trachomatis, nongonococcal urethritis caused by Ureaplasma urealyticum, and Legionnaires' disease caused by Legionella pneumophila.
+DrugId:  4
+1. Name:  Lincomycin
+2. Groups:  Approved, Vet approved
+3. Description:  An antibiotic produced by Streptomyces lincolnensis var. lincolnensis. It has been used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+4. Indication:  Lincomycin is an antibiotic used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+DrugId:  5
+1. Name:  Clindamycin
+2. Groups:  Approved, Vet approved
+3. Description:  Clindamycin is a semisynthetic lincosamide antibiotic that has largely replaced lincomycin due to an improved side effect profile. Clindamycin inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits. It may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For the treatment of serious infections caused by susceptible anaerobic bacteria, including Bacteroides spp., Peptostreptococcus, anaerobic streptococci, Clostridium spp., and microaerophilic streptococci. May be useful in polymicrobic infections such as intra-abdominal or pelvic infections, osteomyelitis, diabetic foot ulcers, aspiration pneumonia and dental infections. May also be used to treat MSSA and respiratory infections caused by S. pneumoniae and S. pyogenes in patients who are intolerant to other indicated antibiotics or who are infected with resistant organism. May be used vaginally to treat vaginosis caused by Gardnerella vaginosa. Clindamycin reduces the toxin producing effects of S. aureus and S. pyogenes and as such, may be particularly useful for treating necrotizing fasciitis. May be used topically to treat acne.
+DrugId:  6
+1. Name:  Spiramycin
+2. Groups:  Approved
+3. Description:  Spiramycin is a macrolide antimicrobial agent with activity against gram-positive organisms, including Streptococcus pyogenes (group A beta-hemolytic streptococci), S. viridans, Corynebacterium diphtheriae, and methicillin-sensitive Staphylococcus aureus.Spiramycin is a 16-membered ring macrolide. It was discovered in 1952 as a product of Streptomyces ambofaciens. As a preparation for oral administration it has been used since 1955, in 1987 also the parenteral form was introduced into practice.The antibacterial spectrum comprises Gram-positive cocci and rods, Gram-negative cocci and also Legionellae, mycoplasmas, chlamydiae, some types of spirochetes, Toxoplasma gondii and Cryptosporidium species. Enterobacteria, pseudomonads and pathogenic moulds are resistant. Its action is mainly bacteriostatic, on highly sensitive strains it exerts a bactericide action.
+4. Indication:  Macrolide antibiotic for treatment of various infections.
+DrugId:  7
+1. Name:  Benzylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Benzylpenicillin (Penicillin G) is narrow spectrum antibiotic used to treat infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered intravenously or intramuscularly due to poor oral absorption. Penicillin G may also be used in some cases as prophylaxis against susceptible organisms.Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as Streptococcus pneumoniae, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (S. agalactiae), S. viridans, and Enterococcus faecalis. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as Bacillus anthracis, Corynebacterium diphtheriae, and Erysipelothrix rhusiopathiae. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by Neisseria meningitidis and Pasteurella. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+4. Indication:  For use in the treatment of severe infections caused by penicillin G-susceptible microorganisms when rapid and high penicillin levels are required such as in the treatment of septicemia, meningitis, pericarditis, endocarditis and severe pneumonia.
+DrugId:  8
+1. Name:  Moxifloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Moxifloxacin is a synthetic fluoroquinolone antibiotic agent. Bayer AG developed the drug (initially called BAY 12-8039) and it is marketed worldwide (as the hydrochloride) under the brand name Avelox (in some countries also Avalox) for oral treatment.
+4. Indication:  For the treatment of sinus and lung infections such as sinusitis, pneumonia, and secondary infections in chronic bronchitis. Also for the treatment of bacterial conjunctivitis (pinkeye).
+DrugId:  9
+1. Name:  Neisseria meningitidis group c capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved
+3. Description:  Neisseria meningitidis group c capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup c. The vaccine contains N. meningitis serogroup c capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Levofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic fluoroquinolone (fluoroquinolones) antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication. [PubChem]
+4. Indication:  For the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species, Staphylococus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae, Streptococcus (Groups C/F/G), Viridans group streptococci, Acinetobacter lwoffii, Haemophilus influenzae, Serratia marcescens.
+DrugId:  11
+1. Name:  Nitrofurantoin
+2. Groups:  Approved, Vet approved
+3. Description:  A bacteriostatic or bactericidal agent depending on the concentration and susceptibility of the infecting organism. Nitrofurantoin is active against some gram positive organisms such as S. aureus, S. epidermidis, S. saprophyticus, Enterococcus faecalis, S. agalactiae, group D streptococci, viridians streptococci and Corynebacterium. Its spectrum of activity against gram negative organisms includes E. coli, Enterobacter, Neisseria, Salmonella and Shigella. It may be used as an alternative to trimethoprim/sulfamethoxazole for treating urinary tract infections though it may be less effective at eradicating vaginal bacteria. May also be used in females as prophylaxis against recurrent cystitis related to coitus. Nitrofurantoin is highly stable to the development of bacterial resistance, a property thought to be due to its multiplicity of mechanisms of action. 
+4. Indication:  May be used as an alternative in the treatment of urinary tract infections. May be used by females pericoitally for prophylaxis against recurrent cystitis related to coitus. 
+DrugId:  12
+1. Name:  Neisseria meningitidis group w-135 capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved
+3. Description:  Neisseria meningitidis group w-135 capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup W-135. The vaccine contains N. meningitis serogroup W-135 capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Neisseria meningitidis group a capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved, Investigational
+3. Description:  Neisseria meningitidis group a capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup a. The vaccine contains N. meningitis serogroup a capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Neisseria meningitidis group y capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved
+3. Description:  Neisseria meningitidis group y capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup W-135. The vaccine contains* N. meningitis* serogroup y capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Streptococcus pneumoniae type 1 capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 1 capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 1 individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197). The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Streptococcus pneumoniae type 3 capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 3 capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 3 individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197). The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Streptococcus pneumoniae type 19a capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 19a capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 19a individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197). The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Streptococcus pneumoniae type 9v capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 9v capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 9v individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197) . It is contained in the vaccine under the market name Prevnar that contains the saccharides for serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F for intramuscular injection. The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Bordetella pertussis filamentous hemagglutinin antigen (formaldehyde inactivated)
+2. Groups:  Approved
+3. Description:  Bordetella pertussis filamentous hemagglutinin antigen (formaldehyde inactivated) is a vaccine that contains inactivated acellular pertussis antigen that is isolated from Bordetella pertussis culture.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Streptococcus pneumoniae type 4 capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved, Investigational
+3. Description:  Streptococcus pneumoniae type 4 capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 4 individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197) . It is contained in the vaccine under the market name Prevnar that contains the saccharides for serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F for intramuscular injection. The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Streptococcus pneumoniae type 19f capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 19f capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 19f individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197) . It is contained in the vaccine under the market name Prevnar that contains the saccharides for serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F for intramuscular injection. The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Streptococcus pneumoniae type 18c capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 18c capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 18c individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197) . It is contained in the vaccine under the market name Prevnar that contains the saccharides for serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F for intramuscular injection. The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Streptococcus pneumoniae type 23f capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 23f capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 23f individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197) . It is contained in the vaccine under the market name Prevnar that contains the saccharides for serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F for intramuscular injection. The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Streptococcus pneumoniae type 7f capsular polysaccharide diphtheria crm197 protein conjugate antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 7f capsular polysaccharide diphtheria crm197 protein conjugate antigen is a sterile vaccine that contains saccharides of the capsular antigens of Streptococcus pneumoniae serotype 7f individually conjugated to the CRM197 protein, a nontoxic variant of diphtheria toxin isolated from cultures of Corynebacterium diphtheriae strain C7 (β197). The saccharides in the vaccine are prepared from purified polysaccharides that are chemically activated then conjugated to the protein carrier CRM197 to form the glycoconjugate.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Bordetella pertussis pertactin antigen
+2. Groups:  Approved
+3. Description:  Bordetella pertussis pertactin antigen is a vaccine for the prophylaxis of whooping cough that contains pertactin, a membrane-associated antigen of Bordetella pertussis [1].
+4. Indication:  Not Available

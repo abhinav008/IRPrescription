@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pegnivacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, coronary artery disease, and vascular diseases.
+DrugId:  2
+1. Name:  SR-123781A
+2. Groups:  Investigational
+3. Description:  SR-123781A is a synthetic hexadecasaccharide Factor IIa and Xa antagonist. It is under investigation by Sanofi-Aventis and Organon for the treatment of thrombosis and acute coronary syndromes (ACS).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  3
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  4
+1. Name:  Caplacizumab
+2. Groups:  Investigational
+3. Description:  ALX-0081 is a novel ‘first-in-class’ therapeutic Nanobody®targeting von Willebrand Factor (vWF), which can reduce the risk of thrombosis in patients with acute coronary syndrome. ALX-0081 is intended to prevent arterial thrombosis, without interfering with the desired haemostatis (wound healing) in the patient which results in less bleeding complications.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.
+DrugId:  5
+1. Name:  Regrelor
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, coronary artery disease, thrombosis, and transfusion.
+DrugId:  6
+1. Name:  EP-2104R
+2. Groups:  Investigational
+3. Description:  EP-2104R is an imaging pharmaceutical under development for the detection of blood clots. It is the first targeted high-resolution technique designed to visualize blood clots directly. It is being developed by EPIX Pharmaceuticals, Inc.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.
+DrugId:  7
+1. Name:  Otamixaban
+2. Groups:  Investigational
+3. Description:  Otamixaban is a novel direct Factor Xa (FXa) inhibitor. It is currently being developed by the French pharmaceutical company Sanofi-Aventis as a treatment for acute coronary syndrome.
+4. Indication:  Investigated for use/treatment in thrombosis.
+DrugId:  8
+1. Name:  Argatroban
+2. Groups:  Approved, Investigational
+3. Description:  Argatroban is a direct, selective thrombin inhibitor. The American College of Cardiologists (ACC) recommend using bivalirudin or argatroban in patients who have had, or at risk for, heparin induced thrombocytopenia (HIT) and are undergoing percutaneous coronary intervention. Argatroban is a non-heparin anticoagulant shown to both normalize platelet count in patients with HIT and prevent the formation of thrombi. Parental anticoagulants must be stopped and a baseline activated partial thromboplastin time must be obtained prior to administering argatroban.
+4. Indication:  Argatroban is indicated for prevention and treatment of thrombosis caused by heparin induced thrombocytopenia (HIT). It is also indicated for use in patients with, or at risk for, HIT who are undergoing percutaneous coronary intervention.
+DrugId:  9
+1. Name:  Fondaparinux
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux is under investigation for the treatment of Superficial Vein Thrombosis. Fondaparinux has been investigated for the treatment and prevention of Thromboembolism, Pulmonary Embolism, Thrombosis, Venous, Deep Vein Thrombosis, and Fibrillation, Atrial, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Urokinase
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Low molecular weight form of human urokinase, that consists of an A chain of 2,000 daltons linked by a sulfhydryl bond to a B chain of 30,400 daltons. Recombinant urokinase plasminogen activator
+4. Indication:  Urokinase can be used for the treatment of pulminary embolism, coronary artery thrombosis, IV catheter clearance, and venous and arterial blood clots.
+DrugId:  11
+1. Name:  Cangrelor
+2. Groups:  Approved
+3. Description:  Cangrelor is an intravenous, direct-acting, reversible P2Y12 inhibitor for patients undergoing percutaneous coronary intervention (PCI) who have not been yet treated by oral P2Y12 inhibitors. An advantage Cangrelor provides over oral P2Y12 inhibitors (such as prasugrel, ticagrelor, and clopidogrel) is that it is an active drug not requiring metabolic conversion therefore providing a rapid onset and offset of action. Cangrelor was approved by the FDA in June 2015 for intravenous application.
+4. Indication:  For use as an adjunct to percutaneous coronary intervention (PCI) for reducing the risk of periprocedural myocardial infarction (MI), repeat coronary revascularization, and stent thrombosis (ST) in patients in who have not been treated with a P2Y12 platelet inhibitor and are not being given a glycoprotein IIb/IIIa inhibitor.
+DrugId:  12
+1. Name:  Anisindione
+2. Groups:  Approved
+3. Description:  Anisindione is a synthetic anticoagulant and an indanedione derivative. It prevents the formation of active procoagulation factors II, VII, IX, and X, as well as the anticoagulant proteins C and S, in the liver by inhibiting the vitamin K-mediated gamma-carboxylation of precursor proteins.
+4. Indication:  For the prophylaxis and treatment of venous thrombosis and its extension, the treatment of atrial fibrillation with embolization, the prophylaxis and treatment of pulmonary embolism, and as an adjunct in the treatment of coronary occlusion.
+DrugId:  13
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  14
+1. Name:  Certoparin
+2. Groups:  Approved, Investigational
+3. Description:  Certoparin is a low molecular weight heparin, primarily active against factor Xa. Like other low molecular weight heparins, it is used to prevent deep venous thrombosis.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  15
+1. Name:  Dipyridamole
+2. Groups:  Approved
+3. Description:  A phosphodiesterase inhibitor that blocks uptake and metabolism of adenosine by erythrocytes and vascular endothelial cells. Dipyridamole also potentiates the antiaggregating action of prostacyclin. (From AMA Drug Evaluations Annual, 1994, p752)
+4. Indication:  For as an adjunct to coumarin anticoagulants in the prevention of postoperative thromboembolic complications of cardiac valve replacement and also used in prevention of angina.
+DrugId:  16
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  17
+1. Name:  Bivalirudin
+2. Groups:  Approved, Investigational
+3. Description:  Bivalirudin is a synthetic 20 residue peptide (thrombin inhibitor) which reversibly inhibits thrombin. Once bound to the active site, thrombin cannot activate fibrinogen into fibrin, the crucial step in the formation of thrombus. It is administered intravenously. Because it can cause blood stagnation, it is important to monitor changes in hematocrit, activated partial thromboplastin time, international normalized ratio and blood pressure.
+4. Indication:  For treatment of heparin-induced thrombocytopenia and for the prevention of thrombosis. Bivalirudin is indicated for use in patients undergoing percutaneous coronary intervention (PCI), in patients at moderate to high risk acute coronary syndromes due to unstable angina or non-ST segment elevation in whom a PCI is planned.
+DrugId:  18
+1. Name:  Fondaparinux sodium
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux (Arixtra) is a synthetic pentasaccharide anticoagulant. Apart from the O-methyl group at the reducing end of the molecule, the identity and sequence of the five monomeric sugar units contained in fondaparinux is identical to a sequence of five monomeric sugar units that can be isolated after either chemical or enzymatic cleavage of the polymeric glycosaminoglycan heparin and heparan sulfate (HS). This monomeric sequence in heparin and HS is thought to form the high affinity binding site for the natural anti-coagulant factor, antithrombin III (ATIII). Binding of heparin/HS to ATIII has been shown to increase the anti-coagulant activity of antithrombin III 1000-fold. Fondaparinux potentiates the neutralizing action of ATIII on activated Factor X 300-fold. Fondaparinux may be used: to prevent venous thromboembolism in patients who have undergone orthopedic surgery of the lower limbs (e.g. hip fracture, hip replacement and knee surgery); to prevent VTE in patients undergoing abdominal surgery who are are at high risk of thromboembolic complications; in the treatment of deep vein thrombosis (DVT) and pumonary embolism (PE); in the management of unstable angina (UA) and non-ST segment elevation myocardial infarction (NSTEMI); and in the management of ST segment elevation myocardial infarction (STEMI).
+4. Indication:  Approved for: (1) prophylaxis of VTE for up to one month post surgery in patients undergoing orthopedic surgery of the lower limbs such as hip fracture, hip replacement and knee surgery; (2) prophylaxis of VTE patients undergoing abdominal surgery who are at high risk of thromboembolic complications (e.g. patients undergoing abdominal cancer surgery); (3) treatment of acute DVT and PE; (4) management of UA and NSTEMI for the prevention of death and subsequent myocardial infarction (MI); and (5) management of STEMI for the prevention of death and myocardial reinfarction in patients who are managed with thrombolytics or who are initially to receive no form of reperfusion therapy. Fondaparinux should not be used as the sole anticoagulant during percutaneous coronary intervention (PCI) due to an increased risk of guiding catheter thrombosis. 
+DrugId:  19
+1. Name:  AZD-9684
+2. Groups:  Investigational
+3. Description:  AZD-9684 is the first member of a new anti-thrombotic class (CPU inhibitors). It is being developed by AstraZeneca.
+4. Indication:  Investigated for use/treatment in thrombosis.
+DrugId:  20
+1. Name:  Amediplase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in myocardial infarction and thrombosis.
+DrugId:  21
+1. Name:  LJP 1082
+2. Groups:  Investigational
+3. Description:  LJP 1082 is a Toleragen that is designed to shut down the B cells that produce antibodies to ß2 GP1. LJP 1082 is undergoing trial for for the treatment of stroke, deep-vein thrombosis and other conditions associated with antibody-mediated thrombosis. Antibody-mediated thrombosis, also called antiphospholipid syndrome (APS), is a blood clotting disorder. Patients with high levels of anticardiolipin antibodies (ACA) have an increased risk of stroke, heart attack, deep vein thrombosis, and recurrent fetal loss. The target of the LJP 1082's clot-promoting antibodies is a small region on a key blood protein called beta 2-glycoprotein I. To date, our scientists have shown that approximately 90% of patients studied with antibody-mediated thrombosis have antibodies that bind to this region.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, strokes, and thrombosis.
+DrugId:  22
+1. Name:  APD791
+2. Groups:  Investigational
+3. Description:  APD791 is an oral anti-thrombotic drug candidate being evaluated in a Phase 1 clinical trial by Arena. APD791 is intended to lower the risk of arterial thrombosis by reducing the amplification of platelet aggregation, arterial constriction and intimal hyperplasia mediated by serotonin.
+4. Indication:  For the treatment and prophylaxis of arterial thrombosis.
+DrugId:  23
+1. Name:  Idraparinux
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, venous thromboembolism, strokes, heart disease, and atrial fibrillation.
+DrugId:  24
+1. Name:  Parnaparin
+2. Groups:  Approved, Investigational
+3. Description:  Parnaparin is an antithrombotic and belongs to the group of low molecular weight heparins.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  25
+1. Name:  Alferminogene Tadenovec
+2. Groups:  Investigational
+3. Description:  Alferminogene Tadenovec is Cardium’s lead product candidate, is being developed for the potential treatment of myocardial ischemia that gives rise to angina symptoms associated with coronary heart disease. Alferminogene tadenovec represents a new therapeutic class of biologics designed to promote angiogenesis and thereby improve blood flow following a one-time intracoronary administration from a standard cardiac infusion catheter.
+4. Indication:  Investigated for use/treatment in angina, coronary artery disease, and heart disease.

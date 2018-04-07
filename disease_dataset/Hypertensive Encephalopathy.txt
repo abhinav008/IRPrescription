@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lactulose
+2. Groups:  Approved
+3. Description:  A synthetic disaccharide used in the treatment of constipation and hepatic encephalopathy. It has also been used in the diagnosis of gastrointestinal disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p887)
+4. Indication:  For the treatment of constipation and hepatic encephalopathy.
+DrugId:  2
+1. Name:  Cryptenamine
+2. Groups:  Approved
+3. Description:  Cryptenamine is a mixture of closely related hypotensive alkaloids from Veratrum album (Liliaceae). It has been used in the treatment of hypertension but has largely been replaced by drugs with fewer adverse effects. Cryptenamine has a marked and re-producible depressor effect when given intravenously to hypertensive patients, however the mechanism of action is not known.
+4. Indication:  For the treatment of hypertension.
+DrugId:  3
+1. Name:  Trimethaphan
+2. Groups:  Approved, Investigational
+3. Description:  A nicotinic antagonist that has been used as a ganglionic blocker in hypertension, as an adjunct to anesthesia, and to induce hypotension during surgery. [PubChem]
+4. Indication:  For the controlled reduction of blood pressure during surgery and in the treatment of hypertensive emergencies.
+DrugId:  4
+1. Name:  Diazoxide
+2. Groups:  Approved
+3. Description:  A benzothiadiazine derivative that is a peripheral vasodilator used for hypertensive emergencies. It lacks diuretic effect, apparently because it lacks a sulfonamide group. [PubChem]
+4. Indication:  Used parentally to treat hypertensive emergencies. Also used to treat hypoglycemia secondary to insulinoma.
+DrugId:  5
+1. Name:  Tyramine
+2. Groups:  Investigational, Nutraceutical
+3. Description:  Tyramine (4-hydroxyphenethylamine; para-tyramine, mydrial or uteramin) is a naturally occurring monoamine compound and trace amine derived from the amino acid tyrosine.[1] Tyramine acts as a catecholamine releasing agent. Notably, it is unable to cross the blood-brain barrier, resulting in only nonpsychoactive peripheral sympathomimetic effects. A hypertensive crisis can result, however, from ingestion of tyramine-rich foods in conjunction with monoamine oxidase inhibitors (MAOIs).
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Mebutamate
+2. Groups:  Approved
+3. Description:  Mebutamate is a sedative and anxiolytic drug with anti-hypertensive (blood pressure lowering) effects. It has effects comparable to those of barbiturates such as secobarbital, but is only around 1/3rd the potency of secobarbital as a sedative. Side effects include dizziness and headaches.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Cyclopenthiazide
+2. Groups:  Experimental
+3. Description:  Cyclopenthiazide is a thiazide diuretic with antihypertensive properties. In a double blind, randomized crossover study, cyclopenthiazide was effective in reducing diastolic blood pressure in mildly hypertensive non-insulin dependent diabetic patients [2]. It is a positive allosteric modulator at AMPA-A receptors [3].
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Phenylacetic acid
+2. Groups:  Approved
+3. Description:  Phenylacetic acid is an organic compound containing a phenyl functional group and a carboxylic acid functional group. It is a white solid with a disagreeable odor. Because it is used in the illicit production of phenylacetone (used in the manufacture of substituted amphetamines), it is subject to controls in countries including the United States and China.
+4. Indication:  For use as adjunctive therapy for the treatment of acute hyperammonemia and associated encephalopathy in patients with deficiencies in enzymes of the urea cycle.
+DrugId:  9
+1. Name:  Nitroprusside
+2. Groups:  Approved, Investigational
+3. Description:  Nitroprusside serves as a source of nitric oxide, a potent peripheral vasodilator that affects both arterioles and venules (venules more than arterioles). Nitroprusside is often administered intravenously to patients who are experiencing a hypertensive emergency. [Wikipedia]
+4. Indication:  For immediate reduction of blood pressure of patients in hypertensive crises, reduce bleeding during surgery, and for the treatment of acute congestive heart failure
+DrugId:  10
+1. Name:  Lofexidine
+2. Groups:  Approved, Investigational
+3. Description:  Lofexidine is an alpha2-adrenergic receptor agonist. It can be used as a short acting anti-hypertensive, but is mostly used to help relieve symptoms of heroin or opiate withdrawal in opiate dependency. It is approved in the United Kingdom, but is still undergoing clinical trials in the United States.
+4. Indication:  Investigated for use/treatment in addictions and substance abuse.
+DrugId:  11
+1. Name:  Pargyline
+2. Groups:  Approved
+3. Description:  A monoamine oxidase inhibitor with antihypertensive properties. [PubChem]
+4. Indication:  For the treatment of moderate to severe hypertension.
+DrugId:  12
+1. Name:  Fludiazepam
+2. Groups:  Approved, Illicit
+3. Description:  Fludiazepam is a drug which is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. It is a scheduled drug in the U.S., but is approved for use in Japan.
+4. Indication:  Used for the short-term treatment of anxiety disorders.
+DrugId:  13
+1. Name:  Chlormezanone
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  A non-benzodiazepine that is used in the management of anxiety. It has been suggested for use in the treatment of muscle spasm. [PubChem]
+4. Indication:  Used in the management of anxiety and in the treatment of muscle spasm.
+DrugId:  14
+1. Name:  Pentolinium
+2. Groups:  Approved
+3. Description:  A nicotinic antagonist that has been used as a ganglionic blocking agent in hypertension. [PubChem]
+4. Indication:  Used to produce controlled hypotension during surgical procedures and in hypertensive crises.
+DrugId:  15
+1. Name:  Mecamylamine
+2. Groups:  Approved, Investigational
+3. Description:  A nicotinic antagonist that is well absorbed from the gastrointestinal tract and crosses the blood-brain barrier. Mecamylamine has been used as a ganglionic blocker in treating hypertension, but, like most ganglionic blockers, is more often used now as a research tool. [PubChem]
+4. Indication:  For the treatment of moderately severe to severe essential hypertension and in uncomplicated cases of malignant hypertension
+DrugId:  16
+1. Name:  Echothiophate
+2. Groups:  Approved
+3. Description:  A potent, long-acting irreversible cholinesterase inhibitor used as an ocular hypertensive in the treatment of glaucoma. Occasionally used for accomodative esotropia.
+4. Indication:  For use in the treatment of subacute or chronic angle-closure glaucoma after iridectomy or where surgery is refused or contraindicated.
+DrugId:  17
+1. Name:  Fimasartan
+2. Groups:  Approved, Investigational
+3. Description:  Fimasartan is a non-peptide angiotensin II receptor antagonist (ARB) used for the treatment of hypertension and heart failure. Concurrent administration of fimasartan with diuretic hydrochlorothiazide has shown to be safe in clinical trials. Fimasartan was approved for use in South Korea in September 9th, 2010 and is available under the brand name Kanarb through Boryung Pharmaceuticals, who are presently seeking worldwide partnership.
+4. Indication:  Used for the treatment of hypertension and heart failure [1].
+DrugId:  18
+1. Name:  Rifaximin
+2. Groups:  Approved, Investigational
+3. Description:  Rifaximin is a semisynthetic, rifamycin-based non-systemic antibiotic, meaning that the drug will not pass the gastrointestinal wall into the circulation as is common for other types of orally administered antibiotics. It has multiple indications and is used in treatment of traveller's diarrhea caused by E. coli; reduction in risk of overt hepatic encephalopathy recurrence; as well as diarrhea-predominant irritable bowel syndrome (IBS-D) in adult women and men. It is marketed under the brand name Xifaxan by Salix Pharmaceuticals.
+4. Indication:  Rifaximin has multiple indications by the FDA: for the treatment of patients (≥12 years of age) with traveller's diarrhea caused by noninvasive strains of Escherichia coli; for the reduction of overt hepatic encephalopathy recurrence in patients ≥18 years of age; and in May 2015 it was approved for irritable bowel syndrome with diarrhea (IBS-D) treatment in adult men and women. 
+DrugId:  19
+1. Name:  Edetic Acid
+2. Groups:  Approved, Vet approved
+3. Description:  A chelating agent (chelating agents) that sequesters a variety of polyvalent cations. It is used in pharmaceutical manufacturing and as a food additive. [PubChem]
+4. Indication:  For the reduction of blood levels and depot stores of lead in lead poisoning (acute and chronic) and lead encephalopathy, in both pediatric populations and adults.
+DrugId:  20
+1. Name:  Papaverine
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid found in opium but not closely related to the other opium alkaloids in its structure or pharmacological actions. It is a direct-acting smooth muscle relaxant used in the treatment of impotence and as a vasodilator, especially for cerebral vasodilation. The mechanism of its pharmacological actions is not clear, but it apparently can inhibit phosphodiesterases and it may have direct actions on calcium channels. [PubChem]
+4. Indication:  For the treatment of impotence and vasospasms.
+DrugId:  21
+1. Name:  Benidipine
+2. Groups:  Approved, Investigational
+3. Description:  Benidipine has the formula 1,4-dihydro-2,6-dimethyl-4-(3-nitrophenyl)-3,5-pyridine-dicarboxylic acid methyl 1-(phenylmethyl)-3-piperidinyl ester hydrochloride. It is a synthetic dihydropyridine derivative that has anti-hypertensive and anti-anginal actions.[1] It was originated in Japan by Kyowa Hakko, it is submitted for FDA approval and it is currently available in some Asian countries like India and Japan.[4, 5]
+4. Indication:  Benidipine is a potent and long-lasting drug indicated for the treatment of cardiovascular diseases such as hypertension, renoparenchymal hypertension and angina pectoris.[2]
+DrugId:  22
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  23
+1. Name:  Polythiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p826)
+4. Indication:  Polythiazide is a thiazide diuretic used to decrease edema and decrease blood pressure.
+DrugId:  24
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  25
+1. Name:  Chromic chloride
+2. Groups:  Approved
+3. Description:  Chromic chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).

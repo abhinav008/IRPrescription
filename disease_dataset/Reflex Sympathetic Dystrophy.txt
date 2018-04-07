@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Guanadrel
+2. Groups:  Approved
+3. Description:  Guanadrel is a postganglionic adrenergic blocking agent. Uptake of guanadrel and storage in sympathetic neurons occurs via the norepinephrine pump or transporter.
+4. Indication:  Used to treat and control hypertension.
+DrugId:  2
+1. Name:  Amibegron
+2. Groups:  Investigational
+3. Description:  Amibegron is an agonist for atypical beta3-adrenoceptors which inhibits intestinal motility.
+4. Indication:  Investigated for use/treatment in depression, irritable bowel syndrome (IBS), and obesity.
+DrugId:  3
+1. Name:  Debrisoquin
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic neuron-blocking drug similar in effects to guanethidine. It is also noteworthy in being a substrate for a polymorphic cytochrome P-450 enzyme. Persons with certain isoforms of this enzyme are unable to properly metabolize this and many other clinically important drugs. They are commonly referred to as having a debrisoquin 4-hydroxylase polymorphism. [PubChem]
+4. Indication:  For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.
+DrugId:  4
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  5
+1. Name:  MYO-029
+2. Groups:  Investigational
+3. Description:  MYO-029 is a human anti-GDF-8 monoclonal antibody, which is being developed to treat muscle-wasting diseases including muscular dystrophy and age-related sarcopenia. 
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  6
+1. Name:  Guanethidine
+2. Groups:  Approved
+3. Description:  An antihypertensive agent that acts by inhibiting selectively transmission in post-ganglionic adrenergic nerves. It is believed to act mainly by preventing the release of norepinephrine at nerve endings and causes depletion of norepinephrine in peripheral sympathetic nerve terminals as well as in tissues. [PubChem]
+4. Indication:  For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.
+DrugId:  7
+1. Name:  QR-334
+2. Groups:  Investigational
+3. Description:  QR-334 is under investigation for the treatment of sialorrhea. Sialorrhea is an excess secretion of saliva produced by the salivary glands, resulting in drooling. No pharmaceutical interventions currently exist to treat sialorrhea. The symptom is associated with many diseases including Amyotrophic Lateral Sclerosis (ALS), also known as Lou Gehrig’s Disease, Cerebral Palsy, Parkinson's Disease, and Muscular Dystrophy.
+4. Indication:  Investigated for use/treatment in saliva and salivary gland dysfunction (sialorrhea).
+DrugId:  8
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  9
+1. Name:  Hydralazine
+2. Groups:  Approved
+3. Description:  A direct-acting vasodilator that is used as an antihypertensive agent.
+4. Indication:  For the treatment of essential hypertension, alone or as an adjunct. Also for the management of severe hypertension when the drug cannot be given orally or when blood pressure must be lowered immediately, congestive heart failure (in combination with cardiac glycosides and diuretics and/or with isosorbide dinitrate), and hypertension secondary to pre-eclampsia/eclampsia.
+DrugId:  10
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  11
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  12
+1. Name:  L-aminocarnityl-succinyl-leucyl-argininal-diethylacetal
+2. Groups:  Investigational
+3. Description:  C-101, also called Myodur, is developed for the treatment of Duchenne’s muscular dystrophy (DMD) which is a morbid genetic disease that can lead to death in late adolescence due to accelerated skeletal muscle breakdown. C-101 includes a carnitine carrier molecule and a leupeptin analogue, a known calpain inhibitor. Calpain is the primary protease that degrades skeletal muscle.
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  13
+1. Name:  Atenolol
+2. Groups:  Approved
+3. Description:  A cardioselective beta-adrenergic blocker possessing properties and potency similar to propranolol, but without a negative inotropic effect.
+4. Indication:  For the management of hypertention and long-term management of patients with angina pectoris
+DrugId:  14
+1. Name:  Ezutromid
+2. Groups:  Investigational
+3. Description:  Ezutromid has been investigated for the treatment of Muscular Dystrophy, Duchenne.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Azelnidipine
+2. Groups:  Approved, Investigational
+3. Description:  Azelnidipine is a dihydropyridine calcium channel blocker. It is sold in Japan by Daiichi-Sankyo pharmaceuticals, Inc. Unlike nicardipine, it has a gradual onset and has a long-lasting hypotensive effect, with minimal increase in heart rate [3].It is currently being studied for post-ischemic stroke management [4].
+4. Indication:  For the treatment of hypertension.
+DrugId:  16
+1. Name:  Rimeporide
+2. Groups:  Investigational
+3. Description:  Rimeporide has been used in trials studying the treatment of Muscular Dystrophy, Duchenne.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Quinapril
+2. Groups:  Approved, Investigational
+3. Description:  Quinapril is a prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to quinaprilat (quinapril diacid) following oral administration. Quinaprilat is a competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Quinapril may be used to treat essential hypertension and congestive heart failure.
+4. Indication:  For the treatment of hypertension and as adjunct therapy in the treatment of congestive heart failure. May also be used to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy. 
+DrugId:  18
+1. Name:  Fosinopril
+2. Groups:  Approved
+3. Description:  Fosinopril is a phosphinic acid-containing ester prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is rapidly hydrolyzed to fosinoprilat, its principle active metabolite. Fosinoprilat inhibits ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Fosinopril may be used to treat mild to moderate hypertension, as an adjunct in the treatment of congestive heart failure, and to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy.
+4. Indication:  For treating mild to moderate hypertension, use as an adjunct in treating congestive heart failure, and may be used to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy. 
+DrugId:  19
+1. Name:  Enalapril
+2. Groups:  Approved, Vet approved
+3. Description:  Enalapril is a prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is rapidly metabolized in the liver to enalaprilat following oral administration. Enalaprilat is a potent, competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Enalapril may be used to treat essential or renovascular hypertension and symptomatic congestive heart failure.
+4. Indication:  For the treatment of essential or renovascular hypertension and symptomatic congestive heart failure. It may be used alone or in combination with thiazide diuretics.
+DrugId:  20
+1. Name:  Perindopril
+2. Groups:  Approved
+3. Description:  Perindopril is a nonsulfhydryl prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is rapidly metabolized in the liver to perindoprilat, its active metabolite, following oral administration. Perindoprilat is a potent, competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Perindopril may be used to treat mild to moderate essential hypertension, mild to moderate congestive heart failure, and to reduce the cardiovascular risk of individuals with hypertension or post-myocardial infarction and stable coronary disease. 
+4. Indication:  For the treatment of mild to moderate essential hypertension, mild to moderate congestive heart failure, and to reduce the cardiovascular risk of individuals with hypertension or post-myocardial infarction and stable coronary disease. 
+DrugId:  21
+1. Name:  Givinostat
+2. Groups:  Investigational
+3. Description:  Givinostat has been used in trials studying the treatment of Polycythemia Vera, Juvenile Idiopathic Arthritis, Duchenne Muscular Dystrophy (DMD), Chronic Myeloproliferative Neoplasms, and Polyarticular Course Juvenile Idiopathic Arthritis.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Omigapil
+2. Groups:  Investigational
+3. Description:  Omigapil has been used in trials studying the treatment of Congenital Muscular Dystrophy.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Trehalose
+2. Groups:  Investigational
+3. Description:  Cabaletta has been used in trials studying the treatment of Oculopharyngeal Muscular Dystrophy.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Trandolapril
+2. Groups:  Approved
+3. Description:  Trandolapril is a non-sulhydryl prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to its biologically active diacid form, trandolaprilat, in the liver. Trandolaprilat inhibits ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Trandolapril may be used to treat mild to moderate hypertension, to improve survival following myocardial infarction in clinically stable patients with left ventricular dysfunction, as an adjunct treatment for congestive heart failure, and to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy. 
+4. Indication:  For the treatment of mild to moderate hypertension, as an adjunct in the treatment of congestive heart failure (CHF), to improve survival following myocardial infarction (MI) in individuals who are hemodynamically stable and demonstrate symptoms of left ventricular systolic dysfunction or signs of CHF within a few days following acute MI, and to slow progression of renal disease in hypertensive patients with diabetes mellitus and microalbuminuria or overt nephropathy. 
+DrugId:  25
+1. Name:  Captopril
+2. Groups:  Approved
+3. Description:  Captopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Captopril may be used in the treatment of hypertension. 
+4. Indication:  For the treatment of essential or renovascular hypertension (usually administered with other drugs, particularly thiazide diuretics). May be used to treat congestive heart failure in combination with other drugs (e.g. cardiac glycosides, diuretics, β-adrenergic blockers). May improve survival in patients with left ventricular dysfunction following myocardial infarction. May be used to treat nephropathy, including diabetic nephropathy. 

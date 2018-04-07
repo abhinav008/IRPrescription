@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  rhMBL
+2. Groups:  Investigational
+3. Description:  rhMBL is a protein therapeutic being developed by Enzon for the prevention and treatment of severe infections in individuals with low levels of Mannose-Binding Lectin (MBL). Over 10 percent of the general population is estimated to be MBL-deficient. Natural MBL has an oligomeric structure (400-700 kDa), built of subunits that contain three identical peptide chains of 32 kDa each.Although MBL can form several oligomeric forms, there are indications that dimers and trimers are not biologically active and at least a tetramer form is needed for activation of complement.
+4. Indication:  Investigated for use/treatment in immunodeficiency and infectious and parasitic disease (unspecified).
+DrugId:  2
+1. Name:  Metreleptin
+2. Groups:  Approved
+3. Description:  Metreleptin, a recombinant analog of the human hormone leptin, is an orphan drug used to treat complications of leptin deficiency in people with congenital or acquired lipodystrophy. Affecting less than 500 people worldwide, lipodystrophy is characterized by a lack of adipose tissue, fat deposition in the muscles and liver, and metabolic complications such as hypertriglyceridemia, insulin resistance, diabetes mellitus, and fatty liver disease. These metabolic abnormalities are often aggravated by excessive food intake, which is further aggravated by leptin deficiency, a protein secreted by adipose tissue. Administration of Metreleptin results in improvement of metabolic symptoms including improvements in insulin resistance, reduced HbA1c and fasting glucose, reduced triglycerides, and reductions in food intake. Metreleptin is produced in E. coli and differs from native human leptin by the addition of a methionine residue at its amino terminus. It is administered as a once daily subcutaneous injection. On Feb. 24, 2014, Metreleptin was approved by the FDA for the treatment of complications of leptin deficiency, in addition to diet, in patients with congenital generalized or acquired generalized lipodystrophy. Metreleptin is marketed under the brand Myalept® by Aegerion Pharmaceuticals, Inc.
+4. Indication:  Metreleptin is indicated as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy.
+DrugId:  3
+1. Name:  Tesidolumab
+2. Groups:  Investigational
+3. Description:  Tesidolumab has been used in trials studying the treatment of Geographic Atrophy, Non-infectious Panuveitis, Exudative Macular Degeneration, Non-infectious Posterior Uveitis, and Age-related Macular Degeneration, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Panitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Panitumumab (ABX-EGF) is a recombinant human IgG2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (EGFR). This drug is an antineoplastic agent.
+4. Indication:  For the treatment of EGFR-expressing, metastatic colorectal carcinoma that is refractory to fluoropyrimidine-, oxaliplatin-, and irinotecan- containing chemotherapy regimens.
+DrugId:  5
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  6
+1. Name:  AVI-4020
+2. Groups:  Investigational
+3. Description:  AVI-4020 is a neugene antisense drug candidate for the treatment of patients with acute West Nile virus disease who have serious neurological impairment (WNV neuroinvasive disease).
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.
+DrugId:  7
+1. Name:  BTA798
+2. Groups:  Investigational
+3. Description:  BTA798 is an antiviral for the treatment of HRV, the common cold virus, known to cause significant clinical complications in sufferers of Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  8
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  9
+1. Name:  Riamet
+2. Groups:  Approved, Investigational
+3. Description:  Riamet has been investigated for the treatment of Malaria, Malaria, Falciparum, Malaria in Pregnancy, Uncomplicated Malaria, and Uncomplicated Knowlesi Malaria.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Follitropin
+2. Groups:  Approved
+3. Description:  Follitropin is a human follicle stimulating hormone (FSH) preparation of recombinant DNA origin, which consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Follitropin beta is produced in genetically engineered Chinese hamster cell lines (CHO). The nomenclature “beta” differentiates it from another recombinant human FSH product that was marketed earlier as follitropin alpha. Follitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF). Numerous physio-chemical tests and bioassays indicate that follitropin beta and follitropin alpha are indistinguishable. However, a more recent study showed there is may be a slight clinical difference, with the alpha form tending towards a higher pregnancy rate and the beta form tending towards a lower pregnancy rate, but with significantly higher estradiol (E2) levels. Structural analysis shows that the amino acid sequence of follitropin beta is identical to that of natural human follicle stimulating hormone (FSH). Further, the ogliosaccharide side chains are very similar, but not completely identical to that of natural FSH. However, these small differences do not affect the bioactivity compared to natural FSH.
+4. Indication:  In women having been diagnosed with primary ovarian failure, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. In men with hypogonadotrophic hypogonadism, it is used to induce spermatogenesis. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+DrugId:  11
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  12
+1. Name:  Asvasiran
+2. Groups:  Investigational
+3. Description:  Asvasiran is an siRNA that targets the respiratory syncytial virus (RSV) N gene and inhibits viral replication. It has the potential to treat or prevent RSV infection.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.
+DrugId:  13
+1. Name:  Quinagolide
+2. Groups:  Approved, Investigational
+3. Description:  Quinagolide is a non-ergot-derived selective dopamine D2 receptor agonist used for the treatment of elevated levels of prolactin or hyperprolactinaemia. Hyperprolalctinaemia is associated with gonadal dysfunction, including infertility and reduced libido, as well as long-term complications such as osteoporosis [1]. Newer dopamine receptor agonists such as quinagolide and Cabergoline are shown to effectively inhibit prolactin secretion with improved efficacy over Bromocriptine. These drugs are effective in patients who are intolerant or resistant to Bromocriptine. Quinagolide exists as a racemate and its relevant clinical activity is mediated predominantly by the (-) enantiomer. It is typically present in the hydrochloride salt form and is marketed as oral tablets under the brand name Norprolac contained as a racemate. Quinagolide is currently available in several countries including Canada, but not approved for treatment in the United States.
+4. Indication:  Indicated for the treatment of hyperprolactinemia (idiopathic or originating from a prolactin-secreting pituitary microadenoma or macroadenoma).
+DrugId:  14
+1. Name:  Serelaxin
+2. Groups:  Investigational
+3. Description:  Recombinant human relaxin is a hormone produced during pregnancy that facilitates the birth process by causing a softening and lengthening of the cervix and the pubic symphysis (the place where the pubic bones come together).It is a heterodimer protein secreted by the corpus luteum and placenta during pregnancy.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, congestive heart failure, infertility, peripheral vascular disease, and scleroderma.
+DrugId:  15
+1. Name:  Caplacizumab
+2. Groups:  Investigational
+3. Description:  ALX-0081 is a novel ‘first-in-class’ therapeutic Nanobody®targeting von Willebrand Factor (vWF), which can reduce the risk of thrombosis in patients with acute coronary syndrome. ALX-0081 is intended to prevent arterial thrombosis, without interfering with the desired haemostatis (wound healing) in the patient which results in less bleeding complications.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.
+DrugId:  16
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  17
+1. Name:  MM-093
+2. Groups:  Investigational
+3. Description:  MM-093 is a recombinant version of human alpha-fetoprotein (hAFP), an immunomodulatory serum protein normally produced at very high levels by the fetus and present in low levels in the blood of adults and children. Research on AFP suggests that it may play a role in modulating the immune system of the mother in order to protect the developing fetus during pregnancy. The presence of hAFP in the pregnant mother’s blood has long been associated with remission of many autoimmune diseases, including rheumatoid arthritis, psoriasis and multiple sclerosis, during the third trimester of pregnancy. Current studies are assessing MM-093’s potential to improve the treatment of autoimmune disease.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, psoriasis and psoriatic disorders, and rheumatoid arthritis.
+DrugId:  18
+1. Name:  Pafuramidine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in pneumonia, trypanosomiasis, malaria, HIV infection, and infectious and parasitic disease (unspecified).
+DrugId:  19
+1. Name:  Recombinant alpha 1-antitrypsin
+2. Groups:  Investigational
+3. Description:  Alpha 1-antitrypsin is a glycoprotein primarily produced by hepatocytes, and to a lesser extent, immune system cells. Recombinant alpha 1-antitrypsin (rAAT) is produced from yeast, which unlike commercially available forms of plasma-derived AAT, eliminates the risk associated with blood-borne infectious agents and allows for a increased manufacturing. rAAT belongs to a family of structurally-related proteins classified as serine protease inhibitors or SERPINS, which are known to inhibit several proteases including trypsin, cathepsin G, thrombin, tissue kallikrein, as well as neutrophil elastase. The proteinase/antiproteinase balance is believed to be important for maintaining healthy skin. The rAAT topical gel (Dermolastin™) is indicated for patients with atopic dermatitis and psoriasis. The company has indicated that other formulations for gastroenterological and urological indications will also be developed.
+4. Indication:  Investigated for use/treatment in alpha 1 antitrypsin deficiency, atopic dermatitis, and chronic obstructive pulmonary disease (COPD).
+DrugId:  20
+1. Name:  Mannose
+2. Groups:  Investigational
+3. Description:  Mannose is under investigation for the basic science of IUGR and Pregnancy.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Crofelemer
+2. Groups:  Approved
+3. Description:  Crofelemer, previously known as the investigational drug SP-303, is a novel proanthocyanidin purified from the bark latex of the Amazonian Croton tree Croton lechleri. It is marketed under the brand name Fulyzaq and indicated for the symptomatic treatment of non-infectious diarrhea in adult patients with HIV/AIDS who are taking antiretroviral therapy.
+4. Indication:  For the symptomatic treatment of non-infectious diarrhea in adult patients with HIV/AIDS who are taking antiretroviral therapy.
+DrugId:  22
+1. Name:  Reglixane
+2. Groups:  Investigational
+3. Description:  Reglixane, an isoxazolidine-3,5-dione derivative, is being developed by Pfizer for the treatment of diabetes. It is the first non-thiazolidenedione to enter clinical trials.
+4. Indication:  For the treatment of diabetes mellitus type 1 and 2.
+DrugId:  23
+1. Name:  Carbopol 974P
+2. Groups:  Approved, Investigational
+3. Description:  Carbopol 974P is a highly carboxylated polymer composed of lightly cross-linked polyacrylic acid with a broad-spectrum mechanism based on acidification of pathogens. It was under development by ReProtect LLC. It is a gel that may help both block the spread of sexually transmitted diseases and reduce unwanted pregnancies. The compound, known as BufferGel, was in advanced clinical trials for its ability to prevent pregnancy, but was discontinued.
+4. Indication:  Investigated for use/treatment in contraception and HIV prevention.
+DrugId:  24
+1. Name:  Mifepristone
+2. Groups:  Approved, Investigational
+3. Description:  A progestational and glucocorticoid hormone antagonist. Its inhibition of progesterone induces bleeding during the luteal phase and in early pregnancy by releasing endogenous prostaglandins from the endometrium or decidua. As a glucocorticoid receptor antagonist, the drug has been used to treat hypercortisolism in patients with nonpituitary cushing syndrome [PubChem]. The two marketed forms of mifepristone are Mifeprex® (mifepristone 200mg) and Korlym™ (mifepristone 300mg). Currently under investigation for use in psychotic depression (phase 3 trials). 
+4. Indication:  For the medical termination of intrauterine pregnancy through 49 days' pregnancy. Also indicated to control hyperglycemia secondary to hypercortisolism in adult patients with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and are not candidates for surgery or have had unsuccessful surgery.
+DrugId:  25
+1. Name:  Domiphen
+2. Groups:  Approved, Experimental
+3. Description:  Domiphen bromide is a topical antiseptic and a quaternary ammonium compound.
+4. Indication:  Anti-infective (topical), it is used for the treatment of Acute Infectious Dental Diseases and other conditions.

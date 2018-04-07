@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pyrazinamide
+2. Groups:  Approved, Investigational
+3. Description:  A pyrazine that is used therapeutically as an antitubercular agent.
+4. Indication:  For the initial treatment of active tuberculosis in adults and children when combined with other antituberculous agents.
+DrugId:  2
+1. Name:  Ethionamide
+2. Groups:  Approved
+3. Description:  A second-line antitubercular agent that inhibits mycolic acid synthesis. It also may be used for treatment of leprosy. (From Smith and Reynard, Textbook of Pharmacology, 1992, p868)
+4. Indication:  For use in the treatment of pulmonary and extrapulmonary tuberculosis when other antitubercular drugs have failed.
+DrugId:  3
+1. Name:  Delamanid
+2. Groups:  Approved, Investigational
+3. Description:  Delamanid is an anti-tuberculosis agent derived from the nitro-dihydro-imidazooxazole class of compounds that inhibits mycolic acid synthesis of bacterial cell wall [1]. It is used in the treatment of multidrug-resistant and extensively drug-resistant tuberculosis (TB) in a combination regimen. Emergence of multidrug-resistant and extensively drug-resistant tuberculosis creates clinical challenges for patients, as the disease is associated with a higher mortality rate and insufficient therapeutic response to standardized antituberculosis treatments as Isoniazid and Rifampicin. Multidrug-resistant tuberculosis may also require more than 2 years of chemotherapy and second-line therapies with narrow therapeutic index [4]. In a clinical study involving patients with pulmonary multidrug-resistant tuberculosis or extensively drug-resistant tuberculosis, treatment of delamanid in combination with WHO-recommended optimised background treatment regimen was associated with improved treatment outcomes and reduced mortality rate [1]. Spontaneous resistance to delamanid was observed during treatment, where mutation in one of the 5 F420 coenzymes responsible for bioactivation of delamanid contributes to this effect [6]. Delamanid is approved by the EMA and is marketed under the trade name Deltyba as oral tablets. It is marketed by Otsuka Pharmaceutical Co., Ltd (Tokyo, Japan).
+4. Indication:  Indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adult patients when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability [6].
+DrugId:  4
+1. Name:  Rifapentine
+2. Groups:  Approved, Investigational
+3. Description:  Rifapentine is an antibiotic drug used in the treatment of tuberculosis. It inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme.
+4. Indication:  For the treatment of pulmonary tuberculosis.
+DrugId:  5
+1. Name:  Ethambutol
+2. Groups:  Approved
+3. Description:  An antitubercular agent that inhibits the transfer of mycolic acids into the cell wall of the tubercle bacillus. It may also inhibit the synthesis of spermidine in mycobacteria. The action is usually bactericidal, and the drug can penetrate human cell membranes to exert its lethal effect. (From Smith and Reynard, Textbook of Pharmacology, 1992, p863)
+4. Indication:  For use, as an adjunct, in the treatment of pulmonary tuberculosis.
+DrugId:  6
+1. Name:  Isoniazid
+2. Groups:  Approved, Investigational
+3. Description:  Antibacterial agent used primarily as a tuberculostatic. It remains the treatment of choice for tuberculosis. [PubChem]
+4. Indication:  For the treatment of all forms of tuberculosis in which organisms are susceptible.
+DrugId:  7
+1. Name:  Aminosalicylic Acid
+2. Groups:  Approved
+3. Description:  An antitubercular agent often administered in association with isoniazid. The sodium salt of the drug is better tolerated than the free acid.
+4. Indication:  For the treatment of tuberculosis
+DrugId:  8
+1. Name:  Bacillus calmette-guerin substrain danish 1331 live antigen
+2. Groups:  Investigational
+3. Description:  BCG SSI has been used in trials studying Tuberculosis.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Rifampicin
+2. Groups:  Approved
+3. Description:  A semisynthetic antibiotic produced from Streptomyces mediterranei. It has a broad antibacterial spectrum, including activity against several forms of Mycobacterium. In susceptible organisms it inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme. It thus suppresses the initiation of RNA synthesis. Rifampin is bactericidal, and acts on both intracellular and extracellular organisms. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p1160)
+4. Indication:  For the treatment of Tuberculosis and Tuberculosis-related mycobacterial infections.
+DrugId:  10
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  11
+1. Name:  Terizidone
+2. Groups:  Approved, Investigational
+3. Description:  Terizidone has been used in trials studying the treatment of Tuberculosis, HIV Infections, Multidrug Resistant Tuberculosis, and Extensively-drug Resistant Tuberculosis.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Rifabutin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum antibiotic that is being used as prophylaxis against disseminated Mycobacterium avium complex infection in HIV-positive patients. [PubChem]
+4. Indication:  For the prevention of disseminated Mycobacterium avium complex (MAC) disease in patients with advanced HIV infection.
+DrugId:  14
+1. Name:  Bacillus calmette-guerin substrain tice live antigen
+2. Groups:  Approved
+3. Description:  Bacillus calmette-guerin substrain tice live antigen is a vaccine containing attenuated live culture preparation of the Bacillus of Calmette and Guerin (BCG) strain of Mycobacterium bovis for percutaneous use. It is administered to prevent the development of tuberculosis.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  16
+1. Name:  Sutezolid
+2. Groups:  Investigational
+3. Description:  Sutezolid has been used in trials studying the treatment of Tuberculosis.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  5-amino-1,3,4-thiadiazole-2-thiol
+2. Groups:  Investigational
+3. Description:  ATT has been investigated in Pulmonary Tuberculosis.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Viomycin
+2. Groups:  Approved
+3. Description:  Viomycin is a member of the tuberactinomycin family, a group of nonribosomal peptide antibiotics exhibiting anti-tuberculosis properties. The tuberactinomycin family is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis. Viomycin was the first member of the tuberactinomycins to be isolated and identified and was used to treat TB until it was replaced by the less toxic, but structurally related compound, capreomycin. The tuberactinomycins target bacterial ribosomes, binding RNA and disrupting bacterial protein biosynthesis. It is produced by the actinomycete Streptomyces puniceus, that binds to RNA and inhibits prokaryotic protein synthesis and certain forms of RNA splicing. [Wikipedia]
+4. Indication:  Viomycin is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis.
+DrugId:  19
+1. Name:  Faropenem
+2. Groups:  Investigational
+3. Description:  Faropenem has been used in trials studying the treatment of Tuberculosis, Pulmonary Tuberculosis, and Community Acquired Pneumonia.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Bedaquiline
+2. Groups:  Approved
+3. Description:  Bedaquiline is a bactericidal antimycobacterial drug. Chemically it is a diarylquinoline. FDA approved on December 28, 2012. 
+4. Indication:  Bedaquiline is indicated as part of combination therapy in adults (≥ 18 years) with pulmonary multi-drug resistant tuberculosis (MDR-TB). 
+DrugId:  21
+1. Name:  Protionamide
+2. Groups:  Approved, Investigational
+3. Description:  Prothionamide has been used in trials studying the treatment of MDR-TB and HIV Infections.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Amithiozone
+2. Groups:  Investigational
+3. Description:  Amithiozone has been used in trials studying the treatment of Mycobacterium Avium-intracellulare Infection.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Tofacitinib
+2. Groups:  Approved, Investigational
+3. Description:  Tofacitinib is an inhibitor of Janus kinases, a group of intracellular enzymes involved in signalling pathways that affect hematopoiesis and immune cell function. It is approved by the FDA for treatment of moderate to severe rheumatoid arthritis that responds inadequately to methotrexate or in those who are intolerant to methotrexate.Besides rheumatoid arthritis, tofacitinib has also been studied in clinical trials for the prevention of organ transplant rejection, and is currently under investigation for the treatment of psoriasis. Known adverse effects include nausea and headache as well as more serious immunologic and hematological adverse effects. Tofacitinib is marketed under the brand name Xeljanz by Pfizer.
+4. Indication:  For the treatment of moderate to severe rheumatoid arthritis which is resistant or intolerant to methotrexate therapy. It may also be used as an adjunct to methotrexate therapy, or other non-biologic disease-modifying antirheumatic drugs (DMARDS), when methotrexate alone is not sufficient. Tofacitinib has also been investigated as a preventative therapy for kidney transplant rejections, and as a treatment for psoriasis, ulcerative colitis, and ankylosing spondylitis. It is not to be initiated in patients with a history of chronic or recurrent infections, or in the presence of active infection, even if localized, due to reports of serious and sometimes fatal infections (commonly pneumonia, herpes zoster and urinary tract infections). Use of tofacitinib is also discouraged in those who have been, or are likely to be, exposed to TB. An increased likelihood of exposure may be encountered by traveling to certain areas. In addition, tofacitinib is not to be used in patients with severe hepatic impairment, or low hemoglobin (less than 9g/dL). Cautioned is advised when using tofacitinib in patients at risk of gastrointestinal perforation, and in the elderly who are more susceptible to infection. 
+DrugId:  24
+1. Name:  Golotimod
+2. Groups:  Investigational
+3. Description:  SCV-07 (g -D-glutamyl-L-tryptophan) is a novel synthetic dipeptide that acts broadly on the Toll-like receptor pathway. It has been shown to stimulate T-lymphocyte differentiation, macrocytic phagocytosis, and specific immune responses, and enhance IL-2 and INF-g production. Due to this preferential activation of Th1 cytokine production, SCV-07 may show utility in treatment of tuberculosis. It can be administered orally or subcutaneously. In independent studies, treatment of tuberculosis with SCV-07 improved clearance of mycobacteria, improved cavity healing, improvements in immune parameters and reduced symptoms (fever, weakness, sweating, dry cough, productive cough, dyspnea, chest pain, tachycardia) without any adverse local or general effects. SCV-07 has shown efficacy in treating various viral and bacterial infections.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), infectious and parasitic disease (unspecified), and tuberculosis.
+DrugId:  25
+1. Name:  SQ-109
+2. Groups:  Investigational
+3. Description:  SQ-109 is an orally active, small molecule antibiotic for treatment of pulmonary TB. Currently in Phase I clinical trials, SQ-109 could replace one or more drugs in the current first-line TB drug regimen, simplify therapy, and shorten the TB treatment regimen.
+4. Indication:  Investigated for use/treatment in bacterial infection, infectious and parasitic disease (unspecified), and tuberculosis.

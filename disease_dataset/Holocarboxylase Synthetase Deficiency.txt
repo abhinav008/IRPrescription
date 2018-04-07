@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sulfamerazine
+2. Groups:  Approved, Vet approved
+3. Description:  A sulfanilamide that is used as an antibacterial agent. [PubChem]
+4. Indication:  A sulfanilamide that is used as an antibacterial agent. It can be used to treat bronchitis, prostatitis and urinary tract infections.
+DrugId:  2
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  3
+1. Name:  Alanosine
+2. Groups:  Investigational
+3. Description:  An amino acid analogue and antibiotic derived from the bacterium Streptomyces alanosinicus with antimetabolite and potential antineoplastic activities.
+4. Indication:  Investigated for use/treatment in brain cancer and cancer/tumors (unspecified).
+DrugId:  4
+1. Name:  Carglumic Acid
+2. Groups:  Approved
+3. Description:  Carglumic acid is an orphan drug used for the treatment of hyperammonaemia in patients with N-acetylglutamate synthase deficiency. This rare genetic disorder results in elevated blood levels of ammonia, which can eventually cross the blood–brain barrier and cause neurologic problems, cerebral edema, coma, and death. Carglumic acid was approved by the U.S. Food and Drug Administration (FDA) on 18 March 2010.
+4. Indication:  For the treatment of acute and chronic hyperammonaemia in patients with N-acetylglutamate synthase (NAGS) deficiency. This enzyme is an important component of the urea cycle to prevent build up of neurotoxic ammonium in the blood. 
+DrugId:  5
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Levomefolic acid
+2. Groups:  Approved, Investigational
+3. Description:  Levomefolic acid (INN) is the metabolite of folic acid (Vitamin B9) and it is a predominant active form of folate found in foods and in the blood circulation, accounting for 98% of folates in human plasma [8]. It is transported across the membranes including the blood-brain barrier into various tissues where it plays an essential role in the DNA synthesis, cysteine cycle and regulation of homocysteine, where it methylates homocysteine and forms methionine and tetrahydrofolate (THF). Levomefolate is approved as a food additive and is designated a GRAS (generally regarded as safe) compound [13]. It is available commercially as a crystalline form of the calcium salt (Metafolin(R)), which has the stability required for use as a supplement [8]. Supplementation of levomefolic acid is desired over folic acid due to reduced potential for masking vitamin B12 deficiency symptoms.
+4. Indication:  For the treatment and prevention of folate deficiency and for use as an antidote against folic acid antagonists. Contained in oral contraceptives to reduce the risk of neural tube defects arising from folic acid deficiency for pregnant women who conceived during use or shortly after the discontinuation of the product. Being studied for use as a treatment for cardiovascular diseases [7] and adjunct therapy for patients undergoing antidepressant pharmacotherapy [5, 6].
+DrugId:  7
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Leucovorin
+2. Groups:  Approved
+3. Description:  Folinic Acid (also known as 5-formyl tetrahydrofolic acid or leucovorin) is the 5-formyl derivative of tetrahydrofolic acid, a necessary co-factor in the body. Commercially available leucovorin is composed of a 1:1 racemic mixture of the dextrorotary and levorotary isomers, while levoleucovorin contains only the pharmacologically active levo-isomer. In vitro, the levo-isomer has been shown to be rapidly converted to the biologically available methyl-tetrahydrofolate form while the dextro form is slowly excreted by the kidneys. Despite this difference in activity, the two commercially available forms have been shown to be pharmacokinetically identical and may be used interchangeably with limited differences in efficacy or side effects (Kovoor et al, 2009). As folate analogs, leucovorin and levoleucovorin are both used to counteract the toxic effects of folic acid antagonists, such as methotrexate, which act by inhibiting the enzyme dihydrofolate reductase (DHFR). They are indicated for use as rescue therapy following use of high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Injectable forms are also indicated for use in the treatment of megaloblastic anemias due to folic acid deficiency when oral therapy is not feasible and for use in combination with 5-fluorouracil to prolong survival in the palliative treatment of patients with advanced colorectal cancer. Folic acid is an essential B vitamin required by the body for the synthesis of purines, pyrimidines, and methionine before incorporation into DNA or protein. However, in order to function in this role, it must first be reduced by the enzyme dihydrofolate reductase (DHFR) into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF). This important pathway, which is required for de novo synthesis of nucleic acids and amino acids, is disrupted when high-dose methotrexate is used for cancer therapy. As methotrexate functions as a DHFR inhibitor to prevent DNA synthesis in rapidly dividing cells, it also prevents the formation of DHF and THF. This results in a deficiency of coenzymes and a resultant buildup of toxic substances that are responsible for numerous adverse side effects associated with methotrexate therapy. As levoleucovorin and leucovorin are analogs of tetrahydrofolate (THF), they are able to bypass DHFR reduction and act as a cellular replacement for the co-factor THF, thereby preventing these toxic side effects.
+4. Indication:  For the treatment of osteosarcoma (after high dose methotrexate therapy). Used to diminish the toxicity and counteract the effects of impaired methotrexate elimination and of inadvertent overdosages of folic acid antagonists, and to treat megaloblastic anemias due to folic acid deficiency. Also used in combination with 5-fluorouracil to prolong survival in the palliative treatment of patients with advanced colorectal cancer.
+DrugId:  9
+1. Name:  Sulfamethoxazole
+2. Groups:  Approved
+3. Description:  A bacteriostatic antibacterial agent that interferes with folic acid synthesis in susceptible bacteria. Its broad spectrum of activity has been limited by the development of resistance. (From Martindale, The Extra Pharmacopoeia, 30th ed, p208)
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  10
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Ferrous asparto glycinate
+2. Groups:  Approved
+3. Description:  Ferrous asparto glycinate is an iron-amino acid chelate. It is available as a dietary supplement used in the treatment of iron deficiency and iron deficiency anemia.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Levoleucovorin
+2. Groups:  Approved, Investigational
+3. Description:  Levoleucovorin is the enantiomerically active form of Folinic Acid (also known as 5-formyl tetrahydrofolic acid or leucovorin). Commercially available leucovorin is composed of a 1:1 racemic mixture of the dextrorotary and levorotary isomers, while levoleucovorin contains only the pharmacologically active levo-isomer. In vitro, the levo-isomer has been shown to be rapidly converted to the biologically available methyl-tetrahydrofolate form while the dextro form is slowly excreted by the kidneys. Despite this difference in activity, the two commercially available forms have been shown to be pharmacokinetically identical and may be used interchangeably with limited differences in efficacy or side effects (Kovoor et al, 2009). As folate analogs, levoleucovorin and leucovorin are both used to counteract the toxic effects of folic acid antagonists, such as methotrexate, which act by inhibiting the enzyme dihydrofolate reductase (DHFR). They are indicated for use as rescue therapy following use of high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Levoleucovorin, as the product Fusilev (FDA), has an additional indication for use in combination chemotherapy with 5-fluorouracil in the palliative treatment of patients with advanced metastatic colorectal cancer. Folic acid is an essential B vitamin required by the body for the synthesis of purines, pyrimidines, and methionine before incorporation into DNA or protein. However, in order to function in this role, it must first be reduced by the enzyme dihydrofolate reductase (DHFR) into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF). This important pathway, which is required for de novo synthesis of nucleic acids and amino acids, is disrupted when high-dose methotrexate is used for cancer therapy. As methotrexate functions as a DHFR inhibitor to prevent DNA synthesis in rapidly dividing cells, it also prevents the formation of DHF and THF. This results in a deficiency of coenzymes and a resultant buildup of toxic substances that are responsible for numerous adverse side effects of methotrexate therapy. As levoleucovorin and leucovorin are analogs of tetrahydrofolate (THF), they are able to bypass DHFR reduction and act as a cellular replacement for the co-factor THF, thereby preventing these toxic side effects.
+4. Indication:  Levoleucovorin is indicated for use as rescue therapy following high-dose methotrexate in the treatment of osteosarcoma or for diminishing the toxicity associated with inadvertent overdosage of folic acid antagonists. Levoleucovorin, as the product Fusilev (FDA, dosed at one-half the usual dose of racemic d,l-leucovorin), has an additional indication for use in combination chemotherapy with 5-fluorouracil in the palliative treatment of patients with advanced metastatic colorectal cancer (although they should not be mixed in the same infusion as a precipitate may form).
+DrugId:  13
+1. Name:  REP8839
+2. Groups:  Investigational
+3. Description:  REP8839 is a novel methionyl-tRNA synthetase (MetS) inhibitor being developed by Replidyne (GlaxoSmithKline licensed REP8839 to Replidyne in June of 2003).
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms (Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA), and Streptococcus pyogenes).
+DrugId:  14
+1. Name:  Somatorelin
+2. Groups:  Investigational
+3. Description:  Somatorelin has been used in trials studying the treatment of Aging, Elderly, Sleep Disorders, Hormone Deficiency, and Mild Cognitive Impairment.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Interferon alfa-n3
+2. Groups:  Approved, Investigational
+3. Description:  Purified, natural (n is for natural) human interferon alpha proteins (consists of 3 forms or polymorphisms including 2a, 2b and 2c). 166 residues, some are glycosylated (MW range from 16 kD to 27 kD).
+4. Indication:  For the intralesional treatment of refractory or recurring external condylomata acuminata.
+DrugId:  16
+1. Name:  Antithrombin Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Antithrombin Alfa is a recombinant antithrombin , an anticoagulant, that is used for the prevention of thromboembolic events in patients that have hereditary deficiency of antithrombin in high risk situations.
+4. Indication:  Antithrombin alfa is a recombinant antithrombin it is indicated for the prevention of peri-operative and peri-partum thromboembolic events in patients with hereditary deficiency of antithrombin. 
+DrugId:  17
+1. Name:  Interferon beta-1a
+2. Groups:  Approved, Investigational
+3. Description:  Human interferon beta (166 residues), glycosylated, MW=22.5kD. It is produced by mammalian cells (Chinese Hamster Ovary cells) into which the human interferon beta gene has been introduced. The amino acid sequence is identical to that of natural human interferon beta.
+4. Indication:  For treatment of relapsing/remitting multiple sclerosis, also for condyloma acuminatum
+DrugId:  18
+1. Name:  Olipudase alfa
+2. Groups:  Investigational
+3. Description:  Olipudase alfa has been used in trials studying the treatment of Sphingomyelin Lipidosis and Human Acid Sphingomyelinase Deficiency.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Prothrombin
+2. Groups:  Approved
+3. Description:  Prothrombin Complex Concentrate (Human), is indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients receiving vitamin K antagonist therapy. Prothrombin is administered as part of a cocktail containing several coagulation factors.
+DrugId:  20
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  21
+1. Name:  Sulfacytine
+2. Groups:  Approved
+3. Description:  Sulfacytine is a short-acting sulfonamide. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of p-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections.Sulfacytine is a competitive inhibitor of the enzyme dihydropteroate synthetase. It inhibits bacterial synthesis of of dihydrofolic acid by preventing the condensation of the pteridine with para-aminobenzoic acid (PABA), a substrate of the enzyme dihydropteroate synthetase. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.
+4. Indication:  Used orally in the treatment of acute urinary tract infections.
+DrugId:  22
+1. Name:  Interferon alfa-n1
+2. Groups:  Approved, Investigational
+3. Description:  Purified, natural (n is for natural) glycosylated human interferon alpha proteins 166 residues
+4. Indication:  For treatment of venereal or genital warts caused by the Human Papiloma Virus
+DrugId:  23
+1. Name:  Interferon beta-1b
+2. Groups:  Approved
+3. Description:  Human interferon beta (165 residues), cysteine 17 is substituted with serine. Produced in E. coli, no carbohydrates, MW=18.5kD
+4. Indication:  Interferon beta-1b is a drug used for the treatment of relapsing/remitting multiple sclerosis. It has been shown to slow the advance of the disease as well as to decrease the frequency of attacks.
+DrugId:  24
+1. Name:  Tocofersolan
+2. Groups:  Approved
+3. Description:  Tocofersolan is a polyethylene glycol derivative of α-tocopherol and synthetic water-soluble version of vitamin E. Tocofersolan is an oral treatment of vitamin E deficiency due to digestive malabsorption in pediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis. It was approved by the European Medicines Agency (EMA) in June 2009 under the market name Vedrop. Tocofersolan is also used in cosmetics and pharmaceuticals as an antioxidant.
+4. Indication:  Vedrop is indicated in vitamin E deficiency due to digestive malabsorption in paediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis, from birth (full term newborns) up to 18years of age. [EMA]
+DrugId:  25
+1. Name:  Mefenamic acid
+2. Groups:  Approved
+3. Description:  A non-steroidal anti-inflammatory agent with analgesic, anti-inflammatory, and antipyretic properties. It is an inhibitor of cyclooxygenase. [PubChem]
+4. Indication:  For the treatment of rheumatoid arthritis, osteoarthritis, dysmenorrhea, and mild to moderate pain, inflammation, and fever.

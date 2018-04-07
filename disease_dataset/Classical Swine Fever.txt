@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Yellow Fever Vaccine
+2. Groups:  Approved, Investigational
+3. Description:  Yellow Fever vaccine prevents against Yellow Fever, a viral hemorrhagic disease caused by the transmission of a flavivirus through the bite of an infected mosquito. Symptoms of Yellow Fever can range from asymptomatic, to mild flu-like illness, to more severe symptoms such as shock, jaundice, internal bleeding, and organ failure [4]. Interestingly, Yellow Fever got its name from the characteristic yellowing of the skin and eyes that occurs from the development of jaundice when the virus attacks the liver. Although there is supportive treatment available for managing Yellow Fever, there are currently no antivirals developed to specifically treat Yellow Fever. Vaccination with Yellow Fever vaccine is therefore considered to be the most important and effective measure to protect against Yellow Fever, with protective immunity developing within 10 days after vaccination; in two separate clinical trials of Yellow Fever Vaccine, 90% of subjects seroconverted within 10 days after vaccination, and 100% of subjects seroconverted within 14 days [FDA Label]. The World Health Organization no longer recommends the use of a 10-year booster dose following primary immunization, as a single dose is "sufficient to confer life-long immunity against yellow fever disease" [3]. Yellow Fever is most commonly found in the southern hemisphere, in tropical regions of Africa and Central/South America [2]. The World Health Organization recommends routine vaccination in countries where Yellow Fever is endemic, and for travellers going to endemic areas as proof of vaccination is often a requirement at border crossings to prevent international spread of the disease [2, 5].Yellow Fever Vaccine is a subcutaneously administered vaccination for the active immunization and prophylaxis of yellow fever in pediatric patients 9 months of age and older. It is composed of two live, attenuated strains of yellow fever virus, 17D-204 and 17DD, which have been shown to elicit an immune response identical to that induced by wild-type infection [FDA Label]. The FDA recommends vaccination with Yellow Fever Vaccine for persons living in or travelling to endemic areas and for laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus.
+4. Indication:  Yellow Fever Vaccine is indicated for active immunization for the prevention of yellow fever in persons 9 months of age and older in the following categories:Persons Living in or Traveling to Endemic Areas: While the actual risk for contracting yellow fever during travel is probably low, variability of itineraries, behaviors and seasonal incidence of disease make it difficult to predict the actual risk for a given individual living in or traveling to a known endemic or epidemic area. Greater risk is associated with living in or traveling to areas of South America and Africa where yellow fever infection is officially reported at the time of travel and with traveling outside the urban areas of countries that do not officially report the disease but that lie in a yellow fever endemic zone.Persons Travelling Internationally Through Countries with Yellow Fever: Some countries require an individual to have a valid International Certificate of Vaccination or Prophylaxis (ICVP) if the individual has been in countries either known or thought to harbor yellow fever virus. The certificate becomes valid 10 days after vaccination with Yellow Fever Vaccine.Laboratory Personnel: Laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus strains may be at risk of exposure by direct or indirect contact or by aerosols.
+DrugId:  2
+1. Name:  Chlorphenamine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in allergic reactions, hay fever, rhinitis, urticaria, and asthma. It has also been used in veterinary applications. One of the most widely used of the classical antihistaminics, it generally causes less drowsiness and sedation than promethazine. [PubChem]
+4. Indication:  For the treatment of rhinitis, urticaria, allergy, common cold, asthma and hay fever.
+DrugId:  3
+1. Name:  Aviptadil
+2. Groups:  Approved
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Virginiamycin S1
+2. Groups:  Experimental
+3. Description:  One of the components of virginiamycin, a cyclic polypeptide antibiotic complex from streptomyces virginiae, s. Loidensis, s. Mitakaensis, s. Pristina-spiralis, s. Ostreogriseus, and others. It is used to treat infections with gram-positive organisms and as a growth promoter in cattle, swine, and poultry.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Mirococept
+2. Groups:  Investigational
+3. Description:  Mirococept (APT070) is a complement inhibitor currently under development for treatment of rheumatoid arthritis and I/RI. It is a truncated form of the human Complement Receptor 1 (CR1) linked to a unique Prodaptin™ construct that regulates theover-production of complement at the cell surface, which occurs in inflammation. It consists of the first three short consensus domains of human complement receptor 1 (CR1), manufactured in recombinant bacteria and modified with a membrane-targeting amphiphilic peptide based on the naturally occurring membrane-bound myristoyl-electrostatic switch peptide.
+4. Indication:  Investigated for use/treatment in transplant (rejection), kidney disease, and rheumatoid arthritis.
+DrugId:  6
+1. Name:  Tofisopam
+2. Groups:  Approved
+3. Description:  Tofisopam (marketed under brand names Emandaxin and Grandaxin) is a 2,3-benzodiazepine drug which is a benzodiazepine derivative. In contrast to classical 1,4-benzodiazepines, the compound does not bind to the benzodiazepine binding site of the gamma-aminobutyric acid receptor and its psychopharmacological profile differs from such compounds. Although Tofisopam is not approved for sale in North America, it is approved for use in various countries worldwide, including parts of Europe. The D-enantiomer (dextofisopam) is currently in phase II trials in the U.S. for the treatment of irritable bowel syndrome.
+4. Indication:  For the treatment of anxiety and alcohol withdrawal.
+DrugId:  7
+1. Name:  Altretamine
+2. Groups:  Approved
+3. Description:  An alkylating agent proposed as an antineoplastic. It also acts as a chemosterilant for male houseflies and other insects. [PubChem]
+4. Indication:  For use as a single agent in the palliative treatment of patients with persistent or recurrent ovarian cancer following first-line therapy with a cisplatin and/or alkylating agent-based combination.
+DrugId:  8
+1. Name:  Ty800
+2. Groups:  Investigational
+3. Description:  Ty800 is a vaccine designed to offer rapid, oral, single-dose protection against Salmonella typhi, the cause of typhoid fever. The Ty800 vaccine was developed using genetic techniques to delete specific genes known to be essential to the virulence of S. typhi. It is being developed by AVANT Immunotherapeutics, Inc.
+4. Indication:  For the production of immunity to Salmonella typhi, the cause of typhoid fever.
+DrugId:  9
+1. Name:  Salmonella typhi ty21a live antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty21a live antigen is a live attenuated vaccine for oral administration only. It contains the attenuated strain Salmonella typhi Ty21a. The vaccine prevents the development of typhoid fever, an acute, febrile enteric disease caused by Salmonella typhi by inducing a local immune response in the intestinal tract.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Antihemophilic factor, human recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Human recombinant antihemophilic factor (AHF) or Factor VIII, 2332 residues, glycosylated, produced by CHO cells
+4. Indication:  For the treatment of hemophilia A, von Willebrand disease and Factor XIII deficiency.
+DrugId:  11
+1. Name:  Docosanol
+2. Groups:  Approved, Investigational
+3. Description:  Docosanol is a drug used for topical treatment for recurrent herpes simplex labialis episodes (episodes of cold sores or fever blisters). A saturated 22-carbon aliphatic alcohol, docosanol exhibits antiviral activity against many lipid enveloped viruses including herpes simplex virus (HSV). Docosanol inhibits fusion between the plasma membrane and the herpes simplex virus (HSV) envelope, thereby preventing viral entry into cells and subsequent viral replication.
+4. Indication:  For the topical treatment of recurrent oral-facial herpes simplex episodes (cold sores or fever blisters).
+DrugId:  12
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Salmonella typhi ty2 vi polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty2 vi polysaccharide antigen is a vaccine that is administered intramuscularly. It is an active immunization for the prevention of typhoid fever caused by S typhi and is approved for use in persons two years of age or older. The vaccine contains the purified cell surface Vi polysaccharide extracted from Salmonella enterica serovar Typhi, S typhi Ty2 strain. The bacterial culture is inactivated in the medium with the capsular polysaccharides precipated from the solution.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  15
+1. Name:  Mequitazine
+2. Groups:  Approved
+3. Description:  Mequitazine is a histamine H1 antagonist (antihistamine). It competes with histamine for the normal H1-receptor sites on effector cells of the gastrointestinal tract, blood vessels and respiratory tract. It provides effective, temporary relief of sneezing, watery and itchy eyes, and runny nose due to hay fever and other upper respiratory allergies.
+4. Indication:  For the treatment of Hay fever, urticaria (hives) and allergic rhinitis
+DrugId:  16
+1. Name:  Sulpiride
+2. Groups:  Approved, Investigational
+3. Description:  A dopamine D2-receptor antagonist. It has been used therapeutically as an antidepressant, antipsychotic, and as a digestive aid. (From Merck Index, 11th ed)
+4. Indication:  Sulpiride is indicated for the treatment of schizophrenia.
+DrugId:  17
+1. Name:  Genistein
+2. Groups:  Investigational
+3. Description:  An isoflavonoid derived from soy products. It inhibits protein-tyrosine kinase and topoisomerase-II (DNA topoisomerases, type II) activity and is used as an antineoplastic and antitumor agent. Experimentally, it has been shown to induce G2 phase arrest in human and murine cell lines.Additionally, genistein has antihelmintic activity. It has been determined to be the active ingredient in Felmingia vestita, which is a plant traditionally used against worms. It has also been demonstrated to be effective against intestinal parasites such as the common liver fluke, pork trematode and poultry cestode. [Wikipedia] Further, genistein is a phytoestrogen which has selective estrogen receptor modulator properties. It has been investigated in clinical trials as an alternative to classical hormone therapy to help prevent cardiovascular disease in postmenopausal women. [1] Genistein can be found in food sources such as tofu, fava beans, soybeans, kudzu, and lupin. It is also present in certain cell cultures and medicinal plants. [Wikipedia] 
+4. Indication:  Currently Genistein is being studied in clinical trials as a treatment for prostate cancer. 
+DrugId:  18
+1. Name:  Minocycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline analog, having a 7-dimethylamino and lacking the 5 methyl and hydroxyl groups, which is effective against tetracycline-resistant staphylococcus infections. [PubChem]
+4. Indication:  For the treatment of infections caused by susceptible strains of microorganisms, such as Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsial pox and tick fevers caused by Rickettsiae, upper respiratory tract infections caused by Streptococcus pneumoniae and for the treatment of asymptomatic carriers of Neisseria meningitidis.
+DrugId:  19
+1. Name:  Tannic acid
+2. Groups:  Approved
+3. Description:  Tannic acid is a polyphenolic compound. It is a type of the commercially available tannins. It acts as a weak acid. Tannic acid is found in the nutgalls formed by insects on twigs of certain oak trees (Quercus infectoria and other Quercus species). It is removed and used as medicine. In the old days it was used as antidote against different poisons.Nowadays, tannic acid is applied topically for the treatment of cold sores, diaper rash, fever blisters and poison ivy. Tannic acid is also taken by mouth and applied directly for bleeding, chronic diarrhea, dysentery, bloody urine, painful joints, persistent coughs, and cancer.
+4. Indication:  Tannic acid is indicated for cold sores, fever blisters, diaper rash, minor burn or sunburn and prickly heat.Vaginally, tannic acid is used as a douche for leukorrhea. It has been also indicated for sore throat, inflamed tonsils, spongy or receding gums, and acute dermatitis.
+DrugId:  20
+1. Name:  Bromodiphenhydramine
+2. Groups:  Approved
+3. Description:  Bromodiphenhydramine is an ethanolamine antihistamine with antimicrobial property. Bromodiphenhydramine is used in the control of cutaneous allergies. Ethanolamine antihistamines produce marked sedation in most patients
+4. Indication:  For management of symptoms related to hay fever and other types of allergy and used to help bring up phlegm, thin secretions, and make a cough productive.
+DrugId:  21
+1. Name:  Choline magnesium trisalicylate
+2. Groups:  Approved
+3. Description:  Choline magnesium trisalicylate is a non-acetylated salicylate used widely as a nonsteroidal anti-inflammatory drug. Trisalicylate significantly reduces methotrexate renal clearance, displacing methotrexate from protein, increasing the fraction unbound by 28% [1, 2].
+4. Indication:  Choline magnesium trisalicylate is used to reduce pain and inflammation caused by conditions such as arthritis. This medication is also used to treat fever in adults.
+DrugId:  22
+1. Name:  Phenindamine
+2. Groups:  Approved
+3. Description:  Phenindamine is an antihistamine. Phenindamine blocks the effects of the naturally occurring chemical histamine in your body. Antihistamines such as phenindamine appear to compete with histamine for histamine H1- receptor sites on effector cells. The antihistamines antagonize those pharmacological effects of histamine which are mediated through activation of H1- receptor sites and thereby reduce the intensity of allergic reactions and tissue injury response involving histamine release. It is used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.Symptoms of a phenindamine overdose include extreme sleepiness, confusion, weakness, ringing in the ears, blurred vision, large pupils, dry mouth, flushing, fever, shaking, insomnia, hallucinations, and possibly seizures.
+4. Indication:  Used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.
+DrugId:  23
+1. Name:  Trimetrexate
+2. Groups:  Approved, Investigational
+3. Description:  A nonclassical folic acid inhibitor through its inhibition of the enzyme dihydrofolate reductase. It is being tested for efficacy as an antineoplastic agent and as an antiparasitic agent against pneumocystis pneumonia in AIDS patients. Myelosuppression is its dose-limiting toxic effect.
+4. Indication:  For use, with concurrent leucovorin administration (leucovorin protection), as an alternative therapy for the treatment of moderate-to-severe Pneumocystis carinii pneumonia (PCP) in immunocompromised patients, including patients with the acquired immunodeficiency syndrome (AIDS). Also used to treat several types of cancer including colon cancer.
+DrugId:  24
+1. Name:  Antihemophilic factor human
+2. Groups:  Approved
+3. Description:  Antihemophilic factor human, also known as Coagulation Factor VIII or Anti-Hemophilic Factor (AHF), is a non-recombinant, lyophilized concentrate of coagulation factor VIII, an endogenous protein and essential component of the coagulation cascade. Antihemophilic factor is manufactured with reduced amounts of von Willebrand Factor antigen (VWF:Ag) and purified from extraneous plasma-derived protein by affinity chromatography. The small amount of VWF:Ag is used to purify factor VIII complex and then removed from the final preparation. The final purified concentrate contains albumin as a stabilizer.[11]. The complex was developed by CSL Behring or Baxter Healthcare Corporation and approved in the 90s.Endogenous Factor VIII is essential to the clotting process in the body due to its involvement in the clotting cascade where it is responsible for acting as a co-factor to Factor IX. Activation of Factor IX leads to a cascade of signals that results in activation of Factor X, which then results in the conversion of prothrombin to thrombin, and as a result, leads to the conversion of fibrinogen to fibrin, the fibrous protein that creates the scaffold of the clot. Replacement of Factor VIII is essential for the treatment of Hemophilia A, which is caused by mutations in the Factor VIII gene, leading to a functional deficiency or complete loss of protein. Congenital loss or deficiency of Factor VIII results in the physiologic impairment of the coagulation clotting cascade, and as a result, leads to easy bruising and bleeding. Bleeding can range in severity from minor concerns, such as nosebleeds, to more serious events such as hemorrhaging in the joints, brain, or digestive tract [6].Exogenous replacement of Factor VIII is currently the cornerstone of Hemophilia treatment and is used for the prophylaxis and control of bleeding episodes. Treatment has drastically improved since the 1960s when Factor VIII protein was primarily purified from human plasma, rather than being produced through recombinant DNA technology. Unfortunately, purification of protein from human plasma carries an increased risk of transmission of blood-borne diseases such as HIV and Hepatitis, which in part contributed to the Tainted Blood Scandal in the 1980s and 1990s [7, 8].Other drug products with similar structure and function to Antihemophilic factor human include Moroctocog alfa, which is produced by recombinant DNA technology and is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function and Efmoroctocog alfa, which is a fully recombinant factor VIII-Fc fusion protein which has an extended half-life compared with conventional factor VIII due to conjugation to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein [7].Antihemophilic factor human is approved by the Food and Drug Administration for use in hemophilia A (classical hemophilia) for the prevention and control of hemorrhagic episodes [FDA Label].
+4. Indication:  The human antihemophilic factor is indicated for the cases of hemophilia A, also known as classical hemophilia for the prevention and control of hemorrhagic episodes.[12] If surgery is needed in patients with hemophilia A there is a need of correction of the clotting abnormality. In this cases, the human antihemophilic factor may be administered followed by intermittent maintenance doses.[11] The hemophilia A is characterized by the deficiency of the coagulation factor VIII that results in prolonged blood flow after injury or surgery as well as recurrent bleeding.[9]
+DrugId:  25
+1. Name:  Thonzylamine
+2. Groups:  Approved
+3. Description:  Thonzylamine is an antihistamine and anticholinergic drug. It is available as combination products with Clofedanol or Phenylephrine for temporary relief of symptoms of common cold, hay fever (allergic rhinitis) or other upper respiratory allergies.
+4. Indication:  Not Available

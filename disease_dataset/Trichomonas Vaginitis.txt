@@ -1,0 +1,60 @@
+DrugId:  1
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  2
+1. Name:  Tinidazole
+2. Groups:  Approved, Investigational
+3. Description:  A nitroimidazole antitrichomonal agent effective against Trichomonas vaginalis, Entamoeba histolytica, and Giardia lamblia infections. [PubChem]
+4. Indication:  For the treatment of trichomoniasis caused by T. vaginalis in both female and male patients. Also for the treatment of giardiasis caused by G. duodenalis in both adults and pediatric patients older than three years of age and for the treatment of intestinal amebiasis and amebic liver abscess caused by E. histolytica in both adults and pediatric patients older than three years of age.
+DrugId:  3
+1. Name:  Dienestrol
+2. Groups:  Approved, Investigational
+3. Description:  Dienestrol is a synthetic, non-steroidal estrogen. It is an estrogen receptor agonist. Estrogens work partly by increasing a normal clear discharge from the vagina and making the vulva and urethra healthy. Using or applying an estrogen relieves or lessens: dryness and soreness in the vagina, itching, redness, or soreness of the vulva. Conditions that are treated with vaginal estrogens include a genital skin condition (vulvar atrophy), inflammation of the vagina (atrophic vaginitis), and inflammation of the urethra (atrophic urethritis).
+4. Indication:  For use in the treatment of atrophic vaginitis and kraurosis vulvae.
+DrugId:  4
+1. Name:  CZEN 002
+2. Groups:  Investigational
+3. Description:  CZEN-002 is a novel, non-azole anti-fungal synthetic octapeptide, derived from alpha-Melanocyte-Stimulating Hormone (a-MSH). CZEN-002 modulates inflammatory and immune responses. It has also been shown to kill Candida albicans (C. albicans), a single-celled fungal organism that causes a variety of infections, including vaginitis. This organism can invade tissues and produce fatal infections in individuals with compromised immune systems such as those suffering from HIV/AIDS or undergoing organ or bone transplants. The antimicrobial activity of CZEN-002 is unique in that it does not depend on direct damage to the microbial membrane. It appears that CZEN-002 works on a receptor in yeast that has yet to be identified. Studies attempting to understand the candidacidal activity of derivatives of alpha-MSH have focused on the alpha-MSH amino acid sequence (6-13), which contains the invariant core sequence His-Phe-Arg-Trp (6-9) that is important for binding to the known melanocortin receptors. A second focus was on the sequence Lys-Pro-Val (11-13) that is known to be important for antimicrobial activity. 
+4. Indication:  Investigated for use/treatment in candidiasis and vaginitis.
+DrugId:  5
+1. Name:  Secnidazole
+2. Groups:  Approved
+3. Description:  Secnidazole is a second-generation 5-nitroimidazole antimicrobial that is structurally related to other 5-nitroimidazoles including Metronidazole and Tinidazole, but displays improved oral absorption and longer terminal elimination half-life than antimicrobial agents in this class [1]. Secnidazole is selective against many anaerobic Gram-positive and Gram-negative bacteria and protozoa. In September 2017, FDA granted approval to secnidazole under the market name Solosec as a single-dose oral treatment for bacterial vaginosis, which is a common vaginal infection in women aged 15 to 44 years. The antimicrobial therapy is only intended to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria [FDA Label].
+4. Indication:  Indicated for the treatment of bacterial vaginosis in adult women . 
+DrugId:  6
+1. Name:  Nonoxynol-9
+2. Groups:  Approved, Withdrawn
+3. Description:  Nonoxynol-9 (N-9) is a typical surfactant used as a vaginal spermicide. Spermicides are locally acting non-hormonal contraceptives. When present in the vagina during intercourse, they immobilize/inactivate/damage and/or kill sperms without eliciting systemic effects. N-9 has been in use for more than 30 years as an over-the-counter (OTC) drug in creams, gels, foams and condom lubricants. It is the most commonly used spermicidal contraceptive in the UK and the USA. In several European countries, spermicides are no longer on the market.
+4. Indication:  Nonoxynol 9 is a surfactant spermicide used for contraception in spermicidal creams, jellies, foams, gel, and lubricants. It is also used in conjuction with other methods of contraception, including condoms, cervical caps and diaphragms.
+DrugId:  7
+1. Name:  Lymecycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline with a 7-chloro substitution.
+4. Indication:  For the treatment of infections and to treat acne. It may also be used to treat urinary tract infections, gum disease, and other bacterial infections such as gonorrhea and chlamydia. Lymecycline is also used commonly as a prophylactic treatment for infection by Bacillus anthracis (anthrax). It is also effective against Yersinia pestis and malaria and is also prescribed for the treatment of Lyme disease.
+DrugId:  8
+1. Name:  Estrone
+2. Groups:  Approved
+3. Description:  Estrone, one of the major mammalian estrogens, is an aromatized C18 steroid with a 3-hydroxyl group and a 17-ketone. It is produced in vivo from androstenedione or from testosterone via estradiol. It is produced primarily in the ovaries, placenta, and in peripheral tissues (especially adipose tissue) through conversion of adrostenedione. Estrone may be further metabolized to 16-alpha-hydroxyestrone, which may be reduced to estriol by estradiol dehydrogenase.
+4. Indication:  For management of perimenopausal and postmenopausal symptoms.
+DrugId:  9
+1. Name:  Equilin
+2. Groups:  Approved
+3. Description:  An estrogenic steroid produced by horses. It has a total of four double bonds in the A- and B-ring. High concentration of euilin is found in the urine of pregnant mares. [PubChem]Equilin is one of the estrogens present in the mixture of estrogens isolated from horse urine and marketed as Premarin. Premarin became the most commonly used form of estrogen for hormone replacement therapy in the United States of America. Estrone is the major estrogen in Premarin (about 50%) and equilin is present as about 25% of the total. Estrone is a major estrogen that is normally found in women. Equilin is not normally present in women, so there has been interest in the effects of equilin on the human body. [Wikipedia]The estrogens in Premarin are present mainly as "conjugates", modified chemical forms in which the active estrogen is coupled to another chemical group such as sulfate. Estrone sulfate is usually the major form of estrogen in women. After being taken into a woman's body, the conjugated estrogens of Premarin are converted to the active unconjugated estrogens or excreted from the woman's body. Estrone can be converted to estradiol, which is thought to be the major active estrogen in women. [Wikipedia]
+4. Indication:  For the treatment of moderate to severe vasomotor symptoms associated with the menopause, atrophic vaginitis, osteoporosis, hypoestrogenism due to hypogonadism, castration, primary ovarian failure, breast cancer (for palliation only), and Advanced androgen-dependent carcinoma of the prostate (for palliation only)
+DrugId:  10
+1. Name:  Sulfacetamide
+2. Groups:  Approved
+3. Description:  An anti-infective agent that is used topically to treat skin infections and orally for urinary tract infections. [PubChem]
+4. Indication:  For the treatment of bacterial vaginitis, keratitis, acute conjunctivitis, and blepharitis.
+DrugId:  11
+1. Name:  Dequalinium
+2. Groups:  Approved, Investigational
+3. Description:  Dequalinium is a quaternary ammonium cation that contains two quaternary quinolinium units linked by an N-decylene chain. It is an antiseptic and disinfectant agent with a broad bactericidal and fungicidal activity. It is most commonly available as a dichloride salt but is available as other various salts as well. It is used in wound dressings and mouth infections and may also have antifungal action, but may associate with skin ulceration. Dequalinium chloride is used as an active ingredient in tablets as Fluomizin for vaginal bacterial infections and in topical bacteriostat formulation as Dequadin. It has been studied for use in treatment of malaria and acute promyelocytic leukemia. Its multiple mode of action is thought to reduce the risk of resistance of pathogens.
+4. Indication:  Effective local treatment as vaginal tablets for infections such as fluor vaginalis, bacterial vaginosis, aerobic vaginitis, vulvo-vaginal candidiasis and trichomoniasis. Used as a topical antimicrobial agent. 
+DrugId:  12
+1. Name:  Povidone-iodine
+2. Groups:  Approved
+3. Description:  Povidone-iodine is a stable chemical complex of polyvinylpyrrolidone (povidone, PVP) and elemental iodine. It contains from 9.0% to 12.0% available iodine, calculated on a dry basis. This unique complex was discovered in 1955 at the Industrial Toxicology Laboratories in Philadelphia by H. A. Shelanski and M. V. Shelanski. They carried out tests in vitro to demonstrate anti-bacterial activity, and found that the complex was less toxic in mice than tincture of iodine. Human clinical trials showed the product to be superior to other iodine formulations. Povidone-iodine was immediately marketed, and has since become the universally preferred iodine antiseptic.
+4. Indication:  For topical application in the treatment and prevention of infection in wounds.

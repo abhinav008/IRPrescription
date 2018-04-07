@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  2
+1. Name:  Edoxaban
+2. Groups:  Approved
+3. Description:  Edoxaban is a member of the Novel Oral Anti-Coagulants (NOACs) class of drugs, and is a rapidly acting, oral, selective factor Xa inhibitor. By inhibiting factor Xa, a key protein in the coagulation cascade, edoxaban prevents the stepwise amplification of protein factors needed to form blood clots. It is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF) and for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant. Traditionally, warfarin, a vitamin K antagonist, was used for stroke prevention in these individuals but effective use of this drug is limited by it's delayed onset, narrow therapeutic window, need for regular monitoring and INR testing, and numerous drug-drug and drug-food interactions. This has prompted enthusiasm for newer agents such as dabigatran, apixaban, and rivaroxaban for effective clot prevention. In addition to once daily dosing, the benefits over warfarin also include significant reductions in hemorrhagic stroke and GI bleeding, and improved compliance, which is beneficial as many patients will be on lifelong therapy. 
+4. Indication:  Edoxaban is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF). However, it should not be used in patients with creatinine clearance (CrCL) > 95 mL/min because of increased risk of ischemic stroke compared to warfarin at the highest dose studied (60 mg). It is also indicated for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant.
+DrugId:  3
+1. Name:  Piboserod
+2. Groups:  Investigational
+3. Description:  Piboserod (SB 207266) is a selective 5-HT(4) receptor antagonist.
+4. Indication:  For the treatment of atrial fibrillation and irritable bowel syndrome (IBS).
+DrugId:  4
+1. Name:  Vernakalant
+2. Groups:  Approved, Investigational
+3. Description:  Vernakalant was developed by Cardiome Pharma as as an antiarrhythmic drug intended for rapid conversion of atrial fibrillation to sinus rhythm. It acts as an atypical class III antiarrhythmic drug that potentiates its effect in higher heart rates. Intravenous formulation was approved in Europe in September 2010 as Brinavess and in Canada in April 2017. It is an investigational drug under regulatory review by FDA.
+4. Indication:  Indicated for the rapid conversion of recent onset of atrial fibrillation to sinus rhythm in adults for non-surgery patients that lasts for less than 7 days of duration and post-cardiac surgery patients with atrial fibrillation lasting less than 3 days of duration.
+DrugId:  5
+1. Name:  Dofetilide
+2. Groups:  Approved, Investigational
+3. Description:  Dofetilide is a class III antiarrhythmic agent that is approved by the Food and Drug Administration (FDA) for the maintenance of sinus rhythm in individuals prone to the formation of atrial fibrillation and flutter, and for the chemical cardioversion to sinus rhythm from atrial fibrillation and flutter.
+4. Indication:  For the maintenance of normal sinus rhythm (delay in time to recurrence of atrial fibrillation/atrial flutter [AF/AFl]) in patients with atrial fibrillation/atrial flutter of greater than one week duration who have been converted to normal sinus rhythm
+DrugId:  6
+1. Name:  Idraparinux
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, venous thromboembolism, strokes, heart disease, and atrial fibrillation.
+DrugId:  7
+1. Name:  Fondaparinux
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux is under investigation for the treatment of Superficial Vein Thrombosis. Fondaparinux has been investigated for the treatment and prevention of Thromboembolism, Pulmonary Embolism, Thrombosis, Venous, Deep Vein Thrombosis, and Fibrillation, Atrial, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Tedisamil
+2. Groups:  Investigational
+3. Description:  Tedisamil (planned trade name Pulzium) is an investigational drug for atrial fibrillation and atrial flutter. It is currently being developed by Solvay and is currently under regulatory review by the United States Food and Drug Administration.
+4. Indication:  Investigated for use/treatment in arrhythmia, atrial fibrillation, and angina.
+DrugId:  9
+1. Name:  Ibutilide
+2. Groups:  Approved
+3. Description:  Ibutilide is a Class III antiarrhythmic agent that is indicated for acute cardioconversion of atrial fibrillation and atrial flutter of a recent onset to sinus rhythm.
+4. Indication:  Indicated for the rapid conversion of atrial fibrillation or atrial flutter of recent onset to sinus rhythm.
+DrugId:  10
+1. Name:  LI-301
+2. Groups:  Investigational
+3. Description:  LI 301 is an orally bio-available compound delivered in a fast melt mechanism with taste masking enabling it to be taken anytime without water. It has a novel mode of action combining both the light effect of a Selective Serotonin Reuptake Inhibitor ("SSRI")(most likely antagonistic at 5HT1a receptors) and antagonism at mu-opioid receptors. This results in a slight dulling of sensation that can be used to treat premature ejaculation without interfering with normal sexual pleasure or orgasm. 
+4. Indication:  Investigated for use/treatment in premature ejaculation.
+DrugId:  11
+1. Name:  Pumactant
+2. Groups:  Investigational
+3. Description:  Pumactant is a synthetic surfactant used for treating respiratory distress syndrome in neonates. It is a unique formulation of the naturally occurring phospholipids Dipalmitoylphosphatidycholine (DPPC) and Phosphatidyl Glycerol (PG).
+4. Indication:  Investigated for use/treatment in asthma, lung injury, and surgical adhesions.
+DrugId:  12
+1. Name:  Budiodarone
+2. Groups:  Investigational
+3. Description:  Budiodarone (ATI-2042) is an antiarrhythmic agent and chemical analog of amiodarone that is currently being studied in clinical trials.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  13
+1. Name:  Atecegatran metoxil
+2. Groups:  Investigational
+3. Description:  Atecegatran metoxil has been used in trials studying the basic science and prevention of Nonvalvular Atrial Fibrillation, Persistent or Permanent Nonvalvular Atrial Fibrillation, and Persistent or Permanent Non-valvular Atrial Fibrillation.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Beractant
+2. Groups:  Approved
+3. Description:  Beractant is a pulmonary surfactant used for the treatment of Respiratory Distress Syndrome (RDS) in premature infants. Considered a natural source of surfactant as it is made from bovine lung extract, beractant contains a mixture of phospholipids, neutral lipids, fatty acids, and surfactant-associated proteins such as SP-B and SP-C. The final composition provides 25 mg/mL phospholipids (including 11.0-15.5 mg/mL disaturated phosphatidylcholine), 0.5-1.75 mg/mL triglycerides, 1.4-3.5 mg/mL free fatty acids, and less than 1.0 mg/mL protein. It is suspended in 0.9% sodium chloride solution, and heat-sterilized. In anticipation of birth, endogenous lung surfactant is produced to lower the surface tension on alveolar surfaces and to stabilize the alveoli against collapse at resting transpulmonary pressures. However, in Respiratory Distress Syndrome, developmental deficiency of surfactant results collapse of the alveoli causing fast breathing, increased heart rate, apoxia, and sometimes death. Administration of lung surfactant remains the cornerstone of therapy in this condition that is currently the leading cause of death in preterm infants. In comparison to synthetic forms of surfacant, natural forms such as Beractant have been found to have a reduced incidence of pneumothorax and reduced mortality.
+4. Indication:  Beractant is indicated for prevention and treatment of Respiratory Distress Syndrome (RDS) in premature infants.
+DrugId:  15
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  16
+1. Name:  MBT-0312
+2. Groups:  Investigational
+3. Description:  MediGene's newly acquired drug candidates MBT-0312 aim at a novel method of cancer therapy by "starving out" tumors. 
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  17
+1. Name:  Retosiban
+2. Groups:  Investigational
+3. Description:  Retosiban has been used in trials studying the treatment of Premature Labor and Obstetric Labour, Premature.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Dapoxetine
+2. Groups:  Investigational
+3. Description:  Dapoxetine is a selective serotonin reuptake inhibitor, for the treatment of premature ejaculation. In a phase II proof-of-concept study conducted by PPD, dapoxetine demonstrated a statistically significant increase in ejaculatory latency when compared to placebo. Alza submitted a NDA to the FDA for dapoxetine for the treatment of premature ejaculation in December 2004. In October 2005, the company received a FDA Non-Approvable letter from the FDA, at which time they planned to work with regulators to address outstanding questions.
+4. Indication:  For the treatment of premature ejaculation.
+DrugId:  19
+1. Name:  AZD-1305
+2. Groups:  Investigational
+3. Description:  AZD1305 has been used in trials studying the treatment and basic science of Atrial Flutter, Atrial Fibrillation, and Left Ventricle Function.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Fluindione
+2. Groups:  Approved, Investigational
+3. Description:  Fluindione is under investigation for the treatment of Venous Thrombosis, Pulmonary Embolism, Permanent Atrial Fibrillation, and Anticoagulating Treatment on a Duration at Least 12-month-old Superior. Fluindione has been investigated for the treatment of Blood Coagulation Disorders.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  AG-858
+2. Groups:  Investigational
+3. Description:  AG-858 (autologous heat-shock protein 70 peptide vaccine) isa recombinant cancer vaccine made with tumor-derived heat shock protein 70 (HSP70) peptide complexes. HSP70 associates with antigenic peptides, transporting them into antigen presenting cells (APC) for processing. Tumor-derived HSP70-peptide complexes used in vaccine preparations have been shown to prime tumor immunity and tumor-specific T cells in animal models.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid).
+DrugId:  22
+1. Name:  Pramlintide
+2. Groups:  Approved, Investigational
+3. Description:  Pramlintide is a relatively new adjunct treatment for diabetes (both type 1 and 2), developed by Amylin Pharmaceuticals. It is derived from amylin, a hormone that is released into the bloodstream, in a similar pattern as insulin, after a meal. Like insulin, amylin is deficient in individuals with diabetes.
+4. Indication:  For the treatment of type 1 and type 2 diabetes mellitus as an adjunct to preprandial insulin therapy in patients without adequate glycemic control of insulin therapy.
+DrugId:  23
+1. Name:  Odiparcil
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in atrial fibrillation, cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  24
+1. Name:  Poractant alfa
+2. Groups:  Approved
+3. Description:  Poractant alfa is a pulmonary surfactant marketed as Curosurf in the United States and Canada. It is used to treat Respiratory Distress Syndrome (RDS) in premature infants with an endogenous pulmonary surfactant deficiency. Poractant alfa is an extract of natural porcine lung surfactant consisting of 99% polar lipids (mainly phospholipids) and 1% hydrophobic low molecular weight proteins (surfactant associated proteins SP-B and SP-C). The phospholipid content of the extract consists primarily of phosphatidylcholine and dipaImitoylphosphatidylcholine. Poractant alfa is a creamy white suspension of this extract in 0.9% sodium chloride solution. It contains no preservatives.
+4. Indication:  Poractant alfa is indicated for the treatment of Respiratory Distress Syndrome (RDS) in premature infants.
+DrugId:  25
+1. Name:  Danegaptide
+2. Groups:  Investigational
+3. Description:  Danegaptide has been investigated for the treatment of Focus of Study is STEMI.
+4. Indication:  Not Available

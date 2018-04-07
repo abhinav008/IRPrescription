@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Etizolam
+2. Groups:  Approved
+3. Description:  Etizolam is a thienodiazepine which is chemically related to benzodiazepine (BDZ) drug class; it differs from BDZs in having a benzene ring replaced with a thiophene ring. It is an agonist at GABA-A receptors and possesses amnesic, anxiolytic, anticonvulsant, hypnotic, sedative and skeletal muscle relaxant properties. Initially introduced in 1983 in Japan as treatment for neurological conditions such as anxiety and sleep disorders, etizolam is marketed in Japan, Italy and India. It is not approved for use by FDA in the US; however it remains unscheduled in several states and is legal for research purposes.
+4. Indication:  Indicated for the treatment of generalized anxiety disorder with depression, panic disorder and insomnia.
+DrugId:  2
+1. Name:  Clazosentan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  3
+1. Name:  Polidocanol
+2. Groups:  Approved
+3. Description:  Polidocanol is a sclerosing agent indicated to treat uncomplicated spider veins (varicose veins ≤1 mm in diameter) and uncomplicated reticular veins (varicose veins 1 to 3 mm in diameter) in the lower extremity. It is marketed under the brand names Asclera and Varithena. The formula for Polidocanol has the structural formula C12H25(OCH2CH2)nOH, a mean extent of polymerization (n) of approximately 9 and a mean molecular weight of approximately 600.
+4. Indication:  Polidocanol is a sclerosing agent indicated to treat uncomplicated spider veins and uncomplicated reticular veins in the lower extremity. 
+DrugId:  4
+1. Name:  Gadoteric acid
+2. Groups:  Approved
+3. Description:  Gadoteric acid is a macrocycle-structured gadolinium-based MRI contrast agent. It is composed of the organic acid DOTA (1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid) used for its chelating properties, and gadolinium (Gd3+). As a paramagnetic molecule, gadoterate develops a magnetic moment when placed in a magnetic field. This magnetic moment enhances the relaxation rates of water protons in its vicinity, leading to an increase in signal intensity (brightness) of tissues. More specifically, it reduces the T1 relaxation time (and to some extent the T2 and T2* relaxation times) in NMR, which is the source of its clinical utility. Increased signal brightness allows it to be used in imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become 'leaky'. Gadoteric acid, as the FDA approved product Dotarem, is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+4. Indication:  Gadoteric acid is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+DrugId:  5
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  6
+1. Name:  Tinzaparin
+2. Groups:  Approved
+3. Description:  Tinzaparin is a low molecular weight heparin (LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III (ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Tinzaparin is used for the prevention of postoperative venous thromboembolism in patients undergoing orthopedic surgery and in patients undergoing general surgery who are at high risk of developing postoperative venous thromboembolism. It is also used for the treatment of deep vein thrombosis and/or pulmonary embolism. It is indicated for use in preventing clot formation in indwelling intravenous lines for hemodialysis.
+DrugId:  7
+1. Name:  Sertaconazole
+2. Groups:  Approved, Investigational
+3. Description:  Sertaconazole nitrate is an antifungal medication of the imidazole class. It is available as a cream to treat skin infections such as athlete's foot. [Wikipedia]
+4. Indication:  For the topical treatment of interdigital tinea pedis in immunocompetent patients 12 years of age and older, caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum.
+DrugId:  8
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  9
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  10
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  11
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  12
+1. Name:  Testosterone enanthate
+2. Groups:  Approved
+3. Description:  Testosterone enanthate is an esterified variant of testosterone that comes as an injectable compund with a slow release rate. It is the first injectable ester preparation of testosterone.[7] This slow release is achived by the presence of the enanthate ester functional group attached to the testosterone molecule.[2] This testosterone derivative was developed by Watson pharms Inc and FDA first approved on October 12, 1980.
+4. Indication:  Testosterone enanthate in males is indicated as a replacement therapy in conditions associated with a deficiency or absence of endogenous testosterone. Some of the treated conditions are 1) primary hypogonadism, defined as testicular failure due to cryptorchidism, bilateral torsion, orchitis, vanishing testis syndrome or orchidectomy; 2) hypogonadotropic hypogonadism due to an idiopathic gonadotropin or luteinizing hormone-releasing hormone deficiency or due to a pituitary-hypothalamic injury from tumors, trauma or radiation, in this case it is important to accompany the treatment with adrenal cortical and thyroid hormone replacement therapy; 3) to stimulate puberty in patients with delayed puberty not secondary to a pathological disorder. If the conditions 1 and 2 occur prior to puberty, the androgen replacement therapy will be needed during adolescent years for the development of secondary sexual characteristics and prolonged androgen treatment might be needed it to maintain sexual characteristics after puberty.[FDA Label]In females, testosterone enanthate is indicated to be used secondarily in presence of advanced inoperable metastatic mammary cancer in women who are from one to five years postmenopausal. It has also been used in premenopausal women with breast cancer who have benefited from oophorectomy and are considered to have a hormone-responsive tumor.[FDA Label]
+DrugId:  13
+1. Name:  Nimodipine
+2. Groups:  Approved, Investigational
+3. Description:  Nimodipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nimodipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Compared to other calcium channel blocking agents, nimodipine exhibits greater effects on cerebral circulation than on peripheral circulation. Nimodipine is used to as an adjunct to improve the neurologic outcome following subarachnoid hemorrhage from ruptured intracranial aneurysm.
+4. Indication:  For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.
+DrugId:  14
+1. Name:  Mannitol
+2. Groups:  Approved, Investigational
+3. Description:  Mannitol is an osmotic diuretic that is metabolically inert in humans and occurs naturally, as a sugar or sugar alcohol, in fruits and vegetables. Mannitol elevates blood plasma osmolality, resulting in enhanced flow of water from tissues, including the brain and cerebrospinal fluid, into interstitial fluid and plasma. As a result, cerebral edema, elevated intracranial pressure, and cerebrospinal fluid volume and pressure may be reduced. Mannitol may also be used for the promotion of diuresis before irreversible renal failure becomes established; the promotion of urinary excretion of toxic substances; as an Antiglaucoma agent; and as a renal function diagnostic aid.
+4. Indication:  Used for the promotion of diuresis before irreversible renal failure becomes established, the reduction of intracranial pressure, the treatment of cerebral edema, and the promotion of urinary excretion of toxic substances.
+DrugId:  15
+1. Name:  Metrizamide
+2. Groups:  Approved
+3. Description:  Metrizamide is a solute for density gradient centrifugation offering higher maximum solution density without the problems of increased viscosity. It is also used as a resorbable, non-ionic contrast medium.
+4. Indication:  Metrizamide is used for lumbar, thoracic, cervical, and total columnar myelography to determine the presence of abnormalities in the spinal column, spinal canal, and central nervous system (CNS) as well as for cisternography by direct injection using standard radiologic techniques to visualize the basal cistern of the brain. For computerized tomography (CT) of the intracranial subarachnoid spaces and for ventriculography by direct injection using standard radiologic techniques to visualize the cerebral ventricles. Also used in pediatric angiocardiography to visualize lesions or malformations of the heart and obstructions or anomalies of the major thoracic vessels. Also used in adult peripheral arteriography to visualize specific regions of the vascular system and blood flow in such areas to help in the diagnosis and evaluation of neoplasms (known or suspected) or vascular diseases (congenital or acquired) that may cause changes in normal vascular anatomy or physiology. Metrizamide is also indicated in adults for intravenous digital arteriography of head and neck.
+DrugId:  16
+1. Name:  Oxytetracycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A tetracycline analog isolated from the actinomycete streptomyces rimosus and used in a wide variety of clinical conditions.
+4. Indication:  Oxytetracycline is indicated for treatment of infections caused by a variety of Gram positive and Gram negative microorganisms including Mycoplasma pneumoniae, Pasteurella pestis, Escherichia coli, Haemophilus influenzae (respiratory infections), and Diplococcus pneumoniae.
+DrugId:  17
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  18
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  19
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  20
+1. Name:  Nitroglycerin
+2. Groups:  Approved, Investigational
+3. Description:  A volatile vasodilator which relieves angina pectoris by stimulating guanylate cyclase and lowering cytosolic calcium. [PubChem]
+4. Indication:  For the prevention of angina
+DrugId:  21
+1. Name:  Nalidixic Acid
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic 1,8-naphthyridine antimicrobial agent with a limited bacteriocidal spectrum. It is an inhibitor of the A subunit of bacterial DNA gyrase. [PubChem]
+4. Indication:  For the treatment of urinary tract infections caused by susceptible gram-negative microorganisms, including the majority of E. Coli, Enterobacter species, Klebsiella species, and Proteus species.
+DrugId:  22
+1. Name:  Frovatriptan
+2. Groups:  Approved, Investigational
+3. Description:  Frovatriptan is a triptan drug developed by Vernalis for the treatment of migraine headaches, in particular those associated with menstruation. Frovatriptan causes vasoconstriction of arteries and veins that supply blood to the head.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  23
+1. Name:  Dihydroergotamine
+2. Groups:  Approved, Investigational
+3. Description:  A 9,10alpha-dihydro derivative of ergotamine. It is used as a vasoconstrictor, specifically for the therapy of migraine disorders.
+4. Indication:  For the acute treatment of migraine headaches with or without aura and the acute treatment of cluster headache episodes.
+DrugId:  24
+1. Name:  Vorapaxar
+2. Groups:  Approved
+3. Description:  Vorapaxar is a tricyclic himbacine-derived selective inhibitor of protease activated receptor (PAR-1) indicated for reducing the incidence of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or with peripheral arterial disease (PAD). By inhibiting PAR-1, a thrombin receptor expressed on platelets, vorapaxar prevents thrombin-related platelet aggregation.
+4. Indication:  Vorapaxar is indicated for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or peripheral arterial disease (PAD). It is usually co-administered with acetylsalicylic acid (ASA) and/or clopidogrel, and should therefore be administered as an addition to these medications as it has not been studied alone. 
+DrugId:  25
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 

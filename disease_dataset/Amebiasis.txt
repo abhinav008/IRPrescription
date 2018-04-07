@@ -1,0 +1,25 @@
+DrugId:  1
+1. Name:  Diloxanide
+2. Groups:  Approved
+3. Description:  Diloxanide furoate is an anti-protozoal drug used in the treatment of Entamoeba histolytica and some other protozoal infections. Although it is not currently approved for use in the United States, it was approved by a CDC study in the treatment of 4,371 cases of Entamoeba histolytica from 1977 to 1990.
+4. Indication:  Diloxanide is used alone as a primary agent in the treatment of asymptomatic (cyst passers) intestinal amebiasis caused by Entamoeba histolytica. Diloxanide may also be used concurrently, or sequentially, with other agents such as the nitroimidazoles (eg. metronidazole) in the treatment of invasive or extraintestinal forms of amebiasis.
+DrugId:  2
+1. Name:  Paromomycin
+2. Groups:  Approved, Investigational
+3. Description:  An oligosaccharide antibiotic produced by various streptomyces. [PubChem]
+4. Indication:  For the treatment of acute and chronic intestinal amebiasis (it is not effective in extraintestinal amebiasis). Also for the management of hepatic coma as adjunctive therapy.
+DrugId:  3
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  4
+1. Name:  Tinidazole
+2. Groups:  Approved, Investigational
+3. Description:  A nitroimidazole antitrichomonal agent effective against Trichomonas vaginalis, Entamoeba histolytica, and Giardia lamblia infections. [PubChem]
+4. Indication:  For the treatment of trichomoniasis caused by T. vaginalis in both female and male patients. Also for the treatment of giardiasis caused by G. duodenalis in both adults and pediatric patients older than three years of age and for the treatment of intestinal amebiasis and amebic liver abscess caused by E. histolytica in both adults and pediatric patients older than three years of age.
+DrugId:  5
+1. Name:  Erythromycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Erythromycin is a macrolide antibiotic produced by Saccharopolyspora erythraea (formerly Streptomyces erythraeus). It inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits; binding inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins. Erythromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For use in the treatment of infections caused by susceptible strains of microorganisms in the following diseases: respiratory tract infections (upper and lower) of mild to moderate degree, pertussis (whooping cough), as adjunct to antitoxin in infections due to Corynebacterium diphtheriae, in the treatment of infections due to Corynebacterium minutissimum, intestinal amebiasis caused by Entamoeba histolytica, acute pelvic inflammatory disease caused by Neisseria gonorrhoeae, skin and soft tissue infections of mild to moderate severity caused by Streptococcus pyogenes and Staphylococcus aureus, primary syphilis caused by Treponema pallidum, infections caused by Chlamydia trachomatis, nongonococcal urethritis caused by Ureaplasma urealyticum, and Legionnaires' disease caused by Legionella pneumophila.

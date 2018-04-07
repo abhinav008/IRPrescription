@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Inclacumab
+2. Groups:  Investigational
+3. Description:  Inclacumab has been used in trials studying the treatment and prevention of Myocardial Infarction, Peripheral Arterial Disease (PAD), and Coronary Heart Disease, Graft Occlusion, Vascular.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  EG004
+2. Groups:  Investigational
+3. Description:  EG004 is a novel product consisting of a local delivery device and a gene-based medicine, being developed to prevent the blocking of veins and arteries that frequently occurs after vascular surgery. The initial target market is haemodialysis graft access surgery, a procedure in which patients whose kidneys have failed have a plastic tube grafted between blood vessels generally in their forearm so that their blood can be regularly filtered using a dialysis machine. EG004 has completed a Phase II trial, this being the first part of the Phase II/III study for which it has received approval from the US Recombinant DNA Advisory Committee (RAC).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and kidney disease.
+DrugId:  3
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  4
+1. Name:  AP1903
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bone marrow transplant and graft versus host disease.
+DrugId:  5
+1. Name:  Porfimer sodium
+2. Groups:  Approved, Investigational
+3. Description:  The purified component of hematoporphyrin derivative, it consists of a mixture of oligomeric porphyrins. It is used in photodynamic therapy (hematoporphyrin photoradiation); to treat malignant lesions with visible light and experimentally as an antiviral agent. It is the first drug to be approved in the use of photodynamic therapy in the United States.
+4. Indication:  Indicated in the treatment of esophageal cancer.
+DrugId:  6
+1. Name:  Aflibercept
+2. Groups:  Approved
+3. Description:  Aflibercept is a recombinant fusion protein that comprises of two main components: the vascular endothelial growth factor (VEGF) binding portions from the extracellular domains of human VEGF receptors 1 and 2 which is then fused to the Fc portion of human IgG1. Structurally, Aflibercept is a dimeric glycoprotein with a protein molecular weight of 96.9 kilo Daltons (kDa). It contains approximately 15% glycosylation to give a total molecular weight of 115 kDa. All five putative N-glycosylation sites on each polypeptide chain predicted by the primary sequence can be occupied with carbohydrate and exhibit some degree of chain heterogeneity, including heterogeneity in terminal sialic acid residues, except at the single unsialylated site associated with the Fc domain. Aflibercept, as an ophthalmic agent, is used in the treatment of macular edema following Central Retinal Vein Occlusion (CRVO) and neovascular Age-Related Macular Degeneration (AMD). Ziv-aflibercept, under the brand name Zaltrap, was developed as an injection for treatment of metastatic colorectal cancer. FDA approved in November 18, 2011 and EMA approved in November 2012.
+4. Indication:  The opthalmic agent is used for the treatment of neovascular (wet) age-related mascular degeneration (AMD) and macular edema following central retinal vein occulsion (CRVO). The systemic injection, known as ziv-aflibercept, in combination with 5-fluorouracil, leucovorin, irinotecan-(FOLFIRI), is for the treatment of metastatic colorectal cancer that is resistant to or progressed following treatment with oxaliplatin. 
+DrugId:  7
+1. Name:  Gavilimomab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in graft versus host disease.
+DrugId:  8
+1. Name:  99mTc-glucarate
+2. Groups:  Investigational
+3. Description:  99mTc-glucarate(GLA) is an agent for non-invasive detection of breast tumours.
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  9
+1. Name:  Verteporfin
+2. Groups:  Approved, Investigational
+3. Description:  Verteporfin, otherwise known as benzoporphyrin derivative (trade name Visudyne®), is a medication used as a photosensitizer for photodynamic therapy to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.
+4. Indication:  For the treatment of patients with predominantly classic subfoveal choroidal neovascularization due to age-related macular degeneration, pathologic myopia or presumed ocular histoplasmosis syndrome. Verteporfin can also be used to destroy tumors.
+DrugId:  10
+1. Name:  Alfimeprase
+2. Groups:  Investigational
+3. Description:  Alfimeprase is a recombinant analog of fibrolase. Fibrolase is a zinc-containing metalloproteinase isolated from the venom of the southern copperhead snake (Agkistrodon contortrix contortrix). It is a small protein that contains 203 residues (Randolph et al. 1992). Alfimeprase is being developed by Nuvelo.
+4. Indication:  Alfimeprase is being evaluated as a potential treatment for acute ischemic stroke, catheter occlusion (CO) and acute peripheral arterial occlusion (PAO).
+DrugId:  11
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  12
+1. Name:  Isopentyl 2-cyanoacrylate
+2. Groups:  Investigational
+3. Description:  Isoamyl 2 Cyanoacrylate is under investigation in clinical trial NCT02698644 (Hysteroscopic Tubal Occlusion With the Use of Iso Amyl-2-cyanoacrylate).
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Autologous cultured chondrocytes
+2. Groups:  Approved
+3. Description:  Autologous cultured chrondrocytes are used as autologous cell therapy to repair articular cartilage injuries in the knee (femoral condyle) due to acute or repetitive trauma. It serves as an alternative repair treatment for patients with inadequate response to pre-existing surgical methods. The surgical implantation shows a tolerable safety profile and efficacy up to 4 years, but it is not indicated for patients with osteoarthritis. It has been used since 1995 as Carticel and gained biologic license in 1997. The surgical implantation was first performed in Sweden.
+4. Indication:  Cellular repair strategy for patients with symptomatic cartilage defects of the femoral condyle (medial, lateral or trochlea) caused by trauma or patients who were previously unresponsive to available surgical procedures. 
+DrugId:  14
+1. Name:  Neocartilage
+2. Groups:  Investigational
+3. Description:  Neocartilage, a novel cartilage regeneration treatment. Neocartilage is generated from juvenile rather than adult chondrocytes. Neocartilage is the only scaffold-free living cartilage graft on the market. 
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  15
+1. Name:  Clobetasone
+2. Groups:  Approved
+3. Description:  Clobetasone is a corticosteroid used in dermatology, for treating such skin inflammation as seen in eczema, psoriasis and other forms of dermatitis, and ophthalmology. Topical clobetasone butyrate has shown minimal suppression of the Hypothalamic-pituitary-adrenal axis.
+4. Indication:  In dermatology, topical clobestasone butyrate helps to reduce the itchiness and erythema associated with eczema and dermatitis.In ophthalmology, clobetasone butyrate 0.1% eye drops have been shown to be safe and effective in the treatment of dry eyes in Sjögren's Syndrome.
+DrugId:  16
+1. Name:  Siplizumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders, transplant (rejection), graft versus host disease, lymphoma (unspecified), and leukemia (unspecified).
+DrugId:  17
+1. Name:  Lemuteporfin
+2. Groups:  Investigational
+3. Description:  Lemuteporfin, under development by QLT Incorporated, is a benzoporphyrin-derived chlorin-like photosensitizer. It is intended for the treatment of beign prostatic hyperplasia.
+4. Indication:  Intended for the treatment of benign prostatic hyperplasia and prostrate disorders.
+DrugId:  18
+1. Name:  Sirna-027
+2. Groups:  Investigational
+3. Description:  Sirna-027 is a chemically modified short interfering RNA(siRNA) targeting Vascular Endothelial Growth Factor Receptor-1(VEGFR-1). VEGFR-1 is a key component of the clinically validated vascular endothelial growth factor (VEGF) pathway. Sirna-027 is developed by Sirna Therapeutics and is under the phase I of clinical trails. It is used to treat Macular degeneration.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  19
+1. Name:  CX501
+2. Groups:  Investigational
+3. Description:  Cx501 is used to treat epidermolysis bullosa (EB), a rare genetic condition which can lead to contraction of the joints, fusion of fingers and toes, contraction of the mouth membranes and narrowing of the oesophagus. It is developed by Cellerix and is in phase I of clinical trials.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  20
+1. Name:  Obiltoxaximab
+2. Groups:  Approved
+3. Description:  Obiltoxaximab, an affinity-enhanced monoclonal antibody (Mab), is used for prevention and treatment of infection and death caused by anthrax toxin. Obiltoxaximab is a chimeric IgG1 kappa monoclonal antibody (mAb) that binds the PA component of B. anthracis toxin. It has an approximate molecular weight of 148 kDa.
+4. Indication:  Investigated for use/treatment in anthrax exposure, bacterial infection, crohn's disease, and graft versus host disease.
+DrugId:  21
+1. Name:  Arylacenamide
+2. Groups:  Investigational
+3. Description:  Arylacenamide (SR31747) is a peripheral [sigma] ligand that binds four proteins in human cells, i.e. SRBP-1, [sigma]-2, HSI and its relative SRBP-2. It is a dual agent with both immunomodulatory and antiproliferative activities.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), immunosuppressive, and prostate cancer.
+DrugId:  22
+1. Name:  DP-b99
+2. Groups:  Investigational
+3. Description:  DP-b99 is a newly developed lipophilic, cell permeable derivative of BAPTA (1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid), that is under development as a neuroprotectant for the potential treatment of stroke, head trauma and neurological damage associated with coronary artery bypass graft.
+4. Indication:  Investigated for use/treatment in strokes and traumatic brain injuries.
+DrugId:  23
+1. Name:  Pegnivacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, coronary artery disease, and vascular diseases.
+DrugId:  24
+1. Name:  Anisindione
+2. Groups:  Approved
+3. Description:  Anisindione is a synthetic anticoagulant and an indanedione derivative. It prevents the formation of active procoagulation factors II, VII, IX, and X, as well as the anticoagulant proteins C and S, in the liver by inhibiting the vitamin K-mediated gamma-carboxylation of precursor proteins.
+4. Indication:  For the prophylaxis and treatment of venous thrombosis and its extension, the treatment of atrial fibrillation with embolization, the prophylaxis and treatment of pulmonary embolism, and as an adjunct in the treatment of coronary occlusion.
+DrugId:  25
+1. Name:  CYT997
+2. Groups:  Investigational
+3. Description:  CYT997 is an orally available vascular argeting and cytotoxic agent that has proven effective in animal models of a wide range of tumour types including breast, prostate and colon, as well as some leukemias.
+4. Indication:  Investigated for use/treatment in solid tumors.

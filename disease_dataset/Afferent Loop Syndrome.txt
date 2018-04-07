@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  2
+1. Name:  AV608
+2. Groups:  Investigational
+3. Description:  AV608 is a NK-1 antagonist. It is developed for the treatment of Social anxiety disorder (SAD), irritable bowel syndrome (IBS) and overactive bladder (OAB).
+4. Indication:  Investigated for use/treatment in anxiety disorders, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  3
+1. Name:  Bumetanide
+2. Groups:  Approved
+3. Description:  A sulfamyl diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, hepatic and renal disease including the nephrotic syndrome.
+DrugId:  4
+1. Name:  Trichlormethiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with properties similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p830)
+4. Indication:  Used in the treatment of oedema (including that associated with heart failure) and hypertension.
+DrugId:  5
+1. Name:  F-Loop of Vitamin B12
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ondansetron
+2. Groups:  Approved
+3. Description:  A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, postoperation, and radiation. Also used for the treatment of postoperative nausea and vomiting.
+DrugId:  7
+1. Name:  Granisetron
+2. Groups:  Approved, Investigational
+3. Description:  A serotonin receptor (5HT-3 selective) antagonist that has been used as an antiemetic and antinauseant for cancer chemotherapy patients. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with initial and repeat courses of emetogenic cancer therapy (including high dose cisplatin), postoperation, and radiation (including total body irradiation and daily fractionated abdominal radiation).
+DrugId:  8
+1. Name:  Metoclopramide
+2. Groups:  Approved, Investigational
+3. Description:  A dopamine D2 antagonist that is used as an antiemetic.
+4. Indication:  For the treatment of gastroesophageal reflux disease (GERD). It is also used in treating nausea and vomiting, and to increase gastric emptying.
+DrugId:  9
+1. Name:  Torasemide
+2. Groups:  Approved
+3. Description:  Torasemide (rINN) or torsemide (USAN) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. It is also used at low doses for the management of hypertension. It is marketed under the brand name Demadex. [Wikipedia]
+4. Indication:  For the treatment of edema associated with congestive heart failure, renal disease, or hepatic disease. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  10
+1. Name:  Diflunisal
+2. Groups:  Approved, Investigational
+3. Description:  Diflunisal, a salicylate derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with pharmacologic actions similar to other prototypical NSAIAs. Diflunisal possesses anti-inflammatory, analgesic and antipyretic activity. Though its mechanism of action has not been clearly established, most of its actions appear to be associated with inhibition of prostaglandin synthesis via the arachidonic acid pathway. Diflunisal is used to relieve pain accompanied with inflammation and in the symptomatic treatment of rheumatoid arthritis and osteoarthritis.
+4. Indication:  For symptomatic treatment of mild to moderate pain accompanied by inflammation (e.g. musculoskeletal trauma, post-dental extraction, post-episiotomy), osteoarthritis, and rheumatoid arthritis.
+DrugId:  11
+1. Name:  OBE101
+2. Groups:  Investigational
+3. Description:  OBE101 is a new weight loss drug developed by Obecure Ltd. It is a new formulation that is based on the vertigo medication, Betahistine. Obecure is repurposing betahistine, which is an H1 receptor agonist and partial H3 receptor antagonist for the treatment of obese individuals and for other weight management indications. 
+4. Indication:  Investigated for use/treatment in adverse effects (drug), hyperlipidemia, and obesity.
+DrugId:  12
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.
+DrugId:  13
+1. Name:  Azosemide
+2. Groups:  Investigational
+3. Description:  Azosemide is a loop diuretic used to treat hypertension, edema, and ascites.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Resiniferatoxin
+2. Groups:  Investigational
+3. Description:  Resiniferatoxin (RTX) is a naturally occurring, ultrapotent capsaicin analog that activates the vanilloid receptor in a subpopulation of primary afferent sensory neurons involved in nociception (the transmission of physiological pain).
+4. Indication:  Investigated for use/treatment in interstitial cystitis and urinary incontinence.
+DrugId:  15
+1. Name:  DDP-200
+2. Groups:  Investigational
+3. Description:  DDP200 is developed by Dynogen for the treatment of non-incontinent form of overactive bladder (OAB) with particular focus on both male and female patients with urinary frequency, urinary urgency and nocturia.
+4. Indication:  Investigated for use/treatment in urinary incontinence.
+DrugId:  16
+1. Name:  Etozoline
+2. Groups:  Approved
+3. Description:  Etozoline (Diulozin, Elkapin, Etopinil) is a loop diuretic used in Europe.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Baclofen
+2. Groups:  Approved
+3. Description:  Baclofen is a gamma-amino-butyric acid (GABA) derivative used as a skeletal muscle relaxant. Baclofen stimulates GABA-B receptors leading to decreased frequency and amplitude of muscle spasms. It is especially useful in treating muscle spasticity associated with spinal cord injury. It appears to act primarily at the spinal cord level by inhibiting spinal polysynaptic afferent pathways and, to a lesser extent, monosynaptic afferent pathways. 
+4. Indication:  For the alleviation of signs and symptoms of spasticity resulting from multiple sclerosis, particularly for the relief of flexor spasms and concomitant pain, clonus, and muscular rigidity.
+DrugId:  18
+1. Name:  KW-7158
+2. Groups:  Investigational
+3. Description:  KW-7158 is a tricyclic compound with a non-cholingergic mechanism of action for the treatment of "urinary urgency," "frequent urination" and "urinary incontinence" associated with bladder overactivity (involuntary abnormal contraction of the bladder). The therapeutic effects of KW-7158 in overactive bladder may be due to the activation of A-type K(+) channels which regulate afferent neuron excitability and firing properties in the dorsal root ganglion neurons.
+4. Indication:  Investigated for use/treatment in urinary incontinence.
+DrugId:  19
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  20
+1. Name:  Benzonatate
+2. Groups:  Approved
+3. Description:  Benzonatate is a non-narcotic oral antitussive (cough suppressant) drug which works by anesthetizing the tissues of the lungs and pleura responsible for the cough reflex. It is chemically related to other ester anesthetics such as procaine. It has an anesthetic (numbing) action similar to that of benzocaine and "numbs" the stretch sensors in the lungs. It is the stretching of these sensors with breathing that causes the cough. It was approved by the FDA in 1958.
+4. Indication:  For the symptomatic relief of cough. Has also been applied locally in the oral cavity in adults by releasing the drug from the liquid-filled capsules to provide oropharyngeal anesthesia for conscious intubation.
+DrugId:  21
+1. Name:  Rolofylline
+2. Groups:  Investigational
+3. Description:  Rolofylline is under clinical development by pharmaceutical company NovaCardia for the treatment of congestive heart failure.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Piretanide
+2. Groups:  Approved
+3. Description:  Piretanide (INN, trade names Arelix, Eurelix, Tauliz) has been synthesized in 1973 at Hoechst AG (Germany) as a loop diuretic compound by using a then-new method for introducing cyclic amine residues in an aromatic nucleus in the presence of other aromatically bonded functional groups.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Arbutamine
+2. Groups:  Approved
+3. Description:  Arbutamine, administered through a closed-loop, computer-controlled drug-delivery system, is indicated to elicit acute cardiovascular responses, similar to those produced by exercise, in order to aid in diagnosing the presence or absence of coronary artery disease in patients who cannot exercise adequately .
+4. Indication:  Used to elicit acute cardiovascular responses (cardiac stumulant), similar to those produced by exercise, in order to aid in diagnosing the presence or absence of coronary artery disease (CAD) in patients who cannot exercise adequately.
+DrugId:  25
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available

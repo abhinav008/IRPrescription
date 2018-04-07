@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Velaglucerase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Velaglucerase alfa is a gene-activated human recombinant glucocerebrosidase used for the treatment of Type 1 Gaucher disease, caused by a deficiency of the lysosomal enzyme glucocerebrosidase. Additionally, Velaglucerase alfa has also been investigated for use in Type 3 Gaucher disease. 
+4. Indication:  Velaglucerase alfa is a hydrolytic lysosomal glucocerebroside-specific enzyme indicated for long-term enzyme replacement therapy for pediatric and adult patients with type 1 Gaucher disease.
+DrugId:  2
+1. Name:  Taliglucerase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Taliglucerase alfa is the recombinant active form of the human lysosomal enzyme, β-glucocerebrosidase. It was approved in 2012 and is marketed under the name Elelyso for use in patients with type 1 Gaucher's disease.
+4. Indication:  For the treatment of adult Type 1 Gaucher disease. 
+DrugId:  3
+1. Name:  Enprofylline
+2. Groups:  Approved, Investigational
+3. Description:  Enprofylline is a derivative of theophylline which shares bronchodilator properties. Enprofylline is used in asthma, chronic obstructive pulmonary disease, and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy. Long-term enprofylline administration may be associated with elevation in liver enzyme levels and unpredictable blood levels.
+4. Indication:  Used in the management of symptoms of asthma. Also used in the treatment of peripheral vascular diseases and in the management of cerebrovascular insufficiency, sickle cell disease, and diabetic neuropathy.
+DrugId:  4
+1. Name:  Hepatitis B Immune Globulin
+2. Groups:  Approved, Investigational
+3. Description:  Long-term hepatitis B immune globulin (HBIG) has been shown to reduce hepatitis B virus (HBV) reinfection in patients transplanted for hepatitis B. Infection with hepatitis B may lead to hepatocellular carcinoma, a type of liver cancer. Therefore, the hepatitis-B vaccines are cancer-preventing vaccines. According to the Centers for Disease Control and Prevention (CDC), the hepatitis B vaccine was the first anti-cancer vaccine.HBIG is prepared from the plasma of donors who have high antibody levels of the hepatitis B surface antigen. It is extracted from the Cohn fraction II. During the process, viruses are deactivated, and in the final steps, solvents used in the preparation are removed. The preparation is tested for absence of HIV, HCV, herpes virus, and reovirus.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B), liver transplant surgery, and pediatric indications.
+DrugId:  5
+1. Name:  CX516
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease, memory loss, autism, neurologic disorders, dementia, schizophrenia and schizoaffective disorders, attention deficit/hyperactivity disorder (ADHD), and sleep disorders.
+DrugId:  6
+1. Name:  Ustekinumab
+2. Groups:  Approved, Investigational
+3. Description:  Ustekinumab, is a human immunosuppressive drug developed by the biotechnology company Centocor. It is a laboratory-manufactured, monoclonal antibody directed against interleukins IL-12 and IL-23. Since 2009, ustekinumab has been approved in US, Canada, and Europe for the treatment of plaque psoriasis and psoriatic arthritis. In September 2016, Janssen announced that the FDA approved the medication for the treatment of moderate-severe Crohn's disease.
+4. Indication:  Ustekinumab is indicated for management of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy or phototherapy; or is used alone or in conjunction with methotrexate for the management of active psoriatic arthritis in adults. The FDA approved the use of ustekinumab in September 2016 for the treatment of moderate to severe Crohn's disease. The use of ustekinumab may improve short term clinical response but not clinical remission in moderate to severe Crohn's disease.
+DrugId:  7
+1. Name:  Eliglustat
+2. Groups:  Approved
+3. Description:  Eliglustat, marketed by Genzyme as CERDELGA, is a glucosylceramide synthase inhibitor indicated for the long-term treatment of type 1 Gaucher disease. Patients selected for treatment with Eliglustat undergo an FDA approved genotype test to establish if they are CYP2D6 EM (extensive metabolizers), IM (intermediate metabolizers), or PM (poor metabolizers), as the results of this test dictate the dosage of Eliglustat recommended. Eliglustat was approved for use by the FDA in August 2014.
+4. Indication:  Eliglustat is indicated for the long-term treatment of type 1 Gaucher disease in patients who are CYP2D6 extensive metabolizers (EMs), intermediate metabolizers (IMs), or poor metabolizers (PMs) in treatment-naive and treatment-experienced adult patients. 
+DrugId:  8
+1. Name:  Aclidinium
+2. Groups:  Approved
+3. Description:  Aclidinium is an anticholinergic for the long-term management of chronic obstructive pulmonary disease (COPD). It has a much higher propensity to bind to muscarinic receptors than nicotinic receptors. FDA approved on July 24, 2012. 
+4. Indication:  Aclidinium bromide inhalation powder is indicated for the long-term, maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema.
+DrugId:  9
+1. Name:  Dobutamine
+2. Groups:  Approved
+3. Description:  A beta-1 agonist catecholamine that has cardiac stimulant action without evoking vasoconstriction or tachycardia. It is proposed as a cardiotonic after myocardial infarction or open heart surgery.
+4. Indication:  For inotropic support in the short- term treatment of patients with cardiac decompensation due to depressed contractility resulting either from organic heart disease or from cardiac surgical procedures
+DrugId:  10
+1. Name:  Anti-inhibitor coagulant complex
+2. Groups:  Approved, Investigational
+3. Description:  Anti-inhibitor coagulant complex, also known as FEIBA (factor eight inhibitor bypassing activity), contains several proteins involved in the prothrombinase complex. It is used to control bleeding in hemophilia A and B patients with inhibitors.
+4. Indication:  For use in the control of bleeding episodes, perioperative management, and routine prophylaxis against bleeding episodes in hemophilia A and B patients with inhibitors [FDA Label]. It is not indicated in the absence of factor VIII or IX inhibitors.
+DrugId:  11
+1. Name:  clomethiazole
+2. Groups:  Investigational
+3. Description:  Clomethiazole is a well-established γ-aminobutyric acid (GABAA)-mimetic drug. It is a sedative and hypnotic that is widely used in treating and preventing symptoms of acute alcohol withdrawal. It is a drug which is structurally related to thiamine (vitamin B1) but acts like a sedative, hypnotic, muscle relaxant and anticonvulsant. It is also used for the management of agitation, restlessness, short-term insomnia and Parkinson's disease in the elderly.
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  12
+1. Name:  Pantoprazole
+2. Groups:  Approved
+3. Description:  Pantoprazole is a proton pump inhibitor drug used for short-term treatment of erosion and ulceration of the esophagus caused by gastroesophageal reflux disease.
+4. Indication:  Short-term (up to 16 weeks) treatment of erosive esophagitis.
+DrugId:  13
+1. Name:  Umeclidinium
+2. Groups:  Approved
+3. Description:  Umeclidinium is a long-acting muscarinic antagonist (LAMA) used as maintenance treatment for symptoms of chronic obstructive pulmonary disease (COPD). It is available as a once-daily inhalation monotherapy or as a fixed-dose combination product with the long-acting beta2-agonist vilanterol. COPD is a progressive obstructive lung disease characterized by shortness of breath, cough, sputum production, and chronically poor airflow with a forced expiratory volume in 1 second (FEV1) of less than 80%. By blocking the M3 muscarinic receptor which is highly expressed in airway smooth muscle of the lungs, umeclidinium inhibits the binding of acetylcholine and thereby opens up the airways by preventing bronchoconstriction. Its use has been shown to provide clinically significant, sustained improvements in lung function. 
+4. Indication:  Indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD).
+DrugId:  14
+1. Name:  Nitric Oxide
+2. Groups:  Approved
+3. Description:  Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants.Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant.The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+4. Indication:  For the treatment of term and near-term (>34 weeks) neonates with hypoxic respiratory failure
+DrugId:  15
+1. Name:  Tolmetin
+2. Groups:  Approved
+3. Description:  A non-steroidal anti-inflammatory agent (anti-inflammatory agents, NON-steroidal) similar in mode of action to indomethacin. [PubChem]
+4. Indication:  For the relief of signs and symptoms of rheumatoid arthritis and osteoarthritis, including the treatment of acute flares long-term management. Also for treatment of juvenile rheumatoid arthritis.
+DrugId:  16
+1. Name:  Vilanterol
+2. Groups:  Approved
+3. Description:  Vilanterol is a selective long-acting beta2-adrenergic agonist (LABA) with inherent 24-hour activity for once daily treatment of COPD and asthma. Its pharmacological effect is attributable to stimulation of intracellular adenylyl cyclase which catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increases in cyclic AMP are associated with relaxation of bronchial smooth muscle and inhibition of release of hypersensitivity mediators from mast cells in the lungs. Vilanterol is approved for use in several combination products such as with fluticasone furoate under the tradename Breo Ellipta and in combination with umeclidinium bromide as Anoro Ellipta. Approved by the FDA in 2013, use of Breo Ellipta is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+4. Indication:  Vilanterol is approved for use in several combination products such as with fluticasone furoate under the tradename Breo Ellipta and in combination with umeclidinium bromide as Anoro Ellipta. Approved by the FDA in 2013, use of Breo Ellipta is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+DrugId:  17
+1. Name:  Sucralfate
+2. Groups:  Approved
+3. Description:  A basic aluminum complex of sulfated sucrose. [PubChem]
+4. Indication:  For the short-term treatment (up to 8 weeks) of active duodenal ulcer, as well as maintenance therapy for duodenal ulcer patients at reduced dosage (1 gram twice a day) after healing of acute ulcers. Also used for the short-term treatment of gastric ulcer.
+DrugId:  18
+1. Name:  Fluticasone furoate
+2. Groups:  Approved
+3. Description:  Fluticasone furoate is a synthetic trifluorinated corticosteroid with potent anti-inflammatory activity. Despite the similarity in the names, fluticasone furoate and fluticasone propionate are different drugs with different properties. It is marketed under the brand name, Veramyst in the US by GlaxoSmithKline for the management of chronic obstructive pulmonary disease (COPD). FDA approved on April 27, 2007. Fluticasone furoate is available as a combination product with vilanterol, a long-acting beta-2 agonist, under the tradename Breo Ellipta. Approved by the FDA in 2013, its use is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+4. Indication:  Fluticasone furoate nasal spray is indicated for the treatment of the symptoms of seasonal and perennial allergic rhinitis in patients aged 2 years and older. Breo Ellipta, a mixture of fluticasone furoate and vilanterol is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease. Breo Ellipta should not be used for the relief of acute symptoms of asthma or COPD.
+DrugId:  19
+1. Name:  Defibrotide
+2. Groups:  Approved, Investigational
+3. Description:  Defibrotide is the sodium salt of a mixture of single-stranded oligodeoxyribonucleotides derived from porcine mucosal DNA. It has been shown to have antithrombotic, anti-inflammatory and anti-ischemic properties (but without associated significant systemic anticoagulant effects). It is marketed under the brand names Dasovas (FM), Noravid, and Prociclide in a variety of countries. In the USA it is was approved in March, 2016 as Defitelio.
+4. Indication:  Defibrotide is used to treat or prevent a failure of normal blood flow (occlusive venous disease, OVD) in the liver of patients who have had bone marrow transplants or received certain drugs such as oral estrogens, mercaptopurine, and many others.
+DrugId:  20
+1. Name:  Selexipag
+2. Groups:  Approved
+3. Description:  Selexipag was approved by the United States FDA on December 22, 2015 for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization. PAH is a relatively rare disease with usually a poor prognosis requiring more treatment options to prolong long-term outcomes. Marketed by Actelion Pharmaceuticals under brand name Uptravi, selexipag and its active metabolite, ACT-333679 (MRE-269), act as agonists of the prostacyclin receptor to increase vasodilation in the pulmonary circulation and decrease elevated pressure in the blood vessels supplying blood to the lungs. 
+4. Indication:  Selexipag is indicated for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization.
+DrugId:  21
+1. Name:  Formoterol
+2. Groups:  Approved, Investigational
+3. Description:  Formoterol is a long-acting (12 hours) beta2-agonist used in the management of asthma and/or chronic obstructive pulmonary disease (COPD). Inhaled formoterol works like other beta2-agonists, causing bronchodilatation through relaxation of the smooth muscle in the airway so as to treat the exacerbation of asthma.
+4. Indication:  For use as long-term maintenance treatment of asthma in patients 6 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma, who are using optimal corticosteroid treatment and experiencing regular or frequent breakthrough symptoms requiring use of a short-acting bronchodilator. Not indicated for asthma that can be successfully managed with occasional use of an inhaled, short-acting beta2-adrenergic agonist. Also used for the prevention of exercise-induced bronchospasm, as well as long-term treatment of bronchospasm associated with COPD.
+DrugId:  22
+1. Name:  Beraprost
+2. Groups:  Investigational
+3. Description:  Beraprost is a synthetic analogue of prostacyclin, under clinical trials for the treatment of pulmonary hypertension. It is also being studied for use in avoiding reperfusion injury.
+4. Indication:  For the treatment of pulmonary hypertension.
+DrugId:  23
+1. Name:  Tiopronin
+2. Groups:  Approved, Investigational
+3. Description:  Tiopronin is a prescription thiol drug used primarily in the treatment of severe homozygous cystinuria. Patients with cystinuria excrete high levels of cystine in their urine and are at risk for kidney stone formation. Tiopronin is used as a second-line therapy to control the rate of cystine precipitation and excretion, and prevent kidney stone formation. It is used after a failure of the non-pharmacological first line treatment consisting of increased fluid intake, restriction of sodium and protein, and urinary alkalinization. As cystinuria is a relatively rare disease, tiopronin is classified as an orphan drug and is not patented in the United States. It is similar to d-penicillamine in use and efficacy, but offers the advantage of far less adverse effects. Tiopronin is dosed on an individual basis using close monitoring of urinary cystine concentrations and urinary output.Tiopronin may also be used to bind metal nanoparticles in Wilson's disease, which is an overload of copper in the body. It has been investigated for use in the treatment of arthritis and as a neuroprotective agent in aneurysmal subarachnoid hemorrhage.
+4. Indication:  Tiopronin is indicated for the prevention of kidney stone formation in patients with severe homozygous cystinuria consisting of a urinary cystine concentration greater than 500 mg/day, and who have failed treatment with non-pharmacological measures of increased fluid intake, decreased sodium and protein intake, and urine alkalinization.
+DrugId:  24
+1. Name:  Prolease-r-hFSH
+2. Groups:  Investigational
+3. Description:  Prolease-r-hFSH is a recombinant human follicle stimulating hormone (r-hFSH) with Alkermes' ProLease injectable sustained release drug delivery technology.It provides patients with long term therapeutic benefit from a single administration rather than multiple injections.
+4. Indication:  Investigated for use/treatment in infertility.
+DrugId:  25
+1. Name:  Indacaterol
+2. Groups:  Approved
+3. Description:  Indacaterol is a novel, ultra-long-acting, rapid onset β(2)-adrenoceptor agonist developed for Novartis for the once-daily management of asthma and chronic obstructive pulmonary disease. It was approved by the European Medicines Agency (EMA) under the trade name Onbrez on November 30, 2009, and by the United States Food and Drug Administration (FDA), under the trade name Arcapta Neohaler, on July 1, 2011. Indacaterol is provided as its maleate salt form. Indacaterol is also a chiral molecule but only the pure R-enantiomer is dispensed.
+4. Indication:  For the long term, once-daily-dosing maintenance of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.

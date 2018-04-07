@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Benserazide
+2. Groups:  Approved, Investigational
+3. Description:  Benserazide has been investigated for the treatment of Aphasia.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Hexylcaine
+2. Groups:  Approved, Withdrawn
+3. Description:  Hexylcaine hydrochloride, also called cyclaine (Merck) or osmocaine, is a short-acting local anesthetic. It acts by inhibiting sodium channel conduction. Overdose can lead to headache, tinnitus, numbness and tingling around the mouth and tongue, convulsions, inability to breathe, and decreased heart function. Hexylcaine has been discontinued in the US market. 
+4. Indication:  Used as a local anesthetic for surface application, infiltration or nerve block
+DrugId:  3
+1. Name:  Tecadenoson
+2. Groups:  Investigational
+3. Description:  Tecadenoson is a novel selective A1 adenosine receptor agonist that is currently being evaluated for the conversion of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm. It is being developed by CV Therapeutics, Inc.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  4
+1. Name:  Davunetide
+2. Groups:  Investigational
+3. Description:  Davunetide has been used in trials studying the treatment of Progressive Nonfluent Aphasia, Progressive Supranuclear Palsy, Predicted Tauopathies, Including, Corticobasal Degeneration Syndrome, and Frontotemporal Dementia With Parkinsonism Linked to Chromosome 17.Davunetide is the first drug to improve memory performance by impacting the mechanisms that lead to physical damage in the brain caused by neurofibrillary tangles, one of the two established pathological hallmarks that are common to amnestic mild cognitive impairment (aMCI) and Alzheimer's disease (AD). Davunetide is derived from a naturally occurring neuroprotective brain protein known as activity dependent neuroprotective protein.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  6
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  7
+1. Name:  Ajmaline
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid found in the root of Rauwolfia serpentina, among other plant sources. It is a class Ia antiarrhythmic agent that apparently acts by changing the shape and threshold of cardiac action potentials. Ajmaline produces potent sodium channel blocking effects and a very short half-life which makes it a very useful drug for acute intravenous treatments. The drug has been very popular in some countries for the treatment of atrial fibrillation in patients with the Wolff–Parkinson–White syndrome and in well tolerated monomorphic ventricular tachycardias. It has also been used for many years as a drug to challenge the conduction system of the heart in cases of bundle branch block and syncope. In these cases, abnormal prolongation of the HV interval has been taken as a proof for infrahisian conduction defects tributary for permanent pacemaker implantation.
+4. Indication:  For use as an antiarrhythmic agent.
+DrugId:  8
+1. Name:  Ropivacaine
+2. Groups:  Approved
+3. Description:  Ropivacaine is a local anaesthetic drug belonging to the amino amide group. The name ropivacaine refers to both the racemate and the marketed S-enantiomer. Ropivacaine hydrochloride is commonly marketed by AstraZeneca under the trade name Naropin.
+4. Indication:  Used in obstetric anesthesia and regional anesthesia for surgery.
+DrugId:  9
+1. Name:  Eslicarbazepine acetate
+2. Groups:  Approved
+3. Description:  Eslicarbazepine acetate (ESL) is an anticonvulsant medication approved for use in Europe, the United States and Canada as an adjunctive therapy for partial-onset seizures that are not adequately controlled with conventional therapy. Eslicarbazepine acetate is a prodrug that is rapidly converted to eslicarbazepine, the primary active metabolite in the body. Eslicarbazepine's mechanism of action is not well understood, but it is known that it does exert anticonvulsant activity by inhibiting repeated neuronal firing and stabilizing the inactivated state of voltage-gated sodium channels, thus preventing their return to the activated state during which seizure activity can occur.Eslicarbazepine acetate is marketed as Aptiom in North America and Zebinix or Exalief in Europe. It is available in 200, 400, 600, or 800mg tablets that are taken once daily, with or without food. Eslicarbazepine acetate is associated with numerous side effects including dizziness, drowsiness, nausea, vomiting, diarrhea, headache, aphasia, lack of concentration, psychomotor retardation, speech disturbances, ataxia, depression and hyponatremia. It is recommended that patients taking eslicarbazepine acetate be monitored for suicidality.
+4. Indication:  Eslicarbazepine acetate is indicated as adjunctive therapy in the treatment of partial-onset seizures that are not adequately controlled with conventional therapy in epileptic patients. 
+DrugId:  10
+1. Name:  Butamben
+2. Groups:  Approved
+3. Description:  Butamben is a midly water-soluble local anesthetic that is thought to reversibly blocking nerve conduction. It is available in topical formulations in combination with other local anesthetics indicated for controlling pain or inducing anesthesia on mucous membranes for surgical or endoscopic procedures. The onset of drug action is intermediate compared to benzocaine or tetracaine.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Bupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  A widely used local anesthetic agent. [PubChem]
+4. Indication:  For the production of local or regional anesthesia or analgesia for surgery, for oral surgery procedures, for diagnostic and therapeutic procedures, and for obstetrical procedures.
+DrugId:  12
+1. Name:  Disopyramide
+2. Groups:  Approved
+3. Description:  A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.
+DrugId:  13
+1. Name:  Mexiletine
+2. Groups:  Approved, Investigational
+3. Description:  Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties. [PubChem]
+4. Indication:  For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.
+DrugId:  14
+1. Name:  Acetyldigitoxin
+2. Groups:  Approved
+3. Description:  Cardioactive derivative of lanatoside A or of digitoxin used for fast digitalization in congestive heart failure.
+4. Indication:  Used for fast digitalization in congestive heart failure.
+DrugId:  15
+1. Name:  Cinchocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic of the amide type now generally used for surface anesthesia. It is one of the most potent and toxic of the long-acting local anesthetics and its parenteral use is restricted to spinal anesthesia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1006)
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  16
+1. Name:  Chloroprocaine
+2. Groups:  Approved
+3. Description:  Chloroprocaine hydrochloride is a local anesthetic given by injection during surgical procedures and labor and delivery. Chloroprocaine, like other local anesthetics, blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse and by reducing the rate of rise of the action potential.
+4. Indication:  For the production of local anesthesia by infiltration and peripheral nerve block. They are not to be used for lumbar or caudal epidural anesthesia.
+DrugId:  17
+1. Name:  Penbutolol
+2. Groups:  Approved, Investigational
+3. Description:  Penbutolol is a drug in the beta-blocker class used to treat hypertension. Penbutolol binds both beta-1 and beta-2 adrenergic receptors, rendering it a non-selective beta-blocker. Penbutolol can act as a partial agonist at beta adrenergic receptors, since it is a sympathomimetric drug. Penbutolol also demonstrates high binding affinity to the 5-hydroxytryptamine receptor 1A with antagonistic effects. This binding characteristic of penbutolol is being investigated for its implications in Antidepressant Therapy. Penbutolol is contraindicated in patients with cardiogenic shock, sinus bradycardia, second and third degree atrioventricular conduction block, bronchial asthma, and those with known hypersensitivity.
+4. Indication:  Penbutolol is indicated in the treatment of mild to moderate arterial hypertension. It may be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics.Penbutolol is contraindicated in patients with cardiogenic shock, sinus bradycardia, second and third degree atrioventricular conduction block, bronchial asthma, and those with known hypersensitivity.
+DrugId:  18
+1. Name:  Dyclonine
+2. Groups:  Approved
+3. Description:  Dyclonine is an oral anaesthetic found in Sucrets, an over the counter throat lozenge. It is also found in some varieties of the Cepacol sore throat spray.
+4. Indication:  Used to provide topical anesthesia of accessible mucous membranes prior to examination, endoscopy or instrumentation, or other procedures involving the esophagus, larynx, mouth, pharynx or throat, respiratory tract or trachea, urinary tract, or vagina. Also used to suppress the gag reflex and/or other laryngeal and esophageal reflexes to facilitate dental examination or procedures (including oral surgery), endoscopy, or intubation. Also used for relief of canker sores, cold sores or fever blister.
+DrugId:  19
+1. Name:  Alprenolol
+2. Groups:  Approved, Withdrawn
+3. Description:  One of the adrenergic beta-antagonists used as an antihypertensive, anti-anginal, and anti-arrhythmic agent. Alprenolol is no longer marketed by AstraZeneca, but may still be available in generic varieties.
+4. Indication:  For the treatment of hypertension, angina, and arrhythmia
+DrugId:  20
+1. Name:  Bopindolol
+2. Groups:  Approved
+3. Description:  Bopindolol (INN) is a beta blocker. It is an ester which acts as a prodrug for Pindolol.
+4. Indication:  For the management of hypertension, edema, ventricular tachycardias, and atrial fibrillation.
+DrugId:  21
+1. Name:  Vernakalant
+2. Groups:  Approved, Investigational
+3. Description:  Vernakalant was developed by Cardiome Pharma as as an antiarrhythmic drug intended for rapid conversion of atrial fibrillation to sinus rhythm. It acts as an atypical class III antiarrhythmic drug that potentiates its effect in higher heart rates. Intravenous formulation was approved in Europe in September 2010 as Brinavess and in Canada in April 2017. It is an investigational drug under regulatory review by FDA.
+4. Indication:  Indicated for the rapid conversion of recent onset of atrial fibrillation to sinus rhythm in adults for non-surgery patients that lasts for less than 7 days of duration and post-cardiac surgery patients with atrial fibrillation lasting less than 3 days of duration.
+DrugId:  22
+1. Name:  Dalfampridine
+2. Groups:  Approved
+3. Description:  Dalfampridine is a potassium channel blocker used to help multiple sclerosis patients walk. This is the first drug that was specifically approved to help with mobility in these patients. FDA approved on January 22, 2010. 
+4. Indication:  Dalfampridine is a neurofunctional modifier that helps improve walking speed in patients with multiple sclerosis (MS). 
+DrugId:  23
+1. Name:  Levobupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  Levobupivacaine is an amino-amide local anaesthetic drug belonging to the family of n-alkylsubstitutedpipecoloxylidide. It is the S-enantiomer of bupivacaine. Levobupivacaine hydrochloride is commonly marketed by AstraZeneca under the trade name Chirocaine. Compared to bupivacaine, levobupivacaine is associated with less vasodilation and has a longer duration of action. It is approximately 13 per cent less potent (by molarity) than racemic bupivacaine.Levobupivacaine is indicated for local anaesthesia including infiltration, nerve block, ophthalmic, epidural and intrathecal anaesthesia in adults; and infiltration analgesia in children. Adverse drug reactions (ADRs) are rare when it is administered correctly. Most ADRs relate to administration technique (resulting in systemic exposure) or pharmacological effects of anesthesia, however allergic reactions can rarely occur. [Wikipedia]
+4. Indication:  For the production of local or regional anesthesia for surgery and obstetrics, and for post-operative pain management
+DrugId:  24
+1. Name:  Mepivacaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic that is chemically related to bupivacaine but pharmacologically related to lidocaine. It is indicated for infiltration, nerve block, and epidural anesthesia. Mepivacaine is effective topically only in large doses and therefore should not be used by this route. (From AMA Drug Evaluations, 1994, p168)
+4. Indication:  For production of local or regional analgesia and anesthesia by local infiltration, peripheral nerve block techniques, and central neural techniques including epidural and caudal blocks.
+DrugId:  25
+1. Name:  Proparacaine
+2. Groups:  Approved, Vet approved
+3. Description:  Proparacaine is a topical anesthetic drug of the amino ester group. It is available as its hydrochloride salt in ophthalmic solutions at a concentration of 0.5%.
+4. Indication:  Used as a local (ophthalmic) anesthetic.

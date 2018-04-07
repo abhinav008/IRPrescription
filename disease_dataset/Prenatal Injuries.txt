@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Vitamin E
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A generic descriptor for all tocopherols and tocotrienols that exhibit alpha-tocopherol activity. By virtue of the phenolic hydrogen on the 2H-1-benzopyran-6-ol nucleus, these compounds exhibit varying degree of antioxidant activity, depending on the site and number of methyl groups and the type of isoprenoids.
+4. Indication:  Vitamin E, known for its antioxidant activities, is protective against cardiovascular disease and some forms of cancer and has also demonstrated immune-enhancing effects. It may be of limited benefit in some with asthma and rheumatoid arthritis. It may be helpful in some neurological diseases including Alzheimer's, some eye disorders including cataracts, and diabetes and premenstrual syndrome. It may also help protect skin from ultraviolet irradiation although claims that it reverses skin aging, enhances male fertility and exercise performance are poorly supported. It may help relieve some muscle cramps.
+DrugId:  2
+1. Name:  Cupric oxide
+2. Groups:  Approved
+3. Description:  Cupric oxide, or copper (II) oxide, is an inorganic compound with the chemical formula CuO. Cupric oxide is used as a precursor in many copper-containing products such as wood preservatives and ceramics.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Iron
+2. Groups:  Approved
+3. Description:  A metallic element found in certain minerals, in nearly all soils, and in mineral waters. It is an essential constituent of hemoglobin, cytochrome, and other components of respiratory enzyme systems. Its chief functions are in the transport of oxygen to tissue (hemoglobin) and in cellular oxidation mechanisms. Depletion of iron stores may result in iron-deficiency anemia. Iron is used to build up the blood in anemia.
+4. Indication:  Used in preventing and treating iron-deficiency anemia.
+DrugId:  4
+1. Name:  Fish oil
+2. Groups:  Approved, Nutraceutical
+3. Description:  Fish oil is a component of SMOFLIPID, which was FDA approved in July 2016. It is indicated in adults as a source of calories and essential fatty acids for parenteral nutrition when oral or enteral nutrition is not possible, insufficient, or contraindicated.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Elafin
+2. Groups:  Investigational
+3. Description:  Elafin is a human protein that is produced naturally in the skin, lung and breast, protecting the respective tissue from destruction by the immune system. Elafin’s ability to block the activity of destructive enzymes that are involved in inflammatory reactions makes it a highly promising active compound for the treatment of inflammatory lung diseases or severe reperfusion injuries occurring after heart attacks, serious injuries and organ transplantation. The excellent tolerability of Elafin in human subjects was demonstrated in a Phase I clinical single dose escalating study.
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified).
+DrugId:  6
+1. Name:  Beta carotene
+2. Groups:  Approved, Nutraceutical
+3. Description:  Beta (β) carotene is the most common carotenoid synthesized by microorganisms and plants, giving a deep red-orange natural pigment to various fruits and vegetables. Beta-carotene has two cyclohexene type end groups and consists of two beta rings at the end group during the enzymatic cyclization of biosynthesis. It is a provitamin A carotenoid and is available as dietary supplements. Along with other carotenoids, beta carotene has antioxidant properties that disrupts the formation of free radicals through oxidation quenching. Beta-carotene is also a scavenger of peroxyl radicals. The potential benefit of beta carotene and other carotenoids in cancer treatment have been studied yet conclusions on their therapeutic efficacy remain undetermined.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Calcium Carbonate
+2. Groups:  Approved, Investigational
+3. Description:  Calcium carbonate is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects. Calcium carbonate may also be used as a nutritional supplement or to treat hypocalcemia.
+4. Indication:  For relief of heartburn and acid indigestion. May also be used as a nutritional supplement or to treat hypocalcemia. 
+DrugId:  8
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  9
+1. Name:  Copper
+2. Groups:  Approved, Investigational
+3. Description:  Copper is a transition metal and a trace element in the body. It is important to the function of many enzymes including cytochrome c oxidase, monoamine oxidase and superoxide dismutase [FDA Label]. Copper is commonly used in contraceptive intrauterine devices (IUD) [5].
+4. Indication:  For use in the supplementation of total parenteral nutrition and in contraception with intrauterine devices [FDA Label] [5].
+DrugId:  10
+1. Name:  Folic Acid
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (poaceae). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia. [PubChem]
+4. Indication:  For treatment of folic acid deficiency, megaloblastic anemia and in anemias of nutritional supplements, pregnancy, infancy, or childhood.
+DrugId:  11
+1. Name:  M40403
+2. Groups:  Investigational
+3. Description:  M40403 is a low molecular weight, synthetic manganese containing superoxide dismutase mimetic (SODm) that selectively removes superoxide anion.
+4. Indication:  Intended for the treatment of pain and possibly various forms of cancer.
+DrugId:  12
+1. Name:  Riboflavin
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Nutritional factor found in milk, eggs, malted barley, liver, kidney, heart, and leafy vegetables. The richest natural source is yeast. It occurs in the free form only in the retina of the eye, in whey, and in urine; its principal forms in tissues and cells are as flavin mononucleotide and flavin-adenine dinucleotide.
+4. Indication:  For the treatment of ariboflavinosis (vitamin B2 deficiency).
+DrugId:  13
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.
+DrugId:  14
+1. Name:  Pyridoxine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. [PubChem]
+4. Indication:  For the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy.
+DrugId:  15
+1. Name:  Thiamine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Thiamine or thiamin, also known as vitamin B1, is a colorless compound with the chemical formula C12H17N4OS. It is soluble in water and insoluble in alcohol. Thiamine decomposes if heated. Thiamine was first discovered by Umetaro Suzuki in Japan when researching how rice bran cured patients of Beriberi. Thiamine plays a key role in intracellular glucose metabolism and it is thought that thiamine inhibits the effect of glucose and insulin on arterial smooth muscle cell proliferation. Thiamine plays an important role in helping the body convert carbohydrates and fat into energy. It is essential for normal growth and development and helps to maintain proper functioning of the heart and the nervous and digestive systems. Thiamine cannot be stored in the body; however, once absorbed, the vitamin is concentrated in muscle tissue.
+4. Indication:  For the treatment of thiamine and niacin deficiency states, Korsakov's alcoholic psychosis, Wernicke-Korsakov syndrome, delirium, and peripheral neuritis.
+DrugId:  16
+1. Name:  Tolperisone
+2. Groups:  Approved, Investigational
+3. Description:  Tolperisone is an oral, centrally acting muscle relaxant. Its precise mechanism is not completely understood, though it blocks sodium and calcium channels. It possesses a high affinity for nervous system tissue, reaching highest concentrations in brain stem, spinal cord and peripheral nerves. Based on existing clinical data, Tolperisone is not sedating and does not interact with alcohol.
+4. Indication:  Investigated for use/treatment in neurologic disorders, spinal cord injuries, muscle spasm, back pain, and multiple sclerosis.
+DrugId:  17
+1. Name:  Daprodustat
+2. Groups:  Investigational
+3. Description:  Daprodustat has been used in trials studying the other, treatment, and basic science of Anaemia, Wound Healing, Tendon Injuries, Surgical Procedures, and Vascular Disease, Peripheral.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Indigotindisulfonic Acid
+2. Groups:  Approved
+3. Description:  Indolesulfonic acid is a blue-colored dye used in the kidney function test for the detection of nitrates and chlorates. It is largely excreted by the kidneys.
+4. Indication:  Used as a dye in renal function testing for the detection of nitrates and chlorates.
+DrugId:  19
+1. Name:  Zinc citrate
+2. Groups:  Approved
+3. Description:  Zinc citrate is a zinc salt of citric acid. It is available as dietary supplements as a treatment of zinc deficiency and source of zinc, which is an essential trace element. Zinc citrate demonstrates effective absorption following oral administration [1].
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Cyanocobalamin
+2. Groups:  Approved, Nutraceutical
+3. Description:  Cyanocobalamin (commonly known as Vitamin B12) is the most chemically complex of all vitamins. Its chemical structure is based on a corrin ring, which, although quite similar to the porphyrin ring found in heme, chlorophyll, and cytochrome, has two of the pyrrole rings directly bonded. The central metal ion in cyanocobalamin is Co (cobalt). Cyanocobalamin (Vitamin B12) is not produced by plants or by animals. The only organisms that have the enzymes required for the synthesis of cyanocobalamin are bacteria and archaea [10].Higher plants do not utilize cyanocobalamin from the soil, and are therefore a poor source of the substance as compared with animal tissues, which are potent in cyanocobalamin [10].Vitamin B12 is naturally found in animal products, including fish, meat, poultry, eggs, milk, and milk products. Vitamin B12 is generally not present in plant foods, but fortified breakfast cereals are a readily available source of vitamin B12 with high bioavailability for vegetarian consumers. Various nutritional yeast products also contain vitamin B12 [12].The main causes of vitamin B12 deficiency include vitamin B12 malabsorption, pernicious anemia, postsurgical malabsorption, and lastly, dietary deficiency. In many cases, however, the cause of deficiency is unknown [12].
+4. Indication:  For treatment of pernicious anemia (due to lack of or inhibition of intrinsic factor) and for prevention and treatment of vitamin B 12 deficiency [12], [15].Values below approximately 170–250 pg/mL (120–180 picomol/L) for adults suggest a vitamin B12 deficiency. Despite this, evidence suggests that serum vitamin B12 concentrations may not accurately reflect intracellular concentrations of the vitamin [12]. It is therefore difficult to diagnose vitamin B12 deficiency.
+DrugId:  21
+1. Name:  Vanadium
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Vitamin C
+2. Groups:  Approved, Nutraceutical
+3. Description:  A six carbon compound related to glucose. It is found naturally in citrus fruits and many vegetables. Ascorbic acid is an essential nutrient in human diets, and necessary to maintain connective tissue and bone. Its biologically active form, vitamin C, functions as a reducing agent and coenzyme in several metabolic pathways. Vitamin C is considered an antioxidant.
+4. Indication:  Used to treat vitamin C deficiency, scurvy, delayed wound and bone healing, urine acidification, and in general as an antioxidant. It has also been suggested to be an effective antiviral agent.
+DrugId:  23
+1. Name:  DP-b99
+2. Groups:  Investigational
+3. Description:  DP-b99 is a newly developed lipophilic, cell permeable derivative of BAPTA (1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid), that is under development as a neuroprotectant for the potential treatment of stroke, head trauma and neurological damage associated with coronary artery bypass graft.
+4. Indication:  Investigated for use/treatment in strokes and traumatic brain injuries.
+DrugId:  24
+1. Name:  Dexanabinol
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in traumatic brain injuries and neurologic disorders.
+DrugId:  25
+1. Name:  Niacin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A water-soluble vitamin of the B complex occurring in various animal and plant tissues. It is required by the body for the formation of coenzymes NAD and NADP. It has pellagra-curative, vasodilating, and antilipemic properties. [PubChem]
+4. Indication:  For the treatment of type IV and V hyperlipidemia. It is indicated as ajunctive therapy.

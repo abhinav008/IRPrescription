@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Decitabine
+2. Groups:  Approved, Investigational
+3. Description:  Decitabine is indicated for treatment of patients with myelodysplastic syndrome (MDS). It is a chemical analogue of cytidine, a nucleoside present in DNA and RNA. Cells in the presence of Decitabine incorporate it into DNA during replication and RNA during transcription. The incorporation of Decitabine into DNA or RNA inhibits methyltransferase thereby causing demethylation in that sequence. This adversely affects the way that cell regulatory proteins are able to bind to the DNA/RNA substrate.
+4. Indication:  For treatment of patients with myelodysplastic syndromes (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia) and intermediate-1, intermediate-2, and high-risk International Prognostic Scoring System groups (scores ≥0.5).
+DrugId:  2
+1. Name:  Azacitidine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analogue that inhibits DNA methyltransferase, impairing DNA methylation. It is also an antimetabolite of cytidine, incorporated primarily into RNA. Azacytidine has been used as an antineoplastic agent. [PubChem]
+4. Indication:  For treatment of patients with the following French-American-British myelodysplastic syndrome subtypes: refractory anemia or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts, refractory anemia with excess blasts in transformation (now classified as acute myelogenous leukemia with multilineage dysplasia), and chronic myelomonocytic leukemia.
+DrugId:  3
+1. Name:  recombinant human GM-CSF
+2. Groups:  Investigational
+3. Description:  Human GM-CSF (Granulocyte/Monocyte-Colony Stimulating Factor) is a differentially glycosylated factor produced mainly by activated T cells and macrophages. Endothelial cells and fibroblasts can also produce GM-CSF after exposure to TNF-α, IL-1, IL-2 and IFN-γ. GM-CSF is found associated with extracellular matrix and in membrane-bound formats too. GM-CSF stimulates proliferation, activation and differentiation of macrophages and granulocytes and their progenitors.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy) and bone marrow transplant.
+DrugId:  4
+1. Name:  BMS-214662
+2. Groups:  Investigational
+3. Description:  BMS-214662 has been used in trials studying the treatment of Childhood Myelodysplastic Syndromes, Refractory Anemia With Excess Blasts, Recurrent Adult Acute Myeloid Leukemia, Relapsing Chronic Myelogenous Leukemia, and Adult Acute Promyelocytic Leukemia (M3), among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Brontictuzumab
+2. Groups:  Investigational
+3. Description:  Brontictuzumab has been used in trials studying the treatment of Adenoid Cystic Carcinoma, Relapsed or Refractory Solid Tumors, and Relapsed or Refractory Lymphoid Malignancies.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Tipiracil
+2. Groups:  Approved, Investigational
+3. Description:  Tipiracil is a thymidine phosphorylase inhibitor. It is used in combination with trifluridine, in a ratio of 1:0.5, to form TAS-102. The main function of Tipiracil in TAS-102 is to increase trifluridine bioavailability by inhibiting its catabolism.[2] TAS-102 is indicated for the treatment of metastatic colorectal cancer which has been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, or with an anti-VEGF or anti-EGFR therapy.[1]
+4. Indication:  Tipiracil, in combination with trifluridine, is indicated for the treatment of refractory mestastatic colorectal cancer patients who keep progressing despite of treatment with standard chemotherapy and biologics.[3]
+DrugId:  9
+1. Name:  Maltodextrin
+2. Groups:  Investigational
+3. Description:  Maltodextrin is under investigation for the treatment and prevention of Autism, Pouchitis, Inflammation, Colonic Cancer, and Atopic Dermatitis, among others. Maltodextrin has been investigated for the prevention and treatment of Fatigue, Thalassemia, Constipation, Type I Diabetes, and Sickle Cell Anemia, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Rivipansel
+2. Groups:  Investigational
+3. Description:  Rivipansel has been used in trials studying the other, basic science, and treatment of Pain Crisis, Renal impairment, Anemia, Sickle Cell, Sickle Cell Disease, and Sickle Cell Disorders, among others.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Venetoclax
+2. Groups:  Approved, Investigational
+3. Description:  Venetoclax is an oral selective inhibitor of B-Cell Lymphoma-2 (BCL-2), an antiapoptotic protein that plays a key role in the development of chronic lymphocytic leukemia (CLL) cells. BCL-2 and its related proteins BCL-XL and MCL-1 bind to and sequester pro-apoptotic signals in the cell, causing a down-regulation of apoptosis. As an oncogene and an important regulator of apoptosis, BCL-2 overexpression therefore results in increased tumour cell survival and resistance to chemotherapy. Venetoclax helps restore the process of apoptosis by binding directly to the BCL-2 protein, displacing pro-apoptotic proteins like BIM, triggering mitochondrial outer membrane permeabilization and the activation of caspases. Compared to navitoclax, a duel inhibitor of BCL-2 and BCL-XL, venetoclax use results in significantly less platelet killing and thrombocytopenia. This is due to its specificity for BCL-2 and sparing of BCL-XL, which is required for platelet survival. In 2015, the United States Food and Drug Administration (FDA) granted Breakthrough Therapy Designation to venetoclax for patients with CLL who have relapsed or have been refractory to previous treatment and have the 17p deletion genetic mutation. It was approved by the FDA in April 2016.
+4. Indication:  For the treatment of patients with chronic lymphocytic leukemia (CLL) with 17p deletion, as detected by an FDA approved test, who have received at least one prior therapy.
+DrugId:  12
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Sotatercept
+2. Groups:  Investigational
+3. Description:  Sotatercept has been used in trials studying the supportive care and treatment of Anemia, Leukemia, Solid Tumors, Bladder Cancer, and multiple myeloma, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Ferrous asparto glycinate
+2. Groups:  Approved
+3. Description:  Ferrous asparto glycinate is an iron-amino acid chelate. It is available as a dietary supplement used in the treatment of iron deficiency and iron deficiency anemia.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Iron protein succinylate
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Luspatercept
+2. Groups:  Investigational
+3. Description:  Luspatercept has been used in trials studying the treatment of Anemia, Beta-Thalassemia, Erythrocyte Transfusion, and Myelodysplastic Syndromes.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  PBI-1402
+2. Groups:  Investigational
+3. Description:  PBI-1402 is a small molecule synthetic compound with oralBioavailability. The compound activates neutrophils, enhancing their survival and activation with comparable efficacy to GM-CSF, G-CSF and EPO, which are currently used to treat anemia. However, it has been shown that when co-administered with these compounds, effects are additive, making PBI-1402 an excellent candidate for combination therapy and asserting its independent mechanism of action. PBI-1402 appears to work on the PMN pathway, but its specific binding properties are not known. PBI-1402 has a dual therapeutic action; as a chemoprotectant and hematopoietic progenitor stimulator. Since it stimulates immune activity, it has been considered as a candidate for cancer treatment as well as anemia.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anemia, and chemotherapy.
+DrugId:  18
+1. Name:  Imiglucerase
+2. Groups:  Approved
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  19
+1. Name:  Ferric Carboxymaltose
+2. Groups:  Approved
+3. Description:  Ferric Carboxymaltose is an iron replacement product and chemically, an iron carbohydrate complex. FDA approved on July 25, 2013. 
+4. Indication:  Ferric carboxymaltose is a iron replacement product indicated for the treatment of iron deficiency anemia in adult patients who have intolerance to oral iron or have had unsatisfactory response to oral iron or those who have non-dialysis dependent chronic kidney disease. 
+DrugId:  20
+1. Name:  OPC-14523
+2. Groups:  Investigational
+3. Description:  OPC-14523 is an antidepressant drug developed by Otsuka America Pharmaceutical.
+4. Indication:  Investigated for use/treatment in bulimia, depression, and obsessive-compulsive disorders.
+DrugId:  21
+1. Name:  Trimethadione
+2. Groups:  Approved
+3. Description:  An anticonvulsant effective in absence seizures, but generally reserved for refractory cases because of its toxicity. (From AMA Drug Evaluations Annual, 1994, p378)
+4. Indication:  Used in the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+DrugId:  22
+1. Name:  CG7870
+2. Groups:  Investigational
+3. Description:  CG7870 is an oncolytic virus therapy for prostate cancer. It is a replication-selective, prostate-specific antigen-targeted oncolytic adenovirus, for the treatment of hormone-refractory, metastatic prostate cancer.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  23
+1. Name:  5-(hydroxymethyl)-2-furaldehyde
+2. Groups:  Investigational
+3. Description:  Aes-103 has been used in trials studying the treatment and prevention of Hypoxia, Anemia, Sickle Cell, and Sickle Cell Disease.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Sipuleucel-T
+2. Groups:  Approved, Investigational
+3. Description:  Sipuleucel-T is a personalized, autologous, cellular immunotherapy. Sipuleucel-T is a therapeutic cancer vaccine for prostate cancer. Sipuleucel-T selectively targets the prostate-specific antigen (PSA) known as prostatic acid phosphatase (PAP) that is expressed in around 95% of prostate cancers. It must be prepared specifically for each patient. In metastatic prostate cancer, it has extended survival by median 4.1 months (IMPACT Phase III trial data). Sipuleucel-T is marketed under the brand name Provenge by Dendreon Corporation. Sipuleucel-T was approved by the U.S. Food and Drug Administration (FDA) on April 29, 2010, to treat asymptomatic or minimally symptomatic metastatic Hormone-Refractory Prostate Cancer (HRPC). The treatment initially cost $93,000 at the time of FDA approval, but rose to over $100,000 in 2014.
+4. Indication:  Sipuleucel-T is an autologous cellular immunotherapy indicated for the treatment of asymptomatic or minimally symptomatic metastatic castrate resistant (hormone refractory) prostate cancer. 
+DrugId:  25
+1. Name:  INCB7839
+2. Groups:  Investigational
+3. Description:  INCB7839 is a novel, orally available ADAM metalloprotease inhibitor that is designed to block activation of the epidermal growth factor (EGFR) pathways. It represents a potentially important new class of targeted breast cancer therapy. It has shown promising clinical activity in heavily pretreated, refractory breast cancer patients.
+4. Indication:  Investigated for use/treatment in breast cancer.

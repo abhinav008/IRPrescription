@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  MUC1 Dendritic Cell Vaccine
+2. Groups:  Investigational
+3. Description:  Dendritic Cell (DC) Therapy is a newly emerging and potent form of immune therapy that amplifies the actions of the body's own immune system to help fight cancer, AIDS and other serious conditions. The Dendritic Cell is an immune cell whose role is the recognition, processing and presentation of foreign antigens to the T-cells to initiate a primary response in the effector arm of the immune system. Dendritic cells not only activate lymphocytes to induce the immune response, but they also minimize autoimmune reactions by downplaying self-antigens to stimulated T-cells. Dendritic Cell Therapy involves the harvesting of blood cells (ie monocytes or macrophages) from a patient and processing them in the laboratory to produce a greater than typical Dendritic Cell concentration. These cells are then given back to a patient as a vaccine in order to allow for a potent immune response to cancer.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and ovarian cancer.
+DrugId:  2
+1. Name:  IDD-3
+2. Groups:  Investigational
+3. Description:  IDD-3 is a therapeutic specific immunostimulant developed by IDM Pharma in partnership with sanofi-aventis. It consists of mature dendritic cells loaded with lysates from melanoma tumor cell lines. It includes Dendritophages that are dendritic cells, a type of specialized immune cells derived from the patient's own white blood cells. 
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  3
+1. Name:  Cenegermin
+2. Groups:  Approved, Investigational
+3. Description:  Cenegermin is a human beta-nerve growth factor (beta-ngf)-(1-118)- peptide (non-covalent dimer) produced in escherichia coli. It received European Union Approval in July, 2017 for the treatment of moderate to severe neurotrophic keratitis.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  AGS-005
+2. Groups:  Investigational
+3. Description:  AGS-005 is a personalized dendritic cell-based immunotherapy, with optimized immune response characteristics, that is designed to stimulate the patient's immune system to target and destroy the patient's cancer cells.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  5
+1. Name:  HspE7
+2. Groups:  Investigational
+3. Description:  HspE7 is a recombinant chimeric protein composed of the heat shock protein 65 (Hsp65) from Mycobacterium bovis, and the human papilloma viral (HPV) protein E7. Hsp65, similar to other members of its family of proteins, elicits a strong immune response and may be used to design vaccines against a number of different cancers. E7 protein is involved in carcinogenesis of anal and cervical tumors, and represents a tumor antigen that may be specifically targeted by lymphocytes. It is being developed by StressGen Biotechnologies Corp.
+4. Indication:  Investigated for use/treatment in anal dysplasia, cervical dysplasia/cancer, genital warts, HIV infection, infectious and parasitic disease (unspecified), pediatric indications, warts, and viral infection.
+DrugId:  6
+1. Name:  Amolimogene
+2. Groups:  Investigational
+3. Description:  Amolimogene is an investigational therapeutic designed to specifically augment the body's defensive response to human papillomavirus (HPV). Amolimogene was biologically engineered as a targeted therapy for the treatment of cervical dysplasia.
+4. Indication:  Intended for the treatment of cervical dysplasia associated with the human papillomavirus (HPV).
+DrugId:  7
+1. Name:  INGN 225
+2. Groups:  Investigational
+3. Description:  INGN 225 is a therapeutic consisting of a cancer patient's own immune cells treated with an adenovector carrying the human p53 gene, Ad-p53. INGN 225 is currently in Phase 1/2 trials in patients with small cell lung cancer and breast cancer.
+4. Indication:  Investigated for use/treatment in breast cancer, head and neck cancer, and lung cancer.
+DrugId:  8
+1. Name:  AGS-004
+2. Groups:  Investigational
+3. Description:  AGS-004 is a personalized RNA-loaded dendritic cellbasedimmunotherapy that is designed to stimulate the patient’s immune system to target and destroy the patient’s own unique viral burden. Non-personalized HIV immunotherapies are unable to raise cytotoxic T lymphocytes against HIV antigens, fail to induce T cell memory, and, most importantly, do not provide antiviral protection against the patient's own particular virus. A personalized immunotherapy addresses these issues because it is able to capture private viral mutations, providing a matched, complete immune response for each individual HIV patient. This approach may overcome the weaknesses of other available therapies and therefore could result in a better chance of success for HIV treatment.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  9
+1. Name:  ISS-1018
+2. Groups:  Investigational
+3. Description:  ISS 1018 is a short, synthetic, unmethylated CpG oligodeoxynucleotide (CpG ODN) with immunostimulatory activity. ISS 1018 signals through Toll-like receptor 9 (TLR9) to induce the production of immunoglobulin by B cells and interferon (IFN) -alpha, IFN-beta, interleukin-12 (IL-12), and tumor necrosis factor - alpha (TNF-alpha) by plasmacytoid dendritic cells (pDC). ISS 1018 CpG ODN promotes antigen presentation and co-stimulatory molecule expression. ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It is also being investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+4. Indication:  Investigated for use/treatment in colorectal cancer, hepatitis (viral, B), and lymphoma (non-hodgkin's).ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It has also been investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+DrugId:  10
+1. Name:  Loteprednol
+2. Groups:  Approved
+3. Description:  Loteprednol (as Loteprednol Etabonate) is a topical corticoid antiinflammatory. It is used in ophthalmic solution for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, is used for the treatment and management of seasonal allergic rhinitis.
+4. Indication:  As an ophthalmic it is used for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, used for the treatment and management of seasonal allergic rhinitis.
+DrugId:  11
+1. Name:  Trifluridine
+2. Groups:  Approved, Investigational
+3. Description:  An antiviral derivative of thymidine used mainly in the treatment of primary keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus. (From Martindale, The Extra Pharmacopoeia, 30th ed, p557)
+4. Indication:  Ophthalmic solution for the treatment of primay keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus, types 1 and 2.
+DrugId:  12
+1. Name:  Oregovomab
+2. Groups:  Investigational
+3. Description:  Oregovomab is a murine monoclonal antibody that attaches to the tumor-associated antigen CA125.
+4. Indication:  Investigated for use/treatment in ovarian cancer.
+DrugId:  13
+1. Name:  Lumiliximab
+2. Groups:  Investigational
+3. Description:  Lumiliximab is a chimeric monoclonal antibody which is used as an immunosuppressive drug. It is a primatized anti-CD23 macaque/human chimeric antibody that inhibits the production of the IgE antibody, for the potential treatment of allergic conditions. Lumiliximab was developed by IDEC Pharmaceuticals, which was acquired by Biogen. Clinical trials for CLL were terminated in 2010, and for allergic asthma in 2007. Results published from the CLL clinical trial failed to meet primary endpoints.
+4. Indication:  Investigated for use/treatment in asthma and leukemia (lymphoid).
+DrugId:  14
+1. Name:  Hydroxypropyl cellulose
+2. Groups:  Approved
+3. Description:  Hydroxypropyl cellulose is an ether of cellulose where some of the hydroxyl groups of the cellulose have been hydroxypropylated forming -OCH2CH(OH)CH3 groups. Lacrisertis a formulation of hydroxypropyl cellulose that is used for artificial tears. It is used to treat syndromes characterized by insufficient tear production (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes. As a food additive, hydroxypropyl cellulose is used as a thickener and as an emulsion stabilizer.
+4. Indication:  Used to relieve dryness and irritation caused by reduced tear flow that occurs in certain eye diseases (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes.
+DrugId:  15
+1. Name:  Phosphatidyl serine
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Phosphatidyl serine (PS) is a phospholipid nutrient found in fish, green leafy vegetables, soybeans and rice, and is essential for the normal functioning of neuronal cell membranes and activates Protein kinase C (PKC) which has been shown to be involved in memory function. In apoptosis, phosphatidyl serine is transferred to the outer leaflet of the plasma membrane. This is part of the process by which the cell is targeted for phagocytosis. PS has been shown to slow cognitive decline in animal models. PS has been investigated in a small number of double-blind placebo trials and has been shown to increase memory performance in the elderly. Because of the potentail cognitive benefits of phosphatidylserine, the substance is sold as a dietary supplement to people who believe they can benefit from an increased intake.The dietary supplement was originally processed from bovine sources however Prion disease scares in the 1990s outlawed this process, and a soy-based alternative was adopted.
+4. Indication:  Phosphatidylserine has demonstrated some usefulness in treating cognitive impairment, including Alzheimer's disease, age-associated memory impairment and some non-Alzheimer's dementias. More research is needed before phosphatidylserine can be indicated for immune enhancement or for reduction of exercise stress.
+DrugId:  16
+1. Name:  Thymalfasin
+2. Groups:  Approved, Investigational
+3. Description:  Thymalfasin is a chemically synthesized version of thymosin alpha 1 that is identical to human thymosin alpha 1. Thymosin alpha 1 is an acetylated polypeptide. Thymosin alpha 1 is now approved in 35 developing countries for the treatment of Hepatitis B and C. It is also used to boost the immune response in the treatment of other diseases.
+4. Indication:  Indicated as an adjuvant for influenza vaccine in elderly patients and as an adjuvant for both influenza and hepatitis B vaccines in chronic hemodialysis patients who failed to achieve adequate antibody titers from previous immunization.
+DrugId:  17
+1. Name:  Natamycin
+2. Groups:  Approved
+3. Description:  Amphoteric macrolide antifungal antibiotic from Streptomyces natalensis or S. chattanoogensis. It is used for a variety of fungal infections, mainly topically. [PubChem]
+4. Indication:  For the treatment of fungal blepharitis, conjunctivitis, and keratitis caused by susceptible organisms including Fusarium solani keratitis.
+DrugId:  18
+1. Name:  Tariquidar
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in ovarian cancer, lung cancer, and breast cancer.
+DrugId:  19
+1. Name:  Glatiramer Acetate
+2. Groups:  Approved, Investigational
+3. Description:  Glatiramer acetate consists of the acetate salts of synthetic polypeptides, containing four naturally occurring amino acids: L-glutamic acid, L-alanine, L-tyrosine, and L-lysine with an average molar fraction of 0.141, 0.427, 0.095, and 0.338, respectively. The average molecular weight of glatiramer acetate is 5,000-9,000 daltons. It is an immunomodulator, licensed in much of the world for reduced frequency of relapses in relapsing-remitting multiple sclerosis.
+4. Indication:  For reduction of the frequency of relapses in patients with Relapsing-Remitting Multiple Sclerosis.
+DrugId:  20
+1. Name:  Idoxuridine
+2. Groups:  Approved, Investigational
+3. Description:  An analog of deoxyuridine that inhibits viral DNA synthesis. The drug is used as an antiviral agent. [PubChem]
+4. Indication:  For use in keratoconjunctivitis and keratitis caused by herpes simplex virus.
+DrugId:  21
+1. Name:  Secukinumab
+2. Groups:  Approved
+3. Description:  Secukinumab (Cosentyx) is a human monoclonal antibody designed for the treatment of uveitis, rheumatoid arthritis, ankylosing spondylitis, and psoriasis. Secukinumab is an interleukin-17A (IL-17A) inhibitor marketed by Novartis. IL-17 is a group of proinflammatory cytokines released by cells of the immune system and and exist in higher levels in many immune conditions associated with chronic inflammation. By targeting IL-17A, secukinumab has shown excellent efficacy in psoriasis by normalizing skin histology and was approved by the United States Food and Drug Administration on January 21, 2015 to treat adults with moderate-to-severe plaque psoriasis. 
+4. Indication:  For the treatment of moderate to severe plaque psoriasis in patients that are candidates for systemic therapy or phototherapy. 
+DrugId:  22
+1. Name:  Cromoglicic acid
+2. Groups:  Approved
+3. Description:  A chromone complex that acts by inhibiting the release of chemical mediators from sensitized mast cells. It is used in the prophylactic treatment of both allergic and exercise-induced asthma, but does not affect an established asthmatic attack.
+4. Indication:  For the management of patients with bronchial asthma. Also used in the treatment of vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  23
+1. Name:  Flavin adenine dinucleotide
+2. Groups:  Approved
+3. Description:  A condensation product of riboflavin and adenosine diphosphate. The coenzyme of various aerobic dehydrogenases, e.g., D-amino acid oxidase and L-amino acid oxidase. (Lehninger, Principles of Biochemistry, 1982, p972)Flavin adenine dinucleotide is approved for use in Japan under the trade name Adeflavin as an ophthalmic treatment for vitamin B2 deficiency.
+4. Indication:  Used to treat eye diseases caused by vitamin B2 deficiency, such as keratitis and blepharitis.
+DrugId:  24
+1. Name:  Guselkumab
+2. Groups:  Approved, Investigational
+3. Description:  Guselkumab is a human immunoglobulin G1 lambda (IgG1λ) monoclonal antibody that selectively blocks interleukin-23. IL-23 is an inflammatory cytokine that activates the CD4+ T-helper (Th17) cell pathway to mediate the inflammatory cascade that induces psoriatic plaque formation [2]. In clinical trials, guselkumab demonstrated improved skin clearance and symptomatic improvements in dermatological manifestations of psoriasis. Developed by Janssen, the subcutenous injection form of guselkumab was approved in July 2017 under the market name Tremfya for the treatment of adult patients with moderate-to-severe plaque psoriasis.
+4. Indication:  Indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+DrugId:  25
+1. Name:  Pidotimod
+2. Groups:  Approved
+3. Description:  Pidotimod is a synthetic dipeptide with immunomodulatory properties.
+4. Indication:  For use as immunostimulant therapy for treatment of cell-mediated immunosuppression with respiratory or urinary infections [5].

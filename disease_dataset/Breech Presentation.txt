@@ -1,0 +1,120 @@
+DrugId:  1
+1. Name:  VPM4001
+2. Groups:  Investigational
+3. Description:  VPM4001 is an allogeneic vaccine for treatment of prostate carcinoma. It consists of irradiated human LNCaP cells that have been genetically modified to permanently secrete interferon-γ and interleukin-2 (LNCaP/IL-2/IFN-γ). Interferon-γ enhances presentation of tumour antigens, whereas interleukin-2 stimulates T cells.
+4. Indication:  Investigated for use/treatment in prostate cancer.
+DrugId:  2
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  3
+1. Name:  MUC1 Dendritic Cell Vaccine
+2. Groups:  Investigational
+3. Description:  Dendritic Cell (DC) Therapy is a newly emerging and potent form of immune therapy that amplifies the actions of the body's own immune system to help fight cancer, AIDS and other serious conditions. The Dendritic Cell is an immune cell whose role is the recognition, processing and presentation of foreign antigens to the T-cells to initiate a primary response in the effector arm of the immune system. Dendritic cells not only activate lymphocytes to induce the immune response, but they also minimize autoimmune reactions by downplaying self-antigens to stimulated T-cells. Dendritic Cell Therapy involves the harvesting of blood cells (ie monocytes or macrophages) from a patient and processing them in the laboratory to produce a greater than typical Dendritic Cell concentration. These cells are then given back to a patient as a vaccine in order to allow for a potent immune response to cancer.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and ovarian cancer.
+DrugId:  4
+1. Name:  ISS-1018
+2. Groups:  Investigational
+3. Description:  ISS 1018 is a short, synthetic, unmethylated CpG oligodeoxynucleotide (CpG ODN) with immunostimulatory activity. ISS 1018 signals through Toll-like receptor 9 (TLR9) to induce the production of immunoglobulin by B cells and interferon (IFN) -alpha, IFN-beta, interleukin-12 (IL-12), and tumor necrosis factor - alpha (TNF-alpha) by plasmacytoid dendritic cells (pDC). ISS 1018 CpG ODN promotes antigen presentation and co-stimulatory molecule expression. ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It is also being investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+4. Indication:  Investigated for use/treatment in colorectal cancer, hepatitis (viral, B), and lymphoma (non-hodgkin's).ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It has also been investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+DrugId:  5
+1. Name:  Interferon alfa-n3
+2. Groups:  Approved, Investigational
+3. Description:  Purified, natural (n is for natural) human interferon alpha proteins (consists of 3 forms or polymorphisms including 2a, 2b and 2c). 166 residues, some are glycosylated (MW range from 16 kD to 27 kD).
+4. Indication:  For the intralesional treatment of refractory or recurring external condylomata acuminata.
+DrugId:  6
+1. Name:  Alicaforsen
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease and ulcerative colitis.
+DrugId:  7
+1. Name:  Conestat alfa
+2. Groups:  Approved, Investigational
+3. Description:  C1 Esterase Inhibitor (Recombinant) is a recombinant analogue of endogenous complement component-1 esterase inhibitor (rhC1INH), purified from the milk of transgenic rabbits. The primary function of endogenous C1INH is to regulate the activation of the complement and contact system pathways. It does this through inhibition of several target proteases within these pathways including activated C1s, kallikrein, factor XIIa and factor XIa. C1 esterase inhibitor has also been shown to inhibit the action of thrombin within the coagulation pathway, and tPA and plasmin within the fibrinolytic pathway. Deficiency of C1-inhibitor permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin. Additionally, C4 and C2 cleavage goes unchecked, resulting in auto-activation of the complement system. Down-stream effects of the lack of enzyme inhibition by C1 esterase inhibitor results in swelling due to leakage of fluid from blood vessels into connective tissue and consequently the presentation of hereditary angioedema (HAE). Marketed as the product Ruconest (FDA), this drug is indicated for the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults. Intravenous replacement of C1 esterase inhibitor results in reversal of acute symptoms of HAE.
+4. Indication:  For the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults.
+DrugId:  8
+1. Name:  Interferon beta-1a
+2. Groups:  Approved, Investigational
+3. Description:  Human interferon beta (166 residues), glycosylated, MW=22.5kD. It is produced by mammalian cells (Chinese Hamster Ovary cells) into which the human interferon beta gene has been introduced. The amino acid sequence is identical to that of natural human interferon beta.
+4. Indication:  For treatment of relapsing/remitting multiple sclerosis, also for condyloma acuminatum
+DrugId:  9
+1. Name:  Interferon alfa-n1
+2. Groups:  Approved, Investigational
+3. Description:  Purified, natural (n is for natural) glycosylated human interferon alpha proteins 166 residues
+4. Indication:  For treatment of venereal or genital warts caused by the Human Papiloma Virus
+DrugId:  10
+1. Name:  Interferon beta-1b
+2. Groups:  Approved
+3. Description:  Human interferon beta (165 residues), cysteine 17 is substituted with serine. Produced in E. coli, no carbohydrates, MW=18.5kD
+4. Indication:  Interferon beta-1b is a drug used for the treatment of relapsing/remitting multiple sclerosis. It has been shown to slow the advance of the disease as well as to decrease the frequency of attacks.
+DrugId:  11
+1. Name:  Interferon gamma-1b
+2. Groups:  Approved, Investigational
+3. Description:  Human Interferon gamma-1b (140 residues), produced from E. coli. Production of Actimmune is achieved by fermentation of a genetically engineered Escherichia coli bacterium containing the DNA which encodes for the human protein. Purification of the product is achieved by conventional column chromatography.The sequence displayed is a cDNA sequence which codes for human interferon gamma, as described by Gray et. al. and not specifically interferon gamma 1b.
+4. Indication:  Interferon gamma-1b is used for the treatment of Chronic granulomatous disease and Osteopetrosis.
+DrugId:  12
+1. Name:  Mitoxantrone
+2. Groups:  Approved, Investigational
+3. Description:  An anthracenedione-derived antineoplastic agent. [PubChem]
+4. Indication:  For the treatment of secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis
+DrugId:  13
+1. Name:  Glatiramer Acetate
+2. Groups:  Approved, Investigational
+3. Description:  Glatiramer acetate consists of the acetate salts of synthetic polypeptides, containing four naturally occurring amino acids: L-glutamic acid, L-alanine, L-tyrosine, and L-lysine with an average molar fraction of 0.141, 0.427, 0.095, and 0.338, respectively. The average molecular weight of glatiramer acetate is 5,000-9,000 daltons. It is an immunomodulator, licensed in much of the world for reduced frequency of relapses in relapsing-remitting multiple sclerosis.
+4. Indication:  For reduction of the frequency of relapses in patients with Relapsing-Remitting Multiple Sclerosis.
+DrugId:  14
+1. Name:  Human Rho(D) immune globulin
+2. Groups:  Approved, Investigational
+3. Description:  Human Rho(D) immune globulin is a medicine given by intramuscular or intravenous injection that is used to prevent the immunological condition known as Rh disease (or hemolytic disease of newborn). Rho (D) immune globulin is available as a sterile, lyophilized or liquid gamma globulin (IgG) fraction containing antibodies to the Rh0 (D) antigen (D antigen) under the name Rhophylac (IM/IV). Immune globullin was purified via ion-exchange chromatography method and prepared from pools of human plasma, where the donors are Rho (D)-negative donors who have been immunized with Rho(D)-positive RBCs. It was approved by FDA as treatment for suppression of rhesus (Rh) isoimmunization or chronic immune thrombocytopenic purpura (ITP) in adults.
+4. Indication:  Indicated for suppression of rhesus (Rh) isoimmunization in nonsensitized Rho (D)-negative women with an Rh-incompatible pregnancy, or in Rho (D)-negative individuals transfused with Rh0(D)-positive red blood cells (RBCs) or blood components containing Rh0(D)-positive RBCs. Also indicated in Rh0(D)-positive, non-splenectomized adult patients with chronic immune thrombocytopenic purpura (ITP) to raise platelet counts.
+DrugId:  15
+1. Name:  Mitomycin
+2. Groups:  Approved
+3. Description:  An antineoplastic antibiotic produced by Streptomyces caespitosus. It is one of the bi- or tri-functional alkylating agents causing cross-linking of DNA and inhibition of DNA synthesis. [PubChem]
+4. Indication:  For treatment of malignant neoplasm of lip, oral cavity, pharynx, digestive organs, peritoneum, female breast, and urinary bladder. Also used as an adjunct to ab externo glaucoma surgery.
+DrugId:  16
+1. Name:  Interferon Alfa-2b, Recombinant
+2. Groups:  Approved
+3. Description:  Interferon alpha 2b (human leukocyte clone hif-sn 206 protein moiety reduced). A type I interferon consisting of 165 amino acid residues with arginine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent.
+4. Indication:  For the treatment of hairy cell leukemia, malignant melanoma, and AIDS-related Kaposi's sarcoma.
+DrugId:  17
+1. Name:  Interferon alfacon-1
+2. Groups:  Approved, Investigational
+3. Description:  Interferon alfacon-1 is a recombinant non-naturally occurring type-I interferon. The 166-amino acid sequence of Interferon alfacon-1 was derived by scanning the sequences of several natural interferon alpha subtypes and assigning the most frequently observed amino acid in each corresponding position. Four additional amino acid changes were made to facilitate the molecular construction, and a corresponding synthetic DNA sequence was constructed using chemical synthesis methodology. Interferon alfacon-1 differs from interferon alfa-2b at 20/166 amino acids (88% homology), and comparison with interferon-beta shows identity at over 30% of the amino acid positions. Interferon alfacon-1 is produced in Escherichia coli (E. coli) cells that have been genetically altered by insertion of a synthetically constructed sequence that codes for Interferon alfacon-1. Prior to final purification, Interferon alfacon-1 is allowed to oxidize to its native state, and its final purity is achieved by sequential passage over a series of chromatography columns. This protein has a molecular weight of 19,434 daltons.
+4. Indication:  For the treatment of hairy cell leukemia, malignant melanoma, and AIDS-related Kaposi's sarcoma
+DrugId:  18
+1. Name:  Interferon Alfa-2a, Recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+4. Indication:  For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.
+DrugId:  19
+1. Name:  Butorphanol
+2. Groups:  Approved, Illicit, Vet approved
+3. Description:  A synthetic morphinan analgesic with narcotic antagonist action. It is used in the management of severe pain. [PubChem]
+4. Indication:  For the relief of moderate to severe pain.
+DrugId:  20
+1. Name:  Human C1-esterase inhibitor
+2. Groups:  Approved
+3. Description:  C1 Esterase Inhibitor (Human) is composed of purified endogenous complement component-1 esterase inhibitor (hC1INH) isolated from human plasma. The primary function of endogenous C1INH is to regulate the activation of the complement and contact system pathways. It does this through inhibition of several target proteases within these pathways including activated C1s, kallikrein, factor XIIa and factor XIa. C1 esterase inhibitor has also been shown to inhibit the action of thrombin within the coagulation pathway, and tPA and plasmin within the fibrinolytic pathway. Deficiency of C1-inhibitor permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin. Additionally, C4 and C2 cleavage goes unchecked, resulting in auto-activation of the complement system. Down-stream effects of the lack of enzyme inhibition by C1 esterase inhibitor results in swelling due to leakage of fluid from blood vessels into connective tissue and consequently the presentation of hereditary angioedema (HAE). Marketed as the product Cyrinze (FDA), this drug is indicated for routine prophylaxis against angioedema attacks in adolescent and adult patients with Hereditary Angioedema (HAE), a human genetic disorder caused by a shortage of C1 inhibitor activity that results in an overreaction of the immune system. The disease is characterized by acute attacks of painful and in some cases fatal swelling of several soft tissues (edema), which may last up to five days when untreated.In June 2017 the FDA approved a formulation of human C1-esterase inhibitor for subcutaneous administration under the tradename Haegarda.
+4. Indication:  For routine prophylaxis against angioedema attacks in adolescent and adult patients with Hereditary Angioedema (HAE).
+DrugId:  21
+1. Name:  Bleomycin
+2. Groups:  Approved, Investigational
+3. Description:  A complex of related glycopeptide antibiotics from Streptomyces verticillus consisting of bleomycin A2 and B2 (B2 CAS # 9060-10-0). It inhibits DNA metabolism and is used as an antineoplastic, especially for solid tumors. Bleomycin A2 is used as the representative structure for Bleomycin.
+4. Indication:  For palliative treatment in the management malignant neoplasm (trachea, bronchus, lung), squamous cell carcinoma, and lymphomas.
+DrugId:  22
+1. Name:  Remestemcel-L
+2. Groups:  Approved, Investigational
+3. Description:  Remestemcel-L is a third-party, off-the-shelf suspension of ex-vivo cultured adult human mesenchymal stem cells intended for intravenous infusion. The mesenchymal stem cells are derived from the bone marrow of unrelated and human leukocyte antigen (HLA)–unmatched healthy adult donors and have the ability to differentiate into different tissue cells. It was approved for use in Canada in May 2012 as Prochymal for the management of refractory acute Graft versus Host Disease (aGvHD) in children who are unresponsive to systemic steroid therapies, with the approval conditional upon further trials being conducted.aGvHD is a T-cell mediated disease that occurs after allogeneic hematopoietic stem cell transplant and is a reaction of donor immune cells against host tissues [A31822] developed by 30-80% of the recipients [1]. aGvHD is often characterized by the presence of inflammatory cascades through signalling of activated T cells. While systemic corticosteroids and other immunosuppressive agents are commonly used as first-line treatments to manage aGvHD, about 30-50% of patients with aGvHD experience inadequately control of disease with first-line therapies, putting them in a risk for poor outcomes and creating a significant clinical challenge [1]. It is estimated that the patients with the most severe forms of refractory aGvHD that do not respond to steroid therapy have expected one-year survival rates of only 5% to 30% [6]. Human mesenchymal stem cells (hMSCs) serve to down-regulate inflammatory responses and produce anti-inflammatory cytokines and growth factors to promote tissue repair [1]. In clinical studies, patients treated with remestemcel-L demonstrated an improvement in their aGvHD and improved survival rates at subsequent days following intravenous infusion [6]. Based on its tolerability and safety profile, remestemcel-L is a promising alternative to second-line immunosuppressive agents [1].
+4. Indication:  Indicated for in the management of acute Graft versus Host Disease (aGvHD) in pediatric patients. Acute GvHD should be refractory to treatment with systemic corticosteroid therapy and/or other immunosuppressive agents. Remestemcel-L may be used for Grades C and D of the disease in any organ. Remestemcel-L may also be used in the management of Grade B aGvHD involving any visceral organ, including the GI tract and the liver, but excluding skin [6].
+DrugId:  23
+1. Name:  Dermatophagoides pteronyssinus
+2. Groups:  Approved
+3. Description:  Dermatophagoides pteronyssinus extracts are sterile solutions used for intradermal testing or subcutaneous immunotherapy. This combination is approved for as a year-round, once-a-day tablet that's dissolved under the tongue as a treatment for dust mite allergies.
+4. Indication:  Dermatophagoides pteronyssinus is an allergen extract indicated as immunotherapy for house dust mite (HDM)-induced allergic rhinitis, with or without conjunctivitis, confirmed by in vitro testing for IgE antibodies to Dermatophagoides pteronyssinus house dust mites, or skin testing to licensed house dust mite allergen extracts. Dermatophagoides pteronyssinus is approved for use in adults 18 through 65 years of age. 
+DrugId:  24
+1. Name:  Dermatophagoides farinae
+2. Groups:  Approved
+3. Description:  Dermatophagoides farinae extracts are sterile solutions used for intradermal testing or subcutaneous immunotherapy. This combination is approved for as a year-round, once-a-day tablet that's dissolved under the tongue as a treatment for dust mite allergies.
+4. Indication:  Dermatophagoides farinae extract is an allergen extract indicated as immunotherapy for house dust mite (HDM)-induced allergic rhinitis, with or without conjunctivitis, confirmed by in vitro testing for IgE antibodies to Dermatophagoidesfarinae house dust mites, or skin testing to  licensed house dust mite allergen extracts. ODACTRA is approved for use in adults 18 through 65 years of age

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Promethazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals. [PubChem]
+4. Indication:  For the treatment of allergic disorders, and nausea/vomiting.
+DrugId:  2
+1. Name:  Benzonatate
+2. Groups:  Approved
+3. Description:  Benzonatate is a non-narcotic oral antitussive (cough suppressant) drug which works by anesthetizing the tissues of the lungs and pleura responsible for the cough reflex. It is chemically related to other ester anesthetics such as procaine. It has an anesthetic (numbing) action similar to that of benzocaine and "numbs" the stretch sensors in the lungs. It is the stretching of these sensors with breathing that causes the cough. It was approved by the FDA in 1958.
+4. Indication:  For the symptomatic relief of cough. Has also been applied locally in the oral cavity in adults by releasing the drug from the liquid-filled capsules to provide oropharyngeal anesthesia for conscious intubation.
+DrugId:  3
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  4
+1. Name:  Eperisone
+2. Groups:  Approved, Investigational
+3. Description:  Eperisone is an antispasmodic drug which relaxes both skeletal muscles and vascular smooth muscles, and demonstrates a variety of effects such as reduction of myotonia, improvement of circulation, and suppression of the pain reflex. It is not approved for use in the United States, but is available in other countries like India, South Korea, and Bangladesh.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Amibegron
+2. Groups:  Investigational
+3. Description:  Amibegron is an agonist for atypical beta3-adrenoceptors which inhibits intestinal motility.
+4. Indication:  Investigated for use/treatment in depression, irritable bowel syndrome (IBS), and obesity.
+DrugId:  6
+1. Name:  Captodiame
+2. Groups:  Approved, Investigational
+3. Description:  Captodiame, also known as captodiamine, is an antihistamine which is used as a sedative and anxiolytic. It is a derivative of diphenhydramine. Captodiame has been suggested for use in preventing benzodiazepine withdrawal syndrome.
+4. Indication:  Captodiame is indicated for the treatment of anxiety. 
+DrugId:  7
+1. Name:  AV608
+2. Groups:  Investigational
+3. Description:  AV608 is a NK-1 antagonist. It is developed for the treatment of Social anxiety disorder (SAD), irritable bowel syndrome (IBS) and overactive bladder (OAB).
+4. Indication:  Investigated for use/treatment in anxiety disorders, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  8
+1. Name:  Chlorzoxazone
+2. Groups:  Approved
+3. Description:  A centrally acting central muscle relaxant with sedative properties. It is claimed to inhibit muscle spasm by exerting an effect primarily at the level of the spinal cord and subcortical areas of the brain. (From Martindale, The Extra Pharmacopoea, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute painful musculoskeletal conditions.
+DrugId:  9
+1. Name:  Demecarium
+2. Groups:  Approved
+3. Description:  Demecarium is an indirect-acting parasympathomimetic agent that is used to treat glaucoma. It is a cholinesterase inhibitor or an anticholinesterase. Cholinesterase inhibitors prolong the effect of acetylcholine, which is released at the neuroeffector junction of parasympathetic postganglion nerves, by inactivating the cholinesterases that break it down. Demecarium inactivates both pseudocholinesterase and acetylcholinesterase. In the eye, this causes constriction of the iris sphincter muscle (causing miosis) and the ciliary muscle. The outflow of the aqueous humor is facilitated, which leads to a reduction in intraocular pressure.
+4. Indication:  For the topical treatment of chronic open-angle glaucoma.
+DrugId:  10
+1. Name:  Piboserod
+2. Groups:  Investigational
+3. Description:  Piboserod (SB 207266) is a selective 5-HT(4) receptor antagonist.
+4. Indication:  For the treatment of atrial fibrillation and irritable bowel syndrome (IBS).
+DrugId:  11
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  12
+1. Name:  Indoramin
+2. Groups:  Withdrawn
+3. Description:  Indoramin is a discontinued piperidine antiadrenergic drug with the trade names Baratol and Doralese. It is a selective alpha-1 adrenergic antagonist with no reflex tachycardia and direct myocardial depression action.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Normethadone
+2. Groups:  Approved, Illicit
+3. Description:  Normethadone is used as an opioid antitussive in combination with Oxilofrine. It is marketed in Canada by Valeant under the tradename Cophylac.
+4. Indication:  For use in the treatment of cough when other less potent treatments have failed [FDA Label].
+DrugId:  14
+1. Name:  Clofedanol
+2. Groups:  Approved, Withdrawn
+3. Description:  Clofedanol is a centrally-acting cough suppressant available in Canada under the trade name Ulone. It is not available in the United States.
+4. Indication:  Used in the treatment of dry cough.
+DrugId:  15
+1. Name:  Efonidipine
+2. Groups:  Approved, Investigational
+3. Description:  Efonidipine (INN) is a dihydropyridine calcium channel blocker marketed by Shionogi & Co. of Japan. It was launched in 1995, under the brand name Landel. The drug blocks both T-type and L-type calcium channels [1, 2]. It has also been studied in atherosclerosis and acute renal failure [2]. This drug is also known as NZ-105, and several studies have been done on its pharmacokinetics in animals [13].
+4. Indication:  For the treatment of hypertension.
+DrugId:  16
+1. Name:  Guanadrel
+2. Groups:  Approved
+3. Description:  Guanadrel is a postganglionic adrenergic blocking agent. Uptake of guanadrel and storage in sympathetic neurons occurs via the norepinephrine pump or transporter.
+4. Indication:  Used to treat and control hypertension.
+DrugId:  17
+1. Name:  Debrisoquin
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic neuron-blocking drug similar in effects to guanethidine. It is also noteworthy in being a substrate for a polymorphic cytochrome P-450 enzyme. Persons with certain isoforms of this enzyme are unable to properly metabolize this and many other clinically important drugs. They are commonly referred to as having a debrisoquin 4-hydroxylase polymorphism. [PubChem]
+4. Indication:  For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.
+DrugId:  18
+1. Name:  Chloral hydrate
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  A hypnotic and sedative used in the treatment of insomnia. The safety margin is too narrow for chloral hydrate to be used as a general anesthetic in humans, but it is commonly used for that purpose in animal experiments. It is no longer considered useful as an anti-anxiety medication.
+4. Indication:  Mainly used as a hyponotic in the treatment of insomnia; however, it is only effective as a hypnotic for short-term use. May be used as a routine sedative preoperatively to decrease anxiety and cause sedation and/or sleep with respiration depression or cough reflex. 
+DrugId:  19
+1. Name:  Rescinnamine
+2. Groups:  Approved
+3. Description:  Rescinnamine is an angiotensin-converting enzyme inhibitor used as an antihypertensive drug. It is an alkaloid obtained from Rauwolfia serpentina and other species of Rauwolfia. [Wikipedia]
+4. Indication:  For the treatment of hypertension.
+DrugId:  20
+1. Name:  Hydralazine
+2. Groups:  Approved
+3. Description:  A direct-acting vasodilator that is used as an antihypertensive agent.
+4. Indication:  For the treatment of essential hypertension, alone or as an adjunct. Also for the management of severe hypertension when the drug cannot be given orally or when blood pressure must be lowered immediately, congestive heart failure (in combination with cardiac glycosides and diuretics and/or with isosorbide dinitrate), and hypertension secondary to pre-eclampsia/eclampsia.
+DrugId:  21
+1. Name:  Epoprostenol
+2. Groups:  Approved
+3. Description:  A prostaglandin that is a powerful vasodilator and inhibits platelet aggregation. It is biosynthesized enzymatically from prostaglandin endoperoxides in human vascular tissue. The sodium salt has been also used to treat primary pulmonary hypertension.
+4. Indication:  For the long-term intravenous treatment of primary pulmonary hypertension and pulmonary hypertension associated with the scleroderma spectrum of disease in NYHA Class III and Class IV patients who do not respond adequately to conventional therapy.
+DrugId:  22
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  23
+1. Name:  Spirapril
+2. Groups:  Approved
+3. Description:  Spirapril is an ACE inhibitor antihypertensive drug used to treat hypertension. Like many ACE inhibitors, this is a prodrug which is converted to the active metabolite spiraprilat following oral administration. ACE inhibitors are used primarily in treatment of hypertension and congestive heart failure.
+4. Indication:  Spirapril is an ACE inhibitor class drug used to treat hypertension.
+DrugId:  24
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  25
+1. Name:  Sufentanil
+2. Groups:  Approved, Investigational
+3. Description:  An opioid analgesic that is used as an adjunct in anesthesia, in balanced anesthesia, and as a primary anesthetic agent. [PubChem]
+4. Indication:  Used as an analgesic adjunct in anesthesia and as a primary anesthetic drug in procedures requiring assisted ventilation and in the relief of pain.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  2
+1. Name:  Carboprost Tromethamine
+2. Groups:  Approved
+3. Description:  A nonsteroidal abortifacient agent that is effective in both the first and second trimesters of pregnancy. [PubChem]
+4. Indication:  For aborting pregnancy between the 13th and 20th weeks of gestation as calculated from the first day of the last normal menstrual period and in the following conditions related to second trimester abortion: 1. Failure of expulsion of the fetus during the course of treatment by another method; 2. Premature rupture of membranes in intrauterine methods with loss of drug and insufficient or absent uterine activity; 3. Requirement of a repeat intrauterine instillation of drug for expulsion of the fetus; 4. Inadvertent or spontaneous rupture of membranes in the presence of a previable fetus and absence of adequate activity for expulsion. Also for the treatment of postpartum hemorrhage due to uterine atony which has not responded to conventional methods of management.
+DrugId:  3
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  4
+1. Name:  Menotropins
+2. Groups:  Approved
+3. Description:  Menotropins contains follicle stimulating hormone (FSH) and luteinizing hormone (LH) purified from the urine of postmenopausal women. It is used as a fertility medication that is injected either subcutaneously or intramuscularly. It is composed of LH with 2 subunits, alpha = 92 residues, beta = 121 residues and FSH with 2 subunits, alpha = 92 residues, beta=111 residues.
+4. Indication:  For the treatment of female infertility
+DrugId:  5
+1. Name:  Mepenzolate
+2. Groups:  Approved
+3. Description:  Mepenzolate is a post-ganglionic parasympathetic inhibitor. It decreases gastric acid and pepsin secretion and suppresses spontaneous contractions of the colon. Mepenzolate diminishes gastric acid and pepsin secretion. Mepenzolate also suppresses spontaneous contractions of the colon. Pharmacologically, it is a post-ganglionic parasympathetic inhibitor. It has not been shown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+4. Indication:  For use as adjunctive therapy in the treatment of peptic ulcer. It has not beenshown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+DrugId:  6
+1. Name:  Rupatadine
+2. Groups:  Approved
+3. Description:  Rupatadine is a dual histamine H1 receptor and platelet activating factor receptor antagonist that is used for symptomatic relief in seasonal and perennial rhinitis as well as chronic spontaneous urticaria. It was approved for marketing in Canada under the tradename Rupall and comes in tablet formulation for adult use and liquid formulation for pediatric use.
+4. Indication:  For the symptomatic relief of nasal and non-nasal symptoms of seasonal allergic rhinitis and perennial allergic rhinitis in patients 2 years of age and older [FDA Label]. Also used for the symptomatic relief of chronic spontaneous urticaria in patients 2 years of age and older.
+DrugId:  7
+1. Name:  Choriogonadotropin alfa
+2. Groups:  Approved
+3. Description:  Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.
+4. Indication:  For the treatment of female infertility
+DrugId:  8
+1. Name:  Varespladib methyl
+2. Groups:  Investigational
+3. Description:  Varespladib methyl has been investigated for the treatment of Acute Coronary Syndrome. Studies showed that Varespladib methyl treatment resulted in significant positive changes on lipoproteins and inflammation.
+4. Indication:  Investigated for use/treatment in atherosclerosis and coronary artery disease.
+DrugId:  9
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  10
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  11
+1. Name:  Mafenide
+2. Groups:  Approved, Vet approved
+3. Description:  Mafenide is a sulfonamide-type medication used to treat severe burns. It acts by reducing the bacterial population present in the burn tissue and promotes healing of deep burns. 
+4. Indication:  Mafenide is indicated in the treatment of severe burns.
+DrugId:  12
+1. Name:  Hydroxyprogesterone caproate
+2. Groups:  Approved, Investigational
+3. Description:  Hydroxyprogesterone caproate is a synthetic steroid hormone that is similar to medroxyprogesterone acetate and megestrol acetate. It is an ester derivative of 17α-hydroxyprogesterone formed from caproic acid (hexanoic acid). Hydroxyprogesterone caproate was previously marketed under the trade name Delalutin by Squibb, which was approved by the U.S. Food and Drug Administration (FDA) in 1956 and withdrawn from marketing in 1999. The U.S. FDA approved Makena from KV Pharmaceutical (previously named as Gestiva) on February 4, 2011 for prevention of preterm delivery in women with a history of preterm delivery, sparking a pricing controversy.
+4. Indication:  Hydroxyprogesterone caproate is indicated for the prevention of spontaneous preterm births in singleton pregnancies in women who have previously had a spontaneous preterm birth. (1) 
+DrugId:  13
+1. Name:  Pancuronium
+2. Groups:  Approved
+3. Description:  A bis-quaternary steroid that is a competitive nicotinic antagonist. As a neuromuscular blocking agent it is more potent than curare but has less effect on the circulatory system and on histamine release.
+4. Indication:  Used as a muscle relaxant during anesthesia and surgical procedures.
+DrugId:  14
+1. Name:  Gemeprost
+2. Groups:  Approved, Withdrawn
+3. Description:  Gemeprost is a prostaglandin E1 (PGE1) analog and antiprogestogen used for preoperative dilation of the cervix before surgical abortion. It is available as vaginal suppositories and also used in combination with the antiprogestin and mifepristone for termination of 1st- and 2nd-trimester pregnancy [1]. It is not FDA-approved but available in Japan marketed as Preglandin.
+4. Indication:  Indicated for the softening and dilatation of the cervix uteri prior to transcervical, intrauterine operative procedures in the first trimester of pregnancy or facilitating therapeutic termination of pregnancy in patients in the second trimester of gestation.
+DrugId:  15
+1. Name:  Epoprostenol
+2. Groups:  Approved
+3. Description:  A prostaglandin that is a powerful vasodilator and inhibits platelet aggregation. It is biosynthesized enzymatically from prostaglandin endoperoxides in human vascular tissue. The sodium salt has been also used to treat primary pulmonary hypertension.
+4. Indication:  For the long-term intravenous treatment of primary pulmonary hypertension and pulmonary hypertension associated with the scleroderma spectrum of disease in NYHA Class III and Class IV patients who do not respond adequately to conventional therapy.
+DrugId:  16
+1. Name:  Lutropin alfa
+2. Groups:  Approved
+3. Description:  Lutropin alfa is a recombinant human luteinizing hormone produced in yeast with 2 subunits, alpha = 92 residues, beta = 121 residues. It is a heterodimeric glycoprotein. Each monomeric unit is a glycoprotein molecule. In females, an acute rise of LH ("LH surge") triggers ovulation and the development of the corpus luteum. In males, it stimulates Leydig cell production of testosterone. Lutropin alfa was the first and only recombinant human form of luteinizing hormone (LH) developed for use in the stimulation of follicular development.
+4. Indication:  For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH <1.2 international units [IU]/L)
+DrugId:  17
+1. Name:  Valrubicin
+2. Groups:  Approved
+3. Description:  Valrubicin (N-trifluoroacetyladriamycin-14-valerate, Valstar®) is a chemotherapy drug used to treat bladder cancer. Valrubicin is a semisynthetic analog of the anthracycline doxorubicin, and is administered by infusion directly into the bladder. [Wikipedia]
+4. Indication:  For the treatment of cancer of the bladder.
+DrugId:  18
+1. Name:  ADH-1
+2. Groups:  Investigational
+3. Description:  Adherex's biotechnology compound, ADH-1, targets N-cadherin, a protein present on certain tumor cells and established tumor blood vessels. ADH-1 is currently in clinical development in a combination program with a range of chemotherapeutic agents to investigate the synergistic effects noted in our preclinical models. At the end of 2006, the Company also completed patient enrollment in our single-agent Phase Ib/II and Phase II trials of ADH-1.Cadherins are cell adhesion and cell signaling molecules crucial to the development of tissues, organs and organisms. Agents that target and inhibit cadherin function have the potential to attack the progression of cancer at two distinct points:* Direct targeting of cadherins expressed on cancer cells may disturb cadherin-mediated signaling, leading to apoptosis (death) of cancer cells.* Cadherin inhibitors may exploit the inherent structural weaknesses of the tumor vasculature, causing angiolysis (disruption of blood vessels) and tumor damage.As many tumors become more aggressive, invasive, and malignant, researchers have found that N-cadherin is expressed in greater amounts, making it an important target for developing anti-cancer treatments.Poorly differentiated, highly invasive carcinomas are characterized by over-expression of N-cadherin (as opposed to E-cadherin). This change in primary cadherin expression causes the epithelial cells to lose their tightly adherent, polarized and well-defined shape and become loosely adherent, flattened and migratory. Such cadherin switching promotes properties such as dedifferentiation, local invasion and metastasis, leading to poor prognosis.ADH-1 may have utility in a wide variety of cancers as N-cadherin is overexpressed in a variety of tumors. As tumors progress to become higher grade, invasive and more metastatic, the frequency of N-cadherin expression generally rises.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), melanoma, ovarian cancer, and solid tumors.
+DrugId:  19
+1. Name:  Mesoridazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine antipsychotic with effects similar to chlorpromazine. [PubChem]
+4. Indication:  Used in the treatment of schizophrenia, organic brain disorders, alcoholism and psychoneuroses.
+DrugId:  20
+1. Name:  Ginkgo biloba
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  The extract of the Ginkgo leaves contains flavonoid glycosides and terpenoids (ginkgolides, bilobalides) and has been used pharmaceutically for hundreds of years. It has many alleged nootropic properties, and is mainly used as memory and concentration enhancer, and anti-vertigo agent. Ginkgo extract seems to have three effects on the human body: it improves blood flow (including microcirculation in small capillaries) to most tissues and organs; it protects against oxidative cell damage from free radicals; and it blocks many of the effects of PAF (platelet aggregation, blood clotting) that have been related to the development of a number of cardiovascular, renal, respiratory and CNS (Central Nervous System) disorders.
+4. Indication:  Appears to be effective in: alleviating age-related memory impairment in some elderly people with mild to moderate age-related memory or cognitive impairment; improving cognitive function in healthy young to middle-aged people; improving symptoms of Alzheimer's, vascular or mixed dementia; improving damage to the visual field in patients with normal tension glaucoma; decreasing the number of painful attacks in patients with Raynaud's syndrome; and may improve symptoms of vertigo and dizziness in some patients. 
+DrugId:  21
+1. Name:  Bilastine
+2. Groups:  Approved, Investigational
+3. Description:  Bilastine is a novel new-generation antihistamine that is highly selective for the H1 histamine receptor, has a rapid onset and prolonged duration of action.
+4. Indication:  For symptomatic relief of nasal and non-nasal symptoms of seasonal rhinitis in patients 12 years of age and older and for symptomatic relief in chronic spontaneous urticaria in patients 18 years of age and older [FDA Label].
+DrugId:  22
+1. Name:  Mivacurium
+2. Groups:  Approved
+3. Description:  Mivacurium is a bisbenzylisoquinolinium based neuromuscular blocker or muscle relaxant. It binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in a block of neuromuscular transmission.
+4. Indication:  For inpatients and outpatients, as an adjunct to general anesthesia, to facilitate tracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+DrugId:  23
+1. Name:  Molindone
+2. Groups:  Approved
+3. Description:  An indole derivative effective in schizophrenia and other psychoses and possibly useful in the treatment of the aggressive type of undersocialized conduct disorder. Molindone has much lower affinity for D2 receptors than most antipsychotic agents and has a relatively low affinity for D1 receptors. It has only low to moderate affinity for cholinergic and alpha-adrenergic receptors. Some electrophysiologic data from animals indicate that molindone has certain characteristics that resemble those of clozapine. (From AMA Drug Evaluations Annual, 1994, p283)
+4. Indication:  Molindone is used for the management of the manifestations of psychotic disorders.
+DrugId:  24
+1. Name:  Potassium Citrate
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Potassium citrate (also known as tripotassium citrate) is a potassium salt of citric acid. It is a white, hygroscopic crystalline powder. It is odorless with a saline taste. It contains 38.3% potassium by mass. In the monohydrate form it is highly hygroscopic and deliquescent.Potassium citrate is used to treat a kidney stone condition called renal tubular acidosis. Potassium Citrate is indicated also for the management of Hypocitraturic calcium oxalate nephrolithiasis.
+4. Indication:  For the management of renal tubular acidosis, hypocitraturic calcium oxalate nephrolithiasis, and uric acid lithiasis with or without calcium stones.
+DrugId:  25
+1. Name:  Misoprostol
+2. Groups:  Approved
+3. Description:  A synthetic analog of natural prostaglandin E1. It produces a dose-related inhibition of gastric acid and pepsin secretion, and enhances mucosal resistance to injury. It is an effective anti-ulcer agent and also has oxytocic properties.
+4. Indication:  Indicated for the treatment of ulceration (duodenal, gastric and NSAID induced) and prophylaxis for NSAID induced ulceration.Misoprostol is also indicated for other uses that are not approved in Canada, including the medical termination of an intrauterine pregnancy used alone or in combination with methotrexate,as well as the induction of labour in a selected population of pregnant women with unfavourable cervices. This indication is avoided in women with prior uterine surgery or cesarean surgery due to an increased risk of possible uterine rupture. Misoprostol is also used for the prevention or treatment of serious postpartum hemorrhage.

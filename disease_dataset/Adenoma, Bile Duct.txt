@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Adecatumumab
+2. Groups:  Investigational
+3. Description:  Adecatumumab is a recombinant human monoclonal antibody of the IgG1 subclass with a binding specificity to epithelial cell adhesion molecule (EpCAM). EpCAM (CD326) is a cell surface protein that is frequently expressed at high level on most solid tumor types, including prostate, breast, colon, gastric, ovarian, pancreatic and lung cancer.
+4. Indication:  Investigated for use/treatment in breast cancer and prostate cancer.
+DrugId:  3
+1. Name:  Ceruletide
+2. Groups:  Approved
+3. Description:  Caerulein is a specific decapeptide similar in action and composition to the natural gastrointestinal peptide hormone cholecystokinin. It stimulates gastric, biliary, and pancreatic secretion; and certain smooth muscle.
+4. Indication:  Caerulein stimulates gastric, biliary, and pancreatic secretion; and certain smooth muscle. As such, it is used in paralytic ileus and as diagnostic aid in pancreatic malfunction.
+DrugId:  4
+1. Name:  Human secretin
+2. Groups:  Approved
+3. Description:  Human secretin is a gastrointestinal peptide hormone that regulates secretions in the stomach, pancreas, and liver. The hormone is produced from the enterochromaffin cells in the duodenum in response to the duodenal content with the pH less than 4.5 [5]. The main action of secretin is to stimulate the pancreas to secrete pancreatic juice for pH regulation in the small intestines. Secretin is also responsible in body fluid homeostasis [4] and bile production. Although it is a gastrointestinal hormone, secretin is also considered as a neuropeptide hormone since it is also expressed in the central nervous system [3].Purified synthetic human secretin, also referred to as RG1068, is available as an intravenous injection under the market name ChiRhoStim ® in the U.S.. It contains an amino acid sequence identical to the naturally occurring hormone consisting of 27 amino acids [FDA Label] that supports α-helical formation [3]. The carboxyl-terminal amino acid, valine, is amidated. Synthetic human secretin displays equivalent biological activity and properties as naturally-occurring secretin [1]. It is indicated for the stimulation of the pancreatic and gastric secretions to aid in the diagnosis of pancreatic exocrine dysfunction and the diagnosis of gastrinoma, and facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP).
+4. Indication:  Indicated for the stimulation of:pancreatic secretions, including bicarbonate, to aid in the diagnosis of pancreatic exocrine dysfunction [FDA Label].gastrin secretion to aid in the diagnosis of gastrinoma [FDA Label].pancreatic secretions to facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP) [FDA Label].
+DrugId:  5
+1. Name:  Sincalide
+2. Groups:  Approved
+3. Description:  Sincalide is a cholecystokinetic drug administered by injection to aid in diagnosing disorders of the gallbladder and pancreas. It is the 8-amino acid C-terminal fragment of cholecystokinin, also known as CCK-8. Endogenous cholecystokinin is a gastrointestinal peptide hormone responsible for stimulating the digestion of fat and protein. When injected intravenously, sincalide produces a substantial reduction in gallbladder size by causing this organ to contract. The evacuation of bile that results is similar to that which occurs physiologically in response to endogenous cholecystokinin. Furthermore, sincalide stimulates pancreatic secretion of bicarbonate and enzymes.As the product Kinevac (FDA), sincalide is used for the following indications: 1) to stimulate gallbladder contraction, as may be assessed by various methods of diagnostic imaging, or to obtain by duodenal aspiration a sample of concentrated bile for analysis of cholesterol, bile salts, phospholipids, and crystals; (2) to stimulate pancreatic secretion (especially in conjunction with secretin) prior to obtaining a duodenal aspirate for analysis of enzyme activity, composition, and cytology; (3) to accelerate the transit of a barium meal through the small bowel, thereby decreasing the time and extent of radiation associated with fluoroscopy and x-ray examination of the intestinal tract.
+4. Indication:  As the product Kinevac (FDA), sincalide is used for the following indications: 1) to stimulate gallbladder contraction, as may be assessed by various methods of diagnostic imaging, or to obtain by duodenal aspiration a sample of concentrated bile for analysis of cholesterol, bile salts, phospholipids, and crystals; (2) to stimulate pancreatic secretion (especially in conjunction with secretin) prior to obtaining a duodenal aspirate for analysis of enzyme activity, composition, and cytology; (3) to accelerate the transit of a barium meal through the small bowel, thereby decreasing the time and extent of radiation associated with fluoroscopy and x-ray examination of the intestinal tract.
+DrugId:  6
+1. Name:  Selurampanel
+2. Groups:  Investigational
+3. Description:  Selurampanel has been investigated in Adrenocortical Adenoma and Sarcoma, Endometrial Stromal.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Osilodrostat
+2. Groups:  Investigational
+3. Description:  Osilodrostat has been used in trials studying the treatment of AIMAH, PPNAD, Hypertension, Adrenal adenoma, and Renal Impairment, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Chenodeoxycholic acid
+2. Groups:  Approved
+3. Description:  Chenodeoxycholic acid (or Chenodiol) is an epimer of ursodeoxycholic acid (DB01586). Chenodeoxycholic acid is a bile acid naturally found in the body. It works by dissolving the cholesterol that makes gallstones and inhibiting production of cholesterol in the liver and absorption in the intestines, which helps to decrease the formation of gallstones. It can also reduce the amount of other bile acids that can be harmful to liver cells when levels are elevated.
+4. Indication:  Chenodiol is indicated for patients with radiolucent stones in well-opacifying gallbladders, in whom selective surgery would be undertaken except for the presence of increased surgical risk due to systemic disease or age. Chenodiol will not dissolve calcified (radiopaque) or radiolucent bile pigment stones.
+DrugId:  9
+1. Name:  Cholic Acid
+2. Groups:  Approved
+3. Description:  A major primary bile acid produced in the liver and usually conjugated with glycine or taurine. It facilitates fat absorption and cholesterol excretion. [PubChem]Cholic acid, formulated as Cholbam capsules, is approved by the United States Food and Drug Administration as a treatment for children and adults with bile acid synthesis disorders due to single enzyme defects, and for peroxisomal disorders (such as Zellweger syndrome).
+4. Indication:  Oral cholic acid is indicated for: treatment of bile acid synthesis disorders due to single enzyme defects; and as adjunctive treatment of peroxisomal disorders including Zellweger spectrum disorders in patients who exhibit manifestations of liver disease, steatorrhea or complications from decreased fat soluble vitamin absorption. 
+DrugId:  10
+1. Name:  Hyodeoxycholic Acid
+2. Groups:  Investigational
+3. Description:  Hyodeoxycholic Acid has been used in trials studying the treatment of Hypercholesterolemia.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Dehydrocholic acid
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Glycochenodeoxycholic Acid
+2. Groups:  Experimental
+3. Description:  A bile salt formed in the liver from chenodeoxycholate and glycine, usually as the sodium salt. It acts as a detergent to solubilize fats for absorption and is itself absorbed. It is a cholagogue and choleretic. [PubChem]
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Rebamipide
+2. Groups:  Investigational
+3. Description:  Rebamipide has been investigated for the treatment of Stomach Ulcer, Keratoconjunctivitis Sicca, and Gastric Adenoma and Early Gastric Cancer.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Obeticholic acid
+2. Groups:  Approved
+3. Description:  Obeticholic acid is a farnesoid-X receptor (FXR) agonist and is used to treat a number of liver diseases. [1] Obeticholic acid has been granted accelerated approval to treat primary biliary cholangitis in combination with ursodeoxycholic acid. [1] Approval is limited to monotherapy in patient's who are intolerant to ursodeoxycholic acid, or in combination with ursodeoxycholic acid in adults who have not responded adequately to ursodeoxyholic acid alone. [1]Obeticholic acid given orally, binds to the farnesoid X receptor (FXR), a receptor found in the nucleus of cells in the liver and intestine. FXR is a key regulator of bile acid metabolic pathways. Obeticholic acid increases bile flow from the liver and suppresses bile acid production in the liver, thus reducing the exposure of the liver to toxic levels of bile acids.
+4. Indication:  Investigated for use/treatment in liver disease.Obeticholic acid was approved as an orphan drug based on its reduction in the level of the biomarker alkaline phosphatase as a surrogate endpoint for clinical benefit. It is indicated for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA. Additional studies are being required to prove its clinical benefit.
+DrugId:  15
+1. Name:  Cholestyramine
+2. Groups:  Approved, Investigational
+3. Description:  Cholestyramine or colestyramine is a bile acid sequestrant. Bile acid sequestrants are polymeric compounds which serve as ion exchange resins. Cholestyramine resin is quite hydrophilic, but insoluble in water.
+4. Indication:  Indicated as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low density lipoprotein [LDL] cholesterol) who do not respond adequately to diet. Also for the relief of pruritus associated with partial biliary obstruction.
+DrugId:  16
+1. Name:  Ursodeoxycholic acid
+2. Groups:  Approved, Investigational
+3. Description:  Ursodeoxycholic acid is an epimer of chenodeoxycholic acid (DB06777). It is a mammalian bile acid found first in the bear and is apparently either a precursor or a product of chenodeoxycholate. Its administration changes the composition of bile and may dissolve gallstones. It is used as a cholagogue and choleretic. [PubChem]
+4. Indication:  The drug reduces cholesterol absorption and is used to dissolve (cholesterol) gallstones in patients who want an alternative to surgery.
+DrugId:  17
+1. Name:  Glycocholic acid
+2. Groups:  Experimental, Investigational
+3. Description:  The glycine conjugate of cholic acid. It acts as a detergent to solubilize fats for absorption and is itself absorbed.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Colestipol
+2. Groups:  Approved
+3. Description:  Highly crosslinked and insoluble basic anion exchange resin used as anticholesteremic. It may also may reduce triglyceride levels. [PubChem]
+4. Indication:  For use, as adjunctive therapy to diet, for the reduction of elevated serum total and LDL-C in patients with primary hypercholesterolemia (elevated LDL-C) who do not respond adequately to diet.
+DrugId:  19
+1. Name:  Squalamine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in ovarian cancer, lung cancer, and macular degeneration.
+DrugId:  20
+1. Name:  Aramchol
+2. Groups:  Investigational
+3. Description:  Aramchol has been used in trials studying the treatment of HIV, Gallstones, Fatty Liver, Metabolic Syndrome, and Nonalcoholic Steatohepatitis, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Deoxycholic Acid
+2. Groups:  Approved
+3. Description:  Deoxycholic acid is a a bile acid which emulsifies and solubilizes dietary fats in the intestine, and when injected subcutaneously, it disrupts cell membranes in adipocytes and destroys fat cells in that tissue. In April 2015, deoxycholic acid was approved by the FDA for the treatment submental fat to improve aesthetic appearance and reduce facial fullness or convexity. It is marketed under the brand name Kybella by Kythera Biopharma and is the first pharmacological agent available for submental fat reduction, allowing for a safer and less invasive alternative than surgical procedures. 
+4. Indication:  For improvement in appearance of moderate to severe fullness associated with submental fat in adults. 
+DrugId:  22
+1. Name:  Fluorescein lisicol
+2. Groups:  Investigational
+3. Description:  Fluorescein lisicol has been used in trials studying the diagnostic of Pharmacokinetics, Hepatic Cirrhosis, Hepatitis, Viral, Human, Nonalcoholic Steatohepatitis, and Non-Alcoholic Fatty Liver Disease.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Taurocholic Acid
+2. Groups:  Experimental
+3. Description:  The product of conjugation of cholic acid with taurine. Its sodium salt is the chief ingredient of the bile of carnivorous animals. It acts as a detergent to solubilize fats for absorption and is itself absorbed. It is used as a cholagogue and cholerectic. [PubChem]
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Colesevelam
+2. Groups:  Approved
+3. Description:  Colesevelam is a bile acid sequestrant. Colesevelam is used with exercise and diet changes (restriction of cholesterol and fat intake) to reduce the amount of cholesterol and certain fatty substances in the blood. It works by binding bile acids in the intestine. Bile acids are made when cholesterol is broken down in the body. Removing these bile acids helps to lower blood cholesterol.
+4. Indication:  For use, alone or in combination with an HMG-CoA reductase inhibitor, as adjunctive therapy to diet and exercise for the reduction of elevated LDL cholesterol in patients with primary hypercholesterolemia (Fredrickson Type IIa).
+DrugId:  25
+1. Name:  Hymecromone
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available

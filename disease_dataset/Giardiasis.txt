@@ -1,0 +1,15 @@
+DrugId:  1
+1. Name:  Quinacrine
+2. Groups:  Approved, Investigational
+3. Description:  An acridine derivative formerly widely used as an antimalarial but superseded by chloroquine in recent years. It has also been used as an anthelmintic and in the treatment of giardiasis and malignant effusions. It is used in cell biological experiments as an inhibitor of phospholipase A2.
+4. Indication:  For the treatment of giardiasis and cutaneous leishmaniasis and the management of malignant effusions.
+DrugId:  2
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  3
+1. Name:  Tinidazole
+2. Groups:  Approved, Investigational
+3. Description:  A nitroimidazole antitrichomonal agent effective against Trichomonas vaginalis, Entamoeba histolytica, and Giardia lamblia infections. [PubChem]
+4. Indication:  For the treatment of trichomoniasis caused by T. vaginalis in both female and male patients. Also for the treatment of giardiasis caused by G. duodenalis in both adults and pediatric patients older than three years of age and for the treatment of intestinal amebiasis and amebic liver abscess caused by E. histolytica in both adults and pediatric patients older than three years of age.

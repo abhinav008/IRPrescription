@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  OMS-103HP
+2. Groups:  Investigational
+3. Description:  OMS103HP is the first drug being developed to improve joint function following arthroscopic surgery, one of the most common procedures performed today by orthopedic surgeons.
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), knee replacement, orthopedic surgery, and pain (acute or chronic).
+DrugId:  2
+1. Name:  Piritramide
+2. Groups:  Approved, Investigational
+3. Description:  Piritramide is under investigation for the treatment of Colon Cancer and Minimal Residual Disease. Piritramide has been investigated for the supportive care of Pain, Postoperative and Postoperative Nausea and Vomiting.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Difelikefalin
+2. Groups:  Investigational
+3. Description:  Difelikefalin has been used in trials studying the treatment of Acute Pain and Postoperative Pain.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  MK-0686
+2. Groups:  Investigational
+3. Description:  MK0686 has been used in trials studying the treatment of Osteoarthritis, Pain, Postoperative, and Neuralgia, Postherpetic.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Dezocine
+2. Groups:  Approved, Investigational
+3. Description:  Dezocine is a partial opiate drug and is used for pain management. Dezocine is a very effective alternative to fentanyl when administered during outpatient laparoscopy, although is associated with an increased incidence of postoperative nausea. 
+4. Indication:  Indicated in the treatment of moderate to severe pain.
+DrugId:  6
+1. Name:  Pethidine
+2. Groups:  Approved
+3. Description:  A narcotic analgesic that can be used for the relief of most types of moderate to severe pain, including postoperative pain and the pain of labor. Prolonged use may lead to dependence of the morphine type; withdrawal symptoms appear more rapidly than with morphine and are of shorter duration.
+4. Indication:  Used to control moderate to severe pain.
+DrugId:  7
+1. Name:  Mosapride
+2. Groups:  Investigational
+3. Description:  Mosapride is under investigation for the treatment and prevention of Postoperative Ileus and Gastric Peroral Endoscopic Pyloromyotomy (G-POEM). Mosapride has been investigated for the treatment and diagnostic of Constipation, Type 2 Diabetes, Functional Dyspepsia, Functional Constipation, and Epigastric Pain Syndrome, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Ketobemidone
+2. Groups:  Approved, Investigational
+3. Description:  Ketobemidone is a powerful opioid analgesic. Its effectiveness against pain is in the same range as morphine, and it also has some NMDA-antagonist properties. This makes it useful for some types of pain that don't respond well to other opioids. The most commonly cited equalisation ratio for analgesic doses is 25 mg of ketobemidone hydrobromide to 60 mg of morphine hydrochloride or sulfate and circa 8 mg of ketobemidone by injection.
+4. Indication:  For the treatment of all types of severe pain, such as postoperative, cancer, kidney stones and fractures.
+DrugId:  9
+1. Name:  Dexibuprofen
+2. Groups:  Approved, Investigational
+3. Description:  Dexibuprofen, S(+)-ibuprofen, is a non-steroidal anti-inflammatory drug (NSAID). It is a pharmacologically effective enantiomer of racemic ibuprofen that differs in physicochemical properties. It is proposed to be more pharmacologically active and tolerable with a better safety profile than ibuprofen due to higher concentration of active S enantiomer. Dexibuprofen has a slower dissolution rate in the simulated gastric and enteric juices compared with the racemic ibuprofen [A19257] and displays improved oral bioavilability [4].*For Metabolism, Enzymes, Carriers, Transporters Sections, refer to Ibuprofen (DB01050)
+4. Indication:  Similar indications as ibuprofen; to be used as a symptomatic treatment for pain and inflammation in rheumatic disease such as osteoarthritis and rheumatoid arthritis, as well as other musculoskeletal disorders. It is also used to reduce oral postoperative pain and alleviate fever.
+DrugId:  10
+1. Name:  Piroxicam
+2. Groups:  Approved, Investigational
+3. Description:  A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily. [PubChem]
+4. Indication:  For treatment of osteoarthritis and rheumatoid arthritis.
+DrugId:  11
+1. Name:  Bromfenac
+2. Groups:  Approved
+3. Description:  Bromfenac is a nonsteroidal anti-inflammatory drug (NSAID) for ophthalmic use. Ophthalmic NSAIDs are becoming a cornerstone for the management of ocular pain and inflammation. Their well-characterized anti-inflammatory activity, analgesic property, and established safety record have also made NSAIDs an important tool to optimize surgical outcomes.
+4. Indication:  For the treatment of postoperative inflammation in patients who have undergone cataract extraction.
+DrugId:  12
+1. Name:  Alvimopan
+2. Groups:  Approved, Investigational
+3. Description:  Alvimopan is a peripherally acting μ opioid antagonist. It is used to avoid postoperative ileus following small or large bowel resection and accelerates the gastrointestinal recovery period. 
+4. Indication:  Used to accelerate the time to upper and lower gastrointestinal recovery following partial large or small bowel resection surgery with primary anastomosis. Also investigated for use in the treatment of pain (acute or chronic).
+DrugId:  13
+1. Name:  Alfentanil
+2. Groups:  Approved, Illicit
+3. Description:  A short-acting opioid anesthetic and analgesic derivative of fentanyl. It produces an early peak analgesic effect and fast recovery of consciousness. Alfentanil is effective as an anesthetic during surgery, for supplementation of analgesia during surgical procedures, and as an analgesic for critically ill patients. [PubChem]
+4. Indication:  For the management of postoperative pain and the maintenance of general anesthesia.
+DrugId:  14
+1. Name:  Ketoprofen
+2. Groups:  Approved, Vet approved
+3. Description:  Ketoprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties. 
+4. Indication:  For symptomatic treatment of acute and chronic rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, primary dysmenorrhea and mild to moderate pain associated with musculotendinous trauma (sprains and strains), postoperative (including dental surgery) or postpartum pain.
+DrugId:  15
+1. Name:  Ketorolac
+2. Groups:  Approved
+3. Description:  A pyrrolizine carboxylic acid derivative structurally related to indomethacin. It is an NSAID and is used principally for its analgesic activity. (From Martindale The Extra Pharmacopoeia, 31st ed)
+4. Indication:  For the short-term (~5 days) management of moderately severe acute pain that requires analgesia at the opioid level, usually in a postoperative setting.
+DrugId:  16
+1. Name:  Tramadol
+2. Groups:  Approved, Investigational
+3. Description:  A narcotic analgesic proposed for moderate to severe pain. It may be habituating. Tramadol is also prepared as a variable release capsules, marketed under the brand name ConZip. For example, a 150 mg capsule will contain 37.5 mg of the immediate release form and 112.5 mg of the extended release form.
+4. Indication:  Indicated in the treatment of moderate to severe pain. Consider for those prone to constipation or respiratory depression. Tramadol is used to treat postoperative, dental, cancer, and acute musculosketetal pain and as an adjuvant to NSAID therapy in patients with osteoarthritis.
+DrugId:  17
+1. Name:  Trimebutine
+2. Groups:  Approved
+3. Description:  Trimebutine is a spasmolytic agent that regulates intestinal and colonic motility and relieves abdominal pain with antimuscarinic and weak mu opioid agonist effects. It is marketed for the treatment of irritable bowel syndrome (IBS) and lower gastrointestinal tract motility disorders, with IBS being one of the most common multifactorial GI disorders [2]. It is used to restore normal bowel function and is commonly present in pharmaceutical mixtures as trimebutine maleate salt form. Trimebutine is not a FDA-approved drug, but it is available in Canada and several other international countries.
+4. Indication:  Indicated for symptomatic treatment of irritable bowel syndrome (IBS) and treatment of postoperative paralytic ileus following abdominal surgery. 
+DrugId:  18
+1. Name:  Capsaicin
+2. Groups:  Approved
+3. Description:  Capsaicin is most often used as a topical analgesic and exists in many formulations of cream, liquid, and patch preparations of various strengths; however, it may also be found in some dietary supplements. Capsaicin is a naturally-occurring botanical irritant in chili peppers, synthetically derived for pharmaceutical formulations. The most recent capsaicin FDA approval was Qutenza, an 8% capsaicin patch dermal-delivery system, indicated for neuropathic pain associated with post-herpetic neuralgia.
+4. Indication:  The capsaicin 8% patch is indicated in the treatment of neuropathic pain associated with post-herpetic neuralgia. There are multiple topical capsaicin formulations available, including creams and solutions, indicated for temporary analgesia in muscle and join pain as well as neuropathic pain. 
+DrugId:  19
+1. Name:  Ulimorelin
+2. Groups:  Investigational
+3. Description:  Ulimorelin is a novel small molecule ghrelin agonist being developed by Tranzyme Pharma as a first-in-class treatment for both POI and diabetic gastroparesis, serious medical conditions in which motility of the GI tract is severely impaired.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  ALGRX 1207
+2. Groups:  Investigational
+3. Description:  ALGRX 1207 is a topical local anesthetic that acts by binding to the fast sodium channel. ALGRX 1207 entered clinical trials for cutaneous neuropathic pain, such as chemotherapy-induced neuropathy, in 2006. It was being developed by Anesiva, but trials have halted.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  21
+1. Name:  ROX-888
+2. Groups:  Investigational
+3. Description:  ROX-888 is ROXRO's lead compound which is currently in Phase 3 trials for the treatment of acute pain, including post-operative pain. 
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  22
+1. Name:  Camphor
+2. Groups:  Approved
+3. Description:  A bicyclic monoterpene ketone found widely in plants, especially cinnamomum camphora. It is used topically as a skin antipruritic and as an anti-infective agent.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Phenazopyridine
+2. Groups:  Approved
+3. Description:  A local anesthetic that has been used in urinary tract disorders. Its use is limited by problems with toxicity (primarily blood disorders) and potential carcinogenicity. [PubChem]
+4. Indication:  For the symptomatic relief of pain, burning, urgency, frequency, and other discomforts arising from irritation of the lower urinary tract mucosa caused by infection, trauma, surgery, endoscopic procedures, or the passage of sounds or catheters.
+DrugId:  24
+1. Name:  Pramocaine
+2. Groups:  Approved
+3. Description:  Pramocaine (also known as pramoxine or pramoxine HCI) is a topical anesthetic and antipruritic. It is used for many dermatological and anorectal/anogenital conditions including minor cuts/burns, insect bites, hives/rashes due to poison ivy exposure, hemorrhoids and other anorectal/anogenital disorders. Pramocaine is available by itself and in combination with other medications in various topical preparations. It works by preventing ionic fluctuations needed for neuron membrane depolarization and action potential propagation.
+4. Indication:  It is indicated for temporary relief of pain and pruritus from minor lip and skin irritations as well as for temporary relief from pain, burning, itching and discomfort associated with hemorrhoids and other anorectal/anogenital disorders. 
+DrugId:  25
+1. Name:  Methocarbamol
+2. Groups:  Approved, Vet approved
+3. Description:  A centrally acting muscle relaxant whose mode of action has not been established. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1206)
+4. Indication:  For use as an adjunct to rest, physical therapy, and other measures for the relief of discomforts associated with acute, painful musculoskeletal conditions.

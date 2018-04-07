@@ -1,0 +1,45 @@
+DrugId:  1
+1. Name:  Sofalcone
+2. Groups:  Investigational
+3. Description:  Sofalcone is a mucosal protective agent that has been reported to inhibit growth of Helicobacter pylori. on adherence, production of vacuolating toxin (VT), and induction of interleukin-8 (IL-8) secretion by H. pylori.
+4. Indication:  Investigated for use/treatment in gastroenteritis and ulcers.
+DrugId:  2
+1. Name:  Racecadotril
+2. Groups:  Investigational
+3. Description:  Racecadotril has been investigated for the basic science and treatment of Diarrhea, Acute Diarrhea, and Acute Gastroenteritis.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Isopropamide
+2. Groups:  Approved, Vet approved
+3. Description:  Isopropamide iodide is a long-acting quaternary anticholinergic drug. It is used in the treatment of peptic ulcer and other gastrointestinal disorders marked by hyperacidity and hypermotility.
+4. Indication:  For the treatment of a wide range of gastrointestinal disorders, including such conditions as peptic ulcer, gastritis, hyperchlorhydria, functional diarrhea, irritable or spastic colon, pyloroduodenal irritability, pylorospasm, acute nonspecific gastroenteritis, biliary dyskinesia and chronic cholelithiasis, duodenitis, gastrointestinal spasm; it may also be used to treat genitourinary spasm.
+DrugId:  4
+1. Name:  Rotavirus Vaccine
+2. Groups:  Approved
+3. Description:  Rotavirus commonly infects children and infants causing severe diarrhea and vomiting leading to potentially fatal dehydration [2]. Two rotavirus vaccines are available for the prevention of rotavirus gastroenteritis, Rotateq and Rotarix. Rotateq is a live vaccine consisting of 5 reassorted human-bovine viral strains [1]. Rotarix is a live attenuated vaccine containing the 89-12 human strain [FDA Label]. Rotavirus vaccines are 90% effective in protecting against severe rotavirus infection [2].
+4. Indication:  Rotarix is indicated for prevention of rotavirus gastroenteritis caused by G1, G3, G4, and G9 types in infants aged 6-24 weeks [FDA Label].Rotateq is indicated for the prevention of rotavirus gastroenteritis caused by G1, G2, G3, G4, and G9 types in infants aged 6-32 weeks [1].
+DrugId:  5
+1. Name:  Trimethobenzamide
+2. Groups:  Approved, Investigational
+3. Description:  Trimethobenzamide is a novel antiemetic which prevents nausea and vomiting in humans. Its actions are unclear but most likely involves the chemoreceptor trigger zone (CTZ). In dogs pretreated with trimethobenzamide HCl, the emetic response to apomorphine is inhibited, while little or no protection is afforded against emesis induced by intragastric copper sulfate.
+4. Indication:  For the treatment of postoperative nausea and vomiting and for nausea associated with gastroenteritis.
+DrugId:  6
+1. Name:  Naldemedine
+2. Groups:  Approved, Investigational
+3. Description:  Naldemedine is an opioid receptor antagonist [FDA Label]. It is a modified form of Naltrexone to which a side chain has been added to increase molecular weight and polar surface area resulting in restricted transport across the blood brain barrier. Naldemedine was approved in 2017 in both the US and Japan for the treatment of Opioid-induced Constipation.
+4. Indication:  For the treatment of opioid-induced constipation [FDA Label].
+DrugId:  7
+1. Name:  Mercaptopurine
+2. Groups:  Approved
+3. Description:  An antimetabolite antineoplastic agent with immunosuppressant properties. It interferes with nucleic acid synthesis by inhibiting purine metabolism and is used, usually in combination with other drugs, in the treatment of or in remission maintenance programs for leukemia. [PubChem]
+4. Indication:  For remission induction and maintenance therapy of acute lymphatic leukemia.
+DrugId:  8
+1. Name:  Colchicine
+2. Groups:  Approved
+3. Description:  A major alkaloid from Colchicum autumnale L. and found also in other Colchicum species. Its primary therapeutic use is in the treatment of gout, but it has been used also in the therapy of familial Mediterranean fever (periodic disease). [PubChem]
+4. Indication:  For treatment and relief of pain in attacks of acute gouty arthritis.
+DrugId:  9
+1. Name:  Loperamide
+2. Groups:  Approved
+3. Description:  One of the long-acting synthetic antidiarrheals; it is not significantly absorbed from the gut, and has no effect on the adrenergic system or central nervous system, but may antagonize histamine and interfere with acetylcholine release locally. [PubChem]
+4. Indication:  For the control and symptomatic relief of acute nonspecific diarrhea and of chronic diarrhea associated with inflammatory bowel disease or gastroenteritis. Also used for reducing the volume of discharge from ileostomies.

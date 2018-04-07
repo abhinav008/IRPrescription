@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  MUC1 Dendritic Cell Vaccine
+2. Groups:  Investigational
+3. Description:  Dendritic Cell (DC) Therapy is a newly emerging and potent form of immune therapy that amplifies the actions of the body's own immune system to help fight cancer, AIDS and other serious conditions. The Dendritic Cell is an immune cell whose role is the recognition, processing and presentation of foreign antigens to the T-cells to initiate a primary response in the effector arm of the immune system. Dendritic cells not only activate lymphocytes to induce the immune response, but they also minimize autoimmune reactions by downplaying self-antigens to stimulated T-cells. Dendritic Cell Therapy involves the harvesting of blood cells (ie monocytes or macrophages) from a patient and processing them in the laboratory to produce a greater than typical Dendritic Cell concentration. These cells are then given back to a patient as a vaccine in order to allow for a potent immune response to cancer.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and ovarian cancer.
+DrugId:  2
+1. Name:  Polatuzumab Vedotin
+2. Groups:  Investigational
+3. Description:  Polatuzumab Vedotin has been used in trials studying the treatment of Non-Hodgkin's Lymphoma, Lymphoma, B-Cell, Non-Hodgkin's Lymphoma, Diffuse Large B-Cell Lymphoma, Lymphoma, Follicular, Lymphoma, Follicular, Diffuse Large B-Cell Lymphoma, and Diffuse Large B-Cell Lymphoma, Lymphoma, Non Hodgkin, Lymphoma, Follicular, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  IDD-3
+2. Groups:  Investigational
+3. Description:  IDD-3 is a therapeutic specific immunostimulant developed by IDM Pharma in partnership with sanofi-aventis. It consists of mature dendritic cells loaded with lysates from melanoma tumor cell lines. It includes Dendritophages that are dendritic cells, a type of specialized immune cells derived from the patient's own white blood cells. 
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  4
+1. Name:  AGS-005
+2. Groups:  Investigational
+3. Description:  AGS-005 is a personalized dendritic cell-based immunotherapy, with optimized immune response characteristics, that is designed to stimulate the patient's immune system to target and destroy the patient's cancer cells.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  5
+1. Name:  Lumiliximab
+2. Groups:  Investigational
+3. Description:  Lumiliximab is a chimeric monoclonal antibody which is used as an immunosuppressive drug. It is a primatized anti-CD23 macaque/human chimeric antibody that inhibits the production of the IgE antibody, for the potential treatment of allergic conditions. Lumiliximab was developed by IDEC Pharmaceuticals, which was acquired by Biogen. Clinical trials for CLL were terminated in 2010, and for allergic asthma in 2007. Results published from the CLL clinical trial failed to meet primary endpoints.
+4. Indication:  Investigated for use/treatment in asthma and leukemia (lymphoid).
+DrugId:  6
+1. Name:  INGN 225
+2. Groups:  Investigational
+3. Description:  INGN 225 is a therapeutic consisting of a cancer patient's own immune cells treated with an adenovector carrying the human p53 gene, Ad-p53. INGN 225 is currently in Phase 1/2 trials in patients with small cell lung cancer and breast cancer.
+4. Indication:  Investigated for use/treatment in breast cancer, head and neck cancer, and lung cancer.
+DrugId:  7
+1. Name:  Amolimogene
+2. Groups:  Investigational
+3. Description:  Amolimogene is an investigational therapeutic designed to specifically augment the body's defensive response to human papillomavirus (HPV). Amolimogene was biologically engineered as a targeted therapy for the treatment of cervical dysplasia.
+4. Indication:  Intended for the treatment of cervical dysplasia associated with the human papillomavirus (HPV).
+DrugId:  8
+1. Name:  ISS-1018
+2. Groups:  Investigational
+3. Description:  ISS 1018 is a short, synthetic, unmethylated CpG oligodeoxynucleotide (CpG ODN) with immunostimulatory activity. ISS 1018 signals through Toll-like receptor 9 (TLR9) to induce the production of immunoglobulin by B cells and interferon (IFN) -alpha, IFN-beta, interleukin-12 (IL-12), and tumor necrosis factor - alpha (TNF-alpha) by plasmacytoid dendritic cells (pDC). ISS 1018 CpG ODN promotes antigen presentation and co-stimulatory molecule expression. ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It is also being investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+4. Indication:  Investigated for use/treatment in colorectal cancer, hepatitis (viral, B), and lymphoma (non-hodgkin's).ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It has also been investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+DrugId:  9
+1. Name:  AGS-004
+2. Groups:  Investigational
+3. Description:  AGS-004 is a personalized RNA-loaded dendritic cellbasedimmunotherapy that is designed to stimulate the patient’s immune system to target and destroy the patient’s own unique viral burden. Non-personalized HIV immunotherapies are unable to raise cytotoxic T lymphocytes against HIV antigens, fail to induce T cell memory, and, most importantly, do not provide antiviral protection against the patient's own particular virus. A personalized immunotherapy addresses these issues because it is able to capture private viral mutations, providing a matched, complete immune response for each individual HIV patient. This approach may overcome the weaknesses of other available therapies and therefore could result in a better chance of success for HIV treatment.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  10
+1. Name:  Entospletinib
+2. Groups:  Investigational
+3. Description:  Entospletinib has been used in trials studying the treatment of Oncology, Follicular Lymphoma, B-cell Malignancies, Mantle Cell Lymphoma, and Non-Hodgkin Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Olaratumab
+2. Groups:  Approved, Investigational
+3. Description:  Olaratumab (IMC-3G3) is a fully human IgG1 monoclonal antibody with antitumor activity that selectively binds the external domain of human platelet-derived growth factor receptor (PDGFR)-α with high affinity and blocks ligand binding. It is composed of two heavy chain molecule fragments and 2 light chain fragments. Studies show that the treatment of olaratumab in combination with doxorubicin resulted in significant reduction of cancer cell proliferation and tumor growth. Olaratumab was granted accelerated approval (as Lartruvo) as initial therapy to treat adults with certain types of soft tissue sarcoma (STS) in October, 2016.
+4. Indication:  Olaratumab is indicated, in combination with doxorubicin, for the treatment of adult patients with advanced or mestastatic soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery.
+DrugId:  12
+1. Name:  Galiximab
+2. Groups:  Investigational
+3. Description:  Galiximab is a chimeric monoclonal antibody which is used as an immunosuppressive drug.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's), psoriasis and psoriatic disorders, bone metastases, multiple myeloma, prostate cancer, and rheumatoid arthritis.
+DrugId:  13
+1. Name:  CTCE-9908
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lung cancer, and sarcoma.
+DrugId:  14
+1. Name:  Lutropin alfa
+2. Groups:  Approved
+3. Description:  Lutropin alfa is a recombinant human luteinizing hormone produced in yeast with 2 subunits, alpha = 92 residues, beta = 121 residues. It is a heterodimeric glycoprotein. Each monomeric unit is a glycoprotein molecule. In females, an acute rise of LH ("LH surge") triggers ovulation and the development of the corpus luteum. In males, it stimulates Leydig cell production of testosterone. Lutropin alfa was the first and only recombinant human form of luteinizing hormone (LH) developed for use in the stimulation of follicular development.
+4. Indication:  For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH <1.2 international units [IU]/L)
+DrugId:  15
+1. Name:  Duvelisib
+2. Groups:  Investigational
+3. Description:  Duvelisib has been used in trials studying the treatment and basic science of Lymphoma, Leukemia, T-cell Lymphoma, Hepatic Impairment, and Follicular Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Copanlisib
+2. Groups:  Approved, Investigational
+3. Description:  Copanlisib is a selective pan-Class I phosphoinositide 3-kinase (PI3K/Phosphatidylinositol-4,5-bisphosphate 3-kinase/phosphatidylinositide 3-kinase) inhibitor that was first developed by Bayer Healthcare Pharmaceuticals, Inc. The drug targets the enzyme that plays a role in regulating cell growth and survival. Copanlisib was granted accelerated approval on September 14, 2017 under the market name Aliqopa for the treatment of adult patients with relapsed follicular lymphoma and a treatment history of at least two prior systemic therapies. Follicular lymphoma is a slow-growing type of non-Hodgkin lymphoma that is caused by unregulated proliferation and growth of lymphocytes. The active ingredient in Aliquopa intravenous therapy is copanlisib dihydrochloride.
+4. Indication:  Indicated for the treatment of adult patients with relapsed follicular lymphoma (FL) who have received at least two prior systemic therapies.
+DrugId:  17
+1. Name:  Oregovomab
+2. Groups:  Investigational
+3. Description:  Oregovomab is a murine monoclonal antibody that attaches to the tumor-associated antigen CA125.
+4. Indication:  Investigated for use/treatment in ovarian cancer.
+DrugId:  18
+1. Name:  Thymalfasin
+2. Groups:  Approved, Investigational
+3. Description:  Thymalfasin is a chemically synthesized version of thymosin alpha 1 that is identical to human thymosin alpha 1. Thymosin alpha 1 is an acetylated polypeptide. Thymosin alpha 1 is now approved in 35 developing countries for the treatment of Hepatitis B and C. It is also used to boost the immune response in the treatment of other diseases.
+4. Indication:  Indicated as an adjuvant for influenza vaccine in elderly patients and as an adjuvant for both influenza and hepatitis B vaccines in chronic hemodialysis patients who failed to achieve adequate antibody titers from previous immunization.
+DrugId:  19
+1. Name:  Phosphatidyl serine
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Phosphatidyl serine (PS) is a phospholipid nutrient found in fish, green leafy vegetables, soybeans and rice, and is essential for the normal functioning of neuronal cell membranes and activates Protein kinase C (PKC) which has been shown to be involved in memory function. In apoptosis, phosphatidyl serine is transferred to the outer leaflet of the plasma membrane. This is part of the process by which the cell is targeted for phagocytosis. PS has been shown to slow cognitive decline in animal models. PS has been investigated in a small number of double-blind placebo trials and has been shown to increase memory performance in the elderly. Because of the potentail cognitive benefits of phosphatidylserine, the substance is sold as a dietary supplement to people who believe they can benefit from an increased intake.The dietary supplement was originally processed from bovine sources however Prion disease scares in the 1990s outlawed this process, and a soy-based alternative was adopted.
+4. Indication:  Phosphatidylserine has demonstrated some usefulness in treating cognitive impairment, including Alzheimer's disease, age-associated memory impairment and some non-Alzheimer's dementias. More research is needed before phosphatidylserine can be indicated for immune enhancement or for reduction of exercise stress.
+DrugId:  20
+1. Name:  Irofulven
+2. Groups:  Investigational
+3. Description:  A novel anti-cancer compound synthesized by scientists at the University of California, San Diego more than a decade ago from toxins of the poisonous jack-o-lantern mushroom, has been granted “fast track” status by the U.S. Food and Drug Administration (FDA) after demonstrating promise against one of the most deadly cancers. MGI-114 (Irofulven) is currently being developed by MGI PHARMA, Inc., an emerging oncology-focused pharmaceutical company based in Minneapolis. Phase III clinical trials involving the drug have been underway since early 2001 at sites in the U.S. and Europe.
+4. Indication:  Investigated for use/treatment in brain cancer, breast cancer, endometrial cancer, liver cancer, lung cancer, ovarian cancer, pancreatic cancer, pediatric indications, prostate cancer, and sarcoma.
+DrugId:  21
+1. Name:  Trabectedin
+2. Groups:  Approved, Investigational
+3. Description:  Trabectedin, also referred as ET-743 during its development, is a marine derived antitumoral agent discovered in the Carribean tunicate Ecteinascidia turbinata and now produced synthetically. Trabectedin has a unique mechanism of action. It binds to the minor groove of DNA interfering with cell division and genetic transcription processes and DNA repair machinery.It is approved for use in Europe, Russia and South Korea for the treatment of advanced soft tissue sarcoma. It is also undergoing clinical trials for the treatment of breast, prostate, and paediatric sarcomas. The European Commission and the U.S. Food and Drug Administration (FDA) have granted orphan drug status to trabectedin for soft tissue sarcomas and ovarian cancer. On October 23, 2015, the FDA approved trabectedin, (as Yondelis), for the treatment of specific soft tissue sarcomas.
+4. Indication:  Indicated for treatment of advanced soft tissue sarcoma in patients refractory to or unsuitable to receive anthracycline or ifosfamide chemotherapy in Europe, Russia and South Korea. Approved for orphan drug status by the U.S. FDA for treatment of soft tissue sarcomas and ovarian cancer. Investigated for use/treatment in cancer/tumors (unspecified), gastric cancer, ovarian cancer, pediatric indications, sarcoma, and solid tumors.
+DrugId:  22
+1. Name:  Tositumomab
+2. Groups:  Approved, Investigational
+3. Description:  Murine IgG2a lambda monoclonal antibody against CD20 antigen (2 heavy chains of 451 residues, 2 lambda chains of 220 residues). It is produced in an antibiotic-free culture of mammalian cells. It can be covalently linked to Iodine 131 (a radioactive isotope of iodine).
+4. Indication:  For treatment of non-Hodgkin's lymphoma (CD20 positive, follicular)
+DrugId:  23
+1. Name:  Ulipristal
+2. Groups:  Approved
+3. Description:  Ulipristal is a selective progesterone receptor modulator used for the purposes of emergency contraception (Ella) and for the treatment of uterine fibroids (Fibristal). It is a derivative of 19-norprogesterone and has both antagonistic and partial agonist activity at the progesterone receptor. It also binds to glucocorticoid receptor, however compared to mifepristone (a progesterone receptor antagonist), ulipristal is more tolerable and has lower glucocorticoid activity and better binding affinity. Ulipristal is currently recommended as first line therapy for emergency contraception, due to improved efficacy and similar side effect profile as compared to the traditional use of levonorgestrel or the Yuzpe regimen. The exact mechanism of action for ulipristal is still currently debated, though there is evidence that it functions by inhibiting ovulation. A recent systematic review proclaimed that the majority of available evidence demonstrates an inhibitory effect on ovulation rather than a post-fertilization effect on the endometrium, which has been heavily debated due to ethical concerns related to abortion (Rosato et al, 2016).
+4. Indication:  As the product Ella (available in Canada and the US), ulipristal is indicated for use as emergency contraception after unprotected intercourse or possible contraceptive failure when administered within 120 hours (5 days) after unprotected intercourse or a known or suspected contraceptive failure. As the product Fibristal (available in Canada), ulipristal is indicated for treatment of the signs and symptoms of uterine fibroids in adult women.
+DrugId:  24
+1. Name:  HspE7
+2. Groups:  Investigational
+3. Description:  HspE7 is a recombinant chimeric protein composed of the heat shock protein 65 (Hsp65) from Mycobacterium bovis, and the human papilloma viral (HPV) protein E7. Hsp65, similar to other members of its family of proteins, elicits a strong immune response and may be used to design vaccines against a number of different cancers. E7 protein is involved in carcinogenesis of anal and cervical tumors, and represents a tumor antigen that may be specifically targeted by lymphocytes. It is being developed by StressGen Biotechnologies Corp.
+4. Indication:  Investigated for use/treatment in anal dysplasia, cervical dysplasia/cancer, genital warts, HIV infection, infectious and parasitic disease (unspecified), pediatric indications, warts, and viral infection.
+DrugId:  25
+1. Name:  Idelalisib
+2. Groups:  Approved
+3. Description:  Idelalisib is a phosphoinositide 3-kinase inhibitor indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies. More specifically, idelalisib targets P110δ, the delta isoform of the enzyme phosphatidylinositol-4,5-bisphosphate 3-kinase, also known as PI-3K. The PI-3Ks are a family of enzymes involved in cellular functions such as cell growth, proliferation, differentiation, motility, survival and intracellular trafficking, which in turn are involved in cancer. In contrast to the other class IA PI3Ks p110α and p110β, p110δ is principally expressed in leukocytes (white blood cells) and is important for the function of T cells, B cell, mast cells and neutrophils. By inhibiting this enzyme, idelalisib induces apoptosis of malignant cells and inhibits several cell signaling pathways, including B-cell receptor (BCR) signaling and C-X-C chemokine receptors type 5 and type 4 signalling, which are involved in trafficking and homing of B-cells to the lymph nodes and bone marrow. Treatment of lymphoma cells with idelalisib has been shown to result in inhibition of chemotaxis and adhesion, and reduced cell viability.
+4. Indication:  Idelalisib is indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies.

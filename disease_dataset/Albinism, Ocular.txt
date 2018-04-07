@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bamosiran
+2. Groups:  Investigational
+3. Description:  Bamosiran has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, and Open Angle Glaucoma.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  DNB-001
+2. Groups:  Investigational
+3. Description:  DNB-001 is a first-in-class oral therapy with dual mechanism of action, which is initially being developed for the treatment of glaucoma. In preclinical animal models, DNB-001 has demonstrated potent IOP- lowering effects as well as neuroprotective effects on the optic nerve.
+4. Indication:  Investigated for use/treatment in ocular hypertension.
+DrugId:  3
+1. Name:  Nepafenac
+2. Groups:  Approved, Investigational
+3. Description:  Nepafenac is a non-steroidal anti-inflammatory prodrug (NSAID) usually sold as a prescription eye drop. It is used to treat pain and inflammation associated with cataract surgery.
+4. Indication:  For the treatment of pain and inflammation associated with cataract surgery.
+DrugId:  4
+1. Name:  PF-03187207
+2. Groups:  Investigational
+3. Description:  PF-03187207 is a nitric oxide-donating prostaglandin F2-alpha analogs for the potential treatment of glaucoma. Based on the very promising preclinical results and on the well-known activities of nitric oxide, PF-03187207 is expected to have an increased capacity to reduce high IOP. The development of abnormally high IOP, due to blockage or malfunction of systems controlling the amount of fluid in the eye, is believed to be one of the principal causes of glaucoma.
+4. Indication:  Investigated for use/treatment in glaucoma and ocular hypertension.
+DrugId:  5
+1. Name:  Anecortave
+2. Groups:  Investigational
+3. Description:  Anecortave is under investigation in clinical trial NCT00691717 (Anecortave Acetate Safety in Patients With Open-Angle Glaucoma or Ocular Hypertension).
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ripasudil
+2. Groups:  Approved
+3. Description:  Ripasudil, as hydrochloride hydrate (K-115), is a specifc Rho-associated coiled-coil containing protein kinase (ROCK) inhibitor used for the treatment of glaucoma and ocular hypertension. It was first approved for treatment in Japan in September 2014. This medication is available in the form of a 0.4% eye drop solution under the brand name Glanatec. Ripasudil is a well tolerated medication that is used when other drugs have been proven to be non-effective or cannot be administered.
+4. Indication:  Ripasudil has been proven to be effective in the twice daily treatment of glaucoma and ocular hypertension. It is currently in studies to be approved for both diabetic retinopathy and diabetic macular oedema. 
+DrugId:  7
+1. Name:  Moxaverine
+2. Groups:  Investigational
+3. Description:  Moxaverine has been investigated for the treatment of Retina, Ocular Physiology, and Regional Blood Flow.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Pegaptanib
+2. Groups:  Approved, Investigational
+3. Description:  Pegaptanib is a polynucleotide aptamer. Pegaptanib specifically binds to VEGF 165, a protein that plays a critical role in angiogenesis (the formation of new blood vessels) and increased permeability (leakage from blood vessels), two of the primary pathological processes responsible for the vision loss associated with neovascular AMD. [Wikipedia]
+4. Indication:  For the treatment of neovascular (wet) age-related macular degeneration.
+DrugId:  9
+1. Name:  Travoprost
+2. Groups:  Approved
+3. Description:  Travoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a synthetic prostaglandin F2alpha analogue. [Wikipedia]
+4. Indication:  Ophthalmic solution used for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension who are intolerant of other intraocular pressure lowering medications or insufficiently responsive (failed to achieve target IOP determined after multiple measurements over time) to another intraocular pressure lowering medication.
+DrugId:  10
+1. Name:  Unoprostone
+2. Groups:  Approved, Investigational
+3. Description:  Unoprostone isopropyl is a prostaglandin analogue. Ophthalmic Solution 0.15% is a synthetic docosanoid. Unoprostone isopropyl has the chemical name isopropyl (+)-(Z)-7-[(1R,2R,3R,5S)-3,5 dihydroxy-2-(3-oxodecyl)cyclopentyl]-5-heptenoate.The main indication of Unoprostane is treatment of glucoma.
+4. Indication:  For the lowering of intraocular pressure in patients with open-angle glaucoma or ocular hypertension who are intolerant of other intraocular pressure lowering medications or insufficiently responsive (failed to achieve target IOP determined after multiple measurements over time) to another intraocular pressure lowering medication.
+DrugId:  11
+1. Name:  Brinzolamide
+2. Groups:  Approved
+3. Description:  Brinzolamide is a highly specific, non-competitive, reversible carbonic anhydrase inhibitor. Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II (CA-II). Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport. The result is a reduction in intraocular pressure. Brinzolamide is indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+4. Indication:  For the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+DrugId:  12
+1. Name:  Tafluprost
+2. Groups:  Approved
+3. Description:  A prostaglandin analogue ester prodrug used topically (as eye drops) to control the progression of glaucoma and in the management of ocular hypertension. Chemically, tafluprost is a fluorinated analog of prostaglandin F2-alpha. Tafluprost was approved for use in the U.S. on February 10, 2012.
+4. Indication:  Tafluprost is indicated for reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+DrugId:  13
+1. Name:  Netarsudil
+2. Groups:  Approved
+3. Description:  A Rho kinase inhibitor with norepinephrine transport inhibitory activity that reduces production of aqueousAs of December 18, 2017 the FDA approved Aerie Pharmaceutical's Rhopressa (netarsudil ophthalmic solution) 0.02% for the indication of reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Acting as both a rho kinase inhibitor and a norepinephrine transport inhibitor, Netarsudil is a novel glaucoma medication in that it specifically targets the conventional trabecular pathway of aqueous humour outflow to act as an inhibitor to the rho kinase and norepinephrine transporters found there as opposed to affecting protaglandin F2-alpha analog like mechanisms in the unconventional uveoscleral pathway that many other glaucoma medications demonstrate.
+4. Indication:  Netarsudil is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  14
+1. Name:  Bromfenac
+2. Groups:  Approved
+3. Description:  Bromfenac is a nonsteroidal anti-inflammatory drug (NSAID) for ophthalmic use. Ophthalmic NSAIDs are becoming a cornerstone for the management of ocular pain and inflammation. Their well-characterized anti-inflammatory activity, analgesic property, and established safety record have also made NSAIDs an important tool to optimize surgical outcomes.
+4. Indication:  For the treatment of postoperative inflammation in patients who have undergone cataract extraction.
+DrugId:  15
+1. Name:  Bimatoprost
+2. Groups:  Approved, Investigational
+3. Description:  Bimatoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a prostaglandin analogue that works by increasing the outflow of aqueous fluid from the eyes. It binds to the prostanoid FP receptor.
+4. Indication:  For the reduction of elevated intraocular pressure in patients with open angle glaucoma or ocular hypertension who are intolerant of other intraocular pressure lowering medications or insufficiently responsive (failed to achieve target IOP determined after multiple measurements over time) to another intraocular pressure lowering medication.
+DrugId:  16
+1. Name:  Lodoxamide
+2. Groups:  Approved
+3. Description:  Lodoxamide is a mast-cell stabilizer for topical administration into the eye. Mast-cell stabilizers, first one approved being cromolyn sodium, are used in treatment of ocular hypersensitivity reactions such as vernal conjunctivitis. These conditions often require treatment with anti-inflammatory medications such as ophthalmic NSAIDs or topical steroids which may cause systemic or toxic effects long-term. Although less effective than topical steroids at decreasing inflammation, mast-cell stabilizers offer another treatment option and exhibit minimal adverse effects. Lodoxamide is marketed under the brand name Alomide by Alcon. 
+4. Indication:  Indicated in the treatment of the ocular disorders referred to by the terms vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  17
+1. Name:  Lifitegrast
+2. Groups:  Approved
+3. Description:  Lifitegrast is a FDA approved drug for the treatment of keratoconjunctivitis sicca (dry eye syndrome). It is a tetrahydroisoquinoline derivative and lymphocyte function-associated antigen-1 ( LFA-1) antagonist that was discovered through the rational design process. The ophthalmic solution was approved in July, 2016 under the trade name Xiidra. It has shown to protect the corneal surface and alleviate the symptoms of dry eye syndrome with fast onset of action and well tolerated profile in both local and systemic setting [2].
+4. Indication:  For the treatment of signs and symptoms of keratoconjunctivitis sicca (dry eye syndrome).
+DrugId:  18
+1. Name:  Lortalamine
+2. Groups:  Experimental
+3. Description:  Lortalamine (LM-1404) is an antidepressant which was synthesized in the early 1980s. It acts as a potent and highly selective norepinephrine reuptake inhibitor. Lortalamine was under development for clinical use but was shelved, likely due to the finding that it produced ocular toxicity in animals. It has been used to label the norepinephrine transporter in positron emission tomography studies.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Taprenepag
+2. Groups:  Investigational
+3. Description:  Taprenepag has been used in trials studying the treatment of Ocular Hypertension and Glaucoma, Open-Angle.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Trabodenoson
+2. Groups:  Investigational
+3. Description:  Trabodenoson has been used in trials studying the treatment of Ocular Hypertension (OHT) and Primary Open-Angle Glaucoma (POAG).
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  LX201
+2. Groups:  Investigational
+3. Description:  LX201 is a silicone matrix ocular implant that provides sustained release of cyclosporine A (CsA) locally to the eye over the course of one year. LX201 is implanted subconjunctivally (beneath the transparent membrane covering the white of the eye) in a minimally invasive procedure. The implant is being developed clinically for the prevention of rejection in corneal transplantation. It is being developed by Lux Biosciences, Inc.
+4. Indication:  Investigated for use/treatment in eye disorders/infections and transplant (rejection).
+DrugId:  22
+1. Name:  Brimonidine
+2. Groups:  Approved
+3. Description:  Brimonidine is a drug used to treat glaucoma. It acts via decreasing aqueous humor synthesis. A topical gel formulation, marketed under the name Mirvaso, was FDA approved on August 2013 for the treatment of rosacea.
+4. Indication:  The ophthalmic solution is indicated for patients with open-angle glaucoma or ocular hypertension to lower intraocular pressure. The topical gel is indicated for the treatment of persistent (nontransient) facial erythema of rosacea in adults 18 years or older. 
+DrugId:  23
+1. Name:  Latanoprost
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a prostaglandin analogue that works by increasing the outflow of aqueous fluid from the eyes.It is also known by the brand name of Xalatan manufactured by Pfizer.
+4. Indication:  For the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+DrugId:  24
+1. Name:  Difluprednate
+2. Groups:  Approved
+3. Description:  Difluprednate is a topical corticosteroid indicated for the treatment of infammation and pain associated with ocular surgery. It is a butyrate ester of 6(α), 9(α)-difluoro prednisolone acetate. Difluprednate is abbreviated DFBA, or difluoroprednisolone butyrate acetate. It is indicated for treatment of endogenous anterior uveiti. 
+4. Indication:  For the treatment of inflammation and pain associated with ocular surgery.
+DrugId:  25
+1. Name:  Apraclonidine
+2. Groups:  Approved
+3. Description:  Apraclonidine, also known as iopidine, is a sympathomimetic used in glaucoma therapy. It is an alpha2-adrenergic agonist.
+4. Indication:  For prevention or reduction of intraoperative and postoperative increases in intraocular pressure (IOP) before and after ocular laser surgery when used prophylactically. Also used as a short-term adjunctive therapy in patients with open-angle glaucoma who are on maximally tolerated medical therapy requiring additional IOP reduction.

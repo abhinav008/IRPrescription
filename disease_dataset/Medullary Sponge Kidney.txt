@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Kidney bean
+2. Groups:  Approved
+3. Description:  Kidney bean allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Rovalpituzumab Tesirine
+2. Groups:  Investigational
+3. Description:  Rovalpituzumab Tesirine has been used in trials studying the treatment of GLIOBLASTOMA, Malignant Melanoma, Other Solid Tumors, Small Cell Lung Cancer, and Medullary Thyroid Cancer, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Celecoxib
+2. Groups:  Approved, Investigational
+3. Description:  Celecoxib is a non-steroidal anti-inflammatory drug (NSAID) used in the treatment of osteoarthritis, rheumatoid arthritis, acute pain, painful menstruation and menstrual symptoms, and to reduce numbers of colon and rectum polyps in patients with familial adenomatous polyposis. It is marketed by Pfizer under the brand name Celebrex. In some countries, it is branded Celebra. Celecoxib is available by prescription in capsule form.
+4. Indication:  For relief and management of osteoarthritis (OA), rheumatoid arthritis (RA), juvenile rheumatoid arthritis (JRA), ankylosing spondylitis, acute pain, primary dysmenorrhea and oral adjunct to usual care for patients with familial adenomatous polyposis
+DrugId:  4
+1. Name:  Ertugliflozin
+2. Groups:  Approved, Investigational
+3. Description:  Ertugliflozin belongs to the class of potent and selective inhibitors of the sodium-dependent glucose cotransporters (SGLT), more specifically the type 2 which is responsible for about 90% of the glucose reabsorption from glomerulus.[1] This drug was developed under the collaboration of Merck and Pfizer. It was FDA approved as monotherapy and in combination with sitagliptin or metformin hydrochloride on December 22, 2017.[6]
+4. Indication:  Ertugliflozin as a monotherapy is indicated to improve the glycemic control in adult patients with type 2 diabetes.[FDA Label] Ertugliflozin, in combination with metformin hydrochloride, is indicated to improve glycemic control in patients with diabetes type 2 who are not controlled on a regimen of ertugliflozin or metformin or in patients who are already treated with both ertugliflozin and metformin.[7] The administration of ertugliflozin in combination with sitagliptin is indicated to improve glycemic control in adult patients with type 2 diabetes when treatment with ertugliflozin and sitagliptin is appropriate.[8] It is pointed out that the use of ertugliflozin has to be an adjunct therapy to the use of diet and exercise.The type 2 diabetes mellitus is characterized by insulin resistance in muscle and liver, which results in the elevation of glucose levels in blood, or by presence of insulin deficiency. The insulin resistance is related to genetic factors, obesity, sedentary lifestyle or/and aging. This increase in the blood glucose can cause severe damage to kidney, eyes and vascular system.[2]
+DrugId:  5
+1. Name:  AC-100
+2. Groups:  Investigational
+3. Description:  AC-100 is a novel synthetic peptide derived from an endogenous human protein produced by bone and dental cells (a fragment from matrix extracellular phosphoglycoprotein). It is being developed by Acologix, Inc.
+4. Indication:  Investigated for use/treatment in periodontal disease.
+DrugId:  6
+1. Name:  Latrunculin A
+2. Groups:  Experimental
+3. Description:  Latrunculin A is an actin binding macrolide purified from the red sea sponge Latrunculia magnifica. It is under investigation for the treatment of cancer. It disrupts actin polymerization, prevents mitotic spindle formation and thus cell replication. 
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Cabozantinib
+2. Groups:  Approved, Investigational
+3. Description:  Cabozantinib was approved in 2012 and is a non-specific tyrosine kinase inhibitor. It is marketed as Cometriq, which is indicated for the treatment of metastatic medullary thyroid cancer. It's label includes a black box warning of gastrointestinal perforations, fistulas, and hemorrhage. The FDA approved cabozantinib as Cabometyx for patients with advanced renal cell carcinoma in April 2016.
+4. Indication:  For the treatment of metastatic medullary thyroid cancer and for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy.
+DrugId:  8
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Pipazethate
+2. Groups:  Approved
+3. Description:  A non-narcotic oral antitussive agent.
+4. Indication:  For the treatment of cough.
+DrugId:  10
+1. Name:  Tazemetostat
+2. Groups:  Investigational
+3. Description:  Tazemetostat has been used in trials studying the treatment of Rhabdoid Tumors, Synovial Sarcoma, Epithelioid sarcoma, INI1-negative Tumors, and Renal Medullary Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Ferric cation
+2. Groups:  Approved
+3. Description:  Ferric citrate (tetraferric tricitrate decahydrate) is a phosphate binder indicated for the control of serum phosphorus levels in patients with chronic kidney disease on dialysis.
+4. Indication:  For the control of serum phosphorus levels in patients with chronic kidney disease on dialysis.
+DrugId:  12
+1. Name:  Edifoligide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, peripheral vascular disease, and kidney disease.
+DrugId:  13
+1. Name:  Vonapanitase
+2. Groups:  Investigational
+3. Description:  Vonapanitase is under investigation for the treatment of Chronic Kidney Disease.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Eribulin
+2. Groups:  Approved, Investigational
+3. Description:  Eribulin is a microtubule inhibitor indicated for the treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Eribulin was isolated from the marine sponge Halichondria okadai. Eribulin is also being investigated for use in the treatment of advanced solid tumors [2].
+4. Indication:  For the treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic cancer. 
+DrugId:  15
+1. Name:  Vandetanib
+2. Groups:  Approved
+3. Description:  Vandetanib is an oral once-daily kinase inhibitor of tumour angiogenesis and tumour cell proliferation with the potential for use in a broad range of tumour types.On April 6 2011, vandetanib was approved by the FDA to treat nonresectable, locally advanced, or metastatic medullary thyroid cancer in adult patients.
+4. Indication:  Vandetanib is currently approved as an alternative to local therapies for both unresectable and disseminated disease. Because Vandetanib can prolong the Q-T interval, it is contraindicated for use in patients with serious cardiac complications such as congenital long QT syndrome and uncompensated heart failure. 
+DrugId:  16
+1. Name:  Povidone-iodine
+2. Groups:  Approved
+3. Description:  Povidone-iodine is a stable chemical complex of polyvinylpyrrolidone (povidone, PVP) and elemental iodine. It contains from 9.0% to 12.0% available iodine, calculated on a dry basis. This unique complex was discovered in 1955 at the Industrial Toxicology Laboratories in Philadelphia by H. A. Shelanski and M. V. Shelanski. They carried out tests in vitro to demonstrate anti-bacterial activity, and found that the complex was less toxic in mice than tincture of iodine. Human clinical trials showed the product to be superior to other iodine formulations. Povidone-iodine was immediately marketed, and has since become the universally preferred iodine antiseptic.
+4. Indication:  For topical application in the treatment and prevention of infection in wounds.
+DrugId:  17
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Chlorhexidine
+2. Groups:  Approved, Vet approved
+3. Description:  A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque. [PubChem]
+4. Indication:  For reduction of pocket depth in patients with adult periodontitis, used as an adjunct to scaling and root planing procedures. Also for prevention of dental caries, oropharyngeal decontamination in critically ill patients, hand hygiene in health-care personnel, general skin cleanser, and catheter site preparation and care.
+DrugId:  19
+1. Name:  Glucarpidase
+2. Groups:  Approved, Investigational
+3. Description:  Glucarpidase is the recombinant form of the Pseudomonas sp. (strain RS-16) enzyme carboxypeptidase G2 that is produced in Escherichia coli. In patients, glucarpidase inactivates methotrexate, and other antifolates, by hydrolyzing glutamate on the carboxyl terminal of these compounds. Therefore since methotrexate is eliminated enzymatically and not by the kidneys, glucarpidase is indicated in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (>1 micromole per liter). Glucarpidase is marketed under the brand name Voraxaze®.
+4. Indication:  Used in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (> 1 micromole per liter).
+DrugId:  20
+1. Name:  Pimagedine
+2. Groups:  Investigational
+3. Description:  Pimagedine has been developed by Synvista Therapeutics, Inc for the treatment of diabetic kidney disease. It is an advanced glycation end product inhibitor which manages diabetic nephropathy, either alone or in combination with other therapies. It is beneficial in treating patients with diabetic nephropathy.
+4. Indication:  Investigated for use/treatment in diabetic kidney disease.
+DrugId:  21
+1. Name:  Methoxy polyethylene glycol-epoetin beta
+2. Groups:  Approved
+3. Description:  Methoxy polyethylene glycol-epoetin beta is a chemically synthesised Erythropoiesis Stimulating Agent (ESA) with a longer half-life than erythropoietin. ESA is used to increase synthesis of red blood cells to treat chronic kidney disease associated anemia.
+4. Indication:  For the treatment of patients with anaemia associated with chronic kidney disease. Not a substitute for RBC transfusion if immediate correction of anemia is required.
+DrugId:  22
+1. Name:  Technetium Tc-99m nofetumomab merpentan
+2. Groups:  Approved, Withdrawn
+3. Description:  Technetium Tc-99m nofetumomab merpentan (Tc-99m nm) consists of a Fab fragment of an IgG2b of the pancarcinoma murine antibody NR-LU-10.[1] The NR-LU-10 antibody is directed against a 40 kDa glycoprotein antigen expressed in a variety of cancers and some normal tissues.[FDA Label] Tc-99m nm was developed by Boehringer Ingelheim Pharma KG and FDA approved on September 14, 1992. It was after discontinued on August 13, 2013, but in the 2018 FDA submission list, it can be found as a substance type II (Drug substance) with an active status.[8, 9]
+4. Indication:  Tc-99m nm is one of the technetium-labeled antibodies and it is indicated for the detection of small-cell lung cancer.[3] The small cell lung cancer is a syndrome characterized by the abnormal and uncontrolled cell growth and it is characterized by a shorter doubling time, higher growth fraction and earlier development of metastases.[4]
+DrugId:  23
+1. Name:  CR002
+2. Groups:  Investigational
+3. Description:  CR002 is a novel investigational fully human monoclonal antibody that blocks the activity of excess platelet-derived growth factor-D (PDGF-D), a target shown to play a role in kidney inflammation. This is a novel therapeutic approach to treat kidney inflammation.
+4. Indication:  Investigated for use/treatment in nephropathy.
+DrugId:  24
+1. Name:  Buclizine
+2. Groups:  Approved
+3. Description:  Buclizine is an antihistamine of the piperazine derivative family. [Wikipedia]
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness and vertigo (dizziness caused by other medical problems).
+DrugId:  25
+1. Name:  Azosemide
+2. Groups:  Investigational
+3. Description:  Azosemide is a loop diuretic used to treat hypertension, edema, and ascites.
+4. Indication:  Not Available

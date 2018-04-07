@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clazosentan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  2
+1. Name:  Gadoteric acid
+2. Groups:  Approved
+3. Description:  Gadoteric acid is a macrocycle-structured gadolinium-based MRI contrast agent. It is composed of the organic acid DOTA (1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid) used for its chelating properties, and gadolinium (Gd3+). As a paramagnetic molecule, gadoterate develops a magnetic moment when placed in a magnetic field. This magnetic moment enhances the relaxation rates of water protons in its vicinity, leading to an increase in signal intensity (brightness) of tissues. More specifically, it reduces the T1 relaxation time (and to some extent the T2 and T2* relaxation times) in NMR, which is the source of its clinical utility. Increased signal brightness allows it to be used in imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become 'leaky'. Gadoteric acid, as the FDA approved product Dotarem, is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+4. Indication:  Gadoteric acid is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+DrugId:  3
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  4
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  5
+1. Name:  Sertaconazole
+2. Groups:  Approved, Investigational
+3. Description:  Sertaconazole nitrate is an antifungal medication of the imidazole class. It is available as a cream to treat skin infections such as athlete's foot. [Wikipedia]
+4. Indication:  For the topical treatment of interdigital tinea pedis in immunocompetent patients 12 years of age and older, caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum.
+DrugId:  6
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  7
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  8
+1. Name:  Nimodipine
+2. Groups:  Approved, Investigational
+3. Description:  Nimodipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nimodipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Compared to other calcium channel blocking agents, nimodipine exhibits greater effects on cerebral circulation than on peripheral circulation. Nimodipine is used to as an adjunct to improve the neurologic outcome following subarachnoid hemorrhage from ruptured intracranial aneurysm.
+4. Indication:  For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.
+DrugId:  9
+1. Name:  Metrizamide
+2. Groups:  Approved
+3. Description:  Metrizamide is a solute for density gradient centrifugation offering higher maximum solution density without the problems of increased viscosity. It is also used as a resorbable, non-ionic contrast medium.
+4. Indication:  Metrizamide is used for lumbar, thoracic, cervical, and total columnar myelography to determine the presence of abnormalities in the spinal column, spinal canal, and central nervous system (CNS) as well as for cisternography by direct injection using standard radiologic techniques to visualize the basal cistern of the brain. For computerized tomography (CT) of the intracranial subarachnoid spaces and for ventriculography by direct injection using standard radiologic techniques to visualize the cerebral ventricles. Also used in pediatric angiocardiography to visualize lesions or malformations of the heart and obstructions or anomalies of the major thoracic vessels. Also used in adult peripheral arteriography to visualize specific regions of the vascular system and blood flow in such areas to help in the diagnosis and evaluation of neoplasms (known or suspected) or vascular diseases (congenital or acquired) that may cause changes in normal vascular anatomy or physiology. Metrizamide is also indicated in adults for intravenous digital arteriography of head and neck.
+DrugId:  10
+1. Name:  Mannitol
+2. Groups:  Approved, Investigational
+3. Description:  Mannitol is an osmotic diuretic that is metabolically inert in humans and occurs naturally, as a sugar or sugar alcohol, in fruits and vegetables. Mannitol elevates blood plasma osmolality, resulting in enhanced flow of water from tissues, including the brain and cerebrospinal fluid, into interstitial fluid and plasma. As a result, cerebral edema, elevated intracranial pressure, and cerebrospinal fluid volume and pressure may be reduced. Mannitol may also be used for the promotion of diuresis before irreversible renal failure becomes established; the promotion of urinary excretion of toxic substances; as an Antiglaucoma agent; and as a renal function diagnostic aid.
+4. Indication:  Used for the promotion of diuresis before irreversible renal failure becomes established, the reduction of intracranial pressure, the treatment of cerebral edema, and the promotion of urinary excretion of toxic substances.
+DrugId:  11
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  12
+1. Name:  Nitroglycerin
+2. Groups:  Approved, Investigational
+3. Description:  A volatile vasodilator which relieves angina pectoris by stimulating guanylate cyclase and lowering cytosolic calcium. [PubChem]
+4. Indication:  For the prevention of angina
+DrugId:  13
+1. Name:  Nalidixic Acid
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic 1,8-naphthyridine antimicrobial agent with a limited bacteriocidal spectrum. It is an inhibitor of the A subunit of bacterial DNA gyrase. [PubChem]
+4. Indication:  For the treatment of urinary tract infections caused by susceptible gram-negative microorganisms, including the majority of E. Coli, Enterobacter species, Klebsiella species, and Proteus species.
+DrugId:  14
+1. Name:  Oxytetracycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A tetracycline analog isolated from the actinomycete streptomyces rimosus and used in a wide variety of clinical conditions.
+4. Indication:  Oxytetracycline is indicated for treatment of infections caused by a variety of Gram positive and Gram negative microorganisms including Mycoplasma pneumoniae, Pasteurella pestis, Escherichia coli, Haemophilus influenzae (respiratory infections), and Diplococcus pneumoniae.
+DrugId:  15
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  16
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  17
+1. Name:  Dihydroergotamine
+2. Groups:  Approved, Investigational
+3. Description:  A 9,10alpha-dihydro derivative of ergotamine. It is used as a vasoconstrictor, specifically for the therapy of migraine disorders.
+4. Indication:  For the acute treatment of migraine headaches with or without aura and the acute treatment of cluster headache episodes.
+DrugId:  18
+1. Name:  Vorapaxar
+2. Groups:  Approved
+3. Description:  Vorapaxar is a tricyclic himbacine-derived selective inhibitor of protease activated receptor (PAR-1) indicated for reducing the incidence of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or with peripheral arterial disease (PAD). By inhibiting PAR-1, a thrombin receptor expressed on platelets, vorapaxar prevents thrombin-related platelet aggregation.
+4. Indication:  Vorapaxar is indicated for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or peripheral arterial disease (PAD). It is usually co-administered with acetylsalicylic acid (ASA) and/or clopidogrel, and should therefore be administered as an addition to these medications as it has not been studied alone. 
+DrugId:  19
+1. Name:  Frovatriptan
+2. Groups:  Approved, Investigational
+3. Description:  Frovatriptan is a triptan drug developed by Vernalis for the treatment of migraine headaches, in particular those associated with menstruation. Frovatriptan causes vasoconstriction of arteries and veins that supply blood to the head.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  20
+1. Name:  Prasugrel
+2. Groups:  Approved
+3. Description:  Prasugrel, a thienopyridine derivative, is a platelet activation and aggregation inhibitor structurally and pharmacologically related to clopidogrel and ticlopidine. Similar to clopidogrel, prasugrel is a prodrug that requires enzymatic transformation in the liver to its active metabolite, R-138727. R-138727 irreversibly binds to P2Y12 type ADP receptors on platelets thus preventing activation of the GPIIb/IIIa receptor complex. As a result, inhibition of ADP-mediated platelet activation and aggregation occurs. Prasugrel was developed by Daiichi Sankyo Co. and is currently marketed in the United States and Canada in cooperation with Eli Lilly and Company for acute coronary syndromes planned for percutaneous coronary intervention (PCI). FDA approved in 2009. 
+4. Indication:  Indicated in combination with acetylsalicylic acid (ASA) to prevent atherothrombotic events in patients with acute coronary syndrome (ACS) who are to be managed with percutaneous coronary intervention (PCI). May be used in patients with unstable angina (UA), non-ST elevation myocardial infarction (NSTEMI), ST-elevation myocardial infarction (STEMI) who are to be managed with PCI. Prasugrel is not recommended in patients 75 years of age or greater, those that weigh<60kg, and patients with a history of stroke or transient ischemic attack due to increased risk of fatal and intracranial bleeding. 
+DrugId:  21
+1. Name:  Delafloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Delafloxacin is a fluoroquinolone antibiotic which has been used in trials studying the treatment and basic science of Gonorrhea, Hepatic Impairment, Bacterial Skin Diseases, Skin Structure Infections, and Community Acquired Pneumonia, among others. It was approved in June 2017 under the trade name Baxdela for use in the treatment of acute bacterial skin and skin structure infections.
+4. Indication:  Delafloxacin is indicated for the treatment of acute bacterial skin and skin structure infections caused by the Gram-positive organisms Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates), Staphylococcus haemolyticus, Staphylococcus lugdunensis, Streptococcus agalactiae, Streptococcus anginosus Group (including Streptococcus anginosus, Streptococcus intermedius, and Streptococcus constellatus), Streptococcus pyogenes, and Enterococcus faecalis as well as the Gram-negative organisms Escherichia coli, Enterobacter cloacae, Klebsiella pneumoniae, and Pseudomonas aeruginosa [FDA Label].
+DrugId:  22
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 
+DrugId:  23
+1. Name:  Ergotamine
+2. Groups:  Approved
+3. Description:  A vasoconstrictor found in ergot of Central Europe. It is an alpha-1 selective adrenergic agonist and is commonly used in the treatment of migraine disorders. [PubChem]
+4. Indication:  For use as therapy to abort or prevent vascular headache, e.g., migraine, migraine variants, or so called "histaminic cephalalgia".
+DrugId:  24
+1. Name:  Itraconazole
+2. Groups:  Approved, Investigational
+3. Description:  One of the triazole antifungal agents that inhibits cytochrome P-450-dependent enzymes resulting in impairment of ergosterol synthesis. It has been used against histoplasmosis, blastomycosis, cryptococcal meningitis & aspergillosis. [PubChem]
+4. Indication:  For the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients: pulmonary and extrapulmonary blastomycosis, histoplasmosis, aspergillosis, and onychomycosis.
+DrugId:  25
+1. Name:  Edoxaban
+2. Groups:  Approved
+3. Description:  Edoxaban is a member of the Novel Oral Anti-Coagulants (NOACs) class of drugs, and is a rapidly acting, oral, selective factor Xa inhibitor. By inhibiting factor Xa, a key protein in the coagulation cascade, edoxaban prevents the stepwise amplification of protein factors needed to form blood clots. It is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF) and for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant. Traditionally, warfarin, a vitamin K antagonist, was used for stroke prevention in these individuals but effective use of this drug is limited by it's delayed onset, narrow therapeutic window, need for regular monitoring and INR testing, and numerous drug-drug and drug-food interactions. This has prompted enthusiasm for newer agents such as dabigatran, apixaban, and rivaroxaban for effective clot prevention. In addition to once daily dosing, the benefits over warfarin also include significant reductions in hemorrhagic stroke and GI bleeding, and improved compliance, which is beneficial as many patients will be on lifelong therapy. 
+4. Indication:  Edoxaban is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF). However, it should not be used in patients with creatinine clearance (CrCL) > 95 mL/min because of increased risk of ischemic stroke compared to warfarin at the highest dose studied (60 mg). It is also indicated for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sulfur hexafluoride
+2. Groups:  Approved
+3. Description:  Sulfur hexafluoride is an ultrasound contrast agent indicated for use•in echocardiography to opacify the left ventricular chamber and to improve the delineation of the left ventricular endocardial border in adult patients with suboptimal echocardiograms•in ultrasonography of the liver for characterization of focal liver lesions in adult and pediatric patients
+4. Indication:  Echocardiography: Sulfur hexafluoride is indicated for use in adult patients with suboptimal echocardiograms to opacify the left ventricular chamber and to improve the delineation of the left ventricularendocardial border.Ultrasonography of the Liver: Sulfur hexafluoride is indicated for use with ultrasound of the liver in adult and pediatric patients to characterize focal liver lesions.
+DrugId:  2
+1. Name:  Cilastatin
+2. Groups:  Approved, Investigational
+3. Description:  A renal dehydropeptidase-I and leukotriene D4 dipeptidase inhibitor. Since the antibiotic, imipenem, is hydrolyzed by dehydropeptidase-I, which resides in the brush border of the renal tubule, cilastatin is administered with imipenem to increase its effectiveness. The drug also inhibits the metabolism of leukotriene D4 to leukotriene E4. [PubChem]
+4. Indication:  Combined intravenously with imipenem in order to protect it from dehydropeptidase and prolong its antibacterial effect.
+DrugId:  3
+1. Name:  Ezetimibe
+2. Groups:  Approved
+3. Description:  Ezetimibe is an anti-hyperlipidemic medication which is used to lower cholesterol levels. Specifically, it appears to bind to a critical mediator of cholesterol absorption, the Niemann-Pick C1-Like 1 (NPC1L1) protein on the gastrointestinal tract epithelial cells as well as in hepatocytes.
+4. Indication:  For use as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, and Apo B in patients with primary (heterozygous familial and non-familial) hypercholesterolemia.
+DrugId:  4
+1. Name:  DLO6001
+2. Groups:  Investigational
+3. Description:  DL6001 is developed by DanioLabs using proprietary zebrafish technology to treat Parkinson’s disease symptoms including sialorrhoea and hyperhidrosis.
+4. Indication:  Investigated for use/treatment in parkinson's disease.
+DrugId:  5
+1. Name:  DLO6002
+2. Groups:  Investigational
+3. Description:  DLO6002 is developed by Summit Corporation and is in phase I of clinical trials for the treatment of Parkinson's disease.
+4. Indication:  Investigated for use/treatment in parkinson's disease.
+DrugId:  6
+1. Name:  Bisacodyl
+2. Groups:  Approved
+3. Description:  Bisacodyl is an organic compound that is used as a stimulant laxative drug. It works directly on the colon to produce a bowel movement. It is typically prescribed for relief of constipation and for the management of neurogenic bowel dysfunction as well as part of bowel preparation before medical examinations, such as for a colonoscopy.
+4. Indication:  Indicated for cleansing of the colon as a preparation for colonoscopy in adults. 
+DrugId:  7
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  FP0011
+2. Groups:  Investigational
+3. Description:  FP0011 is a small molecule antiglutamatergic compound with symptomatic and disease modifying effects in a variety of neurological disorders (amyotrophic lateral sclerosis and Parkinson's disease). It acts on the presynaptic regulation of glutamate and shows strong neuroprotective properties.
+4. Indication:  Investigated for use/treatment in amyotrophic lateral sclerosis (ALS) and parkinson's disease.
+DrugId:  9
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  10
+1. Name:  ADC4022
+2. Groups:  Investigational
+3. Description:  ADC4022 is an investigational medicine for the treatment of Chronic Obstructive Pulmonary Disease (COPD) and severe asthma.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  11
+1. Name:  Miglitol
+2. Groups:  Approved
+3. Description:  Miglitol is an oral anti-diabetic drug that acts by inhibiting the ability of the patient to breakdown complex carbohydrates into glucose. It is primarily used in diabetes mellitus type 2 for establishing greater glycemic control by preventing the digestion of carbohydrates (such as disaccharides, oligosaccharides, and polysaccharides) into monosaccharides which can be absorbed by the body.Miglitol inhibits glycoside hydrolase enzymes called alpha-glucosidases. Since miglitol works by preventing digestion of carbohydrates, it lowers the degree of postprandial hyperglycemia. It must be taken at the start of main meals to have maximal effect. Its effect will depend on the amount of non-monosaccharide carbohydrates in a person's diet.In contrast to acarbose (another alpha-glucosidase inhibitor), miglitol is systemically absorbed; however, it is not metabolized and is excreted by the kidneys.
+4. Indication:  For use as an adjunct to diet to improve glycemic control in patients with non-insulin-dependent diabetes mellitus (NIDDM) whose hyperglycemia cannot be managed with diet alone.
+DrugId:  12
+1. Name:  Voglibose
+2. Groups:  Approved, Investigational
+3. Description:  Voglibose (INN and USAN) is an alpha-glucosidase inhibitor used for lowering post-prandial blood glucose levels in people with diabetes mellitus. It is made in India by Ranbaxy Labs and sold under the trade name Volix. [Wikipedia]
+4. Indication:  For the treatment of diabetes. It is specifically used for lowering post-prandial blood glucose levels thereby reducing the risk of macrovascular complications.
+DrugId:  13
+1. Name:  Acarbose
+2. Groups:  Approved, Investigational
+3. Description:  An inhibitor of alpha glucosidase that retards the digestion and absorption of carbohydrates in the small intestine and hence reduces the increase in blood-glucose concentrations after a carbohydrate load. It is given orally to non-insulin dependent diabetes mellitus patients where diet modification or oral hypoglycemic agents do not control their condition. (From Martindale The Extra Pharmacopoeia, 31st ed)
+4. Indication:  For treatment and management of diabetes type II (used in combination therapy as a second or third line agent)
+DrugId:  14
+1. Name:  Azimilide
+2. Groups:  Investigational
+3. Description:  Azimilide is an investigational class III anti-arrhythmic drug that blocks fast and slow components of the delayed rectifier cardiac potassium channels. It is not approved for use in any country, but is currently in clinical trials in the United States.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  15
+1. Name:  ALKS 27
+2. Groups:  Investigational
+3. Description:  ALKS 27 is an inhaled formulation of trospium chloride for the treatment of chronic obstructive pulmonary disease (COPD). Study showed that ALKS 27 was well-tolerated over a wide dose range, with no dose-limited effects observed.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  16
+1. Name:  AVI-4020
+2. Groups:  Investigational
+3. Description:  AVI-4020 is a neugene antisense drug candidate for the treatment of patients with acute West Nile virus disease who have serious neurological impairment (WNV neuroinvasive disease).
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.
+DrugId:  17
+1. Name:  AP1903
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bone marrow transplant and graft versus host disease.
+DrugId:  18
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  19
+1. Name:  KC706
+2. Groups:  Investigational
+3. Description:  KC706 is a novel anti-inflammatory drug that works by inhibiting the activity of p38 MAP kinase. KC706 holds potential to treat inflammatory conditions such as rheumatoid arthritis, psoriasis, inflammatory bowel disease and cardiovascular disease.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, inflammatory bowel disease, inflammatory disorders (unspecified), psoriasis and psoriatic disorders, and rheumatoid arthritis.
+DrugId:  20
+1. Name:  CAD106
+2. Groups:  Investigational
+3. Description:  CAD106 is an immunotherapeutic product in development for the treatment of Alzheimer's disease. It is designed to induce antibodies against the beta-amyloid-protein that inhibit the formation of plaques in the brain of Alzheimer's disease patients. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease.
+DrugId:  21
+1. Name:  P54
+2. Groups:  Investigational
+3. Description:  P54 reduces the inflammation associated with cancer/tumors, Crohn's disease, inflammatory bowel disease, osteoarthritis, and ulcerative colitis. It inhibits the induction of the enzyme NFkB, thereby inhibiting downstream inflammatory genes such as COX II and iNOS.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), crohn's disease, inflammatory bowel disease, osteoarthritis, and ulcerative colitis.
+DrugId:  22
+1. Name:  PBT-1033
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease.
+DrugId:  23
+1. Name:  Solanezumab
+2. Groups:  Investigational
+3. Description:  Solanezumab is under investigation for the treatment of Dementia, Alzheimers Disease, and Alzheimers Disease, Familial.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Gantenerumab
+2. Groups:  Investigational
+3. Description:  Gantenerumab is under investigation for the treatment of Dementia, Alzheimers Disease, and Alzheimers Disease, Familial.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.

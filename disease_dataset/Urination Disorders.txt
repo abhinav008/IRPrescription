@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  2
+1. Name:  NX-1207
+2. Groups:  Investigational
+3. Description:  NX-1207 is an investigational new drug for BPH, whose chemical entity and mechanism of action remain undisclosed. Nymox Pharmaceutical Corporation recently completed studies of NX-1207 for treatment of benign prostatic hyperplasia (BPH).
+4. Indication:  Investigated for use/treatment in benign prostatic hyperplasia.
+DrugId:  3
+1. Name:  Fluvoxamine
+2. Groups:  Approved, Investigational
+3. Description:  Fluvoxamine is an antidepressant which functions pharmacologically as a selective serotonin reuptake inhibitor. Though it is in the same class as other SSRI drugs, it is most often used to treat obsessive-compulsive disorder.Fluvoxamine has been in use in clinical practice since 1983 and has a clinical trial database comprised of approximately 35,000 patients. It was launched in the US in December 1994 and in Japan in June 1999. As of the end of 1995, more than 10 million patients worldwide have been treated with fluvoxamine.
+4. Indication:  Indicated predominantly for the management of depression and for Obsessive Compulsive Disorder (OCD) [FDA Label]. Has also been used in the management of bulimia nervosa [2].
+DrugId:  4
+1. Name:  KW-7158
+2. Groups:  Investigational
+3. Description:  KW-7158 is a tricyclic compound with a non-cholingergic mechanism of action for the treatment of "urinary urgency," "frequent urination" and "urinary incontinence" associated with bladder overactivity (involuntary abnormal contraction of the bladder). The therapeutic effects of KW-7158 in overactive bladder may be due to the activation of A-type K(+) channels which regulate afferent neuron excitability and firing properties in the dorsal root ganglion neurons.
+4. Indication:  Investigated for use/treatment in urinary incontinence.
+DrugId:  5
+1. Name:  Calcium carbimide
+2. Groups:  Approved, Withdrawn
+3. Description:  Calcium carbimide, sold as the citrate salt, is an alcohol-sensitizing agent. Its effects are similar to the drug disulfiram (Antabuse) in that it interferes with the normal metabolism of alcohol by preventing the breakdown of the metabolic product acetaldehyde. Calcium carbimide was conceived as an alternative for the treatment of alcoholism with a reduced side effect profile either when it is consumed accompanied by alcohol or without it.[1] This drug was developed by Lederle Cyanamid Canada Inc and approved for marketing in Canada in 1959. The current status of calcium carbimide is cancelled post marketing.[8]
+4. Indication:  Calcium carbimide has not been approved by the FDA but the intended indication is for the treatment of alcoholism.[6] This medication was marketed in Canada, United Kingdom and Europe under the trade name of Temposil for the sole use of alcoholism treatment.[9]
+DrugId:  6
+1. Name:  Imidafenacin
+2. Groups:  Approved, Investigational
+3. Description:  Imidafenacin is a urinary antispasmodic of the anticholinergic class. It antagonizes mucarinic receptors in the bladder to reduce the frequency of urination in the treatment of overactive bladder. It is marketed in Japan under the tradenames Staybla by Ono Pharmaceutical and Uritos by Kyojin Pharmaceutical.
+4. Indication:  Used in the treatment of overactive bladder [FDA Label].
+DrugId:  7
+1. Name:  Oxybutynin
+2. Groups:  Approved, Investigational
+3. Description:  Oxybutynin is an anticholinergic medication used to relieve urinary and bladder difficulties, including frequent urination and inability to control urination, by decreasing muscle spasms of the bladder. It competitively antagonizes the M1, M2, and M3 subtypes of the muscarinic acetylcholine receptor.
+4. Indication:  For the treatment of overactive bladder.
+DrugId:  8
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  9
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  10
+1. Name:  OPC-51803
+2. Groups:  Investigational
+3. Description:  OPC-51803 is the first nonpeptide vasopressin (AVP) V(2)-receptor-selective agonist. It is a V(2)-selective agonist that produces a significant antidiuretic action after single and multiple oral dosing in AVP-deficient and normal AVP states. It is useful therapeutic drug in the treatment of hypothalamic diabetes insipidus, nocturnal enuresis, and some kinds of urinary incontinence.
+4. Indication:  Investigated for use/treatment in nocturia (frequent nighttime urination) and urinary incontinence.
+DrugId:  11
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  12
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  13
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  14
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  15
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  16
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  17
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  18
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  19
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  20
+1. Name:  Polythiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p826)
+4. Indication:  Polythiazide is a thiazide diuretic used to decrease edema and decrease blood pressure.
+DrugId:  21
+1. Name:  prGCD
+2. Groups:  Investigational
+3. Description:  GCD represents the combination treatment of gemcitabine, carboplatin, and dexamethasone.
+4. Indication:  Investigated for use/treatment in metabolic disease and neurologic disorders.
+DrugId:  22
+1. Name:  SGS518
+2. Groups:  Investigational
+3. Description:  SGS518, a novel antagonist for the 5HT6 subtype of the serotonin receptor, is being developed as a treatment for Cognitive Impairment Associated with Schizophrenia (CIAS).
+4. Indication:  Investigated for use/treatment in neurologic disorders and schizophrenia and schizoaffective disorders.
+DrugId:  23
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  24
+1. Name:  Facinicline
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  25
+1. Name:  VSF-173
+2. Groups:  Investigational
+3. Description:  VSF-173 is an oral small molecule. It is an oral compound that has demonstrated effects on animal sleep/wake patterns and gene expression patterns suggestive of a stimulant effect. It is developed for the treatment of excessive sleepiness. Study shows that VSF-173 possesses a novel mechanism to address disorders of excessive sleepiness.
+4. Indication:  Investigated for use/treatment in sleep disorders.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Pentostatin
+2. Groups:  Approved, Investigational
+3. Description:  A potent inhibitor of adenosine deaminase. The drug is effective in the treatment of many lymphoproliferative malignancies, particularly hairy-cell leukemia. It is also synergistic with some other antineoplastic agents and has immunosuppressive activity. [PubChem]
+4. Indication:  For the treatment of hairy cell leukaemia refractory to alpha interferon.
+DrugId:  3
+1. Name:  Cladribine
+2. Groups:  Approved, Investigational
+3. Description:  An antineoplastic agent used in the treatment of lymphoproliferative diseases including hairy-cell leukemia. [PubChem]
+4. Indication:  For the treatment of active hairy cell leukemia (leukemic reticuloendotheliosis) as defined by clinically significant anemia, neutropenia, thrombocytopenia, or disease-related symptoms. Also used as an alternative agent for the treatment of chronic lymphocytic leukemia (CLL), low-grade non-Hodgkin's lymphoma, and cutaneous T-cell lymphoma.
+DrugId:  4
+1. Name:  Interferon Alfa-2a, Recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+4. Indication:  For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.
+DrugId:  5
+1. Name:  Interferon alfacon-1
+2. Groups:  Approved, Investigational
+3. Description:  Interferon alfacon-1 is a recombinant non-naturally occurring type-I interferon. The 166-amino acid sequence of Interferon alfacon-1 was derived by scanning the sequences of several natural interferon alpha subtypes and assigning the most frequently observed amino acid in each corresponding position. Four additional amino acid changes were made to facilitate the molecular construction, and a corresponding synthetic DNA sequence was constructed using chemical synthesis methodology. Interferon alfacon-1 differs from interferon alfa-2b at 20/166 amino acids (88% homology), and comparison with interferon-beta shows identity at over 30% of the amino acid positions. Interferon alfacon-1 is produced in Escherichia coli (E. coli) cells that have been genetically altered by insertion of a synthetically constructed sequence that codes for Interferon alfacon-1. Prior to final purification, Interferon alfacon-1 is allowed to oxidize to its native state, and its final purity is achieved by sequential passage over a series of chromatography columns. This protein has a molecular weight of 19,434 daltons.
+4. Indication:  For the treatment of hairy cell leukemia, malignant melanoma, and AIDS-related Kaposi's sarcoma
+DrugId:  6
+1. Name:  Interferon Alfa-2b, Recombinant
+2. Groups:  Approved
+3. Description:  Interferon alpha 2b (human leukocyte clone hif-sn 206 protein moiety reduced). A type I interferon consisting of 165 amino acid residues with arginine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent.
+4. Indication:  For the treatment of hairy cell leukemia, malignant melanoma, and AIDS-related Kaposi's sarcoma.
+DrugId:  7
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  XL228
+2. Groups:  Investigational
+3. Description:  XL228 is a novel anticancer compound designed to inhibit the insulin-like growth factor type-1 receptor (IGF1R), Src and Abl tyrosine kinases – targets that play crucial roles in cancer cell proliferation, survival and metastasis.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and leukemia (myeloid).
+DrugId:  10
+1. Name:  Inebilizumab
+2. Groups:  Investigational
+3. Description:  Inebilizumab has been used in trials studying the treatment of Blood Cancer, B-cell Malignancies, Advanced B Cell Malignancies, Chronic Lymphocytic Leukemia (CLL), and Diffuse Large B-Cell Lymphoma (DLBCL).
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  AGS-005
+2. Groups:  Investigational
+3. Description:  AGS-005 is a personalized dendritic cell-based immunotherapy, with optimized immune response characteristics, that is designed to stimulate the patient's immune system to target and destroy the patient's cancer cells.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  12
+1. Name:  Samalizumab
+2. Groups:  Investigational
+3. Description:  Samalizumab has been used in trials studying the treatment of Multiple Myeloma and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Monalizumab
+2. Groups:  Investigational
+3. Description:  Monalizumab has been used in trials studying the treatment of Gynecologic Cancer, Chronic Lymphocytic Leukemia, and Squamous Cell Carcinoma of the Oral Cavity.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  IDM-4
+2. Groups:  Investigational
+3. Description:  IDM-4 is an immuno-designed molecule that completed phase I/II of investigation for the treatment of Leukemia. It is a monoclonal antibody-specific antigen that can selectively target cancer-affected cells by coupling with tumor cell-killing MAK cells, which are derived from the patient's own monocytes. Trials of this drug have most likely been discontinued by the manufacturer.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  15
+1. Name:  Lorvotuzumab mertansine
+2. Groups:  Investigational
+3. Description:  Lorvotuzumab mertansine has been used in trials studying the treatment of SCLC, Leukemia, Ovarian Cancer, Multiple Myeloma, and Merkel Cell Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  XL999
+2. Groups:  Investigational
+3. Description:  XL999 has the potential to provide benefit to patients with lung cancer and acute myelogenous leukemia. XL999 is a new chemical entity that inhibits a spectrum of receptor tyrosine kinases (RTKs) with growth promoting and angiogenic properties, including FGFR 1/3, PDGFRα/β, VEGFR2/KDR, KIT, and FLT3. XL999 also inhibits FLT4 and SRC. XL999 has the potential to prevent tumor growth — both directly by a novel effect on tumor cell proliferation and indirectly through inhibition of the host angiogenic response. XL999 induces a cell-cycle block by a mechanism distinct from those previously identified and exhibits broad antitumor activity in xenograft models.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lung cancer, and solid tumors.
+DrugId:  17
+1. Name:  IPH 1101
+2. Groups:  Investigational
+3. Description:  IPH 1101 is a chemically-synthesized structural analog of non-conventional bacterial phosphoantigens which specifically activate the Vγ9Vδ2 T cell subset. IPH 1101 is the most advanced drug candidate of the γδ T cell platform
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), leukemia (myeloid), and lymphoma (non-hodgkin's).
+DrugId:  18
+1. Name:  GTI 2040
+2. Groups:  Investigational
+3. Description:  GTI-2040 is a substance that is being studied as a treatment for cancer. It belongs to the family of drugs called antisense oligonucleotides.
+4. Indication:  Investigated for use/treatment in breast cancer, colorectal cancer, leukemia (myeloid), leukemia (unspecified), myelodysplastic syndrome, prostate cancer, renal cell carcinoma, and solid tumors.
+DrugId:  19
+1. Name:  Alemtuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized monoclonal antibody specific to lymphocyte antigens. It is a recombinant DNA-derived humanized monoclonal antibody (Campath-1H) that is directed against the 21-28 kD cell surface glycoprotein,CD52. The Campath-1H antibody is an IgG1 kappa with human variable framework and constant regions, and complementarity-determining regions from a murine (rat) monoclonal antibody (Campath-1G). Campath is produced in mammalian cell (Chinese hamster ovary) suspension culture in a medium containing neomycin.
+4. Indication:  Alemtuzumab (Campath) is a monoclonal antibody therapy used for treatment of B-cell chronic lymphocytic leukemia.
+DrugId:  20
+1. Name:  Cytarabine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)
+4. Indication:  For the treatment of acute non-lymphocytic leukemia, acute lymphocytic leukemia and blast phase of chronic myelocytic leukemia.
+DrugId:  21
+1. Name:  AT9283
+2. Groups:  Investigational
+3. Description:  AT9283 is an aurora Kinase inhibitor developed by Astex Therapeutics for the treatment of cancer. It was discovered and developed internally using Astex’s fragment-based drug discovery platform, Pyramid.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), leukemia (myeloid), and solid tumors.
+DrugId:  22
+1. Name:  Siplizumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders, transplant (rejection), graft versus host disease, lymphoma (unspecified), and leukemia (unspecified).
+DrugId:  23
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  24
+1. Name:  Lucatumumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid), multiple myeloma, and lymphoma (unspecified).
+DrugId:  25
+1. Name:  Tisagenlecleucel
+2. Groups:  Approved, Investigational
+3. Description:  Tisagenlecleucel is a CD19-directed genetically modified autologous T cell immunotherapy, or a CAR-T cell therapy for B-cell acute lymphoblastic leukemia. It was granted approval by FDA in August 2017 under the market name Kymriah. Tisagenlecleucel is an immunocellular therapy that involves autologous T cells that are collected from each individual patient and genetically engineered to express a specific protein called a chimeric antigen receptor (CAR) that specifically target CD19 antigens. Modified T cells are infused back into the patient's body. These CD19-directed chimeric antigen receptors (CD19 CAR-T cells) direct the T cells to targt and kill leukiemia cells that express a specific antigen (CD19) on the cell surface.In a multicenter clinical trial involving pediatric and young adult patients with relapsed or refractory B-cell precursor ALL, the overall remission rate within three months of treatment was 83 percent [4].
+4. Indication:  Indicated for the treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse [FDA Label]. 

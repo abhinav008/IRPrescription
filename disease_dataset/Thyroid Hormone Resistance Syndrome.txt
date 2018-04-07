@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Thyroid, porcine
+2. Groups:  Approved
+3. Description:  Desiccated thyroid or thyroid extract, refers to porcine or bovine thyroid glands, dried and powdered for therapeutic use. In the last few decades, pork alone is the usual source.Desiccated (dried) thyroid is a combination of hormones that are normally produced by your thyroid gland to regulate the body's energy and metabolism. Desiccated thyroid is given when the thyroid does not produce enough of this hormone on its own.Desiccated thyroid treats hypothyroidism (low thyroid hormone). It is also used to treat or prevent goiter (enlarged thyroid gland), and is also given as part of a medical tests for thyroid disorders.This medicine should not be used to treat obesity or weight problems.
+4. Indication:  Replacement or supplemental therapy in hypothyroidism; TSH suppression (in thyroid cancer, nodules, goiters, and enlargement in chronic thyroiditis); diagnostic agent to differentiate suspected hyperthyroidism from euthyroidism.
+DrugId:  2
+1. Name:  Methimazole
+2. Groups:  Approved
+3. Description:  A thioureylene antithyroid agent that inhibits the formation of thyroid hormones by interfering with the incorporation of iodine into tyrosyl residues of thyroglobulin. This is done by interfering with the oxidation of iodide ion and iodotyrosyl groups through inhibition of the peroxidase enzyme. [PubChem]
+4. Indication:  For the treatment of hyperthyroidism, goiter, Graves disease and psoriasis.
+DrugId:  3
+1. Name:  Thyrotropin Alfa
+2. Groups:  Approved, Vet approved
+3. Description:  Thyrotropin alfa is a recombinant form of thyroid stimulating hormone used in performing certain tests in patients who have or have had thyroid cancer. It is also used along with a radioactive agent to destroy remaining thyroid tissue in certain patients who have had their thyroid gland removed because of thyroid cancer. It is a heterodimeric glycoprotein comprised of two non-covalently linked subunits, an alpha subunit of 92 amino acid residues containing two N-linked glycosylation sites and a beta subunit of 112 residues containing one N-linked glycosylation site. The alpha subunit is nearly identical to that of human chorionic gonadotropin (hCG), luteinizing hormone (LH), and follicle-stimulating hormone (FSH). The alpha subunit is thought to be the effector region responsible for stimulation of adenylate cyclase (involved the generation of cAMP). The beta subunit (TSHB) is unique to TSH, and therefore determines its receptor specificity. The amino acid sequence of thyrotropin alfa is identical to that of human pituitary thyroid stimulating hormone.
+4. Indication:  For detection of residueal or recurrent thyroid cancer
+DrugId:  4
+1. Name:  NRP409
+2. Groups:  Investigational
+3. Description:  NRP409 is a triiodothyronine (T3) hormone, being investigated by New River Pharmaceuticals as a treatment for patients with primary hypothyroidism.
+4. Indication:  For use in treatment of hypothyroidism.
+DrugId:  5
+1. Name:  Thyroglobulin
+2. Groups:  Approved, Withdrawn
+3. Description:  Thyroglobulin (also known as Tg) is an enzyme thyroid hormone used by the thyroid gland to produce the thyroid hormones thyroxine (T4) and triiodothyronine (T3). The active form of thyroxine, triiodothyronine, is produced both within the thyroid gland and periphery by 5'-deiodinase. Patients with Hashimoto's thyroiditis or Graves' disease, frequently develop antibodies against thyroglobulin. Thyroglobulin is used to treat hypothyroidism.
+4. Indication:  For the treatment of hypothyroidism (deficiency in the production of thyroid hormone).
+DrugId:  6
+1. Name:  Liothyronine
+2. Groups:  Approved, Vet approved
+3. Description:  The L-triiodothyronine (T3, liothyronine) thyroid hormone is normally synthesized and secreted by the thyroid gland in much smaller quantities than L-tetraiodothyronine (T4, levothyroxine, L-thyroxine). Most T3 is derived from peripheral monodeiodination of T4 at the 5 position of the outer ring of the iodothyronine nucleus. The hormone finally delivered and used by the tissues is mainly T3. [PubChem]
+4. Indication:  Used as replacement or supplemental therapy in patients with hypothyroidism of any etiology, except transient hypothyrodism during the recovery phase of subacute thyroiditis.
+DrugId:  7
+1. Name:  Dulaglutide
+2. Groups:  Approved, Investigational
+3. Description:  Dulaglutide is a novel glucagon-like peptide-1 agonist (GLP-1) biologic drug consisting of a dipeptidyl peptidase-IV-protected GLP-1 analogue covalently linked to a human IgG4-Fc heavy chain by a small peptide linker. Dulaglutide is indicated in the treatment of type 2 diabetes and can be used once a week. It was approved by the FDA in September 2014. Dulaglutide is manufactured and marketed by Eli Lily under the brand Trulicity™. It is not known if dulaglutide can increase the risk of medullary thyroid carcinoma or multiple endocrine neoplasia syndrome type 2, and is thus not recommended for use in populations with a personal or family history of these conditions. 
+4. Indication:  Indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+DrugId:  8
+1. Name:  Albiglutide
+2. Groups:  Approved
+3. Description:  Albiglutide is a glucagon-like peptide-1 agonist (GLP-1) biologic drug indicated in the treatment of type 2 diabetes. It is marketed under the brands Eperzan and Tanzeum by GSK (GlaxoSmithKline). It is a dipeptidyl peptidase-4-resistant glucagon-like peptide-1 dimer fused to human albumin. Albiglutide was approved on April 15, 2014 by the FDA.
+4. Indication:  Indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+DrugId:  9
+1. Name:  Levothyroxine
+2. Groups:  Approved
+3. Description:  The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (monoiodotyrosine) and the coupling of iodotyrosines (diiodotyrosine) in the thyroglobulin. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form triiodothyronine which exerts a broad spectrum of stimulatory effects on cell metabolism.
+4. Indication:  For use alone or in combination with antithyroid agents to treat hypothyroidism, goiter, chronic lymphocytic thyroiditis, myxedema coma, and stupor.
+DrugId:  10
+1. Name:  Aminoglutethimide
+2. Groups:  Approved, Investigational
+3. Description:  An aromatase inhibitor that produces a state of "medical" adrenalectomy by blocking the production of adrenal steroids. It also blocks the conversion of androgens to estrogens. Aminoglutethimide has been used in the treatment of advanced breast and prostate cancer. It was formerly used for its weak anticonvulsant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p454)
+4. Indication:  For the suppression of adrenal function in selected patients with Cushing's syndrome, malignant neoplasm of the female breast, and carcinoma in situ of the breast.
+DrugId:  11
+1. Name:  Propylthiouracil
+2. Groups:  Approved, Investigational
+3. Description:  A thiourea antithyroid agent. Propythiouracil inhibits the synthesis of thyroxine and inhibits the peripheral conversion of throxine to tri-iodothyronine. It is used in the treatment of hyperthyroidism. (From Martindale, The Extra Pharmacopeoia, 30th ed, p534)
+4. Indication:  Used to manage hyperthyroidism which is due to an overactive thyroid gland (Grave's disease).
+DrugId:  12
+1. Name:  Liotrix
+2. Groups:  Approved
+3. Description:  Liotrix is a synthetically derived thyroid hormone replacement preparation. It consists of levothyroxine sodium (thyroxine, T4) and liothyronine sodium (triiodothyronine, T3) in a 4 to 1 ratio by weight. Liotrix was developed when it was believed that serum levels of both T4 and T3 were maintained by direct thyroidal secretion. It is now known that the thyroid gland secretes approximately ten times more T4 than T3 and that 80% of serum T3 is derived from deiodination of T4 in peripheral tissues. Administration of levothyroxine alone is sufficient for maintaining serum T4 and T3 levels in most patients and combination hormone replacement therapy generally offers no therapeutic advantage. In fact, administration of T3 may result in supratherapeutic levels of T3.
+4. Indication:  May be used to treat primary, secondary or tertiary hypothyroidism. May also be used to suppress thyroid stimulating hormone (TSH) secretion in patients with simple (nontoxic) goiter, subacute or chronic lymphocytic thyroiditis multinodular goiter, and in the management of thyroid cancer. May be used in conjunction with other antithyroid agents to treat thyrotoxicosis to prevent goitrogenesis and hypothyroidism. May also be used for differential diagnosis of suspected mild hyperthyroidism or thyroid gland autonomy.
+DrugId:  13
+1. Name:  AP1081
+2. Groups:  Investigational
+3. Description:  A transdermal gel containing ethinyl estradiol and norelgestromin being investigated by Antares Pharma for use as a female contraceptive.
+4. Indication:  For use as a female contraceptive.
+DrugId:  14
+1. Name:  Lenvatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFRα), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers.Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.
+4. Indication:  Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer.
+DrugId:  15
+1. Name:  Carbimazole
+2. Groups:  Approved, Investigational
+3. Description:  An imidazole antithyroid agent. Carbimazole is metabolized to methimazole, which is responsible for the antithyroid activity.
+4. Indication:  For the treatment of hyperthyroidism and thyrotoxicosis. It is also used to prepare patients for thyroidectomy.
+DrugId:  16
+1. Name:  Protirelin
+2. Groups:  Approved, Investigational
+3. Description:  Protirelin is the pharmaceutically available synthetic analogue of the endogenous peptide thyrotropin-releasing hormone (TRH). It is a tri-peptide tropic hormone, released by the hypothalamus, that stimulates the release of Thyroid Stimulating Hormone (TSH) and prolactin from the anterior pituitary. Although not currently available in any FDA-approved product, protirelin is a component of the TRH Test where it is used to test the response of the anterior pituitary gland in conditions such as secondary hypothyroidism and acromegaly. 
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  18
+1. Name:  Ghrelin
+2. Groups:  Investigational
+3. Description:  Ghrelin has been investigated for the treatment and basic science of Cancer, Alcoholism, Metabolism, Hypopituitarism, and Frailty Syndrome, among others.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Thymosin beta-4
+2. Groups:  Investigational
+3. Description:  Thymosin Beta 4 has been investigated for the treatment of STEMI, Dry Eye, Diabetes, Pressure Ulcers, and Dry Eye Syndrome, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Prasterone sulfate
+2. Groups:  Investigational
+3. Description:  DHEA sulfate is the major steroid of the fetal adrenal. DHEA-S is the principal adrenal androgen and is secreted together with cortisol under the control of ACTH and prolactin. DHEA-S is elevated with hyperprolactinemia.
+4. Indication:  Investigated for use/treatment in asthma and burns and burn infections.
+DrugId:  21
+1. Name:  Human calcitonin
+2. Groups:  Approved, Investigational
+3. Description:  Calcitonin was first discovered in isolated parathyroid tissue as a substance with a serum-calcium-lowering effect.[2] It is constituted as a 32-amino acid single chain polypeptide structure that gets secreted as a regulatory agent in calcium-phosphorus metabolism.[1] It is used as an alternative for people developing antibodies against salmon calcitonin.[3]
+4. Indication:  Human calcitonin is indicated for the treatment of Paget's disease in the cases where the use of salmon calcitonin may provoke the generation of high-titer of antibodies.[3] Paget's disease is a metabolic bone disorder characterized by focal areas of increased and disorganized bone turnover coupled with an increased bone formation. The majority of the cases are asymptomatic but some clinical manifestations include pain, bone deformity and some complications such as pathological fractures and deafness.[4] The increased activity in bone is associated with a rise in serum level of alkaline phosphatase and the increased urinary excretion of hydroxyproline which is a product of bone breakdown.[2]
+DrugId:  22
+1. Name:  Clomifene
+2. Groups:  Approved, Investigational
+3. Description:  A triphenyl ethylene stilbene derivative which is an estrogen agonist or antagonist depending on the target tissue.
+4. Indication:  Used mainly in female infertility due to anovulation (e.g. due to polycystic ovary syndrome) to induce ovulation. 
+DrugId:  23
+1. Name:  Anastrozole
+2. Groups:  Approved, Investigational
+3. Description:  Anastrozole is a drug indicated in the treatment of breast cancer in post-menopausal women. It is used both in adjuvant therapy (i.e. following surgery) and in metastatic breast cancer. It decreases the amount of estrogens that the body makes. Anastrozole belongs in the class of drugs known as aromatase inhibitors. It inhibits the enzyme aromatase, which is responsible for converting androgens (produced by women in the adrenal glands) to estrogens.
+4. Indication:  For adjuvant treatment of hormone receptor positive breast cancer , as well as hormonal treatment of advanced breast cancer in post-menopausal women. Has also been used to treat pubertal gynecomastia and McCune-Albright syndrome; however, manufacturer states that efficacy for these indications have not been established.
+DrugId:  24
+1. Name:  Iodide I-131
+2. Groups:  Approved, Investigational
+3. Description:  Iodide I-131 (as Sodium iodide I-131) is a radioisotopic drug used for the treatment and palliation of thyroid malignancy. Iodine-131 is notable for causing mutation and death in cells that it penetrates, which is due to its mode of beta decay. As a result of beta decay, approximately 10% of its energy and radiation dose is via gamma radiation, while the other 90% (beta radiation) causes tissue damage without contributing to any ability to see or image the isotope. Low levels of beta radiation are also known for causing cancer as this dose is highly mutagenic. For this reason, less toxic iodine isotopes such as I-123 are more frequently used in nuclear imaging, while I-131 is reserved for its tissue destroying effects. Because the thyroid gland naturally takes up iodine from the body, therapeutic methods using radioisotopes can take advantage of this mechanism for localization of drug to the site of malignancy. Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+4. Indication:  Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+DrugId:  25
+1. Name:  MB07811
+2. Groups:  Investigational
+3. Description:  MB07811 is the first of a novel class of product candidates discovered by Metabasis designed to lower serum cholesterol and triglycerides. MB07811, a small molecule that is administered orally, has been extensively studied preclinically and is currently undergoing clinical testing. MB07811 combines a novel thyroid hormone receptor agonist with the Company's novel HepDirect liver targeting prodrug technology. The combination of selectivity for the beta form of the receptor, liver targeting and other structural characteristics that limit extra-hepatic activity is designed to provide significant efficacy while avoiding side effects associated with activation of thyroid hormone receptors outside the liver.
+4. Indication:  Investigated for use/treatment in hyperlipidemia.

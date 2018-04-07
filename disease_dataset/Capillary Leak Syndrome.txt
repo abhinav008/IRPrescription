@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clemastine
+2. Groups:  Approved, Investigational
+3. Description:  An ethanolamine-derivative, first generation histamine H1 antagonist used in hay fever, rhinitis, allergic skin conditions, and pruritus. It causes drowsiness.
+4. Indication:  For the relief of symptoms associated with allergic rhinitis such as sneezing, rhinorrhea, pruritus and acrimation. Also for the management of mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Used as self-medication for temporary relief of symptoms associated with the common cold.
+DrugId:  2
+1. Name:  Nitric Oxide
+2. Groups:  Approved
+3. Description:  Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants.Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant.The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+4. Indication:  For the treatment of term and near-term (>34 weeks) neonates with hypoxic respiratory failure
+DrugId:  3
+1. Name:  Rutin
+2. Groups:  Experimental, Investigational
+3. Description:  A flavonol glycoside found in many plants, including buckwheat; tobacco; forsythia; hydrangea; viola, etc. It has been used therapeutically to decrease capillary fragility. [PubChem]
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Prednisolone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states. [PubChem]
+4. Indication:  For the treatment of primary or secondary adrenocortical insufficiency, such as congenital adrenal hyperplasia, thyroiditis. Also used to treat psoriatic arthritis, rheumatoid arthritis, ankylosing spondylitis, bursitis, acute gouty arthritis and epicondylitis. Also indicated for treatment of systemic lupus erythematosus, pemphigus and acute rhematic carditis. Can be used in the treatment of leukemias, lymphomas, thrombocytopenia purpura and autoimmune hemolytic anemia. Can be used to treat celiac disease, insulin resistance, ulcerative colitis and liver disorders.
+DrugId:  5
+1. Name:  Horse chestnut
+2. Groups:  Experimental
+3. Description:  Horse chestnut is a flowering plant commonly referred to as Aesculus hippocastanum. Unprocessed horse chestnut seeds contain a toxin called esculin (also spelled aesculin) that increases the risk of bleeding due to anticoagulant actions. These seeds are processed to remove the toxic component, resulting in purified horse chestnut seed extract (HCSE) [1]. The active component of this pure extract is escin, or aescin, that promotes blood circulation through the veins and reduces swelling and inflammation of the legs. Its therapeutic potential in the treatment of chronic venous insufficiency is being studied.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Bifonazole
+2. Groups:  Approved, Investigational
+3. Description:  Bifonazole is an azole antifungal drug. [Wikipedia]
+4. Indication:  Used for the treatment of various topical fungal infections, including athlete's foot (tinea pedis).
+DrugId:  7
+1. Name:  Corticorelin
+2. Groups:  Investigational
+3. Description:  Corticotropin-releasing factor is studied in the treatment of brain cancer. It is made naturally by the hypothalamus (a part of the brain) and can also be made in the laboratory. Human corticotropin-releasing factor may help reduce symptoms caused by edema (swelling) of the brain. It is a type of neurohormone, also called hCRF.
+4. Indication:  Investigated for use/treatment in brain cancer and neurologic disorders.
+DrugId:  8
+1. Name:  Troxerutin
+2. Groups:  Investigational
+3. Description:  Troxerutin has been used in trials studying the treatment of Chronic Venous Insufficiency.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Esculin
+2. Groups:  Approved
+3. Description:  Esculin is found in barley. Vitamin C2 is generally considered a bioflavanoid, related to vitamin P esculin is a glucoside that naturally occurs in the horse chestnut (Aesculus hippocastanum), California Buckeye (Aesculus californica) and in daphnin (the dark green resin of Daphne mezereum). Esculin belongs to the family of Glycosyl Compounds. These are carbohydrate derivatives in which a sugar group is bonded through its anmoeric carbonA to another group via a C-, S-,N-,O-, or Se- glycosidic bond.
+4. Indication:  As medication, esculin is sometimes used as a vasoprotective agent.Esculin is also used in a microbiology laboratory to aid in the identification of bacterial species (especially Enterococci and Listeria). In fact, all strains of Group D Streptococci hydrolyze æsculin in 40% bile.
+DrugId:  10
+1. Name:  Carbazochrome
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Carbazochrome is a hemostatic agent that causes the aggregation and adhesion of platelets in the blood to form a platelet plug, ceasing blood flow from an open wound. It is an oxidation product of adrenaline which enhances the microcirculatory tone [4]. It is hoped that this drug can be used in the future for preventing excessive blood flow during surgical operations and the treatment of hemorrhoids, but research on its effectiveness and the severity of possible side effects remains to be fairly inconclusive. It is not FDA-approved but is available as tablets or IM/SC injections in the treatment of hemorrhages in a number of countries.Carbazochrome has been investigated for use in the treatment of non-surgical acute uncomplicated hemorrhoids in a mixture with Troxerutin, and this combination therapy demonstrated efficacy and safe tolerability either at a local or systemic level [1].
+4. Indication:  Indicated for capillary and parenchymal hemorrhage (trauma, tonsillectomy, during surgery), intestinal bleeding, and thrombocytopenic purpura.
+DrugId:  11
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  12
+1. Name:  Medrysone
+2. Groups:  Approved
+3. Description:  Medrysone is a corticosteroid used in ophthalmology. [Wikipedia]
+4. Indication:  For the treatment of allergic conjunctivitis, vernal conjunctivitis, episcleritis, and epinephrine sensitivity.
+DrugId:  13
+1. Name:  Calcium glubionate
+2. Groups:  Approved
+3. Description:  Calcium glubionate (or glubionate calcium) is a mineral supplement to prevent or treat low blood calcium levels in people who do not get enough calcium from their diets.
+4. Indication:  Calcium glubionate is indicated to treat conditions caused by low calcium levels such as bone loss (osteoporosis), weak bones (osteomalacia/rickets), decreased activity of the parathyroid gland (hypoparathyroidism), and a certain muscle disease (latent tetany). It may also be used in certain patients to make sure they are getting enough calcium (e.g., women who are pregnant, nursing, or postmenopausal, people taking certain medications such as phenytoin, phenobarbital, or prednisone).
+DrugId:  14
+1. Name:  Prednicarbate
+2. Groups:  Approved, Investigational
+3. Description:  Prednicarbate is a relatively new topical corticosteroid drug. It is similar in potency to hydrocortisone. It is used in the treatment of inflammatory skin diseases, such as atopic dermatitis. It has a favorable benefit-risk ratio, with an inflammatory action similar to that of a medium potency corticosteroid, but with a low potential to cause skin atrophy. The anti-inflammation action of corticosteroids is associated with the inhibition of the interleukin 1-alpha cytokine within keratinocytes. IL-1a is also found in fibroblasts, where it is responsible for proliferation, collagenase induction and IL-6 synthesis, which are related to skin thickness.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+DrugId:  15
+1. Name:  Dalfampridine
+2. Groups:  Approved
+3. Description:  Dalfampridine is a potassium channel blocker used to help multiple sclerosis patients walk. This is the first drug that was specifically approved to help with mobility in these patients. FDA approved on January 22, 2010. 
+4. Indication:  Dalfampridine is a neurofunctional modifier that helps improve walking speed in patients with multiple sclerosis (MS). 
+DrugId:  16
+1. Name:  Monoxerutin
+2. Groups:  Experimental
+3. Description:  Monoxerutin is a flavonol, a type of flavonoid.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  19
+1. Name:  Hydroxyethyl Starch
+2. Groups:  Approved
+3. Description:  Hydroxyethyl starch (HES/HAES) is a nonionic starch derivative. Hydroxyethyl starches (HES) are synthetic colloids commonly used for fluid resuscitation to replace intravascular volume.HES is a general term and can be sub-classified according to average molecular weight, molar substitution, concentration, C2/C6 ratio and Maximum Daily Dose.
+4. Indication:  An intravenous solution of hydroxyethyl starch is used to prevent shock following severe blood loss caused by trauma, surgery, or other issues.
+DrugId:  20
+1. Name:  Fluorometholone
+2. Groups:  Approved, Investigational
+3. Description:  A glucocorticoid employed, usually as eye drops, in the treatment of allergic and inflammatory conditions of the eye. It has also been used topically in the treatment of various skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732)
+4. Indication:  For the ophthalmic treatment of corticosteroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe.
+DrugId:  21
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  22
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Rimexolone
+2. Groups:  Approved
+3. Description:  Rimexolone is a glucocorticoid steroid used to treat inflammation in the eye. It is marketed as a 1% eye drop solution under the trade name Vexol
+4. Indication:  For the treatment of postoperative inflammation following ocular surgery and in the treatment of anterior uveitis.
+DrugId:  24
+1. Name:  Histamine
+2. Groups:  Approved, Investigational
+3. Description:  A depressor amine derived by enzymatic decarboxylation of histidine. It is a powerful stimulant of gastric secretion, a constrictor of bronchial smooth muscle, a vasodilator, and also a centrally acting neurotransmitter.
+4. Indication:  Histamine phosphate is indicated as a diagnostic aid for evaluation of gastric acid secretory function.
+DrugId:  25
+1. Name:  AP5280
+2. Groups:  Investigational
+3. Description:  AP5280 is a novel N-(2-hydroxypropyl)methacrylamide (HPMA) copolymer-bound platinum (Pt) therapeutic designed to increase the therapeutic index relative to conventional, small-molecule platinum agents.
+4. Indication:  Investigated for use/treatment in solid tumors.

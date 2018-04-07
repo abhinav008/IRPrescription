@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Cinchocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic of the amide type now generally used for surface anesthesia. It is one of the most potent and toxic of the long-acting local anesthetics and its parenteral use is restricted to spinal anesthesia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1006)
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  2
+1. Name:  Sofinicline
+2. Groups:  Investigational
+3. Description:  Sofinicline has been used in trials studying the treatment of ADHD, Neuralgia, Diabetic, Diabetic Neuropathies, Diabetic Polyneuropathy, and Diabetic Neuropathic Pain, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Epicept NP-1
+2. Groups:  Investigational
+3. Description:  EpiCept NP-1 is a prescription topical analgesic cream designed to provide effective, long-term relief from the pain of peripheral neuropathies. Peripheral neuropathies are medical conditions caused by damage to the nerves in the peripheral nervous system. The peripheral nervous system includes nerves that run from the brain and spinal cord to the rest of the body. EpiCept NP-1 Cream is a patented formulation containing two FDA-approved drugs, amitriptyline (a widely-used antidepressant) and ketamine (an NMDA antagonist that is used as an anesthetic).
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic) and pain (acute or chronic).
+DrugId:  4
+1. Name:  Corticorelin
+2. Groups:  Investigational
+3. Description:  Corticotropin-releasing factor is studied in the treatment of brain cancer. It is made naturally by the hypothalamus (a part of the brain) and can also be made in the laboratory. Human corticotropin-releasing factor may help reduce symptoms caused by edema (swelling) of the brain. It is a type of neurohormone, also called hCRF.
+4. Indication:  Investigated for use/treatment in brain cancer and neurologic disorders.
+DrugId:  5
+1. Name:  Ticalopride
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in gastroesophageal reflux disease (GERD) and gastroparesis.
+DrugId:  6
+1. Name:  Plinabulin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  7
+1. Name:  Technetium Tc-99m pertechnetate
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m pertechnetate is a radiopharmaceutical diagnostic agent composed of an oxoanion with the chemical formula TcO4-. Pertechnetate has a wide variety of uses within nuclear medicine as it distributes within the body to a similar extent as iodine. It also concentrates in the thyroid gland, salivary glands, gastric mucosa, and choroid plexus. However, in contrast to the iodide ion, the pertechnetate ion is released unchanged from the thyroid gland. Currently marketed as the product Drytec, technetium-99m pertechnetate is indicated for imaging of the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and the nasolacrimal drainage system.Technetium-99m's short half life (6 hours) makes storage impossible, therefore it is supplied as its parent nuclide molybdenum-99, which spontaneously decays to technetium-99 through beta decay. This is normally supplied in a hospital setting through the use of a technetium-99m generator, whereby technetium exits the generator in the form of the pertechnetate ion, TcO4−, which can be extracted and promptly used for clinical diagnostics. Following intravenous injection, single photon emission computed tomography (SPECT) is performed to detect the gamma ray emmitted by the decay of Technetium-99m to Technetium-99.
+4. Indication:  Sodium Pertechnetate Tc99m Injection is indicated for use in adults for imaging in the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and nasolacrimal drainage system (dacryoscintigraphy). It is indicated for use in children for imaging the following tissues: thyroid and urinary bladder. 
+DrugId:  8
+1. Name:  Lidocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic and cardiac depressant used as an antiarrhythmia agent. Its actions are more intense and its effects more prolonged than those of procaine but its duration of action is shorter than that of bupivacaine or prilocaine. [PubChem]
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  9
+1. Name:  Loperamide
+2. Groups:  Approved
+3. Description:  One of the long-acting synthetic antidiarrheals; it is not significantly absorbed from the gut, and has no effect on the adrenergic system or central nervous system, but may antagonize histamine and interfere with acetylcholine release locally. [PubChem]
+4. Indication:  For the control and symptomatic relief of acute nonspecific diarrhea and of chronic diarrhea associated with inflammatory bowel disease or gastroenteritis. Also used for reducing the volume of discharge from ileostomies.
+DrugId:  10
+1. Name:  Leptin
+2. Groups:  Investigational
+3. Description:  Although leptin is a circulating signal that reduces appetite, in general, obese people have an unusually high circulating concentration of leptin. These people are said to be resistant to the effects of leptin, in much the same way that people with type 2 diabetes are resistant to the effects of insulin. Thus, obesity develops when people take in more energy than they use over a prolonged period of time, and this excess food intake is not driven by hunger signals, occurring in spite of the anti-appetite signals from circulating leptin. The high sustained concentrations of leptin from the enlarged fat stores result in the cells that respond to leptin becoming desensitized.
+4. Indication:  Investigated for use/treatment in lipodystrophy and obesity.
+DrugId:  11
+1. Name:  Methimazole
+2. Groups:  Approved
+3. Description:  A thioureylene antithyroid agent that inhibits the formation of thyroid hormones by interfering with the incorporation of iodine into tyrosyl residues of thyroglobulin. This is done by interfering with the oxidation of iodide ion and iodotyrosyl groups through inhibition of the peroxidase enzyme. [PubChem]
+4. Indication:  For the treatment of hyperthyroidism, goiter, Graves disease and psoriasis.
+DrugId:  12
+1. Name:  Cisapride
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  In many countries (including Canada) cisapride has been either withdrawn or has had its indications limited due to reports about long QT syndrome due to cisapride, which predisposes to arrhythmias. The FDA issued a warning letter regarding this risk to health care professionals and patients.
+4. Indication:  For the symptomatic treatment of adult patients with nocturnal heartburn due to gastroesophageal reflux disease.
+DrugId:  13
+1. Name:  Teduglutide
+2. Groups:  Approved
+3. Description:  Teduglutide is a glucagon-like peptide-2 (GLP-2) analogue. It is made up of 33 amino acids and is manufactured using a strain of Escherichia coli modified by recombinant DNA technology. Teduglutide differs from GLP-2 by one amino acid (alanine is substituted by glycine). The significance of this substitution is that teduglutide is longer acting than endogenous GLP-2 as it is more resistant to proteolysis from dipeptidyl peptidase-4. FDA approved on December 21, 2012.
+4. Indication:  Treatment of short bowel syndrome (SBS), malabsorption associated with the removal of the intestine, in adults patients who are dependent on parenteral support. 
+DrugId:  14
+1. Name:  Gabapentin
+2. Groups:  Approved, Investigational
+3. Description:  Gabapentin (brand name Neurontin) is a medication originally developed for the treatment of epilepsy. Presently, gabapentin is widely used to relieve pain, especially neuropathic pain. Gabapentin is well tolerated in most patients, has a relatively mild side-effect profile, and passes through the body unmetabolized.
+4. Indication:  For the management of postherpetic neuralgia in adults and as adjunctive therapy in the treatment of partial seizures with and without secondary generalization in patients over 12 years of age with epilepsy.
+DrugId:  15
+1. Name:  Netarsudil
+2. Groups:  Approved
+3. Description:  A Rho kinase inhibitor with norepinephrine transport inhibitory activity that reduces production of aqueousAs of December 18, 2017 the FDA approved Aerie Pharmaceutical's Rhopressa (netarsudil ophthalmic solution) 0.02% for the indication of reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Acting as both a rho kinase inhibitor and a norepinephrine transport inhibitor, Netarsudil is a novel glaucoma medication in that it specifically targets the conventional trabecular pathway of aqueous humour outflow to act as an inhibitor to the rho kinase and norepinephrine transporters found there as opposed to affecting protaglandin F2-alpha analog like mechanisms in the unconventional uveoscleral pathway that many other glaucoma medications demonstrate.
+4. Indication:  Netarsudil is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  16
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.

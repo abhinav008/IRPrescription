@@ -1,0 +1,50 @@
+DrugId:  1
+1. Name:  Bacampicillin
+2. Groups:  Approved, Investigational
+3. Description:  Bacampicillin is a prodrug of ampicillin and is microbiologically inactive. It is absorbed following oral administration. During absorption from the gastrointestinal tract, bacampicillin is hydrolyzed by esterases present in the intestinal wall. It is microbiologically active as ampicillin, and exerts a bactericidal action through the inhibition of the biosynthesis of cell wall mucopeptides. It is used to cure infection of upper and lower respiratory tract; skin and soft tissue; urinary tract and acute uncomplicated gonococcal urethritis etc.
+4. Indication:  For infections at the following sites: upper and lower respiratory tract; skin and soft tissue; urinary tract and acute uncomplicated gonococcal urethritis, when due to sensitive strains of the following organisms: Gram-positive: streptococci (including S. faecalis and S. pneumoniae) and nonpenicillinase-producing staphylococci; Gram-negative: H. influenzae, N. gonorrhoeae, E. coli, P. mirabilis, Salmonellae and Shigellae.
+DrugId:  2
+1. Name:  Pivampicillin
+2. Groups:  Approved
+3. Description:  Pivalate ester analog of ampicillin.
+4. Indication:  or the treatment of respiratory tract infections (including acute bronchitis, acute exacerbations of chronic bronchitis and pneumonia); ear, nose and throat infections; gynecological infections; urinary tract infections (including acute uncomplicated gonococcal urethritis) when caused by non penicillinase-producing susceptible strains of the following organisms: gram-positive organisms, e.g., streptococci, pneumococci and staphylococci; gram-negative organisms, e.g., H. influenzae, N. gonorrhoeae, E. coli, P. mirabilis. 
+DrugId:  3
+1. Name:  Spectinomycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An antibiotic produced by Streptomyces spectabilis. It is active against gram-negative bacteria and used for the treatment of gonorrhea.
+4. Indication:  For use in the treatment of acute gonorrheal urethritis and proctitis in the male and acute gonorrheal cervicitis and proctitis in the female when due to susceptible strains of Neisseria gonorrhoeae.
+DrugId:  4
+1. Name:  Dienestrol
+2. Groups:  Approved, Investigational
+3. Description:  Dienestrol is a synthetic, non-steroidal estrogen. It is an estrogen receptor agonist. Estrogens work partly by increasing a normal clear discharge from the vagina and making the vulva and urethra healthy. Using or applying an estrogen relieves or lessens: dryness and soreness in the vagina, itching, redness, or soreness of the vulva. Conditions that are treated with vaginal estrogens include a genital skin condition (vulvar atrophy), inflammation of the vagina (atrophic vaginitis), and inflammation of the urethra (atrophic urethritis).
+4. Indication:  For use in the treatment of atrophic vaginitis and kraurosis vulvae.
+DrugId:  5
+1. Name:  Flavoxate
+2. Groups:  Approved
+3. Description:  A drug that has been used in various urinary syndromes and as an antispasmodic. Its therapeutic usefulness and its mechanism of action are not clear. It may have local anesthetic activity and direct relaxing effects on smooth muscle as well as some activity as a muscarinic antagonist. [PubChem]
+4. Indication:  For symptomatic relief of dysuria, urgency, nocturia, suprapubic pain, frequency and incontinence as may occur in cystitis, prostatitis, urethritis, urethrocystitis/urethrotrigonitis.
+DrugId:  6
+1. Name:  Rifalazil
+2. Groups:  Investigational
+3. Description:  Rifalazil is a derivative of the antibiotic rifamycin. It is being investigated by ActivBiotics for the treatment of various bacterial infections.
+4. Indication:  Investigated for use/treatment in atherosclerosis, bacterial infection, and peripheral vascular disease.
+DrugId:  7
+1. Name:  Pefloxacin
+2. Groups:  Approved
+3. Description:  A synthetic broad-spectrum fluoroquinolone antibacterial agent active against most gram-negative and gram-positive bacteria. [PubChem]
+4. Indication:  For the treatment of uncomplicated gonococcal urethritis in males and for gram-negative-bacterial infections in the gastrointestinal system and the genitourinary tract.
+DrugId:  8
+1. Name:  Trovafloxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Trovafloxacin (sold as Trovan by Pfizer) is a broad spectrum antibiotic that inhibits the uncoiling of supercoiled DNA in various bacteria by blocking the activity of DNA gyrase and topoisomerase IV. It was withdrawn from the market due to the risk of hepatotoxicity. It had better gram-positive bacterial coverage and less gram-negative coverage than the previous fluoroquinolones. [Wikipedia]
+4. Indication:  For treatment of infections caused by susceptible strains of the designated microorganisms in uncomplicated urethral gonorrhea in males and endocervical and rectal gonorrhea in females caused by Neisseria gonorrhoeae as well as non gonoccocal urethritis and cervicitis due to Chlamydia trachomatis.
+DrugId:  9
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 
+DrugId:  10
+1. Name:  Erythromycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Erythromycin is a macrolide antibiotic produced by Saccharopolyspora erythraea (formerly Streptomyces erythraeus). It inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits; binding inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins. Erythromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For use in the treatment of infections caused by susceptible strains of microorganisms in the following diseases: respiratory tract infections (upper and lower) of mild to moderate degree, pertussis (whooping cough), as adjunct to antitoxin in infections due to Corynebacterium diphtheriae, in the treatment of infections due to Corynebacterium minutissimum, intestinal amebiasis caused by Entamoeba histolytica, acute pelvic inflammatory disease caused by Neisseria gonorrhoeae, skin and soft tissue infections of mild to moderate severity caused by Streptococcus pyogenes and Staphylococcus aureus, primary syphilis caused by Treponema pallidum, infections caused by Chlamydia trachomatis, nongonococcal urethritis caused by Ureaplasma urealyticum, and Legionnaires' disease caused by Legionella pneumophila.

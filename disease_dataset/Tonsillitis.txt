@@ -1,0 +1,40 @@
+DrugId:  1
+1. Name:  Loracarbef
+2. Groups:  Investigational, Withdrawn
+3. Description:  Loracarbef is a carbacephem antibiotic sometimes grouped together with the second-generation cephalosporin antibiotics. It is marketed under the trade name Lorabid.
+4. Indication:  Used to treat upper respiratory tract bacterial infections, chronic bronchitis, pneumonia, sinusitis, pharyntitis and tonsillitis, skin absceses, urinary tract infections and pyelonephritis caused by E. coli, S. pyogenes, S. aureus, S. saprphyticus, S. penumoniae, H. influenzae and M. catarrhalis.
+DrugId:  2
+1. Name:  Dirithromycin
+2. Groups:  Approved, Investigational
+3. Description:  Dirithromycin is a macrolide glycopeptide antibiotic. It is used to treat many different types of bacterial infections, such as bronchitis, pneumonia, tonsillitis, and even skin infections.
+4. Indication:  For the treatment of the following mild-to-moderate infections caused by susceptible strains of microorganisms: acute bacterial exacerbations of chronic bronchitis, secondary bacterial infection of acute bronchitis, community-acquired pneumonia, pharyngitis/tonsilitis, and uncomplicated skin and skin structure infections.
+DrugId:  3
+1. Name:  Cefadroxil
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  Long-acting, broad-spectrum, water-soluble, cephalexin derivative.
+4. Indication:  For the treatment of the following infections (skin, UTI, ENT) caused by; S. pneumoniae, H. influenzae, staphylococci, S. pyogenes (group A beta-hemolytic streptococci), E. coli, P. mirabilis, Klebsiella sp, coagulase-negative staphylococci and Streptococcus pyogenes
+DrugId:  4
+1. Name:  Cefuroxime
+2. Groups:  Approved
+3. Description:  Broad-spectrum cephalosporin antibiotic resistant to beta-lactamase. It has been proposed for infections with gram-negative and gram-positive organisms, gonorrhea, and haemophilus. [PubChem]
+4. Indication:  For the treatment of many different types of bacterial infections such as bronchitis, sinusitis, tonsillitis, ear infections, skin infections, gonorrhea, and urinary tract infections.
+DrugId:  5
+1. Name:  Cefixime
+2. Groups:  Approved, Investigational
+3. Description:  Cefixime, an antibiotic, is a third-generation cephalosporin like ceftriaxone and cefotaxime. Cefixime is highly stable in the presence of beta-lactamase enzymes. As a result, many organisms resistant to penicillins and some cephalosporins due to the presence of beta-lactamases, may be susceptible to cefixime. The antibacterial effect of cefixime results from inhibition of mucopeptide synthesis in the bacterial cell wall.
+4. Indication:  For use in the treatment of the following infections when caused by susceptible strains of the designated microorganisms: (1) uncomplicated urinary tract infections caused by Escherichia coli and Proteus mirabilis, (2) otitis media caused by Haemophilus influenzae (beta-lactamase positive and negative strains), Moraxella catarrhalis (most of which are beta-lactamase positive), and S. pyogenes, (3) pharyngitis and tonsillitis caused by S. pyogenes, (4) acute bronchitis and acute exacerbations of chronic bronchitis caused by Streptococcus pneumoniae and Haemophilus influenzae (beta-lactamase positive and negative strains), and (5) uncomplicated gonorrhea (cervical/urethral) caused by Neisseria gonorrhoeae (penicillinase- and non-penicillinase-producing strains).
+DrugId:  6
+1. Name:  Telithromycin
+2. Groups:  Approved
+3. Description:  Telithromycin, a semi-synthetic erythromycin derivative, belongs to a new chemical class of antibiotics called ketolides. Ketolides have been recently added to the macrolide-lincosamide-streptogramin class of antibiotics. Similar to the macrolide antibiotics, telithromycin prevents bacterial growth by interfering with bacterial protein synthesis. Telithromycin binds to the 50S subunit of the 70S bacterial ribosome and blocks further peptide elongation. Binding occurs simultaneously at to two domains of 23S RNA of the 50S ribosomal subunit, domain II and V, where older macrolides bind only to one. It is used to treat mild to moderate respiratory infections.
+4. Indication:  For the treatment of Pneumococcal infection, acute sinusitis, acute bacterial tonsillitis, acute bronchitis and bronchiolitis, lower respiratory tract infection and lobar (pneumococcal) pneumonia.
+DrugId:  7
+1. Name:  Cefditoren
+2. Groups:  Approved, Investigational
+3. Description:  Cefditoren is a third-generation cephalosporin antibiotic for oral use. It is commonly marketed under the trade name Spectracef by Cornerstone BioPharma.
+4. Indication:  For the treatment of mild to moderate infections in adults and adolescents (12 years of age or older) which are caused by susceptible strains of microorganisms in acute bacterial exacerbation of chronic bronchitis, community-acquired pneumonia, pharyngitis/tonsillitis, and uncomplicated skin and skin-structure infections.
+DrugId:  8
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).

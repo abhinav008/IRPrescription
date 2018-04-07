@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  N,N-dimethylarginine
+2. Groups:  Experimental
+3. Description:  Asymmetric dimethylarginine (ADMA) is a naturally occurring chemical found in blood plasma. It is a metabolic by-product of continual protein modification processes in the cytoplasm of all human cells. It is closely related to L-arginine, a conditionally-essential amino acid. ADMA interferes with L-arginine in the production of nitric oxide, a key chemical to endothelial and hence cardiovascular health. [Wikipedia]
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Mecasermin
+2. Groups:  Approved, Investigational
+3. Description:  Mecasermin contains recombinant-DNA-engineered human insulin-like growth factor-1 (rhIGF-1). IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesized in bacteria (E. coli) that have been modified by the addition of the gene for human IGF-1.
+4. Indication:  For the long-term treatment of growth failure in pediatric patients with Primary IGFD or with GH gene deletion who have developed neutralizing antibodies to GH. It is not indicated to treat Secondary IGFD resulting from GH deficiency, malnutrition, hypothyroidism or other causes; it is not a substitute for GH therapy.
+DrugId:  3
+1. Name:  Lumacaftor
+2. Groups:  Approved
+3. Description:  Lumacaftor is a drug used in combination with Ivacaftor as the fixed dose combination product Orkambi for the management of Cystic Fibrosis (CF) in patients aged 6 years and older. Cystic Fibrosis is an autosomal recessive disorder caused by one of several different mutations in the gene for the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) protein, a transmembrane ion channel involved in the transport of chloride and sodium ions across cell membranes of the lungs, pancreas, and other organs. Mutations in the CFTR gene result in altered production, misfolding, or function of the CFTR protein and consequently abnormal fluid and ion transport across cell membranes [3, 4]. As a result, CF patients produce a thick, sticky mucus that clogs the ducts of organs where it is produced making patients more susceptible to infections, lung damage, pancreatic insufficiency, and malnutrition [5]. Lumacaftor improves CF symptoms and underlying disease pathology by aiding the conformational stability of F508del-mutated CFTR proteins, preventing misfolding and resulting in increased processing and trafficking of mature protein to the cell surface. Results from clinical trials indicated that treatment with Orkambi (lumacaftor/ivacaftor) results in improved lung function, reduced chance of experiencing a pulmonary exacerbation, increased weight gain, and improvements in CF symptoms [FDA Label]. This data has been heavily scrutinized, however, with clinical trials showing only modest improvements despite a hefty yearly cost of $259,000 for Orkambi [8]. Improvements in lung function (ppFEV1) were found to be statistically significant, but minimal, with only a 2.6-3.0% change from baseline with more than 70% of patients failing to achieve an absolute improvement of at least 5% [8, 9].A wide variety of CFTR mutations correlate to the Cystic Fibrosis phenotype and are associated with differing levels of disease severity. The most common mutation, affecting approximately 70% of patients with CF worldwide, is known as F508del-CFTR, or delta-F508 (ΔF508), in which a deletion in the amino acid phenylalanine at position 508 results in impaired production of the CFTR protein, thereby causing a significant reduction in the amount of ion transporter present on cell membranes [6]. When used in combination with Ivacaftor as the fixed dose combination product Orkambi, lumacaftor is specific for the management of CF in patients with delta-F508 mutations as it acts as a protein-folding chaperone, aiding the conformational stability of the mutated CFTR protein. Consequently, lumacaftor increases successful production of CFTR ion channels and the total number of receptors available for use at the cell membrane for fluid and ion transport [2]. The next most common mutation, G551D, affecting 4-5% of CF patients worldwide, is characterized as a missense mutation, whereby there is sufficient amount of protein at the cell surface, but opening and closing mechanisms of the channel are altered [7]. Treatment of patients with G551D and other rarer missense mutations is usually managed with Ivacaftor (Kalydeco), as it aids with altered gating mechanisms by potentiating channel opening probability of CFTR protein.Prior to the development of lumacaftor and Ivacaftor (Kalydeco), management of CF primarily involved therapies for the control of infections, nutritional support, clearance of mucus, and management of symptoms rather than improvements in the underlying disease process. Approved for use by the Food and Drug Administration in July 2015 and by Health Canada in January 2016, Orkambi was the first combination product approved for the management of Cystic Fibrosis with delta-F508 mutations.Ivacaftor is manufactured and distributed by Vertex Pharmaceuticals.
+4. Indication:  When given in combination with Ivacaftor as the fixed dose combination product Orkambi, lumacaftor is indicated for the treatment of cystic fibrosis (CF) in patients age 6 years and older who are homozygous for the F508del mutation in the CFTR gene [FDA Label].
+DrugId:  4
+1. Name:  Alanyl Glutamine
+2. Groups:  Investigational
+3. Description:  Alanyl Glutamine is under investigation in clinical trial NCT00338221 (Clinical Trial of Alanyl-Glutamine or Glycine in Children With Persistent Diarrhea or Malnutrition).
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Ivacaftor
+2. Groups:  Approved
+3. Description:  Ivacaftor (also known as Kalydeco or VX-770) is a drug used for the management of Cystic Fibrosis (CF) in patients aged 2 years and older. Cystic Fibrosis is an autosomal recessive disorder caused by one of several different mutations in the gene for the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) protein, an ion channel involved in the transport of chloride and sodium ions across cell membranes. CFTR is active in epithelial cells of organs such as of the lungs, pancreas, liver, digestive system, and reproductive tract. Alterations in the CFTR gene result in altered production, misfolding, or function of the protein and consequently abnormal fluid and ion transport across cell membranes [5, 6]. As a result, CF patients produce a thick, sticky mucus that clogs the ducts of organs where it is produced making patients more susceptible to complications such as infections, lung damage, pancreatic insufficiency, and malnutrition [8]. Use of Ivacaftor has been shown to both improve CF symptoms and modulate underlying disease pathology. This is achieved by potentiating the channel opening probability (or gating) of CFTR protein in patients with impaired gating mechanisms. This is in contrast to Lumacaftor, another CF medication, that functions by preventing misfolding of the CFTR protein and thereby results in increased processing and trafficking of mature protein to the cell surface. Results from clinical trials indicated that treatment with ivacaftor results in improved lung function, reduced chance of experiencing a pulmonary exacerbation, increased weight gain, and improvements in CF symptoms [FDA Label]. This data has been heavily scrutinized, however, with clinical trials showing only modest improvements despite a hefty yearly cost of $259,000 for Orkambi (lumacaftor/ivacaftor) [11].A wide variety of CFTR mutations correlate to the Cystic Fibrosis phenotype and are associated with differing levels of disease severity. The most common mutation, affecting approximately 70% of patients with CF worldwide, is known as F508del-CFTR or delta-F508 (ΔF508), in which a deletion in the amino acid phenylalanine at position 508 results in impaired production of the CFTR protein, thereby causing a significant reduction in the amount of ion transporter present on cell membranes [7]. Ivacaftor as monotherapy has failed to show a benefit for patients with delta-F508 mutations, most likely due to insufficient amount of protein available at the cell membrane for interaction and potentiation by the drug[10]. The next most common mutation, G551D, affecting 4-5% of CF patients worldwide is characterized as a missense mutation, whereby there is sufficient amount of protein at the cell surface, but opening and closing mechanisms of the channel are altered [9]. Ivacaftor is indicated for the management of CF in patients with this second type of mutation, as it binds to and potentiates the channel opening ability of CFTR proteins on the cell membrane [9].Although ivacaftor has not shown any significant improvements in patients with the delta-F508 mutation, it has shown significant improvements (>10% increase in FEV1 from baseline) in lung function for the following mutations: E56K, P67L, R74W, D110E, D110H, R117C, R117H, G178R, E193K, L206W, R347H, R352Q, A455E, S549N, S549R, G551D, G551S, D579G, S945L, S977F, F1052V, K1060T, A1067T, G1069R, R1070Q, R1070W, F1074L, D1152H, G1244E, S1251N, S1255P, D1270N, and G1349D [FDA Label]. This list was expanded by the FDA in May 2017 from 10 to 33 to accomodate more rare mutations [12]. When used as monotherapy as the product Kalydeco, ivacaftor is indicated for the managmenet of CF in patients age 2 years and older who have a mutation in the CFTR gene that is responsive to ivacaftor potentiation (see above list of susceptible mutations). When used in combination with the drug Lumacaftor as the product Orkambi, ivacaftor is indicated for the management of CF patients age 6 years and older who are homozygous for the F508del mutation in the CFTR gene.Prior to the development of ivacaftor, management of CF primarily involved therapies for the control of infections, nutritional support, clearance of mucus, and management of symptoms rather than improvements in the underlying disease process or lung function (FEV1). Notably, ivacaftor was the first medication approved for the management of the underlying causes of CF (abnormalities in CFTR protein function) rather than control of symptoms [4].Ivacaftor is manufactured and distributed by Vertex Pharmaceuticals. It was approved by the Food and Drug Administration on January 31, 2012 and by Health Canada on November 26, 2012.
+4. Indication:  When used as monotherapy as the product Kalydeco, ivacaftor is indicated for the managmenet of CF in patients age 2 years and older who have a mutation in the CFTR gene that is responsive to ivacaftor potentiation. Ivacaftor received expanded approval in May 2017 for the following 33 CFTR mutations: E56K, P67L, R74W, D110E, D110H, R117C, R117H, G178R, E193K, L206W, R347H, R352Q, A455E, S549N, S549R, G551D, G551S, D579G, S945L, S977F, F1052V, K1060T, A1067T, G1069R, R1070Q, R1070W, F1074L, D1152H, G1244E, S1251N, S1255P, D1270N, and G1349D [12].When used in combination with the drug Lumacaftor as the product Orkambi, ivacaftor is indicated for the management of CF patients age 6 years and older who are homozygous for the F508del mutation in the CFTR gene.
+DrugId:  6
+1. Name:  Trodusquemine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in obesity and diabetes mellitus type 2.
+DrugId:  7
+1. Name:  Eprotirome
+2. Groups:  Investigational
+3. Description:  Eprotirome which is a compound with promising properties for treatment of obesity and dyslipidemia. Eprotirome increases the body’s energy consumption and reduces body weight and markedly reduces blood lipids and blood glucose.
+4. Indication:  Investigated for use/treatment in hyperlipidemia, metabolic disease, and obesity.
+DrugId:  8
+1. Name:  Adenosine monophosphate
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Adenylic acid. Adenine nucleotide containing one phosphate group esterified to the sugar moiety in the 2'-, 3'-, or 5'-position.
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  9
+1. Name:  Phenformin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  A biguanide hypoglycemic agent with actions and uses similar to those of metformin. Although it is generally considered to be associated with an unacceptably high incidence of lactic acidosis, often fatal, it is still available in some countries. (From Martindale, The Extra Pharmacopoeia, 30th ed, p290)
+4. Indication:  For the reatment of type II diabetes mellitus.
+DrugId:  10
+1. Name:  Insulin Glargine
+2. Groups:  Approved
+3. Description:  Insulin glargine is produced by recombinant DNA technology using a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism. It is an analogue of human insulin made by replacing the asparagine residue at position A21 of the A-chain with glycine and adding two arginines to the C-terminus (positions B31 and 32) of the B-chain. The resulting protein is soluble at pH 4 and forms microprecipitates at physiological pH 7.4. Small amounts of insulin glargine are slowly released from microprecipitates giving the drug a long duration of action (up to 24 hours) and no pronounced peak concentration. 
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus in patients over 17 years old who require a long-acting (basal) insulin for the control of hyperglycemia. May be used in pediatric patients with Type 1 diabetes mellitus who require a long-acting (basal) insulin for glycemic control. 
+DrugId:  11
+1. Name:  Insulin Glulisine
+2. Groups:  Approved
+3. Description:  Insulin glulisine is a biosynthetic, rapid-acting human insulin analogue produced in a non-pathogenic laboratory strain of Escherichia coli (K12). This recombinant hormone differs from native human insulin in that the amino acid arginine at position B3 is replaced by lysine and the lysine at position B29 is replaced by glutamic acid. These structural modifications decrease hexamer formation, stabilize insulin glulisine monomers and increase the rate of absorption and onset of action compared to human insulin. 
+4. Indication:  For the treatment of Type 1 and 2 diabetes mellitus. Should be used in regimens including a long-acting or basal insulin analogue unless it is used in a continuous infusion pump. May be used with oral antidiabetic agents. 
+DrugId:  12
+1. Name:  Insulin Aspart
+2. Groups:  Approved
+3. Description:  Insulin aspart is a recombinant, biosynthetic, fast-acting insulin analogue. It has a single amino acid substitution at position B28 where proline is replaced with aspartic acid. This substitution decreases its propensity to form hexamers and gives it a higher rate of absorption following subcutaneous administration compared to native insulin. Insulin aspart is produced in a genetically modified strain of Saccharomyces cerevisiae and harvested from a bioreactor.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. Should normally be used in conjunction with an intermediate or long-acting insulin. 
+DrugId:  13
+1. Name:  Insulin Lispro
+2. Groups:  Approved
+3. Description:  Insulin lispro is a recombinant human insulin analogue produced in a specialized laboratory strain of Escherischia coli. Plasmid DNA transfected into the bacteria encodes for an analogue of human insulin that has a lysine at residuce B28 and proline at B29; these residues are reversed in endogenous human insulin. Reversal of these amino acid residues produces a rapid-acting insulin analogue. FDA approved on 1996.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. To be used in conjunction with an intermediate or long-acting insulin except when used in a continuous insulin infusion pump. 
+DrugId:  14
+1. Name:  Arbekacin
+2. Groups:  Approved, Investigational
+3. Description:  An semisynthetic aminoglycoside antibiotic. Often used for treatment of multi-resistant bacterial infection such as methicillin-resistant Staphylococcus aureus (MRSA).Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  Arbekacin is used for the short term treatment of multi-resistant bacterial infections, such as methicillin-resistant Staphylococcus aureus (MRSA).
+DrugId:  15
+1. Name:  Zosuquidar
+2. Groups:  Investigational
+3. Description:  Zosuquidar is a compound of antineoplastic drug candidates currently under development. It is now in "Phase 3" of clinical tests in the United States. Its action mechanism consists of the inhibition of P-glycoproteins; other drugs with this mechanism include tariquidar and laniquidar.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid) and myelodysplastic syndrome.
+DrugId:  16
+1. Name:  Oleoyl-estrone
+2. Groups:  Investigational
+3. Description:  Oleoyl-estrone (OE) is a fatty acid ester of estrone. It is a naturally circulating hormone in animals including humans. It was first reported in 1996 to cause a body fat loss effect in rats in the International Journal of Obesity and Related Metabolic Disorders. The animal research has all been conducted by the Nitrogen-Obesity Research Group of the University of Barcelona. The compound was found to potently induce body-fat loss while preserving protein stores in animals which is the ultimate goal of an anti-obesity agent as body protein loss is an undesired but inevitable (to some degree) side effect of fat loss via calorie restriction. [Wikipedia]
+4. Indication:  For the treatment of obesity.
+DrugId:  17
+1. Name:  Polaprezinc
+2. Groups:  Approved, Investigational
+3. Description:  Polaprezinc is a chelated form of zinc and L-carnosine. It is a zinc-related medicine approved for the first time in Japan, which has been clinically used to treat gastric ulcers [5]. It was determined that polaprezinc may be effective in pressure ulcer treatment [3]. A study in 2013 showed that CO-administration of polaprezinc may be effective against small intestine mucosal injury associated with long-term aspirin therapy [1].
+4. Indication:  Peptic ulcer disease, dyspepsia [6].
+DrugId:  18
+1. Name:  Insulin Detemir
+2. Groups:  Approved
+3. Description:  Insulin detemir is a long-acting human insulin analogue used to maintain basal levels of insulin in diabetic individuals. It is produced using recombinant DNA technology in yeast cells. This insulin analogue has a 14-C fatty acid, myristic acid, bound to the lysine amino acid at position B29. The myristoyl side chain increases self-association and albumin binding. This along with slow systemic absorption from the injection site prolongs distribution of the hormone into tissues and results in a long duration of action. Novo Nordisk markets insulin detemir under the trade name Levemir.
+4. Indication:  For the treatment of type 1 or 2 diabetes mellitus. May be used in combination with oral anti-diabetic agents in type 2 diabetic patients who are not in adequate metabolic control with oral anti-diabetic agents alone. 
+DrugId:  19
+1. Name:  L-Alanine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A non-essential amino acid that occurs in high levels in its free state in plasma. It is produced from pyruvate by transamination. It is involved in sugar and acid metabolism, increases immunity, and provides energy for muscle tissue, brain, and the central nervous system.
+4. Indication:  Used for protein synthesis.
+DrugId:  20
+1. Name:  Lutein
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Lutein is an xanthophyll and one of 600 known naturally occurring carotenoids. Lutein is synthesized only by plants and like other xanthophylls is found in high quantities in green leafy vegetables such as spinach, kale and yellow carrots. In green plants, xanthophylls act to modulate light energy and serve as non-photochemical quenching agents to deal with triplet chlorophyll (an excited form of chlorophyll), which is overproduced at very high light levels, during photosynthesis.
+4. Indication:  Xanthophylls are taken for nutritional supplementation, and also for treating dietary shortage or imbalance.
+DrugId:  21
+1. Name:  Nitazoxanide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Nitazoxanide belongs to the class of drugs known as thiazolides. Nitazoxanide (NTZ) is a broad-spectrum anti-infective drug that markedly modulates the survival, growth, and proliferation of a range of extracellular and intracellular protozoa, helminths, anaerobic and microaerophilic bacteria, in addition to viruses. This drug is effective in the treatment of gastrointestinal infections including Cryptosporidium parvum or Giardia lamblia in healthy subjects. It is generally well tolerated. Nitazoxanide is a first-line, standard treatment for illness caused by C. parvum or G. lamblia infection in healthy (not immunosuppressed) adults and children and may also be considered in the treatment of illnesses caused by other protozoa or helminths [2]. Recently, this drug has been studied as a broad-spectrum antiviral agent due to its ability to inhibit the replication of several RNA and DNA viruses [3].
+4. Indication:  For the treatment of diarrhea in adults and children caused by the protozoa Giardia lamblia, and for the treatment of diarrhea in children caused by the protozoan, Cryptosporidium parvum [FDA Label].Nitazoxanide has not been shown to be superior to placebo medication for the management of diarrhea caused by Cryptosporidium parvum in patients with HIV/immunodeficiency [FDA Label]. 
+DrugId:  22
+1. Name:  Inosine
+2. Groups:  Approved, Investigational
+3. Description:  A purine nucleoside that has hypoxanthine linked by the N9 nitrogen to the C1 carbon of ribose. It is an intermediate in the degradation of purines and purine nucleosides to uric acid and in pathways of purine salvage. It also occurs in the anticodon of certain transfer RNA molecules. (Dorland, 28th ed)
+4. Indication:  The primary popular claim made for inosine, that it enhances exercise and athletic performance, is refuted by the available research data. There is some preliminary evidence that inosine may have some neurorestorative, anti-inflammatory, immunomodulatory and cardioprotective effects.
+DrugId:  23
+1. Name:  Polistes fuscatus venom protein
+2. Groups:  Approved
+3. Description:  Polistes fuscatus venom protein is an extract of Polistes fuscatus venom. Polistes fuscatus venom protein is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Polistes metricus venom protein
+2. Groups:  Approved
+3. Description:  Polistes metricus venom protein is an extract of Polistes metricus venom. Polistes metricus venom protein is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  2-deoxyglucose
+2. Groups:  Experimental, Investigational
+3. Description:  2-deoxyglucose is predominantly used as a diagnostic agent in its radiolabelled form (fluorine-18 is used as the radiolabel). By using positron emission tomography (PET), radiolabelled 2-deoxyglucose can determine glucose metabolism, which is altered in diseases such as cardiovascular disease, tumors, and Alzheimer's disease. Therapeutically, 2-deoxyglucose is an investigational drug that is being studied as an anticancer and antiviral agent. Concerning the former, 2- deoxyglucose was used as an adjunct to chemotherapy and radiotherapy in the treatment of solid tumors (lung, breast, pancreas, head, neck, and gastric tumors). The exact mechanisms of action of 2-deoxyglucose is still being investigated, but it is known that in hypoxic cancer cells, 2-deoxyglucose is a glycolysis inhibitor that prevents ATP production and, ultimately, cell survival. With respect to antiviral therapy, 2-deoxyglucose was shown to be effective against herpes simplex virus by affecting the virus' ability to penetrate cells. As an experimental drug, 2-deoxyglucose was demonstrated to work as an anticonvulsant in temporal lobe epilepsy. In this condition, 2-deoxyglucose represses the expression of certain proteins that are at high levels after a seizure. Although there are several possible therapeutic indications for 2-deoxyglucose, presently there is no approved indication for 2-deoxyglucose as a therapeutic agent.
+4. Indication:  As of July 2013, there is no approved therapeutic indication for 2-deoxyglucose. 2-deoxyglucose may have several potential indications as an adjunct to chemotherapy and radiotherapy in the treatment of solid tumors, as an antiviral treatment in herpes simplex patients, and as an antiepileptic in temporal lobe epilepsy patients.

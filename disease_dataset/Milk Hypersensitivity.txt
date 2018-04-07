@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Goat milk
+2. Groups:  Approved
+3. Description:  Goat milk allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Cow milk
+2. Groups:  Approved
+3. Description:  Cow milk allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Carbon Black
+2. Groups:  Investigational
+3. Description:  Carbon Black has been used in trials studying Atopic Hypersensitivity and Hypersensitivity, Immediate.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Casein
+2. Groups:  Approved
+3. Description:  Casein allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Asparaginase Erwinia chrysanthemi
+2. Groups:  Approved, Investigational
+3. Description:  Erwinaze (asparaginase Erwinia chrysanthemi) contains an asparaginase specific enzyme derived from Erwinia chrysanthemi [4]. Specifically, this L-asparaginase is a tetrameric enzyme consisting of four identical subunits, each having a molecular weight of about 35 kDa [4]. The activity of Erwinaze is expressed in terms of International Units. It is an antineoplastic agent and was FDA approved in November 19, 2011 [4].
+4. Indication:  Asparaginase Erwinia chrysanthemi is for the treatment of patients with acute lymphoblastic leukemia (ALL) that have developed a hypersensitivity to E. coli-derivied asparaginase [4]. It is a component of a multi-agent chemotherpeutic regimen [4] for the treatment of the aforementioned disease and is considered second- or third- line treatment in European and American protocols [1]. 
+DrugId:  6
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  7
+1. Name:  Technetium Tc-99m tilmanocept
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m tilmanocept is a radiopharmaceutical diagnostic imaging agent approved by the U.S. Food and Drug Administration (FDA) for the imaging of lymph nodes with or without scintigraphic imaging. It is a macromolecule consisting of multiple units of diethylenetriaminepentaacetic acid (DTPA) and mannose, each covalently attached to a 10 kDa dextran backbone [FDA Label]. DTPA serves as a chelating agent for technetium Tc 99m to bind [FDA Label]. Technetium Tc-99m tilmanocept is used in lymphatic mapping and lymph node localization in breast cancer, melanoma, clinically node-negative squamous cell carcinoma of the oral cavity, and other solid tumors [2, 3]. Detecting sentinel lymph node (SLN) is clinically useful in the prognosis and management of the disease, as it is considered as the first lymph node that receives afferent lymphatic drainage from a primary tumor, and may be used to predict tumour staging and metastasis [3]. However, as nodal micrometastasis in breast cancer may not be associated with significant changes in survival, it is also important to identify clinically node-negative patients [3]. Technetium Tc-99m tilmanocept is a novel CD206 receptor-targeted molecule that selectively binds to mannose receptors expressed on the surface of reticuloendothelial cells in lymph nodes [1]. Due to its relatively small molecular weight and small molecular diameter of 7 nm [1], technetium Tc-99m tilmanocept displays more rapid injection site clearance, high sentinel node extraction, and low distal node accumulation compared to other conventional radiocolloids [3]. It achieves high overall accuracy in detecting SLN [2]. Once reconstituted and labelled, technetium Tc99m tilmanocept is intended to be injected in close proximity to the tumor being diagnosed and employed in preoperative gamma detection imaging in combination with various other techniques, including scintigraphy, SPECT, and SPECT/CT [4]. It may be administered via subcutaneous, intradermal, subareolar, or peritumoral injection, depending on the tutor location and planned injection technique [FDA Label]. It is marketed under the trade name Lymphoseek. Potential application of technetium Tc-99m tilmanocept to other cancers are being investigated [3].
+4. Indication:  Indicated with or without scintigraphic imaging for lymphatic mapping using a handheld gamma counter to locate lymph nodes draining a primary tumor site in patients with solid tumors for which this procedure is a component of intraoperative management [FDA Label].Indicated with or without scintigraphic imaging for guiding sentinel lymph node biopsy using a handheld gamma counter in patients with clinically node negative squamous cell carcinoma of the oral cavity, breast cancer or melanoma [FDA Label]. 
+DrugId:  8
+1. Name:  Coccidioides immitis spherule
+2. Groups:  Approved
+3. Description:  Coccidioides immitis spherule is a skin test antigen indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis.
+4. Indication:  Indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis. Use in 18-64 year old patients. A positive result occurs if 48h after administration if the diameter of the induration is >5mm. 
+DrugId:  9
+1. Name:  Moxonidine
+2. Groups:  Approved, Investigational
+3. Description:  Moxonidine is a new-generation centrally acting antihypertensive drug approved for the treatment of mild to moderate essential hypertension. It may have a role when thiazides, beta-blockers, ACE inhibitors and calcium channel blockers are not appropriate or have failed to control blood pressure. In addition, it demonstrates favourable effects on parameters of the insulin resistance syndrome, apparently independent of blood pressure reduction.
+4. Indication:  For the treatment of mild to moderate essential or primary hypertension [7]. Effective as most first-line antihypertensives when used as monotherapy [2].
+DrugId:  10
+1. Name:  Iron protein succinylate
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Magnesium hydroxide
+2. Groups:  Approved, Investigational
+3. Description:  Magnesium hydroxide is an inorganic compound with the chemical formula Mg(OH)2. It is naturally found as the mineral brucite. Magnesium hydroxide can be used an antacid or a laxative in either an oral liquid suspension or chewable tablet form.Additionally, magnesium hydroxide has smoke supressing and flame retardant properties and is thus used commercially as a fire retardant.It can also be used topically as an antiperspirant underarm deodorant or for relief of canker sores (aphthous ulcers).
+4. Indication:  Magnesium hydroxide can be used as an antacid or a laxative depending on the administered dose.As an antacid, it is used for the temporary relief of heartburn, upset stomach, sour stomach or acid indigestion.As a laxative, it is used for the relief of occasional constipation by promoting bowel movements for 30 minutes and up to 6 hours.
+DrugId:  12
+1. Name:  Diphencyprone
+2. Groups:  Investigational
+3. Description:  Diphencyprone has been used in trials studying the treatment and basic science of Melanoma, Ultraviolet Rays, Immunosuppression, Neoplasm Metastasis, and Hypersensitivity, Delayed, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  14
+1. Name:  Tilactase
+2. Groups:  Approved, Experimental
+3. Description:  Tilactase is a chewable tablet that contain beta-D-galactosidase. Also known as lactase, beta-D-galactosidase is a glycoside hydrolase enzyme that catalyzes the hydrolysis of β-galactosides. Enzymes contained in tilactase is obtained from Aspergillus oryzae, a probiotic filamentous fungus. Tilactase is available in various countries to be used as an alternative therapeutic approach for lactose-intolerant patients who lack lactase enzymes. It can be taken orally before ingesting a lactose-containing meal.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Docosahexaenoate
+2. Groups:  Approved, Investigational
+3. Description:  Docosahexaenoate (DHA) is a long-chain, highly unsaturated omega-3 (n-3) fatty acid with 22-carbon chain and six cis double bonds. It can be synthesised from the plant essential fatty acid α-linolenic acid (ALA) or obtained from other sources such as breast milk, fish oil and algae oil. As a major structural component in human brain tissues, retina and skin, DHA plays an essential role in growth and functional development of the brain in infants as well as maintenance of normal brain function in adults [1]. DHA is available as oral dietary supplements and added in food products.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Lactose
+2. Groups:  Approved, Investigational
+3. Description:  A disaccharide of GLUCOSE and GALACTOSE in human and cow milk. It is used in pharmacy for tablets, in medicine as a nutrient, and in industry. [PubChem]
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Propolis wax
+2. Groups:  Approved
+3. Description:  Propolis wax is naturally produced by honeybees by mixing the resin or exudate collected from tree buds, sap flows, or other botanical sources with beeswax that contains fatty acids and bee enzymes. Propolis itself contains various chemical compounds including flavonoids, terpenoids, aldehydes, aromatic acids, aliphatic alcohols and ethers, amino acids, and sugars.It is often found in topical formulations used to soothe minor skin irritations.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  19
+1. Name:  Pemirolast
+2. Groups:  Approved, Investigational
+3. Description:  Pemirolast potassium is a slightly yellow powder that is soluble in water. It is a mast cell stabilizer that acts as an antiallergic agent. As an ophthalmic aqueous sterile solution, pemirolast is used for the prevention of itching of the eyes caused by allergies such as hay fever, and allergic conjunctivitis. Pemirolast is potentially useful for prophylaxis of pulmonary hypersensitivity reactions to drugs such as paclitaxel.
+4. Indication:  For the prevention of itching of the eyes caused by allergies such as hay fever, and allergic conjunctivitis
+DrugId:  20
+1. Name:  Silibinin A
+2. Groups:  Experimental, Investigational
+3. Description:  Silibinin is the major active constituent of silymarin, a standardized extract of the milk thistle seeds, containing a mixture of flavonolignans consisting of silibinin, isosilibinin, silicristin, silidianin and others. Silibinin itself is mixture of two diastereomers, silybin A and silybin B, in approximately equimolar ratio. Both in vitro and animal research suggest that silibinin has hepatoprotective (antihepatotoxic) properties that protect liver cells against toxins. Silibinin has also demonstrated in vitro anti-cancer effects against human prostate adenocarcinoma cells, estrogen-dependent and -independent human breast carcinoma cells, human ectocervical carcinoma cells, human colon cancer cells, and both small and nonsmall human lung carcinoma cells.
+4. Indication:  Currently being tested as a treatment of severe intoxications with hepatotoxic substances, such as death cap (Amanita phalloides) poisoning.
+DrugId:  21
+1. Name:  Lodoxamide
+2. Groups:  Approved
+3. Description:  Lodoxamide is a mast-cell stabilizer for topical administration into the eye. Mast-cell stabilizers, first one approved being cromolyn sodium, are used in treatment of ocular hypersensitivity reactions such as vernal conjunctivitis. These conditions often require treatment with anti-inflammatory medications such as ophthalmic NSAIDs or topical steroids which may cause systemic or toxic effects long-term. Although less effective than topical steroids at decreasing inflammation, mast-cell stabilizers offer another treatment option and exhibit minimal adverse effects. Lodoxamide is marketed under the brand name Alomide by Alcon. 
+4. Indication:  Indicated in the treatment of the ocular disorders referred to by the terms vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  22
+1. Name:  Pegaspargase
+2. Groups:  Approved, Investigational
+3. Description:  Pegylated L-asparagine amidohydrolase from E. coli. Pegylation substantially (by a factor of 4) extends the protein half life.
+4. Indication:  For treatment of acute lymphoblastic leukemia
+DrugId:  23
+1. Name:  Antithymocyte immunoglobulin (rabbit)
+2. Groups:  Approved
+3. Description:  Rabbit anti-thymocyte globulin. Thymoglobulin is a polyclonal antibody that suppresses certain types of immune cells responsible for acute organ rejection in transplant patients. Thymoglobulin is a mixture of antibodies intended to bind to various cell surface antigens. The most common mode of action of Thymoglobulin is via selective depletion of T-cells.
+4. Indication:  For prevention of renal transplant rejection
+DrugId:  24
+1. Name:  Caprylic acid
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Caprylic acid is the common name for the eight-carbon straight chain fatty acid known by the systematic name octanoic acid. It is found naturally in coconuts and breast milk. It is an oily liquid with a slightly unpleasant rancid-like smell that is minimally soluble in water.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Pirbuterol
+2. Groups:  Approved
+3. Description:  Pirbuterol is a beta-2 adrenergic bronchodilator. In vitro studies and in vivo pharmacologic studies have demonstrated that pirbuterol has a preferential effect on beta-2 Adrenergic receptors compared with isoproterenol. While it is recognized that beta-2 adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta-2 receptors in the human heart, existing in a concentration between 10-50%. The precise function of these receptors has not been established.The pharmacologic effects of beta adrenergic agonist drugs, including pirbuterol, are at least in proof attributable to stimulation through beta adrenergic receptors of intracellular adenyl cyclase, the enzyme which catalyzes the conversion of adenosine triphosphate (AlP) to cyclic-3† ,5†-adenosine monophosphate (c-AMP). Increased c-AMP levels are associated with relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible bronchospasm including asthma.

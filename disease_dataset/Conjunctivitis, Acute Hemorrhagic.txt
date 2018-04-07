@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Chloropyramine
+2. Groups:  Approved
+3. Description:  Chloropyramine is a first generation antihistamine drug approved in some Eastern European countries for the treatment of allergic conjunctivitis, allergic rhinitis, bronchial asthma, and other atopic (allergic) conditions. Related indications for clinical use include Quincke's edema, allergic reactions to insect bites, food and drug allergies, and anaphylactic shock.
+4. Indication:  For the treatment of allergic conjunctivitis, allergic rhinitis, bronchial asthma, and other atopic (allergic) conditions.
+DrugId:  2
+1. Name:  Medrysone
+2. Groups:  Approved
+3. Description:  Medrysone is a corticosteroid used in ophthalmology. [Wikipedia]
+4. Indication:  For the treatment of allergic conjunctivitis, vernal conjunctivitis, episcleritis, and epinephrine sensitivity.
+DrugId:  3
+1. Name:  Nafamostat
+2. Groups:  Approved, Investigational
+3. Description:  Nafamostat is a synthetic serine protease inhibitor that is commonly formulated with hydrochloric acid due to its basic properties. It has been used in trials studying the prevention of Liver Transplantation and Postreperfusion Syndrome. The use of nafamostat in Asian countries is approved as an anticoagulant therapy for patients undergoing continuous renal replacement therapy due to acute kidney injury.
+4. Indication:  Used as an anticoagulant in patients with disseminative blood vessel coagulation, hemorrhagic lesions, and hemorrhagic tendencies. It prevents blood clot formation during extracorporeal circulation in patients undergoing continuous renal replacement therapy and extra corporeal membrane oxygenation. 
+DrugId:  4
+1. Name:  Factor IX Complex (Human)
+2. Groups:  Approved, Investigational
+3. Description:  Factor IX Complex is a sterile, lyophilized concentrate composed of a number of Vitamin K-dependent clotting factors found in functioning human plasma. Also known as prothrombin complex concentrate, products containing this complex often include Factor IX (antihemophilic factor B), Factor II (prothrombin), Factor X (Stuart-Prower Factor), and low levels of Factor VII (proconvertin) derived from human plasma. Many commercially available products also contain low levels of other antithrombotic proteins. For example, Kcentra (FDA) also contains the antithrombotic proteins C and S, while Bebulin VH (FDA) contains heparin. Coagulation factors are purified from pooled human plasma and subsequently sterilized and treated. Although Factor IX Complex products contain many different coagulation components, Factor IX is the lead component for potency and efficacy, particularly when used for the treatment of bleeding associated with Hemophilia B (Factor IX deficiency). As the product Kcentra, Factor IX Complex is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients experiencing acute major bleeding or requiring rapid reversal of therapy.
+4. Indication:  Factor IX Complex is indicated for the prevention and control of hemorrhagic episodes in hemophilia B patients. It is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding or who require rapid reversal of therapy. 
+DrugId:  5
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  6
+1. Name:  Ferric pyrophosphate
+2. Groups:  Experimental
+3. Description:  Ferric pyrophosphate is an iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate.[1] It presents an increasing interest as this insoluble form can be milder in the gastrointestinal tract and present higher bioavailability.[10]
+4. Indication:  Ferric pyrophosphate is intended to be indicated for the treatment of iron loss or iron deficiency as a formulation with a milder gastrointestinal effect.[9, 10] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  7
+1. Name:  Cytarabine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)
+4. Indication:  For the treatment of acute non-lymphocytic leukemia, acute lymphocytic leukemia and blast phase of chronic myelocytic leukemia.
+DrugId:  8
+1. Name:  Ferric pyrophosphate citrate
+2. Groups:  Approved, Investigational
+3. Description:  Ferric pyrophosphate citrate is a soluble iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate and citrate.[1] FPC is categorized in Japan as a second class OTC drug.[6] This category is given to drugs with ingredients that in rare cases may cause health problems requiring hospitalization or worst.[7] It is also FDA approved since 2015.[FDA Label]
+4. Indication:  Ferric pyrophosphate citrate is indicated for the treatment of iron loss or iron deficiency to maintain hemoglobin and to reduce the prescribed dose of erythropoiesis-stimulating agent (ESA) required to maintain desired hemoglobin levels.[8] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  9
+1. Name:  Isunakinra
+2. Groups:  Investigational
+3. Description:  Isunakinra has been investigated for the treatment of Dry Eye and Allergic Conjunctivitis (AC).
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Ribavirin
+2. Groups:  Approved
+3. Description:  Producing a broad-spectrum activity against several RNA and DNA viruses, Ribavirin is a synthetic guanosine nucleoside and antiviral agent that interferes with the synthesis of viral mRNA. It is primarily indicated for use in treating hepatitis C and viral hemorrhagic fevers. HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [10]. It is reported that ribavirin might be only effective in early stages of viral hemorrhagic fevers including Lasser fever, Crimean-Congo hemorrhagic fever, Venezuelan hemorrhagic fever, and Hantavirus infection. Ribavirin is a prodrug that is metabolized into nucleoside analogs that blocks viral RNA synthesis and viral mRNA capping. Before the development of newer drugs, ribavirin and Peginterferon alfa-2a/Peginterferon alfa-2b dual therapy was considered the first-generation and standard antiviral treatment [5]. The dual therapy was administered for 48 weeks in patients with genotype 1, 4, 5, and 6, and 24 weeks in patients with genotype 2 and 3 [5]. Newer drugs developed as Hepatitis C viral infection treatments can be used to reduce or eliminate the use of ribavirin, which are associated with serious adverse effects. They also improve therapeutic efficacy in patients with failed Peginterferon alfa-2a/Peginterferon alfa-2b and ribavirin-based therapy. The potential use of ribavirin as a treatment for acute myeloid leukemia is currently under investigation.According to 2017 American Association for the Study of Liver Diseases (AASLD) and 2015 consensus guidelines from the Canadian Association for the Study of the Liver (CASL), ribavirin is typically used as an adjunct therapy to various first-line and second-line combination therapies recommended for each genotypes. Ribavirin is added to decrease relapse rates by accelerating viral clearance early in the treatment course [7]. When used to treat Hepatitis C virus (HCV) infections, it is always used as a part of combination therapies as ribavirin monotherapy is not efficacious in the treatment of chronic hepatitis C infection [6]. Additionally, including ribavirin in the regimen can increase the risk of anemia. In HCV genotye 1/2/3/4/5/6 patients, ribavirin can be used in combination therapy involving Daclatasvir and Sofosbuvir, Eplusa (Sofosbuvir, Velpatasvir), Harvoni (Sofosbuvir, Ledipasvir), Simeprevir and Sofosbuvir, Viekira Pak (Ombitasvir, Paritaprevir, Ritonavir, Dasabuvir), Technivie (Ritonavir, Ombitasvir, Paritaprevir) and Zepatier (Elbasvir, Grazoprevir). Addition of weight-based ribavirin to Technivie therapy increased sustained virologic response after 12 weeks of daily therapy (SVR12) from 90% to 97% in patients with HCV genotype 1a and 90.9% to 100% in HCV genotype 4 patients [10]. Zepatier therapy along with ribavirin improved SVR in HCV genotype 5 patients. Combination therapy of ribavirin and Peginterferon alfa-2a results in the SVR of 44% in patients with genotype 1 infection and 70% in patients with genotype 2-6. The inclusion of ribavirin in the combination therapies depend on individual patient's profile, for example if HCV genotype 3 patient has a Y93H genetic variant and compensated cirrhosis.
+4. Indication:  Indicated for the treatment of chronic Hepatitis C virus (HCV) infection in combination with other antiviral agents with the intent to cure or achieve a sustained virologic response (SVR). Typically added to improve SVR and reduce relapse rates [6].The addition of ribavirin in Technivie therapy indicated for treating HCV genotype 1a and 4 infections is recommended in patients with or without cirrhosis. Resistance: viral genetic determinants resulting in variable response to ribavirin therapy has not been yet determined. 
+DrugId:  11
+1. Name:  Colchicine
+2. Groups:  Approved
+3. Description:  A major alkaloid from Colchicum autumnale L. and found also in other Colchicum species. Its primary therapeutic use is in the treatment of gout, but it has been used also in the therapy of familial Mediterranean fever (periodic disease). [PubChem]
+4. Indication:  For treatment and relief of pain in attacks of acute gouty arthritis.
+DrugId:  12
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  13
+1. Name:  Auriclosene
+2. Groups:  Investigational
+3. Description:  Auriclosene has been used in trials studying the treatment of Impetigo, Bacterial Conjunctivitis, Asymptomatic Bacteriuria, and Adenoviral Conjunctivitis.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Anagrelide
+2. Groups:  Approved
+3. Description:  Anagrelide is a drug used for the treatment of essential thrombocytosis (ET; essential thrombocythemia). It also has been used in the treatment of chronic myeloid leukemia. [Wikipedia]
+4. Indication:  For the treatment of patients with thrombocythemia, secondary to myeloproliferative disorders, to reduce the elevated platelet count and the risk of thrombosis and to ameliorate associated symptoms including thrombo-hemorrhagic events.
+DrugId:  15
+1. Name:  Chlorzoxazone
+2. Groups:  Approved
+3. Description:  A centrally acting central muscle relaxant with sedative properties. It is claimed to inhibit muscle spasm by exerting an effect primarily at the level of the spinal cord and subcortical areas of the brain. (From Martindale, The Extra Pharmacopoea, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute painful musculoskeletal conditions.
+DrugId:  16
+1. Name:  Asparaginase Erwinia chrysanthemi
+2. Groups:  Approved, Investigational
+3. Description:  Erwinaze (asparaginase Erwinia chrysanthemi) contains an asparaginase specific enzyme derived from Erwinia chrysanthemi [4]. Specifically, this L-asparaginase is a tetrameric enzyme consisting of four identical subunits, each having a molecular weight of about 35 kDa [4]. The activity of Erwinaze is expressed in terms of International Units. It is an antineoplastic agent and was FDA approved in November 19, 2011 [4].
+4. Indication:  Asparaginase Erwinia chrysanthemi is for the treatment of patients with acute lymphoblastic leukemia (ALL) that have developed a hypersensitivity to E. coli-derivied asparaginase [4]. It is a component of a multi-agent chemotherpeutic regimen [4] for the treatment of the aforementioned disease and is considered second- or third- line treatment in European and American protocols [1]. 
+DrugId:  17
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  18
+1. Name:  Fluorometholone
+2. Groups:  Approved, Investigational
+3. Description:  A glucocorticoid employed, usually as eye drops, in the treatment of allergic and inflammatory conditions of the eye. It has also been used topically in the treatment of various skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732)
+4. Indication:  For the ophthalmic treatment of corticosteroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe.
+DrugId:  19
+1. Name:  Levofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic fluoroquinolone (fluoroquinolones) antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication. [PubChem]
+4. Indication:  For the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species, Staphylococus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae, Streptococcus (Groups C/F/G), Viridans group streptococci, Acinetobacter lwoffii, Haemophilus influenzae, Serratia marcescens.
+DrugId:  20
+1. Name:  Oxymetazoline
+2. Groups:  Approved, Investigational
+3. Description:  A direct acting sympathomimetic used as a vasoconstrictor to relieve nasal congestion. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1251)
+4. Indication:  For treatment of nasal congestion and redness associated with minor irritations of the eye
+DrugId:  21
+1. Name:  Spaglumic Acid
+2. Groups:  Approved
+3. Description:  Spaglumic acid is the β-aspartyl isoform of N-Acetyl-l-aspartylglutamate (isospaglumic Acid is N-(N-Acetyl-l-α-aspartyl)-l-glutamic acid). In eye drops, spaglumic acid is either a magnesium or sodium salt of N-Acetyl-l-aspartylglutamate. Spaglumic acid is a mast cell stabilizer. Thus it is used in allergic conditions such as allergic conjunctivitis. Specifically spaglumic acid is approved in Portugal under the brand name Naabak and in Greece under the brand name Naaxia for use in patients with allergic conjunctivitis.
+4. Indication:  Used in patients with allergic conjunctivitis.
+DrugId:  22
+1. Name:  Transcrocetinate
+2. Groups:  Investigational
+3. Description:  Vitamin A-analog that increases diffusivity of oxygen in aqueous solutions, including plasma.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), hemorrhage, hypoxia, respiratory failure, and strokes.
+DrugId:  23
+1. Name:  NOX-100
+2. Groups:  Investigational
+3. Description:  NOX-100 is the new nitric oxide (NO) neutralizing agent being developed by San Diego-based Medinox -- demonstrated its effectiveness and potential as a therapeutic to treat hemorrhagic shock. NOX-100 is the first in a series of proprietary NO neutralizing compounds Medinox is developing to bind and inactivate NO, a simple gas molecule that is a key biological messenger in the body.
+4. Indication:  Investigated for use/treatment in sepsis and septicemia.
+DrugId:  24
+1. Name:  Levocabastine
+2. Groups:  Approved, Investigational
+3. Description:  Levocabastine is a selective second-generation H1-receptor antagonist used for allergic conjunctivitis. Levocabastine was discovered at Janssen Pharmaceutica in 1979.
+4. Indication:  As an ophthalmic for the temporary relief of the signs and symptoms of seasonal allergic conjunctivitis. Also used as a nasal spray for allergic rhinitis.
+DrugId:  25
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available

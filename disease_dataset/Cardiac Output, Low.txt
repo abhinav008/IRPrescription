@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Practolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist that has been used in the emergency treatment of cardiac arrhythmias. [PubChem]
+4. Indication:  Used in the emergency treatment of cardiac arrhythmias.
+DrugId:  2
+1. Name:  Levosimendan
+2. Groups:  Approved, Investigational
+3. Description:  Levosimendan is a calcium sensitiser used in the management of acutely decompensated congestive heart failure. It increases the sensitivity of the heart to calcium, thus increasing cardiac contractility without a rise in intracellular calcium. Levosimendan exerts its effect by increasing calcium sensitivity of myocytes by binding to cardiac troponin C in a calcium-dependent manner. It also has a vasodilatory effect, by opening adenosine triphosphate (ATP)-sensitive potassium channels in vascular smooth muscle to cause smooth muscle relaxation.
+4. Indication:  For short term treatment of acutely decompensated severe chronic heart failure (CHF). Also being investigated for use/treatment in heart disease.
+DrugId:  3
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  4
+1. Name:  Mibefradil
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mibefradil was withdrawn from the market in 1998 because of potentially harmful interactions with other drugs.
+4. Indication:  For the treatment of angina and high blood pressure.
+DrugId:  5
+1. Name:  Labetalol
+2. Groups:  Approved
+3. Description:  Blocker of both alpha- and beta-adrenergic receptors that is used as an antihypertensive. [PubChem]
+4. Indication:  For the management of hypertension (alone or in combination with other classes of antihypertensive agents), as well as chronic stable angina pectoris and sympathetic overactivity syndrome associated with severe tetanus. Labetalol is used parenterally for immediate reduction in blood pressure in severe hypertension or in hypertensive crises when considered an emergency, for the control of blood pressure in patients with pheochromocytoma and pregnant women with preeclampsia, and to produce controlled hypotension during anesthesia to reduce bleeding resulting from surgical procedures.
+DrugId:  6
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  7
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.
+DrugId:  8
+1. Name:  Oxprenolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+4. Indication:  Used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+DrugId:  9
+1. Name:  Bisoprolol
+2. Groups:  Approved
+3. Description:  Bisoprolol is a cardioselective β1-adrenergic blocking agent used for secondary prevention of myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. Bisoprolol is structurally similar to metoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At lower doses (less than 20 mg daily), bisoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with daily doses of 20 mg or greater. Unlike propranolol and pindolol, bisoprolol does not exhibit membrane-stabilizing or sympathomimetic activity. Bisoprolol possesses a single chiral centre and is administered as a racemic mixture. Only l-bisoprolol exhibits significant β-blocking activity.
+4. Indication:  For management of heart failure, angina pectoris, and mild to moderate hypertension and for secondary prevention of myocardial infarction (MI). 
+DrugId:  10
+1. Name:  Metoprolol
+2. Groups:  Approved, Investigational
+3. Description:  Metoprolol is a cardioselective β1-adrenergic blocking agent used for acute myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. It may also be used for supraventricular and tachyarrhythmias and prophylaxis for migraine headaches. Metoprolol is structurally similar to bisoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At low doses, metoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with higher doses. Unlike propranolol and pindolol, metoprolol does not exhibit membrane-stabilizing or intrinsic sympathomimetic activity. Membrane-stabilizing effects are only observed at doses much higher than those needed for β-adrenergic blocking activity. Metoprolol possesses a single chiral centre and is administered as a racemic mixture.
+4. Indication:  For the management of acute myocardial infarction, angina pectoris, heart failure and mild to moderate hypertension. May be used to treat supraventricular and tachyarrhythmias and as prophylaxis for migraine headaches.
+DrugId:  11
+1. Name:  Methyldopa
+2. Groups:  Approved
+3. Description:  An alpha-2 adrenergic agonist that has both central and peripheral nervous system effects. Its primary clinical use is as an antihypertensive agent. [PubChem]
+4. Indication:  For use in the treatment of hypertension.
+DrugId:  12
+1. Name:  Dobutamine
+2. Groups:  Approved
+3. Description:  A beta-1 agonist catecholamine that has cardiac stimulant action without evoking vasoconstriction or tachycardia. It is proposed as a cardiotonic after myocardial infarction or open heart surgery.
+4. Indication:  For inotropic support in the short- term treatment of patients with cardiac decompensation due to depressed contractility resulting either from organic heart disease or from cardiac surgical procedures
+DrugId:  13
+1. Name:  Epoprostenol
+2. Groups:  Approved
+3. Description:  A prostaglandin that is a powerful vasodilator and inhibits platelet aggregation. It is biosynthesized enzymatically from prostaglandin endoperoxides in human vascular tissue. The sodium salt has been also used to treat primary pulmonary hypertension.
+4. Indication:  For the long-term intravenous treatment of primary pulmonary hypertension and pulmonary hypertension associated with the scleroderma spectrum of disease in NYHA Class III and Class IV patients who do not respond adequately to conventional therapy.
+DrugId:  14
+1. Name:  Debrisoquin
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic neuron-blocking drug similar in effects to guanethidine. It is also noteworthy in being a substrate for a polymorphic cytochrome P-450 enzyme. Persons with certain isoforms of this enzyme are unable to properly metabolize this and many other clinically important drugs. They are commonly referred to as having a debrisoquin 4-hydroxylase polymorphism. [PubChem]
+4. Indication:  For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.
+DrugId:  15
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  16
+1. Name:  Mephentermine
+2. Groups:  Approved
+3. Description:  A sympathomimetic agent with mainly indirect effects on adrenergic receptors. It is used to maintain blood pressure in hypotensive states, for example, following spinal anesthesia. Although the central stimulant effects of mephentermine are much less than those of amphetamine, its use may lead to amphetamine-type dependence. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1248)
+4. Indication:  Used to maintain blood pressure in hypotensive states.
+DrugId:  17
+1. Name:  Torasemide
+2. Groups:  Approved
+3. Description:  Torasemide (rINN) or torsemide (USAN) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. It is also used at low doses for the management of hypertension. It is marketed under the brand name Demadex. [Wikipedia]
+4. Indication:  For the treatment of edema associated with congestive heart failure, renal disease, or hepatic disease. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  18
+1. Name:  Doxapram
+2. Groups:  Approved, Vet approved
+3. Description:  A central respiratory stimulant with a brief duration of action. (From Martindale, The Extra Pharmocopoeia, 30th ed, p1225)
+4. Indication:  For use as a temporary measure in hospitalized patients with acute respiratory insufficiency superimposed on chronic obstructive pulmonary disease.
+DrugId:  19
+1. Name:  Hydralazine
+2. Groups:  Approved
+3. Description:  A direct-acting vasodilator that is used as an antihypertensive agent.
+4. Indication:  For the treatment of essential hypertension, alone or as an adjunct. Also for the management of severe hypertension when the drug cannot be given orally or when blood pressure must be lowered immediately, congestive heart failure (in combination with cardiac glycosides and diuretics and/or with isosorbide dinitrate), and hypertension secondary to pre-eclampsia/eclampsia.
+DrugId:  20
+1. Name:  Tolazoline
+2. Groups:  Approved, Vet approved
+3. Description:  A vasodilator that apparently has direct actions on blood vessels and also increases cardiac output. Tolazoline can interact to some degree with histamine, adrenergic, and cholinergic receptors, but the mechanisms of its therapeutic effects are not clear. It is used in treatment of persistent pulmonary hypertension of the newborn. [PubChem]
+4. Indication:  For the treatment of pulmonary artery anomalies
+DrugId:  21
+1. Name:  Calcium Chloride
+2. Groups:  Approved
+3. Description:  Calcium chloride is an ionic compound of calcium and chlorine. It is highly soluble in water and it is deliquescent. It is a salt that is solid at room temperature, and it behaves as a typical ionic halide. It has several common applications such as brine for refrigeration plants, ice and dust control on roads, and in cement. It can be produced directly from limestone, but large amounts are also produced as a by-product of the Solvay process. Because of its hygroscopic nature, it must be kept in tightly-sealed containers. [Wikipedia]
+4. Indication:  For the treatment of hypocalcemia in those conditions requiring a prompt increase in blood plasma calcium levels, for the treatment of magnesium intoxication due to overdosage of magnesium sulfate, and used to combat the deleterious effects of hyperkalemia as measured by electrocardiographic (ECG), pending correction of the increased potassium level in the extracellular fluid.
+DrugId:  22
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  23
+1. Name:  Betahistine
+2. Groups:  Approved, Investigational
+3. Description:  Betahistine is an antivertigo drug first used for treating vertigo assosicated with Ménière's disease. It is also commonly used for patients with balance disorders.
+4. Indication:  For the reduction of episodes of vertigo association with Ménière's disease.
+DrugId:  24
+1. Name:  Isosorbide Dinitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator used in the treatment of angina pectoris. Its actions are similar to nitroglycerin but with a slower onset of action. [PubChem]
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease.
+DrugId:  25
+1. Name:  Arotinolol
+2. Groups:  Investigational
+3. Description:  Arotinolol is an alpha- and beta-receptor blocker developed in Japan. It is a thiopropanolamine with a tertiary butyl moiety. It has been studied for its potential to be an antihypertensive therapy.[6] Artinolol is being developed by Sumitomo Pharmaceutical Co., Ltd. and it is currently under clinical trials.[10]
+4. Indication:  Artinolol was introduced to be used as an antihypertensive agent since 1986.[7] It has been studied for other functions like tremor control for patients with Parkinson disease and it is currently in clinical trials for its use in the control of blood pressure and heart rate.[10]

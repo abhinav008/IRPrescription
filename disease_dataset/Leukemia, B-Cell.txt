@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Inebilizumab
+2. Groups:  Investigational
+3. Description:  Inebilizumab has been used in trials studying the treatment of Blood Cancer, B-cell Malignancies, Advanced B Cell Malignancies, Chronic Lymphocytic Leukemia (CLL), and Diffuse Large B-Cell Lymphoma (DLBCL).
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Samalizumab
+2. Groups:  Investigational
+3. Description:  Samalizumab has been used in trials studying the treatment of Multiple Myeloma and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Epratuzumab
+2. Groups:  Investigational
+3. Description:  Epratuzumab is a humanized monoclonal antibody derived from the murine IG2a monotclonal antibody, LL2 (EPB-2). Potential uses may be found in oncology and in treatment of inflammatory autoimmune disorders, such as lupus (SLE).
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid), lymphoma (non-hodgkin's), and systemic lupus erythematosus.
+DrugId:  7
+1. Name:  Alemtuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized monoclonal antibody specific to lymphocyte antigens. It is a recombinant DNA-derived humanized monoclonal antibody (Campath-1H) that is directed against the 21-28 kD cell surface glycoprotein,CD52. The Campath-1H antibody is an IgG1 kappa with human variable framework and constant regions, and complementarity-determining regions from a murine (rat) monoclonal antibody (Campath-1G). Campath is produced in mammalian cell (Chinese hamster ovary) suspension culture in a medium containing neomycin.
+4. Indication:  Alemtuzumab (Campath) is a monoclonal antibody therapy used for treatment of B-cell chronic lymphocytic leukemia.
+DrugId:  8
+1. Name:  Atacicept
+2. Groups:  Investigational
+3. Description:  Atacicept is a recombinant fusion protein combined with the extracellular ligand binding portion of TACI.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, systemic lupus erythematosus, rheumatoid arthritis, multiple myeloma, lymphoma (non-hodgkin's), and leukemia (lymphoid).
+DrugId:  9
+1. Name:  Lucatumumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid), multiple myeloma, and lymphoma (unspecified).
+DrugId:  10
+1. Name:  Ofatumumab
+2. Groups:  Approved
+3. Description:  Ofatumumab is a human monoclonal antibody for the CD20 protein. Ofatumumab binds specifically to both the small and large extracellular loops of the CD20 molecule. The CD20 molecule is expressed on normal B lymphocytes (pre-B- to mature B-lymphocyte) and on B-cell CLL. The Fab domain of ofatumumab binds to the CD20 molecule and the Fc domain mediates immune effector functions to result in B-cell lysis in vitro. Ofatumumab received FDA approval on April 17, 2014, for use in combination with chlorambucil, for the treatment of previously untreated patients with CLL for whom fludarabine-based therapy is considered inappropriate. Ofatumumab was also approved by Health Canada on August 13th, 2012. 
+4. Indication:  Ofatumumab is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL) refractory to fludarabine and alemtuzumab.
+DrugId:  11
+1. Name:  AT9283
+2. Groups:  Investigational
+3. Description:  AT9283 is an aurora Kinase inhibitor developed by Astex Therapeutics for the treatment of cancer. It was discovered and developed internally using Astex’s fragment-based drug discovery platform, Pyramid.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), leukemia (myeloid), and solid tumors.
+DrugId:  12
+1. Name:  Tisagenlecleucel
+2. Groups:  Approved, Investigational
+3. Description:  Tisagenlecleucel is a CD19-directed genetically modified autologous T cell immunotherapy, or a CAR-T cell therapy for B-cell acute lymphoblastic leukemia. It was granted approval by FDA in August 2017 under the market name Kymriah. Tisagenlecleucel is an immunocellular therapy that involves autologous T cells that are collected from each individual patient and genetically engineered to express a specific protein called a chimeric antigen receptor (CAR) that specifically target CD19 antigens. Modified T cells are infused back into the patient's body. These CD19-directed chimeric antigen receptors (CD19 CAR-T cells) direct the T cells to targt and kill leukiemia cells that express a specific antigen (CD19) on the cell surface.In a multicenter clinical trial involving pediatric and young adult patients with relapsed or refractory B-cell precursor ALL, the overall remission rate within three months of treatment was 83 percent [4].
+4. Indication:  Indicated for the treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse [FDA Label]. 
+DrugId:  13
+1. Name:  Dacetuzumab
+2. Groups:  Investigational
+3. Description:  Dacetuzumab has been used in trials studying the treatment of Multiple Myeloma, Non-Hodgkin Lymphoma, Leukemia, Lymphocytic, Chronic, and Lymphoma, Large B-Cell, Diffuse. It is a humanized anti-CD40 antibody and induces cytotoxicity in human multiple myeloma cells.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and multiple myeloma.
+DrugId:  14
+1. Name:  AGRO100
+2. Groups:  Investigational
+3. Description:  AGRO100 is an oligonucleotide that functions as an aptamer and binds to nucleolin, a protein found intranuclear in all cells, but uniquely expressed on the surface of tumor cells. Such binding leads to internalization of the complex, and a strong anti-proliferative response in the tumor cell.Pre-clinical testing demonstrates that the AGRO100 inhibition of nucleolin function produces anti-cancer effects against multiple types of the disease, including lung, prostate, breast, cervical, and colon cancer, as well as malignant melanoma and leukemia.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), kidney cancer, leukemia (myeloid), and pancreatic cancer.
+DrugId:  15
+1. Name:  Apolizumab
+2. Groups:  Investigational
+3. Description:  Apolizumab is a humanized monoclonal antibody that is being studied as a treatment for hematologic cancers.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's), leukemia (lymphoid), and solid tumors.
+DrugId:  16
+1. Name:  Forodesine
+2. Groups:  Investigational
+3. Description:  Forodesine is a highly potent, orally active, rationally designed PNP inhibitor that has shown activity in preclinical studies with malignant cells and clinical utility against T-cell acute lymphoblastic leukemia and cutaneous T-cell lymphoma. Additional preliminary findings support its use for the management of some B-cell malignancies.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and leukemia (lymphoid).
+DrugId:  17
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  18
+1. Name:  XL228
+2. Groups:  Investigational
+3. Description:  XL228 is a novel anticancer compound designed to inhibit the insulin-like growth factor type-1 receptor (IGF1R), Src and Abl tyrosine kinases – targets that play crucial roles in cancer cell proliferation, survival and metastasis.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and leukemia (myeloid).
+DrugId:  19
+1. Name:  Daporinad
+2. Groups:  Investigational
+3. Description:  Daporinad has been used in trials studying the treatment of Melanoma, Cutaneous T-cell Lymphoma, and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Rituximab
+2. Groups:  Approved
+3. Description:  Rituxan is a genetically engineered chimeric murine/human monoclonal antibody directed against the CD20 antigen found on the surface of normal and malignant B lymphocytes. The antibody is an IgG1 kappa immunoglobulin containing murine light- and heavy-chain variable region sequences and human constant region sequences. Rituximab is composed of two heavy chains of 451 amino acids and two light chains of 213 amino acids
+4. Indication:  For treatment of CD20-positive non-Hodgkins lymphoma, chronic lymphocytic leukemia, and rheumatoid arthritis.
+DrugId:  21
+1. Name:  Pentostatin
+2. Groups:  Approved, Investigational
+3. Description:  A potent inhibitor of adenosine deaminase. The drug is effective in the treatment of many lymphoproliferative malignancies, particularly hairy-cell leukemia. It is also synergistic with some other antineoplastic agents and has immunosuppressive activity. [PubChem]
+4. Indication:  For the treatment of hairy cell leukaemia refractory to alpha interferon.
+DrugId:  22
+1. Name:  Ibrutinib
+2. Groups:  Approved
+3. Description:  Ibrutinib is a small molecule that acts as an irreversible potent inhibitor of Burton's tyrosine kinase. It is designated as a targeted covalent drug and it presents a very promising activity in B cell malignancies.[4] Ibrutinib was developed by Pharmacyclics Inc and in November 2013 was FDA-approved for the treatment of mantle cell lymphoma. Later, in February 2014, ibrutinib was approved for the treatment of chronic lymphocytic leukemia and it is also indicated for the treatment of patients with Waldenström's Macroglobulinemia.[13] Ibrutinib has also been approved by the EMA for the treatment of chronic lymphocytic leukemia and mantle cell lymphoma.[4] Ibrutinib was approved for use in chronic graft versus host disease in August 2017 [12].
+4. Indication:  Ibrutinib acquired an accelerated approval for the treatment of mantle cell lymphoma who have received at least one prior therapy.[FDA Label] Mantle cell lymphoma (MCL) is a B-cell non-Hodgkin lymphoma that develops in the outer edge of a lymph node. MCL is usually diagnosed at late stages and it is easily spread into bone marrow, spleen, liver and gastrointestinal tract.[14]Ibrutinib is indicated for the treatment of chronic lymphocytic leukemia (CLL) who have at least one prior therapy.[FDA Label] CLL is a type of cancer caused by an overproduction of lymphocytes by the bone marrow. Some of the symptoms include swollen lymph nodes and tiredness.[15]Ibrutinib is indicated for the treatment of chronic lymphocytic leukemia (CLL) with 17p deletion.[FDA Label] CLL with 17p is a type of leukemia in which a deletion in 17p disrupts the tumor suppressor p53 by deleting one allele of the TP53 gene. The remaining allele is mainly inactivated and thus, this type of leukemia is unresponsive to p53-dependent treatments.[5]Ibrutinib is indicated for the treatment of patients with Waldenstrom's Macroglobulinemia (WM).[FDA Label] WM, also called lymphoplasmacytic lymphoma, is a type of non-Hodgkin lymphoma in which the cancer cells make large amounts of macroglobulin. The macroglobulin is a monoclonal protein that corresponds to the type of IgM antibodies and the unrestricted formation of this protein causes typical symptoms such as excessive bleeding and effects in vision and nervous system.[16]
+DrugId:  23
+1. Name:  AGS-005
+2. Groups:  Investigational
+3. Description:  AGS-005 is a personalized dendritic cell-based immunotherapy, with optimized immune response characteristics, that is designed to stimulate the patient's immune system to target and destroy the patient's cancer cells.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  24
+1. Name:  Monalizumab
+2. Groups:  Investigational
+3. Description:  Monalizumab has been used in trials studying the treatment of Gynecologic Cancer, Chronic Lymphocytic Leukemia, and Squamous Cell Carcinoma of the Oral Cavity.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Spebrutinib
+2. Groups:  Investigational
+3. Description:  Spebrutinib has been used in trials studying the treatment of Rheumatoid Arthritis, Lymphoma, Large B-Cell, Diffuse, and Leukemia Lymphocytic Chronic B-Cell.
+4. Indication:  Not Available

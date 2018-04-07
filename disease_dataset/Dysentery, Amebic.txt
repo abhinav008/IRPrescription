@@ -1,0 +1,25 @@
+DrugId:  1
+1. Name:  Ipecacuanha
+2. Groups:  Approved, Experimental
+3. Description:  Ipecacuanha was first discovered in Brazil in the 1600s. It is derived from the plant Cephaelis ipecacuanha and is known to releases 5-hydroxytryptamin to induce nausea and vomiting. Although it is not currently used in clinical practice, ipecacuanha was used to treat flux (dysentery).
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Tannic acid
+2. Groups:  Approved
+3. Description:  Tannic acid is a polyphenolic compound. It is a type of the commercially available tannins. It acts as a weak acid. Tannic acid is found in the nutgalls formed by insects on twigs of certain oak trees (Quercus infectoria and other Quercus species). It is removed and used as medicine. In the old days it was used as antidote against different poisons.Nowadays, tannic acid is applied topically for the treatment of cold sores, diaper rash, fever blisters and poison ivy. Tannic acid is also taken by mouth and applied directly for bleeding, chronic diarrhea, dysentery, bloody urine, painful joints, persistent coughs, and cancer.
+4. Indication:  Tannic acid is indicated for cold sores, fever blisters, diaper rash, minor burn or sunburn and prickly heat.Vaginally, tannic acid is used as a douche for leukorrhea. It has been also indicated for sore throat, inflamed tonsils, spongy or receding gums, and acute dermatitis.
+DrugId:  3
+1. Name:  Miltefosine
+2. Groups:  Approved, Investigational
+3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  4
+1. Name:  Tinidazole
+2. Groups:  Approved, Investigational
+3. Description:  A nitroimidazole antitrichomonal agent effective against Trichomonas vaginalis, Entamoeba histolytica, and Giardia lamblia infections. [PubChem]
+4. Indication:  For the treatment of trichomoniasis caused by T. vaginalis in both female and male patients. Also for the treatment of giardiasis caused by G. duodenalis in both adults and pediatric patients older than three years of age and for the treatment of intestinal amebiasis and amebic liver abscess caused by E. histolytica in both adults and pediatric patients older than three years of age.
+DrugId:  5
+1. Name:  Chloroquine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  The prototypical antimalarial agent with a mechanism that is not well understood. It has also been used to treat rheumatoid arthritis, systemic lupus erythematosus, and in the systemic therapy of amebic liver abscesses.
+4. Indication:  For the suppressive treatment and for acute attacks of malaria due to P. vivax, P.malariae, P. ovale, and susceptible strains of P. falciparum, Second-line agent in treatment of Rheumatoid Arthritis

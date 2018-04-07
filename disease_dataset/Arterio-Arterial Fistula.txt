@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lenvatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFRα), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers.Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.
+4. Indication:  Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer.
+DrugId:  2
+1. Name:  Peginesatide
+2. Groups:  Approved, Investigational
+3. Description:  Peginesatide is a synthetic peptide attached to polyethylene glycol for the treatment of anemia. The polyethylene glycol moiety helps make the drug less immunogenic and prolongs its plasma half-life. Chemically, peginesatide is designed to mimic the pharmacological activity of erythropoietin, but is not a replica of the structure itself. Peginesatide consists of two 21-amino acid chains that are covalently bonded by a linker derived from iminodiacetic acid and β-alanine. FDA approved March 27, 2012.
+4. Indication:  Peginesatide is used for the treatment of anemia due to chronic kidney disease (CKD) in adult patients on dialysis 
+DrugId:  3
+1. Name:  APD791
+2. Groups:  Investigational
+3. Description:  APD791 is an oral anti-thrombotic drug candidate being evaluated in a Phase 1 clinical trial by Arena. APD791 is intended to lower the risk of arterial thrombosis by reducing the amplification of platelet aggregation, arterial constriction and intimal hyperplasia mediated by serotonin.
+4. Indication:  For the treatment and prophylaxis of arterial thrombosis.
+DrugId:  4
+1. Name:  Almitrine
+2. Groups:  Approved
+3. Description:  A respiratory stimulant that enhances respiration by acting as an agonist of peripheral chemoreceptors located on the carotid bodies. The drug increases arterial oxygen tension while decreasing arterial carbon dioxide tension in patients with chronic obstructive pulmonary disease. It may also prove useful in the treatment of nocturnal oxygen desaturation without impairing the quality of sleep. [PubChem]
+4. Indication:  For the treatment of chronic obstructive pulmonary disease.
+DrugId:  5
+1. Name:  Infliximab
+2. Groups:  Approved
+3. Description:  Infliximab is a tumor necrosis factor (TNF-alpha or TNF-α) blocker and a chimeric monoclonal IgG1 antibody composed of human constant (75%) and murine variable (25%) regions [3]. Infliximab is produced by a recombinant cell line cultured by continuous perfusion. Tumor necrosis factor-alpha (TNF-α) is a key proinflammatory cytokine involved in chronic inflammatory diseases [3]. Its hyperactivity and enhanced signalling pathways can be observed in inflammatory diseases where it activates further pro-inflammatory cascades. By binding to both the soluble subunit and the membrane-bound precursor of TNF-α [1], infliximab disrupts the interaction of TNF-α with its receptors and may also cause lysis of cells that produce TNF-α [1].Infliximab was first approved by the FDA in 1998 under the market name Remicade as an intravenous injection. It is indicated for the treatment of various inflammatory disorders such as adult or pediatric Chron's disease, adult or pediatric ulcerative colitis, rheumatoid arthritis in combination with methotrexate, ankylosing spondyliti, psoriatic arthritis, and plaque psoriasis [FDA Label]. In clinical trials, multiple infusions of infliximab displayed in a reduction of signs and symptoms of inflammatory diseases and induction of remission in patients who have had an inadequate response to alternative first-line therapies for that disorder [FDA Label]. There are currently two biosilimars of infliximab available in the US market that demonstrate a high degree of similarity to the reference product, Remicade. They are approved for all eligible indications of the reference product. Inflectra, a first biosimilar drug product, was approved in 2016. In December 2017, Ixifi, a second biosimilar that was developed by Pfizer, was granted approval by the FDA.
+4. Indication:  Indicated for reducing signs and symptoms and inducing and maintaining clinical remission in adult or pediatric (≥ 6 years of age) patients with moderately to severely active Crohn’s disease who have had an inadequate response to conventional therapyIndicated for reducing the number of draining enterocutaneous and rectovaginal fistulas and maintaining fistula closure in adult patients with fistulizing Crohn’s disease. Indicated for reducing signs and symptoms, inducing and maintaining clinical remission and mucosal healing, and eliminating corticosteroid use in adult or pediatric (≥ 6 years of age) patients with moderately to severely active ulcerative colitis who have had an inadequate response to conventional therapy. Indicated for, in combination with methotrexate, reducing signs and symptoms, inhibiting the progression of structural damage, and improving physical function in patients with moderately to severely active rheumatoid arthritis. Indicated for reducing signs and symptoms in patients with active ankylosing spondylitis. Indicated for reducing signs and symptoms of active arthritis, inhibiting the progression of structural damage, and improving physical function in patients with psoriatic arthritis. Indicated for the treatment of adult patients with chronic severe (i.e., extensive and/or disabling) plaque psoriasis who are candidates for systemic therapy and when other systemic therapies are medically less appropriate.
+DrugId:  6
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  7
+1. Name:  Inclacumab
+2. Groups:  Investigational
+3. Description:  Inclacumab has been used in trials studying the treatment and prevention of Myocardial Infarction, Peripheral Arterial Disease (PAD), and Coronary Heart Disease, Graft Occlusion, Vascular.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Plozalizumab
+2. Groups:  Investigational
+3. Description:  Plozalizumab has been investigated for the treatment of Atherosclerosis. Plozalizumab, a novel humanized monoclonal antibody, specifically targets CCR2 chemokine receptors found on the surface of certain white blood cells including macrophages and monocytes. Preclinical studies suggest that CCR2 plays an important role in the trafficking of monocytes and macrophages to sites of inflammation. The recruitment of macrophages to the arterial wall is believed to be a critical step in the development of atherosclerosis.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  VLTS-589
+2. Groups:  Investigational
+3. Description:  VLTS-589 consists of plasmid encoding the angiomatrix protein Del-1 in conjunction with poloxamer 188 for the treatment of peripheral vascular disease.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease.
+DrugId:  10
+1. Name:  trans NV-04
+2. Groups:  Investigational
+3. Description:  trans NV-04 is a cardiovascular drug which shows a significant reduction in blood pressure and arterial stiffness.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and hypertension.
+DrugId:  11
+1. Name:  Iloprost
+2. Groups:  Approved, Investigational
+3. Description:  Iloprost is a synthetic analogue of prostacyclin PGI2. Iloprost dilates systemic and pulmonary arterial vascular beds. It is used to treat pulmonary arterial hypertension (PAH).
+4. Indication:  Used for the treatment of pulmonary arterial hypertension.
+DrugId:  12
+1. Name:  Caplacizumab
+2. Groups:  Investigational
+3. Description:  ALX-0081 is a novel ‘first-in-class’ therapeutic Nanobody®targeting von Willebrand Factor (vWF), which can reduce the risk of thrombosis in patients with acute coronary syndrome. ALX-0081 is intended to prevent arterial thrombosis, without interfering with the desired haemostatis (wound healing) in the patient which results in less bleeding complications.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.
+DrugId:  13
+1. Name:  Ambrisentan
+2. Groups:  Approved, Investigational
+3. Description:  Ambrisentan is an orally active selective type A endothelin receptor antagonist indicated for the treatment of pulmonary arterial hypertension. It is approved in Europe, Canada and the United States for use as a single agent to improve exercise ability and delay clinical worsening. In addition, it is approved in the United States for use in combination with tadalafil to reduce the risks of disease progression, hospitalization and to improve exercise ability. Studies establishing the efficacy of Ambrisentan included patients with both idiopathic or heritable pulmonary arterial hypertension and those with pulmonary arterial hypertension associated with connective tissue diseases. Patients studied displayed symptoms and etiologies predominantly of WHO Functional Class II-III. As an endothelin receptor antagonist, Ambrisentan prevents endogenous endothelin peptide from constricting the muscles in blood vessels, allowing them to relax and permit a reduction in blood pressure.
+4. Indication:  Ambrisentan is indicated for treatment of idiopathic (‘primary’) pulmonary arterial hypertension (IPAH) and pulmonary arterial hypertension (PAH) associated with connective tissue disease in patients with WHO functional class II or III symptoms. In the United States of America, ambrisentan is also indicated in combination with tadalafil to reduce the risks of disease progression and hospitalization for worsening PAH, and to improve exercise ability.
+DrugId:  14
+1. Name:  TBC-3711
+2. Groups:  Investigational
+3. Description:  TBC3711 is a next-generation endothelin antagonist that is being studied through oral and intravenous formulations by Encysive Pharmaceuticals.
+4. Indication:  Investigated for use/treatment in congestive heart failure, hypertension, and pulmonary hypertension.
+DrugId:  15
+1. Name:  ETC-588
+2. Groups:  Investigational
+3. Description:  ETC-588, or LUV (large unilamellar vesicles), is made of naturally occurring lipids that circulate through arteries to facilitate the role of high-density lipoprotein (HDL) in removing accumulated cholesterol and other lipids from cells including those in the arterial wall. LUV are capable of transporting excess cholesterol from the vasculature to the liver for eventual elimination as part of the reverse lipid transport (RLT) pathway. It is believed that the removal of cholesterol by ETC-588 through this pathway may result in the reversal of atherosclerosis. Esperion is currently developing ETC-588 as a treatment for patients with acute coronary syndromes.
+4. Indication:  Investigated for use/treatment in atherosclerosis, coronary artery disease, and vascular diseases.
+DrugId:  16
+1. Name:  OPC-28326
+2. Groups:  Investigational
+3. Description:  At low doses, OPC 28326 selectively vasodilates the femoral arterial bed due to its inhibitory action at alpha-2-adrenoceptors while having minimal action on systemic blood pressure, heart rate and coronary, carotid, vertebral, renal, and mesenteric blood flows. It is the only clinical compound with this profile. It is currently being investigated in the treatment of peripheral vascular diseases and Raynaud's syndrome.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease and raynaud's disease.
+DrugId:  17
+1. Name:  Isradipine
+2. Groups:  Approved, Investigational
+3. Description:  Isradipine belongs to the dihydropyridine (DHP) class of calcium channel blockers (CCBs), the most widely used class of CCBs. It is structurally related to felodipine, nifedipine, and nimodipine and is the most potent calcium-channel blocking agent of the DHP class. Isradipine binds to calcium channels with high affinity and specificity and inhibits calcium flux into cardiac and arterial smooth muscle cells. It exhibits greater selectivity towards arterial smooth muscle cells owing to alternative splicing of the alpha-1 subunit of the channel and increased prevalence of inactive channels in smooth muscle cells. Isradipine may be used to treat mild to moderate essential hypertension. 
+4. Indication:  For the management of mild to moderate essential hypertension. It may be used alone or concurrently with thiazide-type diuretics.
+DrugId:  18
+1. Name:  Ralinepag
+2. Groups:  Investigational
+3. Description:  Ralinepag has been used in trials studying the treatment of Pulmonary Arterial Hypertension.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Macitentan
+2. Groups:  Approved
+3. Description:  Macitentan was approved in October 2013. It is indicated for patients with pulmonary arterial hypertension, and is marketed under the brand name Opsumit. Macitentan is an antagonist/blocker of endothelin receptors on blood vessels and smooth muscle, and, thus, blocks the stimulation of vasculature hypertrophy, inflammation, fibrosis, proliferation, and vasoconstriction. Similar to all drugs acting on the renin-angiotensin system, macitentan is associated with embryo and fetal toxicity, so it should not be used in pregnancy and has special precautions that must be followed for all females of child-bearing age. 
+4. Indication:  Macitentan is indicated for patients with pulmonary arterial hypertension.
+DrugId:  20
+1. Name:  Cicletanine
+2. Groups:  Investigational
+3. Description:  Cicletanine is under investigation for the treatment of Diabetes, Hypokalemia, Hyponatremia, and Arterial Hypertension.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Patent Blue V
+2. Groups:  Approved
+3. Description:  Patent Blue V is a dark bluish synthetic triphenylmethane dye used as a food colouring. In Canada, it is an approved diagnostic agent used for marking 1) lymphatic vessels and arterial territories, and 2) sentinel lymph node prior to biopsy in patients with operable breast cancer and clinicallynegative lymph nodes in combination with a radiotracer.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Streptokinase
+2. Groups:  Approved, Investigational
+3. Description:  Streptokinase, is a sterile, purified preparation of a bacterial protein elaborated by group C (beta) -hemolytic streptococci.
+4. Indication:  For the treatment of acute evolving transmural myocardial infarction, pulmonary embolism, deep vein thrombosis, arterial thrombosis or emolism and occlusion of arteriovenous cannulae
+DrugId:  23
+1. Name:  Floxuridine
+2. Groups:  Approved
+3. Description:  An antineoplastic antimetabolite that is metabolized to fluorouracil when administered by rapid injection. Floxuridine is available as a sterile, nonpyrogenic, lyophilized powder for reconstitution. When administered by slow, continuous, intra-arterial infusion, it is converted to floxuridine monophosphate. It has been used to treat hepatic metastases of gastrointestinal adenocarcinomas and for palliation in malignant neoplasms of the liver and gastrointestinal tract. [PubChem]
+4. Indication:  For palliative management of gastrointestinal adenocarcinoma metastatic to the liver, when given by continuous regional intra-arterial infusion in carefully selected patients who are considered incurable by surgery or other means. Also for the palliative management of liver cancer (usually administered by hepatic intra-arterial infusion).
+DrugId:  24
+1. Name:  Selexipag
+2. Groups:  Approved
+3. Description:  Selexipag was approved by the United States FDA on December 22, 2015 for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization. PAH is a relatively rare disease with usually a poor prognosis requiring more treatment options to prolong long-term outcomes. Marketed by Actelion Pharmaceuticals under brand name Uptravi, selexipag and its active metabolite, ACT-333679 (MRE-269), act as agonists of the prostacyclin receptor to increase vasodilation in the pulmonary circulation and decrease elevated pressure in the blood vessels supplying blood to the lungs. 
+4. Indication:  Selexipag is indicated for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization.
+DrugId:  25
+1. Name:  Clevidipine
+2. Groups:  Approved, Investigational
+3. Description:  Clevidipine is a dihydropyridine L-type calcium channel blocker that is selective for vascular smooth muscle and is indicated for blood pressure reduction when oral therapy is not an option. 
+4. Indication:  For the treatment of hypertension.

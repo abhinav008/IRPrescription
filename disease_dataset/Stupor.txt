@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Tiagabine
+2. Groups:  Approved, Investigational
+3. Description:  Tiagabine is an anti-convulsive medication. It is also used in the treatment for panic disorder as are a few other anticonvulsants. Though the exact mechanism by which tiagabine exerts its effect on the human body is unknown, it does appear to operate as a selective GABA reuptake inhibitor.
+4. Indication:  For the treatment of partial seizures
+DrugId:  2
+1. Name:  Trimipramine
+2. Groups:  Approved
+3. Description:  Tricyclic antidepressant similar to imipramine, but with more antihistaminic and sedative properties. [PubChem]
+4. Indication:  For the treatment of depression and depression accompanied by anxiety, agitation or sleep disturbance
+DrugId:  3
+1. Name:  Cyclobenzaprine
+2. Groups:  Approved
+3. Description:  Cyclobenzaprine is a skeletal muscle relaxant and a central nervous system (CNS) depressant. Cyclobenzaprine acts on the locus coeruleus where it results in increased norepinephrine release, potentially through the gamma fibers which innervate and inhibit the alpha motor neurons in the ventral horn of the spinal cord. It is structurally similar to Amitriptyline, differing by only one double bond.
+4. Indication:  For use as an adjunct to rest and physical therapy for relief of muscle spasm associated with acute, painful musculoskeletal conditions.
+DrugId:  4
+1. Name:  Diflunisal
+2. Groups:  Approved, Investigational
+3. Description:  Diflunisal, a salicylate derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with pharmacologic actions similar to other prototypical NSAIAs. Diflunisal possesses anti-inflammatory, analgesic and antipyretic activity. Though its mechanism of action has not been clearly established, most of its actions appear to be associated with inhibition of prostaglandin synthesis via the arachidonic acid pathway. Diflunisal is used to relieve pain accompanied with inflammation and in the symptomatic treatment of rheumatoid arthritis and osteoarthritis.
+4. Indication:  For symptomatic treatment of mild to moderate pain accompanied by inflammation (e.g. musculoskeletal trauma, post-dental extraction, post-episiotomy), osteoarthritis, and rheumatoid arthritis.
+DrugId:  5
+1. Name:  Sulindac
+2. Groups:  Approved, Investigational
+3. Description:  Sulindac is a nonsteroidal anti-inflammatory agent (NSAIA) of the arylalkanoic acid class that is marketed in the U.S. by Merck as Clinoril. Like other NSAIAs, it may be used in the treatment of acute or chronic inflammatory conditions. Sulindac is a prodrug, derived from sulfinylindene, that is converted in vivo to an active sulfide compound by liver enzymes. The sulfide metabolite then undergoes enterohepatic circulation; it is excreted in the bile and then reabsorbed from the intestine. This is thought to help maintain constant blood levels with reduced gastrointestinal side effects. Some studies have shown sulindac to be relatively less irritating to the stomach than other NSAIA's except for drugs of the cyclooxygenase-2 (COX-2) inhibitor class. The exact mechanism of its NSAIA properties is unknown, but it is thought to act on enzymes COX-1 and COX-2, inhibiting prostaglandin synthesis.
+4. Indication:  For acute or long-term use in the relief of signs and symptoms of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute painful shoulder (acute subacromial bursitis/supraspinatus tendinitis), and acute gouty arthritis.
+DrugId:  6
+1. Name:  Perphenazine
+2. Groups:  Approved
+3. Description:  An antipsychotic phenothiazine derivative with actions and uses similar to those of chlorpromazine. [PubChem]
+4. Indication:  For use in the management of the manifestations of psychotic disorders and for the control of severe nausea and vomiting in adults.
+DrugId:  7
+1. Name:  Morphine
+2. Groups:  Approved, Investigational
+3. Description:  The principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle. In January, 2017, morphine was approved for the treatment of chronic pain.
+4. Indication:  For the relief and treatment of severe pain.
+DrugId:  8
+1. Name:  Hydromorphone
+2. Groups:  Approved, Illicit
+3. Description:  An opioid analgesic derived from morphine and used mainly as an analgesic. It has a shorter duration of action and is more potent than morphine. [PubChem]
+4. Indication:  For the relief of moderate to severe pain such as that due to surgery, cancer, trauma/injury, or burns.
+DrugId:  9
+1. Name:  Oxymorphone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An opioid analgesic with actions and uses similar to those of morphine, apart from an absence of cough suppressant activity. It is used in the treatment of moderate to severe pain, including pain in obstetrics. It may also be used as an adjunct to anesthesia (From Martindale, The Extra Pharmacopoeia, 30th ed, p1092). On June 8, 2017, FDA requested Endo Pharmaceuticals to remove the medication from the market due to opioid misuse and abuse risks associated with the product's injectable reformulation.
+4. Indication:  For the treatment of moderate-to-severe pain.
+DrugId:  10
+1. Name:  Levothyroxine
+2. Groups:  Approved
+3. Description:  The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (monoiodotyrosine) and the coupling of iodotyrosines (diiodotyrosine) in the thyroglobulin. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form triiodothyronine which exerts a broad spectrum of stimulatory effects on cell metabolism.
+4. Indication:  For use alone or in combination with antithyroid agents to treat hypothyroidism, goiter, chronic lymphocytic thyroiditis, myxedema coma, and stupor.
+DrugId:  11
+1. Name:  Selenium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Selenium is a trace metal in the human body particularly important as a component of glutathione peroxidase, an important enzyme in the prevention of cellular damage by free radicals and reactive oxygen species [FDA Label]
+4. Indication:  For the supplementation of total parenteral nutrition to prevent hyposelenemia [FDA Label].
+DrugId:  12
+1. Name:  Enalapril
+2. Groups:  Approved, Vet approved
+3. Description:  Enalapril is a prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is rapidly metabolized in the liver to enalaprilat following oral administration. Enalaprilat is a potent, competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Enalapril may be used to treat essential or renovascular hypertension and symptomatic congestive heart failure.
+4. Indication:  For the treatment of essential or renovascular hypertension and symptomatic congestive heart failure. It may be used alone or in combination with thiazide diuretics.
+DrugId:  13
+1. Name:  Amitriptyline
+2. Groups:  Approved
+3. Description:  Amitriptyline hydrochloride is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA) and analgesic. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, amitriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, amitriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. Amitriptyline may be used to treat depression, chronic pain (unlabeled use), irritable bowel syndrome (unlabeled use), diabetic neuropathy (unlabeled use), post-traumatic stress disorder (unlabeled use), and for migraine prophylaxis (unlabeled use).
+4. Indication:  Indicated for the treatment of major depressive disorder in adultsIndicated for the management of neuropathic pain in adultsIndicated for the prophylactic treatment of chronic tension type headache (CTTH) in adultsIndicated for the prophylactic treatment of migraine in adultsIndicated for the the treatment of nocturnal enuresis in children aged 6 years and above when organic pathology, including spina bifida and related disorders, have been excluded and no response has been achieved to all other non-drug and drug treatments, including antispasmodics and vasopressin-related products. This medicinal product should only be prescribed by a healthcare professional with expertise in the management of persistent enuresis.-Other off-label uses include irritable bowel syndrome, sleep disorders, diabetic neuropathy, agitation and insomnia
+DrugId:  14
+1. Name:  Sertraline
+2. Groups:  Approved
+3. Description:  Sertraline hydrochloride belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). Despite distinct structural differences between compounds in this class, SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be required before a clinical effect is seen. SSRIs are potent inhibitors of neuronal serotonin reuptake [7]. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute use, SSRIs block serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The overall clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction and headache (see Toxicity section below for a more detailed listing of side effects). Compared to other agents in this class, sertraline may cause greater diarrheal and male sexual dysfunction effects [5]. Sertraline displays a better safety or tolerability profile than other classes of antidepressants [6]. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants or monoamine oxidase inhibitors [7]. Sertraline has shown therapeutic effectiveness as a treatment for major depressive disorder [1], obsessive-compulsive disorder (OCD) [2], panic disorder, post-traumatic stress disorder (PTSD) [3], premenstrual dysphoric disorder (PMDD) [4] and social anxiety disorder (social phobia).
+4. Indication:  For the management of major depressive disorder (MDD), posttraumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (PD) with or without agoraphobia, premenstrual dysphoric disorder (PMDD), and social anxiety disorder (SAD) [FDA Label]. It may be used for premature ejaculation and vascular headaches as off-label indications. 
+DrugId:  15
+1. Name:  Oxycodone
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Oxycodone is a semisynthetic derivative of codeine that acts as a narcotic analgesic more potent and addicting than codeine. An extended-release (ER) form of oxycodone (Xtampza ER) was approved for the management of daily, around-the-clock pain management in April, 2016.
+4. Indication:  For the treatment of diarrhoea, pulmonary oedema and for the relief of moderate to moderately severe pain.
+DrugId:  16
+1. Name:  Hydrocodone
+2. Groups:  Approved, Illicit
+3. Description:  Narcotic analgesic related to codeine, but more potent and more addicting by weight. It is used also as cough suppressant.
+4. Indication:  For relief of moderate to moderately severe pain. Also used for the symptomatic relief of nonproductive cough, alone or in combination with other antitussives or expectorants.

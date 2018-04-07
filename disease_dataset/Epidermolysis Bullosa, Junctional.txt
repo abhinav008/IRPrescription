@@ -1,0 +1,35 @@
+DrugId:  1
+1. Name:  CX501
+2. Groups:  Investigational
+3. Description:  Cx501 is used to treat epidermolysis bullosa (EB), a rare genetic condition which can lead to contraction of the joints, fusion of fingers and toes, contraction of the mouth membranes and narrowing of the oesophagus. It is developed by Cellerix and is in phase I of clinical trials.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  2
+1. Name:  Isoflurane
+2. Groups:  Approved, Vet approved
+3. Description:  A stable, non-explosive inhalation anesthetic, relatively free from significant side effects.
+4. Indication:  For induction and maintenance of general anesthesia.
+DrugId:  3
+1. Name:  Desflurane
+2. Groups:  Approved
+3. Description:  Desflurane is a highly fluorinated methyl ethyl ether used for maintenance of general anaesthesia. Volatile agents such as desflurane may activate GABA channels and hyperpolarize cell membranes. In addition, they may inhibit certain calcium channels and therefore prevent release of neurotransmitters and inhibit glutamate channels. Volatile anesthetics easily partition into cellular membranes and could expand the volume of the cell membrane and subsequently distort channels necessary for sodium ion flux and the development of action potentials necessary for synaptic transmission. Desflurane preconditions human myocardium against ischemia through activation of mitochondrial K(ATP) channels, adenosine A1 receptor, and alpha and beta adrenoceptors.
+4. Indication:  For use as an inhalation agent for induction and/or maintenance of anesthesia for inpatient and outpatient surgery in adults.
+DrugId:  4
+1. Name:  Methoxyflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An inhalation anesthetic. Currently, methoxyflurane is rarely used for surgical, obstetric, or dental anesthesia. If so employed, it should be administered with nitrous oxide to achieve a relatively light level of anesthesia, and a neuromuscular blocking agent given concurrently to obtain the desired degree of muscular relaxation. (From AMA Drug Evaluations Annual, 1994, p180)
+4. Indication:  For use in the induction and maintenance of general anesthesia
+DrugId:  5
+1. Name:  Lutein
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Lutein is an xanthophyll and one of 600 known naturally occurring carotenoids. Lutein is synthesized only by plants and like other xanthophylls is found in high quantities in green leafy vegetables such as spinach, kale and yellow carrots. In green plants, xanthophylls act to modulate light energy and serve as non-photochemical quenching agents to deal with triplet chlorophyll (an excited form of chlorophyll), which is overproduced at very high light levels, during photosynthesis.
+4. Indication:  Xanthophylls are taken for nutritional supplementation, and also for treating dietary shortage or imbalance.
+DrugId:  6
+1. Name:  Enflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An extremely stable inhalation anesthetic that allows rapid adjustments of anesthesia depth with little change in pulse or respiratory rate. [PubChem]
+4. Indication:  Used for the induction and maintenance of general anaesthesia during surgery and cesarean section and also used for analgesia during vaginal delivery.
+DrugId:  7
+1. Name:  Sevoflurane
+2. Groups:  Approved, Vet approved
+3. Description:  Sevoflurane (2,2,2-trifluoro-1-[trifluoromethyl]ethyl fluoromethyl ether), also called fluoromethyl, is a sweet-smelling, non-flammable, highly fluorinated methyl isopropyl ether used for induction and maintenance of general anesthesia. Together with desflurane, it is replacing isoflurane and halothane in modern anesthesiology. [Wikipedia]
+4. Indication:  Used for induction and maintenance of general anesthesia in adult and pediatric patients for inpatient and outpatient surgery.

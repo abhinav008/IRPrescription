@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Stannsoporfin
+2. Groups:  Investigational
+3. Description:  Stannsoporfin is a competitive heme oxygenase (HO) inhibitor being developed by InfaCare, a subsidiary of WellSpring Pharmaceuticals, for the prevention of hyperbilirubinemia in infants at risk of developing jaundice.
+4. Indication:  Investigated for use/treatment in liver disease, metabolic disease, and pediatric indications.
+DrugId:  2
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  3
+1. Name:  Oxyphenisatin
+2. Groups:  Investigational, Withdrawn
+3. Description:  A laxative that undergoes enterohepatic circulation. It may cause jaundice.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Benoxaprofen
+2. Groups:  Withdrawn
+3. Description:  The use of benoxaprofen, formerly marketed as Oraflex tablets, was associated with fatal cholestatic jaundice among other serious adverse reactions. The holder of the approved application voluntarily withdrew Oraflex tablets from the market on August 5, 1982.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Cupric sulfate
+2. Groups:  Approved
+3. Description:  Cupric sulfate is a salt created by treating cupric oxide with sulfuric acid. This forms as large, bright blue crystals containing five molecules of water (CuSO4∙5H2O) and is also known as blue vitriol. The anhydrous salt is created by heating the hydrate to 150 °C (300 °F). Cupric sulfate is used primarily for agricultural purposes, as a pesticide, germicide, feed additive, and soil additive. Some of its secondary uses are as a raw material in the preparation of other copper compounds, as a reagent in analytic chemistry, as an electrolyte for batteries and electroplating baths, and in medical practice as a locally applied fungicide, bactericide, and astringent [9].Copper is an essential trace element and an important catalyst for heme synthesis and iron absorption. After zinc and iron, copper is the third most abundant trace element found in the human body. Copper is a noble metal and its properties include high thermal and electrical conductivity, low corrosion, alloying ability, and malleability. Copper is a component of intrauterine contraceptive devices (IUD) and the release of copper is necessary for their important contraceptive effects. The average daily intake of copper in the USA is approximately 1 mg Cu with the diet being a primary source [5].Interestingly, the dysregulation of copper has been studied with a focus on neurodegenerative diseases, such as Wilson’s disease, Alzheimer’s disease, and Parkinson’s disease. Data from clinical observations of the neurotoxic effects of copper may provide the basis for future treatments affecting copper and its homeostasis [15].
+4. Indication:  Elemental use in copper deficiency [11]Copper and copper containing compounds are broadly used in medical practice. Metallic copper is used already for many years in dental fillings and in copper intrauterine devices (IUD) for reversible contraception. Ointments containing copper, which release copper ions that are absorbed by the skin in the management of cramps, disturbances of renal function, peripheral, venous hypostatic circulatory disturbances, rheumatic disease and swelling associated with trauma. There are also cosmetic facial creams containing copper as their main active ingredient [13].
+DrugId:  6
+1. Name:  Arimoclomol
+2. Groups:  Investigational
+3. Description:  Arimoclomol is an experimental drug compound developed by CytRx Corporation, a biopharmaceutical company based in Los Angeles, California. The orally administered drug is intended to treat amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, a neurodegenerative disease with no effective treatment.
+4. Indication:  Investigated for use/treatment in amyotrophic lateral sclerosis (ALS), diabetes mellitus type 2, neurologic disorders, and neuropathy (diabetic).
+DrugId:  7
+1. Name:  Enalaprilat
+2. Groups:  Approved
+3. Description:  Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume. Enalaprilat was originally created to overcome the limitations of the first ACE inhibitor, captopril, which had numerous side effects and left a metallic taste in the mouth. Removal of the problematic thiol group from captopril resulted in enalaprilat, which was then modified further with an ester to create the orally available pro-drug enalapril.Enalaprilat is poorly orally available and is therefore only available as an intravenous injection for the treatment of hypertension when oral therapy is not possible.
+4. Indication:  Enalaprilat injection is indicated for the treatment of hypertension when oral therapy is not practical.
+DrugId:  8
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  9
+1. Name:  Anakinra
+2. Groups:  Approved
+3. Description:  Anakinra is a recombinant, nonglycosylated human interleukin-1 receptor antagonist (IL-1Ra). The difference between anakinra and the native human IL-1Ra is that anakinra has an extra methionine residue at the amino terminus. It is manufactured by using the E. coli expression system. Anakinra is composed of 153 amino acid residues. FDA approved on November 14, 2001. 
+4. Indication:  For the treatment of adult rheumatoid arthritis and treatment of Neonatal-Onset Multisystem Inflammatory Disease (NOMID). 
+DrugId:  10
+1. Name:  Sulfamerazine
+2. Groups:  Approved, Vet approved
+3. Description:  A sulfanilamide that is used as an antibacterial agent. [PubChem]
+4. Indication:  A sulfanilamide that is used as an antibacterial agent. It can be used to treat bronchitis, prostatitis and urinary tract infections.
+DrugId:  11
+1. Name:  Eftrenonacog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Eftrenonacog alfa is a long-acting recombinant fusion protein used in the treatment of hemophilia B. It is comprised of a single molecule of human factor IX (FIX) covalently linked to the constant region (Fc) domain of human IgG1 via recombinant DNA technology in a human embryonic kidney cell line (HEK293H) [1]. The presence of the Fc domain extends the terminal half-life which confers clinical benefits of prolonged therapeutic efficacy, less frequent intravenous injections for patient convenience and improved adherence to prophylaxis. Hemophilia B is a blood disorder with an incidence of approximately once every 30,000 male births in all populations and ethnic groups [2]. It is an X-linked genetic disease caused by mutation of the gene for coagulation protein factor IX (FIX), leading to decreased levels of endogenous factor IX and increased susceptibility to recurrent bleeding episodes caused spontaneously or as a result of accidental or surgical trauma [FDA Label]. When untreated, most patients die from bleeding complications before 25 years of age [2]. Eftrenonacog alfa acts as a replacement therapy to restore the levels of factor IX and allow normal hemostasis. Eftrenonacog alfa was developed and marketed as Alprolix for intravenous injection by Biogen. It was first approved by the FDA in March 2014 and later approved by the EMA in May 2016. Eftrenonacog alfa treatment demonstrated good tolerability with no reports of inhibitor development in clinical studies [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients of all age with haemophilia B (congenital factor IX deficiency).
+DrugId:  12
+1. Name:  Colfosceril palmitate
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Colfosceril palmitate is a synthetic pulmonary surfactant administered in infants with respiratory distress syndrome.[1] It was part of the first generation of commercially available artificial surfactants.[4] It was developed by Burroughs Wellcome and it was FDA approved on August 6, 1990.[8] Nowadays colfosceril palmitate is under the state of canceled post-marketing.
+4. Indication:  Colfosceril palmitate is indicated for the treatment of respiratory distress syndrome (RDS) in premature infants. The official label is referred as a intratracheal suspension for prophylactic treatment of infants of less than 1350 grams of birth weight under risk of developing RDS, or in infants with birth weight greater than 1350 grams with pulmonary immaturity, or as rescue treatment of infants that already developed RDS.[8] The central feature of RDS is a surfactant deficiency due to lung immaturity. This lung condition is more frequently presented due to risk factors like prematurity, delayed lung maturation caused by maternal diabetes or male gender, or surfactant dysfuntion due to perinatal asphyxia, pulmonary infection or delivery without labor.[4]
+DrugId:  13
+1. Name:  Obeticholic acid
+2. Groups:  Approved
+3. Description:  Obeticholic acid is a farnesoid-X receptor (FXR) agonist and is used to treat a number of liver diseases. [1] Obeticholic acid has been granted accelerated approval to treat primary biliary cholangitis in combination with ursodeoxycholic acid. [1] Approval is limited to monotherapy in patient's who are intolerant to ursodeoxycholic acid, or in combination with ursodeoxycholic acid in adults who have not responded adequately to ursodeoxyholic acid alone. [1]Obeticholic acid given orally, binds to the farnesoid X receptor (FXR), a receptor found in the nucleus of cells in the liver and intestine. FXR is a key regulator of bile acid metabolic pathways. Obeticholic acid increases bile flow from the liver and suppresses bile acid production in the liver, thus reducing the exposure of the liver to toxic levels of bile acids.
+4. Indication:  Investigated for use/treatment in liver disease.Obeticholic acid was approved as an orphan drug based on its reduction in the level of the biomarker alkaline phosphatase as a surrogate endpoint for clinical benefit. It is indicated for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA. Additional studies are being required to prove its clinical benefit.
+DrugId:  14
+1. Name:  Calcium Gluceptate
+2. Groups:  Approved
+3. Description:  Calcium supplements such as calcium gluceptate are taken by individuals who are unable to get enough calcium in their regular diet or who have a need for more calcium. They are used to prevent or treat several conditions that may cause hypocalcemia (not enough calcium in the blood). The body needs calcium to make strong bones. Calcium is also needed for the heart, muscles, and nervous system to work properly.
+4. Indication:  For treatment of mild hypocalcemia due to neonatal tetany, tetany due to parathyroid deficiency or vitamin D deficiency, and alkalosis, as prophylaxis of hypocalcemia during exchange transfusions, in the treatment of intestinal malabsorption, and to replenish electrolytes.
+DrugId:  15
+1. Name:  Cefprozil
+2. Groups:  Approved
+3. Description:  Cefprozil is a cephalosporin antibiotic. It can be used to treat bronchitis, ear infections, skin infections, and other bacterial infections.
+4. Indication:  For the treatment of the following infections (respiratory, skin, soft tissue, UTI, ENT) caused by; S. pneumoniae, H. influenzae, staphylococci, S. pyogenes (group A beta-hemolytic streptococci), E. coli, P. mirabilis, Klebsiella sp, coagulase-negative staph
+DrugId:  16
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  17
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  18
+1. Name:  Sulfinpyrazone
+2. Groups:  Approved
+3. Description:  A uricosuric drug that is used to reduce the serum urate levels in gout therapy. It lacks anti-inflammatory, analgesic, and diuretic properties.
+4. Indication:  For the treatment of gout and gouty arthritis.
+DrugId:  19
+1. Name:  Chromic chloride
+2. Groups:  Approved
+3. Description:  Chromic chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  20
+1. Name:  Cobicistat
+2. Groups:  Approved
+3. Description:  Cobicistat, trade name Tybost (formerly GS-9350), is a licensed drug for use in the treatment of infection with human immunodeficiency virus (HIV). Although it does not have any anti-HIV activity, cobicistat acts as a pharmacokinetic enhancer by inhibiting cytochrome P450 3A isoforms (CYP3A) and therefore increases the systemic exposure of coadministered agents that are metabolized by CYP3A enzymes. More specifically, cobicistat is indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection. Increasing systemic exposure of anti-retrovirals (ARVs) without increasing dosage allows for better treatment outcomes and a decreased side effect profile.
+4. Indication:  Cobicistat is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection. It is not interchangeable with ritonavir to increase systemic exposure of darunavir 600 mg twice daily, fosamprenavir, saquinavir, or tipranavir due to lack of exposure data. The use of cobicistat is not recommended with darunavir 600 mg twice daily, fosamprenavir, saquinavir or tipranavir. Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain cobicistat interactions. Cobicistat and ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications.
+DrugId:  21
+1. Name:  Azithromycin
+2. Groups:  Approved
+3. Description:  Azithromycin is a semi-synthetic macrolide antibiotic of the azalide class. Like other macrolide antibiotics, azithromycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit of the bacterial 70S ribosome. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the process of translation. Its effects may be bacteriostatic or bactericidal depending of the organism and the drug concentration. Its long half life, which enables once daily dosing and shorter administration durations, is a property distinct from other macrolides.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions: H. influenzae, M. catarrhalis, S. pneumoniae, C. pneumoniae, M. pneumoniae, S. pyogenes, S. aureus, S. agal
+DrugId:  22
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  23
+1. Name:  Diflunisal
+2. Groups:  Approved, Investigational
+3. Description:  Diflunisal, a salicylate derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with pharmacologic actions similar to other prototypical NSAIAs. Diflunisal possesses anti-inflammatory, analgesic and antipyretic activity. Though its mechanism of action has not been clearly established, most of its actions appear to be associated with inhibition of prostaglandin synthesis via the arachidonic acid pathway. Diflunisal is used to relieve pain accompanied with inflammation and in the symptomatic treatment of rheumatoid arthritis and osteoarthritis.
+4. Indication:  For symptomatic treatment of mild to moderate pain accompanied by inflammation (e.g. musculoskeletal trauma, post-dental extraction, post-episiotomy), osteoarthritis, and rheumatoid arthritis.
+DrugId:  24
+1. Name:  Efmoroctocog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Efmoroctocog alfa is a fully recombinant factor VIII-Fc fusion protein (rFVIIIFc) with an extended half-life compared with conventional factor VIII (FVIII) preparations, including recombinant FVIII (rFVIII) products such as Moroctocog alfa[1]. It is an antihemorrhagic agent used in replacement therapy for patients with haemophilia A (congenital factor VIII deficiency). It is suitable for all age groups. Haemophilia A is a rare bleeding disorder associated with a slow clotting process caused by the deficiency of factor VIII. Patients with this disorder are more susceptible to recurrent bleeding episodes and excessive bleeding following minor traumatic injuries or surgical procedures [1]. Prophylactic treatment may dramatically improve the management of severe haemophilia A in the future by reducing joint bleeding and other hemorrhages that cause chronic pain and disability to patients [1, 2]. Prophylaxis has also shown to reduce the formation of neutralizing anti-FVIII antibodies, or inhibitors [2]. Factor VIII is a blood coagulant factor involved in the intrinsic pathway to form fibrin, or a blood clot. Efmoroctocog alfa is a first commercially available rFVIII-Fc fusion protein (rFVIIIFc) where the conjugated molecule of rFVIII to polyethylene glycol is covalently fused to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein [FDA Label]. The B domain of factor VIII is deleted. In animal models of haemophilia, efmoroctocog alfa demonstrated an approximately two-fold longer t½ than commercially available rFVIII products [1].Other drug products with similar structure and function to Efmoroctocog alfa include Moroctocog alfa, which is produced by recombinant DNA technology and is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function, and Antihemophilic factor human, which is purified endogenous Factor VIII from human pooled blood and contains both A- and B-subunits. It is commonly marketed as Elocta or Eloctate for intravenous injection. To date, no confirmed inhibitory autoantibodies were seen in previously treated patients included in clinical studies and treatment-emergent adverse events were generally consistent with those expected in the patient populations being studied [1]. The extended half-life of efmoroctocog alfa provides several clinical benefits for patients, including reduced frequency of injections required and improved adherence to prophylaxis [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency) [FDA Label].
+DrugId:  25
+1. Name:  Technetium Tc-99m disofenin
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m disofenin is a radiopharmaceutical agent used in hepatobiliary imaging for diagnostic purposes. It is well suited for both planar and single photon tomographic scintigraphy to quantitatively measure the function of liver, gallbladder and bile ducts and detect any anatomical changes in the hepatobliary system. It is available as an intravenous injection in a preparation kit under the name Hepatolite. Technetium Tc-99m is a metastable nuclear isomer and disofenin is an iminodiacetic acid derivative with no known pharmacologic actions at the doses recommended. However disofenin is the most commonly used iminodiacetic acid since it has a high liver to renal extraction and its hepatic uptake is not as highly dependent on serum bilirubin levels (a competitive inhibitor for liver uptake) as are other tracers from the iminodiacetic acid.
+4. Indication:  Technetium Tc99m Disofenin is indicated as a hepatobiliary imaging agent. Hepatolite is indicated in the diagnosis of acute cholecystitis as well as to rule out the occurrence of acute cholecystitis in suspected patients with right upper quadrant pain, fever, jaundice, right upper quadrant tenderness and mass or rebound tenderness, but not limited to these signs and symptoms.

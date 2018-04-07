@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Dexamethasone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anti-inflammatory 9-fluoro-glucocorticoid. [PubChem]
+4. Indication:  Injection: for the treatment of endocrine disorders, rheumatic D=disorders, collagen diseases, dermatologic diseases, allergic statesc, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, cerebral edema.Ophthalmic ointment and solution: for the treatment of steroid responsive inflammatory conditions of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe.Ophthalmic solution only: for the treatment of steroid responsive inflammatory conditions of the external auditory meatusTopic cream: for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatosesOral aerosol: for the treatment of bronchial asthma and related corticosteroid responsive bronchospastic states intractable to adequate trial of conventional therapyIntranasal aerosol: for the treatment of allergic ot inflammatory nasal conditions, and nasal polyps
+DrugId:  2
+1. Name:  SRT501
+2. Groups:  Investigational
+3. Description:  SRT501 is a small molecule develped for the treatment of metabolic diseases like diabetes and obesity. It is the first small molecule, designed to target SIRT1, to enter the clinic.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and neurologic disorders.
+DrugId:  3
+1. Name:  CCX915
+2. Groups:  Investigational
+3. Description:  CCX915 is developed by ChemoCentryx which targets the chemokine receptor CCR2 and is in phase 1 of clinical trial for the treatment of Multiple Sclerosis and Neurologic Disorders. The CCR2 receptor is thought to be of central importance to inflammatory diseases, such as multiple sclerosis (MS), Type II diabetes and atherosclerosis.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and neurologic disorders.
+DrugId:  4
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Iroxanadine
+2. Groups:  Investigational
+3. Description:  BRX-235 (iroxanadine) is a a novel small molecule synthesized by Biorex, Hungary that acts as a cardioprotective agent. It induces phosphorylation of p38 SAPK, which plays an important role in EC homeostasis. endothelial cell (EC). EC function plays a central role in vascular diseases (e.g. atherosclerosis, restenosis, diabetic angiopathies, microvascular angina, peripheral arterial disease). BRX-235 also causes translocation of calcium-dependent protein kinase C isoform to membranes.
+4. Indication:  Investigated for use/treatment in atherosclerosis and vascular diseases as a cardioprotective agent. Its use has also been suggested for the prevention of early restenosis following vascular surgery or balloon angioplasty.
+DrugId:  6
+1. Name:  Fenethylline
+2. Groups:  Approved
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Encenicline
+2. Groups:  Investigational
+3. Description:  Encenicline has been investigated for the treatment of Cognition, Schizophrenia, Alzheimer's Disease, Cardiac Repolarization, and Central Nervous System Diseases.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  TRO19622
+2. Groups:  Investigational
+3. Description:  TRO19622 is a cholesterol-like small molecule that has demonstrated a remarkable neuroprotective profile in a battery of both in vitro and in vivo preclinical models. For example, it has demonstrated the ability to prevent neurodegeneration, enhance nerve function and accelerate neuroregeneration following nerve trauma. 
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  9
+1. Name:  MDX-018
+2. Groups:  Investigational
+3. Description:  MDX-018, also known as HuMax-Inflam, is a fully human antibody that is directed to IL-8 (interleukin-8) and may have potential application in oncology and inflammation. Trials will initially focus on studies to treat glioblastoma, a cancer of the central nervous system. Other possible indications include chronic obstructive pulmonary disease (COPD) and pustular dermatoses. In pre-clinical studies, HuMax-Inflam has been shown to inhibit tumor growth in tumor models using primary human tumors in immunodeficient mice. HuMax-Inflam was also effective in reducing disease activity in palmoplantar pustulosis patients in a clinical study.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  10
+1. Name:  Seratrodast
+2. Groups:  Approved
+3. Description:  Seratrodast (INN) is a thromboxane receptor antagonist used primarily in the treatment of asthma.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Buclizine
+2. Groups:  Approved
+3. Description:  Buclizine is an antihistamine of the piperazine derivative family. [Wikipedia]
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness and vertigo (dizziness caused by other medical problems).
+DrugId:  12
+1. Name:  PTC299
+2. Groups:  Investigational
+3. Description:  PTC299 is a novel, orally administered small-molecule designed to inhibit the production of vascular endothelial growth factor (VEGF) in tumors. Overexpression of VEGF plays a key role in multiple diseases including cancer and macular degeneration. PTC299 was discovered through PTC's GEMS technology by targeting the post-transcriptional processes that regulate VEGF formation, and is currently being developed for the treatment of cancer. 
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  13
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  14
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Samarium (153Sm) lexidronam
+2. Groups:  Approved, Investigational
+3. Description:  Samarium Sm 153 lexidronam is a radioactive medication used to treat pain caused by cancer that has spread to the bone. It is a radiopharmaceutical. Radiopharmaceuticals are radioactive agents that may be used to diagnose some diseases by studying the function of the body's organs or to treat certain diseases.Samarium Sm 153 lexidronam is used to help relieve the bone pain that may occur with certain kinds of cancer. The radioactive samarium is taken up in the bone cancer area and gives off radiation that helps provide relief of pain.
+4. Indication:  Investigated for use/treatment in bone metastases, multiple myeloma, prostate cancer, and rheumatoid arthritis.
+DrugId:  16
+1. Name:  Anisodamine
+2. Groups:  Investigational
+3. Description:  Anisodamine has been investigated for the treatment of Intestinal Diseases.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  GTS-21
+2. Groups:  Investigational
+3. Description:  GTS-21 (also known as DMBX-A), is a novel, small-molecule, orally active and selective alpha-7 nicotinic acetylcholine (nACh) receptor agonist that has demonstrated memory and cognition enhancement activity in human clinical trials. Athenagen licensed the exclusive rights to the compound and a related library of analogs as part of the acquisition of Osprey Pharmaceutical Company in April 2006. GTS-21 has been studied in multiple Phase I studies in healthy volunteers and one Phase I/II study in schizophrenic patients. In all studies, the compound was well tolerated. In a Phase I multi-dose, double-blind, placebo controlled study in healthy adults, GTS-21 also demonstrated cognitive enhancement across all doses, with a statistically significant improvement in attention related and memory related tasks (Kitagawa, et al. Neuropsychopharmacology (2003), 28, 542-551). 
+4. Indication:  Investigated for use/treatment in alzheimer's disease and schizophrenia and schizoaffective disorders.
+DrugId:  18
+1. Name:  VP025
+2. Groups:  Investigational
+3. Description:  VP025, a novel drug formulation based on phospholipid microparticles incorporating phosphatidylglycerol, can inhibit neuroinflammation. VP025 may inhibit immune system activation and protect motoneurons from injury. It also shows the ability to reduce inflammation across the blood-brain barrier and improve correlates of memory and learning function. It is being developed to target the chronic inflammation within the central nervous system that is associated with a number of neurological diseases, including Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral sclerosis (Lou Gehrig’s disease). It is considered to be a systemic anti-inflammatory and neuroprotective agent.
+4. Indication:  Investigated for use/treatment in alzheimer's disease and inflammatory disorders (unspecified).
+DrugId:  19
+1. Name:  CHGN111
+2. Groups:  Investigational
+3. Description:  CHGN111 is an inhibitor of the mitochondrial enzyme CLK-1 which is a demethoxyubiquinone hydroxylase. Numerous parameters of mitochondrial function are altered when the activity of CLK-1 is reduced, which results in a decrease of ROS at critical cellular sites, as well as in a decrease of systemic oxidative stress. It was under investigation until approximately 2007.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  20
+1. Name:  Antipyrine
+2. Groups:  Approved, Investigational
+3. Description:  An analgesic and antipyretic that has been given by mouth and as ear drops. Antipyrine is often used in testing the effects of other drugs or diseases on drug-metabolizing enzymes in the liver. (From Martindale, The Extra Pharmacopoeia, 30th ed, p29)
+4. Indication:  Antipyrine is an analgesic often used to test effects of other drugs on liver enzymes..
+DrugId:  21
+1. Name:  Tocilizumab
+2. Groups:  Approved
+3. Description:  Tocilizumab is a recombinant, humanized, anti-human interleukin 6 (IL-6) receptor monoclonal antibody that achieves a significant therapeutic response rate. The light chain is made up of 214 amino acids. The heavy chain is made up of 448 amino acids. The four polypeptide chains are linked intra- and inter-molecularly by disulfide bonds. FDA approved on January 8, 2010. Tocilizumab (injection) was further approved by the FDA for the treatment of adults with giant cell arteritis, an inflammation of the blood vessels (vasculitis) in May, 2017. In a double-blind, placebo-controlled study, the patients achieved sustained remission from Week 12 through Week 52, which was associated with significant improvements in symptoms of giant cell arteritis, normalization of inflammatory laboratory tests and tapering the use of corticosteroids [2].
+4. Indication:  Indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis (RA) who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs). It is also indicated for the treatment of active polyarticular juvenile idiopathic arthritis (PJIA) and active systemic juvenile idiopathic arthritis (SJIA) in patients 2 years of age and older.
+DrugId:  22
+1. Name:  Meclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in the treatment of motion sickness, vertigo, and nausea during pregnancy and radiation sickness. [PubChem]
+4. Indication:  For the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness.
+DrugId:  23
+1. Name:  Diphenidol
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Diphenidol is an antiemetic agent used in the treatment of vomiting and vertigo. Diphenidol overdose may result in serious toxicity in children.
+4. Indication:  For use in the prevention and symptomatic treatment of peripheral (labyrinthine) vertigo and associated nausea and vomiting that occur in such conditions as Meniere's disease and surgery of the middle and inner ear. Also for the control of nausea and vomiting associated with postoperative states, malignant neoplasms, labyrinthine disturbances, antineoplastic agent therapy, radiation sickness, and infectious diseases.
+DrugId:  24
+1. Name:  Technetium Tc-99m exametazime
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m exametazime is a radiopharmaceutical sold under the trade name Ceretec, and is used by nuclear medicine physicians for the detection of altered regional cerebral perfusion in stroke and other cerebrovascular diseases. It can also be used for the labelling of leukocytes to localise intra-abdominal infections and inflammatory bowel disease. Exametazime, also known as hexamethylpropyleneamine oxime or HMPAO, acts as a chelating agent for the Tc-99m radioisotope.
+4. Indication:  Technetium Tc99m exametazime scintigraphy (with or without methylene blue stabilization) may be useful as an adjunct in the detection of altered regional cerebral perfusion in stroke. Tc99m exametazime without methylene blue stabilization is indicated for leukocyte labeled scintigraphy as an adjunct in the localization of intra-abdominal infection and inflammatory bowel disease.
+DrugId:  25
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.

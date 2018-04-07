@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Aluminum chloride
+2. Groups:  Approved
+3. Description:  Aluminum chloride is a chemical compound with the chemical formula AlCl3. When contaminated with iron chloride, it often displays a yellow color compared to the white pure compound. It is used in various chemical applications as a Lewis base, with anhydrous aluminium trichloride being the most commonly used Lewis acid. It may also be found in over-the-counter as an antiperspirant or prescription products as an antihemorrhagic agent. In antiperspirant products, FDA approves the use of aluminum chloride as an active ingredient up to 15%, calculated on the hexahydrate form, in an aqueous solution nonaerosol dosage form [4].
+4. Indication:  Indicated for the control of minor hemorrhage during dental restorative procedures.Indicated to reduce underarm perspiration.
+DrugId:  2
+1. Name:  Ferric subsulfate
+2. Groups:  Approved, Experimental
+3. Description:  Ferric subsulfate is a stypic or hemostatic agent that causes agglutination of surface proteins resulting in local hemostasis. It has the chemical formula Fe4(OH)2(SO4)5. It is used after superficial skin biopsies.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Thrombin Alfa
+2. Groups:  Approved
+3. Description:  Thrombin Alfa is a human coagulation protein produced via recombinant DNA technology from a genetically modified CHO cell line. Thrombin Alfa is identical in amino acid sequence and structurally similar to naturally occurring human thrombin. Thrombin Alfa precursor is secreted to culture medium as single chain form that is proteolytically converted to a two-chain active form (using a protein derived from snakes) and is purified by a chromatographic process that yields a product having hemostatic activities similar to native human thrombin. The cell line used to manufacture Thrombin Alfa has been tested and shown to be free of known infectious agents. The cell culture process used in the manufacture of Thrombin Alfa employs no additives of human or animal origin. The purification process includes solvent-detergent treatment and nano-filtration steps dedicated to viral clearance.Nevertheless, because the incidence of hemostasis within a timely manner is relatively comparable between the use of thrombin alfa and the placebo treatment in patient subjects, thrombin alfa is not currently approved by certain organizations like the European Medicines Agency [2].
+4. Indication:  Indicated to aid hemostasis whenever oozing blood and minor bleeding from capillaries and small venules is accessible and control of bleeding by standard surgical techniques (such as suture, ligature, or cautery) is ineffective or impractical in adults and pediatric populations greater than or equal to one month of age [FDA Label].Additionally, thrombin alfa can be used in conjunction with an absorbable gelatin sponge, USP [FDA Label].
+DrugId:  4
+1. Name:  Coagulation factor VIIa Recombinant Human
+2. Groups:  Approved
+3. Description:  Recombinant human coagulation Factor VIIa (rFVIIa), intended for promoting hemostasis by activating the extrinsic pathway of the coagulation cascade. NovoSeven is a vitamin K-dependent glycoprotein consisting of 406 amino acid residues. Cloned and expressed in hamster kidney cells, the protein is catalytically active in a two-chain form.
+4. Indication:  For treatment of hemorrhagic complications in hemophilia A and B
+DrugId:  5
+1. Name:  LY-517717
+2. Groups:  Investigational
+3. Description:  LY517717 is an investigational oral direct inhibitor of activated Factor Xa. It is believed to be Lilly's PMD-3112 (licensed from Amgen).
+4. Indication:  Investigated for use/treatment in thrombosis and venous thromboembolism.
+DrugId:  6
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  7
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  8
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  9
+1. Name:  Fibrinogen Human
+2. Groups:  Approved
+3. Description:  Fibrinogen concentrate (human) is a hematological agent. It works by replacing a certain protein in the blood that helps with blood clotting.Fibrinogen (factor I) is a soluble plasma glycoprotein with a molecular weight of about 340 kDa.It is a physiological substrate for three enzymes: plasmin, factor XIIIa and thrombin. it is indicated for the treatment of acute bleeding episodes in patients with congenital fibrinogen deficiency, including afibrinogenemia and hypofibrinogenemia.
+4. Indication:  For the treatment of acute bleeding episodes in patients with congenital fibrinogen deficiency, including afibrinogenemia and hypofibrinogenemia.
+DrugId:  10
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  11
+1. Name:  Felypressin
+2. Groups:  Approved
+3. Description:  A synthetic nonapeptide comprising cysteinyl, phenylalanyl, phenylalanyl, glutaminyl, asparaginyl, cysteinyl, prolyl, lysyl, and glycinamide residues in sequence, with a disulfide bridge joining the two cysteine residues. Its antidiuretic effects are less than those of vasopressin. It is used as a vasoconstrictor in local anaesthetic injections for dental use, and is an ingredient of preparations that have been used for treatment of pain and inflammation of the mouth.
+4. Indication:  For use as an alternative to adrenaline as a localising agent, provided that local ischaemia is not essential.
+DrugId:  12
+1. Name:  prGCD
+2. Groups:  Investigational
+3. Description:  GCD represents the combination treatment of gemcitabine, carboplatin, and dexamethasone.
+4. Indication:  Investigated for use/treatment in metabolic disease and neurologic disorders.
+DrugId:  13
+1. Name:  SGS518
+2. Groups:  Investigational
+3. Description:  SGS518, a novel antagonist for the 5HT6 subtype of the serotonin receptor, is being developed as a treatment for Cognitive Impairment Associated with Schizophrenia (CIAS).
+4. Indication:  Investigated for use/treatment in neurologic disorders and schizophrenia and schizoaffective disorders.
+DrugId:  14
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  15
+1. Name:  Facinicline
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  16
+1. Name:  VSF-173
+2. Groups:  Investigational
+3. Description:  VSF-173 is an oral small molecule. It is an oral compound that has demonstrated effects on animal sleep/wake patterns and gene expression patterns suggestive of a stimulant effect. It is developed for the treatment of excessive sleepiness. Study shows that VSF-173 possesses a novel mechanism to address disorders of excessive sleepiness.
+4. Indication:  Investigated for use/treatment in sleep disorders.
+DrugId:  17
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  18
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  19
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  20
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  21
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  22
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  23
+1. Name:  Dextran
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Dextran is a polysaccharide that differs from others in that its glucose units are joined together 1:6 glucoside links. The main chain of glucose has short branches at frequent intervals which are probably joined by 1:3 and 1:4 glucoside links. The chains can be composed of about 200,000 glucose units.[1] Many bacteria, like Leuconostoc, can synthesize dextran from sucrose, and this activity is used commercially to obtain dextran.[4]
+4. Indication:  Dextran is used as the restoration of blood mass during surgical interventions if there is hypovolemia due to trauma or dehydration. It is as well used after the presence of hemorrhage in cases of blood loss to a level inferior to 15% of the blood mass, if compatibility test cannot be completed or when blood lots need to be tested for pathogen detection. Dextran is also used for the prevention of profound postoperative venous thrombosis.[5]Dextran as well presents ophthalmic applications as solutions or ointments for the temporary relief of xerophthalmia or minor ocular irritations.[6]
+DrugId:  24
+1. Name:  Emicizumab
+2. Groups:  Approved, Investigational
+3. Description:  Emicizumab is a humanized recombinant monoclonal antibody that mimics the function of the coagulation Factor VIII and it has the capacity to bind simultaneously to activated Factor IX and Factor X. The ability of Emicizumab to bind to all these three different factors allows it to overcome immunogenicity and unstable hemostatic efficacy produced by previous Factor VII agents. Emicizumab was originated as an improved form of hBS23 and it was approved on November 16, 2017, for the treatment of hemophilia A with factor VIII inhibitors.[1, 6] It was created by Chugai Pharmaceuticals Co. Ltd. and co-developed with Roche and Genentech.[5]
+4. Indication:  The main function of Emicizumab is the prevention of bleeding episodes. Thus, Emicizumab is approved for the routine prophylaxis of patients with hemophilia A that present Factor VIII inhibitors. Hemophilia A is a deficiency of coagulation Factor VIII which causes a serious bleeding disorder. The standard treatment is done with the administration of recombinant or serum-deriver Factor VIII which induces the formation of anti-factor VIII alloantibodies (Factor VIII inhibitors) and renders the standard treatment ineffective.[2]
+DrugId:  25
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).

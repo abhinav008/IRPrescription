@@ -1,0 +1,25 @@
+DrugId:  1
+1. Name:  Miltefosine
+2. Groups:  Approved, Investigational
+3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  2
+1. Name:  Sulfapyridine
+2. Groups:  Approved
+3. Description:  Antibacterial, potentially toxic, and previously used to treat certain skin diseases. No longer prescribed. 
+4. Indication:  For the treatment of dermatitis herpetiformis, benign mucous membrane pemphigoid and pyoderma gangrenosum
+DrugId:  3
+1. Name:  Lumefantrine
+2. Groups:  Approved
+3. Description:  Lumefantrine is an antimalarial agent used to treat acute uncomplicated malaria. It is administered in combination with artemether for improved efficacy. This combination therapy exerts its effects against the erythrocytic stages of Plasmodium spp. and may be used to treat infections caused by P. falciparum and unidentified Plasmodium species, including infections acquired in chloroquine-resistant areas.
+4. Indication:  Lumefantrine and artemether combination therapy is indicated for the treatment of acute uncomplicated malaria caused by Plasmodium falciparum, including malaria acquired in chloroquine-resistant areas. May also be used to treat uncomplicated malaria when the Plasmodium species has not been identified. Indicated for use in adults and children greater than 5 kg. 
+DrugId:  4
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  5
+1. Name:  Prednisolone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states. [PubChem]
+4. Indication:  For the treatment of primary or secondary adrenocortical insufficiency, such as congenital adrenal hyperplasia, thyroiditis. Also used to treat psoriatic arthritis, rheumatoid arthritis, ankylosing spondylitis, bursitis, acute gouty arthritis and epicondylitis. Also indicated for treatment of systemic lupus erythematosus, pemphigus and acute rhematic carditis. Can be used in the treatment of leukemias, lymphomas, thrombocytopenia purpura and autoimmune hemolytic anemia. Can be used to treat celiac disease, insulin resistance, ulcerative colitis and liver disorders.

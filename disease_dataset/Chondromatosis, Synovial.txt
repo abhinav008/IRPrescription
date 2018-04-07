@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Tazemetostat
+2. Groups:  Investigational
+3. Description:  Tazemetostat has been used in trials studying the treatment of Rhabdoid Tumors, Synovial Sarcoma, Epithelioid sarcoma, INI1-negative Tumors, and Renal Medullary Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Sulfacytine
+2. Groups:  Approved
+3. Description:  Sulfacytine is a short-acting sulfonamide. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of p-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections.Sulfacytine is a competitive inhibitor of the enzyme dihydropteroate synthetase. It inhibits bacterial synthesis of of dihydrofolic acid by preventing the condensation of the pteridine with para-aminobenzoic acid (PABA), a substrate of the enzyme dihydropteroate synthetase. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.
+4. Indication:  Used orally in the treatment of acute urinary tract infections.
+DrugId:  3
+1. Name:  Sulfametopyrazine
+2. Groups:  Approved, Withdrawn
+3. Description:  Long-acting plasma-bound sulfonamide used for respiratory and urinary tract infections and also for malaria. [PubChem]
+4. Indication:  For the treatment of urinary tract infection and chronic bronchitis.
+DrugId:  4
+1. Name:  Anakinra
+2. Groups:  Approved
+3. Description:  Anakinra is a recombinant, nonglycosylated human interleukin-1 receptor antagonist (IL-1Ra). The difference between anakinra and the native human IL-1Ra is that anakinra has an extra methionine residue at the amino terminus. It is manufactured by using the E. coli expression system. Anakinra is composed of 153 amino acid residues. FDA approved on November 14, 2001. 
+4. Indication:  For the treatment of adult rheumatoid arthritis and treatment of Neonatal-Onset Multisystem Inflammatory Disease (NOMID). 
+DrugId:  5
+1. Name:  Sulfoxone
+2. Groups:  Approved
+3. Description:  Sulfoxone is a water-soluble sulfone used as an antileprosy drug. It has been used with limited success in the treatment of dermatitis herpetiformis.
+4. Indication:  For the treatment of leprosy and dermatitis herpetiformis
+DrugId:  6
+1. Name:  Sulfamoxole
+2. Groups:  Approved
+3. Description:  Sulfamoxole is a sulfonamide antibacterial.
+4. Indication:  For the treatment of bacterial infection.
+DrugId:  7
+1. Name:  Sulfamethizole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfathiazole antibacterial agent. [PubChem]
+4. Indication:  For the treatment of urinary tract infection
+DrugId:  8
+1. Name:  Aceclofenac
+2. Groups:  Approved, Investigational
+3. Description:  Aceclofenac is a non-steroidal anti-inflammatory drug (NSAID) with marked anti-inflammatory and analgesic properties. It is reported to have a higher anti-inflammatory action or at least comparable effects than conventional NSAIDs in double-blind studies [2, 3, 5]. Aceclofenac potently inhibits the cyclo-oxygenase enzyme (COX) that is involved in the synthesis of prostaglandins, which are inflammatory mediators that cause pain, swelling, inflammation, and fever. It is orally administered for the relief of pain and inflammation in osteoarthritis, rheumatoid arthritis and ankylosing spondylitis. Aceclofenac belongs to BCS Class II as it possesses poor aqueous solubility [2]. It displays high permeability to penetrate into synovial joints where in patients with osteoarthritis and related conditions, the loss of articular cartilage in the area causes joint pain, tenderness, stiffness, crepitus, and local inflammation [1]. Aceclofenac is also reported to be effective in other painful conditions such as dental and gynaecological conditions [7]. In 1991, aceclofenac was developed as an analog of a commonly prescribed NSAID, Diclofenac, via chemical modification in effort to improve the gastrointestinal tolerability of the drug. It is a more commonly prescribed drug in Europe.
+4. Indication:  Indicated for the relief of pain and inflammation in osteoarthritis, rheumatoid arthritis and ankylosing spondylitis. 
+DrugId:  9
+1. Name:  Chondroitin sulfate
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Chondroitin sulfate is a glycosaminoglycan considered as a symptomatic slow-acting drug for osteoarthritis (SYSADOA).[1] The SYSADOA status suggested a pain relief and increased joint mobility after a relative long regular administration, as well as a long-lasting effect after the end of the treatment. Chondroitin sulfate is composed of alternating 1,3-N-acetyl-β-d-galactosamine and 1,4-β-d-glucuronic acid units which bear 4-O- and/or 6-O-sulfations at the N-acetylgalactosamine units disposed of in specific patterns. Depending on the predominating disaccharide unit, it will present different biological activities.[2] Chondroitin sulfate is sold as an OTC dietary supplement in North America and it is a prescription drug under the EMA in Europe.[4]
+4. Indication:  Chondroitin sulfate, used with glucosamine, is indicated to alleviate pain and inflammation from primary osteoarthritis.[7] This supplement is reported to improve joint function and slow disease progression.[8] Osteoarthritis is characterized by progressive structural and metabolic changes in joint tissues, mainly cartilage degradation, subchondral bone sclerosis and inflammation of synovial membrane.[4]Studies have proposed the potential use of chondroitin sulfate as a nutraceutical in dietary supplements.[3]
+DrugId:  10
+1. Name:  Sulfadiazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections. [PubChem]
+4. Indication:  For the treatment of rheumatic fever and meningococcal meningitis
+DrugId:  11
+1. Name:  Sulfapyridine
+2. Groups:  Approved
+3. Description:  Antibacterial, potentially toxic, and previously used to treat certain skin diseases. No longer prescribed. 
+4. Indication:  For the treatment of dermatitis herpetiformis, benign mucous membrane pemphigoid and pyoderma gangrenosum
+DrugId:  12
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  13
+1. Name:  Sulfanilamide
+2. Groups:  Approved
+3. Description:  Sulfanilamide is a molecule containing the sulfonamide functional group attached to an aniline. [Wikipedia]
+4. Indication:  For the treatment of vulvovaginitis caused by Candida albicans.
+DrugId:  14
+1. Name:  Sarilumab
+2. Groups:  Approved, Investigational
+3. Description:  Sarilumab is a fully human anti-IL-6R monoclonal IgG1 antibody that binds to both membrane bound and soluble interleukin 6 (IL-6) receptor forms, thus blocking the cis- and trans-inflammatory signalling cascades of IL-6 [1]. Sarilumab was developped by Sanofi and Regeneron Pharmaceuticals, Inc; it was US FDA-approved in May 2017 and followed by EU approval in June 2017 for the treatment of moderate to severe Rheumatoid Arthritis (RA) in combination with methotrexate [4]. RA is a chronic inflammatory disease characterized by polyarthritis and its treatment has been challenged by the different response in every patient [3]. Subcutaneous administration of Sarilumab has been shown to decrease acute-phase reactant levels and improve in clinical RA symptoms [2].
+4. Indication:  Indicated for modere to severe reactive RA in adult patients who are irresponsive, respond inadequately or present intolerance to disease-modifying anti-rheumatic drugs (DMARDs) or tumor necrosis factor (TNF) antagonists. It is indicated to be used in combination with methotrexate (MTX) or as a monotherapy when there is intolerance to MTX or MTX administration is inappropriate.
+DrugId:  15
+1. Name:  Leflunomide
+2. Groups:  Approved, Investigational
+3. Description:  Leflunomide is a pyrimidine synthesis inhibitor belonging to the DMARD (disease-modifying antirheumatic drug) class of drugs, which are chemically and pharmacologically very heterogeneous. Leflunomide was approved by FDA and in many other countries (e.g., Canada, Europe) in 1999.
+4. Indication:  For the management of the signs and symptoms of active rheumatoid arthritis (RA) to improve physical function and to slow the progression of structural damage associated with the disease. Has also been used for the prevention of acute and chronic rejection in recipients of solid organ trasnplants and is designated by the FDA as an orphan drug for this use.
+DrugId:  16
+1. Name:  Sulfacetamide
+2. Groups:  Approved
+3. Description:  An anti-infective agent that is used topically to treat skin infections and orally for urinary tract infections. [PubChem]
+4. Indication:  For the treatment of bacterial vaginitis, keratitis, acute conjunctivitis, and blepharitis.

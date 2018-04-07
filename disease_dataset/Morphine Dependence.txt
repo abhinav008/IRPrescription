@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Levomethadyl Acetate
+2. Groups:  Approved, Investigational
+3. Description:  A narcotic analgesic with a long onset and duration of action. It is used mainly in the treatment of narcotic dependence. [PubChem]
+4. Indication:  For the treatment and management of opiate dependence. It is sometimes used to treat severe pain in terminal patients.
+DrugId:  2
+1. Name:  Hydromorphone
+2. Groups:  Approved, Illicit
+3. Description:  An opioid analgesic derived from morphine and used mainly as an analgesic. It has a shorter duration of action and is more potent than morphine. [PubChem]
+4. Indication:  For the relief of moderate to severe pain such as that due to surgery, cancer, trauma/injury, or burns.
+DrugId:  3
+1. Name:  Methadone
+2. Groups:  Approved
+3. Description:  A synthetic opioid that is used as the hydrochloride. It is an opioid analgesic that is primarily a mu-opioid agonist. It has actions and uses similar to those of morphine. It also has a depressant action on the cough center and may be given to control intractable cough associated with terminal lung cancer. Methadone is also used as part of the treatment of dependence on opioid drugs, although prolonged use of methadone itself may result in dependence. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1082-3).In Australia methadone is a Schedule 8 (controlled) drug.
+4. Indication:  For the treatment of dry cough, drug withdrawal syndrome, opioid type drug dependence, and pain.
+DrugId:  4
+1. Name:  Morphine
+2. Groups:  Approved, Investigational
+3. Description:  The principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle. In January, 2017, morphine was approved for the treatment of chronic pain.
+4. Indication:  For the relief and treatment of severe pain.
+DrugId:  5
+1. Name:  Heroin
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  A narcotic analgesic that may be habit-forming. It is a controlled substance (opium derivative) listed in the U.S. Code of Federal Regulations, Title 21 Parts 329.1, 1308.11 (1987). Sale is forbidden in the United States by Federal statute. (Merck Index, 11th ed) Internationally, heroin is controlled under Schedules I and IV of the Single Convention on Narcotic Drugs. It is illegal to manufacture, possess, or sell heroin in the United States and the UK. However, under the name diamorphine, heroin is a legal prescription drug in the United Kingdom.
+4. Indication:  Used in the treatment of acute pain, myocardial infarction, acute pulmonary oedema, and chronic pain.
+DrugId:  6
+1. Name:  Buprenorphine
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  Buprenorphine is a derivative of the opioid alkaloid thebaine that is a more potent (25 - 40 times) and longer lasting analgesic than morphine. It appears to act as a partial agonist at mu and kappa opioid receptors and as an antagonist at delta receptors. The lack of delta-agonist activity has been suggested to account for the observation that buprenorphine tolerance may not develop with chronic use.
+4. Indication:  For the treatment of moderate to severe pain, peri-operative analgesia, and opioid dependence.
+DrugId:  7
+1. Name:  Naltrexone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Derivative of noroxymorphone that is the N-cyclopropylmethyl congener of naloxone. It is a narcotic antagonist that is effective orally, longer lasting and more potent than naloxone, and has been proposed for the treatment of heroin addiction. The FDA has approved naltrexone for the treatment of alcohol dependence.
+4. Indication:  Used as an adjunct to a medically supervised behaviour modification program in the maintenance of opiate cessation in individuals who were formerly physically dependent on opiates and who have successfully undergone detoxification. Also used for the management of alcohol dependence in conjunction with a behavioural modification program.
+DrugId:  8
+1. Name:  Pethidine
+2. Groups:  Approved
+3. Description:  A narcotic analgesic that can be used for the relief of most types of moderate to severe pain, including postoperative pain and the pain of labor. Prolonged use may lead to dependence of the morphine type; withdrawal symptoms appear more rapidly than with morphine and are of shorter duration.
+4. Indication:  Used to control moderate to severe pain.
+DrugId:  9
+1. Name:  ALKS 29
+2. Groups:  Investigational
+3. Description:  ALKS 29 is a new product candidate for the treatment of alcohol dependence. It is being developed by Alkermes, Inc.
+4. Indication:  Investigated for use/treatment in addictions and alcohol dependence.
+DrugId:  10
+1. Name:  Pholcodine
+2. Groups:  Approved, Illicit
+3. Description:  Pholcodine formula is 3-o-morpholinoethylmorphine and it is classified as an antitussive which is defined as an opioid cough suppressant. It belongs to the opioid family of compounds and it is widely used.[1] Pholcodine activity is the suppression of unproductive cough and it also has a mild sedative effect with little or no analgesic effects.[2] Pholcodine is not prescribed in the United States where it is classed as a Schedule I drug. It is categorized as Class B drug in the UK and officially taken out of the shelves in 2008. Pholcodine is not approved in Canada.
+4. Indication:  Pholcodine is indicated as a cough suppressant for the temporary relief of non-productive dry cough. It is stated to present a required label indication of "temporary relief of dry cough."[5] Cough is the respiratory movement that occurs after an irritation signal is transmitted to the central nervous system and further stimulates the medulla oblongata. This stimulation causes a motor output that is sent through motoneurons to the respiratory muscles. A non-productive cough is a type of cough characterized by the absence of sputum, and it has a large inspiration that will cause continuous coughing.
+DrugId:  11
+1. Name:  Ethylmorphine
+2. Groups:  Approved, Illicit
+3. Description:  A narcotic analgesic and antitussive. It is metabolized in the liver by ethylmorphine-N-demethylase and used as an indicator of liver function. It is not marketed in the US but is approved for use in various countries around the world. In the US it is a schedule II drug (single-entity) and schedule III drug (in combination products).
+4. Indication:  Ethylmorphine is an analgesic used for pain relief.
+DrugId:  12
+1. Name:  PTI-801
+2. Groups:  Investigational
+3. Description:  PTI-801 represents a new class of drugs to treat pain. PTI-801 can minimize the opioid tolerance, dependence or addiction that is often associated with repeat use of oxycodone.
+4. Indication:  Investigated for use/treatment in addictions, osteoarthritis, and pain (acute or chronic).
+DrugId:  13
+1. Name:  GW 468816
+2. Groups:  Investigational
+3. Description:  GW 468816 is glycine receptor antagonist. It is designed to aid abstinence in people who have just quit smoking, delaying the time to relapse. It was undergoing phase II trials since December 2003.
+4. Indication:  Investigated for use/treatment in tobacco dependence.
+DrugId:  14
+1. Name:  Drotebanol
+2. Groups:  Experimental, Illicit
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Naloxone
+2. Groups:  Approved, Vet approved
+3. Description:  Naloxone is an opioid antagonist medication used to block or reverse the effects of opioid drugs, particularly within the setting of drug overdoses which are rapidly becoming a leading cause of death worldwide. More specifically, naloxone has a high affinity for μ-opioid receptors, where it acts as an inverse agonist, causing the rapid removal of any other drugs bound to these receptors. When taken in large quantities, opioid medications such as morphine, hydromorphone, methadone, heroin, or fentanyl are capable of causing life-threatening symptoms such as respiratory depression, reduced heart rate, slurred speech, drowsiness, and constricted pupils. If untreated, this can progress to vomiting, absent pulse and breathing, loss of consciousness, and even death. Naloxone is indicated for the rapid reversal of these symptoms of central nervous system depression in opioid overdose. It's important to note that naloxone only works on opioid receptors within the body, and is therefore not capable of reversing the effects of non-opioid medications such as stimulants like methamphetamine or cocaine, or benzodiazepines like lorazepam or diazepam. Also known as the brand name product Narcan, naloxone is currently available by intramuscular (IM) or subcutaneous (SubQ) injection, nasal spray, or intravenous (IV) infusion. Naloxone IM injections are commonly available in the form of "kits", which is ideal for making overdose treatment accessible and readily available for administration by minimally trained individuals within the community. Kits commonly include the supplies necessary to treat an overdose in a non-medical setting such as alcohol swabs, syringes, a rescue breathing mask, and instructions for use. Frequently also carried by medical and emergency personnel and at events known to be associated with heavy drug use like music festivals, naloxone kits are considered a key component of harm reduction strategies.When injected intramuscularly (IM), naloxone acts within 3-5 minutes and can last from 30-60 minutes before its effects wear off. Administration of naloxone is associated with very few side effects. Notably, if injected into a person not currently using opioid medications, there would be no noticeable effects at all. However, for individuals using opioid medications or experiencing an overdose, IM injection of naloxone rapidly reverses opioid effects and can cause the injected individual to immediately experience withdrawal symptoms. Common symptoms of opioid withdrawal include nausea, vomiting, sweating, runny nose, aches, and diarrhea. Although certainly physically uncomfortable, opioid withdrawal symptoms are not life-threatening like they are for alcohol withdrawals. Administration of naloxone is therefore appropriate for any person appearing to have any symptoms of an opioid overdose. Due to its short duration of action, person's injected with naloxone should be monitored for responsiveness and potentially injected a second time or taken to the hospital.Naloxone is also available within the combination product Suboxone with the opioid medication buprenorphine. Suboxone is used for the maintentance treatment of opioid dependence and addiction. When taken orally, naloxone has no pharmacological effect and does not reduce the effectiveness of the opioid effect of buprenorphine. The primary purpose of including naloxone within Suboxone is to act as a deterrent to injection, as injected naloxone would rapidly reverse the effects of buprenorphine.
+4. Indication:  For the complete or partial reversal of narcotic depression, including respiratory depression, induced by opioids including natural and synthetic narcotics, propoxyphene, methadone and the narcotic-antagonist analgesics: nalbuphine, pentazocine and butorphanol. It is also indicated for the diagnosis of suspected acute opioid overdose. It may also be used as an adjunctive agent to increase blood pressure in the management of septic shock.
+DrugId:  16
+1. Name:  Mannitol busulfan
+2. Groups:  Approved, Investigational
+3. Description:  Mm has been used in trials studying the treatment of Cocaine Dependence and Diabetes Mellitus, Type 2.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  GET-73
+2. Groups:  Investigational
+3. Description:  Get 73 has been investigated for the treatment of Alcohol Dependence.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Mirfentanil
+2. Groups:  Experimental
+3. Description:  Mirfentanil is a fentanyl derivative with strong selectivity for the μ opioid receptor. At lower doses, it antagonizes the analgesic effects of alfentanil and substitutes for naloxone in morphine-treated monkeys; however, it also reverses naloxone-precipitated withdrawal in pigeons trained to discriminate morphine from naloxone. At high doses, it exhibits analgesic activity which is not fully reversed by opioid antagonists, suggesting that the drug has both opioid and non-opioid mechanisms of action.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Acamprosate
+2. Groups:  Approved, Investigational
+3. Description:  Acamprosate, also known by the brand name Campral™, is a drug used for treating alcohol dependence. Acamprosate is thought to stabilize the chemical balance in the brain that would otherwise be disrupted by alcoholism, possibly by blocking glutaminergic N-methyl-D-aspartate receptors, while gamma-aminobutyric acid type A receptors are activated. Reports indicate that acamprosate only works with a combination of attending support groups and abstinence from alcohol. Certain serious side effects include allergic reactions, irregular heartbeats, and low or high blood pressure, while less serious side effects include headaches, insomnia, and impotence. Acamprosate should not be taken by people with kidney problems or allergies to the drug.
+4. Indication:  For the maintenance of abstinence from alcohol in patients with alcohol dependence who are abstinent at treatment initiation
+DrugId:  20
+1. Name:  Levorphanol
+2. Groups:  Approved
+3. Description:  A narcotic analgesic that may be habit-forming. It is nearly as effective orally as by injection.
+4. Indication:  For the management of moderate to severe pain or as a preoperative medication where an opioid analgesic is appropriate.
+DrugId:  21
+1. Name:  Carisbamate
+2. Groups:  Investigational
+3. Description:  Carisbamate has been investigated in Alcohol Abuse, Substance Abuse, and Alcohol Dependence.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Methadyl Acetate
+2. Groups:  Approved, Illicit
+3. Description:  A narcotic analgesic with a long onset and duration of action. It is used mainly in the treatment of narcotic dependence. [PubChem]
+4. Indication:  Used mainly in the treatment of narcotic dependence.
+DrugId:  23
+1. Name:  Ketobemidone
+2. Groups:  Approved, Investigational
+3. Description:  Ketobemidone is a powerful opioid analgesic. Its effectiveness against pain is in the same range as morphine, and it also has some NMDA-antagonist properties. This makes it useful for some types of pain that don't respond well to other opioids. The most commonly cited equalisation ratio for analgesic doses is 25 mg of ketobemidone hydrobromide to 60 mg of morphine hydrochloride or sulfate and circa 8 mg of ketobemidone by injection.
+4. Indication:  For the treatment of all types of severe pain, such as postoperative, cancer, kidney stones and fractures.
+DrugId:  24
+1. Name:  Desomorphine
+2. Groups:  Experimental, Illicit
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Ohmefentanyl
+2. Groups:  Illicit
+3. Description:  Ohmefentanyl is an extremely potent opioid analgesic drug which selectively binds to the µ-opioid receptor. The Chinese have recorded ohmefentanyl as having a potency that is 6,300 times morphine. Ohmefentanyl is one of the most potent μ -receptor agonists known, comparable to super-potent opioids such as carfentanil and etorphine which are used for tranquilizing large animals such as elephants in veterinary medicine. In mouse studies, the most active isomer 3R,4S,βS-ohmefentanyl was 28 times more powerful as a painkiller than fentanyl, the chemical from which it is derived, and 6300 times more effective than morphine. Ohmefentanyl has three stereogenic centers and so has eight stereoisomers, which are named F9201–F9208. Researchers are studying the different pharmaceutical properties of these isomers.
+4. Indication:  Not Available

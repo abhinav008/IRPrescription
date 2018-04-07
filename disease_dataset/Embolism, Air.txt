@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Medical air
+2. Groups:  Approved, Vet approved
+3. Description:  Medical air is supplied by a special air compressor to patient care areas using clean outside air.
+4. Indication:  For use as a source of clean air [FDA Label].
+DrugId:  2
+1. Name:  Parnaparin
+2. Groups:  Approved, Investigational
+3. Description:  Parnaparin is an antithrombotic and belongs to the group of low molecular weight heparins.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  3
+1. Name:  Fondaparinux
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux is under investigation for the treatment of Superficial Vein Thrombosis. Fondaparinux has been investigated for the treatment and prevention of Thromboembolism, Pulmonary Embolism, Thrombosis, Venous, Deep Vein Thrombosis, and Fibrillation, Atrial, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Carbon dioxide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Carbon dioxide is a colorless, odorless gas vital to life on Earth. This naturally occurring chemical compound is composed of a carbon atom covalently double bonded to two oxygen atoms. Medical Carbon Dioxide is a liquefied medicinal gas, supplied in cylinders filled to a high pressure. Medical Carbon Dioxide may be used in different situations, e.g. during bodily investigations, to inflate body cavities during surgery (such as key-hole surgery), iand in solid form (dry ice) for freezing of tissue and removal of warts.
+4. Indication:  Carbon dioxide is commonly used as an insufflation gas for minimal invasive surgery (laparoscopy, endoscopy, and arthroscopy) to enlarge and stabilize body cavities to provide better visibility of the surgical area. It has been used also in cryotherapy and as respiratory stimulant before and after anesthesia. It could be used also in expansion of blood vessels if required, to increase carbon dioxide level after rapid breathing, and to stimulate breathing after a period of nonbreathing. 
+DrugId:  5
+1. Name:  Monteplase
+2. Groups:  Investigational
+3. Description:  Monteplase has been used in trials studying the treatment of Pulmonary Embolism.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Oxygen
+2. Groups:  Approved, Vet approved
+3. Description:  Oxygen is a chemical element with symbol O and atomic number 8. Uptake of oxygen from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen. Higher level of oxygen than ambient air (hyperoxia) can be introduced under normobaric or hyperbaric conditions.
+4. Indication:  Oxygen therapy in clinical settings is used across diverse specialties, including various types of anoxia, hypoxia or dyspnea and any other disease states and conditions that reduce the efficiency of gas exchange and oxygen consumption such as respiratory illnesses, trauma, poisonings and drug overdoses. Oxygen therapy tries to achieve hyperoxia [6] to reduce the extent of hypoxia-induced tissue damage and malfunction. 
+DrugId:  7
+1. Name:  Certoparin
+2. Groups:  Approved, Investigational
+3. Description:  Certoparin is a low molecular weight heparin, primarily active against factor Xa. Like other low molecular weight heparins, it is used to prevent deep venous thrombosis.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  8
+1. Name:  Reviparin
+2. Groups:  Approved, Investigational
+3. Description:  Reviparin is a low molecular weight heparin which seems to have a better safety profile than unfractionated heparin.[1] It is prepared from porcine intestinal mucosa by nitrous acid depolymerization. Reviparin has a molecular weight of 3.9 kDa.[2] It was developed by Abbott laboratories and in 2009, reviparin presented an orphan drug designation by the FDA.[3]
+4. Indication:  By the FDA, reviparin is indicated for the treatment of deep vein which may lead to pulmonary embolism in pediatric patients. It is also indicated for the long-term treatment of acute deep vein thrombosis with or without pulmonary embolism in pregnant patients.[3]
+DrugId:  9
+1. Name:  Nitrogen
+2. Groups:  Approved, Vet approved
+3. Description:  Nitrogen is a chemical element with symbol N and atomic number 7. At room temperature, it is a transparent, odorless diatomic gas.Liquid nitrogen is used principally in cryotherapy for removal of diseased skin. Liquid nitrogen helps in removal of skin lesions through necrosis, which results from the freezing and thawing of cells. Cryotherapy usually done in doctors' office. Also, nitrogen is very famous component in fertilizers and energy-stores.
+4. Indication:  Liquid nitrogen is used mainly as a cryogenic agent for the treatment of various benign and malignant skin lesions. 
+DrugId:  10
+1. Name:  Carbon monoxide
+2. Groups:  Approved, Investigational
+3. Description:  Carbon monoxide (CO) is a colorless, odorless, and tasteless gas that is slightly less dense than air. It is toxic to hemoglobic animals (including humans) when encountered in concentrations above about 35 ppm, although it is also produced in normal animal metabolism in low quantities, and is thought to have some normal biological functions.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Fluindione
+2. Groups:  Approved, Investigational
+3. Description:  Fluindione is under investigation for the treatment of Venous Thrombosis, Pulmonary Embolism, Permanent Atrial Fibrillation, and Anticoagulating Treatment on a Duration at Least 12-month-old Superior. Fluindione has been investigated for the treatment of Blood Coagulation Disorders.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  13
+1. Name:  Linseed oil
+2. Groups:  Approved, Investigational
+3. Description:  Linseed oil is a rich source of α-Linolenic acid extracted from the dried, ripened seeds of the flax plant Linum usitatissimum. Other fatty acids contained in linseed oil include palmitic acid, stearic acid, oleic acid and linolenic acid. Linseed oil is particularly susceptible to polymerization reactions upon exposure to oxygen in air due to a high content of di- and triunsaturated esters. It is used in drying processes, and is used in other industrial and commercial applications. It is an indirect additive used in food contact substances.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Pumactant
+2. Groups:  Investigational
+3. Description:  Pumactant is a synthetic surfactant used for treating respiratory distress syndrome in neonates. It is a unique formulation of the naturally occurring phospholipids Dipalmitoylphosphatidycholine (DPPC) and Phosphatidyl Glycerol (PG).
+4. Indication:  Investigated for use/treatment in asthma, lung injury, and surgical adhesions.
+DrugId:  15
+1. Name:  Bitolterol
+2. Groups:  Withdrawn
+3. Description:  Bitolterol mesylate is a beta-2-adrenergic receptor agonist used for the relief of bronchospasm in conditions such as asthma and COPD. Bitolterol was withdrawn from the market by Elan Pharmaceuticals in 2001. [Wikipedia]
+4. Indication:  Used to dilate air passages in the lungs that have become narrowed as a result of disease or inflammation. It is used in the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  16
+1. Name:  Procaterol
+2. Groups:  Approved, Investigational
+3. Description:  A long-acting beta-2-adrenergic receptor agonist. It is a potent bronchodilator that may be administered orally or by aerosol inhalation. [PubChem]
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  17
+1. Name:  Phenindione
+2. Groups:  Approved, Investigational
+3. Description:  An indandione that has been used as an anticoagulant. Phenindione has actions similar to warfarin, but it is now rarely employed because of its higher incidence of severe adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p234)
+4. Indication:  For the treatment of pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, mural thrombosis, and thrombophili. Also used for anticoagulant prophylaxis.
+DrugId:  18
+1. Name:  Fradafiban
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in angina.
+DrugId:  19
+1. Name:  Edoxaban
+2. Groups:  Approved
+3. Description:  Edoxaban is a member of the Novel Oral Anti-Coagulants (NOACs) class of drugs, and is a rapidly acting, oral, selective factor Xa inhibitor. By inhibiting factor Xa, a key protein in the coagulation cascade, edoxaban prevents the stepwise amplification of protein factors needed to form blood clots. It is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF) and for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant. Traditionally, warfarin, a vitamin K antagonist, was used for stroke prevention in these individuals but effective use of this drug is limited by it's delayed onset, narrow therapeutic window, need for regular monitoring and INR testing, and numerous drug-drug and drug-food interactions. This has prompted enthusiasm for newer agents such as dabigatran, apixaban, and rivaroxaban for effective clot prevention. In addition to once daily dosing, the benefits over warfarin also include significant reductions in hemorrhagic stroke and GI bleeding, and improved compliance, which is beneficial as many patients will be on lifelong therapy. 
+4. Indication:  Edoxaban is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF). However, it should not be used in patients with creatinine clearance (CrCL) > 95 mL/min because of increased risk of ischemic stroke compared to warfarin at the highest dose studied (60 mg). It is also indicated for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant.
+DrugId:  20
+1. Name:  Aniline
+2. Groups:  Experimental
+3. Description:  Aniline, phenylamine or aminobenzene is an organic compound with the formula C6H5NH2. Consisting of a phenyl group attached to an amino group, aniline is the prototypical aromatic amine. Being a precursor to many industrial chemicals, its main use is in the manufacture of precursors to polyurethane. Like most volatile amines, it possesses the somewhat unpleasant odour of rotten fish. It ignites readily, burning with a smoky flame characteristic of aromatic compounds. Aniline is colorless, but it slowly oxidizes and resinifies in air, giving a red-brown tint to aged samples.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Butylamine
+2. Groups:  Experimental
+3. Description:  Butylamine is an organic compound, specifically, an amine. This colourless liquid is one of the four isomeric amines of butane, the others being sec-butylamine, tert-butylamine and isobutylamine. At standard temperature and pressure, n-butylamine is a liquid having the fishy, ammonia-like odor common to amines. The liquid acquires a yellow colour upon storage in air. It is soluble in all organic solvents. [Wikipedia]
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Colfosceril palmitate
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Colfosceril palmitate is a synthetic pulmonary surfactant administered in infants with respiratory distress syndrome.[1] It was part of the first generation of commercially available artificial surfactants.[4] It was developed by Burroughs Wellcome and it was FDA approved on August 6, 1990.[8] Nowadays colfosceril palmitate is under the state of canceled post-marketing.
+4. Indication:  Colfosceril palmitate is indicated for the treatment of respiratory distress syndrome (RDS) in premature infants. The official label is referred as a intratracheal suspension for prophylactic treatment of infants of less than 1350 grams of birth weight under risk of developing RDS, or in infants with birth weight greater than 1350 grams with pulmonary immaturity, or as rescue treatment of infants that already developed RDS.[8] The central feature of RDS is a surfactant deficiency due to lung immaturity. This lung condition is more frequently presented due to risk factors like prematurity, delayed lung maturation caused by maternal diabetes or male gender, or surfactant dysfuntion due to perinatal asphyxia, pulmonary infection or delivery without labor.[4]
+DrugId:  23
+1. Name:  Poractant alfa
+2. Groups:  Approved
+3. Description:  Poractant alfa is a pulmonary surfactant marketed as Curosurf in the United States and Canada. It is used to treat Respiratory Distress Syndrome (RDS) in premature infants with an endogenous pulmonary surfactant deficiency. Poractant alfa is an extract of natural porcine lung surfactant consisting of 99% polar lipids (mainly phospholipids) and 1% hydrophobic low molecular weight proteins (surfactant associated proteins SP-B and SP-C). The phospholipid content of the extract consists primarily of phosphatidylcholine and dipaImitoylphosphatidylcholine. Poractant alfa is a creamy white suspension of this extract in 0.9% sodium chloride solution. It contains no preservatives.
+4. Indication:  Poractant alfa is indicated for the treatment of Respiratory Distress Syndrome (RDS) in premature infants.
+DrugId:  24
+1. Name:  Opium
+2. Groups:  Approved, Illicit
+3. Description:  Opium is the first substance of the diverse group of the opiates. It has been known for a long time, and the first evidence of a poppy culture dates from 5 thousand years by the Sumerians. During the years, opium was used as a sedative and hypnotic, but it was determined to be addictive.[1] Opium is extracted from Papaver somniferum, which is more known as poppies. This plant is an integrant of the Papaveraceae family, and it is characterized by solitary leaves and capsulated fruits. Therefore, opium is a sticky brown resin obtained by collecting and drying the latex that exudes from the poppy pods.[13]Once extracted, opium contains two main groups of alkaloids; the psychoactive constituents which are in the category of phenanthrenes and alkaloids that have no central nervous system effect in the category of isoquinolines. Morphine is the most prevalent and principal alkaloid in opium, and it is responsible for most of the harmful effects of opium.[14]Opium has gradually been superseded by a variety of synthetic opioids and general anesthetics. Some of the isolated derivatives of opium are morphine, noscapine, strychnine, veratrine, colchicine, codeine, and quinine.[2] Opium is a prohibited drug of abuse in most countries, but the illegal production of this drug and its derivatives keeps being registered. There is some legal production of opium in different countries for the obtention of alkaloids by extraction.[15]
+4. Indication:  Opium and its derivatives are the most commonly used medications for the treatment of acute and chronic pain. Opium and its alkaloid-derivatives can also be used as tranquilizers, antitussives and in the treatment of diarrhea.[11] The direct use of opium is not common nowadays but the use of some of its derivatives such as morphine and codeine, as well as the use of a tincture of opium for severe diarrhea can be seen in medical practice.[12]Illegal use of opium has been registered to be for both recreational and medicinal purposes.[3]
+DrugId:  25
+1. Name:  Sodium sulfide
+2. Groups:  Approved
+3. Description:  Sodium sulfide is a chemical compound with a chemical formula Na2S. Sodium sulfide is used in the pulp and paper industry, water treatment, textile industry, and various chemical manufacturing processes including the production of rubber chemicals, sulfur dyes and oil recovery. Along with its hydrate form, sodium sulfide releases hydrogen sulfide (H2S) when in contact with moist air. H2S is an endogenous gaseous transmitter that exhibits anti-inflammatory and antiapoptotic properties. Along with other sulfides, the anti-inflammatory and tissue-protective effects of sodium sulfide have been investigated in models of inflammation and oxidative stress. Interestingly, sodium sulfide was shown to have some cardioprotective role against cardiac ischemia or reperfusion injury, as well as protect lungs against ventilator-induced lung injury [1]. However the clinical significance and mechanism of action of sodium sulfide and replication of results across other studies are not yet fully determined.
+4. Indication:  Not Available

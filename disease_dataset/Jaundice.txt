@@ -1,0 +1,75 @@
+DrugId:  1
+1. Name:  Stannsoporfin
+2. Groups:  Investigational
+3. Description:  Stannsoporfin is a competitive heme oxygenase (HO) inhibitor being developed by InfaCare, a subsidiary of WellSpring Pharmaceuticals, for the prevention of hyperbilirubinemia in infants at risk of developing jaundice.
+4. Indication:  Investigated for use/treatment in liver disease, metabolic disease, and pediatric indications.
+DrugId:  2
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  3
+1. Name:  Oxyphenisatin
+2. Groups:  Investigational, Withdrawn
+3. Description:  A laxative that undergoes enterohepatic circulation. It may cause jaundice.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Benoxaprofen
+2. Groups:  Withdrawn
+3. Description:  The use of benoxaprofen, formerly marketed as Oraflex tablets, was associated with fatal cholestatic jaundice among other serious adverse reactions. The holder of the approved application voluntarily withdrew Oraflex tablets from the market on August 5, 1982.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  6
+1. Name:  Sulfamerazine
+2. Groups:  Approved, Vet approved
+3. Description:  A sulfanilamide that is used as an antibacterial agent. [PubChem]
+4. Indication:  A sulfanilamide that is used as an antibacterial agent. It can be used to treat bronchitis, prostatitis and urinary tract infections.
+DrugId:  7
+1. Name:  Obeticholic acid
+2. Groups:  Approved
+3. Description:  Obeticholic acid is a farnesoid-X receptor (FXR) agonist and is used to treat a number of liver diseases. [1] Obeticholic acid has been granted accelerated approval to treat primary biliary cholangitis in combination with ursodeoxycholic acid. [1] Approval is limited to monotherapy in patient's who are intolerant to ursodeoxycholic acid, or in combination with ursodeoxycholic acid in adults who have not responded adequately to ursodeoxyholic acid alone. [1]Obeticholic acid given orally, binds to the farnesoid X receptor (FXR), a receptor found in the nucleus of cells in the liver and intestine. FXR is a key regulator of bile acid metabolic pathways. Obeticholic acid increases bile flow from the liver and suppresses bile acid production in the liver, thus reducing the exposure of the liver to toxic levels of bile acids.
+4. Indication:  Investigated for use/treatment in liver disease.Obeticholic acid was approved as an orphan drug based on its reduction in the level of the biomarker alkaline phosphatase as a surrogate endpoint for clinical benefit. It is indicated for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA. Additional studies are being required to prove its clinical benefit.
+DrugId:  8
+1. Name:  Sulfinpyrazone
+2. Groups:  Approved
+3. Description:  A uricosuric drug that is used to reduce the serum urate levels in gout therapy. It lacks anti-inflammatory, analgesic, and diuretic properties.
+4. Indication:  For the treatment of gout and gouty arthritis.
+DrugId:  9
+1. Name:  Cobicistat
+2. Groups:  Approved
+3. Description:  Cobicistat, trade name Tybost (formerly GS-9350), is a licensed drug for use in the treatment of infection with human immunodeficiency virus (HIV). Although it does not have any anti-HIV activity, cobicistat acts as a pharmacokinetic enhancer by inhibiting cytochrome P450 3A isoforms (CYP3A) and therefore increases the systemic exposure of coadministered agents that are metabolized by CYP3A enzymes. More specifically, cobicistat is indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection. Increasing systemic exposure of anti-retrovirals (ARVs) without increasing dosage allows for better treatment outcomes and a decreased side effect profile.
+4. Indication:  Cobicistat is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection. It is not interchangeable with ritonavir to increase systemic exposure of darunavir 600 mg twice daily, fosamprenavir, saquinavir, or tipranavir due to lack of exposure data. The use of cobicistat is not recommended with darunavir 600 mg twice daily, fosamprenavir, saquinavir or tipranavir. Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain cobicistat interactions. Cobicistat and ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications.
+DrugId:  10
+1. Name:  Azithromycin
+2. Groups:  Approved
+3. Description:  Azithromycin is a semi-synthetic macrolide antibiotic of the azalide class. Like other macrolide antibiotics, azithromycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit of the bacterial 70S ribosome. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the process of translation. Its effects may be bacteriostatic or bactericidal depending of the organism and the drug concentration. Its long half life, which enables once daily dosing and shorter administration durations, is a property distinct from other macrolides.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions: H. influenzae, M. catarrhalis, S. pneumoniae, C. pneumoniae, M. pneumoniae, S. pyogenes, S. aureus, S. agal
+DrugId:  11
+1. Name:  Diflunisal
+2. Groups:  Approved, Investigational
+3. Description:  Diflunisal, a salicylate derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with pharmacologic actions similar to other prototypical NSAIAs. Diflunisal possesses anti-inflammatory, analgesic and antipyretic activity. Though its mechanism of action has not been clearly established, most of its actions appear to be associated with inhibition of prostaglandin synthesis via the arachidonic acid pathway. Diflunisal is used to relieve pain accompanied with inflammation and in the symptomatic treatment of rheumatoid arthritis and osteoarthritis.
+4. Indication:  For symptomatic treatment of mild to moderate pain accompanied by inflammation (e.g. musculoskeletal trauma, post-dental extraction, post-episiotomy), osteoarthritis, and rheumatoid arthritis.
+DrugId:  12
+1. Name:  Technetium Tc-99m disofenin
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m disofenin is a radiopharmaceutical agent used in hepatobiliary imaging for diagnostic purposes. It is well suited for both planar and single photon tomographic scintigraphy to quantitatively measure the function of liver, gallbladder and bile ducts and detect any anatomical changes in the hepatobliary system. It is available as an intravenous injection in a preparation kit under the name Hepatolite. Technetium Tc-99m is a metastable nuclear isomer and disofenin is an iminodiacetic acid derivative with no known pharmacologic actions at the doses recommended. However disofenin is the most commonly used iminodiacetic acid since it has a high liver to renal extraction and its hepatic uptake is not as highly dependent on serum bilirubin levels (a competitive inhibitor for liver uptake) as are other tracers from the iminodiacetic acid.
+4. Indication:  Technetium Tc99m Disofenin is indicated as a hepatobiliary imaging agent. Hepatolite is indicated in the diagnosis of acute cholecystitis as well as to rule out the occurrence of acute cholecystitis in suspected patients with right upper quadrant pain, fever, jaundice, right upper quadrant tenderness and mass or rebound tenderness, but not limited to these signs and symptoms.
+DrugId:  13
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  14
+1. Name:  Sulfamethoxazole
+2. Groups:  Approved
+3. Description:  A bacteriostatic antibacterial agent that interferes with folic acid synthesis in susceptible bacteria. Its broad spectrum of activity has been limited by the development of resistance. (From Martindale, The Extra Pharmacopoeia, 30th ed, p208)
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  15
+1. Name:  Iron
+2. Groups:  Approved
+3. Description:  A metallic element found in certain minerals, in nearly all soils, and in mineral waters. It is an essential constituent of hemoglobin, cytochrome, and other components of respiratory enzyme systems. Its chief functions are in the transport of oxygen to tissue (hemoglobin) and in cellular oxidation mechanisms. Depletion of iron stores may result in iron-deficiency anemia. Iron is used to build up the blood in anemia.
+4. Indication:  Used in preventing and treating iron-deficiency anemia.

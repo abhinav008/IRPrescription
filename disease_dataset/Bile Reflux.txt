@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sucralfate
+2. Groups:  Approved
+3. Description:  A basic aluminum complex of sulfated sucrose. [PubChem]
+4. Indication:  For the short-term treatment (up to 8 weeks) of active duodenal ulcer, as well as maintenance therapy for duodenal ulcer patients at reduced dosage (1 gram twice a day) after healing of acute ulcers. Also used for the short-term treatment of gastric ulcer.
+DrugId:  2
+1. Name:  AZD 3355
+2. Groups:  Investigational
+3. Description:  AZD 3355 is a reflux inhibitor used for the treatment of Gastroesophageal Reflux Disease. It is developed by AstraZeneca and is currently in phase I/II trials.
+4. Indication:  Investigated for use/treatment in gastroesophageal reflux disease (GERD).
+DrugId:  3
+1. Name:  Cholic Acid
+2. Groups:  Approved
+3. Description:  A major primary bile acid produced in the liver and usually conjugated with glycine or taurine. It facilitates fat absorption and cholesterol excretion. [PubChem]Cholic acid, formulated as Cholbam capsules, is approved by the United States Food and Drug Administration as a treatment for children and adults with bile acid synthesis disorders due to single enzyme defects, and for peroxisomal disorders (such as Zellweger syndrome).
+4. Indication:  Oral cholic acid is indicated for: treatment of bile acid synthesis disorders due to single enzyme defects; and as adjunctive treatment of peroxisomal disorders including Zellweger spectrum disorders in patients who exhibit manifestations of liver disease, steatorrhea or complications from decreased fat soluble vitamin absorption. 
+DrugId:  4
+1. Name:  Chenodeoxycholic acid
+2. Groups:  Approved
+3. Description:  Chenodeoxycholic acid (or Chenodiol) is an epimer of ursodeoxycholic acid (DB01586). Chenodeoxycholic acid is a bile acid naturally found in the body. It works by dissolving the cholesterol that makes gallstones and inhibiting production of cholesterol in the liver and absorption in the intestines, which helps to decrease the formation of gallstones. It can also reduce the amount of other bile acids that can be harmful to liver cells when levels are elevated.
+4. Indication:  Chenodiol is indicated for patients with radiolucent stones in well-opacifying gallbladders, in whom selective surgery would be undertaken except for the presence of increased surgical risk due to systemic disease or age. Chenodiol will not dissolve calcified (radiopaque) or radiolucent bile pigment stones.
+DrugId:  5
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  6
+1. Name:  ADX10059
+2. Groups:  Investigational
+3. Description:  ADX10059 is a metabotropic glutamate receptor 5 (mGluR5) negative allosteric modulator (NAM). The orally available small molecule drug candidate, which is highly specific for mGluR5, was discovered at Addex in 2003. It is developed for the treatment of GERD, migraine and anxiety.
+4. Indication:  Investigated for use/treatment in anxiety disorders, gastroesophageal reflux disease (GERD), and migraine and cluster headaches.
+DrugId:  7
+1. Name:  Hyodeoxycholic Acid
+2. Groups:  Investigational
+3. Description:  Hyodeoxycholic Acid has been used in trials studying the treatment of Hypercholesterolemia.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Lesogaberan
+2. Groups:  Investigational
+3. Description:  Lesogaberan has been used in trials studying the treatment and basic science of GERD, Reflux, Heartburn, Regurgitation, and Reflux Disease, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Dehydrocholic acid
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Glycochenodeoxycholic Acid
+2. Groups:  Experimental
+3. Description:  A bile salt formed in the liver from chenodeoxycholate and glycine, usually as the sodium salt. It acts as a detergent to solubilize fats for absorption and is itself absorbed. It is a cholagogue and choleretic. [PubChem]
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Cholestyramine
+2. Groups:  Approved, Investigational
+3. Description:  Cholestyramine or colestyramine is a bile acid sequestrant. Bile acid sequestrants are polymeric compounds which serve as ion exchange resins. Cholestyramine resin is quite hydrophilic, but insoluble in water.
+4. Indication:  Indicated as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low density lipoprotein [LDL] cholesterol) who do not respond adequately to diet. Also for the relief of pruritus associated with partial biliary obstruction.
+DrugId:  12
+1. Name:  Obeticholic acid
+2. Groups:  Approved
+3. Description:  Obeticholic acid is a farnesoid-X receptor (FXR) agonist and is used to treat a number of liver diseases. [1] Obeticholic acid has been granted accelerated approval to treat primary biliary cholangitis in combination with ursodeoxycholic acid. [1] Approval is limited to monotherapy in patient's who are intolerant to ursodeoxycholic acid, or in combination with ursodeoxycholic acid in adults who have not responded adequately to ursodeoxyholic acid alone. [1]Obeticholic acid given orally, binds to the farnesoid X receptor (FXR), a receptor found in the nucleus of cells in the liver and intestine. FXR is a key regulator of bile acid metabolic pathways. Obeticholic acid increases bile flow from the liver and suppresses bile acid production in the liver, thus reducing the exposure of the liver to toxic levels of bile acids.
+4. Indication:  Investigated for use/treatment in liver disease.Obeticholic acid was approved as an orphan drug based on its reduction in the level of the biomarker alkaline phosphatase as a surrogate endpoint for clinical benefit. It is indicated for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA. Additional studies are being required to prove its clinical benefit.
+DrugId:  13
+1. Name:  Tetracycline
+2. Groups:  Approved, Vet approved
+3. Description:  Tetracycline is a broad spectrum polyketide antibiotic produced by the Streptomyces genus of Actinobacteria. It exerts a bacteriostatic effect on bacteria by binding reversible to the bacterial 30S ribosomal subunit and blocking incoming aminoacyl tRNA from binding to the ribosome acceptor site. It also binds to some extent to the bacterial 50S ribosomal subunit and may alter the cytoplasmic membrane causing intracellular components to leak from bacterial cells.
+4. Indication:  Used to treat bacterial infections such as Rocky Mountain spotted fever, typhus fever, tick fevers, Q fever, rickettsialpox and Brill-Zinsser disease. May be used to treat infections caused by Chlamydiae spp., B. burgdorferi (Lyme disease), and upper respiratory infections caused by typical (S. pneumoniae, H. influenzae, and M. catarrhalis) and atypical organisms (C. pneumoniae, M. pneumoniae, L. pneumophila). May also be used to treat acne. Tetracycline may be an alternative drug for people who are allergic to penicillin.
+DrugId:  14
+1. Name:  Ursodeoxycholic acid
+2. Groups:  Approved, Investigational
+3. Description:  Ursodeoxycholic acid is an epimer of chenodeoxycholic acid (DB06777). It is a mammalian bile acid found first in the bear and is apparently either a precursor or a product of chenodeoxycholate. Its administration changes the composition of bile and may dissolve gallstones. It is used as a cholagogue and choleretic. [PubChem]
+4. Indication:  The drug reduces cholesterol absorption and is used to dissolve (cholesterol) gallstones in patients who want an alternative to surgery.
+DrugId:  15
+1. Name:  Glycocholic acid
+2. Groups:  Experimental, Investigational
+3. Description:  The glycine conjugate of cholic acid. It acts as a detergent to solubilize fats for absorption and is itself absorbed.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Aramchol
+2. Groups:  Investigational
+3. Description:  Aramchol has been used in trials studying the treatment of HIV, Gallstones, Fatty Liver, Metabolic Syndrome, and Nonalcoholic Steatohepatitis, among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Lafutidine
+2. Groups:  Investigational
+3. Description:  Lafutidine has been investigated in Peptic Ulcer, Community-acquired Pneumonia, and Gastroesophageal Reflux Disease (GERD).
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Lavoltidine
+2. Groups:  Investigational
+3. Description:  Lavoltidine has been used in trials studying the diagnostic of Reflux, Gastroesophageal and Gastroesophageal Reflux Disease.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Colestipol
+2. Groups:  Approved
+3. Description:  Highly crosslinked and insoluble basic anion exchange resin used as anticholesteremic. It may also may reduce triglyceride levels. [PubChem]
+4. Indication:  For use, as adjunctive therapy to diet, for the reduction of elevated serum total and LDL-C in patients with primary hypercholesterolemia (elevated LDL-C) who do not respond adequately to diet.
+DrugId:  20
+1. Name:  Naronapride
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in gastroesophageal reflux disease (GERD) and gastroparesis.
+DrugId:  21
+1. Name:  Fluorescein lisicol
+2. Groups:  Investigational
+3. Description:  Fluorescein lisicol has been used in trials studying the diagnostic of Pharmacokinetics, Hepatic Cirrhosis, Hepatitis, Viral, Human, Nonalcoholic Steatohepatitis, and Non-Alcoholic Fatty Liver Disease.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Squalamine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in ovarian cancer, lung cancer, and macular degeneration.
+DrugId:  23
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Deoxycholic Acid
+2. Groups:  Approved
+3. Description:  Deoxycholic acid is a a bile acid which emulsifies and solubilizes dietary fats in the intestine, and when injected subcutaneously, it disrupts cell membranes in adipocytes and destroys fat cells in that tissue. In April 2015, deoxycholic acid was approved by the FDA for the treatment submental fat to improve aesthetic appearance and reduce facial fullness or convexity. It is marketed under the brand name Kybella by Kythera Biopharma and is the first pharmacological agent available for submental fat reduction, allowing for a safer and less invasive alternative than surgical procedures. 
+4. Indication:  For improvement in appearance of moderate to severe fullness associated with submental fat in adults. 
+DrugId:  25
+1. Name:  Taurocholic Acid
+2. Groups:  Experimental
+3. Description:  The product of conjugation of cholic acid with taurine. Its sodium salt is the chief ingredient of the bile of carnivorous animals. It acts as a detergent to solubilize fats for absorption and is itself absorbed. It is used as a cholagogue and cholerectic. [PubChem]
+4. Indication:  Not Available

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Xamoterol
+2. Groups:  Experimental
+3. Description:  Xamoterol is a β1-adrenoceptor partial agonist that has shown to improve systolic and diastolic function in studies with heart failure patients. It modulates the sympathetic control of the heart but has no agonist action on β2-adrenoceptors.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Betaxolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-1-adrenergic antagonist with no partial agonist activity.
+4. Indication:  For the management of hypertension.
+DrugId:  3
+1. Name:  Ivabradine
+2. Groups:  Approved
+3. Description:  Ivabradine is a novel heart rate lowering medicine for the symptomatic management of stable angina pectoralis and symptomatic chronic heart failure. Ivabradine, brand name Corlanor, was approved by the FDA in April 2015 for the treatment of chronic heart failure in patients with an ejection fraction of ≤35%, in sinus rhythm with resting heart rate ≥70 beats per minute, who are not on beta-blockers due to contraindications or already receiving maximum beta-blocker dose. Ivabradine acts by selectively inhibiting the "funny" channel pacemaker current (If) in the sinoatrial node in a dose-dependent fashion, resulting in a lower heart rate and thus more blood to flow to the myocardium. Although non-dihydropyridine calcium channel blockers and beta blockers also effectively lower heart rate, they exhibit adverse events due to their negative ionotropic effects. Therefore, as ivabradine is designed as a "pure" heart rate-lowering drug by selectively acting on the If channels, it may offer a more favorable side effect profile due to its lower likelihood of causing serious adverse effects.
+4. Indication:  Ivabradine's indication by the FDA is to reduce the risk of hospitalization for worsening heart failure in patients with stable, symptomatic chronic heart failure with left ventricular ejection fraction ≤35%, who are in sinus rhythm with resting heart rate ≥70 beats per minute and either are on maximally tolerated doses of beta-blockers or have a contraindication to beta-blocker use. 
+DrugId:  4
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  5
+1. Name:  Ouabain
+2. Groups:  Approved
+3. Description:  A cardioactive glycoside consisting of rhamnose and ouabagenin, obtained from the seeds of Strophanthus gratus and other plants of the Apocynaceae; used like digitalis. It is commonly used in cell biological studies as an inhibitor of the NA(+)-K(+)-exchanging ATPase.
+4. Indication:  For the treatment of atrial fibrillation and flutter and heart failure
+DrugId:  6
+1. Name:  Practolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist that has been used in the emergency treatment of cardiac arrhythmias. [PubChem]
+4. Indication:  Used in the emergency treatment of cardiac arrhythmias.
+DrugId:  7
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  8
+1. Name:  Bisoprolol
+2. Groups:  Approved
+3. Description:  Bisoprolol is a cardioselective β1-adrenergic blocking agent used for secondary prevention of myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. Bisoprolol is structurally similar to metoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At lower doses (less than 20 mg daily), bisoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with daily doses of 20 mg or greater. Unlike propranolol and pindolol, bisoprolol does not exhibit membrane-stabilizing or sympathomimetic activity. Bisoprolol possesses a single chiral centre and is administered as a racemic mixture. Only l-bisoprolol exhibits significant β-blocking activity.
+4. Indication:  For management of heart failure, angina pectoris, and mild to moderate hypertension and for secondary prevention of myocardial infarction (MI). 
+DrugId:  9
+1. Name:  Levosimendan
+2. Groups:  Approved, Investigational
+3. Description:  Levosimendan is a calcium sensitiser used in the management of acutely decompensated congestive heart failure. It increases the sensitivity of the heart to calcium, thus increasing cardiac contractility without a rise in intracellular calcium. Levosimendan exerts its effect by increasing calcium sensitivity of myocytes by binding to cardiac troponin C in a calcium-dependent manner. It also has a vasodilatory effect, by opening adenosine triphosphate (ATP)-sensitive potassium channels in vascular smooth muscle to cause smooth muscle relaxation.
+4. Indication:  For short term treatment of acutely decompensated severe chronic heart failure (CHF). Also being investigated for use/treatment in heart disease.
+DrugId:  10
+1. Name:  Deslanoside
+2. Groups:  Approved
+3. Description:  Deacetyllanatoside C. A cardiotonic glycoside from the leaves of Digitalis lanata. [PubChem]
+4. Indication:  For the treatment and management of Congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  11
+1. Name:  Digitoxin
+2. Groups:  Approved, Investigational
+3. Description:  A cardiac glycoside sometimes used in place of digoxin. It has a longer half-life than digoxin; toxic effects, which are similar to those of digoxin, are longer lasting. (From Martindale, The Extra Pharmacopoeia, 30th ed, p665)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  12
+1. Name:  Digoxin
+2. Groups:  Approved
+3. Description:  A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone digoxigenin. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  13
+1. Name:  Oxprenolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+4. Indication:  Used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+DrugId:  14
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  15
+1. Name:  Glial growth factor 2
+2. Groups:  Investigational
+3. Description:  Glial growth factor 2 has been used in trials studying the treatment of Heart Failure.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  rGLP-1
+2. Groups:  Investigational
+3. Description:  rGLP-1 is a continuous infusion of glucagon-like peptide 1, or GLP-1, targeted for the treatment of congestive heart failure (CHF) in patients ineligible for transplant. GLP-1 is a naturally occurring hormone produced in the intestines in response to food intake.
+4. Indication:  Investigated for use/treatment in congestive heart failure and diabetes mellitus type 2.
+DrugId:  17
+1. Name:  Rolofylline
+2. Groups:  Investigational
+3. Description:  Rolofylline is under clinical development by pharmaceutical company NovaCardia for the treatment of congestive heart failure.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Derenofylline
+2. Groups:  Investigational
+3. Description:  Derenofylline has been used in trials studying the treatment of Congestive Heart Failure and Acute Decompensated Heart Failure; Renal Dysfunction.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Nitrite
+2. Groups:  Approved, Investigational
+3. Description:  Nitrite is under investigation for the treatment of Heart Failure.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Omecamtiv Mecarbil
+2. Groups:  Investigational
+3. Description:  Omecamtiv Mecarbil has been used in trials studying the treatment and basic science of Heart Failure, Echocardiogram, Pharmacokinetics, Chronic Heart Failure, and History of Chronic Heart Failure, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Urocortin-2
+2. Groups:  Investigational
+3. Description:  Urocortin 2 has been investigated for the basic science of Heart Failure and Cardiovascular Disease.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Tezosentan
+2. Groups:  Investigational
+3. Description:  Tezosentan is an intravenous endothelin receptor A/B antagonist. It acts as a vasodilator and was designed as a therapy for patients with acute heart failure. Recent studies have shown however, that tezosentan does not improve dyspnea or reduce the risk of fatal or nonfatal cardiovascular events.
+4. Indication:  Investigated for use/treatment in congestive heart failure, liver disease, and heart disease.
+DrugId:  23
+1. Name:  Darusentan
+2. Groups:  Investigational
+3. Description:  Darusentan is a selective endothelin ETA receptor antagonist. It is being evaluated as a treatment for congestive heart failure and hypertension.
+4. Indication:  For the treatment of congestive heart failure and hypertension.
+DrugId:  24
+1. Name:  Daglutril
+2. Groups:  Investigational
+3. Description:  Daglutril is an orally active, mixed neutral endopeptidase/endothelin converting enzyme inhibitor under development for the treatment of essential hypertension and congestive heart failure.
+4. Indication:  Investigated for use/treatment in congestive heart failure and hypertension.
+DrugId:  25
+1. Name:  Acemetacin
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Acemetacin is a carboxymethyl ester of indometacin. It is a potent non-steroidal anti-inflammatory drug, derived from the indol-3-acetic acid, whose activity is thought to be mainly through its active metabolite indomethacin.[1] In clinical trials, acemetacin exhibits a better gastric tolerability compared to its active metabolite indometacin.[6] It was developed by E. Merck and Company in Germany as an attempt to provide a safer drug but other than the amelioration on the gastrointestinal effects, the metabolism of acetamicin led to the formation of indomethacin and it kept the same side effects.[7]
+4. Indication:  Acemetacin is not FDA, Canada or EMA approved, but in the countries where it is marketed it is indicated for the symptomatic treatment of pain and swelling in acute inflammation of the joints in rheumathoid arthritis, osteoarthritis, low back pain and post-surgical pain.[11] It is also indicated for the treatment of chronic inflammation of the joints in presence of rheumatoid arthritis, treatment of ankylosing spondylitis, treatment of irritation in the joints and spinal column caused by degenerative disorders, treatment of inflammatory soft-tissue rheumatism syndrome and painful swelling and inflammation caused by injury.[10, 12]

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Immune Globulin Human
+2. Groups:  Approved, Investigational
+3. Description:  Intravenous immunoglobulin (IVIg) is a mixture of IgG1 and other antibodies derived from healthy human plasma via Cohn fractionation. The purification process includes cold alcohol fractionation, polyethylene glycol precipitation, and ion exchange chromatography. IVIg contains the same distribution of IgG antibody subclasses as is found in the general human population. IgG subclasses are fully represented in the following proportions: 70.3% IgG1, 24.7% IgG2, 3.1% IgG3, and 1.9% IgG4. IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders.
+4. Indication:  IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders. These indications includes idiopathic thrombocytopenic purpura, Kawasaki disease, hypogammaglobulinemia, B cell chronic lymphocytic leukemia, bone marrow transplant complications, Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy (CIDP), multiple sclerosis, rheumatoid arthritis, myesthenia gravis, Wiskott–Aldrich syndrome and inflammatory skin diseases.
+DrugId:  2
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  3
+1. Name:  AGI-1096
+2. Groups:  Investigational
+3. Description:  AGI-1096 is a novel oral antioxidant and selective anti-inflammatory agent that is being developed to address the accelerated inflammation of grafted blood vessels, known as transplant arteritis, common in chronic organ transplant rejection.
+4. Indication:  Investigated for use/treatment in transplant (rejection).
+DrugId:  4
+1. Name:  MLN-977
+2. Groups:  Investigational
+3. Description:  MLN-977 is a small molecule compound that inhibits the production of leukotrienes, especially 5-lipoxygenase. It is developed by PharmaEngine to treat asthma and chronic obstructive pulmonary disease. 
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  5
+1. Name:  NCX 950
+2. Groups:  Investigational
+3. Description:  NCX 950, beta2-adrenoceptor agonists is widely used in the treatment of pulmonary diseases.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  6
+1. Name:  Cannabinor
+2. Groups:  Investigational
+3. Description:  Cannabinor a synthetic CB2-selective agonist, is in Phase 2 clinical testing as an analgesic.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  7
+1. Name:  VP025
+2. Groups:  Investigational
+3. Description:  VP025, a novel drug formulation based on phospholipid microparticles incorporating phosphatidylglycerol, can inhibit neuroinflammation. VP025 may inhibit immune system activation and protect motoneurons from injury. It also shows the ability to reduce inflammation across the blood-brain barrier and improve correlates of memory and learning function. It is being developed to target the chronic inflammation within the central nervous system that is associated with a number of neurological diseases, including Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral sclerosis (Lou Gehrig’s disease). It is considered to be a systemic anti-inflammatory and neuroprotective agent.
+4. Indication:  Investigated for use/treatment in alzheimer's disease and inflammatory disorders (unspecified).
+DrugId:  8
+1. Name:  Fluasterone
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders, hyperlipidemia, metabolic disease, cancer/tumors (unspecified), and obesity.
+DrugId:  9
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Olsalazine
+2. Groups:  Approved
+3. Description:  Olsalazine is an anti-inflammatory drug used in the treatment of Inflammatory Bowel Disease and Ulcerative Colitis. Olsalazine is a derivative of salicylic acid. Inactive by itself (it is a prodrug), it is converted by the bacteria in the colon to mesalamine. Mesalamine works as an anti-inflammatory agent in treating inflammatory diseases of the intestines.
+4. Indication:  For the treatment of Inflammatory Bowel Disease and Ulcerative Colitis.
+DrugId:  11
+1. Name:  Clonixin
+2. Groups:  Approved
+3. Description:  Clonixin is a non-steroidal anti-inflammatory drug. It also has analgesic, antipyretic, and platelet-inhibitory actions.
+4. Indication:  Used primarily in the treatment of chronic arthritic conditions and certain soft tissue disorders associated with pain and inflammation.
+DrugId:  12
+1. Name:  Cilomilast
+2. Groups:  Investigational
+3. Description:  Cilomilast (Ariflo, SB-207,499) is a drug which was developed for the treatment of respiratory disorders such as asthma and Chronic Obstructive Pulmonary Disease (COPD). It is orally active and acts as a selective Phosphodiesterase-4 inhibitor. Following four clinical trials, the drug proved to be effective in treating COPD, however it has never been marketed due to a poor side effect profile.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  13
+1. Name:  OMS-103HP
+2. Groups:  Investigational
+3. Description:  OMS103HP is the first drug being developed to improve joint function following arthroscopic surgery, one of the most common procedures performed today by orthopedic surgeons.
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), knee replacement, orthopedic surgery, and pain (acute or chronic).
+DrugId:  14
+1. Name:  ADL 10-0101
+2. Groups:  Investigational
+3. Description:  ADL 10-0101 is a peripheral kappa opioid agonist analgesic product candidate. Preclinical trials of ADL 10-0101 have suggested that the compound may be effective for the treatment of inflammatory pain, itch and visceral pain. Because ADL 10-0101 does not cross the blood-brain barrier and enter the brain when administered at therapeutic doses, it is expected to avoid central nervous system side effects.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic) and rheumatoid arthritis. Trials are also being conducted for relieving burn pain and dermal itch.
+DrugId:  15
+1. Name:  MDX-018
+2. Groups:  Investigational
+3. Description:  MDX-018, also known as HuMax-Inflam, is a fully human antibody that is directed to IL-8 (interleukin-8) and may have potential application in oncology and inflammation. Trials will initially focus on studies to treat glioblastoma, a cancer of the central nervous system. Other possible indications include chronic obstructive pulmonary disease (COPD) and pustular dermatoses. In pre-clinical studies, HuMax-Inflam has been shown to inhibit tumor growth in tumor models using primary human tumors in immunodeficient mice. HuMax-Inflam was also effective in reducing disease activity in palmoplantar pustulosis patients in a clinical study.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  16
+1. Name:  E-6201
+2. Groups:  Investigational
+3. Description:  E6201 has been investigated for the treatment of Chronic Plaque Psoriasis.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Apocynin
+2. Groups:  Investigational
+3. Description:  Acetovanillone has been used in trials studying the treatment of Bronchial Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Arylacenamide
+2. Groups:  Investigational
+3. Description:  Arylacenamide (SR31747) is a peripheral [sigma] ligand that binds four proteins in human cells, i.e. SRBP-1, [sigma]-2, HSI and its relative SRBP-2. It is a dual agent with both immunomodulatory and antiproliferative activities.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), immunosuppressive, and prostate cancer.
+DrugId:  19
+1. Name:  Evening primrose oil
+2. Groups:  Approved, Investigational
+3. Description:  Evening primrose oil is extracted fromthe seeds of Oenothera biennis, a plant native to eastern and central North America. It contains about 7-10% of gamma-linolenic acid (GLA), which is involved in the synthesis of prostaglandin. Evening primrose oil is used in skin disorders such as eczema, psoriasis, and acne for temporary symptomatic relief. It is also used in temporary pain management for conditions such as rheumatoid arthritis, osteoporosis, Raynaud’s syndrome, and multiple sclerosis. It is also used in chronic fatigue, asthma, hyperactivity in children, gastrointestinal disorders including ulcerative colitis, irritable bowel syndrome, and peptic ulcer disease. Uses of evening primrose oil in women for premenstrual syndrome (PMS), breast pain, endometriosis, and symptoms of menopause such as hot flashes are reported.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  RI 624
+2. Groups:  Investigational
+3. Description:  RI 624 is a novel humanized monoclonal antibody that blocks nerve growth factor (NGF), a key mediator of acute and chronic pain. RI 624 is being developed by Rinat and is currently in Phase I clinical trials.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  21
+1. Name:  Talmapimod
+2. Groups:  Investigational
+3. Description:  Talmapimod is the first-generation oral p38 MAP kinase inhibitor developed by Scios. It has shown to be effective to cure inflammatory diseases such as Rheumatoid Arthritis.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic) and rheumatoid arthritis.
+DrugId:  22
+1. Name:  Talniflumate
+2. Groups:  Approved
+3. Description:  Talniflumate, is an anti-inflammatory molecule studied and used as a mucin regulator in the treatment of cystic fibrosis, chronic obstructive pulmonary disease (COPD) and asthma [5]. In addition, it is used in inflammatory conditions such as rheumatoid arthritis. Phase I trials with talniflumate for the treatment of cystic fibrosis and COPD were completed in August 2001, and phase II trials were performed in Ireland for the treatment of cystic fibrosis but this research has now been discontinued [7, 10]. Talniflumate has been approved for approximately 20 years in Argentina other countries (excluding the United States, Europe, and Japan) [10].
+4. Indication:  Talnifumate is a phthalidyl ester of nifumic acid, which has potent analgesic and anti-inflammatory effects and is widely used to treat inflammatory disorders, such as rheumatoid arthritis and osteoarthritis [13], and has also been studied for the management of cystic fibrosis [8].
+DrugId:  23
+1. Name:  Nabumetone
+2. Groups:  Approved
+3. Description:  Nabumetone is a nonsteroidal anti-inflammatory drug (NSAID) of the arylalkanoic acid family (which includes diclofenac). Marketed under the brand name Relafen, it has been shown to have a slightly lower risk of gastrointestinal side effects than most other non-selective NSAIDs.
+4. Indication:  For acute and chronic treatment of signs and symptoms of osteoarthritis and rheumatoid arthritis.
+DrugId:  24
+1. Name:  Terpin hydrate
+2. Groups:  Approved, Experimental
+3. Description:  An insect repellent; cis-form hydrate used as expectorant. Terpin hydrate is an expectorant, commonly used to loosen mucus and ease congestion in patients presenting with acute or chronic bronchitis, and related pulmonary conditions. It is derived from sources such as oil of turpentine, oregano, thyme and eucalyptus. It was popular in the United States since the late nineteenth century, but was removed from marketed medications in the 1990s after the U.S. Food and Drug Administration (FDA) stated that "based on evidence currently available, there are inadequate data to establish general recognition of the safety and effectiveness of these ingredients". Elixirs of terpin hydrate are still available with a prescription, but must be prepared by a compounding pharmacy.
+4. Indication:  Terpin hydrate is an expectorant, used in the treatment of acute and chronic bronchitis, pneumonia, bronchiectasis, chronic obstructive pulmonary disease, infectious and inflammatory diseases of the upper respiratory tract. It is typically formulated with an antitussive (e.g., codeine) as a combined preparation.
+DrugId:  25
+1. Name:  Golimumab
+2. Groups:  Approved
+3. Description:  Golimumab is a human IgG1қ monoclonal antibody derived from immunizing genetically engineered mice with human TNFα. Golimumab binds and inhibits soluble and transmembrane human TNFα. Increased TNFα is associated with chronic inflammation. Thus golimumab is indicated for use in adults (i) as an adjunct to methotrexate treatment in patients with moderate to severe active rheumatoid arthritis (RA), (ii) alone or as an adjunct to methotrexate treatment in patients with active psoriatic arthritis (PsA), (iii) as a single agent in patients with active ankylosing spondylitis (AS), and (iv) as a single agent in patients with moderate to severe ulcerative colitis (UC) who require chronic steroids or have experienced intolerance or only a partial response to previous medications. In the U.S. and Canada, golimumab is marketed under the brand name Simponi®. The FDA label includes a black box warning of serious infections and malignancy. Additionally in children and adolescents taking golimumab, there have been lymphoma and other malignancies observed.
+4. Indication:  Used in adults (i) as an adjunct to methotrexate treatment in patients with moderate to severe active rheumatoid arthritis (RA), (ii) alone or as an adjunct to methotrexate treatment in patients with active psoriatic arthritis (PsA), (iii) as a single agent in patients with active ankylosing spondylitis (AS), and (iv) as a single agent in patients with moderate to severe ulcerative colitis (UC) who require chronic steroids or have experienced intolerance or only a partial response to previous medications.

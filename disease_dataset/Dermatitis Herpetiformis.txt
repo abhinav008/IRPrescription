@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sulfoxone
+2. Groups:  Approved
+3. Description:  Sulfoxone is a water-soluble sulfone used as an antileprosy drug. It has been used with limited success in the treatment of dermatitis herpetiformis.
+4. Indication:  For the treatment of leprosy and dermatitis herpetiformis
+DrugId:  2
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  3
+1. Name:  Dapsone
+2. Groups:  Approved, Investigational
+3. Description:  A sulfone active against a wide range of bacteria but mainly employed for its actions against mycobacterium leprae. Its mechanism of action is probably similar to that of the sulfonamides which involves inhibition of folic acid synthesis in susceptible organisms. It is also used with pyrimethamine in the treatment of malaria. (From Martindale, The Extra Pharmacopoeia, 30th ed, p157-8)
+4. Indication:  For the treatment and management of leprosy and dermatitis herpetiformis.
+DrugId:  4
+1. Name:  Sulfapyridine
+2. Groups:  Approved
+3. Description:  Antibacterial, potentially toxic, and previously used to treat certain skin diseases. No longer prescribed. 
+4. Indication:  For the treatment of dermatitis herpetiformis, benign mucous membrane pemphigoid and pyoderma gangrenosum
+DrugId:  5
+1. Name:  BF-37
+2. Groups:  Investigational
+3. Description:  BF-37 for the treatment of atopic dermatitis and/or psoriasis. The active ingredient in BF-37 is Riluzole, applied in a topical formulation, which is believed to correct the imbalances of the immune system that cause atopic dermatitis or psoriasis.
+4. Indication:  Investigated for use/treatment in atopic dermatitis.
+DrugId:  6
+1. Name:  Fezakinumab
+2. Groups:  Investigational
+3. Description:  Fezakinumab has been used in trials studying the treatment of Atopic Dermatitis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Prednisolone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states. [PubChem]
+4. Indication:  For the treatment of primary or secondary adrenocortical insufficiency, such as congenital adrenal hyperplasia, thyroiditis. Also used to treat psoriatic arthritis, rheumatoid arthritis, ankylosing spondylitis, bursitis, acute gouty arthritis and epicondylitis. Also indicated for treatment of systemic lupus erythematosus, pemphigus and acute rhematic carditis. Can be used in the treatment of leukemias, lymphomas, thrombocytopenia purpura and autoimmune hemolytic anemia. Can be used to treat celiac disease, insulin resistance, ulcerative colitis and liver disorders.
+DrugId:  8
+1. Name:  Ligelizumab
+2. Groups:  Investigational
+3. Description:  Ligelizumab has been used in trials studying the basic science and treatment of Asthma, Allergy, Peanut Allergy, Allergic Asthma, and Atopic Dermatitis, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Maltodextrin
+2. Groups:  Investigational
+3. Description:  Maltodextrin is under investigation for the treatment and prevention of Autism, Pouchitis, Inflammation, Colonic Cancer, and Atopic Dermatitis, among others. Maltodextrin has been investigated for the prevention and treatment of Fatigue, Thalassemia, Constipation, Type I Diabetes, and Sickle Cell Anemia, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  AN0128
+2. Groups:  Investigational
+3. Description:  AN0128 is a novel compound that contains a boron atom within a borinic acid complex. AN0128 has broad spectrum activity against a wide variety of Gram positivebacteria, including many that are known skin colonizers. Of particular importance is P. acnes and its causal role in acne vulgaris. The rise in antibioticresistance of P. acnes to standard antibiotics necessitates the development of new treatment agents. AN0128 is a good candidate for a topical antibiotic and is currently being developed by Anacor as a novel therapeutic for acne and atopic dermatitis.
+4. Indication:  Investigated for use/treatment in acne, atopic dermatitis, pediatric indications, and psoriasis and psoriatic disorders.
+DrugId:  11
+1. Name:  SRP 299
+2. Groups:  Investigational
+3. Description:  SRP 299 is a preparation of killed Mycobacterium vaccae that has been tested in uses related to inhibiting periodontal disease, in treating asthma and in treating eczema, itching and inflammation. Mycobacterium vaccae is a non-pathogenic, saprophytic bacteria whose antigens can be used to induce peripheral immune activation through the activity of regulatory T-cells that surpress inappropriate Th2 activity. A specific subset of serotonergic neurons in the interfascicular part of the dorsal raphe nucleus (DRI) is believed to be involved, based on studies with mice. 
+4. Indication:  Investigated for use/treatment in asthma, atopic dermatitis, and pediatric atopic dermatitis indications.
+DrugId:  12
+1. Name:  Pimecrolimus
+2. Groups:  Approved, Investigational
+3. Description:  Pimecrolimus is an immunomodulating agent used in the treatment of atopic dermatitis (eczema). It is currently available as a topical cream, once marketed by Novartis, (however Galderma will be promoting the molecule in Canada in early 2007) under the trade name Elidel. [Wikipedia]
+4. Indication:  For treatment of mild to moderate atopic dermatitis.
+DrugId:  13
+1. Name:  Chloroxine
+2. Groups:  Approved
+3. Description:  Chloroxine is a synthetic antibacterial compound. Chloroxine is a compound used in some shampoos for the treatment of dandruff and seborrheic dermatitis of the scalp.
+4. Indication:  Used in the treatment of dandruff and mild to moderately severe seborrheic dermatitis of the scalp.
+DrugId:  14
+1. Name:  NPI 32101
+2. Groups:  Investigational
+3. Description:  NPI 32101 possesses both anti-inflammatory and broad spectrum antimicrobial activities. This combination of pharmacological properties may have additional therapeutic uses beyond dermatology.
+4. Indication:  Atopic dermatitis
+DrugId:  15
+1. Name:  NCX 1022
+2. Groups:  Investigational
+3. Description:  NCX is an NO-releasing derivative of hydrocortisone.
+4. Indication:  Investigated for use/treatment in atopic dermatitis.
+DrugId:  16
+1. Name:  Lebrikizumab
+2. Groups:  Investigational
+3. Description:  Lebrikizumab has been used in trials studying the treatment of Asthma, Allergic Asthma, Atopic Dermatitis, Idiopathic Pulmonary Fibrosis, and COPD, Chronic Obstructive Pulmonary Disease.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Bergapten
+2. Groups:  Investigational
+3. Description:  Bergapten is under investigation in clinical trial NCT00533195 (Comparison of UVA1 Phototherapy Versus Photochemotherapy for Patients With Severe Generalized Atopic Dermatitis).
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Vapitadine
+2. Groups:  Investigational
+3. Description:  Vapitadine is an antihistamine that Barrier Therapeutics is developing as a treatment for allergic reactions of the skin, such as those associated with hives and for the itch associated with atopic dermatitis. An advantage of vapitadine over other antihistamines may be the absence of the sedation, even at high doses.
+4. Indication:  Investigated for use/treatment in atopic dermatitis.
+DrugId:  19
+1. Name:  AVAC
+2. Groups:  Investigational
+3. Description:  AVAC is derived from M. vaccae. It has been tested in uses related to asthma and in treating eczema and atopic dermatitis.Mycobacterium vaccae is a non-pathogenic, saprophytic bacteria whose antigens can be used to induce peripheral immune activation through the activity of regulatory T-cells that surpress inappropriate Th2 activity.
+4. Indication:  Investigated for use/treatment in asthma and atopic dermatitis.
+DrugId:  20
+1. Name:  Borage oil
+2. Groups:  Approved, Investigational
+3. Description:  Borage oil, or borage seed oil, is a rich source of gamma-linolenic acid (GLA) that is obtained from the seeds of the Borago officinalis (borage). Borage oil is used as an herbal treatment of skin disorders including eczema, seborrheic dermatitis, and neurodermatitis as well as other inflammatory, cardiovascular and endocrine disorders, although its clinical efficacy and long-term effects are not fully elucidated yet. GLA, which accounts for approximately 24% of the oil, is converted to dihomo-γ-linolenic acid (DGLA) which acts as a precursor to anti-inflammatory mediators such as 1-series prostaglandins and the 3-series leukotrienes. Borage oil may be found in foods or in skin care products.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Fevipiprant
+2. Groups:  Investigational
+3. Description:  Fevipiprant has been used in trials studying the treatment of Asthma, Atopic Dermatitis, and Allergic Rhinitis.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Tradipitant
+2. Groups:  Investigational
+3. Description:  Tradipitant has been used in trials studying the treatment and prevention of Eczema, Pruritus, Gastroparesis, Chronic Pruritus, and Atopic Dermatitis, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Recombinant alpha 1-antitrypsin
+2. Groups:  Investigational
+3. Description:  Alpha 1-antitrypsin is a glycoprotein primarily produced by hepatocytes, and to a lesser extent, immune system cells. Recombinant alpha 1-antitrypsin (rAAT) is produced from yeast, which unlike commercially available forms of plasma-derived AAT, eliminates the risk associated with blood-borne infectious agents and allows for a increased manufacturing. rAAT belongs to a family of structurally-related proteins classified as serine protease inhibitors or SERPINS, which are known to inhibit several proteases including trypsin, cathepsin G, thrombin, tissue kallikrein, as well as neutrophil elastase. The proteinase/antiproteinase balance is believed to be important for maintaining healthy skin. The rAAT topical gel (Dermolastin™) is indicated for patients with atopic dermatitis and psoriasis. The company has indicated that other formulations for gastroenterological and urological indications will also be developed.
+4. Indication:  Investigated for use/treatment in alpha 1 antitrypsin deficiency, atopic dermatitis, and chronic obstructive pulmonary disease (COPD).
+DrugId:  24
+1. Name:  Tranilast
+2. Groups:  Approved, Investigational
+3. Description:  Tranilast is an antiallergic drug developed by Kissei Pharmaceuticals. It was approved in 1982 for use in Japan and South Korea for bronchial asthma. Indications for keloid and hypertrophic scar were added in 1993. It has been used for the treatment of allergic disorders such as asthma, allergic rhinitis and atopic dermatitis.
+4. Indication:  For the treatment of bronchial asthma, keloid and hypertrophic scar, and allergic disorders such as asthma, allergic rhinitis and atopic dermatitis.
+DrugId:  25
+1. Name:  E-6005
+2. Groups:  Investigational
+3. Description:  E6005 has been used in trials studying the treatment of Atopic Dermatitis.
+4. Indication:  Not Available

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  1D09C3
+2. Groups:  Investigational
+3. Description:  1D09C3, a monoclonal antibody against lymphoid cancers, is an anti-MHC (major histocompatibility complex) class II monoclonal antibody. The antibody was isolated in collaboration with MorphoSys from its HuCAL(R) library of human antibodies. 1D09C3 binds to certain cell surface receptors, selectively killing activated, proliferating MHC class II-positive tumor cells, which include those in B-cell and T-cell lymphomas. 1D09C3 has been shown to induce programmed cell death and does not require a functioning immune system for its cell-killing effect.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  2
+1. Name:  Annamycin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in breast cancer and leukemia (unspecified).
+DrugId:  3
+1. Name:  Bamosiran
+2. Groups:  Investigational
+3. Description:  Bamosiran has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, and Open Angle Glaucoma.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Brinzolamide
+2. Groups:  Approved
+3. Description:  Brinzolamide is a highly specific, non-competitive, reversible carbonic anhydrase inhibitor. Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II (CA-II). Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport. The result is a reduction in intraocular pressure. Brinzolamide is indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+4. Indication:  For the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+DrugId:  5
+1. Name:  Dorzolamide
+2. Groups:  Approved
+3. Description:  Dorzolamide is a carbonic anhydrase (CA) inhibitor. It is used in ophthalmic solutions (Trusopt) to lower intraocular pressure (IOP) in open-angle glaucoma and ocular hypertension.
+4. Indication:  For the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma. Also used prophylatically for the inhibition of perioperative IOP increase (before neodynium yttrium aluminum garnet laser posterior capsulotomy).
+DrugId:  6
+1. Name:  TST10088
+2. Groups:  Investigational
+3. Description:  TST10088 is a recombinant variant of a plant toxin belonging to the family of class II ribosome inactivating proteins. These molecules efficiently kill cells by activating preprogrammed death pathways known as apoptosis. TST10088 has been designed and engineered by Twinstrand to contain a peptide switch that is specifically cleaved by the matrix metalloproteinases which are known to be involved in tumor growth and metastasis. Cleavage of the peptide switch activates the prodrug causing ribosomal inactivation and the death of cancerous cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  7
+1. Name:  T131
+2. Groups:  Investigational
+3. Description:  T131, an orally-administered therapy, is expected to lower blood glucose in type II diabetic patients by improving the body’s ability to respond to insulin. T131 is a selective modulator of PPARg (peroxisome proliferator activated receptor gamma), a receptor involved in regulating the body’s ability to respond to insulin. T131 is not structurally related to the thiazolidinedione class of PPARg agonists, which includes Actos and Avandia.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  8
+1. Name:  Cilazapril
+2. Groups:  Approved
+3. Description:  Cilazapril is an ACE inhibtor class drug used in the treatment of hypertension and heart failure. It belongs to the angiotensin-converting enzyme inhibitors (ACE inhibitors) class of drugs. It is a prodrug that is hydrolyzed after absorption to its main metabolite cilazaprilat. It is branded as Inhibace in Canada and other countries, Vascace and Dynorm in a number of European countries, among many other names. None of these varieties are available in the United States. 
+4. Indication:  Cilazapril is an ACE inhibtor class drug used in the treatment of hypertension and heart failure.
+DrugId:  9
+1. Name:  Diclofenamide
+2. Groups:  Approved, Investigational
+3. Description:  A carbonic anhydrase inhibitor that is used in the treatment of glaucoma. [PubChem]
+4. Indication:  For adjunctive treatment of: chronic simple (open-angle) glaucoma, secondary glaucoma, and preoperatively in acute angle-closure glaucoma where delay of surgery is desired in order to lower intraocular pressure
+DrugId:  10
+1. Name:  Daunorubicin
+2. Groups:  Approved
+3. Description:  A very toxic anthracycline aminoglycoside antineoplastic isolated from Streptomyces peucetius and others, used in treatment of leukemia and other neoplasms. [PubChem]
+4. Indication:  For remission induction in acute nonlymphocytic leukemia (myelogenous, monocytic, erythroid) of adults and for remission induction in acute lymphocytic leukemia of children and adults.
+DrugId:  11
+1. Name:  Idarubicin
+2. Groups:  Approved
+3. Description:  An orally administered anthracycline antineoplastic. The compound has shown activity against breast cancer, lymphomas and leukemias, together with the potential for reduced cardiac toxicity. [PubChem]
+4. Indication:  For the treatment of acute myeloid leukemia (AML) in adults. This includes French-American-British (FAB) classifications M1 through M7.
+DrugId:  12
+1. Name:  Spirapril
+2. Groups:  Approved
+3. Description:  Spirapril is an ACE inhibitor antihypertensive drug used to treat hypertension. Like many ACE inhibitors, this is a prodrug which is converted to the active metabolite spiraprilat following oral administration. ACE inhibitors are used primarily in treatment of hypertension and congestive heart failure.
+4. Indication:  Spirapril is an ACE inhibitor class drug used to treat hypertension.
+DrugId:  13
+1. Name:  Dipivefrin
+2. Groups:  Approved
+3. Description:  Dipivefrin is a prodrug of adrenaline, which is used to treat glaucoma. It is available as ophthalmic solution (eye drops).
+4. Indication:  Dipivefrin is a prodrug which is used as initial therapy for the control of intraocular pressure in chronic open-angle glaucoma.
+DrugId:  14
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  15
+1. Name:  Sacubitril
+2. Groups:  Approved
+3. Description:  Sacubitril is a prodrug neprilysin inhibitor used in combination with valsartan to reduce the risk of cardiovascular events in patients with chronic heart failure (NYHA Class II-IV) and reduced ejection fraction. It was approved under the FDA's priority review process for use in heart failure on July 7, 2015.Sacubitril's active metabolite, LBQ657 inhibits neprilysin, a neutral endopeptidase that would typically cleave natiuretic peptides such as atrial natriuretic peptide (ANP), brain natriuretic peptide (BNP), and c-type natriuretic peptide (CNP). ANP and BNP are released under atrial and ventricle stress, which activate downstream receptors leading to vasodilation, natriuresis and diuresis. Under normal conditions, neprilysin breaks down other vasodilating peptides and also vasoconstrictors such as angiotensin I and II, endothelin-1 and peptide amyloid beta-protein. Inhibition of neprilysin therefore leads to reduced breakdown and increased concentration of endogenous natriuretic peptides in addition to increased levels of vasoconstricting hormones such as angiotensin II. 
+4. Indication:  Used in combination with valsartan to reduce the risk of cardiovascular events in patients with chronic heart failure (NYHA Class II-IV) and reduced ejection fraction. It is usually administered in conjunction with other heart failure therapies, in place of an ACE inhibitor or other ARB.
+DrugId:  16
+1. Name:  ACR-16
+2. Groups:  Investigational
+3. Description:  ACR-16 is under investigation by NeuroSearch. ACR16 has been successfully investigated in a Phase II multi-centre, randomised and placebo-controlled trial in patients with Huntington’s disease as well as in three Phase Ib studies within Huntington’s disease, Parkinson’s disease and schizophrenia respectively. ACR-16 is a dopamine stabilizer. ACR-16 is also being studied in other psychiatric and neurologic diseases.
+4. Indication:  Investigated for use/treatment in huntington's disease and schizophrenia and schizoaffective disorders.
+DrugId:  17
+1. Name:  AT2220
+2. Groups:  Investigational
+3. Description:  AT2220 is an experimental, oral therapy for the treatment of Pompe disease and belongs to a class of molecules known as pharmacological chaperones. It is a small molecule designed to act as a pharmacological chaperone that specifically binds, stabilizes, and facilitates the proper folding and trafficking of α-glucosidase (GAA). GAA to the lysosome, where it can perform its normal function. AT2220 has been shown to increase GAA activity in cell lines derived from Pompe patients and in transfected cells expressing misfolded forms of GAA.
+4. Indication:  Pompe disease, also known as glycogen storage disease type II or acid maltase deficiency, is a relatively rare neuromuscular and lysosomal storage disorder caused by inherited genetic mutations in a key enzyme called α-glucosidase (Gaa).
+DrugId:  18
+1. Name:  Flumequine
+2. Groups:  Withdrawn
+3. Description:  Flumequine is a synthetic chemotherapeutic antibiotic of the fluoroquinolone drug class used to treat bacterial infections.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Ethinamate
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Ethinamate is a short-acting sedative-hypnotic medication used to treat insomnia. Regular use leads to tolerance, and it is usually not effective for more than 7 days. Structurally, it does not resemble the barbituates, but it shares many effects with this class of drugs; the depressant effects of ethinamate are, however, generally milder than those of most barbiturates.
+4. Indication:  Used for the short-term treatment of insomnia, however, it generally has been replaced by other sedative-hypnotic agents.
+DrugId:  20
+1. Name:  Tafluprost
+2. Groups:  Approved
+3. Description:  A prostaglandin analogue ester prodrug used topically (as eye drops) to control the progression of glaucoma and in the management of ocular hypertension. Chemically, tafluprost is a fluorinated analog of prostaglandin F2-alpha. Tafluprost was approved for use in the U.S. on February 10, 2012.
+4. Indication:  Tafluprost is indicated for reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+DrugId:  21
+1. Name:  Irbesartan
+2. Groups:  Approved, Investigational
+3. Description:  Irbesartan is an angiotensin receptor blocker (ARB) used mainly for the treatment of hypertension. It competes with angiotensin II for binding at the AT1 receptor subtype. Unlike ACE inhibitors, ARBs do not have the adverse effect of dry cough. The use of ARBs is pending revision due to findings from several clinical trials suggesting that this class of drugs may be associated with a small increased risk of cancer.
+4. Indication:  For the treatment of hypertension, as well as diabetic nephropathy with an elevated serum creatinine and proteinuria (>300 mg/day) in patients with type 2 diabetes and hypertension. Irbesartan is also used as a second line agent in the treatment of congestive heart failure.
+DrugId:  22
+1. Name:  Ganaxolone
+2. Groups:  Investigational
+3. Description:  Ganaxolone is the 3β-methylated synthetic analog of allopregnanolone; it belongs to a class of compounds referred to as neurosteroids. Ganaxolone is an allosteric modulator of GABAA receptors acting through binding sites which are distinct from the benzodiazepine binding site. It has activity in a broad range of animal models of epilepsy. Ganaxolone has been shown to be well tolerated in adults and children. In early phase II studies, Ganaxolone has been shown to have activity in adult patients with partial-onset seizures and epileptic children with history of infantile spasms. It is currently undergoing further development in infants with newly diagnosed infantile spasms, in women with catamenial epilepsy, and in adults with refractory partial-onset seizures.
+4. Indication:  Investigated for use/treatment in pediatric indications and seizure disorders.
+DrugId:  23
+1. Name:  Doxorubicin
+2. Groups:  Approved, Investigational
+3. Description:  Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius. Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
+4. Indication:  Doxorubicin is used to produce regression in disseminated neoplastic conditions like acute lymphoblastic leukemia, acute myeloblastic leukemia, Wilms’ tumor, neuroblastoma, soft tissue and bone sarcomas, breast carcinoma, ovarian carcinoma, transitional cell bladder carcinoma, thyroid carcinoma, gastric carcinoma, Hodgkin’s disease, malignant lymphoma and bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types. Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.
+DrugId:  24
+1. Name:  Cisplatin
+2. Groups:  Approved
+3. Description:  Cisplatin, cisplatinum or cis-diamminedichloroplatinum(II) (CDDP) is a platinum-based chemotherapy drug used to treat various types of cancers, including sarcomas, some carcinomas (e.g. small cell lung cancer, and ovarian cancer), lymphomas and germ cell tumors. It was the first member of its class, which now also includes carboplatin and oxaliplatin.
+4. Indication:  For the treatment of metastatic testicular tumors, metastatic ovarian tumors and advanced bladder cancer.
+DrugId:  25
+1. Name:  Riociguat
+2. Groups:  Approved
+3. Description:  Riociguat is a soluble guanylate cyclase (sGC) agonist approved in the USA, Europe and several other regions for patients with group I PAH (pulmonary arterial hypertension) in WHO FC II or III; and for the treatment of patients with inoperable CTEPH (chronic thromboembolic pulmonary hypertension), or persistent/recurrent PH (pulmonary hypertension) after pulmonary endarterectomy in WHO FC II or III. Riociguat is marketed under the brand Adempas® by Bayer HealthCare Pharmaceuticals. Treatment with riociguat costs USD $7,500 for 30 days of treatment. 
+4. Indication:  Riociguat is indicated for the treatment of adults with persistent/recurrent chronic thromboembolic pulmonary hypertension (CTEPH), (WHO Group 4) after surgical treatment, or inoperable CTEPH, to improve exercise capacity and WHO functional class.Riociguat is indicated for the treatment of adults with pulmonary arterial hypertension (PAH), (WHO Group 1), to improve exercise capacity, WHO functional class and to delay clinical worsening. Efficacy was shown in patients on Riociguat monotherapy or in combination with endothelin receptor antagonists or prostanoids. Studies establishing effectiveness included predominately patients with WHO functional class II–III and etiologies of idiopathic or heritable PAH (61%) or PAH associated with connective tissue diseases (25%).

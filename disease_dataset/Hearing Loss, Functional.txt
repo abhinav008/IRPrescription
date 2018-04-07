@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  D-JNKI-1
+2. Groups:  Investigational
+3. Description:  A synthetic, cell permeable peptide that blocks the MAPK-JNK signal pathway; has potential therapeutic value for long-term protection of both the morphological integrity and physiological function of the organ of Corti during times of oxidative stress.
+4. Indication:  Investigated for use/treatment in hearing loss.
+DrugId:  2
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  3
+1. Name:  Vatiquinone
+2. Groups:  Investigational
+3. Description:  Vatiquinone has been investigated for the treatment and prevention of Retinopathy, Rett Syndrome, Genetic Disease, Noise-induced Hearing Loss, and Methylmalonic Aciduria and Homocystinuria,Cblc Type.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Neramexane
+2. Groups:  Investigational
+3. Description:  Neramexane is a low-to-moderate affinity uncompetitive NMDA receptor antagonist.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, hearing loss, and pain (acute or chronic).
+DrugId:  5
+1. Name:  PF-04958242
+2. Groups:  Investigational
+3. Description:  PF-04958242 has been used in trials studying the basic science and treatment of Schizophrenia and Hearing Loss, Sensorineural.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.
+DrugId:  7
+1. Name:  Streptomycin
+2. Groups:  Approved, Vet approved
+3. Description:  Streptomycin is an aminoglycoside antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by binding to the 30S ribosomal subunit of susceptible organisms and disrupting the initiation and elongation steps in protein synthesis. It is bactericidal due to effects that are not fully understood.
+4. Indication:  For the treatment of tuberculosis. May also be used in combination with other drugs to treat tularemia (Francisella tularensis), plague (Yersia pestis), severe M. avium complex, brucellosis, and enterococcal endocarditis (e.g. E. faecalis, E. faecium).
+DrugId:  8
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  9
+1. Name:  Neomycin
+2. Groups:  Approved, Vet approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed). Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and acceptor tRNA sites and results in the production of non-functional or toxic peptides.
+4. Indication:  Topical uses include treatment for superficial eye infections caused by susceptible bacteria (used in combination with other antiinfectives), treatment of otitis externa caused by susceptible bacteria, treatment or prevention of bacterial infections in skin lesions, and use as a continuous short-term irrigant or rinse to prevent bacteriuria and gram negative rod bacteremia in abacteriuric patients with indwelling catheters. May be used orally to treat hepatic encephalopathy, as a perioperative prophylactic agent, and as an adjunct to fluid and electrolyte replacement in the treatment of diarrhea caused to enteropathogenic E. coli (EPEC). 
+DrugId:  10
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  11
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  12
+1. Name:  Pramlintide
+2. Groups:  Approved, Investigational
+3. Description:  Pramlintide is a relatively new adjunct treatment for diabetes (both type 1 and 2), developed by Amylin Pharmaceuticals. It is derived from amylin, a hormone that is released into the bloodstream, in a similar pattern as insulin, after a meal. Like insulin, amylin is deficient in individuals with diabetes.
+4. Indication:  For the treatment of type 1 and type 2 diabetes mellitus as an adjunct to preprandial insulin therapy in patients without adequate glycemic control of insulin therapy.
+DrugId:  13
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  14
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  15
+1. Name:  Tipranavir
+2. Groups:  Approved, Investigational
+3. Description:  Tipranavir is a sulfonamide-containing dyhydropyrone and a nonpeptidic protease inhibitor that targets the HIV protease. It is administered with ritonavir in combination therapy to treat HIV infections.
+4. Indication:  For combination antiretroviral treatment of HIV-1 infected adult patients with evidence of viral replication, who are highly treatment-experienced or have HIV-1 strains resistant to multiple protease inhibitors.
+DrugId:  16
+1. Name:  Calcium gluconate
+2. Groups:  Approved, Vet approved
+3. Description:  Calcium gluconate is a mineral supplement and medication. Supplementation is generally only required when there is not enough calcium in the diet. Supplementation may be done to treat or prevent osteoporosis or rickets. It can also be taken by mouth but is not recommended by injection into a muscle.Calcium Gluconate Injection, USP is a sterile, nonpyrogenic supersaturated solution of calcium gluconate for intravenous use only. Each mL contains: Calcium gluconate 94 mg; calcium saccharate (tetrahydrate) 4.5 mg; water for injection q.s. Hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (6.0 to 8.2). Calcium saccharate provides 6% of the total calcium and stabilizes the supersaturated solution of calcium gluconate.Each 10 mL of the injection provides 93 mg elemental calcium (Ca++) equivalent to 1 g of calcium gluconate.
+4. Indication:  Oral calcium salts are used as dietary supplemental therapy for person who may not get enough calcium in their regular diet. Calcium gluconate is used as a cardioprotective agent in high blood potassium. Calcium gluconate is the antidote for magnesium sulfate toxicity.
+DrugId:  17
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  18
+1. Name:  PA-1050040
+2. Groups:  Investigational
+3. Description:  PA1050040, a second generation HIV-1 maturation inhibitor, is a chemical analog of Bevirimat (BVM). It inhibits virus replication by the same mechanism of action as BVM.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  19
+1. Name:  Baricitinib
+2. Groups:  Approved, Investigational
+3. Description:  Baricitinib is a selective and reversible Janus kinase 1 (JAK1) and 2 (JAK2) inhibitor. Janus kinases belong to the tyrosine protein kinase family and play an important role in the proinflammatory pathway signalling that is frequently over-activated in autoimmune disorders such as rheumatoid arthritis. By blocking the actions of JAK1/2, baricitinib disrupts the activation of downstream signalling molecules and proinflammatory mediators. Rheumatoid arthritis is a progressive autoimmune disease commonly associated with discomfort, diasability, and joint damage. Throughout disease progression, the disease may further lead to joint erosions and deformities, causing premature mortality, functional impairment, and reduced quality of life [3]. While there are several disease modifying antirheumatic drugs (DMARDs) available for treatment, patients often experience inadequate threapeutic resposes to these drugs. In animal models of inflammatory arthritis, baricitinib was shown to have significant anti-inflammatory effects, but also led to preservation of cartilage and bone, with no detectable suppression of humoral immunity or adverse hematologic effects [1].In February 2017, Baricitinib was approved for use in the EU as a second-line oral therapy for moderate to severe active rheumatoid arthritis in adults, either alone or in combination with methotrexate. It is marketed under the trade name Olumiant.
+4. Indication:  Indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs as monotherapy or in combination with methotrexate.
+DrugId:  20
+1. Name:  CHF-1512
+2. Groups:  Investigational
+3. Description:  CHF1512 is a methyl-ester of levodopa (LDME), melevodopa, combined with the decarboxylase inhibitor carbidopa.
+4. Indication:  Investigated for use/treatment in parkinson's disease.
+DrugId:  21
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  22
+1. Name:  Nelfinavir
+2. Groups:  Approved
+3. Description:  Nelfinavir is a potent HIV-1 protease inhibitor. It is used in combination with other antiviral drugs in the treatment of HIV in both adults and children. Nelfinavir inhibits the HIV viral proteinase enzyme which prevents cleavage of the gag-pol polyprotein, resulting in noninfectious, immature viral particles.
+4. Indication:  Used in combination with other antiviral drugs in the treatment of HIV in both adults and children.
+DrugId:  23
+1. Name:  Silanol
+2. Groups:  Approved
+3. Description:  Silanol is a functional group in silicon chemistry with the connectivity Si–O–H. It is an FDA-approved food contact substance and is commonly used in organosilicon chemistry and silicate mineralogy.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Cyclohexanone
+2. Groups:  Experimental
+3. Description:  Cyclohexanone (also known as oxocyclohexane, pimelic ketone, ketohexamethylene, cyclohexyl ketone or ketocyclohexane) is a six-carbon cyclic molecule with a ketone functional group. It is a colorless, oily liquid with an acetone-like smell.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  R667
+2. Groups:  Investigational
+3. Description:  R667 is an orally active, gamma selective retinoid agonist that shows promise as a treatment for emhysema, as it has, in animal models, promoted structural lung repair and functional improvement with fewer side effects. It is currently in Phase II Trials for emphysema secondary to alpha-1 antitrypsindeficiency.
+4. Indication:  Investigated for use/treatment in emphysema.

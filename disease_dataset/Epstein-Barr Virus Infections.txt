@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Brincidofovir
+2. Groups:  Investigational
+3. Description:  Brincidofovir is under investigation for the prevention of Outcomes, Survival Rates, and Cytomegalovirus Disease. Brincidofovir has been investigated for the prevention and treatment of CMV, Adenovirus, BK Virus (BKV), Adenoviruses (AdV), and Epstein-Barr (EBV), among others.Brincidofovir is an oral antiviral drug candidate for the treatment of smallpox infections and complications resulting from smallpox vaccine. It is a lipid mimic of cidofovir formed by linking a lipid 3-hexadecyloxy-1-propanol, to the phosphonate group of cidofovir. Brincidofovir is designed to cross cellular membranes by passive diffusion (vida supra, Phospholipid Mimics Designed to Facilitate Uptake in the Small Intestine). Uptake by this mechanism should be more efficient and lead to a more rapid accumulation of cidofovir in the cytoplasm of the target cell. Once it has reached the cytoplasm, CDV is phosphorylated by host cell nucleoside kinases to form the active antiviral agent cidofovir diphosphate.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Ganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  An acyclovir analog that is a potent inhibitor of the Herpesvirus family including cytomegalovirus. Ganciclovir is used to treat complications from AIDS-associated cytomegalovirus infections. [PubChem]
+4. Indication:  For induction and maintenance in the treatment of cytomegalovirus (CMV) retinitis in immunocompromised patients, including patients with acquired immunodeficiency syndrome (AIDS). Also used in the treatment of severe cytomegalovirus (CMV) disease, including CMV pneumonia, CMV gastrointestinal disease, and disseminated CMV infections, in immunocompromised patients.
+DrugId:  3
+1. Name:  Tofacitinib
+2. Groups:  Approved, Investigational
+3. Description:  Tofacitinib is an inhibitor of Janus kinases, a group of intracellular enzymes involved in signalling pathways that affect hematopoiesis and immune cell function. It is approved by the FDA for treatment of moderate to severe rheumatoid arthritis that responds inadequately to methotrexate or in those who are intolerant to methotrexate.Besides rheumatoid arthritis, tofacitinib has also been studied in clinical trials for the prevention of organ transplant rejection, and is currently under investigation for the treatment of psoriasis. Known adverse effects include nausea and headache as well as more serious immunologic and hematological adverse effects. Tofacitinib is marketed under the brand name Xeljanz by Pfizer.
+4. Indication:  For the treatment of moderate to severe rheumatoid arthritis which is resistant or intolerant to methotrexate therapy. It may also be used as an adjunct to methotrexate therapy, or other non-biologic disease-modifying antirheumatic drugs (DMARDS), when methotrexate alone is not sufficient. Tofacitinib has also been investigated as a preventative therapy for kidney transplant rejections, and as a treatment for psoriasis, ulcerative colitis, and ankylosing spondylitis. It is not to be initiated in patients with a history of chronic or recurrent infections, or in the presence of active infection, even if localized, due to reports of serious and sometimes fatal infections (commonly pneumonia, herpes zoster and urinary tract infections). Use of tofacitinib is also discouraged in those who have been, or are likely to be, exposed to TB. An increased likelihood of exposure may be encountered by traveling to certain areas. In addition, tofacitinib is not to be used in patients with severe hepatic impairment, or low hemoglobin (less than 9g/dL). Cautioned is advised when using tofacitinib in patients at risk of gastrointestinal perforation, and in the elderly who are more susceptible to infection. 
+DrugId:  4
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  6
+1. Name:  Belatacept
+2. Groups:  Approved, Investigational
+3. Description:  Belatacept is a soluble fusion protein, which links the extracellular domain of human cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) to the modified Fc (hinge, CH2, and CH3 domains) portion of human immunoglobulin G1 (IgG1). Structurally, abatacept is a glycosylated fusion protein with a MALDI-MS molecular weight of 92,300 Da and it is a homodimer of two homologous polypeptide chains of 357 amino acids each. It is produced through recombinant DNA technology in mammalian CHO cells. The drug has activity as a selective co-stimulation modulator with inhibitory activity on T lymphocytes. It is approved for the treatment of rheumatoid arthritis. Belatacept selectively blocks the process of T-cell activation. It was developed by Bristol-Myers-Squibb. It differs from abatacept (Orencia) by only 2 amino acids. FDA approved on June 15, 2011.
+4. Indication:  For prophylaxis of organ rejection. It is also used concomitantly with basiliximumab for induction therapy, mycophenolate, and corticosteriods in kidney transplant recepients that are seropositive for the Epstein-Barr virus. 
+DrugId:  7
+1. Name:  Valaciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Valaciclovir (INN) or valacyclovir (USAN) is an antiviral drug used in the management of herpes simplex and herpes zoster (shingles). It is a prodrug, being converted in vivo to aciclovir. It is marketed by GlaxoSmithKline under the trade name Valtrex or Zelitrex.
+4. Indication:  For the treatment or suppression of cold sores (herpes labialis), herpes zoster (shingles), genital herpes in immunocompetent individuals, and recurrent genital herpes in HIV-infected individuals.
+DrugId:  8
+1. Name:  BTA9881
+2. Groups:  Investigational
+3. Description:  BTA9881 is a respiratory syncytial virus (RSV) antiviral drug developed by the Australian company Biota Holdings. It is currently in phase I trials.
+4. Indication:  For the treatment of respiratory syncytial virus infections.
+DrugId:  9
+1. Name:  PRO-542
+2. Groups:  Investigational
+3. Description:  PRO 542 belongs to a new class of drugs, viral-entry inhibitor, which is intended to prevent HIV from entering and infecting cells. PRO 542 (CD4-immunoglobulin G2) is a tetravalent CD4-immunoglobulin fusion protein that broadly neutralizes primary HIV-1 isolates. 
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, HIV infection, and pediatric indications.
+DrugId:  10
+1. Name:  Follitropin
+2. Groups:  Approved
+3. Description:  Follitropin is a human follicle stimulating hormone (FSH) preparation of recombinant DNA origin, which consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Follitropin beta is produced in genetically engineered Chinese hamster cell lines (CHO). The nomenclature “beta” differentiates it from another recombinant human FSH product that was marketed earlier as follitropin alpha. Follitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF). Numerous physio-chemical tests and bioassays indicate that follitropin beta and follitropin alpha are indistinguishable. However, a more recent study showed there is may be a slight clinical difference, with the alpha form tending towards a higher pregnancy rate and the beta form tending towards a lower pregnancy rate, but with significantly higher estradiol (E2) levels. Structural analysis shows that the amino acid sequence of follitropin beta is identical to that of natural human follicle stimulating hormone (FSH). Further, the ogliosaccharide side chains are very similar, but not completely identical to that of natural FSH. However, these small differences do not affect the bioactivity compared to natural FSH.
+4. Indication:  In women having been diagnosed with primary ovarian failure, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. In men with hypogonadotrophic hypogonadism, it is used to induce spermatogenesis. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+DrugId:  11
+1. Name:  PDPSC18
+2. Groups:  Investigational
+3. Description:  PDPSC18 is therapeutic DNA vaccine designed to fight chronic infections with the Hepatitis B virus, entering phase I clinical trials.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  12
+1. Name:  Presatovir
+2. Groups:  Investigational
+3. Description:  Presatovir has been used in trials studying the treatment of RSV Infection, Respiratory Syncytial Virus (RSV), Respiratory Syncytial Virus Infections, and Respiratory Syncytial Virus (RSV) Infections.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Dexelvucitabine
+2. Groups:  Investigational
+3. Description:  Dexelvucitabine has been used in trials studying the treatment of HIV Infections and Human Immunodeficiency Virus.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Danirixin
+2. Groups:  Investigational
+3. Description:  Danirixin has been used in trials studying the treatment and basic science of Virus Diseases, Nutritional Status, Pulmonary Disease, Chronic Obstructive, and Infections, Respiratory Syncytial Virus.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Human Varicella-Zoster Immune Globulin
+2. Groups:  Approved
+3. Description:  Human Varicella-Zoster Immune Globulin is a solvent/detergent-treated sterile liquid preparation of purified human immune globulin G (IgG) containing antibodies to varicella zoster virus (anti-VZV). It is prepared from pools of healthy human donors' plasma via anion-exchange column chromatography and was approved in 2012 under the name VariZIG to reduce the disease severity in high-risk patients who lack evidence of immunity to varicella and for whom varicella vaccine is contraindicated. The therapeutic efficacy is proven if administered within 4 days of exposure to varicella zoster virus.
+4. Indication:  Indicated for preventing and reducing the severity of chicken pox (varicella zoster virus) infections in high risk individuals within 4 days of exposure to varicella zoster virus.
+DrugId:  17
+1. Name:  Famciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Famciclovir is a guanine analogue antiviral drug used for the treatment of various herpes virus infections, most commonly for herpes zoster (shingles). It is a prodrug form of penciclovir with improved oral bioavailability. Famciclovir is marketed under the trade name Famvir (Novartis).
+4. Indication:  For the treatment of acute herpes zoster (shingles). Also for the treatment or suppression of recurrent genital herpes in immunocompetent patients and treatment of recurrent mucocutaneous herpes simplex infections in HIV infected patients.
+DrugId:  18
+1. Name:  Rubella virus vaccine
+2. Groups:  Approved, Investigational
+3. Description:  Rubella virus vaccine is a live attenuated virus vaccine for active immunization against rubella (German measles) that is subcutaneously administered. It is prepared from RA 27/3 strain of live attenuated rubella virus. Rubella is a common childhood disease, caused by rubella virus (togavirus).
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Hepatitis B Vaccine (Recombinant)
+2. Groups:  Approved, Withdrawn
+3. Description:  Hepatitis B Vaccine is an ingredient in the EMA-withdrawn product Quintanrix. It is marketed in Canada as Engerix B. It is also a part of Twinrix (Hep A/Hep B vaccine) available also in Canada.The hepatitis B virus induces a severe form of viral hepatitis. Other causative agents are hepatitis A virus, and the non-A, non-B hepatitis viruses. Hepatitis D virus, a defective virus requiring the “keeper function” of the hepatitis B virus, occurs either as a co-infection or super-infection in a HBsAg carrier.Transmission of the virus occurs through percutaneous contact with contaminated blood, serum or plasma. Infection may also occur by the exposure of mucous surfaces, or intact or damaged skin to other body fluids such as saliva, mucosal secretions and semen.There is no specific treatment for hepatitis. The incubation period may be as long as 6 months, followed by a very complex clinical course of an acute or chronic nature, often leading to hospitalization.Viral hepatitis caused by hepatitis B virus is a major worldwide health problem, though the incidence and epidemiology vary widely among geographical areas and population subgroups.In Canada, the United States and Northern Europe, 4% to 6% of the population are infected during their lifetime (mostly young adults); between 5% and 10% of infections lead to persistent viremia (carrier state). Certain population subgroups in these areas, however, are at high risk (see Indications and Clinical Use).In Asia, infection often occurs early in life, leading to a hepatitis B marker prevalence of more than 70% in the general population and a carrier rate of up to 20%.It is estimated that the reservoir of persistent hepatitis B surface antigen carriers amounts to 350 million people worldwide. Carriers are at a high risk of developing chronic liver disease which may lead to cirrhosis or primary hepatocellular carcinoma. A significant reduction in the incidence of hepatocellular carcinoma has been observed in children aged 6 to14 years following a nationwide hepatitis B vaccination in Taiwan. This resulted from a significant decline in the prevalence of hepatitis B antigen, the persistence of which is an essential factor in the development of hepatocellular carcinoma.Vaccination against hepatitis B is expected in the long term to reduce the overall incidence of both hepatitis B and the chronic complications such as chronic active hepatitis and cirrhosis.
+4. Indication:  Active immunization against hepatitis B virus infection.The vaccine will not protect against infection caused by hepatitis A and non-A non-B hepatitis viruses. As hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection or carrier state, it can be expected that hepatitis D will also be prevented by vaccination with hepatitis B virus vaccine.The vaccine can be administered at any age from birth onwards. It may be used to start a primary course of vaccination or as a booster dose. It may also be used to complete a primary course of vaccination started with plasma-derived or yeast-derived vaccines or as a booster dose in subjects who have previously received a primary course of vaccination with plasma-derived or yeast-derived vaccines.In areas of low prevalence of hepatitis B, vaccination is strongly recommended in subjects who are at increased risk of infection. These include the following groups:Health professionals: physicians and surgeons; oral surgeons and dentists; nurses, dental nurses, dental hygienists, podiatrists; IV teams and operating room personnel; paramedical personnel in close contact with patients; staff in hemodialysis, nephrology, hepatology, hematology and oncology units; laboratory personnel handling blood and other clinical specimens; blood bank and plasma fractionation workers; pathologists and morgue attendants; cleaning staff who handle waste in hospitals; emergency and first aid workers; ambulance staff; dental, medical and nursing students.Patients: patients receiving frequent blood transfusion or clotting factor concentrates, such as those in oncology units and those with thalassemia, sickle-cell anemia, cirrhosis, hemophilia, etc.; patients on hemodialysis; patients with type 2 diabetes.Personnel and residents of institutions: persons with frequent and/or close contacts with high-risk groups; prisoners and prison staff; residents and staff of institutions for the developmentally challenged (those who are in contact with aggressive biting residents being at highest risk).Persons at increased risk due to their sexual practices: males having sexual contact with other males; others with multiple sexual partners or with a recent history of sexually transmitted disease.Persons who use injectable drugs illicitly.Travellers to areas of high endemicity and their close contacts.Household contacts of any of the above groups and of patients with acute or chronic hepatitis B infection.Infants born of HBsAg-positive mothers.Chronic Liver Disease (CLD): subjects with chronic liver disease; subjects at risk of developing CLD (e.g. Hepatitis C virus carriers, persons who abuse alcohol).Others: police; fire fighters; armed forces personnel; morticians and embalmers; those who through their work or personal lifestyle may be exposed to the hepatitis B virus.In areas of both low and high prevalence, vaccination should be offered to all young children and neonates at risk, as well as to adult high risk groups.
+DrugId:  20
+1. Name:  ME-609
+2. Groups:  Investigational
+3. Description:  ME-609 is a Medivir’s combination treatment against labial herpes which suppresses the virus while moderating the immune system’s reaction. Clinical trials demonstrated that cold sores become far smaller, and in a significant number of cases, do not arise. This concept is highly competitive since none of the market’s current pharmaceuticals can prevent the incidence of cold sores.
+4. Indication:  Investigated for use/treatment in herpes labialis infections (cold sores).
+DrugId:  21
+1. Name:  Galidesivir
+2. Groups:  Investigational
+3. Description:  Galidesivir has been used in trials studying the treatment of Filovirus Infections and Ebola Virus Infection.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Tifuvirtide
+2. Groups:  Investigational
+3. Description:  Tifuvirtide is the first members of a new class of anti-HIV drugs which is also called fusion inhibitors. It has received fast track designation from the FDA and is in Phase I/II clinical testing.
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections and HIV infection.
+DrugId:  23
+1. Name:  HCV-086
+2. Groups:  Investigational
+3. Description:  HCV-086 is a small molecule antiviral designed to block an enzyme required for the replication of the hepatitis C virus.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  24
+1. Name:  Influenza a virus a/california/7/2009(h1n1)-like antigen (formaldehyde inactivated)
+2. Groups:  Approved
+3. Description:  Influenza a virus a/california/7/2009(h1n1)-like antigen (formaldehyde inactivated) is an active immunization against disease caused by influenza virus subtypes A and type B for intramuscular injection. The vaccine is prepared from influenza virus propagated in the allantoic fluid of embryonated chicken eggs where the virus is purified and inactivated by formaldehyde.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Yellow Fever Vaccine
+2. Groups:  Approved, Investigational
+3. Description:  Yellow Fever vaccine prevents against Yellow Fever, a viral hemorrhagic disease caused by the transmission of a flavivirus through the bite of an infected mosquito. Symptoms of Yellow Fever can range from asymptomatic, to mild flu-like illness, to more severe symptoms such as shock, jaundice, internal bleeding, and organ failure [4]. Interestingly, Yellow Fever got its name from the characteristic yellowing of the skin and eyes that occurs from the development of jaundice when the virus attacks the liver. Although there is supportive treatment available for managing Yellow Fever, there are currently no antivirals developed to specifically treat Yellow Fever. Vaccination with Yellow Fever vaccine is therefore considered to be the most important and effective measure to protect against Yellow Fever, with protective immunity developing within 10 days after vaccination; in two separate clinical trials of Yellow Fever Vaccine, 90% of subjects seroconverted within 10 days after vaccination, and 100% of subjects seroconverted within 14 days [FDA Label]. The World Health Organization no longer recommends the use of a 10-year booster dose following primary immunization, as a single dose is "sufficient to confer life-long immunity against yellow fever disease" [3]. Yellow Fever is most commonly found in the southern hemisphere, in tropical regions of Africa and Central/South America [2]. The World Health Organization recommends routine vaccination in countries where Yellow Fever is endemic, and for travellers going to endemic areas as proof of vaccination is often a requirement at border crossings to prevent international spread of the disease [2, 5].Yellow Fever Vaccine is a subcutaneously administered vaccination for the active immunization and prophylaxis of yellow fever in pediatric patients 9 months of age and older. It is composed of two live, attenuated strains of yellow fever virus, 17D-204 and 17DD, which have been shown to elicit an immune response identical to that induced by wild-type infection [FDA Label]. The FDA recommends vaccination with Yellow Fever Vaccine for persons living in or travelling to endemic areas and for laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus.
+4. Indication:  Yellow Fever Vaccine is indicated for active immunization for the prevention of yellow fever in persons 9 months of age and older in the following categories:Persons Living in or Traveling to Endemic Areas: While the actual risk for contracting yellow fever during travel is probably low, variability of itineraries, behaviors and seasonal incidence of disease make it difficult to predict the actual risk for a given individual living in or traveling to a known endemic or epidemic area. Greater risk is associated with living in or traveling to areas of South America and Africa where yellow fever infection is officially reported at the time of travel and with traveling outside the urban areas of countries that do not officially report the disease but that lie in a yellow fever endemic zone.Persons Travelling Internationally Through Countries with Yellow Fever: Some countries require an individual to have a valid International Certificate of Vaccination or Prophylaxis (ICVP) if the individual has been in countries either known or thought to harbor yellow fever virus. The certificate becomes valid 10 days after vaccination with Yellow Fever Vaccine.Laboratory Personnel: Laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus strains may be at risk of exposure by direct or indirect contact or by aerosols.

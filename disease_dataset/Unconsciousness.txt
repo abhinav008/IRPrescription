@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Paraldehyde
+2. Groups:  Approved, Investigational
+3. Description:  Paraldehyde is the cyclic trimer of acetaldehyde molecules. It was introduced into clinical practice in the UK by the Italian physician Vincenzo Cervello in 1882. It is a central nervous system depressant and was soon found to be an effective anticonvulsant, hypnotic and sedative. It was included in some cough medicines as an expectorant (though there is no known mechanism for this function beyond the placebo effect).
+4. Indication:  Paraldehyde was used historically as a sedative and hypnotic [1]. It has been used in the treatment of seizures as an anticonvulsant [2].
+DrugId:  2
+1. Name:  Esketamine
+2. Groups:  Approved, Investigational
+3. Description:  Esketamine has been used in trials studying the treatment, basic science, diagnostic, and prevention of Pain, Anesthesia, Odontalgia, Unconsciousness, and Renal Impairment, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Propofol
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Propofol is an intravenous anaesthetic agent used for induction and maintenance of general anaesthesia. IV administration of propfol is used to induce unconsciousness after which anaesthesia may be maintained using a combination of medications. Recovery from propofol-induced anaesthesia is generally rapid and associated with less frequent side effects (e.g. drowsiness, nausea, vomiting) than with thiopental, methohexital, and etomidate. Propofol may be used prior to diagnostic procedures requiring anaesthesia, in the management of refractory status epilepticus, and for induction and/or maintenance of anaesthesia prior to and during surgeries.
+4. Indication:  Used for induction and/or maintenance of anaesthesia and for management of refractory status epilepticus. 
+DrugId:  4
+1. Name:  Etomidate
+2. Groups:  Approved
+3. Description:  Imidazole derivative anesthetic and hypnotic with little effect on blood gases, ventilation, or the cardiovascular system. It has been proposed as an induction anesthetic. [PubChem]
+4. Indication:  Used in the induction of general anesthesia.
+DrugId:  5
+1. Name:  Decamethonium
+2. Groups:  Approved
+3. Description:  Decamethonium is a short acting depolarizing muscle relaxant or neuromuscular blocking agent, and is used in anesthesia to induce paralysis. It is similar to acetylcholine and acts as a partial agonist of the nicotinic acetylcholine receptor.
+4. Indication:  For use as a skeletal muscle relaxant
+DrugId:  6
+1. Name:  Acetohexamide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  A sulfonylurea hypoglycemic agent that is metabolized in the liver to 1-hydrohexamide. Acetohexamide has been discontinued in the US market. 
+4. Indication:  Used in the management of diabetes mellitus type 2 (adult-onset).
+DrugId:  7
+1. Name:  Cycloserine
+2. Groups:  Approved
+3. Description:  Antibiotic substance produced by Streptomyces garyphalus. [PubChem]
+4. Indication:  Used in combination with up to 5 other drugs as a treatment for Mycobacterium avium complex (MAC) and is also used to treat tuberculosis (TB).
+DrugId:  8
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  9
+1. Name:  Benzonatate
+2. Groups:  Approved
+3. Description:  Benzonatate is a non-narcotic oral antitussive (cough suppressant) drug which works by anesthetizing the tissues of the lungs and pleura responsible for the cough reflex. It is chemically related to other ester anesthetics such as procaine. It has an anesthetic (numbing) action similar to that of benzocaine and "numbs" the stretch sensors in the lungs. It is the stretching of these sensors with breathing that causes the cough. It was approved by the FDA in 1958.
+4. Indication:  For the symptomatic relief of cough. Has also been applied locally in the oral cavity in adults by releasing the drug from the liquid-filled capsules to provide oropharyngeal anesthesia for conscious intubation.
+DrugId:  10
+1. Name:  Carbon dioxide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Carbon dioxide is a colorless, odorless gas vital to life on Earth. This naturally occurring chemical compound is composed of a carbon atom covalently double bonded to two oxygen atoms. Medical Carbon Dioxide is a liquefied medicinal gas, supplied in cylinders filled to a high pressure. Medical Carbon Dioxide may be used in different situations, e.g. during bodily investigations, to inflate body cavities during surgery (such as key-hole surgery), iand in solid form (dry ice) for freezing of tissue and removal of warts.
+4. Indication:  Carbon dioxide is commonly used as an insufflation gas for minimal invasive surgery (laparoscopy, endoscopy, and arthroscopy) to enlarge and stabilize body cavities to provide better visibility of the surgical area. It has been used also in cryotherapy and as respiratory stimulant before and after anesthesia. It could be used also in expansion of blood vessels if required, to increase carbon dioxide level after rapid breathing, and to stimulate breathing after a period of nonbreathing. 
+DrugId:  11
+1. Name:  Picrotoxin
+2. Groups:  Experimental
+3. Description:  A noncompetitive antagonist at GABA-A receptors and thus a convulsant. Picrotoxin blocks the gamma-aminobutyric acid-activated chloride ionophore. Although it is most often used as a research tool, it has been used as a CNS stimulant and an antidote in poisoning by CNS depressants, especially the barbiturates. [PubChem]
+4. Indication:  Used internally for relieving respiratory distress. Also for use as an antidote in poisoning by CNS depressants, especially barbiturates.
+DrugId:  12
+1. Name:  Gamma Hydroxybutyric Acid
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Gamma Hydroxybutyric Acid, commonly abbreviated GHB, is a therapeutic drug which is illegal in multiple countries. It is currently regulated in the US and sold by Jazz Pharmaceuticals under the name Xyrem. However, it is important to note that GHB is a designated Orphan drug (in 1985). Today Xyrem is a Schedule III drug; however GHB remains a Schedule I drug and the illicit use of Xyrem falls under penalties of Schedule I. GHB is a naturally occurring substance found in the central nervous system, wine, beef, small citrus fruits and almost all other living creatures in small amounts. It is used illegally under the street names Juice, Liquid Ecstasy or simply G, either as an intoxicant, or as a date rape drug. Xyrem is a central nervous system depressant that reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy.
+4. Indication:  Used as a general anesthetic, to treat conditions such as insomnia, clinical depression, narcolepsy, and alcoholism, and to improve athletic performance. 
+DrugId:  13
+1. Name:  Rifampicin
+2. Groups:  Approved
+3. Description:  A semisynthetic antibiotic produced from Streptomyces mediterranei. It has a broad antibacterial spectrum, including activity against several forms of Mycobacterium. In susceptible organisms it inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme. It thus suppresses the initiation of RNA synthesis. Rifampin is bactericidal, and acts on both intracellular and extracellular organisms. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p1160)
+4. Indication:  For the treatment of Tuberculosis and Tuberculosis-related mycobacterial infections.
+DrugId:  14
+1. Name:  Promethazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals. [PubChem]
+4. Indication:  For the treatment of allergic disorders, and nausea/vomiting.
+DrugId:  15
+1. Name:  Sulfacetamide
+2. Groups:  Approved
+3. Description:  An anti-infective agent that is used topically to treat skin infections and orally for urinary tract infections. [PubChem]
+4. Indication:  For the treatment of bacterial vaginitis, keratitis, acute conjunctivitis, and blepharitis.
+DrugId:  16
+1. Name:  Carbidopa
+2. Groups:  Approved
+3. Description:  An inhibitor of DOPA decarboxylase, preventing conversion of levodopa to dopamine. It is used in parkinson disease to reduce peripheral adverse effects of levodopa. It has no antiparkinson actions by itself. [PubChem]
+4. Indication:  For treatment of the symptoms of idiopathic Parkinson's disease (paralysis agitans), post-encephalitic parkinsonism

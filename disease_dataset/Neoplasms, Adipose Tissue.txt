@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Deoxycholic Acid
+2. Groups:  Approved
+3. Description:  Deoxycholic acid is a a bile acid which emulsifies and solubilizes dietary fats in the intestine, and when injected subcutaneously, it disrupts cell membranes in adipocytes and destroys fat cells in that tissue. In April 2015, deoxycholic acid was approved by the FDA for the treatment submental fat to improve aesthetic appearance and reduce facial fullness or convexity. It is marketed under the brand name Kybella by Kythera Biopharma and is the first pharmacological agent available for submental fat reduction, allowing for a safer and less invasive alternative than surgical procedures. 
+4. Indication:  For improvement in appearance of moderate to severe fullness associated with submental fat in adults. 
+DrugId:  2
+1. Name:  GW-501516
+2. Groups:  Investigational
+3. Description:  GW-501516 is a peroxisome proliferator-activator receptor-delta agonist for the potential treatment of dyslipidemia. GW-501516 has been investigated for the treatment of Obesity, Lipid Disorders, and Cardiovascular Disease.
+4. Indication:  Investigated for use/treatment in hyperlipidemia.
+DrugId:  3
+1. Name:  Estrone
+2. Groups:  Approved
+3. Description:  Estrone, one of the major mammalian estrogens, is an aromatized C18 steroid with a 3-hydroxyl group and a 17-ketone. It is produced in vivo from androstenedione or from testosterone via estradiol. It is produced primarily in the ovaries, placenta, and in peripheral tissues (especially adipose tissue) through conversion of adrostenedione. Estrone may be further metabolized to 16-alpha-hydroxyestrone, which may be reduced to estriol by estradiol dehydrogenase.
+4. Indication:  For management of perimenopausal and postmenopausal symptoms.
+DrugId:  4
+1. Name:  Gadoteridol
+2. Groups:  Approved, Investigational
+3. Description:  Gadoteridol provides contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies. n MRI, visualization of normal and pathological brain tissue depends in part on variations in the radiofrequency signal intensity that occur with changes in proton density, alteration of the T1, and variation in T2. When placed in a magnetic field, gadoteridol shortens the T1 relaxation time in tissues where it accumulates. Abnormal vascularity or disruption of the blood-brain barrier allows accumulation of gadoteridol in lesions such as neoplasms, abscesses, and subacute infarcts.
+4. Indication:  Gadoteridol is an MRI contrast agent used for contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies.
+DrugId:  5
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Metreleptin
+2. Groups:  Approved
+3. Description:  Metreleptin, a recombinant analog of the human hormone leptin, is an orphan drug used to treat complications of leptin deficiency in people with congenital or acquired lipodystrophy. Affecting less than 500 people worldwide, lipodystrophy is characterized by a lack of adipose tissue, fat deposition in the muscles and liver, and metabolic complications such as hypertriglyceridemia, insulin resistance, diabetes mellitus, and fatty liver disease. These metabolic abnormalities are often aggravated by excessive food intake, which is further aggravated by leptin deficiency, a protein secreted by adipose tissue. Administration of Metreleptin results in improvement of metabolic symptoms including improvements in insulin resistance, reduced HbA1c and fasting glucose, reduced triglycerides, and reductions in food intake. Metreleptin is produced in E. coli and differs from native human leptin by the addition of a methionine residue at its amino terminus. It is administered as a once daily subcutaneous injection. On Feb. 24, 2014, Metreleptin was approved by the FDA for the treatment of complications of leptin deficiency, in addition to diet, in patients with congenital generalized or acquired generalized lipodystrophy. Metreleptin is marketed under the brand Myalept® by Aegerion Pharmaceuticals, Inc.
+4. Indication:  Metreleptin is indicated as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy.
+DrugId:  7
+1. Name:  Insulin Detemir
+2. Groups:  Approved
+3. Description:  Insulin detemir is a long-acting human insulin analogue used to maintain basal levels of insulin in diabetic individuals. It is produced using recombinant DNA technology in yeast cells. This insulin analogue has a 14-C fatty acid, myristic acid, bound to the lysine amino acid at position B29. The myristoyl side chain increases self-association and albumin binding. This along with slow systemic absorption from the injection site prolongs distribution of the hormone into tissues and results in a long duration of action. Novo Nordisk markets insulin detemir under the trade name Levemir.
+4. Indication:  For the treatment of type 1 or 2 diabetes mellitus. May be used in combination with oral anti-diabetic agents in type 2 diabetic patients who are not in adequate metabolic control with oral anti-diabetic agents alone. 
+DrugId:  8
+1. Name:  Insulin Glulisine
+2. Groups:  Approved
+3. Description:  Insulin glulisine is a biosynthetic, rapid-acting human insulin analogue produced in a non-pathogenic laboratory strain of Escherichia coli (K12). This recombinant hormone differs from native human insulin in that the amino acid arginine at position B3 is replaced by lysine and the lysine at position B29 is replaced by glutamic acid. These structural modifications decrease hexamer formation, stabilize insulin glulisine monomers and increase the rate of absorption and onset of action compared to human insulin. 
+4. Indication:  For the treatment of Type 1 and 2 diabetes mellitus. Should be used in regimens including a long-acting or basal insulin analogue unless it is used in a continuous infusion pump. May be used with oral antidiabetic agents. 
+DrugId:  9
+1. Name:  Insulin Lispro
+2. Groups:  Approved
+3. Description:  Insulin lispro is a recombinant human insulin analogue produced in a specialized laboratory strain of Escherischia coli. Plasmid DNA transfected into the bacteria encodes for an analogue of human insulin that has a lysine at residuce B28 and proline at B29; these residues are reversed in endogenous human insulin. Reversal of these amino acid residues produces a rapid-acting insulin analogue. FDA approved on 1996.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. To be used in conjunction with an intermediate or long-acting insulin except when used in a continuous insulin infusion pump. 
+DrugId:  10
+1. Name:  Insulin Glargine
+2. Groups:  Approved
+3. Description:  Insulin glargine is produced by recombinant DNA technology using a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism. It is an analogue of human insulin made by replacing the asparagine residue at position A21 of the A-chain with glycine and adding two arginines to the C-terminus (positions B31 and 32) of the B-chain. The resulting protein is soluble at pH 4 and forms microprecipitates at physiological pH 7.4. Small amounts of insulin glargine are slowly released from microprecipitates giving the drug a long duration of action (up to 24 hours) and no pronounced peak concentration. 
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus in patients over 17 years old who require a long-acting (basal) insulin for the control of hyperglycemia. May be used in pediatric patients with Type 1 diabetes mellitus who require a long-acting (basal) insulin for glycemic control. 
+DrugId:  11
+1. Name:  Insulin Aspart
+2. Groups:  Approved
+3. Description:  Insulin aspart is a recombinant, biosynthetic, fast-acting insulin analogue. It has a single amino acid substitution at position B28 where proline is replaced with aspartic acid. This substitution decreases its propensity to form hexamers and gives it a higher rate of absorption following subcutaneous administration compared to native insulin. Insulin aspart is produced in a genetically modified strain of Saccharomyces cerevisiae and harvested from a bioreactor.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. Should normally be used in conjunction with an intermediate or long-acting insulin. 
+DrugId:  12
+1. Name:  Quinestrol
+2. Groups:  Approved
+3. Description:  The 3-cyclopentyl ether of ethinyl estradiol.
+4. Indication:  Used in hormone replacement therapy, treating symptoms of menopause such as hot flashes. Also used to treat breast and prostate cancer.
+DrugId:  13
+1. Name:  Capromab pendetide
+2. Groups:  Approved
+3. Description:  Capromab is a Murine IgG1 monoclonal 7E11-C5.3 antibody that recognizes prostate specific membrane antigen (PSMA – also known as glutamate carboxypeptidase 2) from prostate cancer cells and normal prostate tissue. It is linked to pendetide, a derivative of DTPA. Pendetide acts as a chelating agent for the radionuclide indium-111. Capromab is used to image the extent of prostate cancer.
+4. Indication:  For diagnosis of prostate cancer and detection of intra-pelvic metastases.
+DrugId:  14
+1. Name:  Enfortumab vedotin
+2. Groups:  Investigational
+3. Description:  Enfortumab vedotin has been used in trials studying the treatment of Tumors, Neoplasms, and Medical Oncology.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Patritumab
+2. Groups:  Investigational
+3. Description:  Patritumab has been used in trials studying the treatment of LUNG CANCER, Solid Tumors, Neoplasms by Site, Head and Neck Neoplasms, and Non-small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Rosiglitazone
+2. Groups:  Approved, Investigational
+3. Description:  Rosiglitazone is an anti-diabetic drug in the thiazolidinedione class of drugs. It is marketed by the pharmaceutical company GlaxoSmithKline as a stand-alone drug (Avandia) and in combination with metformin (Avandamet) or with glimepiride (Avandaryl). Like other thiazolidinediones, the mechanism of action of rosiglitazone is by activation of the intracellular receptor class of the peroxisome proliferator-activated receptors (PPARs), specifically PPARγ. Rosiglitazone is a selective ligand of PPARγ, and has no PPARα-binding action. Apart from its effect on insulin resistance, it appears to have an anti-inflammatory effect: nuclear factor kappa-B (NFκB) levels fall and inhibitor (IκB) levels increase in patients on rosiglitazone. Recent research has suggested that rosiglitazone may also be of benefit to a subset of patients with Alzheimer's disease not expressing the ApoE4 allele. This is the subject of a clinical trial currently underway.
+4. Indication:  Rosiglitazone is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. 
+DrugId:  17
+1. Name:  TAK-448
+2. Groups:  Investigational
+3. Description:  TAK-448 has been used in trials studying the treatment of Prostate Cancer, Low Testosterone, Prostatic Neoplasms, and Hypogonadotropic Hypogonadism.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  INCB13739
+2. Groups:  Investigational
+3. Description:  INCB13739 is developed as a new treatment for type 2 diabetes.It is an orally available small molecule inhibitor of 11beta-HSD1 (11-beta hydroxysteroid dehydrogenase type 1). 11beta-HSD1 is an enzyme that appears to be critical to the development of type 2 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and diabetes prevention.
+DrugId:  19
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  20
+1. Name:  Gadoversetamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadoversetamide is a gadolinium compound used as a contrast agent in magnetic resonance imaging (MRI), particularly imaging of the brain, spine and liver. It is marketed under the trade name OptiMARK.
+4. Indication:  Gadoversetamide is an MRI contrast agent used for MRI diagnostic procedures to provide increased enhancement and visualization of lesions of the brain, spine and liver, including tumors.
+DrugId:  21
+1. Name:  5-fluoro-2'-deoxycytidine
+2. Groups:  Investigational
+3. Description:  5-fluoro-2'-deoxycytidine has been used in trials studying the treatment of Neoplasms, Lung Neoplasms, Breast Neoplasms, Head and Neck Neoplasms, and Urinary Bladder Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Troglitazone
+2. Groups:  Investigational, Withdrawn
+3. Description:  Troglitazone was withdrawn in 2000 due to risk of hepatotoxicity. It was superseded by pioglitazone and rosiglitazone.
+4. Indication:  For the treatment of Type II diabetes mellitus. It is used alone or in combination with a sulfonylurea, metformin, or insulin as an adjunct to diet and exercise.
+DrugId:  23
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  24
+1. Name:  Anastrozole
+2. Groups:  Approved, Investigational
+3. Description:  Anastrozole is a drug indicated in the treatment of breast cancer in post-menopausal women. It is used both in adjuvant therapy (i.e. following surgery) and in metastatic breast cancer. It decreases the amount of estrogens that the body makes. Anastrozole belongs in the class of drugs known as aromatase inhibitors. It inhibits the enzyme aromatase, which is responsible for converting androgens (produced by women in the adrenal glands) to estrogens.
+4. Indication:  For adjuvant treatment of hormone receptor positive breast cancer , as well as hormonal treatment of advanced breast cancer in post-menopausal women. Has also been used to treat pubertal gynecomastia and McCune-Albright syndrome; however, manufacturer states that efficacy for these indications have not been established.
+DrugId:  25
+1. Name:  Gemfibrozil
+2. Groups:  Approved
+3. Description:  A lipid-regulating agent that lowers elevated serum lipids primarily by decreasing serum triglycerides with a variable reduction in total cholesterol. These decreases occur primarily in the VLDL fraction and less frequently in the LDL fraction. Gemfibrozil increases HDL subfractions HDL2 and HDL3 as well as apolipoproteins A-I and A-II. Its mechanism of action has not been definitely established. [PubChem]
+4. Indication:  For treatment of adult patients with very high elevations of serum triglyceride levels (types IV and V hyperlipidemia) who are at risk of developing pancreatitis (inflammation of the pancreas) and who do not respond adequately to a strict diet.

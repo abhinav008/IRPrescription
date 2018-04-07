@@ -1,0 +1,15 @@
+DrugId:  1
+1. Name:  Pyrimethamine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the folic acid antagonists that is used as an antimalarial or with a sulfonamide to treat toxoplasmosis. [PubChem]
+4. Indication:  For the treatment of toxoplasmosis and acute malaria; For the prevention of malaria in areas non-resistant to pyrimethamine
+DrugId:  2
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  3
+1. Name:  Sulfadiazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections. [PubChem]
+4. Indication:  For the treatment of rheumatic fever and meningococcal meningitis

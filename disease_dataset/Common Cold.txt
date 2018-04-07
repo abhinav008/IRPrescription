@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Chlorphenamine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in allergic reactions, hay fever, rhinitis, urticaria, and asthma. It has also been used in veterinary applications. One of the most widely used of the classical antihistaminics, it generally causes less drowsiness and sedation than promethazine. [PubChem]
+4. Indication:  For the treatment of rhinitis, urticaria, allergy, common cold, asthma and hay fever.
+DrugId:  2
+1. Name:  Brompheniramine
+2. Groups:  Approved
+3. Description:  Histamine H1 antagonist used in treatment of allergies, rhinitis, and urticaria. [PubChem]
+4. Indication:  For the treatment of the symptoms of the common cold and allergic rhinitis, such as runny nose, itchy eyes, watery eyes, and sneezing.
+DrugId:  3
+1. Name:  BTA798
+2. Groups:  Investigational
+3. Description:  BTA798 is an antiviral for the treatment of HRV, the common cold virus, known to cause significant clinical complications in sufferers of Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  4
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  5
+1. Name:  Pseudoephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  For the treatment of nasal congestion, sinus congestion, Eustachian tube congestion, and vasomotor rhinitis, and as an adjunct to other agents in the optimum treatment of allergic rhinitis, croup, sinusitis, otitis media, and tracheobronchitis. Also used as first-line therapy of priapism.
+DrugId:  6
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  7
+1. Name:  Doxylamine
+2. Groups:  Approved, Vet approved
+3. Description:  Histamine H1 antagonist with pronounced sedative properties. It is used in allergies and as an antitussive, antiemetic, and hypnotic. Doxylamine has also been administered in veterinary applications and was formerly used in parkinsonism. [PubChem]
+4. Indication:  Used alone as a short-term sleep aid, in combination with other drugs as a night-time cold and allergy relief drug. Also used in combination with Vitamin B6 (pyridoxine) to prevent morning sickness in pregnant women.
+DrugId:  8
+1. Name:  Dextromethorphan
+2. Groups:  Approved
+3. Description:  The d-isomer of the codeine analog of levorphanol. Dextromethorphan shows high affinity binding to several regions of the brain, including the medullary cough center. This compound is an NMDA receptor antagonist (receptors, N-methyl-D-aspartate) and acts as a non-competitive channel blocker. It is one of the widely used antitussives, and is also used to study the involvement of glutamate receptors in neurotoxicity. [PubChem]
+4. Indication:  For treatment and relief of dry cough.
+DrugId:  9
+1. Name:  Pentoxyverine
+2. Groups:  Approved, Investigational
+3. Description:  Pentoxyverine is a non-opioid central acting antitussive found in few OTC drugs. It is used in the symptomatic relief of cough associated with illnesses including the common cold, bronchitis or sinusitis. Its mechanism of action is not fully elucidated.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Ibuprofen
+2. Groups:  Approved
+3. Description:  Ibuprofen, a propionic acid derivative, is a prototypical nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties.
+4. Indication:  For symptomatic treatment of rheumatoid arthritis, juvenile rheumatoid arthritis and osteoarthritis. May be used to treat mild to moderate pain and for the management of dysmenorrhea. May be used to reduce fever. Has been used with some success for treating ankylosing spondylitis, gout and psoriatic arthritis. May reduce pain, fever and inflammation of pericarditis. May be used IV with opiates to relieve moderate to severe pain. Ibuprofen lysine may be used IV to treat patent ductus arteriosus (PDA) in premature neonates. 
+DrugId:  11
+1. Name:  Pleconaril
+2. Groups:  Investigational
+3. Description:  Pleconaril is an antiviral drug being developed by Schering-Plough for prevention of asthma exacerbations and common cold symptoms in asthmatic subjects exposed to picornavirus respiratory infections. Although the formulation used by Schering-Plough is a nasal spray, pleconaril is orally bioavailable, and is active against viruses in the Picornaviridae family, including Enterovirus and Rhinovirus.
+4. Indication:  Investigated for use/treatment in upper respiratory infection.
+DrugId:  12
+1. Name:  Zinc gluconate
+2. Groups:  Approved, Vet approved
+3. Description:  Zinc gluconate is a zinc salt of gluconic acid comprised of two gluconic acid molecules for each zinc cation (2+). Zinc gluconate is a generally recognized as safe (GRAS) substance by FDA [9]. It is available as a trace mineral supplement and over the counter as a lozenge form for a reduced duration of common colds and with decreased symptom severity.Although it has been nasally administered for treating the common cold, this route of administration has been associated with some cases of anosmia [5], [1], [2], [7].Studies show that zinc may be better absorbed in humans in the gluconate form [4], [19], however, results from other studies may vary [10], [L27280].Interestingly, zinc supplementation has become a critical intervention for treating diarrheal episodes in children. Studies suggest that administration of zinc along with new low osmolarity oral rehydration solutions/salts (oral rehydration solution), may reduce both the duration and severity of diarrheal episodes for up to 12 weeks [8].More information about Zinc (in its natural form) is available at Zinc.
+4. Indication:  Zinc gluconate is mainly indicated in conditions like zinc deficiency, and can also be administered in adjunctive therapy as an alternative drug of choice in diarrhea [15].
+DrugId:  13
+1. Name:  Ingavirin
+2. Groups:  Investigational
+3. Description:  Ingavirin has been used in trials studying the treatment of Influenza and Common Cold.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Phenylephrine
+2. Groups:  Approved
+3. Description:  Phenylephrine is a sympathomimetic amine that acts predominantly on α-adrenergic receptors. It is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+4. Indication:  Phenylephrine is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+DrugId:  15
+1. Name:  Phenindamine
+2. Groups:  Approved
+3. Description:  Phenindamine is an antihistamine. Phenindamine blocks the effects of the naturally occurring chemical histamine in your body. Antihistamines such as phenindamine appear to compete with histamine for histamine H1- receptor sites on effector cells. The antihistamines antagonize those pharmacological effects of histamine which are mediated through activation of H1- receptor sites and thereby reduce the intensity of allergic reactions and tissue injury response involving histamine release. It is used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.Symptoms of a phenindamine overdose include extreme sleepiness, confusion, weakness, ringing in the ears, blurred vision, large pupils, dry mouth, flushing, fever, shaking, insomnia, hallucinations, and possibly seizures.
+4. Indication:  Used to treat sneezing, runny nose, itching, watery eyes, hives, rashes, itching, and other symptoms of allergies and the common cold.
+DrugId:  16
+1. Name:  Thonzylamine
+2. Groups:  Approved
+3. Description:  Thonzylamine is an antihistamine and anticholinergic drug. It is available as combination products with Clofedanol or Phenylephrine for temporary relief of symptoms of common cold, hay fever (allergic rhinitis) or other upper respiratory allergies.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Guaifenesin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An expectorant that also has some muscle relaxing action. It is used in many cough preparations. [PubChem]
+4. Indication:  Used to assist the expectoration of phlegm from the airways in acute respiratory tract infections.
+DrugId:  18
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  19
+1. Name:  Wood creosote
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Guaiacolsulfonate
+2. Groups:  Experimental
+3. Description:  Guaiacolsulfonate is an aromatic sulfonic acid. Potassium guaiacolsulfonate salt is an expectorant that thins the mucus in the lungs and reduces chest congestion.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Carbinoxamine
+2. Groups:  Approved
+3. Description:  Carbinoxamine is a first generation antihistamine that competes with free histamine for binding at HA-receptor sites. This antagonizes the effects of histamine on HA-receptors, leading to a reduction of the negative symptoms brought on by histamine HA-receptor binding. The product label for carbinoxamine as an over the counter cough and cold medicine is being modified to state "do not use" in children under 4 years of age in order to prevent and reduce misuse, as many unapproved carbinoxamine-containing preparations contained inappropriate labeling, which promoted unapproved uses (including management of congestion, cough, the common cold, and the use in children under 2 years of age), which can potentially cause serious health risks.
+4. Indication:  For symptomatic relief of seasonal and perennial allergic rhinitis and vasomotor rhinitis, as well as allergic conjunctivitis caused by foods and inhaled allergens. Also for the relief of allergic reactions to blood or plasma, and the symptomatic management of mild, uncomplicated allergic skin manifestations of urticaria and angioedema.
+DrugId:  22
+1. Name:  Canakinumab
+2. Groups:  Approved, Investigational
+3. Description:  Canakinumab is a recombinant, human anti-human-IL-1β monoclonal antibody that belongs to the IgG1/κ isotype subclass. It is expressed in a murine Sp2/0-Ag14 cell line and comprised of two 447- (or 448-) residue heavy chains and two 214-residue light chains, with a molecular mass of 145157 Daltons when deglycosylated. Both heavy chains of canakinumab contain oligosaccharide chains linked to the protein backbone at asparagine 298 (Asn 298). Canakinumab binds to human IL-1β and neutralizes its inflammatory activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1alpha or IL-1 receptor antagonist (IL-1ra). Canakinumab is marketed under the brand name Ilaris and indicated for patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). Clinical trials have established the administration of canakinumab every 2 weeks to be safe and effective, offering a considerable advantage over the existing treatment with the human IL-1 receptor antagonist, anakinra, which must be injected daily and which is often poorly tolerated by patients.
+4. Indication:  Used in patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). 
+DrugId:  23
+1. Name:  Clemastine
+2. Groups:  Approved, Investigational
+3. Description:  An ethanolamine-derivative, first generation histamine H1 antagonist used in hay fever, rhinitis, allergic skin conditions, and pruritus. It causes drowsiness.
+4. Indication:  For the relief of symptoms associated with allergic rhinitis such as sneezing, rhinorrhea, pruritus and acrimation. Also for the management of mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Used as self-medication for temporary relief of symptoms associated with the common cold.
+DrugId:  24
+1. Name:  Pheniramine
+2. Groups:  Approved
+3. Description:  One of the histamine H1 antagonists with little sedative action. It is used in treatment of hay fever, rhinitis, allergic dermatoses, and pruritus. [PubChem]
+4. Indication:  Pheniramine is an antihistamine used to treat allergic conditions such as hay fever or urticaria.
+DrugId:  25
+1. Name:  Triprolidine
+2. Groups:  Approved
+3. Description:  First generation histamine H1 antagonist used in allergic rhinitis; asthma; and urticaria. It is a component of cough and cold medicines. It may cause drowsiness.
+4. Indication:  For the symptomatic relief of seasonal or perennial allergic rhinitis or nonallergic rhinitis; allergic conjunctivitis; and mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Also used in combination with other agents for the symptomatic relief of symptoms associated with the common cold.

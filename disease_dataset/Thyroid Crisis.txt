@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Iodide I-131
+2. Groups:  Approved, Investigational
+3. Description:  Iodide I-131 (as Sodium iodide I-131) is a radioisotopic drug used for the treatment and palliation of thyroid malignancy. Iodine-131 is notable for causing mutation and death in cells that it penetrates, which is due to its mode of beta decay. As a result of beta decay, approximately 10% of its energy and radiation dose is via gamma radiation, while the other 90% (beta radiation) causes tissue damage without contributing to any ability to see or image the isotope. Low levels of beta radiation are also known for causing cancer as this dose is highly mutagenic. For this reason, less toxic iodine isotopes such as I-123 are more frequently used in nuclear imaging, while I-131 is reserved for its tissue destroying effects. Because the thyroid gland naturally takes up iodine from the body, therapeutic methods using radioisotopes can take advantage of this mechanism for localization of drug to the site of malignancy. Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+4. Indication:  Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+DrugId:  2
+1. Name:  Potassium Iodide
+2. Groups:  Approved
+3. Description:  Saturated solution of Potassium Iodide (SSKI) is used pharmaceutically for emergency use in patients experiencing acute symptoms of severe hyperglycemia (also known as thyroid storm or thyrotoxic crisis). SSKI can also be used for radioiodine-contamination emergencies or in preparation of thyrotoxic patients for thyroidectomy.
+4. Indication:  Potassium Iodide is oral antithyroid agent. Potassium Iodide is used as an adjunct to other antithyroid agents in the treatment of hyperthyroidism and thyrotoxicosis and preoperatively to induce thyroid involution.
+DrugId:  3
+1. Name:  Thyroid, porcine
+2. Groups:  Approved
+3. Description:  Desiccated thyroid or thyroid extract, refers to porcine or bovine thyroid glands, dried and powdered for therapeutic use. In the last few decades, pork alone is the usual source.Desiccated (dried) thyroid is a combination of hormones that are normally produced by your thyroid gland to regulate the body's energy and metabolism. Desiccated thyroid is given when the thyroid does not produce enough of this hormone on its own.Desiccated thyroid treats hypothyroidism (low thyroid hormone). It is also used to treat or prevent goiter (enlarged thyroid gland), and is also given as part of a medical tests for thyroid disorders.This medicine should not be used to treat obesity or weight problems.
+4. Indication:  Replacement or supplemental therapy in hypothyroidism; TSH suppression (in thyroid cancer, nodules, goiters, and enlargement in chronic thyroiditis); diagnostic agent to differentiate suspected hyperthyroidism from euthyroidism.
+DrugId:  4
+1. Name:  Rivipansel
+2. Groups:  Investigational
+3. Description:  Rivipansel has been used in trials studying the other, basic science, and treatment of Pain Crisis, Renal impairment, Anemia, Sickle Cell, Sickle Cell Disease, and Sickle Cell Disorders, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Thyrotropin Alfa
+2. Groups:  Approved, Vet approved
+3. Description:  Thyrotropin alfa is a recombinant form of thyroid stimulating hormone used in performing certain tests in patients who have or have had thyroid cancer. It is also used along with a radioactive agent to destroy remaining thyroid tissue in certain patients who have had their thyroid gland removed because of thyroid cancer. It is a heterodimeric glycoprotein comprised of two non-covalently linked subunits, an alpha subunit of 92 amino acid residues containing two N-linked glycosylation sites and a beta subunit of 112 residues containing one N-linked glycosylation site. The alpha subunit is nearly identical to that of human chorionic gonadotropin (hCG), luteinizing hormone (LH), and follicle-stimulating hormone (FSH). The alpha subunit is thought to be the effector region responsible for stimulation of adenylate cyclase (involved the generation of cAMP). The beta subunit (TSHB) is unique to TSH, and therefore determines its receptor specificity. The amino acid sequence of thyrotropin alfa is identical to that of human pituitary thyroid stimulating hormone.
+4. Indication:  For detection of residueal or recurrent thyroid cancer
+DrugId:  6
+1. Name:  Liothyronine
+2. Groups:  Approved, Vet approved
+3. Description:  The L-triiodothyronine (T3, liothyronine) thyroid hormone is normally synthesized and secreted by the thyroid gland in much smaller quantities than L-tetraiodothyronine (T4, levothyroxine, L-thyroxine). Most T3 is derived from peripheral monodeiodination of T4 at the 5 position of the outer ring of the iodothyronine nucleus. The hormone finally delivered and used by the tissues is mainly T3. [PubChem]
+4. Indication:  Used as replacement or supplemental therapy in patients with hypothyroidism of any etiology, except transient hypothyrodism during the recovery phase of subacute thyroiditis.
+DrugId:  7
+1. Name:  Thyroglobulin
+2. Groups:  Approved, Withdrawn
+3. Description:  Thyroglobulin (also known as Tg) is an enzyme thyroid hormone used by the thyroid gland to produce the thyroid hormones thyroxine (T4) and triiodothyronine (T3). The active form of thyroxine, triiodothyronine, is produced both within the thyroid gland and periphery by 5'-deiodinase. Patients with Hashimoto's thyroiditis or Graves' disease, frequently develop antibodies against thyroglobulin. Thyroglobulin is used to treat hypothyroidism.
+4. Indication:  For the treatment of hypothyroidism (deficiency in the production of thyroid hormone).
+DrugId:  8
+1. Name:  NRP409
+2. Groups:  Investigational
+3. Description:  NRP409 is a triiodothyronine (T3) hormone, being investigated by New River Pharmaceuticals as a treatment for patients with primary hypothyroidism.
+4. Indication:  For use in treatment of hypothyroidism.
+DrugId:  9
+1. Name:  Levothyroxine
+2. Groups:  Approved
+3. Description:  The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (monoiodotyrosine) and the coupling of iodotyrosines (diiodotyrosine) in the thyroglobulin. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form triiodothyronine which exerts a broad spectrum of stimulatory effects on cell metabolism.
+4. Indication:  For use alone or in combination with antithyroid agents to treat hypothyroidism, goiter, chronic lymphocytic thyroiditis, myxedema coma, and stupor.
+DrugId:  10
+1. Name:  Iodide I-123
+2. Groups:  Approved
+3. Description:  Iodide I-123 (as sodium Iodide I-123) is a radioactive isotope of iodine used in nuclear medicine for the diagnostic study of thyroid disease. Following oral administration, I-123 is absorbed through the gastrointestinal tract and is taken up by the thyroid gland. After incorporation, a gamma camera is used to detect the decay by electron capture to tellurium-123.Iodine is commonly used in thyroid function diagnostic tests as this gland normally absorbs iodine through the diet for formation of the thyroid hormones triiodothyronine (T3) and its prohormone, thyroxine (T4). Radioactive I-123 in particular is effective for this use as its half-life of approximately 13.13 h (hours) is ideal for the 24-h (hour) iodine uptake test and it has a reduced radiation burden as compared to I-131.
+4. Indication:  Administration of Sodium Iodide I 123 Capsules is indicated as a diagnostic procedure to be used in evaluating thyroid function and/or morphology.
+DrugId:  11
+1. Name:  Technetium Tc-99m pertechnetate
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m pertechnetate is a radiopharmaceutical diagnostic agent composed of an oxoanion with the chemical formula TcO4-. Pertechnetate has a wide variety of uses within nuclear medicine as it distributes within the body to a similar extent as iodine. It also concentrates in the thyroid gland, salivary glands, gastric mucosa, and choroid plexus. However, in contrast to the iodide ion, the pertechnetate ion is released unchanged from the thyroid gland. Currently marketed as the product Drytec, technetium-99m pertechnetate is indicated for imaging of the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and the nasolacrimal drainage system.Technetium-99m's short half life (6 hours) makes storage impossible, therefore it is supplied as its parent nuclide molybdenum-99, which spontaneously decays to technetium-99 through beta decay. This is normally supplied in a hospital setting through the use of a technetium-99m generator, whereby technetium exits the generator in the form of the pertechnetate ion, TcO4−, which can be extracted and promptly used for clinical diagnostics. Following intravenous injection, single photon emission computed tomography (SPECT) is performed to detect the gamma ray emmitted by the decay of Technetium-99m to Technetium-99.
+4. Indication:  Sodium Pertechnetate Tc99m Injection is indicated for use in adults for imaging in the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and nasolacrimal drainage system (dacryoscintigraphy). It is indicated for use in children for imaging the following tissues: thyroid and urinary bladder. 
+DrugId:  12
+1. Name:  Propylthiouracil
+2. Groups:  Approved, Investigational
+3. Description:  A thiourea antithyroid agent. Propythiouracil inhibits the synthesis of thyroxine and inhibits the peripheral conversion of throxine to tri-iodothyronine. It is used in the treatment of hyperthyroidism. (From Martindale, The Extra Pharmacopeoia, 30th ed, p534)
+4. Indication:  Used to manage hyperthyroidism which is due to an overactive thyroid gland (Grave's disease).
+DrugId:  13
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  14
+1. Name:  Liotrix
+2. Groups:  Approved
+3. Description:  Liotrix is a synthetically derived thyroid hormone replacement preparation. It consists of levothyroxine sodium (thyroxine, T4) and liothyronine sodium (triiodothyronine, T3) in a 4 to 1 ratio by weight. Liotrix was developed when it was believed that serum levels of both T4 and T3 were maintained by direct thyroidal secretion. It is now known that the thyroid gland secretes approximately ten times more T4 than T3 and that 80% of serum T3 is derived from deiodination of T4 in peripheral tissues. Administration of levothyroxine alone is sufficient for maintaining serum T4 and T3 levels in most patients and combination hormone replacement therapy generally offers no therapeutic advantage. In fact, administration of T3 may result in supratherapeutic levels of T3.
+4. Indication:  May be used to treat primary, secondary or tertiary hypothyroidism. May also be used to suppress thyroid stimulating hormone (TSH) secretion in patients with simple (nontoxic) goiter, subacute or chronic lymphocytic thyroiditis multinodular goiter, and in the management of thyroid cancer. May be used in conjunction with other antithyroid agents to treat thyrotoxicosis to prevent goitrogenesis and hypothyroidism. May also be used for differential diagnosis of suspected mild hyperthyroidism or thyroid gland autonomy.
+DrugId:  15
+1. Name:  Rovalpituzumab Tesirine
+2. Groups:  Investigational
+3. Description:  Rovalpituzumab Tesirine has been used in trials studying the treatment of GLIOBLASTOMA, Malignant Melanoma, Other Solid Tumors, Small Cell Lung Cancer, and Medullary Thyroid Cancer, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Methimazole
+2. Groups:  Approved
+3. Description:  A thioureylene antithyroid agent that inhibits the formation of thyroid hormones by interfering with the incorporation of iodine into tyrosyl residues of thyroglobulin. This is done by interfering with the oxidation of iodide ion and iodotyrosyl groups through inhibition of the peroxidase enzyme. [PubChem]
+4. Indication:  For the treatment of hyperthyroidism, goiter, Graves disease and psoriasis.
+DrugId:  17
+1. Name:  Carbimazole
+2. Groups:  Approved, Investigational
+3. Description:  An imidazole antithyroid agent. Carbimazole is metabolized to methimazole, which is responsible for the antithyroid activity.
+4. Indication:  For the treatment of hyperthyroidism and thyrotoxicosis. It is also used to prepare patients for thyroidectomy.
+DrugId:  18
+1. Name:  Varespladib
+2. Groups:  Investigational
+3. Description:  Varespladib has been investigated for the treatment and prevention of Sickle Cell Disease, Vaso-occlusive Crisis, and Acute Coronary Syndrome.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Tyramine
+2. Groups:  Investigational, Nutraceutical
+3. Description:  Tyramine (4-hydroxyphenethylamine; para-tyramine, mydrial or uteramin) is a naturally occurring monoamine compound and trace amine derived from the amino acid tyrosine.[1] Tyramine acts as a catecholamine releasing agent. Notably, it is unable to cross the blood-brain barrier, resulting in only nonpsychoactive peripheral sympathomimetic effects. A hypertensive crisis can result, however, from ingestion of tyramine-rich foods in conjunction with monoamine oxidase inhibitors (MAOIs).
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Human calcitonin
+2. Groups:  Approved, Investigational
+3. Description:  Calcitonin was first discovered in isolated parathyroid tissue as a substance with a serum-calcium-lowering effect.[2] It is constituted as a 32-amino acid single chain polypeptide structure that gets secreted as a regulatory agent in calcium-phosphorus metabolism.[1] It is used as an alternative for people developing antibodies against salmon calcitonin.[3]
+4. Indication:  Human calcitonin is indicated for the treatment of Paget's disease in the cases where the use of salmon calcitonin may provoke the generation of high-titer of antibodies.[3] Paget's disease is a metabolic bone disorder characterized by focal areas of increased and disorganized bone turnover coupled with an increased bone formation. The majority of the cases are asymptomatic but some clinical manifestations include pain, bone deformity and some complications such as pathological fractures and deafness.[4] The increased activity in bone is associated with a rise in serum level of alkaline phosphatase and the increased urinary excretion of hydroxyproline which is a product of bone breakdown.[2]
+DrugId:  21
+1. Name:  Pargyline
+2. Groups:  Approved
+3. Description:  A monoamine oxidase inhibitor with antihypertensive properties. [PubChem]
+4. Indication:  For the treatment of moderate to severe hypertension.
+DrugId:  22
+1. Name:  3,5-Diiodotyrosine
+2. Groups:  Experimental
+3. Description:  A product from the iodination of MONOIODOTYROSINE. In the biosynthesis of thyroid hormones, diiodotyrosine residues are coupled with other monoiodotyrosine or diiodotyrosine residues to form T4 or T3 thyroid hormones (THYROXINE and TRIIODOTHYRONINE). [PubChem]
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  MB07811
+2. Groups:  Investigational
+3. Description:  MB07811 is the first of a novel class of product candidates discovered by Metabasis designed to lower serum cholesterol and triglycerides. MB07811, a small molecule that is administered orally, has been extensively studied preclinically and is currently undergoing clinical testing. MB07811 combines a novel thyroid hormone receptor agonist with the Company's novel HepDirect liver targeting prodrug technology. The combination of selectivity for the beta form of the receptor, liver targeting and other structural characteristics that limit extra-hepatic activity is designed to provide significant efficacy while avoiding side effects associated with activation of thyroid hormone receptors outside the liver.
+4. Indication:  Investigated for use/treatment in hyperlipidemia.
+DrugId:  24
+1. Name:  AP1081
+2. Groups:  Investigational
+3. Description:  A transdermal gel containing ethinyl estradiol and norelgestromin being investigated by Antares Pharma for use as a female contraceptive.
+4. Indication:  For use as a female contraceptive.
+DrugId:  25
+1. Name:  Tiratricol
+2. Groups:  Investigational
+3. Description:  A metabolite of T3 and T4 thyroid hormones; promoted for hyperlipidemia, localized lipodystrophy, and obesity. Tiratricol has been used in trials studying the treatment of Allan-Herndon-Dudley Syndrome.
+4. Indication:  Not Available

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  PRO 2000
+2. Groups:  Investigational
+3. Description:  PRO 2000 is an investigational medicine that is not yet approved by the FDA for use outside of clinical trials. It is being studied for the prevention of HIV infection and other sexually transmitted diseases. This medicine does not cure HIV infection or AIDS and is being studied to reduce the risk of passing the virus to other people.
+4. Indication:  Investigated for use/treatment in HIV prevention, prevention of stdis, and vaginal infection.
+DrugId:  2
+1. Name:  AMD-070
+2. Groups:  Investigational
+3. Description:  AMD-070 is a small molecule drug candidate that belongs to a new investigational class of anti-HIV drugs known as entry (fusion) inhibitors. Currently there is only one FDA-approved entry inhibitor, enfuvirtide (Fuzeon), that is available for the treatment of HIV infection. Several experimental entry inhibitors are now in early stage testing, including AMD-070, which targets the CXCR4 receptor on HIV and prevents the virus from entering and infecting healthy cells. Other entry inhibitors target the CCR5 receptor of HIV.These new agents are widely viewed as next generation anti-HIV drugs with the potential to significantly advance HIV therapeutics.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  3
+1. Name:  16-Bromoepiandrosterone
+2. Groups:  Investigational
+3. Description:  16-Bromoepiandrosterone is an injectable formulation of a compound called alpha-epi-bromide. It is a chemical relative of DHEA which was selected for development after it showed antiretroviral activity in laboratory tests.
+4. Indication:  Investigated for use/treatment in cystic fibrosis, HIV infection, hepatitis (viral, B), and malaria.
+DrugId:  4
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  5
+1. Name:  Pibrentasvir
+2. Groups:  Approved, Investigational
+3. Description:  Pibrentasvir is a direct acting antiviral agent and Hepatitis C virus (HCV) NS5A inhibitor that targets the the viral RNA replication and viron assembly. In combination with Glecaprevir, pibrentastiv is a useful therapy for patients who experienced therapeutic failure from other NS5A inhibitors. In cell cultures, the emergence of amino acid substitutions at known NS5A inhibitor resistance-associated positions in HCV genotype 1a, 2a or 3a replicons led to reduced susceptibility and resistance to pibrentasvir [FDA Label]. These resistance-associated amino acid substitutions included Q30D/deletion, Y93D/H/N or H58D +Y93H in genotype 1a replicons, F28S + M31I or P29S + K30G in genotype 2a replicons, and Y93H in genotype 3a replicons. Individual NS5A amino acid substitutions that reduced susceptibility to pibrentasvir include M28G or Q30D in a genotype 1a replicon and P32-deletion in a genotype 1b replicon [FDA Label]. Pibrentasvir is available as an oral combination therapy with Glecaprevir under the brand name Mavyret. This fixed-dose combination therapy was FDA-approved in August 2017 to treat adults with chronic hepatitis C virus (HCV) genotypes 1-6 without cirrhosis (liver disease) or with mild cirrhosis, including patients with moderate to severe kidney disease and those who are on dialysis [3]. Mavyret is also indicated for HCV genotype 1-infected patients who have been previously treated with regimens either containing an NS5A inhibitor or an NS3/4A protease inhibitor, but not both [3]. Hepatitis C viral infection often leads to decreased liver function and subsequent liver failure, causing a significantly negative impact on the patients' quality of life. The ultimate goal of the combination treatment is to achieve sustained virologic response (SVR) and cure the patients from the infection. In clinical trials, this combination therapy achieved SVR12 rate, or undetectable Hepatitis C for twelve or more weeks after the end of treatment, of ≥93% across genotypes 1a, 2a, 3a, 4, 5 and 6 [FDA Label].
+4. Indication:  Indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype 1, 2, 3, 4, 5 or 6 infection without cirrhosis or with compensated cirrhosis (Child-PughA). MAVYRET is also indicated for the treatment of adult patients with HCV genotype 1 infection, who previously have been treated with a regimen containing an HCV NS5A inhibitoror an NS3/4A protease inhibitor (PI), but not both [FDA Label]. 
+DrugId:  6
+1. Name:  Hepatitis B Vaccine (Recombinant)
+2. Groups:  Approved, Withdrawn
+3. Description:  Hepatitis B Vaccine is an ingredient in the EMA-withdrawn product Quintanrix. It is marketed in Canada as Engerix B. It is also a part of Twinrix (Hep A/Hep B vaccine) available also in Canada.The hepatitis B virus induces a severe form of viral hepatitis. Other causative agents are hepatitis A virus, and the non-A, non-B hepatitis viruses. Hepatitis D virus, a defective virus requiring the “keeper function” of the hepatitis B virus, occurs either as a co-infection or super-infection in a HBsAg carrier.Transmission of the virus occurs through percutaneous contact with contaminated blood, serum or plasma. Infection may also occur by the exposure of mucous surfaces, or intact or damaged skin to other body fluids such as saliva, mucosal secretions and semen.There is no specific treatment for hepatitis. The incubation period may be as long as 6 months, followed by a very complex clinical course of an acute or chronic nature, often leading to hospitalization.Viral hepatitis caused by hepatitis B virus is a major worldwide health problem, though the incidence and epidemiology vary widely among geographical areas and population subgroups.In Canada, the United States and Northern Europe, 4% to 6% of the population are infected during their lifetime (mostly young adults); between 5% and 10% of infections lead to persistent viremia (carrier state). Certain population subgroups in these areas, however, are at high risk (see Indications and Clinical Use).In Asia, infection often occurs early in life, leading to a hepatitis B marker prevalence of more than 70% in the general population and a carrier rate of up to 20%.It is estimated that the reservoir of persistent hepatitis B surface antigen carriers amounts to 350 million people worldwide. Carriers are at a high risk of developing chronic liver disease which may lead to cirrhosis or primary hepatocellular carcinoma. A significant reduction in the incidence of hepatocellular carcinoma has been observed in children aged 6 to14 years following a nationwide hepatitis B vaccination in Taiwan. This resulted from a significant decline in the prevalence of hepatitis B antigen, the persistence of which is an essential factor in the development of hepatocellular carcinoma.Vaccination against hepatitis B is expected in the long term to reduce the overall incidence of both hepatitis B and the chronic complications such as chronic active hepatitis and cirrhosis.
+4. Indication:  Active immunization against hepatitis B virus infection.The vaccine will not protect against infection caused by hepatitis A and non-A non-B hepatitis viruses. As hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection or carrier state, it can be expected that hepatitis D will also be prevented by vaccination with hepatitis B virus vaccine.The vaccine can be administered at any age from birth onwards. It may be used to start a primary course of vaccination or as a booster dose. It may also be used to complete a primary course of vaccination started with plasma-derived or yeast-derived vaccines or as a booster dose in subjects who have previously received a primary course of vaccination with plasma-derived or yeast-derived vaccines.In areas of low prevalence of hepatitis B, vaccination is strongly recommended in subjects who are at increased risk of infection. These include the following groups:Health professionals: physicians and surgeons; oral surgeons and dentists; nurses, dental nurses, dental hygienists, podiatrists; IV teams and operating room personnel; paramedical personnel in close contact with patients; staff in hemodialysis, nephrology, hepatology, hematology and oncology units; laboratory personnel handling blood and other clinical specimens; blood bank and plasma fractionation workers; pathologists and morgue attendants; cleaning staff who handle waste in hospitals; emergency and first aid workers; ambulance staff; dental, medical and nursing students.Patients: patients receiving frequent blood transfusion or clotting factor concentrates, such as those in oncology units and those with thalassemia, sickle-cell anemia, cirrhosis, hemophilia, etc.; patients on hemodialysis; patients with type 2 diabetes.Personnel and residents of institutions: persons with frequent and/or close contacts with high-risk groups; prisoners and prison staff; residents and staff of institutions for the developmentally challenged (those who are in contact with aggressive biting residents being at highest risk).Persons at increased risk due to their sexual practices: males having sexual contact with other males; others with multiple sexual partners or with a recent history of sexually transmitted disease.Persons who use injectable drugs illicitly.Travellers to areas of high endemicity and their close contacts.Household contacts of any of the above groups and of patients with acute or chronic hepatitis B infection.Infants born of HBsAg-positive mothers.Chronic Liver Disease (CLD): subjects with chronic liver disease; subjects at risk of developing CLD (e.g. Hepatitis C virus carriers, persons who abuse alcohol).Others: police; fire fighters; armed forces personnel; morticians and embalmers; those who through their work or personal lifestyle may be exposed to the hepatitis B virus.In areas of both low and high prevalence, vaccination should be offered to all young children and neonates at risk, as well as to adult high risk groups.
+DrugId:  7
+1. Name:  Lenograstim
+2. Groups:  Approved, Investigational
+3. Description:  Lenograstim is a recombinant granulocyte colony-stimulating factor which functions as an immunostimulator.
+4. Indication:  The drug is used to reduce the risk of life-threatening infection in patients with neutropenia, particularly after cytotoxic chemotherapy.Lenograstim is indicated as a treatment to reduce the duration of neutropenia and the severity of infections in patients with non-myeloid malignancy who have undergone autologous or allogeneic bone marrow transplantation, or treatment with established cytotoxic chemotherapy and in addition to reduce the incidence of infection associated with established cytotoxic chemotherapy.Lenograstim is also indicated to mobilise peripheral blood progenitor cells (PBPCs) with Lenograstim alone, or after myelosuppressive chemotherapy, in order to accelerate haematopoietic recovery by infusion of such cells, after myelosuppressive or myeloablative therapy. Lenograstim is also indicated to accelerate the engraftment of these cells after their reinfusion.GRANOCYTE is also indicated for the treatment of severe chronic neutropenia including congenital agranulocytosis (Kostmann's syndrome).
+DrugId:  8
+1. Name:  Evernimicin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection.
+DrugId:  9
+1. Name:  Ibalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ibalizumab (also known as ibalizumab-uiyk and formerly known as TNX-355) is a monoclonal antibody that binds to CD4 receptors on the surface of CD4-positive cells, preventing HIV particle entry into the lymphocytes. It is an advanced and current antibody in development for the treatment of HIV/AIDS. It has been developed by Taimed biologics and Theratechnologies [8, 5].This drug was approved in March 2018 for the management of treatment-resistant HIV [5].
+4. Indication:  Indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in highly treatment-experienced adults with multidrug-resistant HIV-1 infection failing their current antiretroviral regimen [FDA Label].The approval of Trogarzo was supported by a clinical trial of 40 treatment-experienced adults with MDR HIV-1 infection who persistently had elevated levels of HIV RNA in their blood despite heavy antiretroviral therapy. The majority of study patients had previously been treated with ≥10 antiretroviral medications [5].
+DrugId:  10
+1. Name:  Technetium Tc-99m exametazime
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m exametazime is a radiopharmaceutical sold under the trade name Ceretec, and is used by nuclear medicine physicians for the detection of altered regional cerebral perfusion in stroke and other cerebrovascular diseases. It can also be used for the labelling of leukocytes to localise intra-abdominal infections and inflammatory bowel disease. Exametazime, also known as hexamethylpropyleneamine oxime or HMPAO, acts as a chelating agent for the Tc-99m radioisotope.
+4. Indication:  Technetium Tc99m exametazime scintigraphy (with or without methylene blue stabilization) may be useful as an adjunct in the detection of altered regional cerebral perfusion in stroke. Tc99m exametazime without methylene blue stabilization is indicated for leukocyte labeled scintigraphy as an adjunct in the localization of intra-abdominal infection and inflammatory bowel disease.
+DrugId:  11
+1. Name:  Bictegravir
+2. Groups:  Approved, Investigational
+3. Description:  Bictegravir is a recently approved investigational drug that has been used in trials studying the treatment of HIV-1 and HIV-2 infection. It has been approved for HIV-1 monotherapy combined with 2 other antiretrovirals in a single tablet.
+4. Indication:  Bictegravir is indicated in the management of HIV-1 infection in patients not previously treated with antiretroviral therapy. Additionally, Bictegravir is indicated in the management of HIV-1 infection in patients who are virologically suppressed (HIV-1 RNA <50 c/mL) on a regular antiretroviral regimen for a minimum of three months without a history of failure in treatment and no known factors associated with the resistance to the individual components of the medication. It is used in combination with tenofovir and emtricitabine [3, 4].
+DrugId:  12
+1. Name:  Glecaprevir
+2. Groups:  Approved, Investigational
+3. Description:  Glecaprevir is a direct acting antiviral agent and Hepatitis C virus (HCV) NS3/4A protease inhibitor that targets the the viral RNA replication. In combination with Pibrentasvir, glecaprevir is a useful therapy for patients who experienced therapeutic failure from other NS3/4A protease inhibitors. It demonstrates a high genetic barrier against resistance mutations of the virus. In cell cultures, the emergence of amino acid substitutions at NS3 resistance-associated positions A156 or D/Q168 in HCV genotype 1a, 2a or 3a replicons led to reduced susceptibility to glecaprevir [FDA Label]. The combinations of amino acid substitutions at NS3 position Y65H and D/Q168 also results in greater reductions in glecaprevir susceptibility, and NS3 Q80R in genotype 3a patients also leads to glecaprevir resistance [FDA Label]. Glecaprevir is available as an oral combination therapy with Pibrentasvir under the brand name Mavyret. This fixed-dose combination therapy was FDA-approved in August 2017 to treat adults with chronic hepatitis C virus (HCV) genotypes 1-6 without cirrhosis (liver disease) or with mild cirrhosis, including patients with moderate to severe kidney disease and those who are on dialysis [2]. Mavyret is also indicated for HCV genotype 1-infected patients who have been previously treated with regimens either containing an NS5A inhibitor or an NS3/4A protease inhibitor, but not both [2]. Hepatitis C viral infection often leads to decreased liver function and subsequent liver failure, causing a significantly negative impact on the patients' quality of life. The ultimate goal of the combination treatment is to achieve sustained virologic response (SVR) and cure the patients from the infection. In clinical trials, this combination therapy achieved SVR12 rate, or undetectable Hepatitis C for twelve or more weeks after the end of treatment, of ≥93% across genotypes 1a, 2a, 3a, 4, 5 and 6 [FDA Label].
+4. Indication:  Indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype 1, 2, 3, 4, 5 or 6 infection without cirrhosis or with compensated cirrhosis (Child-PughA). MAVYRET is also indicated for the treatment of adult patients with HCV genotype 1 infection, who previously have been treated with a regimen containing an HCV NS5A inhibitoror an NS3/4A protease inhibitor (PI), but not both [FDA Label]. 
+DrugId:  13
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  14
+1. Name:  Omiganan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection and rosacea.
+DrugId:  15
+1. Name:  EHT899
+2. Groups:  Investigational
+3. Description:  EHT899 is a proprietary formulation of an HBV viral protein designed to eliminate the undesirable immune response elicited by the HBV infection. It also apparently enhances a secondary immune response to clear the viral infection, resulting in reduction in liver damage and decrease in viral load.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  16
+1. Name:  Surotomycin
+2. Groups:  Investigational
+3. Description:  Surotomycin has been used in trials studying the treatment of Diarrhea and Clostridium Difficile Infection.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Potassium permanganate
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  CPG 10101
+2. Groups:  Investigational
+3. Description:  CPG 10101 is a synthetic oligodeoxynucleotide (ODN) in clinical trials. It is a toll-like receptor 9 (TLR9) agonist with antiviral and immunomodulatory properties that could potentially influence chronic infection with HCV.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C) and viral infection.
+DrugId:  19
+1. Name:  Asvasiran
+2. Groups:  Investigational
+3. Description:  Asvasiran is an siRNA that targets the respiratory syncytial virus (RSV) N gene and inhibits viral replication. It has the potential to treat or prevent RSV infection.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.
+DrugId:  20
+1. Name:  BTA798
+2. Groups:  Investigational
+3. Description:  BTA798 is an antiviral for the treatment of HRV, the common cold virus, known to cause significant clinical complications in sufferers of Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  21
+1. Name:  Fomivirsen
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Fomivirsen is a antisense 21 mer phosphorothioate oligonucleotide. It is an antiviral agent that was used in the treatment of cytomegalovirus retinitis (CMV) in immunocompromised patients, including those with AIDS. As a complementary nucleotide to the messenger RNA of the major immediate-early region proteins of human cytomegalovirus, it disrupts the replication of the virus through an antisense mechanism [6]. It was discovered at the NIH and was licensed and initially developed by Isis Pharmaceuticals, which subsequently licensed it to Novartis [3]. The drug was withdrawn by the FDA because while there was a high unmet need for drugs to treat CMV when the drug was initially discovered and developed due to the CMV arising in people with AIDS, the development of HAART dramatically reduced the number of cases of CMV. Fomivirsen is marketed under the trade name Vitravene for intravitreal injection and was the first antisense drug to be approved by the Food and Drug Administration (FDA).
+4. Indication:  Indicated for the local treatment of cytomegalovirus (CMV) retinitis in patients with acquired immunodeficiency syndrome (AIDS), when other therapy has been ineffective or is considered unsuitable [FDA Label].
+DrugId:  22
+1. Name:  Glutaral
+2. Groups:  Experimental
+3. Description:  One of the protein CROSS-LINKING REAGENTS that is used as a disinfectant for sterilization of heat-sensitive equipment and as a laboratory reagent, especially as a fixative.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Isoluminol
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  25
+1. Name:  LC16M8
+2. Groups:  Investigational
+3. Description:  LC16m8 is a next-generation, attenuated smallpox vaccine that is designed to have a better safety profile, yet be equally effective, compared to conventional smallpox vaccines. It is the only attenuated vaccine to be licensed for use in humans to prevent smallpox infection. 
+4. Indication:  Investigated for use/treatment in viral infection.

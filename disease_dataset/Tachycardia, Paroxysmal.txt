@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Etripamil
+2. Groups:  Investigational
+3. Description:  Etripamil has been used in trials studying the treatment of Paroxysmal Supraventricular Tachycardia (PSVT).
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  3
+1. Name:  Tecadenoson
+2. Groups:  Investigational
+3. Description:  Tecadenoson is a novel selective A1 adenosine receptor agonist that is currently being evaluated for the conversion of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm. It is being developed by CV Therapeutics, Inc.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  4
+1. Name:  Regadenoson
+2. Groups:  Approved, Investigational
+3. Description:  Regadenoson is an A2A adenosine receptor agonist that causes coronary vasodilation and used for myocardial perfusion imagining. Manufactured by Astellas and FDA approved April 10, 2008. 
+4. Indication:  Diagnostic agent for radionuclide myocardial perfusion imaging (MPI) 
+DrugId:  5
+1. Name:  Ravulizumab
+2. Groups:  Investigational
+3. Description:  Long-acting complement 5 (C5) inhibitor in clinical trials for the treatment of paroxysmal nocturnal haemoglobinuria as of 4 February, 2016. A drug similar to ALXN1210, called eculizumab, is approved for the treatment of PNH in 46 countries under the brand name Soliris®. ALXN1210 is considered by Alexion Pharmaceuticals Inc. to be a "next generation" eculizumab molecule.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Phentolamine
+2. Groups:  Approved
+3. Description:  A nonselective alpha-adrenergic antagonist. It is used in the treatment of hypertension and hypertensive emergencies, pheochromocytoma, vasospasm of raynaud disease and frostbite, clonidine withdrawal syndrome, impotence, and peripheral vascular disease. [PubChem]
+4. Indication:  Used as an aid for the diagnosis of pheochromocytoma, and may be administered immediately prior to or during pheochromocytomectomy to prevent or control paroxysmal hypertension resulting from anesthesia, stress, or operative manipulation of the tumor. Phentolamine has also been used to treat hypertensive crisis caused by sympathomimetic amines or catecholamine excess by certain foods or drugs in patients taking MAO inhibitors, or by clonidine withdrawal syndrome. Other indications include the prevention of dermal necrosis and sloughing following IV administration or extravasation of norepinephrine, decrease in impedance to left ventricular ejection and the infarct size in patients with MI associated with left ventricular failure, treatment of erectile dysfunction through self-injection of small doses combined with papaverine hydrochloride into the corpus cavernosum, and as an adjunct to the management of cocaine overdose to reverse coronary vasoconstriction following use of oxygen, benzodiazepines,and nitroglycerin. 
+DrugId:  7
+1. Name:  Propafenone
+2. Groups:  Approved
+3. Description:  An antiarrhythmia agent that is particularly effective in ventricular arrhythmias. It also has weak beta-blocking activity. The drug is generally well tolerated. [PubChem]
+4. Indication:  Used to prolong the time to recurrence of paroxysmal atrial fibrillation/flutter (PAF) associated with disabling symptoms in patients without structural heart disease. Also used for the treatment of life-threatening documented ventricular arrhythmias, such as sustained ventricular tachycardia.
+DrugId:  8
+1. Name:  Phensuximide
+2. Groups:  Approved
+3. Description:  Phensuximide is an anticonvulsant in the succinimide class. It suppresses the paroxysmal three cycle per second spike and wave EEG pattern associated with lapses of consciousness in petit mal seizures. The frequency of attacks is reduced by depression of nerve transmission in the motor cortex.
+4. Indication:  For the treatment of epilepsy.
+DrugId:  9
+1. Name:  Adenosine
+2. Groups:  Approved, Investigational
+3. Description:  A nucleoside that is composed of adenine and d-ribose. Adenosine or adenosine derivatives play many important biological roles in addition to being components of DNA and RNA. Adenosine itself is a neurotransmitter.
+4. Indication:  Used as an initial treatment for the termination of paroxysmal supraventricular tachycardia (PVST), including that associated with accessory bypass tracts, and is a drug of choice for terminating stable, narrow-complex supraventricular tachycardias (SVT). Also used as an adjunct to thallous chloride TI 201 myocardial perfusion scintigraphy (thallium stress test) in patients who are unable to exercise adequately, as well as an adjunct to vagal maneuvers and clinical assessment to establish a specific diagnosis of undefined, stable, narrow-complex SVT.
+DrugId:  10
+1. Name:  Dronedarone
+2. Groups:  Approved
+3. Description:  Dronedarone is a sinus rhythm controller for management of paroxysmal or persistent atrial fibrillation. Classified as a Class III antiarrhythmic but displays properties of all four Vaughan-Williams classes, dronedarone blocks a multitude of channels (sodium, potassium, calcium), and demonstrates antiadrenergic properties. Chemically, it is a benzofuran derivative. FDA approved on July 1, 2009. 
+4. Indication:  Management of paroxysmal or persistent atrial fibrillation via restoration of normal sinus rhythm. 
+DrugId:  11
+1. Name:  Eculizumab
+2. Groups:  Approved, Investigational
+3. Description:  Soliris is a formulation of eculizumab which is a recombinant humanized monoclonal IgG2/4;κ antibody produced by murine myeloma cell culture and purified by standard bioprocess technology. Eculizumab contains human constant regions from human IgG2 sequences and human IgG4 sequences and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions. Eculizumab is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148 kDa.
+4. Indication:  For the treatment of patients with paroxysmal nocturnal hemoglobinuria (PNH) to reduce hemolysis.
+DrugId:  12
+1. Name:  Pilsicainide
+2. Groups:  Investigational
+3. Description:  Pilsicainide has been investigated for the treatment of Paroxysmal Atrial Fibrillation.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  14
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  15
+1. Name:  Ethosuximide
+2. Groups:  Approved
+3. Description:  An anticonvulsant especially useful in the treatment of absence seizures unaccompanied by other types of seizures. [PubChem]
+4. Indication:  For the treatment of petit mal epilepsy.
+DrugId:  16
+1. Name:  Methsuximide
+2. Groups:  Approved
+3. Description:  Mesuximide (or methsuximide) is an anticonvulsant medication. It is sold by Pfizer under the name Petinutin. [Wikipedia]
+4. Indication:  For the control of absence (petit mal) seizures that are refractory to other drugs.
+DrugId:  17
+1. Name:  Bretylium
+2. Groups:  Approved
+3. Description:  Bretylium blocks the release of noradrenaline from the peripheral sympathetic nervous system, and is used in emergency medicine, cardiology, and other specialties for the acute management of ventricular tachycardia and ventricular fibrillation. The primary mode of action for bretylium is thought to be inhibition of voltage-gated K(+) channels. Recent evidence has shown that bretylium may also inhibit the Na,K-ATPase by binding to the extracellular K-site.
+4. Indication:  For use in the prophylaxis and therapy of ventricular fibrillation. Also used in the treatment of life-threatening ventricular arrhythmias, such as ventricular tachycardia, that have failed to respond to adequate doses of a first-line antiarrhythmic agent, such as lidocaine.
+DrugId:  18
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  19
+1. Name:  Alpha-methyltryptamine
+2. Groups:  Experimental, Illicit
+3. Description:  A stimulant and psychoactive drug which produces effects similar to 3,4-methylenedioxy-N-methylamphetamine (MDMA), despite being structurally dissimilar.It was developed in the 1960's by Upjohn with the intention for use as an antidepressant. In the 1990's, alpha-methyltryptamine became regulated as a Schedule I controlled substance in the United states. 
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Cyclandelate
+2. Groups:  Approved
+3. Description:  A direct-acting smooth muscle relaxant used to dilate blood vessels. It may cause gastrointestinal distress and tachycardia. Cyclandelate is not approved for use in the U.S. or Canada, but is approved in various European countries.
+4. Indication:  Used in the treatment of various blood vessel diseases (e.g., claudication, arteriosclerosis and Raynaud's disease) and nighttime leg cramps.
+DrugId:  21
+1. Name:  Pipotiazine
+2. Groups:  Approved, Investigational
+3. Description:  Pipotiazine has actions similar to those of other phenothiazines. Among the different phenothiazine derivatives, it appears to be less sedating and to have a weak propensity for causing hypotension or potentiating the effects of CNS depressants and anesthetics. However, it produces a high incidence of extra pyramidal reactions. It is used for the maintenance treatment of chronic non-agitated schizophrenic patients. Symptoms of overdose include severe extrapyramidal manifestations, hypotension, lethargy and sedation.
+4. Indication:  For the maintenance treatment of chronic non-agitated schizophrenic patients.
+DrugId:  22
+1. Name:  Thioproperazine
+2. Groups:  Approved
+3. Description:  Thioproperazine is a potent neuroleptic with antipsychotic properties. Thioproperazine has a marked cataleptic and antiapomorphine activity associated with relatively slight sedative, hypothermic and spasmolytic effects. It is virtually without antiserotonin and hypotensive action and has no antihistaminic property. It is used for the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.Overdosage may result in severe extrapyramidal symptoms with dysphagia, marked sialorrhea, persistent and rapidly increasing hyperthermia, pulmonary syndrome, state of shock with pallor and profuse sweating, which may be followed by collapse and coma. LD50 in mice is 70 mg/kg I.V., 120 mg/kg I.P., 500 mg/kg S.C. and 830 mg/kg P.O.
+4. Indication:  For the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.
+DrugId:  23
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  24
+1. Name:  Indoramin
+2. Groups:  Withdrawn
+3. Description:  Indoramin is a discontinued piperidine antiadrenergic drug with the trade names Baratol and Doralese. It is a selective alpha-1 adrenergic antagonist with no reflex tachycardia and direct myocardial depression action.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
