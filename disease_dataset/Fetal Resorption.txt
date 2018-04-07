@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Salmon Calcitonin
+2. Groups:  Approved, Investigational
+3. Description:  Synthetic peptide, 32 residues long formulated as a nasal spray.
+4. Indication:  Used in the treatment of symptomatic Paget's disease for patients unresponsive to alternate treatments or intolerant to such treatments. In addition, it is used in emergency situations when serum calcium levels must be decreased quickly until the underlying condition is identified. It can also be added to existing therapeutic regimens for hypercalcemia such as intravenous fluids and furosemide, oral phosphate or corticosteroids, or other agents. Calcitonin can be used in patients with azotemia and cases where intravenous fluids would be contraindicated due to limited cardiac reserves. Also for the treatment of post-menopausal osteoporosis in women more than 5 years post-menopause. 
+DrugId:  2
+1. Name:  Dibotermin alfa
+2. Groups:  Approved, Investigational
+3. Description:  Dibotermin alfa is a recombinant human bone morphogenetic protein-2 (rhBMP-2) derived from a recombinant Chinese Hamster Ovary (CHO) cell line [FDA Label]. It is implanted in patients undergoing bone surgeries or those with fractures. BMPs are subfamily of the transforming growth factor-β (TGF-β) superfamily that have different actions on the bone matrix [2]. BMP-2 is a potent osteoinductive protein that plays a critical role in the differentiation of osteoprogenitor cells into osteoblasts, thus promoting bone and cartilage formation [3]. Through enhancing osteogenesis at the site of implantation, dibotermin alfa accelerates the healing of open tibial shaft fractures and reduces the need for secondary intervention [1]. In a prospective clinical study of patients with an open tibial fracture, administration of dibotermin alfa resulted in faster fracture- or wound-healing, significantly fewer secondary invasive interventions, and reduced infection rate post-operation [1]. Dibotermin alfa was approved by the EMA in 2002 as Inductos for implantation matrix. In 2004, it was approved by the FDA and is marketed as Infuse. In Infuse, rhBMP is a disulfide-linked dimeric protein molecule with two major subunit species of 114 and 131 amino acids. Each subunit is glycosylated with high-mannose-type glycans [FDA Label].
+4. Indication:  indicated for the treatment of acute tibia fractures in adults, as an adjunct to standard care using open fracture reduction and intramedullary unreamed nail fixation [FDA Label].indicated for single-level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non-operative treatment for this condition [5].
+DrugId:  3
+1. Name:  Strontium malonate
+2. Groups:  Investigational
+3. Description:  Strontium malonate is being developed as a novel orally available pharmaceutical for the treatment and prevention of osteoporosis. It is being developed by Osteologix Inc.
+4. Indication:  Investigated for use/treatment in osteoporosis.
+DrugId:  4
+1. Name:  Dinoprostone
+2. Groups:  Approved
+3. Description:  Dinoprostone is a naturally occurring prostaglandin E2 (PGE2). It has important effects in labour. It also stimulates osteoblasts to release factors which stimualtes bone resorption by osteoclasts. As a prescription drug it is used as a vaginal suppository, to prepare the cervix for labour and to induce labour.
+4. Indication:  For the termination of pregnancy during the second trimester (from the 12th through the 20th gestational week as calculated from the first day of the last normal menstrual period), as well as for evacuation of the uterine contents in the management of missed abortion or intrauterine fetal death up to 28 weeks of gestational age as calculated from the first day of the last normal menstrual period. Also used in the management of nonmetastatic gestational trophoblastic disease (benign hydatidiform mole). Other indications include improving the cervical inducibility (cervical "ripening") in pregnant women at or near term with a medical or obstetrical need for labor induction, and the management of postpartum hemorrhage.
+DrugId:  5
+1. Name:  Gallium nitrate
+2. Groups:  Approved, Investigational
+3. Description:  Gallium nitrate is a drug that is used to treat hyper-calcemia, or too much calcium in the blood. This condition may occur when individuals develop various types of cancer. Gallium nitrate is also known by the common brand name Ganite.
+4. Indication:  For the treatment of hypercalcemia. Also intended for the treatment of non-hodgkin's lymphoma.
+DrugId:  6
+1. Name:  G4544
+2. Groups:  Investigational
+3. Description:  G4544 is an oral gallium compound that enables oral absorption of the active ingredient contained in Ganite™ (gallium nitrate injection). It targets bone tissue and is actively incorporated into bone mineral at sites where bone is metabolically active.
+4. Indication:  For treatment of non-Hodgkin's lymphoma, bone metastases, Paget's disease, and osteoporosis
+DrugId:  7
+1. Name:  M0002
+2. Groups:  Investigational
+3. Description:  M0002 is an orally-active selective vasopressin antagonist that inhibits water re-absorption from the kidneys. It is a vasopressin 2 antagonist and represents a new class of compounds – aquaretics – that produce profound diuresis without loss of electrolytes. It will be of major benefit to those patients not responding satisfactorily to diuretics alone.
+4. Indication:  Vasopressin regulates renal water resorption through the V2 receptor. Inhibition of vasopressin’s effects on V2 receptors enhances water excretion and increases urinary output. M0002 is a Vasopressin 2 antagonis. It is an electrolyte-sparing aquaretic and causes much lower levels of salt excretion. 
+DrugId:  8
+1. Name:  Denosumab
+2. Groups:  Approved
+3. Description:  Denosumab is a novel, fully human IgG2 monoclonal antibody specific to receptor activator of nuclear factor kappa-B ligand (RANKL), suppresses bone resorption markers in patients with a variety of metastatic tumors and is being investigated in multiple clinical trials for the prevention and treatment of bone metastases. Chemically, it consists of 2 heavy and 2 light chains. Each light chain consists of 215 amino acids. Each heavy chain consists of 448 amino acids with 4 intramolecular disulfides. FDA approved on June 1, 2010. 
+4. Indication:  Prolia is indicated for the treatment of postmenopausal women with osteoporosis at high risk for fracture. It reduces the incidence of vertebral, nonvertebral, and hip fractures. Prolia is also indicated as a treatment to increase bone mass in women at high risk for fracture receiving adjuvant aromatase inhibitor therapy for breast cancer. It can also be used in men with osteoporosis at high risk for fracture or in men receiving androgen deprivation therapy for nonmetastatic prostate cancer to increase bone mass. Xgeva is indicated for the prevention of skeletal-related events in patients with bone metastases from solid tumors.
+DrugId:  9
+1. Name:  Ibandronate
+2. Groups:  Approved, Investigational
+3. Description:  Ibandronate is a nitrogen-containing bisphosphonate in the same class as alendronate and risedronate. Ibandronate inhibits osteoclast-mediated bone resorption. All of the bisphosphonates prevent the breakdown of bone by bone cells called osteoclasts. In persons who are at high risk for osteoporosis, bisphosphonates not only result in increased amounts of bone and bone strength, they also reduce the risk of hip fractures and other bone fractures.
+4. Indication:  For the treatment and prevention of osteoporosis in postmenopausal women.
+DrugId:  10
+1. Name:  Anakinra
+2. Groups:  Approved
+3. Description:  Anakinra is a recombinant, nonglycosylated human interleukin-1 receptor antagonist (IL-1Ra). The difference between anakinra and the native human IL-1Ra is that anakinra has an extra methionine residue at the amino terminus. It is manufactured by using the E. coli expression system. Anakinra is composed of 153 amino acid residues. FDA approved on November 14, 2001. 
+4. Indication:  For the treatment of adult rheumatoid arthritis and treatment of Neonatal-Onset Multisystem Inflammatory Disease (NOMID). 
+DrugId:  11
+1. Name:  Tiludronic acid
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Tiludronic acid is a bisphosphonate characterized by a (4-chlorophenylthio) group on the carbon atom of the basic P-C-P structure common to all bisphosphonates.
+4. Indication:  For treatment of Paget's disease of bone (osteitis deformans).
+DrugId:  12
+1. Name:  Pamidronate
+2. Groups:  Approved
+3. Description:  Pamidronic acid (INN) or pamidronate disodium (USAN), marketed as pamidronate disodium pentahydrate under the brand name Aredia, is a bisphosphonate. [Wikipedia]
+4. Indication:  For the treatment of moderate or severe hypercalcemia associated with malignancy
+DrugId:  13
+1. Name:  Odanacatib
+2. Groups:  Investigational
+3. Description:  Odanacatib is an inhibiter of cathepsin K which was originally developed be Merck & Co as a new treatment for osteoporosis [1]. The drug made it to phase III trials before abandoned due to increased stroke.
+4. Indication:  Investigated for use/treatment in osteoporosis [1].
+DrugId:  14
+1. Name:  Clodronic Acid
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A diphosphonate which affects calcium metabolism. It inhibits bone resorption and soft tissue calcification.
+4. Indication:  For the management of hypercalcemia of malignancy and as an adjunct in the management of osteolysis resulting from bone metastases of malignant tumors.
+DrugId:  15
+1. Name:  Etidronic acid
+2. Groups:  Approved
+3. Description:  A diphosphonate which affects calcium metabolism. It inhibits ectopic calcification and slows down bone resorption and bone turnover.
+4. Indication:  For the treatment of symptomatic Paget's disease of bone and in the prevention and treatment of heterotopic ossification following total hip replacement or due to spinal cord injury.
+DrugId:  16
+1. Name:  Hyaluronidase (Human Recombinant)
+2. Groups:  Approved, Investigational
+3. Description:  A purified preparation of the enzyme recombinant human hyaluronidase. Hyaluronidase (Human Recombinant) is produced by genetically engineered Chinese Hamster Ovary (CHO) cells containing a DNA plasmid encoding for a soluble fragment of human hyaluronidase (PH20). The purified hyaluronidase glycoprotein contains 447 amino acids with an approximate molecular weight of 61,000 Daltons.
+4. Indication:  Indicated as an adjuvant to increase the absorption and dispersion of other injected drugs; for hypodermoclysis; and as an adjunct in subcutaneous urography for improving resorption of radiopaque agents.
+DrugId:  17
+1. Name:  Macitentan
+2. Groups:  Approved
+3. Description:  Macitentan was approved in October 2013. It is indicated for patients with pulmonary arterial hypertension, and is marketed under the brand name Opsumit. Macitentan is an antagonist/blocker of endothelin receptors on blood vessels and smooth muscle, and, thus, blocks the stimulation of vasculature hypertrophy, inflammation, fibrosis, proliferation, and vasoconstriction. Similar to all drugs acting on the renin-angiotensin system, macitentan is associated with embryo and fetal toxicity, so it should not be used in pregnancy and has special precautions that must be followed for all females of child-bearing age. 
+4. Indication:  Macitentan is indicated for patients with pulmonary arterial hypertension.
+DrugId:  18
+1. Name:  Abaloparatide
+2. Groups:  Approved, Investigational
+3. Description:  Abaloparatide is an analog of PTHrP (parathyroid hormone-related protein). It was approved in April 28, 2017 by the FDA (as Tymlos) for the treatment of postmenopausal women with osteoporosis at high risk for fracture. Abaloparatide is a synthetic peptide that is related to hPTHrP and has demonstrated in preclinical testing the potential to widen the anabolic window for bone therapeutics, stimulating bone formation with a limited effect on bone resorption and mineral mobilization. This could enable improved convenience over currently available anabolic therapies, resulting in greater compliance and, ultimately, greater benefit to patients.
+4. Indication:  Investigated for use/treatment in postmenopausal osteoporosis to reduce vertebral and/or non-vertebral fractures.
+DrugId:  19
+1. Name:  Incadronic acid
+2. Groups:  Approved, Investigational
+3. Description:  Incadronic acid is a third generation bisphosphonate which can suppress bone resorption by osteoclasts. It is used to treat hypercalcemia, and bone disorders associated with malignancy and osteoporosis. In rats with induced hypercalcemia, incadronate has been found to be 46 times more potent than pamidronate and 11 times more potent than aledronate.Incadronate has also been found to have anti-tumor effects in mice. In rat models of breast cancer, bisphosphonate treatment has been shown to inhibit the progression and development of bone metastases and reduce tumor burden in vivo. It has also been recognized as a potential treatment for adult T-cell leukaemia which is characterized by hypercalcemia and tumor-induced osteolysis. [2] Incadronate, as well as other nitrogen containing bisphosphonates, such as aledronate and minodronate, have been found to induce apoptosis of hematopoietic tumor cells. In vitro human myeloma cells have undergone apoptosis when exposed to incadronate. [5] When combined with Tipifarnib, a potent farnesyl transferase inhibitor which can suppress the growth of myeloma cells, growth suppression of myeloma cells in vitro is intensified. [6] Because of these findings Incadronate is being investigated as a treatment for multiple myeloma, a B-cell malignancy associated with bone loss. Incadronate is available by prescription only, and is not marked is the United States, UK, Canada, or Australia. It is an approved treatment for malignancy-associated hypercalcemia (MAH) in Japan.[8]
+4. Indication:  For the treatment of hypercalcemia associated with malignant disease.
+DrugId:  20
+1. Name:  Risedronate
+2. Groups:  Approved, Investigational
+3. Description:  Risedronate is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat Paget's disease of bone.
+4. Indication:  For the treatment of Paget's disease of the bone (osteitis deformans), postmenopausal and glucocorticoid-induced osteoporosis
+DrugId:  21
+1. Name:  Eldecalcitol
+2. Groups:  Investigational
+3. Description:  Eldecalcitol (ED-71), a vitamin D analog, is a more potent inhibitor of bone resorption than alfacalcidol in an estrogen-deficient rat model of osteoporosis. Eldecalcitol, effectively and safely increased lumbar and hip bone mineral density (BMD) in osteoporotic patients who also received vitamin D3 supplementation.
+4. Indication:  Investigated for use/treatment in osteoporosis.
+DrugId:  22
+1. Name:  Hydroxyurea
+2. Groups:  Approved
+3. Description:  An antineoplastic agent that inhibits DNA synthesis through the inhibition of ribonucleoside diphosphate reductase. [PubChem]
+4. Indication:  For management of melanoma, resistant chronic myelocytic leukemia, and recurrent, metastatic, or inoperable carcinoma of the ovary and Sickle-cell anemia.
+DrugId:  23
+1. Name:  Trastuzumab emtansine
+2. Groups:  Approved, Investigational
+3. Description:  Trastuzumab emtansine, formerly called Trastuzumab-DM1 (T-DM1) is a first-in-class HER2 antibody drug conjugate (ADC) comprised of Genentech's trastuzumab antibody linked to ImmunoGen's cell-killing agent, DM1. T-DM1 combines two strategies-- anti-HER2 activity and targeted intracellular delivery of the potent anti-microtubule agent, DM1 (a maytansine derivative)--to produce cell cycle arrest and apoptosis. Trastuzumab emtansine is marketed under the brand name Kadcyla and is indicated for use in HER2-positive, metastatic breast cancer patients who have already used taxane and/or trastuzumab for metastatic disease or had their cancer recur within 6 months of adjuvant treatment. The FDA label has two precautions. First that trastuzumab emtansine and trastuzumab cannot be interchanged. Second that there is a black box warning of serious side effects such as hepatotoxicity, embryo-fetal toxicity, and cardiac toxicity. 
+4. Indication:  Used in HER2-positive, metastatic breast cancer patients who have already used taxane and/or trastuzumab for metastatic disease or had their cancer recur within 6 months of adjuvant treatment.
+DrugId:  24
+1. Name:  Necitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Necitumumab is an intravenously administered recombinant monoclonal IgG1 antibody used in the treatment of non-small cell lung cancer (NSCLC) as an EGFR antagonist. It functions by binding to epidermal growth factor receptor (EGFR) and prevents binding of its ligands, a process that is involved in cell proliferation, metastasis, angiogenesis, and malignant progression. Binding of necitumumab to EGFR induces receptor internalization and degradation, thereby preventing further activation of EGFR which is beneficial in NSCLC as many patients have increased protein expression of EGFR. Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC).
+4. Indication:  Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC). It is not indicated for treatment of non-squamous NSCLC. 
+DrugId:  25
+1. Name:  Radium Ra 223 Dichloride
+2. Groups:  Approved, Investigational
+3. Description:  Radium Ra 223 Dichloride is a radiopharmaceutical containing the radioisotope radium-223 that emits short range but high linear energy alpha particles. As a cation, radium mimics calicum and binds to hydroxyapatite, which is a bone mineral found in areas of high bone turnover as seen in bone metastases. It was first approved by the FDA in May 2013 and is currently marketed under the brand name Xofigo, which was formerly called Alpharadin. Xofigo is indicated in patients who have metastatic bone cancer that is symptomatic with no visceral metastases and patients who have prostate cancer that is castration resistant. The FDA label includes a warning that Radium Ra 223 Dichloride should not be used in women who are pregnant or may become pregnant due to the high risk of fetal harm.
+4. Indication:  Used in patients who have metastatic bone cancer that is symptomatic with no visceral metastases and patients who have prostate cancer that is castration resistant.

@@ -1,0 +1,35 @@
+DrugId:  1
+1. Name:  Corticotropin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Corticotropin (ACTH or adrenocorticotropic hormone) is a polypeptide hormone produced and secreted by the pituitary gland. It is an important player in the hypothalamic-pituitary-adrenal axis.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  2
+1. Name:  Clonazepam
+2. Groups:  Approved, Illicit
+3. Description:  An anticonvulsant used for several types of seizures, including myotonic or atonic seizures, photosensitive epilepsy, and absence seizures, although tolerance may develop. It is seldom effective in generalized tonic-clonic or partial seizures. The mechanism of action appears to involve the enhancement of gamma-aminobutyric acid receptor responses. [PubChem]
+4. Indication:  Clonazepam is used as an anticonvulsant in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic and myoclonic seizures. It can also be used for the treatment of panic disorders. 
+DrugId:  3
+1. Name:  Stiripentol
+2. Groups:  Approved
+3. Description:  Stiripentol is an anticonvulsant drug used in the treatment of epilepsy as an adjunct therapy along with Clobazam and Valproic Acid. Unrelated to other anticonvulsants, stitipentol belongs to the group of aromatic allylic alcohols and may potentiate the effect of other antiepileptic drugs (AEDs) due to pharmacokinetic interactions. It elevates the levels of gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter that regulates electrical activity in the central nervous system. Use of stiripentol is approved for infants with Dravet syndrome, or Severe Myoclonic Epilepsy in Infancy (SMEI) that commonly occurs at the first year of life. Stiripentol is not FDA-approved but approved in Canada and European countries as oral tablets marketed as Diacomit.
+4. Indication:  Indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet’s syndrome) whose seizures are not adequately controlled with clobazam and valproate.
+DrugId:  4
+1. Name:  Nitrazepam
+2. Groups:  Approved
+3. Description:  A benzodiazepine derivative used as an anticonvulsant and hypnotic.
+4. Indication:  Used to treat short-term sleeping problems (insomnia), such as difficulty falling asleep, frequent awakenings during the night, and early-morning awakening.
+DrugId:  5
+1. Name:  Acetazolamide
+2. Groups:  Approved, Vet approved
+3. Description:  One of the carbonic anhydrase inhibitors that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)
+4. Indication:  For adjunctive treatment of: edema due to congestive heart failure; drug-induced edema; centrencephalic epilepsies; chronic simple (open-angle) glaucoma
+DrugId:  6
+1. Name:  Tranylcypromine
+2. Groups:  Approved, Investigational
+3. Description:  A propylamine formed from the cyclization of the side chain of amphetamine. This monoamine oxidase inhibitor is effective in the treatment of major depression, dysthymic disorder, and atypical depression. It also is useful in panic and phobic disorders (From AMA Drug Evaluations Annual, 1994, p311). Tranylcypromine is a racemate comprising equal amounts of (1R,2S)- and (1S,2R)-2-phenylcyclopropan-1-amine with the chiral centers both located on the cylopropane ring. An irreversible monoamine oxidase inhibitor that is used as an antidepressant (INN tranylcypromine).
+4. Indication:  For the treatment of major depressive episode without melancholia.
+DrugId:  7
+1. Name:  Piracetam
+2. Groups:  Approved, Investigational
+3. Description:  Piracetam is a nootropic drug in the racetams group, with chemical name 2-oxo-1-pyrrolidine acetamide. It shares the same 2-oxo-pyrrolidone base structure with pyroglutamic acid and is a cyclic derivative of the neurotransmitter γ-aminobutyric acid (GABA). However its mechanism of action differ from that of endogenous GABA.Piracetam has neuroprotective and anticonvulsant properties and is reported to improve neural plasticity [1]. Its efficacy is documented in cognitive disorders and dementia, vertigo, cortical myoclonus, dyslexia, and sickle cell anemia although the clinical application in these conditions is not yet established. Piracetam has effects on the vascular system by reduce erythrocyte adhesion to vascular endothelium, hinder vasospasm and facilitate microcirculation [1].Originally marketed by UCB Pharma in 1971, piracetam was the first nootropic drug to modulate cognitive function without causing sedation or stimulation [1]. In the United States, it is not approved by the US Food and Drug Administration for any medical use and it is not permitted to be sold as a dietary supplement. In the UK, piracetam is prescribed mainly for myoclonus, but is used off-label for other conditions such as learning difficulties in children, memory loss or other cognitive defects in the elderly, and sickle-cell vaso-occlusive crises [4]. Evidence to support its use for many conditions is unclear.
+4. Indication:  Indicated in adult patients suffering from myoclonus of cortical origin, irrespective of aetiology, and should be used in combination with other anti-myoclonic therapies [5].

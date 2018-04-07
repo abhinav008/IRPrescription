@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Hexachlorophene
+2. Groups:  Approved, Withdrawn
+3. Description:  A chlorinated bisphenol antiseptic with a bacteriostatic action against Gram-positive organisms, but much less effective against Gram-negative organisms. It is mainly used in soaps and creams and is an ingredient of various preparations used for skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p797)
+4. Indication:  For use as a surgical scrub and a bacteriostatic skin cleanser. It may also be used to control an outbreak of gram-positive infection where other infection control procedures have been unsuccessful.
+DrugId:  2
+1. Name:  Choline magnesium trisalicylate
+2. Groups:  Approved
+3. Description:  Choline magnesium trisalicylate is a non-acetylated salicylate used widely as a nonsteroidal anti-inflammatory drug. Trisalicylate significantly reduces methotrexate renal clearance, displacing methotrexate from protein, increasing the fraction unbound by 28% [1, 2].
+4. Indication:  Choline magnesium trisalicylate is used to reduce pain and inflammation caused by conditions such as arthritis. This medication is also used to treat fever in adults.
+DrugId:  3
+1. Name:  Brinzolamide
+2. Groups:  Approved
+3. Description:  Brinzolamide is a highly specific, non-competitive, reversible carbonic anhydrase inhibitor. Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II (CA-II). Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport. The result is a reduction in intraocular pressure. Brinzolamide is indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+4. Indication:  For the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+DrugId:  4
+1. Name:  Aminoglutethimide
+2. Groups:  Approved, Investigational
+3. Description:  An aromatase inhibitor that produces a state of "medical" adrenalectomy by blocking the production of adrenal steroids. It also blocks the conversion of androgens to estrogens. Aminoglutethimide has been used in the treatment of advanced breast and prostate cancer. It was formerly used for its weak anticonvulsant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p454)
+4. Indication:  For the suppression of adrenal function in selected patients with Cushing's syndrome, malignant neoplasm of the female breast, and carcinoma in situ of the breast.
+DrugId:  5
+1. Name:  Lactulose
+2. Groups:  Approved
+3. Description:  A synthetic disaccharide used in the treatment of constipation and hepatic encephalopathy. It has also been used in the diagnosis of gastrointestinal disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p887)
+4. Indication:  For the treatment of constipation and hepatic encephalopathy.
+DrugId:  6
+1. Name:  Empagliflozin
+2. Groups:  Approved
+3. Description:  Empagliflozin is a sodium glucose co-transporter-2 (SGLT-2) inhibitor indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes. SGLT2 co-transporters are responsible for reabsorption of glucose from the glomerular filtrate in the kidney. The glucuretic effect resulting from SGLT2 inhibition reduces renal absorption and lowers the renal threshold for glucose, therefore resulting in increased glucose excretion. Additionally, it contributes to reduced hyperglycaemia and also assists weight loss and blood pressure reduction.
+4. Indication:  Empagliflozin is indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes.
+DrugId:  7
+1. Name:  Neratinib
+2. Groups:  Approved, Investigational
+3. Description:  Neratinib was approved in July 2017 for use as an extended adjuvant therapy in Human Epidermal Growth Factor Receptor 2 (HER2) positive breast cancer. Approval was granted to Puma Biotechnology Inc. for the tradename Nerlynx. Neratinib is currently under investigation for use in many other forms of cancer.
+4. Indication:  For use as an extended adjuvant treatment in adult patients with early stage HER2-overexpressed/amplified breast cancer, to follow adjuvant trastuzumab-based therapy [FDA Label].
+DrugId:  8
+1. Name:  Hydroflumethiazide
+2. Groups:  Approved, Investigational
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p822)
+4. Indication:  Used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. Also used in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  9
+1. Name:  Bumetanide
+2. Groups:  Approved
+3. Description:  A sulfamyl diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, hepatic and renal disease including the nephrotic syndrome.
+DrugId:  10
+1. Name:  Metyrapone
+2. Groups:  Approved, Investigational
+3. Description:  An inhibitor of the enzyme steroid 11-beta-monooxygenase. It is used as a test of the feedback hypothalamic-pituitary mechanism in the diagnosis of cushing syndrome. [PubChem]
+4. Indication:  Used as a diagnostic drug for testing hypothalamic-pituitary ACTH function. Occasionally used in Cushing's syndrome.
+DrugId:  11
+1. Name:  Sonidegib
+2. Groups:  Approved, Investigational
+3. Description:  Sonidegib is a Hedgehog signaling pathway inhibitor (via smoothened antagonism) developed as an anticancer agent by Novartis. It was approved by the FDA for treating basal cell carcinoma in July 2015 and is awaiting approval in the EU.
+4. Indication:  Sonidegib is approved for use in the US and EU for treatment of adults with locally advanced basal cell carcinoma (BCC) that has recurred post surgery or radiation therapy. It is also approved for adult patients with BCC who are not eligible for surgery or radiation therapy. (2)
+DrugId:  12
+1. Name:  Dextran
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Dextran is a polysaccharide that differs from others in that its glucose units are joined together 1:6 glucoside links. The main chain of glucose has short branches at frequent intervals which are probably joined by 1:3 and 1:4 glucoside links. The chains can be composed of about 200,000 glucose units.[1] Many bacteria, like Leuconostoc, can synthesize dextran from sucrose, and this activity is used commercially to obtain dextran.[4]
+4. Indication:  Dextran is used as the restoration of blood mass during surgical interventions if there is hypovolemia due to trauma or dehydration. It is as well used after the presence of hemorrhage in cases of blood loss to a level inferior to 15% of the blood mass, if compatibility test cannot be completed or when blood lots need to be tested for pathogen detection. Dextran is also used for the prevention of profound postoperative venous thrombosis.[5]Dextran as well presents ophthalmic applications as solutions or ointments for the temporary relief of xerophthalmia or minor ocular irritations.[6]
+DrugId:  13
+1. Name:  Dextran 70
+2. Groups:  Approved
+3. Description:  Dextrans are long-chain glucose polysaccharides of various relative molecular masse. Dextran 70 refers to the complex branched glucose polysaccharides with a relative molecular mass 70 000. Dextran 70 is used as a plasma-volume expander for restoration of circulatory volume during surgery, in hypovolaemic shock due to trauma and dehydration, or specific cases of haemorrhage, and prevention of postoperative deep-vein thrombosis. Dextran 70 is also found in eye drops as a lubricant. It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  15
+1. Name:  Torasemide
+2. Groups:  Approved
+3. Description:  Torasemide (rINN) or torsemide (USAN) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. It is also used at low doses for the management of hypertension. It is marketed under the brand name Demadex. [Wikipedia]
+4. Indication:  For the treatment of edema associated with congestive heart failure, renal disease, or hepatic disease. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  16
+1. Name:  Treprostinil
+2. Groups:  Approved, Investigational
+3. Description:  Treprostinil is a synthetic analogue of prostacyclin, used to treat pulmonary hypertension.
+4. Indication:  For use as a continuous subcutaneous infusion or intravenous infusion (for those not able to tolerate a subcutaneous infusion) for the treatment of pulmonary arterial hypertension in patients with NYHA Class II-IV symptoms to diminish symptoms associated with exercise.
+DrugId:  17
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  18
+1. Name:  Chlorothiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p812)
+4. Indication:  Chlorothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  19
+1. Name:  Rotavirus Vaccine
+2. Groups:  Approved
+3. Description:  Rotavirus commonly infects children and infants causing severe diarrhea and vomiting leading to potentially fatal dehydration [2]. Two rotavirus vaccines are available for the prevention of rotavirus gastroenteritis, Rotateq and Rotarix. Rotateq is a live vaccine consisting of 5 reassorted human-bovine viral strains [1]. Rotarix is a live attenuated vaccine containing the 89-12 human strain [FDA Label]. Rotavirus vaccines are 90% effective in protecting against severe rotavirus infection [2].
+4. Indication:  Rotarix is indicated for prevention of rotavirus gastroenteritis caused by G1, G3, G4, and G9 types in infants aged 6-24 weeks [FDA Label].Rotateq is indicated for the prevention of rotavirus gastroenteritis caused by G1, G2, G3, G4, and G9 types in infants aged 6-32 weeks [1].
+DrugId:  20
+1. Name:  Amiloride
+2. Groups:  Approved
+3. Description:  A pyrazine compound inhibiting sodium reabsorption through sodium channels in renal epithelial cells. This inhibition creates a negative potential in the luminal membranes of principal cells, located in the distal convoluted tubule and collecting duct. Negative potential reduces secretion of potassium and hydrogen ions. Amiloride is used in conjunction with diuretics to spare potassium loss. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p705)
+4. Indication:  For use as adjunctive treatment with thiazide diuretics or other kaliuretic-diuretic agents in congestive heart failure or hypertension.
+DrugId:  21
+1. Name:  Cyclothiazide
+2. Groups:  Approved
+3. Description:  As a diuretic, cyclothiazide inhibits active chloride reabsorption at the early distal tubule via the Na-Cl cotransporter, resulting in an increase in the excretion of sodium, chloride, and water. Thiazides like cyclothiazide also inhibit sodium ion transport across the renal tubular epithelium through binding to the thiazide sensitive sodium-chloride transporter. This results in an increase in potassium excretion via the sodium-potassium exchange mechanism. The antihypertensive mechanism of cyclothiazide is less well understood although it may be mediated through its action on carbonic anhydrases in the smooth muscle or through its action on the large-conductance calcium-activated potassium (KCa) channel, also found in the smooth muscle. Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+4. Indication:  Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  22
+1. Name:  Ketamine
+2. Groups:  Approved, Vet approved
+3. Description:  Ketamine is an NMDA receptor antagonist with a potent anesthetic effect.[6] It was developed in 1963 as a replacement for phencyclidine (PCP) by Calvin Stevens at Parke Davis Laboratories. It started being used for veterinary purposes in Belgium and in 1964 was proven that compared to PCP, it produced minor hallucinogenic effects and shorter psychotomimetic effects. It was FDA approved in 1970, and from there, it has been used as an anesthetic for children or patients undergoing minor surgeries but mainly for veterinary purposes.[14]
+4. Indication:  Ketamine is indicated as an anesthetic agent for recommended diagnostic and surgical procedures. If skeletal muscle relaxation is needed, it should be combined with a muscle relaxant. If the surgical procedure involves visceral pain, it should be supplemented with an agent that obtunds visceral pain. Ketamine can be used for induction of anesthesia prior other general anesthetic agents and as a supplement of low potency agents.[15]Reports have indicated a potential use of ketamine as a therapeutic tool for the management of depression when administered in lower doses.[7] These reports have increased the interest for ketamine in this area and several clinical trials are launched for this indication.[16, 8]
+DrugId:  23
+1. Name:  Methyl cellulose
+2. Groups:  Approved
+3. Description:  Methyl cellulose is a stabiliser, thickener and emulsifier for foodstuffs Different kinds of methyl cellulose can be prepared depending on the number of hydroxyl groups substituted. Cellulose is a polymer consisting of numerous linked glucose molecules, each of which exposes three hydroxyl groups. The Degree of Substitution (DS) of a given form of methyl cellulose is defined as the average number of substituted hydroxyl groups per glucose. The theoretical maximum is thus a DS of 3.0, however more typical values are 1.3 2.6. Methyl cellulose (or methylcellulose) is a chemical compound derived from cellulose. It is a hydrophilic white powder in pure form and dissolves in cold (but not in hot) water, forming a clear viscous solution or gel. It is sold under a variety of trade names and is used as a thickener and emulsifier in various food and cosmetic products, and also as a treatment of constipation. Like cellulose, it is not digestible, not toxic, and not allergenic. Methyl cellulose belongs to the family of Dihexoses. These are disaccharides containing two hexose carbohydrates.
+4. Indication:  Clinical:Artificial tears and saliva: Solutions containing methyl cellulose or similar cellulose derivatives are used as substitute for tears or saliva if the natural production of these fluids is disturbed.Nutritional supplement capsules : Methyl cellulose is used in the manufacture of capsules in nutritional supplements, its edible and nontoxic properties provide a vegetarian alternative to the use of gelatin.Treatment of constipation : When eaten, methyl cellulose is not absorbed by the intestines but passes through the digestive tract undisturbed. It attracts large amounts of water into the colon, producing a softer and bulkier stool. It is used to treat constipation, diverticulosis, hemorrhoids and irritable bowel syndrome. It should be taken with sufficient amounts of fluid to prevent dehydration.Cell culture/virology :Methyl cellulose is also used in cell culture to study viral replication. It is dissolved in the same nutrient-containing medium in which cells are normally grown. A single layer of cells are grown on a flat surface, then infected with a virus for a short time. The strength of the viral sample used will determine how many cells get infected during this time. The thick methyl cellulose medium is then added on top of the cells in place of normal liquid medium. As the viruses replicate in the infected cells, they are able to spread between cells whose membrances touch each other, but are trapped when they enter the methyl cellulose. Only cells closely neighboring an infected cell will become infected and die. This leaves small regions of dead cells called plaques in a larger background of living uninfected cells. The number of plaques formed is determined by the strength of the original sample.Bacterial and Protozoal motility inhibitor: Aqueous methyl cellulose solutions have been used to slow bacterial and protozoal cell motility for closer inspection. Changing the amount of methyl cellulose in solution permits the adjustment of the solution's viscosity.Stem cell differentiation : Methyl cellulose is used in the most common approaches to quantify multiple or single lineage-committed hematopoietic progenitors, called colony-forming cells (CFCs) or colony-forming units (CFUs), in combination with culture supplements that promote their proliferation and differentiation, and allow the clonal progeny of a single progenitor cell to stay together and thus form a colony of more mature cells.
+DrugId:  24
+1. Name:  Sodium bicarbonate
+2. Groups:  Approved
+3. Description:  Sodium bicarbonate is a white, crystalline powder that is commonly used as a pH buffering agent, an electrolyte replenisher, systemic alkalizer and in topical cleansing solutions.
+4. Indication:  Sodium bicarbonate is used for the treatment of metabolic acidosis which may occur in severe renal disease, uncontrolled diabetes, circulatory insufficiency due to shock or severe dehydration, extracorporeal circulation of blood, cardiac arrest and severe primary lactic acidosis. Also is indicated in severe diarrhea which is often accompanied by a significant loss of bicarbonate. Further indicated in the treatment of certain drug intoxications, including barbiturates (where dissociation of the barbiturateprotein complex is desired), in poisoning by salicylates or methyl alcohol and in hemolytic reactions requiring alkalinization of the urine to diminish nephrotoxicity of blood pigments.
+DrugId:  25
+1. Name:  Sodium phosphate
+2. Groups:  Approved
+3. Description:  Sodium phosphate is a saline laxative that is thought to work by increasing fluid in the small intestine. It usually results in a bowel movement after 30 minutes to 6 hours.
+4. Indication:  Used to treat constipation or to clean the bowel before a colonoscopy [FDA Label].

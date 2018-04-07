@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Caffeine
+2. Groups:  Approved
+3. Description:  A methylxanthine naturally occurring in some beverages and also used as a pharmacological agent. Caffeine's most notable pharmacological effect is as a central nervous system stimulant, increasing alertness and producing agitation. It also relaxes smooth muscle, stimulates cardiac muscle, stimulates diuresis, and appears to be useful in the treatment of some types of headache. Several cellular actions of caffeine have been observed, but it is not entirely clear how each contributes to its pharmacological profile. Among the most important are inhibition of cyclic nucleotide phosphodiesterases, antagonism of adenosine receptors, and modulation of intracellular calcium handling.
+4. Indication:  For management of fatigue, orthostatic hypotension, and for the short term treatment of apnea of prematurity in infants.
+DrugId:  2
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.
+DrugId:  3
+1. Name:  Naratriptan
+2. Groups:  Approved, Investigational
+3. Description:  Naratriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  4
+1. Name:  Clomipramine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Clomipramine, the 3-chloro analog of imipramine, is a dibenzazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, clomipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, clomipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as clomipramine, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Clomipramine may be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder). Unlabeled indications include panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy, autistic disorder, trichotillomania, onchophagia, stuttering, premature ejaculation, and premenstrual syndrome. Clomipramine is rapidly absorbed from the gastrointestinal tract and demethylated in the liver to its primary active metabolite, desmethylclomipramine.
+4. Indication:  May be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder).Unlabeled indications include: depression, panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy (limited evidence), autistic disorder (limited evidence), trichotillomania (limited evidence), onchophagia (limited evidence), stuttering (limited evidence), premature ejaculation, and premenstrual syndrome. 
+DrugId:  5
+1. Name:  Alpha-methyltryptamine
+2. Groups:  Experimental, Illicit
+3. Description:  A stimulant and psychoactive drug which produces effects similar to 3,4-methylenedioxy-N-methylamphetamine (MDMA), despite being structurally dissimilar.It was developed in the 1960's by Upjohn with the intention for use as an antidepressant. In the 1990's, alpha-methyltryptamine became regulated as a Schedule I controlled substance in the United states. 
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  7
+1. Name:  Amitriptyline
+2. Groups:  Approved
+3. Description:  Amitriptyline hydrochloride is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA) and analgesic. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, amitriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, amitriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. Amitriptyline may be used to treat depression, chronic pain (unlabeled use), irritable bowel syndrome (unlabeled use), diabetic neuropathy (unlabeled use), post-traumatic stress disorder (unlabeled use), and for migraine prophylaxis (unlabeled use).
+4. Indication:  Indicated for the treatment of major depressive disorder in adultsIndicated for the management of neuropathic pain in adultsIndicated for the prophylactic treatment of chronic tension type headache (CTTH) in adultsIndicated for the prophylactic treatment of migraine in adultsIndicated for the the treatment of nocturnal enuresis in children aged 6 years and above when organic pathology, including spina bifida and related disorders, have been excluded and no response has been achieved to all other non-drug and drug treatments, including antispasmodics and vasopressin-related products. This medicinal product should only be prescribed by a healthcare professional with expertise in the management of persistent enuresis.-Other off-label uses include irritable bowel syndrome, sleep disorders, diabetic neuropathy, agitation and insomnia
+DrugId:  8
+1. Name:  Taliglucerase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Taliglucerase alfa is the recombinant active form of the human lysosomal enzyme, β-glucocerebrosidase. It was approved in 2012 and is marketed under the name Elelyso for use in patients with type 1 Gaucher's disease.
+4. Indication:  For the treatment of adult Type 1 Gaucher disease. 
+DrugId:  9
+1. Name:  Anakinra
+2. Groups:  Approved
+3. Description:  Anakinra is a recombinant, nonglycosylated human interleukin-1 receptor antagonist (IL-1Ra). The difference between anakinra and the native human IL-1Ra is that anakinra has an extra methionine residue at the amino terminus. It is manufactured by using the E. coli expression system. Anakinra is composed of 153 amino acid residues. FDA approved on November 14, 2001. 
+4. Indication:  For the treatment of adult rheumatoid arthritis and treatment of Neonatal-Onset Multisystem Inflammatory Disease (NOMID). 
+DrugId:  10
+1. Name:  Calfactant
+2. Groups:  Approved
+3. Description:  Calfactant is a sterile, non-pyrogenic lung surfactant intended for intratracheal instillation. It is an off-white suspension of an extract of natural surfactant from calf lungs suspended in 0.9% saline. Each milliliter of calfactant contains 35mg of phospholipids (including 26 mg phosphatidylcholine of which 16 mg is disaturated phosphatidylcholine) and 0.65mg of proteins including surfactant-associated proteins B and C.Calfactant is approved for use in the United States of America. It is used to prevent or treat respiratory distress syndrome in premature infants with lung surfactant deficiency. Calfactant has been shown to decrease the incidence of respiratory distress syndrome, mortality due to respiratory distress syndrome, and air leaks associated with respiratory distress syndrome in clinical trials. It adsorbs to the air:fluid interface in the lungs and works to reduce surface tension, in a manner similar to endogenous pulmonary surfactant.
+4. Indication:  Calfactant is indicated for prophylaxis therapy to prevent respiratory distress syndrome (RDS) in premature infants <29 weeks of gestational age with low lung surfactant and at high risk for RDS. Calfactant therapy is also indicated for the treatment of respiratory distress syndrome in infants 72 hours or less of age with RDS confirmed by clinical and radiologic findings and requiring endotracheal intubation.
+DrugId:  11
+1. Name:  Ginkgo biloba
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  The extract of the Ginkgo leaves contains flavonoid glycosides and terpenoids (ginkgolides, bilobalides) and has been used pharmaceutically for hundreds of years. It has many alleged nootropic properties, and is mainly used as memory and concentration enhancer, and anti-vertigo agent. Ginkgo extract seems to have three effects on the human body: it improves blood flow (including microcirculation in small capillaries) to most tissues and organs; it protects against oxidative cell damage from free radicals; and it blocks many of the effects of PAF (platelet aggregation, blood clotting) that have been related to the development of a number of cardiovascular, renal, respiratory and CNS (Central Nervous System) disorders.
+4. Indication:  Appears to be effective in: alleviating age-related memory impairment in some elderly people with mild to moderate age-related memory or cognitive impairment; improving cognitive function in healthy young to middle-aged people; improving symptoms of Alzheimer's, vascular or mixed dementia; improving damage to the visual field in patients with normal tension glaucoma; decreasing the number of painful attacks in patients with Raynaud's syndrome; and may improve symptoms of vertigo and dizziness in some patients. 
+DrugId:  12
+1. Name:  Pemoline
+2. Groups:  Illicit, Investigational, Withdrawn
+3. Description:  In 2005, the Food and Drug Administration (FDA) withdrew approval for pemoline. In March 2005, Abbott Laboratories (Cylert marketer) had discontinued the production of Cylert arguing economic reasons.
+4. Indication:  For treatment of Attention Deficit Hyperactivity Disorder (ADHD)
+DrugId:  13
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  14
+1. Name:  Metaxalone
+2. Groups:  Approved
+3. Description:  Metaxalone (marketed by King Pharmaceuticals under the brand name Skelaxin®) is a muscle relaxant used to relax muscles and relieve pain caused by strains, sprains, and other musculoskeletal conditions. Its exact mechanism of action is not known, but it may be due to general central nervous system depression. It is considered to be a moderately strong muscle relaxant, with relatively low incidence of side effects. Skelaxin comes in an 800 mg scored tablet. It previously came in both 400 mg and 800 mg tablets. The 400 mg tablet has been discontinued. Possible side effects include nausea, vomiting, drowsiness and CNS side effects such as dizziness, headache, and irritability.
+4. Indication:  For the treatment of painful peripheral musculoskeletal conditions and spasticity from upper motor neuron syndromes.
+DrugId:  15
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  16
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  17
+1. Name:  Manidipine
+2. Groups:  Approved, Investigational
+3. Description:  Manidipine (INN) is a calcium channel blocker (dihydropyridine type) that is used clinically as an antihypertensive. It is selective for vasculature and does not produce effects on the heart at clinically relevant dosages.
+4. Indication:  For the treatment of hypertension.
+DrugId:  18
+1. Name:  Halazepam
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Halazepam is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. It is a trifluoromethyl derivative of nordazepam. While its structure may be similar to chlordiazepoxide and diazepam, it has both less toxicity and less tendency to cause paradoxical hostility and aggression than either of them. Halazepam is no longer marketed in the United States, and was withdrawn by Schering-Plough due to poor sales. [Wikipedia]
+4. Indication:  Used to relieve anxiety, nervousness, and tension associated with anxiety disorders.
+DrugId:  19
+1. Name:  Cloxazolam
+2. Groups:  Approved, Investigational
+3. Description:  Cloxazolam is a benzodiazepine with anxiolytic, sedative/hypnotic, muscle relaxant, and antiepileptic effects. It is marketed in the Argentina, Australia, Portugal, Belgium, Switzerland, Luxembourg, Germany, Taiwan and Japan -- mainly for anti-anxiety. The usual dose of cloxazolam in adults is 3-12mg/day for anti-anxiety. Although less commonly noted, it has also been reported as clinically effective in the treatment of depression, schizophrenia, and neurosis. As well, it has also been studied in Japan in doses of 15-30mg/day as an adjunct in the treatment of intractable epilepsy, for which it has demonstrated effectiveness.
+4. Indication:  Used primarily as an anti-anxiety agent. Typically used short term, and may be given as a single dose of up to 100mcg/kg to reduce anxiety and tension experienced prior to surgery. 
+DrugId:  20
+1. Name:  Lesopitron
+2. Groups:  Investigational
+3. Description:  Lesopitron is an anxiolytic with pre- and post-synaptic 5-HT1A agonist activity, which is under development by Esteve.
+4. Indication:  Intended for the treatment of anxiety disorders.
+DrugId:  21
+1. Name:  Turpentine
+2. Groups:  Approved, Experimental
+3. Description:  Turpentine (also called spirit of turpentine, oil of turpentine, wood turpentine and colloquially turps) is a fluid obtained by the distillation of resin obtained from live trees, mainly pines. It is mainly used as a solvent and as a source of materials for organic synthesis. Turpentine is composed of terpenes, mainly the monoterpenes alpha-pinene and beta-pinene with lesser amounts of carene, camphene, dipentene, and terpinolene.
+4. Indication:  Turpentine has been used experimentally in a bath for the treatment of disseminated sclerosis and sexual dysfunction. It also has been studied for its antibacterial activity and inhibition of osteoclast activity. Turpentine is utilized in experimental models of inflammation to induce a systemic inflammatory immune response in animals.
+DrugId:  22
+1. Name:  Verapamil
+2. Groups:  Approved
+3. Description:  A calcium channel blocker that is a class IV anti-arrhythmia agent.
+4. Indication:  For the treatment of hypertension, angina, and cluster headache prophylaxis.
+DrugId:  23
+1. Name:  Metharbital
+2. Groups:  Withdrawn
+3. Description:  Metharbital was patented in 1905 by Emil Fischer working for Merck. It was marketed as Gemonil by Abbott Laboratories. It is a barbiturate anticonvulsant, used in the treatment of epilepsy. It has similar properties to phenobarbital [Wikipedia].
+4. Indication:  Metharbital is used for the treatment of epilepsy.
+DrugId:  24
+1. Name:  Peginterferon beta-1a
+2. Groups:  Approved
+3. Description:  Peginterferon beta-1a is an interferon beta-1a to which a single, linear 20,000 dalton (Da) methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (PEG) molecule is covalently attached to the alpha amino group of the N-terminal amino acid residue. The amino acid sequence of the recombinant interferon beta-1a is identical to that of the human interferon beta counterpart. Although it's mechanism of action is unknown, peginterferon beta-1a is indicated for use in relapsing forms of Multiple Sclerosis (MS).Interferon beta was the first drug to alter the course of MS, however multiple side effects and the need for weekly subcutaneous injection make it difficult to use. Interferon beta was subsequently PEGylated (covalently attached to polyethylene glycol) to extend its duration of action to every 14 days. It is currently available as peginterferon beta-1a as the FDA-approved product Plegridy.
+4. Indication:  For the treatment of patients with relapsing forms of multiple sclerosis.
+DrugId:  25
+1. Name:  Efonidipine
+2. Groups:  Approved, Investigational
+3. Description:  Efonidipine (INN) is a dihydropyridine calcium channel blocker marketed by Shionogi & Co. of Japan. It was launched in 1995, under the brand name Landel. The drug blocks both T-type and L-type calcium channels [1, 2]. It has also been studied in atherosclerosis and acute renal failure [2]. This drug is also known as NZ-105, and several studies have been done on its pharmacokinetics in animals [13].
+4. Indication:  For the treatment of hypertension.

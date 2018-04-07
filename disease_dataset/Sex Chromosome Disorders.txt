@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lenalidomide
+2. Groups:  Approved
+3. Description:  Lenalidomide (initially known as CC-5013 and marketed as Revlimid® by Celgene) is a derivative of thalidomide introduced in 2004. It was initially intended as a treatment for multiple myeloma, for which thalidomide is an accepted therapeutic modality, but has also shown efficacy in the hematological disorders known as the myelodysplastic syndromes. [Wikipedia] FDA approved on December 27, 2005. 
+4. Indication:  Lenalidomide is indicated for the treatment of multiple myeloma in combination with dexamethasone. It is also indicated for the treatment of patients with transfusion-dependent anemia due to low- or intermediate- risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+DrugId:  2
+1. Name:  Terazosin
+2. Groups:  Approved
+3. Description:  Terazosin is a selective alpha1-antagonist used for treatment of symptoms of benign prostatic hyperplasia (BPH). It also acts to lower blood pressure, so it is a drug of choice for men with hypertension and prostate enlargement. It works by blocking the action of adrenaline on smooth muscle of the bladder and the blood vessel walls.
+4. Indication:  For the treatment of symptomatic BPH and mild to moderate hypertension.
+DrugId:  3
+1. Name:  Furazolidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A nitrofuran derivative with antiprotozoal and antibacterial activity. Furazolidone binds bacterial DNA which leads to the gradual inhibition of monoamine oxidase. (From Martindale, The Extra Pharmacopoeia, 30th ed, p514)
+4. Indication:  For the specific and symptomatic treatment of bacterial or protozoal diarrhea and enteritis caused by susceptible organisms.
+DrugId:  4
+1. Name:  Diethylstilbestrol
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic nonsteroidal estrogen used in the treatment of menopausal and postmenopausal disorders. It was also used formerly as a growth promoter in animals. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), diethylstilbestrol has been listed as a known carcinogen. (Merck, 11th ed)
+4. Indication:  Used in the treatment of prostate cancer. Previously used in the prevention of miscarriage or premature delivery in pregnant women prone to miscarriage or premature delivery.
+DrugId:  5
+1. Name:  Danazol
+2. Groups:  Approved
+3. Description:  A synthetic steroid with antigonadotropic and anti-estrogenic activities that acts as an anterior pituitary suppressant by inhibiting the pituitary output of gonadotropins. It possesses some androgenic properties. Danazol has been used in the treatment of endometriosis and some benign breast disorders. [PubChem]
+4. Indication:  For the treatment of endometriosis and fibrocystic breast disease (in patients unresponsive to simple measures). Also used for the prophylactic treatment of all types of hereditary angioedema in males and females.
+DrugId:  6
+1. Name:  Pefloxacin
+2. Groups:  Approved
+3. Description:  A synthetic broad-spectrum fluoroquinolone antibacterial agent active against most gram-negative and gram-positive bacteria. [PubChem]
+4. Indication:  For the treatment of uncomplicated gonococcal urethritis in males and for gram-negative-bacterial infections in the gastrointestinal system and the genitourinary tract.
+DrugId:  7
+1. Name:  Dydrogesterone
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  A synthetic progestational hormone with no androgenic or estrogenic properties. Unlike many other progestational compounds, dydrogesterone produces no increase in temperature and does not inhibit ovulation. [PubChem]
+4. Indication:  Used to treat irregular duration of cycles and irregular occurrence and duration of periods caused by progesterone deficiency. Also used to prevent natural abortion in patients who have a history of habitual abortions.
+DrugId:  8
+1. Name:  Radotinib
+2. Groups:  Investigational
+3. Description:  Radotinib is under investigation for the treatment of Leukemia, Myelogenous, Chronic, BCR-ABL Positive.
+4. Indication:  Radotinib is indicated for the treatment of different types of cancer, most notably Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) with resistance or intolerance of other Bcr-Abl tyrosine-kinase inhibitors, such as patients resistant or intolerant to imatinib.
+DrugId:  9
+1. Name:  Policresulen
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Promestriene
+2. Groups:  Investigational
+3. Description:  Promestriene has been used in trials studying the prevention of Hypospadias.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Apalutamide
+2. Groups:  Approved, Investigational
+3. Description:  Apalutamide is a potent androgen receptor (AR) antagonist that selectively binds to the ligand-binding domain of AR and blocks AR nuclear translocation or binding to androgen response elements [1]. It has been used in trials studying the treatment of Prostate Cancer, Hepatic Impairment, Prostatic Neoplasms, Castration-Resistant Prostate Cancer, and Prostatic Neoplasms, Castration-Resistant, among others. Exerting an antitumor action, apalutamide blocking the effect of androgens that promote tumor growth. It targets the AR ligand-binding domain and prevents AR nuclear translocation, DNA binding, and transcription of AR gene targets in prostate tumors [1]. In mice bearing human CRPC xenograft models, apalutamide treatment produced tumor regressions in a dose-dependent manner that was more effective than that of Bicalutamide or Enzalutamide. Unlike bicalutamide, apalutamide antagonized AR-mediated signaling in AR overexpressing human CRPC cell lines [1].Androgen-deprivation therapy, or hormone therapy, can be used as part of maintenance therapy for patients with non-metastatic prostate cancer. Although most patients achieve therapeutic responses at the initial hormone therapy, many patients progress to non-metastatic castration-resistant (resistance to hormone therapy) prostate cancer which is the second-most common cause of cancer-related deaths in American males [2]. Castration-resistant prostate cancer is often incurable, which poses significant clinical challenges for patients. Approximately 10 to 20 % of prostate cancer cases are castration-resistant, and up to 16% of these patients show no evidence of cancer metastasis at the time of castration-resistant diagnosis [3]. Higher prostate-specific antigen (PSA) and shorter PSA doubling time (PSA DT) are associated with a higher risk for metastases and death [1]. In a phase-2 multicenter open-label study, 89% of patients with non-metastatic, castration-resistant prostate cancer had ≥50% PSA decline at week 12 of apalutamide treatment [1]. In a randomized trial, the median metastasis-free survival for patients taking apalutamide was 40.5 months compared to 16.2 months for patients taking a placebo [3]. Apalutamide displayed good tolerability and safety profile in clinical studies. Apalutamide was approved in February 2018 by the FDA as Erleada for the treatment of patients with non-metastatic prostate cancer that is resistant to treatment with hormone therapy (castration-resistant). It is available as oral tablets. Apalutamide is the first FDA-approved treatment for non-metastatic, castration-resistant prostate cancer [3].
+4. Indication:  Indicated for the treatment of patients with non-metastatic, castration-resistant prostate cancer (NM-CRPC) [FDA Label].
+DrugId:  12
+1. Name:  Phenazopyridine
+2. Groups:  Approved
+3. Description:  A local anesthetic that has been used in urinary tract disorders. Its use is limited by problems with toxicity (primarily blood disorders) and potential carcinogenicity. [PubChem]
+4. Indication:  For the symptomatic relief of pain, burning, urgency, frequency, and other discomforts arising from irritation of the lower urinary tract mucosa caused by infection, trauma, surgery, endoscopic procedures, or the passage of sounds or catheters.
+DrugId:  13
+1. Name:  Levofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic fluoroquinolone (fluoroquinolones) antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication. [PubChem]
+4. Indication:  For the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species, Staphylococus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae, Streptococcus (Groups C/F/G), Viridans group streptococci, Acinetobacter lwoffii, Haemophilus influenzae, Serratia marcescens.
+DrugId:  14
+1. Name:  Levonorgestrel
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic progestational hormone with actions similar to those of progesterone and about twice as potent as its racemic or (+-)-isomer (norgestrel). It is used for contraception, control of menstrual disorders, and treatment of endometriosis. It is usually supplied in a racemic mixture (Norgestrel, 6533-00-2). Only the levonorgestrel isomer is active. Levonorgestrel is marketed mostly as a combination oral contraceptive under several brand names such as Alesse, Triphasil, and Min-Ovral. 
+4. Indication:  For the treatment of menopausal and postmenopausal disorders and alone or in combination with other hormones as an oral contraceptive.
+DrugId:  15
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  16
+1. Name:  Medroxyprogesterone acetate
+2. Groups:  Approved, Investigational
+3. Description:  Medroxyprogesterone acetate (INN, USAN, BAN), also known as 17α-hydroxy-6α-methylprogesterone acetate, and commonly abbreviated as MPA, is a steroidal progestin, a synthetic variant of the human hormone progesterone. It is used as a contraceptive, in hormone replacement therapy and for the treatment of endometriosis as well as several other indications.MPA is a more potent derivative of its parent compound medroxyprogesterone (MP). While medroxyprogesterone is sometimes used as a synonym for medroxyprogesterone acetate, what is normally being administered is MPA and not MP. [Wikipedia]
+4. Indication:  Used as a contraceptive and to treat secondary amenorrhea, abnormal uterine bleeding, pain associated with endometriosis, endometrial and renal cell carcinomas, paraphilia in males, GnRH-dependent forms of precocious puberty, as well as to prevent endometrial changes associated with estrogens.
+DrugId:  17
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  18
+1. Name:  Cimicifuga racemosa
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Bosutinib
+2. Groups:  Approved
+3. Description:  Bosutinib is a Bcr-Abl kinase inhibitor for the treatment of Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML). Compared to other tyrosine kinase inhibitors, it has a more favourable hematologic toxicity profile. FDA approved on September 4, 2012. 
+4. Indication:  Treatment of chronic, accelerated, or blast phase Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) with resistance or intolerance to prior therapy in adult patients. 
+DrugId:  20
+1. Name:  Cabergoline
+2. Groups:  Approved
+3. Description:  Cabergoline, an ergot derivative, is a long-acting dopamine agonist and prolactin inhibitor. It is used to treat hyperprolactinemic disorders and Parkinsonian Syndrome. Cabergoline possesses potent agonist activity on dopamine D2 receptors. 
+4. Indication:  For the treatment of hyperprolactinemic disorders, either idiopathic or due to prolactinoma (prolactin-secreting adenomas). May also be used to manage symptoms of Parkinsonian Syndrome as monotherapy during initial symptomatic management or as an adjunct to levodopa therapy during advanced stages of disease. 
+DrugId:  21
+1. Name:  Vitex agnus-castus fruit extract
+2. Groups:  Experimental
+3. Description:  Vitex agnus-castus fruit extract is obtained from dry fruits of Vitex agnus-castus. The fruits contain mixture of iridoids, flavonoids and compounds in leaves and flowers that structurally resemble sex hormones. Clinical studies demonstrates effectiveness of vitex agnus-castus fruit extract in the management of premenstrual stress syndrome (PMS) and cyclical breast pain (mastalgia). The main mechanism of action of vitex agnus-castus fruit extract has not been fully elucidated, however it is suggested to modulate the stress-induced prolactin secretion via dopaminergic actions, and μ (mu) - and δ (delta) -opioid receptors.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Nomegestrol
+2. Groups:  Approved
+3. Description:  Nomegestrol is an ingredient in the EMA-authorised product Zoely.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Imatinib
+2. Groups:  Approved
+3. Description:  Imatinib is a small molecule kinase inhibitor used to treat certain types of cancer. It is currently marketed by Novartis as Gleevec (USA) or Glivec (Europe/Australia) as its mesylate salt, imatinib mesilate (INN). It is occasionally referred to as CGP57148B or STI571 (especially in older publications). It is used in treating chronic myelogenous leukemia (CML), gastrointestinal stromal tumors (GISTs) and a number of other malignancies.It is the first member of a new class of agents that act by inhibiting particular tyrosine kinase enzymes, instead of non-specifically inhibiting rapidly dividing cells.
+4. Indication:  For the treatment of Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML), Ph+ acute lymphoblastic leukaemia, myelodysplastic/myeloproliferative diseases, aggressive systemic mastocytosis, hypereosinophilic syndrome and/or chronic eosinophilic leukemia (CEL), dermatofibrosarcoma protuberans, and malignant gastrointestinal stromal tumors (GIST).
+DrugId:  24
+1. Name:  Bendroflumethiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. It has been used in the treatment of familial hyperkalemia, hypertension, edema, and urinary tract disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p810)
+4. Indication:  For the treatment of high blood pressure and management of edema related to heart failure.
+DrugId:  25
+1. Name:  Econazole
+2. Groups:  Approved
+3. Description:  A broad spectrum antimycotic with some action against Gram positive bacteria. It is used topically in dermatomycoses also orally and parenterally. [PubChem]
+4. Indication:  For topical application in the treatment of tinea pedis, tinea cruris, and tinea corporis caused by Trichophyton rubrum, Trichophyton mentagrophytes, Trichophyton tonsurans, Microsporum canis, Microsporum audouini, Microsporum gypseum, and Epidermophyton floccosum, in the treatment of cutaneous candidiasis, and in the treatment of tinea versicolor.

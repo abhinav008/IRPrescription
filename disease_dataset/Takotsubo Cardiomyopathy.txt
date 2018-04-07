@@ -1,0 +1,40 @@
+DrugId:  1
+1. Name:  Fx-1006A
+2. Groups:  Investigational
+3. Description:  Fx-1006A is a small molecule compound with the potential to treat genetic disorders, such as familial amyloid cardiomyopathy (FAC) and familial amyloid polyneuropathy (FAP).
+4. Indication:  Investigated for use/treatment in amyloidosis.
+DrugId:  2
+1. Name:  Dexrazoxane
+2. Groups:  Approved, Withdrawn
+3. Description:  An antimitotic agent with immunosuppressive properties. Dexrazoxane, the (+)-enantiomorph of razoxane, provides cardioprotection against anthracycline toxicity. It appears to inhibit formation of a toxic iron-anthracycline complex. [PubChem]The Food and Drug Administration has designated dexrazoxane as an orphan drug for use in the prevention or reduction in the incidence and severity of anthracycline-induced cardiomyopathy.
+4. Indication:  For reducing the incidence and severity of cardiomyopathy associated with doxorubicin administration in women with metastatic breast cancer who have received a cumulative doxorubicin hydrochloride dose of 300 mg/m^2 and would benefit from continued doxorubicin therapy. Also approved for the treatment of extravasation from intravenous anthracyclines.
+DrugId:  3
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  4
+1. Name:  Phenindione
+2. Groups:  Approved, Investigational
+3. Description:  An indandione that has been used as an anticoagulant. Phenindione has actions similar to warfarin, but it is now rarely employed because of its higher incidence of severe adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p234)
+4. Indication:  For the treatment of pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, mural thrombosis, and thrombophili. Also used for anticoagulant prophylaxis.
+DrugId:  5
+1. Name:  Pyruvic acid
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  6
+1. Name:  Alglucosidase alfa
+2. Groups:  Approved
+3. Description:  Aglucosidase alfa consists of the human enzyme acid alpha-glucosidase (GAA) which is essential for the degradation of glygogen to glucose in lysosomes. It is encoded by the most predominant of nine observed haplotypes of this gene. Aglucosidase alfa is produced by recombinant DNA technology in a Chinese hamster ovary cell line. Alglucosidase alfa degrades glycogen by catalyzing the hydrolysis of a-1,4- and a-1,6- glycosidic linkages of lysosomal glycogen. Structurally, Alglucosidase alfa is a glycoprotein with a calculated mass of 98,008 daltons for the 883 residue mature polypeptide chain, and a total mass of approximately 109,000 daltons, including carbohydrates. It is used for the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.
+4. Indication:  For the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.
+DrugId:  7
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  8
+1. Name:  Osimertinib
+2. Groups:  Approved
+3. Description:  Osimertinib is an oral, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) drug developed by AstraZeneca Pharmaceuticals. Its use is indicated for the treatment of metastatic non-small cell lung cancer (NSCLC) in cases where tumour EGFR expression is positive for the T790M mutation as detected by FDA-approved testing and which has progressed following therapy with a first-generation EGFR tyrosine kinase inhibitor. Approximately 10% of patients with NSCLC have a rapid and clinically effective response to EGFR-TKIs due to the presence of specific activating EGFR mutations within the tumour cells. More specifically, deletions around the LREA motif in exon 19 and exon 21 L858R point mutations are correlated with response to therapy. Development of third-generation EGFR-TKIs, such as osimertinib, has been in response to altered tumour resistance patterns following treatment and toxic side effects that impact patient quality of life. Treatment with first-generation EGFR-TKIs (gefitinib and erlotinib) has been associated with the development of resistance through activating mutations in the EGFR gene. Second-generation EGFR-TKIs (afatinib and dacomitinib) were then developed to be more potent inhibitors, although their use is associated with increased toxicity through nonspecific targeting of wild-type EGFR. In contrast, third-generation inhibitors are specific for the gate-keeper T790M mutations which increases ATP binding activity to EGFR and result in poor prognosis for late-stage disease. Furthermore, osimertinib has been shown to spare wild-type EGFR during therapy, thereby reducing non-specific binding and limiting toxicity. 
+4. Indication:  Osimertinib is indicated for the treatment of patients with metastatic epidermal growth factor receptor (EGFR) T790M mutation-positive non-small cell lung cancer (NSCLC), as detected by an FDA- approved test, who have progressed on or after EGFR-TKI therapy.

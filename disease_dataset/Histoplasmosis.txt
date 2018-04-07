@@ -1,0 +1,20 @@
+DrugId:  1
+1. Name:  Itraconazole
+2. Groups:  Approved, Investigational
+3. Description:  One of the triazole antifungal agents that inhibits cytochrome P-450-dependent enzymes resulting in impairment of ergosterol synthesis. It has been used against histoplasmosis, blastomycosis, cryptococcal meningitis & aspergillosis. [PubChem]
+4. Indication:  For the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients: pulmonary and extrapulmonary blastomycosis, histoplasmosis, aspergillosis, and onychomycosis.
+DrugId:  2
+1. Name:  Ketoconazole
+2. Groups:  Approved, Investigational
+3. Description:  Broad spectrum antifungal agent used for long periods at high doses, especially in immunosuppressed patients. It is a racemate consisting of equimolar amounts of (2R,4S)- and (2S,4R)-ketoconazole with the chiral centers on the acetal ring.
+4. Indication:  For the treatment of the following systemic fungal infections: candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, blastomycosis, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis.
+DrugId:  3
+1. Name:  Verteporfin
+2. Groups:  Approved, Investigational
+3. Description:  Verteporfin, otherwise known as benzoporphyrin derivative (trade name Visudyne®), is a medication used as a photosensitizer for photodynamic therapy to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.
+4. Indication:  For the treatment of patients with predominantly classic subfoveal choroidal neovascularization due to age-related macular degeneration, pathologic myopia or presumed ocular histoplasmosis syndrome. Verteporfin can also be used to destroy tumors.
+DrugId:  4
+1. Name:  Golimumab
+2. Groups:  Approved
+3. Description:  Golimumab is a human IgG1қ monoclonal antibody derived from immunizing genetically engineered mice with human TNFα. Golimumab binds and inhibits soluble and transmembrane human TNFα. Increased TNFα is associated with chronic inflammation. Thus golimumab is indicated for use in adults (i) as an adjunct to methotrexate treatment in patients with moderate to severe active rheumatoid arthritis (RA), (ii) alone or as an adjunct to methotrexate treatment in patients with active psoriatic arthritis (PsA), (iii) as a single agent in patients with active ankylosing spondylitis (AS), and (iv) as a single agent in patients with moderate to severe ulcerative colitis (UC) who require chronic steroids or have experienced intolerance or only a partial response to previous medications. In the U.S. and Canada, golimumab is marketed under the brand name Simponi®. The FDA label includes a black box warning of serious infections and malignancy. Additionally in children and adolescents taking golimumab, there have been lymphoma and other malignancies observed.
+4. Indication:  Used in adults (i) as an adjunct to methotrexate treatment in patients with moderate to severe active rheumatoid arthritis (RA), (ii) alone or as an adjunct to methotrexate treatment in patients with active psoriatic arthritis (PsA), (iii) as a single agent in patients with active ankylosing spondylitis (AS), and (iv) as a single agent in patients with moderate to severe ulcerative colitis (UC) who require chronic steroids or have experienced intolerance or only a partial response to previous medications.

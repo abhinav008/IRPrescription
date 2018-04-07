@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Platinum
+2. Groups:  Investigational
+3. Description:  Platinum is under investigation for the treatment of Metastatic Breast Cancer, Non-small Cell Lung Cancer, Gastric Large Cell Neuroendocrine Carcinoma, Colorectal Large Cell Neuroendocrine Carcinoma, and Pancreatic Large Cell Neuroendocrine Carcinoma, among others. Platinum has been investigated for the treatment and supportive care of Ovarian Cancer, Fallopian Tube Cancer, Peritoneal Primary Cancer, Non Small Cell Lung Cancer, and Primary Peritoneal Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Trebananib
+2. Groups:  Investigational
+3. Description:  Trebananib is under investigation for the treatment of Ovarian Cancer, Peritoneal Cancer, and Fallopian Tube Cancer. Trebananib has been investigated for the treatment of Cancer, Oncology, Carcinoma, Metastases, and Colon Cancer, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Ralimetinib
+2. Groups:  Investigational
+3. Description:  Ralimetinib has been used in trials studying the treatment of Postmenopausal, Advanced Cancer, Adult Glioblastoma, Fallopian Tube Cancer, and Metastatic Breast Cancer, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Motolimod
+2. Groups:  Investigational
+3. Description:  Motolimod has been used in trials studying the treatment of Lymphoma, Tongue Cancer, Ovarian Cancer, Adult Solid Neoplasm, and Fallopian Tube Cancer, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Mirvetuximab Soravtansine
+2. Groups:  Investigational
+3. Description:  Mirvetuximab Soravtansine has been used in trials studying the treatment of Ovarian cancer, Endometrial Cancer, Fallopian tube cancer, Epithelial Ovarian Cancer, and Primary Peritoneal Cancer, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  LY-295501
+2. Groups:  Investigational
+3. Description:  ILX-295501 has been used in trials studying the treatment of Ovarian Cancer, Metastatic Cancer, Fallopian Tube Cancer, and Primary Peritoneal Cavity Cancer.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Saracatinib
+2. Groups:  Investigational
+3. Description:  Saracatinib has been investigated for the treatment of Cancer, Osteosarcoma, Ovarian Cancer, Fallopian Tube Cancer, and Primary Peritoneal Cancer.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  SJG-136
+2. Groups:  Investigational
+3. Description:  SJG-136 has been used in trials studying the treatment of Recurrent Fallopian Tube Cancer, Secondary Acute Myeloid Leukemia, de Novo Myelodysplastic Syndromes, Recurrent Ovarian Epithelial Cancer, and Secondary Myelodysplastic Syndromes, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  CP-547632
+2. Groups:  Investigational
+3. Description:  CP-547632 has been used in trials studying the treatment of Ovarian Cancer, Lung Neoplasms, Ovarian Neoplasms, Peritoneal Neoplasms, and Fallopian Tube Cancer, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Olaparib
+2. Groups:  Approved
+3. Description:  Olaparib is an inhibitor of poly (ADP-ribose) polymerase (PARP) enzymes, including PARP1, PARP2, and PARP3. PARP enzymes are involved in normal cellular homeostasis, such as DNA transcription, cell cycle regulation, and DNA repair. Olaparib has been shown to inhibit growth of select tumor cell lines in vitro and decrease tumor growth in mouse xenograft models of human cancer both as monotherapy or following platinum-based chemotherapy. Increased cytotoxicity and anti-tumor activity following treatment with olaparib were noted in cell lines and mouse tumor models with deficiencies in BRCA. In vitro studies have shown that olaparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complex, resulting in disruption of cellular homeostasis and cell death.Olaparib is available as oral tablets marketed under the brand name Lynparza and was initially indicated as a maintenance therapy or monotherapy for the treatment of adult patients with recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer. On January 12, 2018, FDA expanded the approved use of Lynparza to include chemotherapy-experienced patients with germline breast cancer susceptibility gene (BRCA) mutated, human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer. In a randomized clinical trial involving patients with HER2-negative metastatic breast cancer with a germline BRCA mutation, the median progression-free survival for patients taking Lynparza was 7 months compared to 4.2 months for patients taking chemotherapy only. Patient selection for this newly-approved indication can be performed based on an FDA-approved genetic test, called the BRACAnalysis CDx.
+4. Indication:  Indicated for the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube or primary peritoneal cancer, who are in a complete or partial response to platinum-based chemotherapy.Indicated as monotherapy in patients with deleterious or suspected deleterious germline BRCA mutated (as detected by an FDA-approved test) advanced ovarian cancer who have been treated with three or more prior lines of chemotherapy.Indicated for the treatment of patients with germline breast cancer susceptibility gene (BRCA) mutated, human epidermal growth factor receptor 2 (HER2)-negative metastatic breast cancer, who have been previously treated with chemotherapy.
+DrugId:  11
+1. Name:  Lucinactant
+2. Groups:  Approved, Investigational
+3. Description:  Lucinactant is a new synthetic peptide-containing surfactant for intratracheal use. It contains sinapultide, a novel, hydrophobic, 21-amino acid peptide (leucine and lysine repeating units, KL4 peptide) designed to mimic human surfactant protein-B (SB-P). More specifically, it mimics the C-terminal amphipathic helical domain of this protein. It also consists of phospholipids (dipalmitoylphosphatidylcholine, DPPC and palmitoyloleoyl phosphatidylglycerol, POPG) and a fatty acid (palmitic acid). It is completely devoid of animal-derived components. FDA approved on March 6, 2012.
+4. Indication:  Intended for the prevention of respiratory distress syndrome (RDS) in premature infants at high risk for RDS. 
+DrugId:  12
+1. Name:  Niraparib
+2. Groups:  Approved, Investigational
+3. Description:  Niraparib is an orally active PARP inhibitor developed by Tesaro to treat ovarian cancer. FDA approval on March 2017.
+4. Indication:  Niraparib is indicated for the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in complete or partial response to platinum-based chemotherapy
+DrugId:  13
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Levomefolic acid
+2. Groups:  Approved, Investigational
+3. Description:  Levomefolic acid (INN) is the metabolite of folic acid (Vitamin B9) and it is a predominant active form of folate found in foods and in the blood circulation, accounting for 98% of folates in human plasma [8]. It is transported across the membranes including the blood-brain barrier into various tissues where it plays an essential role in the DNA synthesis, cysteine cycle and regulation of homocysteine, where it methylates homocysteine and forms methionine and tetrahydrofolate (THF). Levomefolate is approved as a food additive and is designated a GRAS (generally regarded as safe) compound [13]. It is available commercially as a crystalline form of the calcium salt (Metafolin(R)), which has the stability required for use as a supplement [8]. Supplementation of levomefolic acid is desired over folic acid due to reduced potential for masking vitamin B12 deficiency symptoms.
+4. Indication:  For the treatment and prevention of folate deficiency and for use as an antidote against folic acid antagonists. Contained in oral contraceptives to reduce the risk of neural tube defects arising from folic acid deficiency for pregnant women who conceived during use or shortly after the discontinuation of the product. Being studied for use as a treatment for cardiovascular diseases [7] and adjunct therapy for patients undergoing antidepressant pharmacotherapy [5, 6].
+DrugId:  15
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  16
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  18
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  19
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  21
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  23
+1. Name:  humanized SMART Anti-IL-12 Antibody
+2. Groups:  Investigational
+3. Description:  The humanized anti-IL-12 antibody is an important addition to PDL's already strong pipeline of humanized antibodies being developed for the treatment of autoimmune diseases. SMART Anti-IL-12 Antibody was humanized at PDL from a murine anti-IL-12 antibody that was licensed, together with certain intellectual property related to anti-IL-12 therapy, from Hoffmann-La Roche Inc. IL-12 is a cytokine that may have considerable potential as a target in the therapy of autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  24
+1. Name:  Pumactant
+2. Groups:  Investigational
+3. Description:  Pumactant is a synthetic surfactant used for treating respiratory distress syndrome in neonates. It is a unique formulation of the naturally occurring phospholipids Dipalmitoylphosphatidycholine (DPPC) and Phosphatidyl Glycerol (PG).
+4. Indication:  Investigated for use/treatment in asthma, lung injury, and surgical adhesions.
+DrugId:  25
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).

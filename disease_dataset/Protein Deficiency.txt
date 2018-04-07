@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  2
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  3
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  4
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Coagulation Factor IX Human
+2. Groups:  Approved
+3. Description:  Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.
+4. Indication:  Factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection factor IX produced from human plasma. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.
+DrugId:  6
+1. Name:  Sacrosidase
+2. Groups:  Approved
+3. Description:  Sacrosidase is a liquid enzyme preparation from S.cerevisiae used for the treatment of congenital sucrose-isomaltase deficiency (CSID). People with CSID have variable amounts of sucrose-isomaltase enzyme activity and therefore have issues metabolizing dietary disaccharide sucrose causing chronic or intermittent watery diarrhea in infants and children. Treatment options for these patients are limited and usually consists of a lifelong sucrose-free diet; therefore, sacrosidase offers a potential alternative for symptom relief. 
+4. Indication:  For the treatment of congenital sucrose-isomaltase deficiency (CSID).
+DrugId:  7
+1. Name:  Imiglucerase
+2. Groups:  Approved
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  8
+1. Name:  Alglucerase
+2. Groups:  Approved, Investigational
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues.
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  9
+1. Name:  Efmoroctocog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Efmoroctocog alfa is a fully recombinant factor VIII-Fc fusion protein (rFVIIIFc) with an extended half-life compared with conventional factor VIII (FVIII) preparations, including recombinant FVIII (rFVIII) products such as Moroctocog alfa[1]. It is an antihemorrhagic agent used in replacement therapy for patients with haemophilia A (congenital factor VIII deficiency). It is suitable for all age groups. Haemophilia A is a rare bleeding disorder associated with a slow clotting process caused by the deficiency of factor VIII. Patients with this disorder are more susceptible to recurrent bleeding episodes and excessive bleeding following minor traumatic injuries or surgical procedures [1]. Prophylactic treatment may dramatically improve the management of severe haemophilia A in the future by reducing joint bleeding and other hemorrhages that cause chronic pain and disability to patients [1, 2]. Prophylaxis has also shown to reduce the formation of neutralizing anti-FVIII antibodies, or inhibitors [2]. Factor VIII is a blood coagulant factor involved in the intrinsic pathway to form fibrin, or a blood clot. Efmoroctocog alfa is a first commercially available rFVIII-Fc fusion protein (rFVIIIFc) where the conjugated molecule of rFVIII to polyethylene glycol is covalently fused to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein [FDA Label]. The B domain of factor VIII is deleted. In animal models of haemophilia, efmoroctocog alfa demonstrated an approximately two-fold longer t½ than commercially available rFVIII products [1].Other drug products with similar structure and function to Efmoroctocog alfa include Moroctocog alfa, which is produced by recombinant DNA technology and is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function, and Antihemophilic factor human, which is purified endogenous Factor VIII from human pooled blood and contains both A- and B-subunits. It is commonly marketed as Elocta or Eloctate for intravenous injection. To date, no confirmed inhibitory autoantibodies were seen in previously treated patients included in clinical studies and treatment-emergent adverse events were generally consistent with those expected in the patient populations being studied [1]. The extended half-life of efmoroctocog alfa provides several clinical benefits for patients, including reduced frequency of injections required and improved adherence to prophylaxis [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency) [FDA Label].
+DrugId:  10
+1. Name:  Antihemophilic Factor (Recombinant), PEGylated
+2. Groups:  Approved, Investigational
+3. Description:  Antihemophilic Factor (Recombinant), PEGylated, is a recombinant full-length human coagulation factor VIII (2,332 amino acids with a molecular weight (MW) of 280 kDa) covalently conjugated with at least one molecule of polyethylene glycol (MW 20 kDa). The therapeutic activity of Antihemophilic Factor (Recombinant), PEGylated is a derivative of its parent drug, Antihemophilic Factor (Recombinant). Antihemophilic Factor (Recombinant) is purified from the culture medium using several chromatography columns. The purification process includes immunoaffinity chromatography, in which a monoclonal antibody directed against factor VIII is promoted to selectively isolate the factor VIII from the medium. The production process includes a viral inactivation solvent-detergent treatment step. The Antihemophilic Factor (Recombinant) molecule is then covalently conjugated with the polyethylene glycol, which primarily targets lysine residues [FDA Label].Antihemophilic Factor (Recombinant), PEGylated, was approved by the FDA in November 2015 as the product Adynovate [FDA Label].PEGylation is the covalent attachment of a polyethylene glycol polymer, called PEG, to a drug or protein. It is believed that PEGylation reduces the binding of ADYNOVATE to the LRP1 clearance receptor, allowing for an increased duration of drug circulation in the plasma [6].
+4. Indication:  For the treatment of hemophilia A (congenital factor VIII deficiency) [FDA Label].This medication is a human antihemophilic factor indicated in adolescent and adult patients (12 years and older) with hemophilia A (congenital factor VIII deficiency). It is also used for on-demand treatment and control of bleeding and routine prophylaxis of bleeding episodes. It is not indicated for the treatment of von Willebrand disease [FDA Label].
+DrugId:  11
+1. Name:  rhMBL
+2. Groups:  Investigational
+3. Description:  rhMBL is a protein therapeutic being developed by Enzon for the prevention and treatment of severe infections in individuals with low levels of Mannose-Binding Lectin (MBL). Over 10 percent of the general population is estimated to be MBL-deficient. Natural MBL has an oligomeric structure (400-700 kDa), built of subunits that contain three identical peptide chains of 32 kDa each.Although MBL can form several oligomeric forms, there are indications that dimers and trimers are not biologically active and at least a tetramer form is needed for activation of complement.
+4. Indication:  Investigated for use/treatment in immunodeficiency and infectious and parasitic disease (unspecified).
+DrugId:  12
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  13
+1. Name:  Eftrenonacog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Eftrenonacog alfa is a long-acting recombinant fusion protein used in the treatment of hemophilia B. It is comprised of a single molecule of human factor IX (FIX) covalently linked to the constant region (Fc) domain of human IgG1 via recombinant DNA technology in a human embryonic kidney cell line (HEK293H) [1]. The presence of the Fc domain extends the terminal half-life which confers clinical benefits of prolonged therapeutic efficacy, less frequent intravenous injections for patient convenience and improved adherence to prophylaxis. Hemophilia B is a blood disorder with an incidence of approximately once every 30,000 male births in all populations and ethnic groups [2]. It is an X-linked genetic disease caused by mutation of the gene for coagulation protein factor IX (FIX), leading to decreased levels of endogenous factor IX and increased susceptibility to recurrent bleeding episodes caused spontaneously or as a result of accidental or surgical trauma [FDA Label]. When untreated, most patients die from bleeding complications before 25 years of age [2]. Eftrenonacog alfa acts as a replacement therapy to restore the levels of factor IX and allow normal hemostasis. Eftrenonacog alfa was developed and marketed as Alprolix for intravenous injection by Biogen. It was first approved by the FDA in March 2014 and later approved by the EMA in May 2016. Eftrenonacog alfa treatment demonstrated good tolerability with no reports of inhibitor development in clinical studies [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients of all age with haemophilia B (congenital factor IX deficiency).
+DrugId:  14
+1. Name:  Fibrinogen Human
+2. Groups:  Approved
+3. Description:  Fibrinogen concentrate (human) is a hematological agent. It works by replacing a certain protein in the blood that helps with blood clotting.Fibrinogen (factor I) is a soluble plasma glycoprotein with a molecular weight of about 340 kDa.It is a physiological substrate for three enzymes: plasmin, factor XIIIa and thrombin. it is indicated for the treatment of acute bleeding episodes in patients with congenital fibrinogen deficiency, including afibrinogenemia and hypofibrinogenemia.
+4. Indication:  For the treatment of acute bleeding episodes in patients with congenital fibrinogen deficiency, including afibrinogenemia and hypofibrinogenemia.
+DrugId:  15
+1. Name:  Iron Dextran
+2. Groups:  Approved, Vet approved
+3. Description:  Iron dextran is a dark brown, slightly viscous liquid complex of ferric hydroxide and dextran for intravenous or intramuscular use. Iron Dextran is used for the treatment of patients with documented iron deficiency in which oral administration is unsatisfactory or impossible. 
+4. Indication:  For treatment of patients with documented iron deficiency in whom oral administration is unsatisfactory or impossible. Also used to replenish body iron stores in Non-Dialysis Dependent-Chronic Kidney Disease (NDD-CKD) patients receiving or not receiving erythropoietin and in Hemodialysis Dependent (HDD-CKD) and Peritoneal Dialysis Dependent (PDD-CKD) - Chronic Kidney Disease patients receiving an erythropoietin.
+DrugId:  16
+1. Name:  Galsulfase
+2. Groups:  Approved, Investigational
+3. Description:  Galsufase is a variant form of the polymorphic human enzyme N-acetylgalactosamine 4-sulfatase of recombinant DNA origin. Galsulfase is a glycoprotein with a molecular weight of approximately 56 kD. The recombinant protein is comprised of 495 amino acids and contains six asparagine-linked glycosylation sites, four of which carry a bis mannose-6-phosphate manose7 oligosaccharide for specific cellular recognition. Post-translational modification of Cys53 produces the catalytic amino acid residue Ca-formylglycine, which is required for enzyme activity and is conserved in all members of the sulfatase enzyme family.
+4. Indication:  For the treatment of adults and children with Mucopolysaccharidosis VI.
+DrugId:  17
+1. Name:  PRO-542
+2. Groups:  Investigational
+3. Description:  PRO 542 belongs to a new class of drugs, viral-entry inhibitor, which is intended to prevent HIV from entering and infecting cells. PRO 542 (CD4-immunoglobulin G2) is a tetravalent CD4-immunoglobulin fusion protein that broadly neutralizes primary HIV-1 isolates. 
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, HIV infection, and pediatric indications.
+DrugId:  18
+1. Name:  Cupric Chloride
+2. Groups:  Approved, Investigational
+3. Description:  Cupric chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  19
+1. Name:  Menadione
+2. Groups:  Approved, Nutraceutical
+3. Description:  A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. [PubChem]
+4. Indication:  The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.
+DrugId:  20
+1. Name:  Coagulation Factor XIII A-Subunit (Recombinant)
+2. Groups:  Approved
+3. Description:  Coagulation Factor XIII A-Subunit (Recombinant), also known as catridecacog, is a recombinant form of the Factor XIII-A2 homodimer composed of two factor XIII (FXIII) A-subunits [FDA Label]. For people with congenital deficiency or mutation of Factor XIII, a rare bleeding disorder, exogenous replacement of this key coagulation factor is essential for management and prevention of bleeding episodes. Also known as Fibrin Stabilizing Factor (FSF), Factor XIII is an endogenously available coagulation factor and the final enzyme within the blood coagulation cascade. Within the body, FXIII circulates as a heterotetramer composed of 2 catalytic A-subunits and 2 non-catalytic B-subunits (FXIII-A2B2) [4]. When activated by thrombin at the site of injury, the FXIII A2B2 pro-enzyme is cleaved resulting in activation of the catalytic A-subunit and dissociation from its carrier B-subunit. As a result, the active transglutaminase from subunit A cross-links fibrin and other proteins resulting in increased mechanical strength and resistance to fibrinolysis of the fibrin clot. This contributes to enhanced platelet and clot adhesion to injured tissue, thereby improving blood coagulation and maintenance of hemostasis [2].When supplied as the recombinant form, Coagulation Factor XIII A-Subunit (Recombinant) binds to free human FXIII B-subunit resulting in a heterotetramer (rA2B2) with a similar activity profile and half-life as the endogenously available form. In patients with congenital factor XIII A-subunit deficiency, this product (marketed as Tretten) is indicated for the routine prophylaxis of bleeding. In these patients, activated rFXIII has been shown to increase the mechanical strength of fibrin clots, slow down fibrinolysis, and to enhance platelet adhesion to the site of injury. As the half-life of endogenous Factor XIII is long (5-11 days), prophylactic therapy with the replacement of FXIII can be given every 4-6 to maintain hemostasis[4]. Other drug products with similar structure and function to Coagulation Factor XIII A-Subunit (Recombinant) include Factor XIII (human), which is a purified endogenous (human) form of coagulation factor XIII. Compared to Coagulation Factor XIII A-Subunit (Recombinant), which is produced through recombinant DNA technology where the target protein is grown in yeast and then isolated, the human form is isolated from pooled human plasma.Coagulation Factor XIII A-Subunit (Recombinant) is available in the US as the commmercially available product Tretten, and in the EU as NovoThirteen. Tretten is manufactured as an intracellular, soluble protein in yeast (Saccharomyces cerevisiae) production strain containing the episomal expression vector, pD16. It is subsequently isolated by homogenization of cells and purification by several chromatography steps, including hydrophobic interaction and ion exchange chromatography [FDA Label].
+4. Indication:  For routine prophylaxis of bleeding in patients with congenital factor XIII A-Subunit deficiency.
+DrugId:  21
+1. Name:  Mecasermin
+2. Groups:  Approved, Investigational
+3. Description:  Mecasermin contains recombinant-DNA-engineered human insulin-like growth factor-1 (rhIGF-1). IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesized in bacteria (E. coli) that have been modified by the addition of the gene for human IGF-1.
+4. Indication:  For the long-term treatment of growth failure in pediatric patients with Primary IGFD or with GH gene deletion who have developed neutralizing antibodies to GH. It is not indicated to treat Secondary IGFD resulting from GH deficiency, malnutrition, hypothyroidism or other causes; it is not a substitute for GH therapy.
+DrugId:  22
+1. Name:  Nusinersen
+2. Groups:  Approved, Investigational
+3. Description:  An antisense oligonucleotide that induces survival motor neuron (SMN) protein expression, it was approved by the U.S. FDA in December, 2016 as Spinraza for the treatment of children and adults with spinal muscular atrophy (SMA). It is adminstrated as direct intrathecal injection.
+4. Indication:  Indicated for the treatment of spinal muscular atrophy (SMA) in pediatric and adult patients. 
+DrugId:  23
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Hydroxocobalamin
+2. Groups:  Approved
+3. Description:  Hydroxocobalamin, also known as vitamin B12a and hydroxycobalamin, is an injectable form of vitamin B 12 that has been used therapeutically to treat vitamin B 12 deficiency. Other uses include cyanide poisoning, Leber's optic atrophy, and toxic amblyopia.
+4. Indication:  For treatment of pernicious anemia and the prevention and treatment of vitamin B12 deficiency arising from alcoholism, malabsorption, tapeworm infestation, celiac, hyperthyroidism, hepatic-biliary tract disease, persistent diarrhea, ileal resection, pancreatic cancer, renal disease, prolonged stress, vegan diets, macrobiotic diets or other restrictive diets. Also for the treatment of known or suspected cyanide poisoning.
+DrugId:  25
+1. Name:  Metreleptin
+2. Groups:  Approved
+3. Description:  Metreleptin, a recombinant analog of the human hormone leptin, is an orphan drug used to treat complications of leptin deficiency in people with congenital or acquired lipodystrophy. Affecting less than 500 people worldwide, lipodystrophy is characterized by a lack of adipose tissue, fat deposition in the muscles and liver, and metabolic complications such as hypertriglyceridemia, insulin resistance, diabetes mellitus, and fatty liver disease. These metabolic abnormalities are often aggravated by excessive food intake, which is further aggravated by leptin deficiency, a protein secreted by adipose tissue. Administration of Metreleptin results in improvement of metabolic symptoms including improvements in insulin resistance, reduced HbA1c and fasting glucose, reduced triglycerides, and reductions in food intake. Metreleptin is produced in E. coli and differs from native human leptin by the addition of a methionine residue at its amino terminus. It is administered as a once daily subcutaneous injection. On Feb. 24, 2014, Metreleptin was approved by the FDA for the treatment of complications of leptin deficiency, in addition to diet, in patients with congenital generalized or acquired generalized lipodystrophy. Metreleptin is marketed under the brand Myalept® by Aegerion Pharmaceuticals, Inc.
+4. Indication:  Metreleptin is indicated as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy.

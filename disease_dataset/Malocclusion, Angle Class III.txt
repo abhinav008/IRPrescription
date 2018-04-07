@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ibutilide
+2. Groups:  Approved
+3. Description:  Ibutilide is a Class III antiarrhythmic agent that is indicated for acute cardioconversion of atrial fibrillation and atrial flutter of a recent onset to sinus rhythm.
+4. Indication:  Indicated for the rapid conversion of atrial fibrillation or atrial flutter of recent onset to sinus rhythm.
+DrugId:  2
+1. Name:  Dofetilide
+2. Groups:  Approved, Investigational
+3. Description:  Dofetilide is a class III antiarrhythmic agent that is approved by the Food and Drug Administration (FDA) for the maintenance of sinus rhythm in individuals prone to the formation of atrial fibrillation and flutter, and for the chemical cardioversion to sinus rhythm from atrial fibrillation and flutter.
+4. Indication:  For the maintenance of normal sinus rhythm (delay in time to recurrence of atrial fibrillation/atrial flutter [AF/AFl]) in patients with atrial fibrillation/atrial flutter of greater than one week duration who have been converted to normal sinus rhythm
+DrugId:  3
+1. Name:  Bamosiran
+2. Groups:  Investigational
+3. Description:  Bamosiran has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, and Open Angle Glaucoma.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Tedisamil
+2. Groups:  Investigational
+3. Description:  Tedisamil (planned trade name Pulzium) is an investigational drug for atrial fibrillation and atrial flutter. It is currently being developed by Solvay and is currently under regulatory review by the United States Food and Drug Administration.
+4. Indication:  Investigated for use/treatment in arrhythmia, atrial fibrillation, and angina.
+DrugId:  5
+1. Name:  Sparteine
+2. Groups:  Experimental
+3. Description:  Sparteine is a class 1a antiarrhythmic agent; a sodium channel blocker. It is an alkaloid and can be extracted from scotch broom. It is the predominant alkaloid in Lupinus mutabilis, and is thought to chelate the bivalents calcium and magnesium. It is not FDA approved for human use as an antiarrhythmic agent, and it is not included in the Vaughn Williams classification of antiarrhythmic drugs.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Aprindine
+2. Groups:  Approved
+3. Description:  A cardiac depressant used in arrhythmias. [PubChem]
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Ajmaline
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid found in the root of Rauwolfia serpentina, among other plant sources. It is a class Ia antiarrhythmic agent that apparently acts by changing the shape and threshold of cardiac action potentials. Ajmaline produces potent sodium channel blocking effects and a very short half-life which makes it a very useful drug for acute intravenous treatments. The drug has been very popular in some countries for the treatment of atrial fibrillation in patients with the Wolff–Parkinson–White syndrome and in well tolerated monomorphic ventricular tachycardias. It has also been used for many years as a drug to challenge the conduction system of the heart in cases of bundle branch block and syncope. In these cases, abnormal prolongation of the HV interval has been taken as a proof for infrahisian conduction defects tributary for permanent pacemaker implantation.
+4. Indication:  For use as an antiarrhythmic agent.
+DrugId:  8
+1. Name:  Azimilide
+2. Groups:  Investigational
+3. Description:  Azimilide is an investigational class III anti-arrhythmic drug that blocks fast and slow components of the delayed rectifier cardiac potassium channels. It is not approved for use in any country, but is currently in clinical trials in the United States.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  9
+1. Name:  Latanoprostene Bunod
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprostene Bunod has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, Open-Angle Glaucoma, Open Angle Glaucoma, and Intraocular Pressure.As of November 2, 2017 the FDA approved Bausch + Lomb's Vyzulta (latanoprostene bunod opthalmic solution), 0.024% for the indication of reducing intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Latanoprostene bunod is the first prostaglandin analog with one of its metabolites being nitric oxide (NO). The novelty of this agent subsequently lies in the proposed dual mechanism of action that stems from both its prostaglandin F2-alpha analog latanoprost acid metabolite and its ability to donate NO for proposed tissue/cell relaxation effects.In comparison, both latanoprost and latanoprostene bunod contain a latanoprost acid backbone. Conversely however, latanoprostene bunod integrates an NO-donating moiety in lieu of the isopropyl ester typically found in latanoprost.
+4. Indication:  Latanoprostene bunod opthalmic solution is indicated for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  10
+1. Name:  Tocainide
+2. Groups:  Approved
+3. Description:  An antiarrhythmic agent which exerts a potential- and frequency-dependent block of sodium channels. [PubChem]
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, that, in the judgment of the physician, are life-threatening.
+DrugId:  11
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  12
+1. Name:  Dronedarone
+2. Groups:  Approved
+3. Description:  Dronedarone is a sinus rhythm controller for management of paroxysmal or persistent atrial fibrillation. Classified as a Class III antiarrhythmic but displays properties of all four Vaughan-Williams classes, dronedarone blocks a multitude of channels (sodium, potassium, calcium), and demonstrates antiadrenergic properties. Chemically, it is a benzofuran derivative. FDA approved on July 1, 2009. 
+4. Indication:  Management of paroxysmal or persistent atrial fibrillation via restoration of normal sinus rhythm. 
+DrugId:  13
+1. Name:  Vernakalant
+2. Groups:  Approved, Investigational
+3. Description:  Vernakalant was developed by Cardiome Pharma as as an antiarrhythmic drug intended for rapid conversion of atrial fibrillation to sinus rhythm. It acts as an atypical class III antiarrhythmic drug that potentiates its effect in higher heart rates. Intravenous formulation was approved in Europe in September 2010 as Brinavess and in Canada in April 2017. It is an investigational drug under regulatory review by FDA.
+4. Indication:  Indicated for the rapid conversion of recent onset of atrial fibrillation to sinus rhythm in adults for non-surgery patients that lasts for less than 7 days of duration and post-cardiac surgery patients with atrial fibrillation lasting less than 3 days of duration.
+DrugId:  14
+1. Name:  Amiodarone
+2. Groups:  Approved, Investigational
+3. Description:  An antianginal and antiarrhythmic drug. It increases the duration of ventricular and atrial muscle action by inhibiting Na,K-activated myocardial adenosine triphosphatase. There is a resulting decrease in heart rate and in vascular resistance. [PubChem]
+4. Indication:  Intravenously, for initiation of treatment and prophylaxis of frequently recurring ventricular fibrillation and hemodynamically unstable ventricular tachycardia in patients refractory to other therapy. Orally, for the treatment of life-threatening recurrent ventricular arrhythmias such as recurrent ventricular fibrillation and recurrent hemodynamically unstable ventricular tachycardia.
+DrugId:  15
+1. Name:  Licofelone
+2. Groups:  Investigational
+3. Description:  Developed by the German pharmaceutical company, Merckle GmbH, together with EuroAlliance partners Alfa Wassermann and Lacer, licofelone (ML3000) is a dual COX/LOX inhibitor and the first member of this new class of analgesic and anti-inflammatory drugs. It is currently under evaluation as a treatment for osteoarthritis (OA), the most common form of arthritis. Although phase III trials have been successfully completed in OA patients no dates for regulatory submission have yet been given.
+4. Indication:  For the management of osteoarthritis.
+DrugId:  16
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  17
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  18
+1. Name:  Diclofenamide
+2. Groups:  Approved, Investigational
+3. Description:  A carbonic anhydrase inhibitor that is used in the treatment of glaucoma. [PubChem]
+4. Indication:  For adjunctive treatment of: chronic simple (open-angle) glaucoma, secondary glaucoma, and preoperatively in acute angle-closure glaucoma where delay of surgery is desired in order to lower intraocular pressure
+DrugId:  19
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  20
+1. Name:  Phendimetrazine
+2. Groups:  Approved, Illicit
+3. Description:  Phendimetrazine is a weight loss medication. Phendimetrazine is chemically related to amphetamines and is a Schedule III drug under the Convention on Psychotropic Substances. In the United States, phendimetrazine is a Schedule III controlled substance under the Uniform Controlled Substances Act of 1970.
+4. Indication:  Used in the management of exogenous obesity as a short term adjunct (a few weeks) in a regimen of weight reduction based on caloric restriction.
+DrugId:  21
+1. Name:  Disopyramide
+2. Groups:  Approved
+3. Description:  A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.
+DrugId:  22
+1. Name:  Riociguat
+2. Groups:  Approved
+3. Description:  Riociguat is a soluble guanylate cyclase (sGC) agonist approved in the USA, Europe and several other regions for patients with group I PAH (pulmonary arterial hypertension) in WHO FC II or III; and for the treatment of patients with inoperable CTEPH (chronic thromboembolic pulmonary hypertension), or persistent/recurrent PH (pulmonary hypertension) after pulmonary endarterectomy in WHO FC II or III. Riociguat is marketed under the brand Adempas® by Bayer HealthCare Pharmaceuticals. Treatment with riociguat costs USD $7,500 for 30 days of treatment. 
+4. Indication:  Riociguat is indicated for the treatment of adults with persistent/recurrent chronic thromboembolic pulmonary hypertension (CTEPH), (WHO Group 4) after surgical treatment, or inoperable CTEPH, to improve exercise capacity and WHO functional class.Riociguat is indicated for the treatment of adults with pulmonary arterial hypertension (PAH), (WHO Group 1), to improve exercise capacity, WHO functional class and to delay clinical worsening. Efficacy was shown in patients on Riociguat monotherapy or in combination with endothelin receptor antagonists or prostanoids. Studies establishing effectiveness included predominately patients with WHO functional class II–III and etiologies of idiopathic or heritable PAH (61%) or PAH associated with connective tissue diseases (25%).
+DrugId:  23
+1. Name:  Dipivefrin
+2. Groups:  Approved
+3. Description:  Dipivefrin is a prodrug of adrenaline, which is used to treat glaucoma. It is available as ophthalmic solution (eye drops).
+4. Indication:  Dipivefrin is a prodrug which is used as initial therapy for the control of intraocular pressure in chronic open-angle glaucoma.
+DrugId:  24
+1. Name:  Mexiletine
+2. Groups:  Approved, Investigational
+3. Description:  Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties. [PubChem]
+4. Indication:  For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.
+DrugId:  25
+1. Name:  Lumateperone
+2. Groups:  Investigational
+3. Description:  Lumateperone (ITI-722/ITI-007) is a novel, first-in-class dual 5HT2A receptor antagonist/dopamine phosphoprotein modulator (DPPM) for schizophrenia. It is an orally available compound which combines potent 5HT2A receptor antagonism with cell-type-specific modulation of phosphoprotein pathways downstream of dopamine receptors. As of May 2015, Lumateperone is in phase III clinical trials for schizophrenia.
+4. Indication:  Investigated for use/treatment in schizophrenia and schizoaffective disorders.

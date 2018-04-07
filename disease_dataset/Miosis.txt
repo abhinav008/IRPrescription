@@ -1,0 +1,85 @@
+DrugId:  1
+1. Name:  Demecarium
+2. Groups:  Approved
+3. Description:  Demecarium is an indirect-acting parasympathomimetic agent that is used to treat glaucoma. It is a cholinesterase inhibitor or an anticholinesterase. Cholinesterase inhibitors prolong the effect of acetylcholine, which is released at the neuroeffector junction of parasympathetic postganglion nerves, by inactivating the cholinesterases that break it down. Demecarium inactivates both pseudocholinesterase and acetylcholinesterase. In the eye, this causes constriction of the iris sphincter muscle (causing miosis) and the ciliary muscle. The outflow of the aqueous humor is facilitated, which leads to a reduction in intraocular pressure.
+4. Indication:  For the topical treatment of chronic open-angle glaucoma.
+DrugId:  2
+1. Name:  Acetylcholine
+2. Groups:  Approved
+3. Description:  A neurotransmitter. Acetylcholine in vertebrates is the major transmitter at neuromuscular junctions, autonomic ganglia, parasympathetic effector junctions, a subset of sympathetic effector junctions, and at many sites in the central nervous system. It is generally not used as an administered drug because it is broken down very rapidly by cholinesterases, but it is useful in some ophthalmological applications. [PubChem]
+4. Indication:  Used to obtain miosis of the iris in seconds after delivery of the lens in cataract surgery, in penetrating keratoplasty, iridectomy and other anterior segment surgery where rapid miosis may be required.
+DrugId:  3
+1. Name:  Dapiprazole
+2. Groups:  Approved
+3. Description:  Dapiprazole (U.S. trade name Rev-Eyes) is an alpha blocker. It is used to reverse mydriasis after eye examination. [Wikipedia]
+4. Indication:  Used in the treatment of iatrogenically induced mydriasis produced by adrenergic (phenylephrine) or parasympatholytic (tropicamide) agents used in certain eye examinations.
+DrugId:  4
+1. Name:  Apraclonidine
+2. Groups:  Approved
+3. Description:  Apraclonidine, also known as iopidine, is a sympathomimetic used in glaucoma therapy. It is an alpha2-adrenergic agonist.
+4. Indication:  For prevention or reduction of intraoperative and postoperative increases in intraocular pressure (IOP) before and after ocular laser surgery when used prophylactically. Also used as a short-term adjunctive therapy in patients with open-angle glaucoma who are on maximally tolerated medical therapy requiring additional IOP reduction.
+DrugId:  5
+1. Name:  Flurbiprofen
+2. Groups:  Approved, Investigational
+3. Description:  Flurbiprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with antipyretic and analgesic activity. Oral formulations of flurbiprofen may be used for the symptomatic treatment of rheumatoid arthritis, osteoarthritis and anklylosing spondylitis. Flurbiprofen may also be used topically prior to ocular surgery to prevent or reduce intraoperative miosis. Flurbiprofen is structurally and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen.
+4. Indication:  Flurbiprofen tablets are indicated for the acute or long-term symptomatic treatment of rheumatoid arthritis, osteorarthritis and anklosing spondylitis. It may also be used to treat pain associated with dysmenorrhea and mild to moderate pain accompanied by inflammation (e.g. bursitis, tendonitis, soft tissue trauma). Topical ophthalmic formulations may be used pre-operatively to prevent intraoperative miosis. 
+DrugId:  6
+1. Name:  Echothiophate
+2. Groups:  Approved
+3. Description:  A potent, long-acting irreversible cholinesterase inhibitor used as an ocular hypertensive in the treatment of glaucoma. Occasionally used for accomodative esotropia.
+4. Indication:  For use in the treatment of subacute or chronic angle-closure glaucoma after iridectomy or where surgery is refused or contraindicated.
+DrugId:  7
+1. Name:  Carbachol
+2. Groups:  Approved
+3. Description:  A slowly hydrolyzed cholinergic agonist that acts at both muscarinic and nicotinic receptors.
+4. Indication:  Primarily used in the treatment of glaucoma, but is also used during ophthalmic surgery.
+DrugId:  8
+1. Name:  Carteolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used as an anti-arrhythmia agent, an anti-angina agent, an antihypertensive agent, and an antiglaucoma agent. [PubChem]
+4. Indication:  For the treatment of intraocular hypertension and chronic open-angle glaucoma
+DrugId:  9
+1. Name:  Suprofen
+2. Groups:  Approved, Withdrawn
+3. Description:  An ibuprofen-type anti-inflammatory analgesic and antipyretic. It inhibits prostaglandin synthesis and has been proposed as an anti-arthritic. It is no longer approved for use in the United States.
+4. Indication:  Used as eye drops to inhibit the miosis (pupil constriction) that may occur during ocular surgery.
+DrugId:  10
+1. Name:  Ergonovine
+2. Groups:  Approved
+3. Description:  An ergot alkaloid with uterine and vascular smooth muscle contractile properties.
+4. Indication:  Used to treat postpartum haemorrhage and postabortion haemorrhage in patients with uterine atony. 
+DrugId:  11
+1. Name:  Metipranolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist effective for both beta-1 and beta-2 receptors. It is used as an antiarrhythmic, antihypertensive, and antiglaucoma agent. [PubChem]
+4. Indication:  Indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open angle glaucoma.
+DrugId:  12
+1. Name:  Nizatidine
+2. Groups:  Approved
+3. Description:  A histamine H2 receptor antagonist with low toxicity that inhibits gastric acid secretion. The drug is used for the treatment of duodenal ulcers. [PubChem]
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, active benign gastric ulcer, and active duodenal ulcer.
+DrugId:  13
+1. Name:  Hydromorphone
+2. Groups:  Approved, Illicit
+3. Description:  An opioid analgesic derived from morphine and used mainly as an analgesic. It has a shorter duration of action and is more potent than morphine. [PubChem]
+4. Indication:  For the relief of moderate to severe pain such as that due to surgery, cancer, trauma/injury, or burns.
+DrugId:  14
+1. Name:  Pilocarpine
+2. Groups:  Approved, Investigational
+3. Description:  A slowly hydrolyzed muscarinic agonist with no nicotinic effects. Pilocarpine is used as a miotic and in the treatment of glaucoma. [PubChem]
+4. Indication:  For the treatment of radiation-induced dry mouth (xerostomia) and symptoms of dry mouth in patients with Sjögrens syndrome.
+DrugId:  15
+1. Name:  Naltrexone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Derivative of noroxymorphone that is the N-cyclopropylmethyl congener of naloxone. It is a narcotic antagonist that is effective orally, longer lasting and more potent than naloxone, and has been proposed for the treatment of heroin addiction. The FDA has approved naltrexone for the treatment of alcohol dependence.
+4. Indication:  Used as an adjunct to a medically supervised behaviour modification program in the maintenance of opiate cessation in individuals who were formerly physically dependent on opiates and who have successfully undergone detoxification. Also used for the management of alcohol dependence in conjunction with a behavioural modification program.
+DrugId:  16
+1. Name:  Hydrocodone
+2. Groups:  Approved, Illicit
+3. Description:  Narcotic analgesic related to codeine, but more potent and more addicting by weight. It is used also as cough suppressant.
+4. Indication:  For relief of moderate to moderately severe pain. Also used for the symptomatic relief of nonproductive cough, alone or in combination with other antitussives or expectorants.
+DrugId:  17
+1. Name:  Codeine
+2. Groups:  Approved, Illicit
+3. Description:  An opioid analgesic related to morphine but with less potent analgesic properties and mild sedative effects. It also acts centrally to suppress cough.
+4. Indication:  For treatment and management of pain (systemic). It is also used as an antidiarrheal and as a cough suppressant.

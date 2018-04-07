@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Certoparin
+2. Groups:  Approved, Investigational
+3. Description:  Certoparin is a low molecular weight heparin, primarily active against factor Xa. Like other low molecular weight heparins, it is used to prevent deep venous thrombosis.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  2
+1. Name:  Parnaparin
+2. Groups:  Approved, Investigational
+3. Description:  Parnaparin is an antithrombotic and belongs to the group of low molecular weight heparins.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  3
+1. Name:  Anistreplase
+2. Groups:  Approved
+3. Description:  Human tissue plasminogen activator, purified, glycosylated, 527 residues purified from CHO cells. Eminase is a lyophilized (freeze-dried) formulation of anistreplase, the p-anisoyl derivative of the primary Lys-plasminogen-streptokinase activator complex (a complex of Lys-plasminogen and streptokinase). A p-anisoyl group is chemically conjugated to a complex of bacterial-derived streptokinase and human Plasma-derived Lys-plasminogen proteins.
+4. Indication:  For lysis of acute pulmonary emboli, intracoronary emboli and management of myocardial infarction
+DrugId:  4
+1. Name:  Streptokinase
+2. Groups:  Approved, Investigational
+3. Description:  Streptokinase, is a sterile, purified preparation of a bacterial protein elaborated by group C (beta) -hemolytic streptococci.
+4. Indication:  For the treatment of acute evolving transmural myocardial infarction, pulmonary embolism, deep vein thrombosis, arterial thrombosis or emolism and occlusion of arteriovenous cannulae
+DrugId:  5
+1. Name:  Reteplase
+2. Groups:  Approved, Investigational
+3. Description:  Human tissue plasminogen activator, purified, glycosylated, 355 residues purified from CHO cells. Retavase is considered a "third-generation" thrombolytic agent, genetically engineered to retain and delete certain portions of human tPA. Retavase is a deletion mutein of human tPA formed by deleting various amino acids present in endogenous human tPA. Retavase contains 355 of the 527 amino acids of native human tPA (amino acids 1-3 and 176-527), and retains the activity-related kringle-2 and serine protease domains of human tPA. Three domains are deleted from retavase - kringle-1, finger, and epidermal growth factor (EGF).
+4. Indication:  For lysis of acute pulmonary emboli, intracoronary emboli and management of myocardial infarction
+DrugId:  6
+1. Name:  Alteplase
+2. Groups:  Approved
+3. Description:  Human tissue plasminogen activator, purified, glycosylated, 527 residues purified from CHO cells
+4. Indication:  For management of acute myocardial infarction, acute ischemic strok and for lysis of acute pulmonary emboli
+DrugId:  7
+1. Name:  Enoxaparin
+2. Groups:  Approved
+3. Description:  Enoxaparin is a low molecular weight heparin. Enoxaparin is used to prevent and treat deep vein thrombosis or pulmonary embolism, and is given as a subcutaneous injection. Enoxaparin binds to and accelerates the activity of antithrombin III. By activating antithrombin III, enoxaparin preferentially potentiates the inhibition of coagulation factors Xa and IIa. Factor Xa catalyzes the conversion of prothrombin to thrombin, so enoxaparin's inhibition of this process results in decreased thrombin and ultimately the prevention of fibrin clot formation. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  For the prophylaxis of deep vein thrombosis, which may lead to pulmonary embolism, and also for the prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin.
+DrugId:  8
+1. Name:  Molsidomine
+2. Groups:  Approved, Investigational
+3. Description:  Molsidomine is an orally active, long-acting vasodilator, which belongs to the class of medications known as syndnones.Interestingly, it is being studied as being a preventive measure in cerebral infarction [1].
+4. Indication:  The indications for use of molsidomine include ischemic heart disease, angina, chronic heart failure, and pulmonary hypertension [9, 10].
+DrugId:  9
+1. Name:  ADC4022
+2. Groups:  Investigational
+3. Description:  ADC4022 is an investigational medicine for the treatment of Chronic Obstructive Pulmonary Disease (COPD) and severe asthma.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  10
+1. Name:  Nintedanib
+2. Groups:  Approved
+3. Description:  Nintedanib is a drug indicated for the treatment of idiopathic pulmonary fibrosis (IPF) that targets multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs). Nintedanib inhibits the following RTKs: platelet-derived growth factor receptor (PDGFR) α and β, fibroblast growth factor receptor (FGFR) 1-3, vascular endothelial growth factor receptor (VEGFR) 1-3, and Fms-like tyrosine kinase-3 (FLT3). Among them, FGFR, PDGFR, and VEGFR have been implicated in IPF pathogenesis. Nintedanib binds competitively to the adenosine triphosphate (ATP) binding pocket of these receptors and blocks the intracellular signaling which is crucial for the proliferation, migration, and transformation of fibroblasts representing essential mechanisms of the IPF pathology. In addition, nintedanib inhibits the following nRTKs: Lck, Lyn and Src kinases. The contribution of FLT3 and nRTK inhibition to IPF efficacy is unknown.Idiopathic pulmonary fibrosis (IPF) is a progressive and ultimately fatal lung disease characterized by a progressive loss of lung function with worsening dyspnoea and cough. Development is thought to be instigated by repetitive lung injury (such as by cigarette smoke, industrial dusts, gastrooesophageal reflux and viral infection) leading to destruction of epithelial alveolar cells. Subsequent dysregulation of the repair process results in the proliferation/migration of fibroblasts and their differentiation into myofibroblasts, abnormal extracellular matrix deposition and excessive collagen accumulation in the lung interstitium and alveolar space, leading to progressive fibrosis and stiffening of the lungs. Vascular endothelial growth factor (VEGF), fibroblast growth factor (FGF) and platelet-derived growth factor (PDGF) mediate various processes, including fibrogenesis and angiogenesis, and are implicated in the pathogenesis of IPF. By blocking substrate binding and downstream signalling cascades, nintedanib interferes with processes active in fibrosis such as fibroblast proliferation, migration and differentiation, and the secretion of extracellular matrix.
+4. Indication:  Nintedanib is indicated for the treatment of idiopathic pulmonary fibrosis (IPF).
+DrugId:  11
+1. Name:  Heroin
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  A narcotic analgesic that may be habit-forming. It is a controlled substance (opium derivative) listed in the U.S. Code of Federal Regulations, Title 21 Parts 329.1, 1308.11 (1987). Sale is forbidden in the United States by Federal statute. (Merck Index, 11th ed) Internationally, heroin is controlled under Schedules I and IV of the Single Convention on Narcotic Drugs. It is illegal to manufacture, possess, or sell heroin in the United States and the UK. However, under the name diamorphine, heroin is a legal prescription drug in the United Kingdom.
+4. Indication:  Used in the treatment of acute pain, myocardial infarction, acute pulmonary oedema, and chronic pain.
+DrugId:  12
+1. Name:  ALKS 27
+2. Groups:  Investigational
+3. Description:  ALKS 27 is an inhaled formulation of trospium chloride for the treatment of chronic obstructive pulmonary disease (COPD). Study showed that ALKS 27 was well-tolerated over a wide dose range, with no dose-limited effects observed.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  13
+1. Name:  NCX 950
+2. Groups:  Investigational
+3. Description:  NCX 950, beta2-adrenoceptor agonists is widely used in the treatment of pulmonary diseases.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  14
+1. Name:  Acenocoumarol
+2. Groups:  Approved, Investigational
+3. Description:  Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, XI and X, and interferes with coagulation. Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood. 
+4. Indication:  For the treatment and prevention of thromboembolic diseases. More specifically, it is indicated for the for the prevention of cerebral embolism, deep vein thrombosis, pulmonary embolism, thromboembolism in infarction and transient ischemic attacks. It is used for the treatment of deep vein thrombosis and myocardial infarction.
+DrugId:  15
+1. Name:  Amediplase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in myocardial infarction and thrombosis.
+DrugId:  16
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  17
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  18
+1. Name:  Mesenchymal Stem Cells
+2. Groups:  Investigational
+3. Description:  Mesenchymal stem cells (MSCs) from healthy donors improve cardiac function in experimental acute myocardial infarction (AMI) models. Osiris' stem cells are derived from human bone marrow. The source marrow is voluntarily donated by healthy adults between the ages of 18 and 30 years. Blood samples from the donor are screened prior to donation for transmissible diseases, including HIV and hepatitis, and the medical and social history of each donor is obtained to ascertain whether signs, symptoms or behaviors consistent with high risk for carrying a disease are present.
+4. Indication:  Investigated for use/treatment in heart disease and myocardial infarction.
+DrugId:  19
+1. Name:  99mTc-glucarate
+2. Groups:  Investigational
+3. Description:  99mTc-glucarate(GLA) is an agent for non-invasive detection of breast tumours.
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  20
+1. Name:  Inclacumab
+2. Groups:  Investigational
+3. Description:  Inclacumab has been used in trials studying the treatment and prevention of Myocardial Infarction, Peripheral Arterial Disease (PAD), and Coronary Heart Disease, Graft Occlusion, Vascular.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  BTA798
+2. Groups:  Investigational
+3. Description:  BTA798 is an antiviral for the treatment of HRV, the common cold virus, known to cause significant clinical complications in sufferers of Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  22
+1. Name:  MLN-977
+2. Groups:  Investigational
+3. Description:  MLN-977 is a small molecule compound that inhibits the production of leukotrienes, especially 5-lipoxygenase. It is developed by PharmaEngine to treat asthma and chronic obstructive pulmonary disease. 
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  23
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  24
+1. Name:  Strontium ranelate
+2. Groups:  Approved, Withdrawn
+3. Description:  Strontium ranelate, a strontium (II) salt of ranelic acid, is a medication for osteoporosis. Studies indicate it can also slow the course of osteoarthritis of the knee. The drug is unusual in that it both increases deposition of new bone by osteoblasts and reduces the resorption of bone by osteoclasts. It is therefore promoted as a "dual action bone agent" (DABA) indicated for use in treatment of severe osteoporosis.Furthermore, various clinical studies demonstrate the ability of strontium ranelate to improve and strengthen intrinsic bone tissue quality and microarchitecture in osteoporosis by way of a number of cellular and microstructural changes by which anti-fracture efficacy is enhanced.Available for prescription use for a time in some parts of the world as Protelos (strontium ranelate) 2 g granules for oral suspension by Servier, it was ultimately discontinued in 2016-2017 owing to an increased adverse cardiac effects profile along with increased risk of venous thromboembolism (VTE) and various life threatening allergic reactions.
+4. Indication:  Strontium ranelate is therapeutically indicated for the treatement of severe osteoperosis in: a) postmenopasual women, and b) adult men, who are at high risk of fractures, for whom treatment with other medical products approved for the treatment of osteoperosis is not possible due to, for example, contraindications or intolerance. [6]In postmenopausal women, strontium ranelate can also reduce the risk of vertebral and hip fractures [6].
+DrugId:  25
+1. Name:  Lanoteplase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in myocardial infarction.

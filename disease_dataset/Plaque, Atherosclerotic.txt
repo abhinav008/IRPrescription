@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Succinobucol
+2. Groups:  Investigational
+3. Description:  AGI-1067, is a novel small molecule with anti-oxidant and anti-inflammatory properties that was discovered by AtheroGenics and designed to treat atherosclerosis of the blood vessels of the heart, or coronary artery disease.
+4. Indication:  Investigated for use/treatment in atherosclerosis, coronary artery disease, diabetes mellitus type 2, and in-stent restenosis.
+DrugId:  2
+1. Name:  Mevastatin
+2. Groups:  Experimental
+3. Description:  Mevastatin or compactin is a cholesterol-lowering agent isolated from Penicillium citinium. It was the first discovered agent belonging to the class of cholesterol-lowering medications known as statins. During a search for antibiotic compounds produced by fungi in 1971, Akira Endo at Sankyo Co. (Japan) discovered a class of compounds that appeared to lower plasma cholesterol levels. Two years later, the research group isolated a compound structurally similar to hydroxymethylglutarate (HMG) that inhibited the incorporation of acetate. The compound was proposed to bind to the reductase enzyme and was named compactin. Mevastatin is a competitive inhibitor of HMG-Coenzyme A (HMG-CoA) reductase with a binding affinity 10,000 times greater than the HMG-CoA substrate itself. Mevastatin is a pro-drug that is activated by in vivo hydrolysis of the lactone ring. It has served as one of the lead compounds for the development of the synthetic compounds used today.
+4. Indication:  Not used therapeutically due to its many side effects. 
+DrugId:  3
+1. Name:  Alpha-Linolenic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alpha-linolenic acid (ALA) is a polyunsaturated omega-3 fatty acid. It is a component of many common vegetable oils and is important to human nutrition.
+4. Indication:  For nutritional supplementation and for treating dietary shortage or imbalance.
+DrugId:  4
+1. Name:  Lovastatin
+2. Groups:  Approved, Investigational
+3. Description:  Lovastatin is a cholesterol-lowering agent that belongs to the class of medications called statins. It was the second agent of this class discovered. It was discovered by Alfred Alberts and his team at Merck in 1978 after screening only 18 compounds over 2 weeks. The agent, also known as mevinolin, was isolated from the fungi Aspergillus terreus. Research on this compound was suddenly shut down in 1980 and the drug was not approved until 1987. Interesting, Akira Endo at Sankyo Co. (Japan) patented lovastatin isolated from Monascus ruber four months before Merck. Lovastatin was found to be 2 times more potent than its predecessor, mevastatin, the first discovered statin. Like mevastatin, lovastatin is structurally similar to hydroxymethylglutarate (HMG), a substituent of HMG-Coenzyme A (HMG-CoA), a substrate of the cholesterol biosynthesis pathway via the mevalonic acid pathway. Lovastatin is a competitive inhibitor of HMG-CoA reductase with a binding affinity 20,000 times greater than HMG-CoA. Lovastatin differs structurally from mevastatin by a single methyl group at the 6’ position. Lovastatin is a prodrug that is activated by in vivo hydrolysis of the lactone ring. It, along with mevastatin, has served as one of the lead compounds for the development of the synthetic compounds used today.
+4. Indication:  For management as an adjunct to diet to reduce elevated total-C, LDL-C, apo B, and TG levels in patients with primary hypercholesterolemia and mixed dyslipidemia. For primary prevention of coronary heart disease and to slow progression of coronary atherosclerosis in patients with coronary heart disease. 
+DrugId:  5
+1. Name:  LLL-3348
+2. Groups:  Investigational
+3. Description:  The botanical drug product LLL-3348 is a once-daily oral formulation for treatment of chronic stable plaque type psoriasis.
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders.
+DrugId:  6
+1. Name:  Pravastatin
+2. Groups:  Approved
+3. Description:  Pravastatin is a cholesterol-lowering agent that belongs to a class of medications known as statins. It was derived from microbial transformation of mevastatin, the first statin discovered. It is a ring-opened dihydroxyacid with a 6’-hydroxyl group that does not require in vivo activation. Pravastatin is one of the lower potency statins; however, its increased hydrophilicity is thought to confer advantages such as minimal penetration through lipophilic membranes of peripheral cells, increased selectivity for hepatic tissues, and a reduction in side effects compared with lovastatin and simvastatin.
+4. Indication:  For the treatment of hypercholesterolemia and to reduce the risk of cardiovascular disease. 
+DrugId:  7
+1. Name:  Bimekizumab
+2. Groups:  Investigational
+3. Description:  Bimekizumab has been used in trials studying the treatment of Psoriatic arthritis, Ankylosing Spondylitis, Chronic Plaque Psoriasis, and Mild to Moderate Psoriasis.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Calcium glycerophosphate
+2. Groups:  Approved
+3. Description:  Calcium glycerophosphate is a calcium salt of glycerophosphoric acid that forms a white, fine, slightly hygroscopic powder. The commercial product is a mixture of calcium beta-, and D-, and L -alpha-glycerophosphate. By FDA, calcium glycerophosphate is considered a generally recognized as safe (GRAS) food ingredient as a nutrient supplement (source of calcium or phosphorus), or in food products such as gelatins, puddings, and fillings. It is also present in dental or oral hygiene products due to its cariostatic effects. It is suggested that calcium glycerophosphate promotes plaque-pH buffering, elevation of plaque calcium and phosphate levels and direct interaction with dental mineral [2].
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Namilumab
+2. Groups:  Investigational
+3. Description:  Namilumab has been used in trials studying the treatment of Plaque Psoriasis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Ixekizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ixekizumab is a humanized immunoglobulin G subclass 4 (IgG4) monoclonal antibody (mAb) against interleukin-17A (IL-17A) and prevents it from interacting with the IL-17A receptor. As IL-17A is a pro-inflammatory cytokine involved in inflammation and immune responses, blocking its effect is beneficial for use in inflammatory conditions. In particular, IL-17A has been found to be implicated in a variety of autoimmune diseases including Rheumatoid Arthritis and plaque psoriasis. Ixekizumab is produced by recombinant DNA technology in a recombinant mammalian cell line and purified using standard technology for bioprocessing. Ixekizumab is comprised of two identical light chain polypeptides of 219 amino acids each and two identical heavy chain polypeptides of 445 amino acids each, and has a molecular weight of 146,158 Daltons for the protein backbone of the molecule. It is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+4. Indication:  Ixekizumab is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. 
+DrugId:  12
+1. Name:  Fenamole
+2. Groups:  Investigational
+3. Description:  Pat has been investigated for the supportive care of Side Effects and Dental Plaque.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  RUS 3108
+2. Groups:  Investigational
+3. Description:  RUS 3108 is being developed for the treatment of atherosclerosis, the major cause of cardiovascular disorders such as heart attacks and stroke by Dr. Reddy’s Laboratories.The drug’s Phase I clinical trials have been initiated in Europe to assess safety of the drug compound in healthy volunteers. 
+4. Indication:  Investigated for use/treatment in atherosclerosis.
+DrugId:  14
+1. Name:  Alefacept
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Immunosuppressive dimeric fusion protein that consists of the extracellular CD2-binding portion of the human leukocyte function antigen-3 (LFA-3) linked to the Fc (hinge, CH2 and CH3 domains) portion of human IgG1. Produced by CHO cells, mW is 91.4 kD.
+4. Indication:  As an immunosuppressive drug, Alefacept can be used for treatment of moderate to severe chronic plaque psoriasis
+DrugId:  15
+1. Name:  Guselkumab
+2. Groups:  Approved, Investigational
+3. Description:  Guselkumab is a human immunoglobulin G1 lambda (IgG1λ) monoclonal antibody that selectively blocks interleukin-23. IL-23 is an inflammatory cytokine that activates the CD4+ T-helper (Th17) cell pathway to mediate the inflammatory cascade that induces psoriatic plaque formation [2]. In clinical trials, guselkumab demonstrated improved skin clearance and symptomatic improvements in dermatological manifestations of psoriasis. Developed by Janssen, the subcutenous injection form of guselkumab was approved in July 2017 under the market name Tremfya for the treatment of adult patients with moderate-to-severe plaque psoriasis.
+4. Indication:  Indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+DrugId:  16
+1. Name:  DG031
+2. Groups:  Investigational
+3. Description:  DG031, deCODE genetics's lead compound, is being developed for the prevention of myocardial infarction, or heart attack.
+4. Indication:  Investigated for use/treatment in heart disease and myocardial infarction.
+DrugId:  17
+1. Name:  Abacavir hydroxyacetate
+2. Groups:  Investigational
+3. Description:  Prurisol is under investigation for the treatment of Chronic Stable Plaque Psoriasis. Prurisol has been investigated for the treatment of Plaque Psoriasis.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Efalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized IgG1 kappa isotype monoclonal antibody that binds to human CD11a. Efalizumab has a molecular weight of approximately 150 kilodaltons and is produced in a Chinese hamster ovary mammalian cell expression system in a nutrient medium containing the antibiotic gentamicin.
+4. Indication:  For the treatment of adult patients with moderate to severe chronic plaque psoriasis, who are candidates for phototherapy or systemic therapy.
+DrugId:  19
+1. Name:  E-6201
+2. Groups:  Investigational
+3. Description:  E6201 has been investigated for the treatment of Chronic Plaque Psoriasis.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  21
+1. Name:  Brodalumab
+2. Groups:  Approved, Investigational
+3. Description:  Brodalumab has been used in trials studying the treatment of Asthma, Psoriasis, Crohn's Disease, Psoriatic Arthritis, and Rheumatoid Arthritis. Brodalumab was FDA approved in February, 2017 as Siliq for the treatment of moderate-to-severe plaque psoriasis.
+4. Indication:  Brodalumab has been approved for the treatment of psoriasis vulgaris, psoriatic arthritis, pustular psoriasis and psoriatic erythroderma. 
+DrugId:  22
+1. Name:  DG041
+2. Groups:  Investigational
+3. Description:  DG041 is a novel, first-in-class, orally-administered small molecule developmented for the prevention of arterial thrombosis and its complications.DG041, an anti-platelet compound, has shown to be a selective and potent antagonist of the EP3 receptor for prostaglandins E2. EP3 is a target that associates with increased risk of various vascular diseases. It block the formation of blood clots mediated through inflammation in atherosclerotic plaques but without increasing bleeding risk.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease.
+DrugId:  23
+1. Name:  Verubecestat
+2. Groups:  Investigational
+3. Description:  Verubecestat is under investigation for the treatment of Alzheimer's Disease, Prodromal Alzheimer's disease, and Amnestic Mild Cognitive Impairment. Verubecestat is Merck’s investigational oral β-site amyloid precursor protein cleaving enzyme (BACE1 or β secretase) inhibitor. In July 2013, Merck announced positive results for Phase Ib trials of Verubecestat. In the study, administration of Verubecestat at doses of 12, 40 and 60 mg resulted in a dose-dependent and sustained reduction in the levels of Ab40, a measure of BACE1 activity, in CSF from baseline of 57, 79 and 84 percent, respectively.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Vitamin E
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A generic descriptor for all tocopherols and tocotrienols that exhibit alpha-tocopherol activity. By virtue of the phenolic hydrogen on the 2H-1-benzopyran-6-ol nucleus, these compounds exhibit varying degree of antioxidant activity, depending on the site and number of methyl groups and the type of isoprenoids.
+4. Indication:  Vitamin E, known for its antioxidant activities, is protective against cardiovascular disease and some forms of cancer and has also demonstrated immune-enhancing effects. It may be of limited benefit in some with asthma and rheumatoid arthritis. It may be helpful in some neurological diseases including Alzheimer's, some eye disorders including cataracts, and diabetes and premenstrual syndrome. It may also help protect skin from ultraviolet irradiation although claims that it reverses skin aging, enhances male fertility and exercise performance are poorly supported. It may help relieve some muscle cramps.
+DrugId:  25
+1. Name:  E-2012
+2. Groups:  Investigational
+3. Description:  E-2012 is a gamma secretase modulator that is being evaluated as a potential new treatment for Alzheimer's disease.
+4. Indication:  Investigated for use/treatment in alzheimer's disease.

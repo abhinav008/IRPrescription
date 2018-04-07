@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Fondaparinux
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux is under investigation for the treatment of Superficial Vein Thrombosis. Fondaparinux has been investigated for the treatment and prevention of Thromboembolism, Pulmonary Embolism, Thrombosis, Venous, Deep Vein Thrombosis, and Fibrillation, Atrial, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Certoparin
+2. Groups:  Approved, Investigational
+3. Description:  Certoparin is a low molecular weight heparin, primarily active against factor Xa. Like other low molecular weight heparins, it is used to prevent deep venous thrombosis.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  3
+1. Name:  Parnaparin
+2. Groups:  Approved, Investigational
+3. Description:  Parnaparin is an antithrombotic and belongs to the group of low molecular weight heparins.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  4
+1. Name:  Reviparin
+2. Groups:  Approved, Investigational
+3. Description:  Reviparin is a low molecular weight heparin which seems to have a better safety profile than unfractionated heparin.[1] It is prepared from porcine intestinal mucosa by nitrous acid depolymerization. Reviparin has a molecular weight of 3.9 kDa.[2] It was developed by Abbott laboratories and in 2009, reviparin presented an orphan drug designation by the FDA.[3]
+4. Indication:  By the FDA, reviparin is indicated for the treatment of deep vein which may lead to pulmonary embolism in pediatric patients. It is also indicated for the long-term treatment of acute deep vein thrombosis with or without pulmonary embolism in pregnant patients.[3]
+DrugId:  5
+1. Name:  LJP 1082
+2. Groups:  Investigational
+3. Description:  LJP 1082 is a Toleragen that is designed to shut down the B cells that produce antibodies to ß2 GP1. LJP 1082 is undergoing trial for for the treatment of stroke, deep-vein thrombosis and other conditions associated with antibody-mediated thrombosis. Antibody-mediated thrombosis, also called antiphospholipid syndrome (APS), is a blood clotting disorder. Patients with high levels of anticardiolipin antibodies (ACA) have an increased risk of stroke, heart attack, deep vein thrombosis, and recurrent fetal loss. The target of the LJP 1082's clot-promoting antibodies is a small region on a key blood protein called beta 2-glycoprotein I. To date, our scientists have shown that approximately 90% of patients studied with antibody-mediated thrombosis have antibodies that bind to this region.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, strokes, and thrombosis.
+DrugId:  6
+1. Name:  Desirudin
+2. Groups:  Approved
+3. Description:  Desirudin is a direct inhibitor of human thrombin. It has a protein structure that is similar to that of hirudin, the naturally occurring anticoagulant present in the peripharyngeal glands in the medicinal leech, Hirudo medicinalis. Hirudin is a single polypeptide chain of 65 amino acids residues and contains three disulfide bridges. Desirudin has a chemical formula of C287H440N80O110S6 with a molecular weight of 6963.52.It is mainly indicated for the prevention of deep vein thrombosis in hip replacement surgery patients.Common side effects include: Bleeding gums, collection of blood under the skin, coughing up blood, deep, dark purple bruise and difficulty with breathing or swallowing.
+4. Indication:  Indicated as prophylaxis of deep vein thrombosis for patients undergoing hip replacement surgery. 
+DrugId:  7
+1. Name:  Ardeparin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Ardeparin, marketed under the US trade name Normiflo, is a low molecular weight heparin (LMWH) anticoagulant used for the prevention of postoperative venous thrombosis. Ardeparin is derived via peroxide degradation of heparin extracted from porcine intestinal mucosa. Its molecular weight ranges from 2000 to 15,000 with an average molecular weight of 5500 to 6500. Normiflo was withdrawn from the US market in March 2000.
+4. Indication:  For prevention of deep vein thrombosis, which may result in pulmonary embolism, following knee surgery.
+DrugId:  8
+1. Name:  Enoxaparin
+2. Groups:  Approved
+3. Description:  Enoxaparin is a low molecular weight heparin. Enoxaparin is used to prevent and treat deep vein thrombosis or pulmonary embolism, and is given as a subcutaneous injection. Enoxaparin binds to and accelerates the activity of antithrombin III. By activating antithrombin III, enoxaparin preferentially potentiates the inhibition of coagulation factors Xa and IIa. Factor Xa catalyzes the conversion of prothrombin to thrombin, so enoxaparin's inhibition of this process results in decreased thrombin and ultimately the prevention of fibrin clot formation. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  For the prophylaxis of deep vein thrombosis, which may lead to pulmonary embolism, and also for the prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction, when concurrently administered with aspirin.
+DrugId:  9
+1. Name:  Streptokinase
+2. Groups:  Approved, Investigational
+3. Description:  Streptokinase, is a sterile, purified preparation of a bacterial protein elaborated by group C (beta) -hemolytic streptococci.
+4. Indication:  For the treatment of acute evolving transmural myocardial infarction, pulmonary embolism, deep vein thrombosis, arterial thrombosis or emolism and occlusion of arteriovenous cannulae
+DrugId:  10
+1. Name:  Anti-inhibitor coagulant complex
+2. Groups:  Approved, Investigational
+3. Description:  Anti-inhibitor coagulant complex, also known as FEIBA (factor eight inhibitor bypassing activity), contains several proteins involved in the prothrombinase complex. It is used to control bleeding in hemophilia A and B patients with inhibitors.
+4. Indication:  For use in the control of bleeding episodes, perioperative management, and routine prophylaxis against bleeding episodes in hemophilia A and B patients with inhibitors [FDA Label]. It is not indicated in the absence of factor VIII or IX inhibitors.
+DrugId:  11
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
+DrugId:  12
+1. Name:  Ancrod
+2. Groups:  Approved, Investigational
+3. Description:  Ancrod (current brand name: Viprinex) is a defibrinogenating agent derived from the venom of the Malayan pit viper. The defribrinogenation of blood results in an anticoagulant effect. Currently, Viprinex®/ancrod is not approved or marketed in any country, but is being investigated as a stroke treatment in worldwide clinical trials. In January 2005, the U.S. FDA granted a 'fast-track status' for investigation of ancrod use in patients suffering from acute ischemic stroke, a life threatening condition caused by the blockage of blood vessels supplying blood and oxygen to portions of the brain, for which phase III trials are currently being conducted.
+4. Indication:  For the treatment of established deep vein thrombosis; central retinal and branch vein thrombosis; priapism; pulmonary hypertension of embolic origin; embolism after insertion of prosthetic cardiac valves; rethrombosis after thrombolytic therapy and rethrombosis after vascular surgery. It is also indicated for the prevention of deep venous thrombosis after repair of the fractured neck of a femur.
+DrugId:  13
+1. Name:  Dicoumarol
+2. Groups:  Approved
+3. Description:  An oral anticoagulant that interferes with the metabolism of vitamin K. It is also used in biochemical experiments as an inhibitor of reductases. [PubChem]
+4. Indication:  For decreasing blood clotting. Often used along with heparin for treatment of deep vein thrombosis.
+DrugId:  14
+1. Name:  Nadroparin
+2. Groups:  Approved, Investigational
+3. Description:  Nadroparin is a low molecular weight heparin (LMWH) which, when bound to antithrombin III (ATIII), accelerates the inactivation of factor II and factor Xa. Nadroparin halts the coagulation pathway by inhibiting the activation of thrombin (factor IIa) by factor Xa. The amplification of the fibrin clotting cascade is stopped once factors Xa and IIa are inactivated. It is derived from porcine sources and has a mean molecular size of 5000 daltons. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Nadroparin is used for prophylaxis of thromboembolic disorders and general surgery in orthopedic surgery, treatment of deep vein thrombosis, prevention of clotting during hemodialysis and treatment of unstable angina and non-Q wave myocardial infarction
+DrugId:  15
+1. Name:  Ximelagatran
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Ximelagatran (Exanta® or Exarta®, H 376/95) is an anticoagulant that has been investigated extensively as a replacement for warfarin that would overcome the problematic dietary, drug interaction, and monitoring issues associated with warfarin therapy. In 2006, its manufacturer AstraZeneca announced that it would not attempt to market ximelagatran after reports of hepatotoxicity (liver damage) during trials, and to discontinue its distribution in countries where the drug had been approved.
+4. Indication:  For the treatment of acute deep vein thrombosis.
+DrugId:  16
+1. Name:  Bemiparin
+2. Groups:  Approved, Investigational
+3. Description:  Bemiparin is an antithrombotic and belongs to the group of drugs known as the low molecular weight heparins (LMWH). Like semuloparin, bemiparin is classified as an ultra-LMH because of its low mean molecular mass of 3600 daltons, which is a unique property of this class [1]. These heparins have lower anti-thrombin activity than the traditional low molecular weight heparins and act mainly on factor-Xa, reducing the risk of bleeding due to selectivity for this specific clotting factor. Interestingly, current research is underway for the potential benefit of bemiparin in the treatment of tumors and diabetic foot ulcers [12, 1].
+4. Indication:  Bemiparin is indicated in the following cases: To prevent blood clots in the veins after general abdominal surgery in patients with a moderate risk of venous thromboembolism; in the prevention of the thromboembolic disease in non-surgical patients; prevention of clotting in the extracorporeal circuit during hemodialysis; to prevent blood clots in the veins after a major orthopedic surgery in patients with high risk of venous thromboembolism; secondary prevention of venous thromboembolism; recurrence in patients with deep vein thrombosis; transient prevention and treatment of deep vein thrombosis (DVT) [8].
+DrugId:  17
+1. Name:  Edoxaban
+2. Groups:  Approved
+3. Description:  Edoxaban is a member of the Novel Oral Anti-Coagulants (NOACs) class of drugs, and is a rapidly acting, oral, selective factor Xa inhibitor. By inhibiting factor Xa, a key protein in the coagulation cascade, edoxaban prevents the stepwise amplification of protein factors needed to form blood clots. It is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF) and for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant. Traditionally, warfarin, a vitamin K antagonist, was used for stroke prevention in these individuals but effective use of this drug is limited by it's delayed onset, narrow therapeutic window, need for regular monitoring and INR testing, and numerous drug-drug and drug-food interactions. This has prompted enthusiasm for newer agents such as dabigatran, apixaban, and rivaroxaban for effective clot prevention. In addition to once daily dosing, the benefits over warfarin also include significant reductions in hemorrhagic stroke and GI bleeding, and improved compliance, which is beneficial as many patients will be on lifelong therapy. 
+4. Indication:  Edoxaban is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF). However, it should not be used in patients with creatinine clearance (CrCL) > 95 mL/min because of increased risk of ischemic stroke compared to warfarin at the highest dose studied (60 mg). It is also indicated for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant.
+DrugId:  18
+1. Name:  Acenocoumarol
+2. Groups:  Approved, Investigational
+3. Description:  Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, XI and X, and interferes with coagulation. Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood. 
+4. Indication:  For the treatment and prevention of thromboembolic diseases. More specifically, it is indicated for the for the prevention of cerebral embolism, deep vein thrombosis, pulmonary embolism, thromboembolism in infarction and transient ischemic attacks. It is used for the treatment of deep vein thrombosis and myocardial infarction.
+DrugId:  19
+1. Name:  Tinzaparin
+2. Groups:  Approved
+3. Description:  Tinzaparin is a low molecular weight heparin (LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III (ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Tinzaparin is used for the prevention of postoperative venous thromboembolism in patients undergoing orthopedic surgery and in patients undergoing general surgery who are at high risk of developing postoperative venous thromboembolism. It is also used for the treatment of deep vein thrombosis and/or pulmonary embolism. It is indicated for use in preventing clot formation in indwelling intravenous lines for hemodialysis.
+DrugId:  20
+1. Name:  Dextran 70
+2. Groups:  Approved
+3. Description:  Dextrans are long-chain glucose polysaccharides of various relative molecular masse. Dextran 70 refers to the complex branched glucose polysaccharides with a relative molecular mass 70 000. Dextran 70 is used as a plasma-volume expander for restoration of circulatory volume during surgery, in hypovolaemic shock due to trauma and dehydration, or specific cases of haemorrhage, and prevention of postoperative deep-vein thrombosis. Dextran 70 is also found in eye drops as a lubricant. It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  22
+1. Name:  Betrixaban
+2. Groups:  Approved, Investigational
+3. Description:  Betrixaban is a non-vitamin K oral anticoagulant whose action is driven by the competitive and reversible inhibition of the factor Xa [1]. It was selected among all lead compounds due to its low hERG channel affinity while sustaining its factor Xa inhibition capacity [3]. Betrixaban, now developed by Portola Pharmaceuticals Inc., is prescribed as a venous thromboembolism (VTE) prophylactic for adult patients with moderate to severe restricted motility or with other risks for VTE [2]. VTE can be manifested as deep vein thrombosis or pulmonary embolism and it is a leading cause of preventable death in hospitalized patients [4].
+4. Indication:  Betrixaban is indicated for prophylaxis of venous thromboembolism (VTE) in conditions of moderate to severe restricted mobility or in patients that qualify as in risk of VTE. 
+DrugId:  23
+1. Name:  Rivaroxaban
+2. Groups:  Approved
+3. Description:  Rivaroxaban is an anticoagulant and the first orally active direct factor Xa inhibitor. Unlike warfarin, routine lab monitoring of INR is not necessary. However there is no antidote available in the event of a major bleed. Only the 10 mg tablet can be taken without regard to food. The 15 mg and 20 mg tablet should be taken with food. FDA approved on July 1, 2011.
+4. Indication:  Rivaroxaban is indicated for the prevention of venous thromboembolic events (VTE) in patients who have undergone total hips replacements and total knee replacement surgery; prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation; treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE); to reduce risk of recurrent DVT and/or PE. Due to a lack of safety studies, it is not recommended for use in those under 18 years old. Its use is also not recommended in those with severe renal impairment (<30mL/min).
+DrugId:  24
+1. Name:  Lasofoxifene
+2. Groups:  Approved, Investigational
+3. Description:  Lasofoxifene is a non-steroidal 3rd generation selective estrogen receptor modulator (SERM) that selectively binds to both ERα and ERβ with high affinity. It is a naphthalene derivative marketed for prevention and treatment of osteoporosis and for the treatment of vaginal atrophy. It was initially developed as Oporia by Pfizer as a treatment for postmenopausal osteoporosis and vaginal atrophy, in which were both rejected for approval by FDA. Later Fablyn was developed as a result of a research collaboration between Pfizer and Ligand Pharmaceuticals with a newly submitted New Drug Application in 2008. It gained approval by European Commission in March 2009. Ligand Pharmaceuticals signed a license agreement with Sermonix Pharmaceuticals for the development and commercialization of oral lasofoxifene in the USA.
+4. Indication:  Investigated for use/treatment in postmenopausal osteoporosis to reduce the risk of both vertebral and novertebral fractures, as well as address other postmenopausal conditions, including reduction in risk of breast cancer and treatment of vulvar and vaginal atrophy (VVA)
+DrugId:  25
+1. Name:  Fondaparinux sodium
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux (Arixtra) is a synthetic pentasaccharide anticoagulant. Apart from the O-methyl group at the reducing end of the molecule, the identity and sequence of the five monomeric sugar units contained in fondaparinux is identical to a sequence of five monomeric sugar units that can be isolated after either chemical or enzymatic cleavage of the polymeric glycosaminoglycan heparin and heparan sulfate (HS). This monomeric sequence in heparin and HS is thought to form the high affinity binding site for the natural anti-coagulant factor, antithrombin III (ATIII). Binding of heparin/HS to ATIII has been shown to increase the anti-coagulant activity of antithrombin III 1000-fold. Fondaparinux potentiates the neutralizing action of ATIII on activated Factor X 300-fold. Fondaparinux may be used: to prevent venous thromboembolism in patients who have undergone orthopedic surgery of the lower limbs (e.g. hip fracture, hip replacement and knee surgery); to prevent VTE in patients undergoing abdominal surgery who are are at high risk of thromboembolic complications; in the treatment of deep vein thrombosis (DVT) and pumonary embolism (PE); in the management of unstable angina (UA) and non-ST segment elevation myocardial infarction (NSTEMI); and in the management of ST segment elevation myocardial infarction (STEMI).
+4. Indication:  Approved for: (1) prophylaxis of VTE for up to one month post surgery in patients undergoing orthopedic surgery of the lower limbs such as hip fracture, hip replacement and knee surgery; (2) prophylaxis of VTE patients undergoing abdominal surgery who are at high risk of thromboembolic complications (e.g. patients undergoing abdominal cancer surgery); (3) treatment of acute DVT and PE; (4) management of UA and NSTEMI for the prevention of death and subsequent myocardial infarction (MI); and (5) management of STEMI for the prevention of death and myocardial reinfarction in patients who are managed with thrombolytics or who are initially to receive no form of reperfusion therapy. Fondaparinux should not be used as the sole anticoagulant during percutaneous coronary intervention (PCI) due to an increased risk of guiding catheter thrombosis. 

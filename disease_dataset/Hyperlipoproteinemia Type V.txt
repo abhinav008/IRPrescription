@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Gemfibrozil
+2. Groups:  Approved
+3. Description:  A lipid-regulating agent that lowers elevated serum lipids primarily by decreasing serum triglycerides with a variable reduction in total cholesterol. These decreases occur primarily in the VLDL fraction and less frequently in the LDL fraction. Gemfibrozil increases HDL subfractions HDL2 and HDL3 as well as apolipoproteins A-I and A-II. Its mechanism of action has not been definitely established. [PubChem]
+4. Indication:  For treatment of adult patients with very high elevations of serum triglyceride levels (types IV and V hyperlipidemia) who are at risk of developing pancreatitis (inflammation of the pancreas) and who do not respond adequately to a strict diet.
+DrugId:  2
+1. Name:  Clofibrate
+2. Groups:  Approved, Investigational
+3. Description:  A fibric acid derivative used in the treatment of hyperlipoproteinemia type III and severe hypertriglyceridemia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p986)
+4. Indication:  For Primary Dysbetalipoproteinemia (Type III hyperlipidemia) that does not respond adequately to diet. This helps control high cholesterol and high triglyceride levels. 
+DrugId:  3
+1. Name:  Bafilomycin A1
+2. Groups:  Experimental
+3. Description:  The bafilomycins are a family of toxic macrolide antibiotic derived from Streptomyces griseus. These compounds all appear in the same fermentation and have quite similar biological activity. Bafilomycins are specific inhibitors of vacuolar-type H+-ATPase. (V-ATPase). The most used bafilomycin is bafilomycin A1. This is a useful tool as it can prevent the re-acidification of synaptic vesicles once they have undergone exocytosis. [Wikipedia]
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Triheptanoin
+2. Groups:  Investigational
+3. Description:  Triheptanoin is under investigation for the treatment of Glycogen Storage Disease Type V and Alternating Hemiplegia of Childhood. Triheptanoin has been investigated for the treatment of Adult Polyglucosan Body Disease, Glycogen Storage Disease Type IV, and Glycogen Brancher Enzyme Deficiency.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Lifibrol
+2. Groups:  Investigational
+3. Description:  Lifibrol has been used in trials studying the basic science of Hyperlipoproteinemia and Hypercholesterolemia.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Phenoxymethylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Phenoxymethylpenicillin (Penicillin V) is narrow spectrum antibiotic used to treat mild to moderate infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered orally. Penicillin V may also be used in some cases as prophylaxis against susceptible organisms.Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as Streptococcus pneumoniae, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (S. agalactiae), S. viridans, and Enterococcus faecalis. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as Bacillus anthracis, Corynebacterium diphtheriae, and Erysipelothrix rhusiopathiae. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by Neisseria meningitidis and Pasteurella. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+4. Indication:  For the treatment of mild to moderately severe infections (e.g. dental infection, infections in the heart, middle ear infections, rheumatic fever, scarlet fever, skin infections, upper and lower respiratory tract infections) due to microorganisms.
+DrugId:  7
+1. Name:  R411
+2. Groups:  Investigational
+3. Description:  R411 is a non-steroid oral medicine for the treatment of asthma. It is not immunosuppressive, but blocks the activation and recruitment of cells involved in respiratory inflammation. It is a dual-acting competitive integrin antagonist (as compared to previously developed single integrin antagonists or SIAs) that prevents binding of V-CAM1 to either a4b1 or a4b7. 
+4. Indication:  Investigated for use/treatment in asthma.
+DrugId:  8
+1. Name:  Argatroban
+2. Groups:  Approved, Investigational
+3. Description:  Argatroban is a direct, selective thrombin inhibitor. The American College of Cardiologists (ACC) recommend using bivalirudin or argatroban in patients who have had, or at risk for, heparin induced thrombocytopenia (HIT) and are undergoing percutaneous coronary intervention. Argatroban is a non-heparin anticoagulant shown to both normalize platelet count in patients with HIT and prevent the formation of thrombi. Parental anticoagulants must be stopped and a baseline activated partial thromboplastin time must be obtained prior to administering argatroban.
+4. Indication:  Argatroban is indicated for prevention and treatment of thrombosis caused by heparin induced thrombocytopenia (HIT). It is also indicated for use in patients with, or at risk for, HIT who are undergoing percutaneous coronary intervention.
+DrugId:  9
+1. Name:  Dezocine
+2. Groups:  Approved, Investigational
+3. Description:  Dezocine is a partial opiate drug and is used for pain management. Dezocine is a very effective alternative to fentanyl when administered during outpatient laparoscopy, although is associated with an increased incidence of postoperative nausea. 
+4. Indication:  Indicated in the treatment of moderate to severe pain.
+DrugId:  10
+1. Name:  Josamycin
+2. Groups:  Approved, Investigational
+3. Description:  A macrolide antibiotic from Streptomyces narbonensis. The drug has antimicrobial activity against a wide spectrum of pathogens. [PubChem]
+4. Indication:  For the treatment of bacterial infections.
+DrugId:  11
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  12
+1. Name:  Xylometazoline
+2. Groups:  Approved, Investigational
+3. Description:  A nasal vasoconstricting decongestant drug which acts by binding to the same receptors as adrenaline. It is applied as a spray or as drops into the nose to ease inflammation and congestion of the nasal passageways. It binds alpha-adrenergic receptors to activate the adrenal system which causes systemic vasoconstriction, thereby easing nasal congestion.
+4. Indication:  It is used for treating nasal congestion and minor inflammation due to allergies or colds.
+DrugId:  13
+1. Name:  Patent Blue V
+2. Groups:  Approved
+3. Description:  Patent Blue V is a dark bluish synthetic triphenylmethane dye used as a food colouring. In Canada, it is an approved diagnostic agent used for marking 1) lymphatic vessels and arterial territories, and 2) sentinel lymph node prior to biopsy in patients with operable breast cancer and clinicallynegative lymph nodes in combination with a radiotracer.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  LM-609
+2. Groups:  Investigational
+3. Description:  LM-609 (Vitaxin) is an artificial antibody that targets a protein on the surface of newly forming blood vessels, as well as on certain tumors. In addition to cancer, the protein has been implicated in bone destruction in rheumatoid arthritis and the inflammatory process in psoriasis.
+4. Indication:  Investigated for use/treatment in colorectal cancer, melanoma, prostate cancer, psoriasis and psoriatic disorders, rheumatoid arthritis, and solid tumors.
+DrugId:  15
+1. Name:  Copper
+2. Groups:  Approved, Investigational
+3. Description:  Copper is a transition metal and a trace element in the body. It is important to the function of many enzymes including cytochrome c oxidase, monoamine oxidase and superoxide dismutase [FDA Label]. Copper is commonly used in contraceptive intrauterine devices (IUD) [5].
+4. Indication:  For use in the supplementation of total parenteral nutrition and in contraception with intrauterine devices [FDA Label] [5].
+DrugId:  16
+1. Name:  Pancrelipase
+2. Groups:  Approved, Investigational
+3. Description:  Pancrelipase is an enzyme mixture isolated from porcine or bovine pancreas, sometimes called pancreatin. It contains 3 enzymes: amylase, lipase, and a protease (chymotrypsin). Pancrelipase is marketed under several brand names such as Ultresa™ and Viokace™.
+4. Indication:  For treatment of exocrine pancreatic insufficiency in cystic fibrosis (Ultresa™), chronic pancreatitis (Viokace™ in combination with a proton pump inhibitor), and pancreatectomy (Viokace™ in combination with a proton pump inhibitor). 
+DrugId:  17
+1. Name:  Conivaptan
+2. Groups:  Approved, Investigational
+3. Description:  Conivaptan is a non-peptide inhibitor of antidiuretic hormone (vasopressin). It was approved in 2004 for hyponatremia (low blood sodium levels) caused by syndrome of inappropriate antidiuretic hormone (SIADH). Conivaptan inhibits both isotypes of the vasopressin receptor (V1a and V2).
+4. Indication:  For the treatment of euvolemic or hypervolemic hyponatremia (e.g. the syndrome of inappropriate secretion of antidiuretic hormone, or in the setting of hypothyroidism, adrenal insufficiency, pulmonary disorders, etc.) in hospitalized patients.
+DrugId:  18
+1. Name:  Barium sulfate
+2. Groups:  Approved
+3. Description:  Barium sulfate is an inorganic compound with the chemical formula BaSO4 [3].Barium sulfate occurs in nature as the mineral barite. It is also used in various manufacturing applications and mixed into heavy concrete to serve as a radiation shield [3].This drug is used as a contrast agent in diagnostic x-ray procedures. Therapeutic advantages of barium sulfate in diagnostic procedures include both its low water solubility and high level of clearance from the body [FDA Label].Barium sulfate is ingested by mouth or administered rectally and combined with granules of effervescent bicarbonate to enhance distension of the GI tract, allowing for enhanced gastrointestinal tract visualization [3], [5].
+4. Indication:  Barium sulfate is a radiographic contrast agent indicated for use in computed tomography (CT) of the abdomen to delineate the gastrointestinal (GI) tract in adult and pediatric patients [FDA Label].
+DrugId:  19
+1. Name:  Pregabalin
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Pregabalin is an anticonvulsant drug used for neuropathic pain, epilepsy and generalized anxiety disorder.[4] It presents antihyperalgesic actions by binding to the α2δ subunit of the voltage-dependent calcium channels without presenting antinociceptive actions.[5] Pregabalin is marketed by Pfizer under the trade name Lyrica and Lyrica Cr (extended release).[13] It is considered to have a dependence liability if misused, and is classified as a Schedule V drug in the U.S.[4]
+4. Indication:  Pregabalin is used for the management of neuropathic pain associated with diabetic peripheral neuropathy or spinal cord injury, and postherpetic neuralgia. It is not approved for the management of fibromyalgia or as adjuntive therapy for adult partial onset seizures.[FDA Label] 
+DrugId:  20
+1. Name:  Beta carotene
+2. Groups:  Approved, Nutraceutical
+3. Description:  Beta (β) carotene is the most common carotenoid synthesized by microorganisms and plants, giving a deep red-orange natural pigment to various fruits and vegetables. Beta-carotene has two cyclohexene type end groups and consists of two beta rings at the end group during the enzymatic cyclization of biosynthesis. It is a provitamin A carotenoid and is available as dietary supplements. Along with other carotenoids, beta carotene has antioxidant properties that disrupts the formation of free radicals through oxidation quenching. Beta-carotene is also a scavenger of peroxyl radicals. The potential benefit of beta carotene and other carotenoids in cancer treatment have been studied yet conclusions on their therapeutic efficacy remain undetermined.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Chromium
+2. Groups:  Approved
+3. Description:  Chromium is a transition element with the chemical symbol Cr and atomic number 24 that belongs to Group 6 of the periodic table. It is used in various chemical, industrial and manufacturing applications such as wood preservation and metallurgy. The uses of chromium compounds depend on the valency of chromium, where trivalent Cr (III) compounds are used for dietary Cr supplementation and hexavalent Cr (VI) compounds are used as corrosion inhibitors in commercial settings and are known to be human carcinogens [5]. Humans can be exposed to chromium via ingestion, inhalation, and dermal or ocular exposure [6]. Trivalent chromium (Cr(III)) ion is considered to be an essential dietary trace element as it is involved in metabolism of blood glucose, regulation of insulin resistance and metabolism of lipids. Clinical trials and other studies suggest the evidence of chromium intake improving glucose tolerance in patients with Type I and II diabetes, however its clinical application in the standard management of type II diabetes mellitus is not established. Chromium deficiency has been associated with a diabetic-like state, impaired growth, decreased fertility and increased risk of cardiovascular diseases [1, 2, 5].According to the National Institute of Health, the daily dietary reference intake (DRI) of chromium for adult male and non-pregnant female are 35 μg and 25 μg, respectively [7]. Chromium picolinate capsules may be used as nutritional adjuvant in patients with or at risk of type 2 diabetes mellitus (T2DM) to improve blood sugar metabolism and stabilize the levels of serum cholesterol. Chromium chloride is available as an intravenous injection for use as a supplement to intravenous solutions given for total parenteral nutrition (TPN) [FDA Label].
+4. Indication:  Indicated for use as a supplement to intravenous solutions given for total parenteral nutrition (TPN), to maintain chromium serum levels and to prevent depletion of endogenous stores and subsequent deficiency symptoms [FDA Label].
+DrugId:  22
+1. Name:  ATN-161
+2. Groups:  Investigational
+3. Description:  ATN-161 is a non-RGD based integrin binding peptide targeting alpha-5 beta-1 and alpha-v beta-3. It inhibits the migration and adhesion of particular integrins on activated endothelial cells that play a critical role in tumor angiogenesis. This approach targeting both the tumor vasculature and the cancer cells themselves, may be effective in single therapy as well as combination therapy. Since the expression of alpha(5)beta(1) integrin by cancer cells and the role of this molecule in tumor angiogenesis is similar across a range of different cancers, the therapeutic benefit of ATN-161 is expected to extend to a variety of cancers.
+4. Indication:  Investigated for use/treatment in brain cancer and cancer/tumors (unspecified).
+DrugId:  23
+1. Name:  Dexpanthenol
+2. Groups:  Approved
+3. Description:  Dexpanthenol is an alcohol derivative of pantothenic acid, a component of the B complex vitamins and an essential component of a normally functioning epithelium. Dexpanthenol is enzymatically cleaved to form pantothenic acid, which is an essential component of Coenzyme A, which acts as a cofactor in many enzymatic reactions that are important for protein metabolism in the epithelium[2]. Due to its good penetration and high local concentrations, dexpanthanol is used in many topical products, such as ointments and lotions for treatment of dermatological conditions to relieve itching or promote healing. Dermatological effects of the topical use of dexpanthenol include increased fibroblast proliferation and accelerated re-epithelialization in wound healing. Furthermore, it acts as a topical protectant, moisturizer, and has demonstrated anti-inflammatory properties [3].Dexpanthenol is also available as a racemic mixture containing both the dextrorotatory form (dexpanthenol) and the levorotatory form (levopanthenol) as Panthenol. While pantothenic acid is optically active, only the dextrorotatory form (dexpanthenol) is biologically active.
+4. Indication:  Injection: Prophylactic use immediately after major abdominal surgery to minimize the possibility of paralytic ileus. Intestinal atony causing abdominal distention; postoperative or postpartum retention of flatus, or postoperative delay in resumption of intestinal motility; paralytic ileus.Topical: This medication is used as a moisturizer to treat or prevent dry, rough, scaly, itchy skin and minor skin irritations (e.g., diaper rash, skin burns from radiation therapy). 
+DrugId:  24
+1. Name:  (Molybdopterin-S,S)-Dioxo-Thio-Molybdenum(V)
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Selenious acid
+2. Groups:  Approved, Investigational
+3. Description:  Selenious acid is the acid form of sodium selenite, a form of selenium [8].Selenium is an essential trace element and antioxidant. It is a cofactor metabolic enzyme regulation. It also plays an important role in maintaining the general health of tissue and muscle and has antioxidant properties. Selenium is a component of glutathione peroxidase enzyme, which protects cell components from oxidative damage due to peroxides produced during cellular metabolism [13].Selenium (Se) has been demonstrated to prevent cancer in numerous animal models when administered selenium at levels exceeding the nutritional requirements. One study showed efficacy in the prevention of malignancy while utilizing a selenium supplement in humans. The reports from such studies have heightened the interest in additional human selenium supplementation studies to validate the results in larger populations [15].Interestingly, selenium is being studied as a potential therapy in the prevention or management of atherosclerosis [18].
+4. Indication:  Selenium injection is indicated for use as a supplement to intravenous solutions given for total parenteral nutrition (TPN). Administration of selenious acid in TPN formulas helps to maintain plasma selenium levels and also to maintain endogenous stores to prevent deficiency [19].Selenium compounds, such as selenium sulfide, are used topically in anti-dandruff shampoos and in cases of seborrhea [13]. For the purpose of brevity, selenite will the focus of discussion, and more information about selenium can be obtained at Selenium.

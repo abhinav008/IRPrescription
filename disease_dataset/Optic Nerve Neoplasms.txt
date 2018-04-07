@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  DNB-001
+2. Groups:  Investigational
+3. Description:  DNB-001 is a first-in-class oral therapy with dual mechanism of action, which is initially being developed for the treatment of glaucoma. In preclinical animal models, DNB-001 has demonstrated potent IOP- lowering effects as well as neuroprotective effects on the optic nerve.
+4. Indication:  Investigated for use/treatment in ocular hypertension.
+DrugId:  2
+1. Name:  Nerispirdine
+2. Groups:  Investigational
+3. Description:  Nerispirdine has been used in trials studying the treatment of Neuritis, Optic Nerve, and Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Carteolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used as an anti-arrhythmia agent, an anti-angina agent, an antihypertensive agent, and an antiglaucoma agent. [PubChem]
+4. Indication:  For the treatment of intraocular hypertension and chronic open-angle glaucoma
+DrugId:  4
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Latanoprost
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a prostaglandin analogue that works by increasing the outflow of aqueous fluid from the eyes.It is also known by the brand name of Xalatan manufactured by Pfizer.
+4. Indication:  For the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+DrugId:  6
+1. Name:  Brinzolamide
+2. Groups:  Approved
+3. Description:  Brinzolamide is a highly specific, non-competitive, reversible carbonic anhydrase inhibitor. Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. In humans, carbonic anhydrase exists as a number of isoenzymes, the most active being carbonic anhydrase II (CA-II). Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport. The result is a reduction in intraocular pressure. Brinzolamide is indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+4. Indication:  For the treatment of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+DrugId:  7
+1. Name:  Bimatoprost
+2. Groups:  Approved, Investigational
+3. Description:  Bimatoprost ophthalmic solution is a topical medication used for controlling the progression of glaucoma or ocular hypertension, by reducing intraocular pressure. It is a prostaglandin analogue that works by increasing the outflow of aqueous fluid from the eyes. It binds to the prostanoid FP receptor.
+4. Indication:  For the reduction of elevated intraocular pressure in patients with open angle glaucoma or ocular hypertension who are intolerant of other intraocular pressure lowering medications or insufficiently responsive (failed to achieve target IOP determined after multiple measurements over time) to another intraocular pressure lowering medication.
+DrugId:  8
+1. Name:  Metipranolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist effective for both beta-1 and beta-2 receptors. It is used as an antiarrhythmic, antihypertensive, and antiglaucoma agent. [PubChem]
+4. Indication:  Indicated in the treatment of elevated intraocular pressure in patients with ocular hypertension or open angle glaucoma.
+DrugId:  9
+1. Name:  Enfortumab vedotin
+2. Groups:  Investigational
+3. Description:  Enfortumab vedotin has been used in trials studying the treatment of Tumors, Neoplasms, and Medical Oncology.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  TAK-448
+2. Groups:  Investigational
+3. Description:  TAK-448 has been used in trials studying the treatment of Prostate Cancer, Low Testosterone, Prostatic Neoplasms, and Hypogonadotropic Hypogonadism.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Timolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist similar in action to propranolol. The levo-isomer is the more active. Timolol has been proposed as an antihypertensive, antiarrhythmic, antiangina, and antiglaucoma agent. It is also used in the treatment of migraine disorders and tremor. [PubChem]
+4. Indication:  In its oral form it is used to treat high blood pressure and prevent heart attacks, and occasionally to prevent migraine headaches. In its opthalmic form it is used to treat open-angle and occasionally secondary glaucoma.
+DrugId:  12
+1. Name:  Patritumab
+2. Groups:  Investigational
+3. Description:  Patritumab has been used in trials studying the treatment of LUNG CANCER, Solid Tumors, Neoplasms by Site, Head and Neck Neoplasms, and Non-small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Sodium monofluorophosphate
+2. Groups:  Approved
+3. Description:  Sodium monofluorophosphate is used in OTC dental preparations to help protect against cavities
+4. Indication:  Sodium monofluorophosphate is indicated for the treatment of cavities
+DrugId:  14
+1. Name:  Nerve Growth Factor
+2. Groups:  Investigational
+3. Description:  Nerve Growth Factor has been used in trials studying the prevention and treatment of Mental Handicap, Alzheimer's Disease, Traumatic Brain Injury, Cerebral Palsy Children, and Delayed Speech Development, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  5-fluoro-2'-deoxycytidine
+2. Groups:  Investigational
+3. Description:  5-fluoro-2'-deoxycytidine has been used in trials studying the treatment of Neoplasms, Lung Neoplasms, Breast Neoplasms, Head and Neck Neoplasms, and Urinary Bladder Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  17
+1. Name:  Figitumumab
+2. Groups:  Investigational
+3. Description:  Figitumumab has been used in trials studying the treatment of Sarcoma, Solid Tumor, Breast Cancer, Lung Neoplasms, and Advanced Cancer, among others.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Ganitumab
+2. Groups:  Investigational
+3. Description:  Ganitumab has been used in trials studying the treatment of Colon Cancer, Rectal Cancer, Breast Cancer, Breast Tumors, and Breast Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Amatuximab
+2. Groups:  Investigational
+3. Description:  Amatuximab has been used in trials studying the treatment and basic science of Mesothelioma, Ovarian Cancer, Ovarian Neoplasms, Pancreatic Cancer, and Mesothelioma, Malignant, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Lumretuzumab
+2. Groups:  Investigational
+3. Description:  Lumretuzumab has been used in trials studying the treatment of Neoplasms, Breast Cancer, Squamous Non-Small Cell Lung Cancer, and Non-Squamous Non-Small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Onartuzumab
+2. Groups:  Investigational
+3. Description:  Onartuzumab has been used in trials studying the treatment of Neoplasms, Lung Cancer, Glioblastoma, Gastric Cancer, and Colorectal Cancer, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Duligotuzumab
+2. Groups:  Investigational
+3. Description:  Duligotuzumab has been used in trials studying the treatment of Neoplasms, Colorectal Cancer, Head and Neck Cancer, and Epithelial Tumors, Malignant.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Ascrinvacumab
+2. Groups:  Investigational
+3. Description:  Ascrinvacumab has been used in trials studying the treatment and basic science of Neoplasms, Advanced Solid Tumors, Carcinoma, Hepatocellular, and Malignant Pleural Mesothelioma.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Atamestane
+2. Groups:  Investigational
+3. Description:  Atamestane has been used in trials studying the treatment of Breast Cancer, Breast Neoplasms, and Neoplasms, Hormone-Dependent.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  APR-246
+2. Groups:  Investigational
+3. Description:  APR-246 has been used in trials studying the treatment of Prostatic Neoplasms, Hematologic Neoplasms, and Platinum Sensitive Recurrent High-grade Serous Ovarian Cancer With Mutated p53.
+4. Indication:  Not Available

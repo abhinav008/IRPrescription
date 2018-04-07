@@ -1,0 +1,110 @@
+DrugId:  1
+1. Name:  Pentavalent Antimony
+2. Groups:  Investigational
+3. Description:  Pentavalent Antimony has been investigated for the treatment of Cutaneous Leishmaniasis.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Meglumine antimoniate
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Melarsoprol
+2. Groups:  Investigational
+3. Description:  Melarsoprol is under investigation in clinical trial NCT00330148 (Randomized Clinical Trial of Three Drug Combinations for Late-Stage Gambiense Human African Trypanosomiasis).
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Sodium stibogluconate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium stibogluconate is a medicine used to treat leishmaniasis and is only available for administration by injection. It belongs to the class of medicines known as the pentavalent antimonials. Sodium stibogluconate is sold in the UK as Pentostam (manufactured by GlaxoSmithKline). Widespread resistance has limited the utility of sodium stibogluconate, and in many parts of the world, amphotericin or miltefosine are used instead. It is also being investigated as an anti-tumor agent.
+4. Indication:  For the treatment of various types of a protozoal infection called leishmaniasis, which may result from sandfly bites in tropical and temperate parts of the world. Also investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  5
+1. Name:  Palifermin
+2. Groups:  Approved
+3. Description:  Palifermin is a recombinant human keratinocyte growth factor (KGF). It is 140 residues long, and is produced using E. coli.
+4. Indication:  For treatment of oral mucositis associated with chemotherapy and radiation therapy.
+DrugId:  6
+1. Name:  Pentamidine
+2. Groups:  Approved, Investigational
+3. Description:  Antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of pneumocystis pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects. [PubChem]
+4. Indication:  For the treatment of pneumonia due to Pneumocystis carinii.
+DrugId:  7
+1. Name:  Sitamaquine
+2. Groups:  Investigational
+3. Description:  Sitamaquine (WR-6026) is an orally active 8-aminoquinoline analog in development by the Walter Reed Army Institute, in collaboration with GlaxoSmithKline (formerly SmithKline Beecham), for the potential treatment of visceral leishmaniasis.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  8
+1. Name:  Nifurtimox
+2. Groups:  Investigational
+3. Description:  Nifurtimox has been investigated for the treatment of Sleeping Sickness and Human African Trypanosomiasis.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Antimony
+2. Groups:  Investigational
+3. Description:  Antimony has been used in trials studying the treatment of Cutaneous Leishmaniasis.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Eflornithine
+2. Groups:  Approved, Withdrawn
+3. Description:  Eflornithine is a prescription drug indicated in the treatment of facial hirsutism (excessive hair growth). Eflornithine hydrochloride cream for topical application is intended for use in women suffering from facial hirsutism and is sold by Allergan, Inc. under the brand name Vaniqa. Besides being a non-mechanical and non-cosmetic treatment, eflornithine is the only non-hormonal and non-systemic prescription option available for women who suffer from facial hirsutism. Eflornithine for injection against sleeping sickness was manufactured by Sanofi Aventis and sold under the brand name Ornidyl in the USA. It is now discontinued. Eflornithine is on the World Health Organization's List of Essential Medicines.
+4. Indication:  Eflornithine is indicated in the treatment of facial hirsutism (excessive hair growth).
+DrugId:  11
+1. Name:  Miltefosine
+2. Groups:  Approved, Investigational
+3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  12
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  13
+1. Name:  Benznidazole
+2. Groups:  Approved, Investigational
+3. Description:  Benznidazole was granted accelerated approval for the treatment of Chagas disease in children 2-12 years of age by the FDA on August 29, 2017 [9]. It is the first treatment made available in the United States for Chagas disease.
+4. Indication:  For use in the treatment of Chagas disease in children 2-12 years of age [9].
+DrugId:  14
+1. Name:  Famciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Famciclovir is a guanine analogue antiviral drug used for the treatment of various herpes virus infections, most commonly for herpes zoster (shingles). It is a prodrug form of penciclovir with improved oral bioavailability. Famciclovir is marketed under the trade name Famvir (Novartis).
+4. Indication:  For the treatment of acute herpes zoster (shingles). Also for the treatment or suppression of recurrent genital herpes in immunocompetent patients and treatment of recurrent mucocutaneous herpes simplex infections in HIV infected patients.
+DrugId:  15
+1. Name:  Foscarnet
+2. Groups:  Approved
+3. Description:  An antiviral agent used in the treatment of cytomegalovirus retinitis. Foscarnet also shows activity against human herpesviruses and HIV. [PubChem]
+4. Indication:  For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS) and for treatment of acyclovir-resistant mucocutaneous HSV infections in immunocompromised patients.
+DrugId:  16
+1. Name:  Isotretinoin
+2. Groups:  Approved
+3. Description:  Isotretinoin is a medication used for the treatment of severe acne. It is sometimes used in prevention of certain skin cancers. It is a retinoid, meaning it derives from vitamin A and is found in small quantities naturally in the body. Isotretinoin binds to and activates nuclear retinoic acid receptors (RAR), thereby regulating cell proliferation and differentiation. This agent also exhibits immunomodulatory and anti-inflammatory responses and inhibits ornithine decarboxylase, thereby decreasing polyamine synthesis and keratinization.
+4. Indication:  For the treatment of severe recalcitrant nodular acne
+DrugId:  17
+1. Name:  Suramin
+2. Groups:  Approved, Investigational
+3. Description:  A polyanionic compound with an unknown mechanism of action. It is used parenterally in the treatment of African trypanosomiasis and it has been used clinically with diethylcarbamazine to kill the adult Onchocerca. (From AMA Drug Evaluations Annual, 1992, p1643) It has also been shown to have potent antineoplastic properties. Suramin is manufactured by Bayer in Germany as Germanin®.
+4. Indication:  For treatment of human sleeping sickness, onchocerciasis and other diseases caused by trypanosomes and worms.
+DrugId:  18
+1. Name:  Ketoconazole
+2. Groups:  Approved, Investigational
+3. Description:  Broad spectrum antifungal agent used for long periods at high doses, especially in immunosuppressed patients. It is a racemate consisting of equimolar amounts of (2R,4S)- and (2S,4R)-ketoconazole with the chiral centers on the acetal ring.
+4. Indication:  For the treatment of the following systemic fungal infections: candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, blastomycosis, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis.
+DrugId:  19
+1. Name:  Quinacrine
+2. Groups:  Approved, Investigational
+3. Description:  An acridine derivative formerly widely used as an antimalarial but superseded by chloroquine in recent years. It has also been used as an anthelmintic and in the treatment of giardiasis and malignant effusions. It is used in cell biological experiments as an inhibitor of phospholipase A2.
+4. Indication:  For the treatment of giardiasis and cutaneous leishmaniasis and the management of malignant effusions.
+DrugId:  20
+1. Name:  Nystatin
+2. Groups:  Approved, Vet approved
+3. Description:  Nystatin is a polyene antifungal drug to which many molds and yeasts are sensitive, including Candida spp. Nystatin has some toxicity associated with it when given intravenously, but it is not absorbed across intact skin or mucous membranes. It is considered a relatively safe drug for treating oral or gastrointestinal fungal infections.
+4. Indication:  For treatment of cutaneous or mucocutaneous mycotic infections caused by Candida species
+DrugId:  21
+1. Name:  Tretinoin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Tretinoin, also known as all-trans-retinoic acid (ATRA), is a naturally occurring derivative of vitamin A (retinol). Retinoids such as tretinoin are important regulators of cell reproduction, proliferation, and differentiation and are used to treat acne and photodamaged skin and to manage keratinization disorders such as ichthyosis and keratosis follicularis. Tretinoin also represents the class of anticancer drugs called differentiating agents and is used in the treatment of acute promyelocytic leukemia (APL).
+4. Indication:  For the the induction of remission in patients with acute promyelocytic leukemia (APL), French-American-British (FAB) classification M3 (including the M3 variant); For the topical treatment of acne vulgaris, flat warts and other skin conditions (psoriasis, ichthyosis congenita, icthyosis vulgaris, lamellar icthyosis, keratosis palmaris et plantaris, epidermolytic hyperkeratosis, senile comedones, senile keratosis, keratosis follicularis (Darier's disease), and basal cell carcinomas.); For palliative therapy to improve fine wrinkling, mottled hyperpigmentation, roughness associated with photodamage.
+DrugId:  22
+1. Name:  Inosine pranobex
+2. Groups:  Approved
+3. Description:  Inosine pranobex (Isoprinosine or Methisoprinol) is a combination of inosine, acetamidobenzoic acid, and dimethylaminoisopropanol used as an antiviral drug.
+4. Indication:  Inosine pranobex is also indicated for mucocutaneous infections due to herpes simplex virus (type 1 and type II) and for treatment of genital warts as adjunctive therapy to podophyllin or carbon dioxide laser. 

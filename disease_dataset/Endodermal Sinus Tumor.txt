@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pseudoephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  For the treatment of nasal congestion, sinus congestion, Eustachian tube congestion, and vasomotor rhinitis, and as an adjunct to other agents in the optimum treatment of allergic rhinitis, croup, sinusitis, otitis media, and tracheobronchitis. Also used as first-line therapy of priapism.
+DrugId:  2
+1. Name:  Phenylephrine
+2. Groups:  Approved
+3. Description:  Phenylephrine is a sympathomimetic amine that acts predominantly on α-adrenergic receptors. It is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+4. Indication:  Phenylephrine is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+DrugId:  3
+1. Name:  Chlorphenamine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in allergic reactions, hay fever, rhinitis, urticaria, and asthma. It has also been used in veterinary applications. One of the most widely used of the classical antihistaminics, it generally causes less drowsiness and sedation than promethazine. [PubChem]
+4. Indication:  For the treatment of rhinitis, urticaria, allergy, common cold, asthma and hay fever.
+DrugId:  4
+1. Name:  Oxymetazoline
+2. Groups:  Approved, Investigational
+3. Description:  A direct acting sympathomimetic used as a vasoconstrictor to relieve nasal congestion. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1251)
+4. Indication:  For treatment of nasal congestion and redness associated with minor irritations of the eye
+DrugId:  5
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  6
+1. Name:  Risedronate
+2. Groups:  Approved, Investigational
+3. Description:  Risedronate is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat Paget's disease of bone.
+4. Indication:  For the treatment of Paget's disease of the bone (osteitis deformans), postmenopausal and glucocorticoid-induced osteoporosis
+DrugId:  7
+1. Name:  Guaifenesin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An expectorant that also has some muscle relaxing action. It is used in many cough preparations. [PubChem]
+4. Indication:  Used to assist the expectoration of phlegm from the airways in acute respiratory tract infections.
+DrugId:  8
+1. Name:  Ibuprofen
+2. Groups:  Approved
+3. Description:  Ibuprofen, a propionic acid derivative, is a prototypical nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties.
+4. Indication:  For symptomatic treatment of rheumatoid arthritis, juvenile rheumatoid arthritis and osteoarthritis. May be used to treat mild to moderate pain and for the management of dysmenorrhea. May be used to reduce fever. Has been used with some success for treating ankylosing spondylitis, gout and psoriatic arthritis. May reduce pain, fever and inflammation of pericarditis. May be used IV with opiates to relieve moderate to severe pain. Ibuprofen lysine may be used IV to treat patent ductus arteriosus (PDA) in premature neonates. 
+DrugId:  9
+1. Name:  Dofetilide
+2. Groups:  Approved, Investigational
+3. Description:  Dofetilide is a class III antiarrhythmic agent that is approved by the Food and Drug Administration (FDA) for the maintenance of sinus rhythm in individuals prone to the formation of atrial fibrillation and flutter, and for the chemical cardioversion to sinus rhythm from atrial fibrillation and flutter.
+4. Indication:  For the maintenance of normal sinus rhythm (delay in time to recurrence of atrial fibrillation/atrial flutter [AF/AFl]) in patients with atrial fibrillation/atrial flutter of greater than one week duration who have been converted to normal sinus rhythm
+DrugId:  10
+1. Name:  Doxylamine
+2. Groups:  Approved, Vet approved
+3. Description:  Histamine H1 antagonist with pronounced sedative properties. It is used in allergies and as an antitussive, antiemetic, and hypnotic. Doxylamine has also been administered in veterinary applications and was formerly used in parkinsonism. [PubChem]
+4. Indication:  Used alone as a short-term sleep aid, in combination with other drugs as a night-time cold and allergy relief drug. Also used in combination with Vitamin B6 (pyridoxine) to prevent morning sickness in pregnant women.
+DrugId:  11
+1. Name:  Naproxen
+2. Groups:  Approved, Vet approved
+3. Description:  An anti-inflammatory agent with analgesic and antipyretic properties. Both the acid and its sodium salt are used in the treatment of rheumatoid arthritis and other rheumatic or musculoskeletal disorders, dysmenorrhea, and acute gout.
+4. Indication:  For the treatment of rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, tendinitis, bursitis, and acute gout. Also for the relief of mild to moderate pain and the treatment of primary dysmenorrhea.
+DrugId:  12
+1. Name:  Denibulin
+2. Groups:  Investigational
+3. Description:  Denibulin is a novel small molecule Vascular Disrupting Agent under development by MediciNova for treatment of solid tumor cancers.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  13
+1. Name:  ADH-1
+2. Groups:  Investigational
+3. Description:  Adherex's biotechnology compound, ADH-1, targets N-cadherin, a protein present on certain tumor cells and established tumor blood vessels. ADH-1 is currently in clinical development in a combination program with a range of chemotherapeutic agents to investigate the synergistic effects noted in our preclinical models. At the end of 2006, the Company also completed patient enrollment in our single-agent Phase Ib/II and Phase II trials of ADH-1.Cadherins are cell adhesion and cell signaling molecules crucial to the development of tissues, organs and organisms. Agents that target and inhibit cadherin function have the potential to attack the progression of cancer at two distinct points:* Direct targeting of cadherins expressed on cancer cells may disturb cadherin-mediated signaling, leading to apoptosis (death) of cancer cells.* Cadherin inhibitors may exploit the inherent structural weaknesses of the tumor vasculature, causing angiolysis (disruption of blood vessels) and tumor damage.As many tumors become more aggressive, invasive, and malignant, researchers have found that N-cadherin is expressed in greater amounts, making it an important target for developing anti-cancer treatments.Poorly differentiated, highly invasive carcinomas are characterized by over-expression of N-cadherin (as opposed to E-cadherin). This change in primary cadherin expression causes the epithelial cells to lose their tightly adherent, polarized and well-defined shape and become loosely adherent, flattened and migratory. Such cadherin switching promotes properties such as dedifferentiation, local invasion and metastasis, leading to poor prognosis.ADH-1 may have utility in a wide variety of cancers as N-cadherin is overexpressed in a variety of tumors. As tumors progress to become higher grade, invasive and more metastatic, the frequency of N-cadherin expression generally rises.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), melanoma, ovarian cancer, and solid tumors.
+DrugId:  14
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  15
+1. Name:  AP5346
+2. Groups:  Investigational
+3. Description:  AP5346 is designed to target a diaminocyclohexane platinum (Pt) moiety to tumors through pH-sensitive linkage to a 25 kDa hydroxypropylmethacrylamide polymer. It is being pursued by Access Pharmaceuticals, Inc.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  16
+1. Name:  OXI-4503
+2. Groups:  Investigational
+3. Description:  OXI-4503 is investigated in clinical trials for treating cancer/tumors. OXI-4503 is a solid. OXI-4503 blocks and destroys tumor vasculature, resulting in extensive tumor cell death and necrosis. OXI-4503 (combretastatin A1 di-phosphate / CA1P) is a unique and highly potent, dual-mechanism vascular disrupting agent (VDA). In addition, however, preclinical data demonstrates that OXI-4503 is metabolized by oxidative enzymes (e.g., tyrosinase and peroxidases), which are elevated in many solid tumors and tumor infiltrates, to an orthoquinone chemical species that has direct cytotoxic effects on tumor cells. Preclinical studies have demonstrated that OXI-4503 has (i) single-agent activity against a range of xenograft tumor models; and (ii) synergistic or additive effects when incorporated in various combination regimens with chemotherapy, molecularly-targeted therapies (including tumor-angiogenesis inhibitors), and radiation therapy.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  17
+1. Name:  XL765
+2. Groups:  Investigational
+3. Description:  XL765 is an orally available small molecule that has been shown in preclinical studies to selectively inhibit the activity of phosphoinositide-3 kinase (PI3K) and mammalian target of rapamycin (mTOR). It is being developed by Exelixis, Inc.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  18
+1. Name:  Cintredekin Besudotox
+2. Groups:  Investigational
+3. Description:  Cintredekin besudotox has been developed as a specific tumor-targeting agent, which is administered by positive-pressure convection-enhanced delivery (CED) directly to brain tissue at risk for residual infiltrating glioblastoma multiforme (GBM) after tumor resection. cintredekin besudotox is made from a human protein, Interleukin 13 (IL13), linked to a bacterial toxin, Pseudomonas exotoxin (PE). The IL13 portion binds to receptors on the tumor.
+4. Indication:  Investigated for use/treatment in brain cancer.
+DrugId:  19
+1. Name:  IDM-4
+2. Groups:  Investigational
+3. Description:  IDM-4 is an immuno-designed molecule that completed phase I/II of investigation for the treatment of Leukemia. It is a monoclonal antibody-specific antigen that can selectively target cancer-affected cells by coupling with tumor cell-killing MAK cells, which are derived from the patient's own monocytes. Trials of this drug have most likely been discontinued by the manufacturer.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  20
+1. Name:  PRLX 93936
+2. Groups:  Investigational
+3. Description:  PRLX 93936 is selectively toxic to cancer cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  21
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  22
+1. Name:  Corticorelin acetate
+2. Groups:  Investigational
+3. Description:  Corticorelin acetate has been investigated for the treatment of Brain Edema and Brain Tumor.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  ATN-161
+2. Groups:  Investigational
+3. Description:  ATN-161 is a non-RGD based integrin binding peptide targeting alpha-5 beta-1 and alpha-v beta-3. It inhibits the migration and adhesion of particular integrins on activated endothelial cells that play a critical role in tumor angiogenesis. This approach targeting both the tumor vasculature and the cancer cells themselves, may be effective in single therapy as well as combination therapy. Since the expression of alpha(5)beta(1) integrin by cancer cells and the role of this molecule in tumor angiogenesis is similar across a range of different cancers, the therapeutic benefit of ATN-161 is expected to extend to a variety of cancers.
+4. Indication:  Investigated for use/treatment in brain cancer and cancer/tumors (unspecified).
+DrugId:  24
+1. Name:  MBT-0312
+2. Groups:  Investigational
+3. Description:  MediGene's newly acquired drug candidates MBT-0312 aim at a novel method of cancer therapy by "starving out" tumors. 
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  25
+1. Name:  Ulocuplumab
+2. Groups:  Investigational
+3. Description:  Ulocuplumab is under investigation in Solid Tumor.
+4. Indication:  Not Available

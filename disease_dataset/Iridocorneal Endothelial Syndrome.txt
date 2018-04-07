@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ramucirumab
+2. Groups:  Approved, Investigational
+3. Description:  Ramucirumab is a human monoclonal antibody (IgG1) against vascular endothelial growth factor receptor 2 (VEGFR2), a type II trans-membrane tyrosine kinase receptor expressed on endothelial cells. By binding to VEGFR2, ramucirumab prevents binding of its ligands (VEGF-A, VEGF-C, and VEGF-D), thereby preventing VEGF-stimulated receptor phosphorylation and downstream ligand-induced proliferation, permeability, and migration of human endothelial cells. VEGFR stimulation also mediates downstream signalling required for angiogenesis and is postulated to be heavily involved in cancer progression, making it a highly likely drug target. In contrast to other agents directed against VEGFR-2, ramucirumab binds a specific epitope on the extracellular domain of VEGFR-2, thereby blocking all VEGF ligands from binding to it. Ramucirumab is indicated for us in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+4. Indication:  For use in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+DrugId:  2
+1. Name:  IMC-1C11
+2. Groups:  Investigational
+3. Description:  IMC-1C11 is an anti-angiogenesis agent. It is a chimeric anti-kinase insert domain-containing receptor (KDR) antibody that blocks VEGFR-KDR interaction and inhibits VEGFR-induced endothelial cell proliferation. IMC-1C11 is used for treatment of patients with liver metastases from colorectal carcinoma.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  3
+1. Name:  ABT-869
+2. Groups:  Investigational
+3. Description:  ABT-869 is a small molecule vascular endothelial growth factor (VEGF) receptor-based kinase inhibitor that is designed to suppress tumor growth by preventing the formation of new blood vessels that supply the tumor with oxygen and nutrients and by inhibiting key angiogenic signaling pathways. ABT-869 is intended for the treatment of hematologic malignancies and the solid tumors.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid), myelodysplastic syndrome, and solid tumors.
+DrugId:  4
+1. Name:  Sirna-027
+2. Groups:  Investigational
+3. Description:  Sirna-027 is a chemically modified short interfering RNA(siRNA) targeting Vascular Endothelial Growth Factor Receptor-1(VEGFR-1). VEGFR-1 is a key component of the clinically validated vascular endothelial growth factor (VEGF) pathway. Sirna-027 is developed by Sirna Therapeutics and is under the phase I of clinical trails. It is used to treat Macular degeneration.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  5
+1. Name:  IRL-1620
+2. Groups:  Investigational
+3. Description:  SPI-1620 is an endothelin B receptor agonist. In animal models SPI-1620 selectively and transiently increases tumor blood flow allowing increased delivery of anticancer agents to the tumor. It is being developed as an adjunct to chemotherapy.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  6
+1. Name:  Technetium Tc-99m etifenin
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  FX06
+2. Groups:  Investigational
+3. Description:  FX06 is a naturally occurring peptide derived from the neo-N-terminus of fibrin (Bbeta(15-42)). It prevents leukocyte migration through the gap junctions of endothelial cells. FX06 has proven safe in acute and subchronic toxicological studies and recently entered clinical development. It is being developed by Fibrex Medical Inc.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury and myocardial infarction.
+DrugId:  8
+1. Name:  ATN-161
+2. Groups:  Investigational
+3. Description:  ATN-161 is a non-RGD based integrin binding peptide targeting alpha-5 beta-1 and alpha-v beta-3. It inhibits the migration and adhesion of particular integrins on activated endothelial cells that play a critical role in tumor angiogenesis. This approach targeting both the tumor vasculature and the cancer cells themselves, may be effective in single therapy as well as combination therapy. Since the expression of alpha(5)beta(1) integrin by cancer cells and the role of this molecule in tumor angiogenesis is similar across a range of different cancers, the therapeutic benefit of ATN-161 is expected to extend to a variety of cancers.
+4. Indication:  Investigated for use/treatment in brain cancer and cancer/tumors (unspecified).
+DrugId:  9
+1. Name:  Lenvatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFRα), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers.Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.
+4. Indication:  Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer.
+DrugId:  10
+1. Name:  Vandetanib
+2. Groups:  Approved
+3. Description:  Vandetanib is an oral once-daily kinase inhibitor of tumour angiogenesis and tumour cell proliferation with the potential for use in a broad range of tumour types.On April 6 2011, vandetanib was approved by the FDA to treat nonresectable, locally advanced, or metastatic medullary thyroid cancer in adult patients.
+4. Indication:  Vandetanib is currently approved as an alternative to local therapies for both unresectable and disseminated disease. Because Vandetanib can prolong the Q-T interval, it is contraindicated for use in patients with serious cardiac complications such as congenital long QT syndrome and uncompensated heart failure. 
+DrugId:  11
+1. Name:  anti-alpha5Beta1-integrin antibody
+2. Groups:  Investigational
+3. Description:  Integrins are important adhesion molecules that regulate tumor and endothelial cell survival, proliferation and migration. The integrin alpha5beta1 has been shown to play a critical role during angiogenesis. anti-alpha5beta1 integrin antibody inhibits angiogenesis, including vessel formation induced by vascular endothelial growth factor (VEGF), basic fibroblast growth factor (bFGF), as well as other pro-angiogenic growth factors.
+4. Indication:  Investigated for use/treatment in colorectal cancer, pancreatic cancer, and solid tumors.
+DrugId:  12
+1. Name:  Pegdinetanib
+2. Groups:  Investigational
+3. Description:  CT-322 is a proprietary Adnectin(TM) protein therapeutic that, in preclinical studies, specifically binds to vascular endothelial growth factor receptor 2 (VEGFR-2), which regulates the primary tumor angiogenesis pathway. As a result, CT-322 blocks all known ligands for VEGFR-2.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and macular degeneration.
+DrugId:  13
+1. Name:  Pegpleranib
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in macular degeneration and eye disorders/infections.
+DrugId:  14
+1. Name:  Bevacizumab
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant humanized monoclonal IgG1 antibody that binds to and inhibits the biologic activity of human vascular endothelial growth factor (VEGF). Bevacizumab contains human framework regions and the complementarity-determining regions of a murine antibody that binds to VEGF. Bevacizumab is produced in a Chinese Hamster Ovary mammalian cell expression system in a nutrient medium containing the antibiotic gentamicin and has a molecular weight of approximately 149 kilodaltons.
+4. Indication:  As part of combination therapy for metastatic colorectal cancer and HER2-negative metastatic breast cancer.
+DrugId:  15
+1. Name:  ATG003
+2. Groups:  Investigational
+3. Description:  ATG003, a novel anti-angiogenic drug candidate and a formulation of mecamylamine, is currently in clinical development for neovascular age-related macular degeneration.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  16
+1. Name:  PI-88
+2. Groups:  Investigational
+3. Description:  PI-88 is a mixture of highly sulfated, monophosphorylated mannose oligosaccharides, derived from the extracellular phosphomannan of the yeast Pichia (Hansenula) holstii, with potential antiangiogenic activity.
+4. Indication:  Investigated for use/treatment in hepatocellular carcinoma, liver cancer, melanoma, and multiple myeloma.
+DrugId:  17
+1. Name:  Sonepcizumab
+2. Groups:  Investigational
+3. Description:  A humanized monoclonal antibody directed against sphingosine 1-phosphate (S1P) with potential antiangiogenic and antineoplastic activities. Upon administration, sonepcizumab binds S1P, which may result in the inhibition of tumor angiogenesis. S1P is the extracellular ligand for the G protein-coupled lysophospholipid receptor EDG-1 (endothelial differentiation gene-1).
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  18
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  19
+1. Name:  VEGF-AS
+2. Groups:  Investigational
+3. Description:  VEGF-AS (Veglin) is an anti-angiogenesis non-chemotherapy drug (angiogenesis inhibitor) that was developed by VasGene Therapeutics, Inc. for the treatment of a variety of malignancies including mesothelioma. Veglin is one of several newly developed non-chemotherapy drugs being tested for possible utilization in the ongoing struggle to combat malignant mesothelioma.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  20
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  21
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  22
+1. Name:  Bevasiranib
+2. Groups:  Investigational
+3. Description:  Bevasiranib is a small interfering RNA (siRNA) targeting vascular endothelial growth factor A (VEGF-A).
+4. Indication:  Investigated for use/treatment in macular degeneration and diabetic retinopathy.
+DrugId:  23
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  24
+1. Name:  Vatalanib
+2. Groups:  Investigational
+3. Description:  Vatalanib (PTK787/ZK-222584) is a new oral antiangiogenic molecule that inhibits all known vascular endothelial growth factor receptors. Vatalanib is under investigation for the treatment of solid tumors.
+4. Indication:  Used in combination with first- and second-line chemotherapy for the treatment of metastatic colorectal cancer and non-small cell lung cancer (NSCLC).
+DrugId:  25
+1. Name:  Iroxanadine
+2. Groups:  Investigational
+3. Description:  BRX-235 (iroxanadine) is a a novel small molecule synthesized by Biorex, Hungary that acts as a cardioprotective agent. It induces phosphorylation of p38 SAPK, which plays an important role in EC homeostasis. endothelial cell (EC). EC function plays a central role in vascular diseases (e.g. atherosclerosis, restenosis, diabetic angiopathies, microvascular angina, peripheral arterial disease). BRX-235 also causes translocation of calcium-dependent protein kinase C isoform to membranes.
+4. Indication:  Investigated for use/treatment in atherosclerosis and vascular diseases as a cardioprotective agent. Its use has also been suggested for the prevention of early restenosis following vascular surgery or balloon angioplasty.

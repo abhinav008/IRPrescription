@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  2
+1. Name:  Trafermin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in coronary artery disease, peripheral vascular disease, periodontal disease, bone fractures, entero-related fistulae, and diabetic foot ulcers.
+DrugId:  3
+1. Name:  Pegpleranib
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in macular degeneration and eye disorders/infections.
+DrugId:  4
+1. Name:  Actelion-1
+2. Groups:  Investigational
+3. Description:  Actelion-1 is a tissue-targeting Endothelin Receptor Antagonist that has been discovered by Actelion Pharmaceuticals.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, hypertension, and pulmonary hypertension.
+DrugId:  5
+1. Name:  Gadoteridol
+2. Groups:  Approved, Investigational
+3. Description:  Gadoteridol provides contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies. n MRI, visualization of normal and pathological brain tissue depends in part on variations in the radiofrequency signal intensity that occur with changes in proton density, alteration of the T1, and variation in T2. When placed in a magnetic field, gadoteridol shortens the T1 relaxation time in tissues where it accumulates. Abnormal vascularity or disruption of the blood-brain barrier allows accumulation of gadoteridol in lesions such as neoplasms, abscesses, and subacute infarcts.
+4. Indication:  Gadoteridol is an MRI contrast agent used for contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies.
+DrugId:  6
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  CDP323
+2. Groups:  Investigational
+3. Description:  CDP323 is a small-molecule prodrug antagonist of the vascular cell adhesion molecule 1 (VCAM-1) binding to alpha4-integrins. It was originally developed by the British biopharmaceutical company Celltech plc. (now UCB S.A.) and is a putative new drug for oral treatment of multiple sclerosis.
+4. Indication:  Investigated for use/treatment in multiple sclerosis.
+DrugId:  8
+1. Name:  FX06
+2. Groups:  Investigational
+3. Description:  FX06 is a naturally occurring peptide derived from the neo-N-terminus of fibrin (Bbeta(15-42)). It prevents leukocyte migration through the gap junctions of endothelial cells. FX06 has proven safe in acute and subchronic toxicological studies and recently entered clinical development. It is being developed by Fibrex Medical Inc.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury and myocardial infarction.
+DrugId:  9
+1. Name:  Capromab pendetide
+2. Groups:  Approved
+3. Description:  Capromab is a Murine IgG1 monoclonal 7E11-C5.3 antibody that recognizes prostate specific membrane antigen (PSMA – also known as glutamate carboxypeptidase 2) from prostate cancer cells and normal prostate tissue. It is linked to pendetide, a derivative of DTPA. Pendetide acts as a chelating agent for the radionuclide indium-111. Capromab is used to image the extent of prostate cancer.
+4. Indication:  For diagnosis of prostate cancer and detection of intra-pelvic metastases.
+DrugId:  10
+1. Name:  Nesiritide
+2. Groups:  Approved, Investigational
+3. Description:  Nesiritide is a medication used to treat acutely decompensated congestive heart failure with dyspnea at rest or with minimal exertion (such as talk, eating or bathing). Nesiritide is the recombinant form of the 32 amino acid human B-type natriuretic peptide, which is normally produced by the ventricular myocardium.
+4. Indication:  For the intravenous treatment of patients with acutely decompensated congestive heart failure who have dyspnea at rest or with minimal activity.
+DrugId:  11
+1. Name:  Metrizamide
+2. Groups:  Approved
+3. Description:  Metrizamide is a solute for density gradient centrifugation offering higher maximum solution density without the problems of increased viscosity. It is also used as a resorbable, non-ionic contrast medium.
+4. Indication:  Metrizamide is used for lumbar, thoracic, cervical, and total columnar myelography to determine the presence of abnormalities in the spinal column, spinal canal, and central nervous system (CNS) as well as for cisternography by direct injection using standard radiologic techniques to visualize the basal cistern of the brain. For computerized tomography (CT) of the intracranial subarachnoid spaces and for ventriculography by direct injection using standard radiologic techniques to visualize the cerebral ventricles. Also used in pediatric angiocardiography to visualize lesions or malformations of the heart and obstructions or anomalies of the major thoracic vessels. Also used in adult peripheral arteriography to visualize specific regions of the vascular system and blood flow in such areas to help in the diagnosis and evaluation of neoplasms (known or suspected) or vascular diseases (congenital or acquired) that may cause changes in normal vascular anatomy or physiology. Metrizamide is also indicated in adults for intravenous digital arteriography of head and neck.
+DrugId:  12
+1. Name:  Enfortumab vedotin
+2. Groups:  Investigational
+3. Description:  Enfortumab vedotin has been used in trials studying the treatment of Tumors, Neoplasms, and Medical Oncology.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Benzthiazide
+2. Groups:  Approved
+3. Description:  Benzthiazide is used to treat hypertension and edema. Like other thiazides, benzthiazide promotes water loss from the body (diuretics). They inhibit Na+/Cl- reabsorption from the distal convoluted tubules in the kidneys. Thiazides also cause loss of potassium and an increase in serum uric acid. Thiazides are often used to treat hypertension, but their hypotensive effects are not necessarily due to their diuretic activity. Thiazides have been shown to prevent hypertension-related morbidity and mortality although the mechanism is not fully understood. Thiazides cause vasodilation by activating calcium-activated potassium channels (large conductance) in vascular smooth muscles and inhibiting various carbonic anhydrases in vascular tissue.
+4. Indication:  For the treatment of high blood pressure and management of edema.
+DrugId:  14
+1. Name:  EG004
+2. Groups:  Investigational
+3. Description:  EG004 is a novel product consisting of a local delivery device and a gene-based medicine, being developed to prevent the blocking of veins and arteries that frequently occurs after vascular surgery. The initial target market is haemodialysis graft access surgery, a procedure in which patients whose kidneys have failed have a plastic tube grafted between blood vessels generally in their forearm so that their blood can be regularly filtered using a dialysis machine. EG004 has completed a Phase II trial, this being the first part of the Phase II/III study for which it has received approval from the US Recombinant DNA Advisory Committee (RAC).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and kidney disease.
+DrugId:  15
+1. Name:  Panitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Panitumumab (ABX-EGF) is a recombinant human IgG2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (EGFR). This drug is an antineoplastic agent.
+4. Indication:  For the treatment of EGFR-expressing, metastatic colorectal carcinoma that is refractory to fluoropyrimidine-, oxaliplatin-, and irinotecan- containing chemotherapy regimens.
+DrugId:  16
+1. Name:  Flunarizine
+2. Groups:  Approved
+3. Description:  Flunarizine is a selective calcium entry blocker with calmodulin binding properties and histamine H1 blocking activity. It is effective in the prophylaxis of migraine, occlusive peripheral vascular disease, vertigo of central and peripheral origin, and as an adjuvant in the therapy of epilepsy.
+4. Indication:  Used in the prophylaxis of migraine, occlusive peripheral vascular disease, vertigo of central and peripheral origin, and as an adjuvant in the therapy of epilepsy.
+DrugId:  17
+1. Name:  Coagulation factor VII human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation factor VII is human serine protease type enzyme that is involved in the extrinsic coagulation cascade which results in blood clotting.
+4. Indication:  May be administered in cases of uncontrolled bleeding. Factor VII alone can be used in the treatment of congenital hemophilia A or B, acquired hemophilia, congenital factor VII deficiency, and Glanzmann's thrombasthenia. Off label use in the treatment of refractory bleeding after cardiac surgery and warfarin related intracerebral hemorrhage. Brands for human factor VII are currently only in combination with other vitamin K coagulation factors and can be used to reverse vitamin K antagonist activity in patients with acute major bleeds or for urgent surgery/invasive procedures. 
+DrugId:  18
+1. Name:  Clevidipine
+2. Groups:  Approved, Investigational
+3. Description:  Clevidipine is a dihydropyridine L-type calcium channel blocker that is selective for vascular smooth muscle and is indicated for blood pressure reduction when oral therapy is not an option. 
+4. Indication:  For the treatment of hypertension.
+DrugId:  19
+1. Name:  Nilvadipine
+2. Groups:  Approved, Investigational
+3. Description:  Nilvadipine is a calcium channel blocker (CCB) for treatment of hypertension.
+4. Indication:  For the management of vasospastic angina, chronic stable angina and hypertension.
+DrugId:  20
+1. Name:  Patritumab
+2. Groups:  Investigational
+3. Description:  Patritumab has been used in trials studying the treatment of LUNG CANCER, Solid Tumors, Neoplasms by Site, Head and Neck Neoplasms, and Non-small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Defibrotide
+2. Groups:  Approved, Investigational
+3. Description:  Defibrotide is the sodium salt of a mixture of single-stranded oligodeoxyribonucleotides derived from porcine mucosal DNA. It has been shown to have antithrombotic, anti-inflammatory and anti-ischemic properties (but without associated significant systemic anticoagulant effects). It is marketed under the brand names Dasovas (FM), Noravid, and Prociclide in a variety of countries. In the USA it is was approved in March, 2016 as Defitelio.
+4. Indication:  Defibrotide is used to treat or prevent a failure of normal blood flow (occlusive venous disease, OVD) in the liver of patients who have had bone marrow transplants or received certain drugs such as oral estrogens, mercaptopurine, and many others.
+DrugId:  22
+1. Name:  Methysergide
+2. Groups:  Approved
+3. Description:  An ergot derivative that is a congener of lysergic acid diethylamide. It antagonizes the effects of serotonin in blood vessels and gastrointestinal smooth muscle, but has few of the properties of other ergot alkaloids. Methysergide is used prophylactically in migraine and other vascular headaches and to antagonize serotonin in the carcinoid syndrome.
+4. Indication:  For the treatment of vascular headache
+DrugId:  23
+1. Name:  TAK-448
+2. Groups:  Investigational
+3. Description:  TAK-448 has been used in trials studying the treatment of Prostate Cancer, Low Testosterone, Prostatic Neoplasms, and Hypogonadotropic Hypogonadism.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  25
+1. Name:  Gadoversetamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadoversetamide is a gadolinium compound used as a contrast agent in magnetic resonance imaging (MRI), particularly imaging of the brain, spine and liver. It is marketed under the trade name OptiMARK.
+4. Indication:  Gadoversetamide is an MRI contrast agent used for MRI diagnostic procedures to provide increased enhancement and visualization of lesions of the brain, spine and liver, including tumors.

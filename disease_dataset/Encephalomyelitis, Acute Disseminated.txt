@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  2
+1. Name:  Micafungin
+2. Groups:  Approved, Investigational
+3. Description:  Micafungin is an antifungal drug. It belongs to the antifungal class of compounds known as echinocandins and exerts its effect by inhibiting the synthesis of 1,3-beta-D-glucan, an integral component of the fungal cell wall.
+4. Indication:  For use in the treatment of candidemia, acute disseminated candidiasis, and certain other invasive Candida infections, as well as esophageal candidiasis, and prophylaxis of Candida infections in patients undergoing hematopoietic stem cell transplantation. Micafungin is also used as an alternative for the treatment of oropharyngeal candidiases and has been used with some success as primary or salvage therapy, alone or in combination with other antifungals, for the treatment of invasive aspergillosis.
+DrugId:  3
+1. Name:  Doxorubicin
+2. Groups:  Approved, Investigational
+3. Description:  Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius. Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
+4. Indication:  Doxorubicin is used to produce regression in disseminated neoplastic conditions like acute lymphoblastic leukemia, acute myeloblastic leukemia, Wilms’ tumor, neuroblastoma, soft tissue and bone sarcomas, breast carcinoma, ovarian carcinoma, transitional cell bladder carcinoma, thyroid carcinoma, gastric carcinoma, Hodgkin’s disease, malignant lymphoma and bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types. Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.
+DrugId:  4
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  5
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  6
+1. Name:  Ganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  An acyclovir analog that is a potent inhibitor of the Herpesvirus family including cytomegalovirus. Ganciclovir is used to treat complications from AIDS-associated cytomegalovirus infections. [PubChem]
+4. Indication:  For induction and maintenance in the treatment of cytomegalovirus (CMV) retinitis in immunocompromised patients, including patients with acquired immunodeficiency syndrome (AIDS). Also used in the treatment of severe cytomegalovirus (CMV) disease, including CMV pneumonia, CMV gastrointestinal disease, and disseminated CMV infections, in immunocompromised patients.
+DrugId:  7
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  ROX-888
+2. Groups:  Investigational
+3. Description:  ROX-888 is ROXRO's lead compound which is currently in Phase 3 trials for the treatment of acute pain, including post-operative pain. 
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  9
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Thrombomodulin Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Thrombomodulin Alfa is a novel, recombinant and soluble thrombomodulin (ART-123). It is a human protein with both thrombin inhibiting and protein C stimulating activities, for the potential treatment of thromboembolism and blood clotting disorders, such as disseminated intravascular thromboembolism. [5]
+4. Indication:  Investigated for use/treatment in blood preservative, blood (blood forming organ disorders, unspecified), sepsis and septicemia, and thrombosis.
+DrugId:  11
+1. Name:  WL-1002
+2. Groups:  Investigational
+3. Description:  WL-1002 is developed by Winston Laboratories which is a topical cream formulation of 075% zucapaicin (also known as civamide), for the treatment of pain due to osteoarthritis.
+4. Indication:  Investigated for use/treatment in osteoarthritis and pain (acute or chronic).
+DrugId:  12
+1. Name:  Solnatide
+2. Groups:  Investigational
+3. Description:  Solnatide has been used in trials studying the treatment of Acute Lung Injury.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Rifabutin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum antibiotic that is being used as prophylaxis against disseminated Mycobacterium avium complex infection in HIV-positive patients. [PubChem]
+4. Indication:  For the prevention of disseminated Mycobacterium avium complex (MAC) disease in patients with advanced HIV infection.
+DrugId:  14
+1. Name:  Turpentine
+2. Groups:  Approved, Experimental
+3. Description:  Turpentine (also called spirit of turpentine, oil of turpentine, wood turpentine and colloquially turps) is a fluid obtained by the distillation of resin obtained from live trees, mainly pines. It is mainly used as a solvent and as a source of materials for organic synthesis. Turpentine is composed of terpenes, mainly the monoterpenes alpha-pinene and beta-pinene with lesser amounts of carene, camphene, dipentene, and terpinolene.
+4. Indication:  Turpentine has been used experimentally in a bath for the treatment of disseminated sclerosis and sexual dysfunction. It also has been studied for its antibacterial activity and inhibition of osteoclast activity. Turpentine is utilized in experimental models of inflammation to induce a systemic inflammatory immune response in animals.
+DrugId:  15
+1. Name:  Antithrombin III human
+2. Groups:  Approved
+3. Description:  A plasma alpha 2 glycoprotein that accounts for the major antithrombin activity of normal plasma and also inhibits several other enzymes. It is a member of the serpin superfamily.
+4. Indication:  Antithrombin III human is a human antithrombin (AT) indicated in patients with hereditary antithrombin deficiency for the treatment and prevention of thromboembolism and prevention of peri-operative and peri-partum thromboembolism
+DrugId:  16
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Vandetanib
+2. Groups:  Approved
+3. Description:  Vandetanib is an oral once-daily kinase inhibitor of tumour angiogenesis and tumour cell proliferation with the potential for use in a broad range of tumour types.On April 6 2011, vandetanib was approved by the FDA to treat nonresectable, locally advanced, or metastatic medullary thyroid cancer in adult patients.
+4. Indication:  Vandetanib is currently approved as an alternative to local therapies for both unresectable and disseminated disease. Because Vandetanib can prolong the Q-T interval, it is contraindicated for use in patients with serious cardiac complications such as congenital long QT syndrome and uncompensated heart failure. 
+DrugId:  18
+1. Name:  Pirlindole
+2. Groups:  Approved
+3. Description:  Pirlindole is a reversible inhibitor of monoamine oxidase A (RIMA) which was developed and is currently used in Russia as an antidepressant. It is structurally and pharmacologically related to metralindole.Pirlindole is a selective, reversible inhibitor of monoamine oxidase (MAO) subtype A (MAO-A) that is approved in several European and non-European countries for the treatment of major depression. The antidepressant efficacy and safety of pirlindole have been demonstrated in numerous studies and, supported by many years of clinical experience in the treatment of depression. Pirlindole's efficacy and safety have also been shown in the treatment of fibromyalgia.
+4. Indication:  For the treatment of major depression.It is being studied in the treatment of fibromyalgia pain syndrome. One study determined that the effect of pirlindole on sensorimotor performance while driving a motor vehicle shows many similarities to that of placebo. The drug appears to stimulate the central nervous system, rather than exhibit a sedative effect, like many antidepressants. Because of its selective, reversible inhibition of monoamine oxidase (MAO-A) and short half-life, unpleasant "cheese effects" are avoided. This refers to the effects of consuming tyramine-rich foods, such as cheese while medicated with monoamine oxidase inhibitors, leading to severe headaches and hypertension [6]. of The available evidence supports pirlindole as a safe and effective treatment option for the management of depression and fibromyalgia syndrome [5].
+DrugId:  19
+1. Name:  AeroLEF
+2. Groups:  Investigational
+3. Description:  AeroLEF™ (aerosolized liposome-encapsulated fentanyl) is a novel, proprietary inhalation formulation of free and liposome-encapsulated fentanyl intended to provide rapid, extended and personalized analgesia for patients experiencing acute pain episodes. AeroLEF™ is in development for the treatment of moderate to severe pain, including cancer pain.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  20
+1. Name:  AT1022
+2. Groups:  Investigational
+3. Description:  AT1022 is a hydromorphone skin patch designed to provide rapid and sustained delivery of a potent opiate for the management of severe pain.AT1022 incorporates PassPort(TM) system, developed to deliver protein and peptide drugs, small-molecule drugs, genes and vaccines across the skin for local and systemic effect.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  21
+1. Name:  AX200
+2. Groups:  Investigational
+3. Description:  AX200, which has been developed for the treatment of stroke, is the most advanced drug candidate and is halfway through the process of gaining clinical approval. The expression of the endogenous AX200 protein in the brain is increased after brain damage. Thus, if this drug administered in the acute phase of stroke, the brain’s own protective action is supported. And this is where the double neurotherapeutic approach is most beneficial: AX200 stops neuronal cell death in the acute phase of stroke, while stimulating simultaneously the regeneration of nervous tissue through the induction of neuro- and arteriogenesis and supporting the reorganisation of the nervous system.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and strokes.
+DrugId:  22
+1. Name:  99mTc-glucarate
+2. Groups:  Investigational
+3. Description:  99mTc-glucarate(GLA) is an agent for non-invasive detection of breast tumours.
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  23
+1. Name:  Lirilumab
+2. Groups:  Investigational
+3. Description:  Lirilumab has been used in trials studying the treatment of Leukemia, CANCER,NOS, Multiple Myeloma, Lymphocytic Leukemia, and Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  25
+1. Name:  AVI-4020
+2. Groups:  Investigational
+3. Description:  AVI-4020 is a neugene antisense drug candidate for the treatment of patients with acute West Nile virus disease who have serious neurological impairment (WNV neuroinvasive disease).
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.

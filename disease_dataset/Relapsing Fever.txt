@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Yellow Fever Vaccine
+2. Groups:  Approved, Investigational
+3. Description:  Yellow Fever vaccine prevents against Yellow Fever, a viral hemorrhagic disease caused by the transmission of a flavivirus through the bite of an infected mosquito. Symptoms of Yellow Fever can range from asymptomatic, to mild flu-like illness, to more severe symptoms such as shock, jaundice, internal bleeding, and organ failure [4]. Interestingly, Yellow Fever got its name from the characteristic yellowing of the skin and eyes that occurs from the development of jaundice when the virus attacks the liver. Although there is supportive treatment available for managing Yellow Fever, there are currently no antivirals developed to specifically treat Yellow Fever. Vaccination with Yellow Fever vaccine is therefore considered to be the most important and effective measure to protect against Yellow Fever, with protective immunity developing within 10 days after vaccination; in two separate clinical trials of Yellow Fever Vaccine, 90% of subjects seroconverted within 10 days after vaccination, and 100% of subjects seroconverted within 14 days [FDA Label]. The World Health Organization no longer recommends the use of a 10-year booster dose following primary immunization, as a single dose is "sufficient to confer life-long immunity against yellow fever disease" [3]. Yellow Fever is most commonly found in the southern hemisphere, in tropical regions of Africa and Central/South America [2]. The World Health Organization recommends routine vaccination in countries where Yellow Fever is endemic, and for travellers going to endemic areas as proof of vaccination is often a requirement at border crossings to prevent international spread of the disease [2, 5].Yellow Fever Vaccine is a subcutaneously administered vaccination for the active immunization and prophylaxis of yellow fever in pediatric patients 9 months of age and older. It is composed of two live, attenuated strains of yellow fever virus, 17D-204 and 17DD, which have been shown to elicit an immune response identical to that induced by wild-type infection [FDA Label]. The FDA recommends vaccination with Yellow Fever Vaccine for persons living in or travelling to endemic areas and for laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus.
+4. Indication:  Yellow Fever Vaccine is indicated for active immunization for the prevention of yellow fever in persons 9 months of age and older in the following categories:Persons Living in or Traveling to Endemic Areas: While the actual risk for contracting yellow fever during travel is probably low, variability of itineraries, behaviors and seasonal incidence of disease make it difficult to predict the actual risk for a given individual living in or traveling to a known endemic or epidemic area. Greater risk is associated with living in or traveling to areas of South America and Africa where yellow fever infection is officially reported at the time of travel and with traveling outside the urban areas of countries that do not officially report the disease but that lie in a yellow fever endemic zone.Persons Travelling Internationally Through Countries with Yellow Fever: Some countries require an individual to have a valid International Certificate of Vaccination or Prophylaxis (ICVP) if the individual has been in countries either known or thought to harbor yellow fever virus. The certificate becomes valid 10 days after vaccination with Yellow Fever Vaccine.Laboratory Personnel: Laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus strains may be at risk of exposure by direct or indirect contact or by aerosols.
+DrugId:  2
+1. Name:  Ozanezumab
+2. Groups:  Investigational
+3. Description:  Ozanezumab has been used in trials studying the treatment of Multiple Sclerosis, Amyotrophic Lateral Sclerosis, and Multiple Sclerosis, Relapsing-Remitting.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  4
+1. Name:  MK-0812
+2. Groups:  Investigational
+3. Description:  MK0812 has been used in trials studying the treatment of Relapsing-Remitting Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  GSK-2018682
+2. Groups:  Investigational
+3. Description:  GSK2018682 has been investigated for the treatment of Multiple Sclerosis, Relapsing-Remitting.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Peginterferon beta-1a
+2. Groups:  Approved
+3. Description:  Peginterferon beta-1a is an interferon beta-1a to which a single, linear 20,000 dalton (Da) methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (PEG) molecule is covalently attached to the alpha amino group of the N-terminal amino acid residue. The amino acid sequence of the recombinant interferon beta-1a is identical to that of the human interferon beta counterpart. Although it's mechanism of action is unknown, peginterferon beta-1a is indicated for use in relapsing forms of Multiple Sclerosis (MS).Interferon beta was the first drug to alter the course of MS, however multiple side effects and the need for weekly subcutaneous injection make it difficult to use. Interferon beta was subsequently PEGylated (covalently attached to polyethylene glycol) to extend its duration of action to every 14 days. It is currently available as peginterferon beta-1a as the FDA-approved product Plegridy.
+4. Indication:  For the treatment of patients with relapsing forms of multiple sclerosis.
+DrugId:  7
+1. Name:  BMS-214662
+2. Groups:  Investigational
+3. Description:  BMS-214662 has been used in trials studying the treatment of Childhood Myelodysplastic Syndromes, Refractory Anemia With Excess Blasts, Recurrent Adult Acute Myeloid Leukemia, Relapsing Chronic Myelogenous Leukemia, and Adult Acute Promyelocytic Leukemia (M3), among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Mitoxantrone
+2. Groups:  Approved, Investigational
+3. Description:  An anthracenedione-derived antineoplastic agent. [PubChem]
+4. Indication:  For the treatment of secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis
+DrugId:  9
+1. Name:  Ocrelizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ocrelizumab is a CD20-directed cytolytic antibody indicated for the treatment of patients with relapsing or primary progressive forms of multiple sclerosis. It is a second-generation recombinant humanized monoclonal IgG1 antibody that selectively targets the B lymphocytes that express the CD20 antigen. As a humanized molecule, ocrelizumab is expected to be less immunogenic with repeated infusions which improves the benefit-to-risk profile for patients with relapsing or progressive forms of MS. Multiple sclerosis (MS) is a chronic, inflammatory, autoimmune disease of the central nervous system that leads to neurological disabilities and significantly reduced quality of life [5]. Most patients with MS experience episodes of relapses with worsening function, followed by recovery periods, or remissions. Primary progressive multiple sclerosis (PPMS) accounts for 10-15% of the overall population of patients with MS, and involves gradual worsening of neurologic disability from symptom onset, often without early relapses or remissions [4].Developed by Genentech/Roche, ocrelizumab was approved by the FDA in March 2017 under the market name Ocrevustm for intravenous injection. It was later approved by Health Canada (as Ocrevus) in August 2017, making the drug the first available treatment for PPMS in both U.S. and Canada. In clinical trials of patients with relapsing forms of MS, treatment with ocrelizumab resulted in reduced relapse rates and reduced worsening of disability compared to interferon beta-1a [5]. In phase 3 clinical trials of patients with PPMS, treatment with ocrelizumab demonstrated lower rates of clinical and MRI progression than placebo [4].
+4. Indication:  Indicated for the treatment of adult patients with relapsing or primary progressive forms of multiple sclerosis [FDA Label].
+DrugId:  10
+1. Name:  Ozanimod
+2. Groups:  Investigational
+3. Description:  Ozanimod has been used in trials studying the treatment of Crohn's Disease, Ulcerative Colitis, Multiple Sclerosis, and Relapsing Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Glatiramer Acetate
+2. Groups:  Approved, Investigational
+3. Description:  Glatiramer acetate consists of the acetate salts of synthetic polypeptides, containing four naturally occurring amino acids: L-glutamic acid, L-alanine, L-tyrosine, and L-lysine with an average molar fraction of 0.141, 0.427, 0.095, and 0.338, respectively. The average molecular weight of glatiramer acetate is 5,000-9,000 daltons. It is an immunomodulator, licensed in much of the world for reduced frequency of relapses in relapsing-remitting multiple sclerosis.
+4. Indication:  For reduction of the frequency of relapses in patients with Relapsing-Remitting Multiple Sclerosis.
+DrugId:  12
+1. Name:  Teriflunomide
+2. Groups:  Approved
+3. Description:  Teriflunomide is the active metabolite of leflunomide, and it acts as an immunomodulatory agent by inhibiting pyrimidine synthesis. It is marketed under the name Aubagio® and is indicated for the treatment of multiple sclerosis, specifically relapsing forms. The FDA label states an important warning about the risk of hepatoxicity and teratogenicity for patients using teriflunomide.
+4. Indication:  Used in the treatment of relapsing forms of multiple sclerosis (MS).
+DrugId:  13
+1. Name:  Interferon beta-1b
+2. Groups:  Approved
+3. Description:  Human interferon beta (165 residues), cysteine 17 is substituted with serine. Produced in E. coli, no carbohydrates, MW=18.5kD
+4. Indication:  Interferon beta-1b is a drug used for the treatment of relapsing/remitting multiple sclerosis. It has been shown to slow the advance of the disease as well as to decrease the frequency of attacks.
+DrugId:  14
+1. Name:  Ibudilast
+2. Groups:  Approved, Investigational
+3. Description:  Ibudilast is an anti-inflammatory and neuroprotective oral agent which shows an excellent safety profile at 60 mg/day and provides significantly prolonged time-to-first relapse and attenuated brain volume shrinkage in patients with relapsing-remitting (RR) and/or secondary progressive (SP) multiple sclerosis (MS). Ibudilast is currently in development in the U.S. (codes: AV-411 or MN-166), but is approved for use as an antiinflammatory in Japan.
+4. Indication:  For the treatment of multiple sclerosis, asthma, and cerebrovascular disease.
+DrugId:  15
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Fingolimod
+2. Groups:  Approved, Investigational
+3. Description:  Fingolimod is a sphingosine 1-phosphate receptor modulator indicated and approved for the treatment of relapsing-remitting multiple sclerosis. 
+4. Indication:  Fingolimod is a sphingosine 1-phosphate receptor modulator indicated for the treatment of patients with relapsing forms of multiple sclerosis to reduce the frequency of clinical exacerbations and to delay the accumulation of physical disability.
+DrugId:  17
+1. Name:  Dimethyl fumarate
+2. Groups:  Approved, Investigational
+3. Description:  Dimethyl fumarate is an anti-inflammatory. It is indicated for multiple sclerosis patients with relapsing forms and is also being investigated for the treatment of psoriasis. The mechanism of action of dimethyl fumarate in multiple sclerosis is not well understood. It is thought to involve dimethyl fumarate degradation to its active metabolite monomethyl fumarate (MMF) then MMF up-regulates the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway that is activated in response to oxidative stress. Dimethyl fumarate is marketed under the brand name Tecfidera.
+4. Indication:  Used in multiple sclerosis patients with relapsing forms.
+DrugId:  18
+1. Name:  Interferon beta-1a
+2. Groups:  Approved, Investigational
+3. Description:  Human interferon beta (166 residues), glycosylated, MW=22.5kD. It is produced by mammalian cells (Chinese Hamster Ovary cells) into which the human interferon beta gene has been introduced. The amino acid sequence is identical to that of natural human interferon beta.
+4. Indication:  For treatment of relapsing/remitting multiple sclerosis, also for condyloma acuminatum
+DrugId:  19
+1. Name:  Docosanol
+2. Groups:  Approved, Investigational
+3. Description:  Docosanol is a drug used for topical treatment for recurrent herpes simplex labialis episodes (episodes of cold sores or fever blisters). A saturated 22-carbon aliphatic alcohol, docosanol exhibits antiviral activity against many lipid enveloped viruses including herpes simplex virus (HSV). Docosanol inhibits fusion between the plasma membrane and the herpes simplex virus (HSV) envelope, thereby preventing viral entry into cells and subsequent viral replication.
+4. Indication:  For the topical treatment of recurrent oral-facial herpes simplex episodes (cold sores or fever blisters).
+DrugId:  20
+1. Name:  Salmonella typhi ty21a live antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty21a live antigen is a live attenuated vaccine for oral administration only. It contains the attenuated strain Salmonella typhi Ty21a. The vaccine prevents the development of typhoid fever, an acute, febrile enteric disease caused by Salmonella typhi by inducing a local immune response in the intestinal tract.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Ty800
+2. Groups:  Investigational
+3. Description:  Ty800 is a vaccine designed to offer rapid, oral, single-dose protection against Salmonella typhi, the cause of typhoid fever. The Ty800 vaccine was developed using genetic techniques to delete specific genes known to be essential to the virulence of S. typhi. It is being developed by AVANT Immunotherapeutics, Inc.
+4. Indication:  For the production of immunity to Salmonella typhi, the cause of typhoid fever.
+DrugId:  22
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  23
+1. Name:  Salmonella typhi ty2 vi polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty2 vi polysaccharide antigen is a vaccine that is administered intramuscularly. It is an active immunization for the prevention of typhoid fever caused by S typhi and is approved for use in persons two years of age or older. The vaccine contains the purified cell surface Vi polysaccharide extracted from Salmonella enterica serovar Typhi, S typhi Ty2 strain. The bacterial culture is inactivated in the medium with the capsular polysaccharides precipated from the solution.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Mequitazine
+2. Groups:  Approved
+3. Description:  Mequitazine is a histamine H1 antagonist (antihistamine). It competes with histamine for the normal H1-receptor sites on effector cells of the gastrointestinal tract, blood vessels and respiratory tract. It provides effective, temporary relief of sneezing, watery and itchy eyes, and runny nose due to hay fever and other upper respiratory allergies.
+4. Indication:  For the treatment of Hay fever, urticaria (hives) and allergic rhinitis
+DrugId:  25
+1. Name:  Tannic acid
+2. Groups:  Approved
+3. Description:  Tannic acid is a polyphenolic compound. It is a type of the commercially available tannins. It acts as a weak acid. Tannic acid is found in the nutgalls formed by insects on twigs of certain oak trees (Quercus infectoria and other Quercus species). It is removed and used as medicine. In the old days it was used as antidote against different poisons.Nowadays, tannic acid is applied topically for the treatment of cold sores, diaper rash, fever blisters and poison ivy. Tannic acid is also taken by mouth and applied directly for bleeding, chronic diarrhea, dysentery, bloody urine, painful joints, persistent coughs, and cancer.
+4. Indication:  Tannic acid is indicated for cold sores, fever blisters, diaper rash, minor burn or sunburn and prickly heat.Vaginally, tannic acid is used as a douche for leukorrhea. It has been also indicated for sore throat, inflamed tonsils, spongy or receding gums, and acute dermatitis.

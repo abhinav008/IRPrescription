@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sarilumab
+2. Groups:  Approved, Investigational
+3. Description:  Sarilumab is a fully human anti-IL-6R monoclonal IgG1 antibody that binds to both membrane bound and soluble interleukin 6 (IL-6) receptor forms, thus blocking the cis- and trans-inflammatory signalling cascades of IL-6 [1]. Sarilumab was developped by Sanofi and Regeneron Pharmaceuticals, Inc; it was US FDA-approved in May 2017 and followed by EU approval in June 2017 for the treatment of moderate to severe Rheumatoid Arthritis (RA) in combination with methotrexate [4]. RA is a chronic inflammatory disease characterized by polyarthritis and its treatment has been challenged by the different response in every patient [3]. Subcutaneous administration of Sarilumab has been shown to decrease acute-phase reactant levels and improve in clinical RA symptoms [2].
+4. Indication:  Indicated for modere to severe reactive RA in adult patients who are irresponsive, respond inadequately or present intolerance to disease-modifying anti-rheumatic drugs (DMARDs) or tumor necrosis factor (TNF) antagonists. It is indicated to be used in combination with methotrexate (MTX) or as a monotherapy when there is intolerance to MTX or MTX administration is inappropriate.
+DrugId:  2
+1. Name:  Miglustat
+2. Groups:  Approved
+3. Description:  Miglustat is a drug used to treat Gaucher disease. It inhibits the enzyme glucosylceramide synthase, an essential enzyme for the synthesis of most glycosphingolipids. It is only used for patients who cannot be treated with enzyme replacement therapy with imiglucerase. Miglustat is marketed under the trade name Zavesca. Miglustat is now the first and only approved therapy for patients with Niemann-Pick disease type C (NP-C). It has recently been approved for treatment of progressive neurological symptoms in adult and pediatric patients in the European Union, Brazil, and South Korea. Miglustat was first developed as an anti-HIV agent in the 1990s. However, clinical experience with miglustat showed that therapeutic levels of the drug could not be achieved in patients without a high incidence of adverse effect.
+4. Indication:  For the treatment of adult patients with mild to moderate type 1 (nonneuropathic) Gaucher's disease for whom enzyme replacement therapy is not a therapeutic option (e.g. due to constraints such as allergy, hypersensitivity, or poor venous access). Now approved in some countries for the treatment of progressive neurological symptoms in adult and pediatric patients with Niemann-Pick disease type C (NP-C). 
+DrugId:  3
+1. Name:  Hemoglobin crosfumaril
+2. Groups:  Experimental
+3. Description:  Hemoglobin in which the alpha-subunit are cross-linked intramolecularly.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Hemoglobin raffimer
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Methoxy polyethylene glycol-epoetin beta
+2. Groups:  Approved
+3. Description:  Methoxy polyethylene glycol-epoetin beta is a chemically synthesised Erythropoiesis Stimulating Agent (ESA) with a longer half-life than erythropoietin. ESA is used to increase synthesis of red blood cells to treat chronic kidney disease associated anemia.
+4. Indication:  For the treatment of patients with anaemia associated with chronic kidney disease. Not a substitute for RBC transfusion if immediate correction of anemia is required.
+DrugId:  6
+1. Name:  Anagliptin
+2. Groups:  Investigational
+3. Description:  Anagliptin is under investigation for the treatment of LDL Cholesterol, Coronary Disease, Diabetes Mellitus, Glycosylated Hemoglobin, and Dipeptidyl-Peptidase 4 Inhibitors.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Iron Dextran
+2. Groups:  Approved, Vet approved
+3. Description:  Iron dextran is a dark brown, slightly viscous liquid complex of ferric hydroxide and dextran for intravenous or intramuscular use. Iron Dextran is used for the treatment of patients with documented iron deficiency in which oral administration is unsatisfactory or impossible. 
+4. Indication:  For treatment of patients with documented iron deficiency in whom oral administration is unsatisfactory or impossible. Also used to replenish body iron stores in Non-Dialysis Dependent-Chronic Kidney Disease (NDD-CKD) patients receiving or not receiving erythropoietin and in Hemodialysis Dependent (HDD-CKD) and Peritoneal Dialysis Dependent (PDD-CKD) - Chronic Kidney Disease patients receiving an erythropoietin.
+DrugId:  8
+1. Name:  Alirocumab
+2. Groups:  Approved
+3. Description:  Alirocumab is a biopharmaceutical drug approved by the FDA in July 2015 as a second line treatment for high cholesterol for adults whose LDL-cholesterol (LDL-C) is not controlled by diet and statin treatment. It is a human monoclonal antibody administered by subcutaneous injection that belongs to a novel class of anti-cholesterol drugs, known as PCSK9 inhibitors, and it was the first such agent to receive FDA approval. The FDA approval was contingent on the completion of further clinical trials to better determine efficacy and safety. PCSK9 inhibition facilitates more LDL-C clearance from the blood.
+4. Indication:  Alirocumab is indicated as an adjunct to diet and maximally tolerated statin therapy in adults who require additional LDL-cholesterol (LDL-C) lowering due to heterozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease.
+DrugId:  9
+1. Name:  Sodium ferric gluconate complex
+2. Groups:  Approved
+3. Description:  Sodium ferric gluconate complex is an iron replacement product for treatment of iron deficiency anemia. The stable macromolecular complex is negatively charged at alkaline pH with an apparent molecular weight of 289,000 – 440,000 daltons on gel chromatography. It is composed of iron (III) oxide hydrate directly bonded to sucrose with a chelating gluconate function in a molar ratio of two iron molecules to one gluconate. It is used in adult and in pediatric patients over the age of 6 years with chronic kidney disease (CKD) receiving hemodialysis and receiving supplemental epoetin therapy.
+4. Indication:  Used to replete the total body content of iron during iron deficiency anemia in patients age 6 years and older with chronic kidney disease receiving hemodialysis and receiving supplemental epoetin therapy.
+DrugId:  10
+1. Name:  Lenograstim
+2. Groups:  Approved, Investigational
+3. Description:  Lenograstim is a recombinant granulocyte colony-stimulating factor which functions as an immunostimulator.
+4. Indication:  The drug is used to reduce the risk of life-threatening infection in patients with neutropenia, particularly after cytotoxic chemotherapy.Lenograstim is indicated as a treatment to reduce the duration of neutropenia and the severity of infections in patients with non-myeloid malignancy who have undergone autologous or allogeneic bone marrow transplantation, or treatment with established cytotoxic chemotherapy and in addition to reduce the incidence of infection associated with established cytotoxic chemotherapy.Lenograstim is also indicated to mobilise peripheral blood progenitor cells (PBPCs) with Lenograstim alone, or after myelosuppressive chemotherapy, in order to accelerate haematopoietic recovery by infusion of such cells, after myelosuppressive or myeloablative therapy. Lenograstim is also indicated to accelerate the engraftment of these cells after their reinfusion.GRANOCYTE is also indicated for the treatment of severe chronic neutropenia including congenital agranulocytosis (Kostmann's syndrome).
+DrugId:  11
+1. Name:  Iron saccharate
+2. Groups:  Approved
+3. Description:  Iron saccharate (Sucroferric oxyhydroxide or Iron Sucrose) is used as a source of iron in patients with iron deficiency anemia with chronic kidney disease (CKD), including those who are undergoing dialysis (hemodialysis or peritoneal) and those who do not require dialysis. Due to less side effects than iron dextran, iron saccharate is more preferred in chronic kidney disease patients.
+4. Indication:  Iron sucrose is elemental iron as an injection. It replenishes body iron stores in patients with iron deficiency.
+DrugId:  12
+1. Name:  2,6-dicarboxynaphthalene
+2. Groups:  Experimental
+3. Description:  2,6-dicarboxynaphthalene is a solid. This compound belongs to the naphthalenecarboxylic acids. These are compounds containing a napthalene moiety with a ring carbon which bears a carboxylic acid group. This drug targets the proteins hemoglobin subunit alpha and hemoglobin subunit beta.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Peginesatide
+2. Groups:  Approved, Investigational
+3. Description:  Peginesatide is a synthetic peptide attached to polyethylene glycol for the treatment of anemia. The polyethylene glycol moiety helps make the drug less immunogenic and prolongs its plasma half-life. Chemically, peginesatide is designed to mimic the pharmacological activity of erythropoietin, but is not a replica of the structure itself. Peginesatide consists of two 21-amino acid chains that are covalently bonded by a linker derived from iminodiacetic acid and β-alanine. FDA approved March 27, 2012.
+4. Indication:  Peginesatide is used for the treatment of anemia due to chronic kidney disease (CKD) in adult patients on dialysis 
+DrugId:  14
+1. Name:  Mepolizumab
+2. Groups:  Approved, Investigational
+3. Description:  Mepolizumab is a humanized IL-5 antagonist monoclonal antibody produced by recombinant DNA technology in Chinese hamster ovary cells. It has a molecular weight of approximately 149 kDa. It was approved by the FDA in November, 2015 for the treatment of asthma under the brand name Nucala (marketed by GlaxoSmithKline). Mepolizumab has been investigated in the treatment of severe nasal polyposis, among numerous other conditions.
+4. Indication:  Mepolizumab is indicated for add-on maintenance treatment of severe eosinophilic asthma, as identified by blood eosinophils greater than or equal to 150 cells/μl at initiation of treatment or blood eosinophils greater than or equal to 300 cells/μl in the past 12 months, in patients aged 12 years and older. Mepolizumab has been shown to reduce exacerbations of asthma in patients with an exacerbation history
+DrugId:  15
+1. Name:  Netarsudil
+2. Groups:  Approved
+3. Description:  A Rho kinase inhibitor with norepinephrine transport inhibitory activity that reduces production of aqueousAs of December 18, 2017 the FDA approved Aerie Pharmaceutical's Rhopressa (netarsudil ophthalmic solution) 0.02% for the indication of reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Acting as both a rho kinase inhibitor and a norepinephrine transport inhibitor, Netarsudil is a novel glaucoma medication in that it specifically targets the conventional trabecular pathway of aqueous humour outflow to act as an inhibitor to the rho kinase and norepinephrine transporters found there as opposed to affecting protaglandin F2-alpha analog like mechanisms in the unconventional uveoscleral pathway that many other glaucoma medications demonstrate.
+4. Indication:  Netarsudil is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  16
+1. Name:  Latanoprostene Bunod
+2. Groups:  Approved, Investigational
+3. Description:  Latanoprostene Bunod has been used in trials studying the treatment of Glaucoma, Ocular Hypertension, Open-Angle Glaucoma, Open Angle Glaucoma, and Intraocular Pressure.As of November 2, 2017 the FDA approved Bausch + Lomb's Vyzulta (latanoprostene bunod opthalmic solution), 0.024% for the indication of reducing intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Latanoprostene bunod is the first prostaglandin analog with one of its metabolites being nitric oxide (NO). The novelty of this agent subsequently lies in the proposed dual mechanism of action that stems from both its prostaglandin F2-alpha analog latanoprost acid metabolite and its ability to donate NO for proposed tissue/cell relaxation effects.In comparison, both latanoprost and latanoprostene bunod contain a latanoprost acid backbone. Conversely however, latanoprostene bunod integrates an NO-donating moiety in lieu of the isopropyl ester typically found in latanoprost.
+4. Indication:  Latanoprostene bunod opthalmic solution is indicated for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  17
+1. Name:  Certolizumab pegol
+2. Groups:  Approved
+3. Description:  Certolizumab pegol is a recombinant Fab' antibody fragment against tumor necrosis factor alpha which is conjugated to an approximately 40kDa polyethylene glycol (PEG2MAL40K). Polyethylene glycol helps to delay the metabolism and elimination of the drugs. Chemically, the light chain is made up of 214 amino acid residues while the heavy chain is composed of 229 amino acid residues. The molecular mass of the Fab' antibody fragment itself is 47.8 kDa. It is used for the treatment of rheumatoid arthritis and Crohn’s disease. FDA approved on April 22, 2008
+4. Indication:  Reducing signs and symptoms of Crohn's disease and treatment of moderately to severely active rheumatoid arthritis (RA). 
+DrugId:  18
+1. Name:  Tofacitinib
+2. Groups:  Approved, Investigational
+3. Description:  Tofacitinib is an inhibitor of Janus kinases, a group of intracellular enzymes involved in signalling pathways that affect hematopoiesis and immune cell function. It is approved by the FDA for treatment of moderate to severe rheumatoid arthritis that responds inadequately to methotrexate or in those who are intolerant to methotrexate.Besides rheumatoid arthritis, tofacitinib has also been studied in clinical trials for the prevention of organ transplant rejection, and is currently under investigation for the treatment of psoriasis. Known adverse effects include nausea and headache as well as more serious immunologic and hematological adverse effects. Tofacitinib is marketed under the brand name Xeljanz by Pfizer.
+4. Indication:  For the treatment of moderate to severe rheumatoid arthritis which is resistant or intolerant to methotrexate therapy. It may also be used as an adjunct to methotrexate therapy, or other non-biologic disease-modifying antirheumatic drugs (DMARDS), when methotrexate alone is not sufficient. Tofacitinib has also been investigated as a preventative therapy for kidney transplant rejections, and as a treatment for psoriasis, ulcerative colitis, and ankylosing spondylitis. It is not to be initiated in patients with a history of chronic or recurrent infections, or in the presence of active infection, even if localized, due to reports of serious and sometimes fatal infections (commonly pneumonia, herpes zoster and urinary tract infections). Use of tofacitinib is also discouraged in those who have been, or are likely to be, exposed to TB. An increased likelihood of exposure may be encountered by traveling to certain areas. In addition, tofacitinib is not to be used in patients with severe hepatic impairment, or low hemoglobin (less than 9g/dL). Cautioned is advised when using tofacitinib in patients at risk of gastrointestinal perforation, and in the elderly who are more susceptible to infection. 
+DrugId:  19
+1. Name:  Tocilizumab
+2. Groups:  Approved
+3. Description:  Tocilizumab is a recombinant, humanized, anti-human interleukin 6 (IL-6) receptor monoclonal antibody that achieves a significant therapeutic response rate. The light chain is made up of 214 amino acids. The heavy chain is made up of 448 amino acids. The four polypeptide chains are linked intra- and inter-molecularly by disulfide bonds. FDA approved on January 8, 2010. Tocilizumab (injection) was further approved by the FDA for the treatment of adults with giant cell arteritis, an inflammation of the blood vessels (vasculitis) in May, 2017. In a double-blind, placebo-controlled study, the patients achieved sustained remission from Week 12 through Week 52, which was associated with significant improvements in symptoms of giant cell arteritis, normalization of inflammatory laboratory tests and tapering the use of corticosteroids [2].
+4. Indication:  Indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis (RA) who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs). It is also indicated for the treatment of active polyarticular juvenile idiopathic arthritis (PJIA) and active systemic juvenile idiopathic arthritis (SJIA) in patients 2 years of age and older.
+DrugId:  20
+1. Name:  MP4
+2. Groups:  Investigational
+3. Description:  MP4 is a hemoglobin-based oxygen carrier designed to serve as an alternative for blood transfusions. It is free of harmful vasoactivity and provides targeted oxygen delivery to tissues at risk of oxygen deprivation.
+4. Indication:  Investigated for use/treatment in hemorrhage and transfusion.
+DrugId:  21
+1. Name:  Salmon Calcitonin
+2. Groups:  Approved, Investigational
+3. Description:  Synthetic peptide, 32 residues long formulated as a nasal spray.
+4. Indication:  Used in the treatment of symptomatic Paget's disease for patients unresponsive to alternate treatments or intolerant to such treatments. In addition, it is used in emergency situations when serum calcium levels must be decreased quickly until the underlying condition is identified. It can also be added to existing therapeutic regimens for hypercalcemia such as intravenous fluids and furosemide, oral phosphate or corticosteroids, or other agents. Calcitonin can be used in patients with azotemia and cases where intravenous fluids would be contraindicated due to limited cardiac reserves. Also for the treatment of post-menopausal osteoporosis in women more than 5 years post-menopause. 
+DrugId:  22
+1. Name:  Somatrem
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  In 1985 somatrem (methionyl-growth hormone) became the first recombinant growth hormone product to be marketed commercially (Protropin by Genentech) [3]. The agent has the same amino acid sequence as human growth hormone except for an extra methionine at the end of the sequence chain to facilitate its manufacturing process [3].Although the first commercially marketed recombinant growth hormone product Protropin was discontinued in 2004 owing to a relative explosion in brand and generic based releases of competing companies' own recombinant growth hormone products and the ensuing competition in product price over the years, many companies now produce and sell various approved formulations of methionyl-growth hormone, including Genetech's own current Nutropin product [3].Despite the ability of almost all contemporary recombinant growth hormones to cause definite and demonstrable increases in growth rate in patients who are administered the drug, the use of these agents continues to be mired in persistent bioethical debate [1]. Such discussion revolves around whether patients' natural disposition of short stature should be considered a medical condition justifying medical treatment with such hormone therapy - especially when these hormone agents have been proven effective at increasing the height of children with or without growth hormone deficiency [1].
+4. Indication:  Somatrem is a recombinant human growth hormone indicated for: (a) treatment of paediatric patients with growth failure due to growth hormone deficiency (GHD), (b) treatment of paediatric patients with growth failure due to idiopathic short stature (ISS), (c) treatment of paediatric patients with growth failure due to Turner syndrome (TS), (d) treatment of paediatric patients with growth failure due to chronic kidney disease (CKD) up to the time of renal transplantation, (e) treatment of adults with childhood-onset GHD, or (f) treatment of adults with adult-onset GHD [FDA Label].
+DrugId:  23
+1. Name:  Mesoheme
+2. Groups:  Experimental
+3. Description:  The color-furnishing portion of hemoglobin. It is found free in tissues and as the prosthetic group in many hemeproteins. [PubChem]
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Remestemcel-L
+2. Groups:  Approved, Investigational
+3. Description:  Remestemcel-L is a third-party, off-the-shelf suspension of ex-vivo cultured adult human mesenchymal stem cells intended for intravenous infusion. The mesenchymal stem cells are derived from the bone marrow of unrelated and human leukocyte antigen (HLA)–unmatched healthy adult donors and have the ability to differentiate into different tissue cells. It was approved for use in Canada in May 2012 as Prochymal for the management of refractory acute Graft versus Host Disease (aGvHD) in children who are unresponsive to systemic steroid therapies, with the approval conditional upon further trials being conducted.aGvHD is a T-cell mediated disease that occurs after allogeneic hematopoietic stem cell transplant and is a reaction of donor immune cells against host tissues [A31822] developed by 30-80% of the recipients [1]. aGvHD is often characterized by the presence of inflammatory cascades through signalling of activated T cells. While systemic corticosteroids and other immunosuppressive agents are commonly used as first-line treatments to manage aGvHD, about 30-50% of patients with aGvHD experience inadequately control of disease with first-line therapies, putting them in a risk for poor outcomes and creating a significant clinical challenge [1]. It is estimated that the patients with the most severe forms of refractory aGvHD that do not respond to steroid therapy have expected one-year survival rates of only 5% to 30% [6]. Human mesenchymal stem cells (hMSCs) serve to down-regulate inflammatory responses and produce anti-inflammatory cytokines and growth factors to promote tissue repair [1]. In clinical studies, patients treated with remestemcel-L demonstrated an improvement in their aGvHD and improved survival rates at subsequent days following intravenous infusion [6]. Based on its tolerability and safety profile, remestemcel-L is a promising alternative to second-line immunosuppressive agents [1].
+4. Indication:  Indicated for in the management of acute Graft versus Host Disease (aGvHD) in pediatric patients. Acute GvHD should be refractory to treatment with systemic corticosteroid therapy and/or other immunosuppressive agents. Remestemcel-L may be used for Grades C and D of the disease in any organ. Remestemcel-L may also be used in the management of Grade B aGvHD involving any visceral organ, including the GI tract and the liver, but excluding skin [6].
+DrugId:  25
+1. Name:  Methylene blue
+2. Groups:  Approved, Investigational
+3. Description:  Methylene blue has been found to have many uses in medicine. It has been widely used in Africa to treat malaria, but now it disappeared when chloroquine (CQ) and other drugs entered the market. It has been used as well for treatment of methemoglobinemia and other conditions. Methylene blue could also be used as urinary tract antiseptic. Methylthioninium chloride (INN, or methylene blue, proposed trade name Rember) is an investigational drug being developed by the University of Aberdeen and TauRx Therapeutics that has been shown in early clinical trials to be an inhibitor of Tau protein aggregation. The drug is of potential interest for the treatment of patients with Alzheimer's disease.
+4. Indication:  Methylene blue has several indications in medicine:1. found to improve the hypotension associated with various clinical states.2. Antiseptic in urinary tract infections.3. Improves hypoxia and hyper dynamic circulation in cirrhosis of liver and severe hepatopulmonary syndrome.4. Results in transient and reproducible improvement in blood pressure and cardiac function in septic shock.5. Investigated for the treatment of Alzheimer's disease.6. Treatment of ifofosamide induced neurotoxicity.

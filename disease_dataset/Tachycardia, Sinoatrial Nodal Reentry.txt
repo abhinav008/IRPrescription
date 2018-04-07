@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  2
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  3
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  4
+1. Name:  Tecadenoson
+2. Groups:  Investigational
+3. Description:  Tecadenoson is a novel selective A1 adenosine receptor agonist that is currently being evaluated for the conversion of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm. It is being developed by CV Therapeutics, Inc.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  5
+1. Name:  Adenosine
+2. Groups:  Approved, Investigational
+3. Description:  A nucleoside that is composed of adenine and d-ribose. Adenosine or adenosine derivatives play many important biological roles in addition to being components of DNA and RNA. Adenosine itself is a neurotransmitter.
+4. Indication:  Used as an initial treatment for the termination of paroxysmal supraventricular tachycardia (PVST), including that associated with accessory bypass tracts, and is a drug of choice for terminating stable, narrow-complex supraventricular tachycardias (SVT). Also used as an adjunct to thallous chloride TI 201 myocardial perfusion scintigraphy (thallium stress test) in patients who are unable to exercise adequately, as well as an adjunct to vagal maneuvers and clinical assessment to establish a specific diagnosis of undefined, stable, narrow-complex SVT.
+DrugId:  6
+1. Name:  Disopyramide
+2. Groups:  Approved
+3. Description:  A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.
+DrugId:  7
+1. Name:  Regadenoson
+2. Groups:  Approved, Investigational
+3. Description:  Regadenoson is an A2A adenosine receptor agonist that causes coronary vasodilation and used for myocardial perfusion imagining. Manufactured by Astellas and FDA approved April 10, 2008. 
+4. Indication:  Diagnostic agent for radionuclide myocardial perfusion imaging (MPI) 
+DrugId:  8
+1. Name:  Efonidipine
+2. Groups:  Approved, Investigational
+3. Description:  Efonidipine (INN) is a dihydropyridine calcium channel blocker marketed by Shionogi & Co. of Japan. It was launched in 1995, under the brand name Landel. The drug blocks both T-type and L-type calcium channels [1, 2]. It has also been studied in atherosclerosis and acute renal failure [2]. This drug is also known as NZ-105, and several studies have been done on its pharmacokinetics in animals [13].
+4. Indication:  For the treatment of hypertension.
+DrugId:  9
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  10
+1. Name:  Procainamide
+2. Groups:  Approved
+3. Description:  A derivative of procaine with less CNS action. [PubChem]
+4. Indication:  For the treatment of life-threatening ventricular arrhythmias.
+DrugId:  11
+1. Name:  Deslanoside
+2. Groups:  Approved
+3. Description:  Deacetyllanatoside C. A cardiotonic glycoside from the leaves of Digitalis lanata. [PubChem]
+4. Indication:  For the treatment and management of Congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  12
+1. Name:  Talimogene laherparepvec
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Talimogene laherparepvec is an oncolytic treatment used in local treatment of unresectable cutaneous, subcutaneous, and nodal lesions in patients with recurrent melanoma. It is a genetically administered herpes simplex virus 1 (HSV-1) that expresses human cytokine granulocyte-macrophage colony stimulating factor (GM-CSF) with antitumor and immune-stimulating activities. It specifically replicates within tumor cells and causes lysis. It was approved by the FDA in 2015 under the market name Imlygic.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Digoxin
+2. Groups:  Approved
+3. Description:  A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone digoxigenin. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  14
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  15
+1. Name:  Ouabain
+2. Groups:  Approved
+3. Description:  A cardioactive glycoside consisting of rhamnose and ouabagenin, obtained from the seeds of Strophanthus gratus and other plants of the Apocynaceae; used like digitalis. It is commonly used in cell biological studies as an inhibitor of the NA(+)-K(+)-exchanging ATPase.
+4. Indication:  For the treatment of atrial fibrillation and flutter and heart failure
+DrugId:  16
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  17
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  18
+1. Name:  Ivabradine
+2. Groups:  Approved
+3. Description:  Ivabradine is a novel heart rate lowering medicine for the symptomatic management of stable angina pectoralis and symptomatic chronic heart failure. Ivabradine, brand name Corlanor, was approved by the FDA in April 2015 for the treatment of chronic heart failure in patients with an ejection fraction of ≤35%, in sinus rhythm with resting heart rate ≥70 beats per minute, who are not on beta-blockers due to contraindications or already receiving maximum beta-blocker dose. Ivabradine acts by selectively inhibiting the "funny" channel pacemaker current (If) in the sinoatrial node in a dose-dependent fashion, resulting in a lower heart rate and thus more blood to flow to the myocardium. Although non-dihydropyridine calcium channel blockers and beta blockers also effectively lower heart rate, they exhibit adverse events due to their negative ionotropic effects. Therefore, as ivabradine is designed as a "pure" heart rate-lowering drug by selectively acting on the If channels, it may offer a more favorable side effect profile due to its lower likelihood of causing serious adverse effects.
+4. Indication:  Ivabradine's indication by the FDA is to reduce the risk of hospitalization for worsening heart failure in patients with stable, symptomatic chronic heart failure with left ventricular ejection fraction ≤35%, who are in sinus rhythm with resting heart rate ≥70 beats per minute and either are on maximally tolerated doses of beta-blockers or have a contraindication to beta-blocker use. 
+DrugId:  19
+1. Name:  Homatropine Methylbromide
+2. Groups:  Approved
+3. Description:  Homatropine methylbromide is a quaternary ammonium muscarinic acetylcholine receptor antagonist belonging to the group of medicines called anti-muscarinics. Homatropine is used to treat duodenal or stomach ulcers or intestine problems. It can be used together with antacids or other medicine in the treatment of peptic ulcer. It may also be used to prevent nausea, vomiting, and motion sickness.
+4. Indication:  Used in conjunction with antacids or histamine H2-receptor antagonists in the treatment of peptic ulcers, gastric ulcers and duodenal ulcers, to reduce further gastric acid secretion and delay gastric emptying.
+DrugId:  20
+1. Name:  Glycopyrronium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Glycopyrronium (as the bromide salt glycopyrrolate) is a synthetic anticholinergic agent with a quaternary ammonium structure. A muscarinic competitive antagonist used as an antispasmodic, in some disorders of the gastrointestinal tract, and to reduce salivation with some anesthetics. In October 2015, glycopyrrolate was approved by the FDA for use as a standalone treatment for Chronic obstructive pulmonary disease (COPD), as Seebri Neohaler.
+4. Indication:  For use as a preoperative antimuscarinic to reduce salivary, tracheobronchial, and pharyngeal secretions, to reduce the volume and free acidity of gastric secretions and to block cardiac vagal inhibitory reflexes during induction of anesthesia and intubation. Also used to treat chronic obstructive pulmonary disease (COPD).
+DrugId:  21
+1. Name:  Etripamil
+2. Groups:  Investigational
+3. Description:  Etripamil has been used in trials studying the treatment of Paroxysmal Supraventricular Tachycardia (PSVT).
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Amodiaquine
+2. Groups:  Approved, Investigational
+3. Description:  A 4-aminoquinoquinoline compound with anti-inflammatory properties.
+4. Indication:  For treatment of acute malarial attacks in non-immune subjects.
+DrugId:  23
+1. Name:  Lidocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic and cardiac depressant used as an antiarrhythmia agent. Its actions are more intense and its effects more prolonged than those of procaine but its duration of action is shorter than that of bupivacaine or prilocaine. [PubChem]
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  24
+1. Name:  Anisotropine Methylbromide
+2. Groups:  Approved
+3. Description:  Anisotropine methylbromide is a quaternary ammonium compound. Its use as treatment adjunct in peptic ulcer has been replaced by the use of more effective agents. Depending on the dose, anisotropine methylbromide may reduce the motility and secretory activity of the gastrointestinal system, and the tone of the ureter and urinary bladder and may have a slight relaxant action on the bile ducts and gallbladder. In general, smaller doses of anisotropine methylbromide inhibit salivary and bronchial secretions, sweating, and accommodation; cause dilatation of the pupil; and increase the heart rate. Larger doses are required to decrease motility of the gastrointestinal and urinary tracts and to inhibit gastric acid secretion.
+4. Indication:  For use in conjunction with antacids or histamine H2-receptor antagonists in the treatment of peptic ulcer, to reduce further gastric acid secretion and delay gastric emptying.
+DrugId:  25
+1. Name:  Bretylium
+2. Groups:  Approved
+3. Description:  Bretylium blocks the release of noradrenaline from the peripheral sympathetic nervous system, and is used in emergency medicine, cardiology, and other specialties for the acute management of ventricular tachycardia and ventricular fibrillation. The primary mode of action for bretylium is thought to be inhibition of voltage-gated K(+) channels. Recent evidence has shown that bretylium may also inhibit the Na,K-ATPase by binding to the extracellular K-site.
+4. Indication:  For use in the prophylaxis and therapy of ventricular fibrillation. Also used in the treatment of life-threatening ventricular arrhythmias, such as ventricular tachycardia, that have failed to respond to adequate doses of a first-line antiarrhythmic agent, such as lidocaine.

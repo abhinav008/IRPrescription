@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Fluvoxamine
+2. Groups:  Approved, Investigational
+3. Description:  Fluvoxamine is an antidepressant which functions pharmacologically as a selective serotonin reuptake inhibitor. Though it is in the same class as other SSRI drugs, it is most often used to treat obsessive-compulsive disorder.Fluvoxamine has been in use in clinical practice since 1983 and has a clinical trial database comprised of approximately 35,000 patients. It was launched in the US in December 1994 and in Japan in June 1999. As of the end of 1995, more than 10 million patients worldwide have been treated with fluvoxamine.
+4. Indication:  Indicated predominantly for the management of depression and for Obsessive Compulsive Disorder (OCD) [FDA Label]. Has also been used in the management of bulimia nervosa [2].
+DrugId:  2
+1. Name:  Escitalopram
+2. Groups:  Approved, Investigational
+3. Description:  Escitalopram, the S-enantiomer of citalopram, belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). Despite distinct structural differences between compounds in this class, SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be required before a clinical effect is seen. SSRIs are potent inhibitors of neuronal serotonin reuptake. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute use, SSRIs block serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The overall clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Escitalopram may be used to treat major depressive disorder (MDD) and generalized anxiety disorder (GAD).
+4. Indication:  Labeled indications include major depressive disorder (MDD) and generalized anxiety disorder (GAD). Unlabeled indications include treatment of mild dementia-associated agitation in nonpsychotic patients. 
+DrugId:  3
+1. Name:  MPI-674
+2. Groups:  Investigational
+3. Description:  MPI-674 is an aromatase inhibitor (AI) with a well-established, multi-year chronic safety and tolerability profile. AIs are a class of drugs that reduce the amount of estrogen circulating in the body by binding to and inhibiting the enzyme aromatase, which is responsible for converting certain hormones to estrogen. It is developed for the treatment of several serious women’s health conditions including endometrial thinning prior to endometrial ablations in premenopausal women with abnormal uterine bleeding (AUB).
+4. Indication:  Investigated for use/treatment in menstrual disorders.
+DrugId:  4
+1. Name:  TM30339
+2. Groups:  Investigational
+3. Description:  TM30339 is an analogue of the natural hormone Pancreatic Polypeptide (PP), which is released in connection with meals. TM30339 works through the same receptor as the natural satiety hormone, Pancreatic Polypeptide (PP), but TM30339 has improved properties compared with PP. TM30339 thus imitates a natural mechanism, a satiety signal from the gastrointestinal system involved in the regulation of food intake in humans. TM30339 is developed for the treatment of obesity.
+4. Indication:  Investigated for use/treatment in schizophrenia and schizoaffective disorders.
+DrugId:  5
+1. Name:  Oleoyl-estrone
+2. Groups:  Investigational
+3. Description:  Oleoyl-estrone (OE) is a fatty acid ester of estrone. It is a naturally circulating hormone in animals including humans. It was first reported in 1996 to cause a body fat loss effect in rats in the International Journal of Obesity and Related Metabolic Disorders. The animal research has all been conducted by the Nitrogen-Obesity Research Group of the University of Barcelona. The compound was found to potently induce body-fat loss while preserving protein stores in animals which is the ultimate goal of an anti-obesity agent as body protein loss is an undesired but inevitable (to some degree) side effect of fat loss via calorie restriction. [Wikipedia]
+4. Indication:  For the treatment of obesity.
+DrugId:  6
+1. Name:  Ferumoxytol
+2. Groups:  Approved, Investigational
+3. Description:  Ferumoxytol is an iron replacement product indicated for the treatment of iron deficiency anemia in adult patients with chronic kidney disease (CKD). As a non-stoichiometric magnetite (superparamagnetic iron oxide), it isolates the bioactive iron from plasma components to enter the intracellular storage iron pool and later be incorporated into hemglobin. It is available as an intravenous injection under the market name Feraheme.
+4. Indication:  Investigated for use/treatment in anemia, kidney disease, and cardiovascular disorders.
+DrugId:  7
+1. Name:  Laronidase
+2. Groups:  Approved
+3. Description:  Human recombinant alpha-L-iduronidase, 628 residues (mature form), produced by recombinant DNAtechnology in a Chinese hamster ovary cell line. Laronidase is a glycoprotein with a molecular weight of approximately 83 kD. The predicted amino acid sequence of the recombinant form, as well as the nucleotide sequence that encodes it, are identical to a polymorphic form of human a-L-iduronidase. It contains 6 N-linked oligosaccharide modification sites.
+4. Indication:  For the treatment of mucopolysaccharidosis
+DrugId:  8
+1. Name:  WF10
+2. Groups:  Approved, Investigational
+3. Description:  WF10 is a chlorite-based, immunomodulating drug is developed by Nuvo Research Inc. Certain preclinical evidence and clinical pilot data suggest that WF10 may be effective in treating certain cancers. The Corporation believes the research to-date demonstrates that WF10 acts on macrophages (a type of white blood cell) by modulating the balance between inflammation and phagocytosis, a state in which the body digests foreign, potentially harmful substances. The Corporation has commenced a Phase II clinical trial in an effort to demonstrate the efficacy of WF10 in combination with Xeloda (capecitabine) in the treatment of pancreatic cancer. The trial is being conducted in Germany at the University of Heidelberg and the National Centre for Tumor Diseases.
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, cancer/tumors (unspecified), HIV infection, and inflammatory disorders (unspecified).
+DrugId:  9
+1. Name:  Blatella germanica
+2. Groups:  Approved
+3. Description:  German cockroach allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Phenazopyridine
+2. Groups:  Approved
+3. Description:  A local anesthetic that has been used in urinary tract disorders. Its use is limited by problems with toxicity (primarily blood disorders) and potential carcinogenicity. [PubChem]
+4. Indication:  For the symptomatic relief of pain, burning, urgency, frequency, and other discomforts arising from irritation of the lower urinary tract mucosa caused by infection, trauma, surgery, endoscopic procedures, or the passage of sounds or catheters.
+DrugId:  11
+1. Name:  ACP-104
+2. Groups:  Investigational
+3. Description:  ACP-104, or N-desmethylclozapine, is the major metabolite of clozapine, and is being developed by ACADIA as a novel, stand-alone therapy for schizophrenia. It combines an atypical antipsychotic efficacy profile with the added potential benefit of enhanced cognition, thereby addressing one of the major challenges in treating schizophrenia today.
+4. Indication:  Investigated for use/treatment in schizophrenia and schizoaffective disorders.
+DrugId:  12
+1. Name:  Rimonabant
+2. Groups:  Approved, Investigational
+3. Description:  Rimonabant is an anorectic anti-obesity drug produced and marketed by Sanofi-Aventis. It is an inverse agonist for the cannabinoid receptor CB1. Its main avenue of effect is reduction in appetite. Rimonabant is the first selective CB1 receptor blocker to be approved for use anywhere in the world. Rimonabant is approved in 38 countries including the E.U., Mexico, and Brazil. It was rejected for approval for use in the United States. This decision was made after a U.S. advisory panel recommended the medicine not be approved because it may increase suicidal thinking and depression.
+4. Indication:  For use in conjunction with diet and exercise for patients with a body mass index greater than 30 kg/m2, or patients wih a BMI greater than 27 kg/m2 with associated risk factors, such as type 2 diabetes or dyslipidaemia.
+DrugId:  13
+1. Name:  Afamelanotide
+2. Groups:  Approved, Investigational
+3. Description:  Afamelanotide is an analog of the peptide hormone alpha-melanocyte stimulating hormone (alpha-MSH) that tends to induce skin tanning. It is being developed by the Australian company Clinuvel Pharmaceuticals (previously known as EpiTan). Afamelanotide was approved in Europe in October, 2014 for the treatment of erythropoietic protoporphyria (EPP). Clinuvel now intends to seek approval of afamelanotide in the United States.
+4. Indication:  Investigated for use/treatment in actinic keratosis, keratoses, skin cell studies, and skin infections/disorders.
+DrugId:  14
+1. Name:  Solenopsis invicta
+2. Groups:  Approved
+3. Description:  Solenopsis invicta allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Tiomolibdate ion
+2. Groups:  Investigational
+3. Description:  Tetrathiomolybdate is an oral, small-molecule, anticopper agent that is highly specific for lowering the levels of free copper in serum. COPREXA has completed pivotal clinical trials for the treatment of neurologic Wilson's disease. It is also developed for fibrotic disorders based upon the rationale that the fibrotic disease process is dependent upon the availability of free copper in the body.
+4. Indication:  Investigated for use/treatment in liver disease and pulmonary fibrosis.
+DrugId:  16
+1. Name:  Chlorprothixene
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Chlorprothixene is a typical antipsychotic drug of the thioxanthene (tricyclic) class. Chlorprothixene exerts strong blocking effects by blocking the 5-HT2 D1, D2, D3, histamine H1, muscarinic and alpha1 adrenergic receptors.
+4. Indication:  For treatment of psychotic disorders (e.g. schizophrenia) and of acute mania occuring as part of bipolar disorders.
+DrugId:  17
+1. Name:  Melatonin
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Melatonin is a biogenic amine that is found in animals, plants and microbes. Aaron B. Lerner of Yale University is credited for naming the hormone and for defining its chemical structure in 1958. In mammals, melatonin is produced by the pineal gland. The pineal gland is small endocrine gland, about the size of a rice grain and shaped like a pine cone (hence the name), that is located in the center of the brain (rostro-dorsal to the superior colliculus) but outside the blood-brain barrier. The secretion of melatonin increases in darkness and decreases during exposure to light, thereby regulating the circadian rhythms of several biological functions, including the sleep-wake cycle. In particular, melatonin regulates the sleep-wake cycle by chemically causing drowsiness and lowering the body temperature. Melatonin is also implicated in the regulation of mood, learning and memory, immune activity, dreaming, fertility and reproduction. Melatonin is also an effective antioxidant. Most of the actions of melatonin are mediated through the binding and activation of melatonin receptors. Individuals with autism spectrum disorders (ASD) may have lower than normal levels of melatonin. A 2008 study found that unaffected parents of individuals with ASD also have lower melatonin levels, and that the deficits were associated with low activity of the ASMT gene, which encodes the last enzyme of melatonin synthesis. Reduced melatonin production has also been proposed as a likely factor in the significantly higher cancer rates in night workers.
+4. Indication:  Used orally for jet lag, insomnia, shift-work disorder, circadian rhythm disorders in the blind (evidence for efficacy), and benzodiazepine and nicotine withdrawal. Evidence indicates that melatonin is likely effective for treating circadian rhythm sleep disorders in blind children and adults. It has received FDA orphan drug status as an oral medication for this use. A number of studies have shown that melatonin may be effective for treating sleep-wake cycle disturbances in children and adolescents with mental retardation, autism, and other central nervous system disorders. It appears to decrease the time to fall asleep in children with developmental disabilities, such as cerebral palsy, autism, and mental retardation. It may also improve secondary insomnia associated with various sleep-wake cycle disturbances. Other possible uses for which there is some evidence for include: benzodiazepine withdrawal, cluster headache, delayed sleep phase syndrome (DSPS), primary insomnia, jet lag, nicotine withdrawal, preoperative anxiety and sedation, prostate cancer, solid tumors (when combined with IL-2 therapy in certain cancers), sunburn prevention (topical use), tardive dyskinesia, thrombocytopenia associated with cancer, chemotherapy and other disorders. 
+DrugId:  18
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  19
+1. Name:  Fluphenazine
+2. Groups:  Approved
+3. Description:  A phenothiazine used in the treatment of psychoses. Its properties and uses are generally similar to those of chlorpromazine. [PubChem]
+4. Indication:  For management of manifestations of psychotic disorders.
+DrugId:  20
+1. Name:  Acetophenazine
+2. Groups:  Approved
+3. Description:  Acetophenazine is an antipsychotic drug of moderate-potency. It is used in the treatment of disorganized and psychotic thinking. It is also used to help treat false perceptions (e.g. hallucinations or delusions). It primarily targets the dopamine D2 receptor.
+4. Indication:  For the treatment of disorganized and psychotic thinking. Also used to help treat false perceptions (e.g. hallucinations or delusions.)
+DrugId:  21
+1. Name:  Peppermint oil
+2. Groups:  Approved, Investigational
+3. Description:  Peppermint oil is extracted from peppermint leaves. The oil is commonly used as a flavoring agent in foods and fragrance in hygeinic or cosmetic products. It also contains pulegone, which is a naturally occuring pesticide. Peppermint oil may also act as a carminative, cholagogue, antibacterial, and secretolytic, and it has a cooling action. Some anti-itch topical pharmaceutical products containing peppermint oil are available to temporarily relieve itching associated with insect bites, eczema, minor burn, sunburn, minor skin irritations, minor cuts, scrapes, atopic dermatitis and other skin disorders. It is also an active ingredient in topical analgesics for the relief of joint and muscle pain.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Salsalate
+2. Groups:  Approved
+3. Description:  Salsalate is a nonsteroidal anti-inflammatory agent for oral administration. Salsalate's mode of action as an anti-inflammatory and antirheumatic agent may be due to inhibition of synthesis and release of prostaglandins. The usefulness of salicylic acid, the active in vivo product of salsalate, in the treatment of arthritic disorders has been established. In contrast to aspirin, salsalate causes no greater fecal gastrointestinal blood loss than placebo. Salsalate is readily soluble in the small intestine where it is partially hydrolyzed to two molecules of salicylic acid. A significant portion of the parent compound is absorbed unchanged and undergoes rapid esterase hydrolysis in the body. The parent compound has an elimination half-life of about 1 hour. Salicylic acid (the active metabolite) biotransformation is saturated at anti-inflammatory doses of salsalate. Such capacity limited biotransformation results in an increase in the half-life of salicylic acid from 3.5 to 16 or more hours.
+4. Indication:  For relief of the signs and symptoms of rheumatoid arthritis, osteoarthritis and related rheumatic disorders.
+DrugId:  23
+1. Name:  Galsulfase
+2. Groups:  Approved, Investigational
+3. Description:  Galsufase is a variant form of the polymorphic human enzyme N-acetylgalactosamine 4-sulfatase of recombinant DNA origin. Galsulfase is a glycoprotein with a molecular weight of approximately 56 kD. The recombinant protein is comprised of 495 amino acids and contains six asparagine-linked glycosylation sites, four of which carry a bis mannose-6-phosphate manose7 oligosaccharide for specific cellular recognition. Post-translational modification of Cys53 produces the catalytic amino acid residue Ca-formylglycine, which is required for enzyme activity and is conserved in all members of the sulfatase enzyme family.
+4. Indication:  For the treatment of adults and children with Mucopolysaccharidosis VI.
+DrugId:  24
+1. Name:  Elosulfase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Elosulfase alfa is a synthetic version of the enzyme N-acetylgalactosamine-6-sulfatase. It was approved by the FDA in 2014 for the treatment of Morquio syndrome. Elosulfase alfa was developed by BioMarin Pharmaceutical Inc. and is marketed under the brand Vimizim™. The recommended dose is 2 mg per kg given intravenously over a minimum range of 3.5 to 4.5 hours, based on infusion volume, once every week.
+4. Indication:  Vimizim is a hydrolytic lysosomal glycosaminoglycan (GAG)-specific enzyme indicated for patients with Mucopolysaccharidosis type IVA (MPS IVA; Morquio A syndrome). 
+DrugId:  25
+1. Name:  Trifluoperazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine with actions similar to chlorpromazine. It is used as an antipsychotic and an antiemetic. [PubChem]
+4. Indication:  For the treatment of anxiety disorders, depressive symptoms secondary to anxiety and agitation.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Vatiquinone
+2. Groups:  Investigational
+3. Description:  Vatiquinone has been investigated for the treatment and prevention of Retinopathy, Rett Syndrome, Genetic Disease, Noise-induced Hearing Loss, and Methylmalonic Aciduria and Homocystinuria,Cblc Type.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  D-JNKI-1
+2. Groups:  Investigational
+3. Description:  A synthetic, cell permeable peptide that blocks the MAPK-JNK signal pathway; has potential therapeutic value for long-term protection of both the morphological integrity and physiological function of the organ of Corti during times of oxidative stress.
+4. Indication:  Investigated for use/treatment in hearing loss.
+DrugId:  3
+1. Name:  Neramexane
+2. Groups:  Investigational
+3. Description:  Neramexane is a low-to-moderate affinity uncompetitive NMDA receptor antagonist.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, hearing loss, and pain (acute or chronic).
+DrugId:  4
+1. Name:  PF-04958242
+2. Groups:  Investigational
+3. Description:  PF-04958242 has been used in trials studying the basic science and treatment of Schizophrenia and Hearing Loss, Sensorineural.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  6
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.
+DrugId:  7
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  8
+1. Name:  Streptomycin
+2. Groups:  Approved, Vet approved
+3. Description:  Streptomycin is an aminoglycoside antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by binding to the 30S ribosomal subunit of susceptible organisms and disrupting the initiation and elongation steps in protein synthesis. It is bactericidal due to effects that are not fully understood.
+4. Indication:  For the treatment of tuberculosis. May also be used in combination with other drugs to treat tularemia (Francisella tularensis), plague (Yersia pestis), severe M. avium complex, brucellosis, and enterococcal endocarditis (e.g. E. faecalis, E. faecium).
+DrugId:  9
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  10
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  11
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  12
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  13
+1. Name:  Sermorelin
+2. Groups:  Approved, Withdrawn
+3. Description:  Sermorelin acetate is the acetate salt of an amidated synthetic 29-amino acid peptide (GRF 1-29 NH 2 ) that corresponds to the amino-terminal segment of the naturally occurring human growth hormone-releasing hormone (GHRH or GRF) consisting of 44 amino acid residues
+4. Indication:  For the treatment of dwarfism, prevention of HIV-induced weight loss
+DrugId:  14
+1. Name:  Neomycin
+2. Groups:  Approved, Vet approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed). Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and acceptor tRNA sites and results in the production of non-functional or toxic peptides.
+4. Indication:  Topical uses include treatment for superficial eye infections caused by susceptible bacteria (used in combination with other antiinfectives), treatment of otitis externa caused by susceptible bacteria, treatment or prevention of bacterial infections in skin lesions, and use as a continuous short-term irrigant or rinse to prevent bacteriuria and gram negative rod bacteremia in abacteriuric patients with indwelling catheters. May be used orally to treat hepatic encephalopathy, as a perioperative prophylactic agent, and as an adjunct to fluid and electrolyte replacement in the treatment of diarrhea caused to enteropathogenic E. coli (EPEC). 
+DrugId:  15
+1. Name:  Metixene
+2. Groups:  Approved
+3. Description:  Metixene (or methixene) is a anticholinergic used as an antiparkinsonian agent.
+4. Indication:  Used for the symptomatic treatment of parkinsonism.
+DrugId:  16
+1. Name:  Naloxegol
+2. Groups:  Approved
+3. Description:  Naloxegol, for "PEGylated naloxol" is a peripherally-selective opioid antagonist developed by AstraZeneca. It was approved by the FDA in September 2014 and is indicated for the treatment of opioid-induced constipation (OIC) in adult patients with chronic non‑cancer pain. The advantage of naloxegol over the opioid antagonist naloxone is that its PEGylated structure allows for high selectivity for peripheral opioid receptors and lack of entry into the central nervous system through the blood-brain barrier. 
+4. Indication:  Indicated for the treatment of opioid-induced constipation (OIC) in adult patients with chronic non-cancer pain.
+DrugId:  17
+1. Name:  Raloxifene
+2. Groups:  Approved, Investigational
+3. Description:  A second generation selective estrogen receptor modulator (SERM) used to prevent osteoporosis in postmenopausal women. It has estrogen agonist effects on bone and cholesterol metabolism but behaves as a complete estrogen antagonist on mammary gland and uterine tissue. [PubChem]
+4. Indication:  For the prevention and treatment of osteoporosis in post-menopausal women, as well as prevention and treatment of corticosteroid-induced bone loss. Also for the reduction in the incidence of invasive breast cancer in postmenopausal women with osteoporosis or have a high risk for developing breast cancer.
+DrugId:  18
+1. Name:  Dexrazoxane
+2. Groups:  Approved, Withdrawn
+3. Description:  An antimitotic agent with immunosuppressive properties. Dexrazoxane, the (+)-enantiomorph of razoxane, provides cardioprotection against anthracycline toxicity. It appears to inhibit formation of a toxic iron-anthracycline complex. [PubChem]The Food and Drug Administration has designated dexrazoxane as an orphan drug for use in the prevention or reduction in the incidence and severity of anthracycline-induced cardiomyopathy.
+4. Indication:  For reducing the incidence and severity of cardiomyopathy associated with doxorubicin administration in women with metastatic breast cancer who have received a cumulative doxorubicin hydrochloride dose of 300 mg/m^2 and would benefit from continued doxorubicin therapy. Also approved for the treatment of extravasation from intravenous anthracyclines.
+DrugId:  19
+1. Name:  Ixazomib
+2. Groups:  Approved, Investigational
+3. Description:  Ixazomib a second generation proteasome inhibitor (PI) and the first oral PI approved by the FDA in November 2015 for multiple myeloma treatment in combination with 2 other therapies (lenalidomide and dexamethasone) for patients who have received at least 1 prior therapy. It was found to have similar efficacy to bortezomib (the first PI approved for multiple myeloma therapy) in the control of myeloma growth and prevention of bone loss. Ixazomib citrate is marketed by Takeda Pharmaceuticals under the brand name Ninlaro, which is a prodrug that becomes quickly converted to its active metabolite, ixazomib, after administration.
+4. Indication:  Ixazomib is indicated in combination with lenalidomide and dexamethasone for the treatment of patients with multiple myeloma who have received at least one prior therapy. 
+DrugId:  20
+1. Name:  Piracetam
+2. Groups:  Approved, Investigational
+3. Description:  Piracetam is a nootropic drug in the racetams group, with chemical name 2-oxo-1-pyrrolidine acetamide. It shares the same 2-oxo-pyrrolidone base structure with pyroglutamic acid and is a cyclic derivative of the neurotransmitter γ-aminobutyric acid (GABA). However its mechanism of action differ from that of endogenous GABA.Piracetam has neuroprotective and anticonvulsant properties and is reported to improve neural plasticity [1]. Its efficacy is documented in cognitive disorders and dementia, vertigo, cortical myoclonus, dyslexia, and sickle cell anemia although the clinical application in these conditions is not yet established. Piracetam has effects on the vascular system by reduce erythrocyte adhesion to vascular endothelium, hinder vasospasm and facilitate microcirculation [1].Originally marketed by UCB Pharma in 1971, piracetam was the first nootropic drug to modulate cognitive function without causing sedation or stimulation [1]. In the United States, it is not approved by the US Food and Drug Administration for any medical use and it is not permitted to be sold as a dietary supplement. In the UK, piracetam is prescribed mainly for myoclonus, but is used off-label for other conditions such as learning difficulties in children, memory loss or other cognitive defects in the elderly, and sickle-cell vaso-occlusive crises [4]. Evidence to support its use for many conditions is unclear.
+4. Indication:  Indicated in adult patients suffering from myoclonus of cortical origin, irrespective of aetiology, and should be used in combination with other anti-myoclonic therapies [5].
+DrugId:  21
+1. Name:  Somatotropin
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human growth hormone (somatotropin) 191 residues, MW 22.1 kD, synthesized in E. coli
+4. Indication:  For treatment of dwarfism, acromegaly and prevention of HIV-induced weight loss
+DrugId:  22
+1. Name:  Cloxazolam
+2. Groups:  Approved, Investigational
+3. Description:  Cloxazolam is a benzodiazepine with anxiolytic, sedative/hypnotic, muscle relaxant, and antiepileptic effects. It is marketed in the Argentina, Australia, Portugal, Belgium, Switzerland, Luxembourg, Germany, Taiwan and Japan -- mainly for anti-anxiety. The usual dose of cloxazolam in adults is 3-12mg/day for anti-anxiety. Although less commonly noted, it has also been reported as clinically effective in the treatment of depression, schizophrenia, and neurosis. As well, it has also been studied in Japan in doses of 15-30mg/day as an adjunct in the treatment of intractable epilepsy, for which it has demonstrated effectiveness.
+4. Indication:  Used primarily as an anti-anxiety agent. Typically used short term, and may be given as a single dose of up to 100mcg/kg to reduce anxiety and tension experienced prior to surgery. 
+DrugId:  23
+1. Name:  Azficel-T
+2. Groups:  Approved, Investigational
+3. Description:  Azficel-T is an autologous cellular product composed of fibroblasts indicated for improvement of the appearance of moderate to severe nasolabial fold wrinkles in adults. Dermal fibroblasts are collected from the post-auricular biopsy tissue and aseptically expanded using standard tissue-culture procedures until sufficient cells for three doses are obtained [FDA Label]. Expanded cells are then suspended in a cell medium. As a replacement for lost dermal constituents in the aging or skin deformation process, treatment with autologous fibroblasts has shown to improve wrinkle and acne scar appearance than with placebo treatment [2, 4]. Intradermal administration of autologous dermal fibroblasts into irradiated skin following surgical procedures was associated with an improved healing process of subsequent surgical wounds [5]. Azficel-T is marketed in the US as Laviv for intradermal injection.
+4. Indication:  Indicated for improvement of the appearance of moderate to severe nasolabial fold wrinkles in adults [FDA Label].
+DrugId:  24
+1. Name:  Biperiden
+2. Groups:  Approved, Investigational
+3. Description:  A muscarinic antagonist that has effects in both the central and peripheral nervous systems. It has been used in the treatment of arteriosclerotic, idiopathic, and postencephalitic parkinsonism. It has also been used to alleviate extrapyramidal symptoms induced by phenothiazine derivatives and reserpine. [PubChem]
+4. Indication:  For use as an adjunct in the therapy of all forms of parkinsonism and control of extrapyramidal disorders secondary to neuroleptic drug therapy.
+DrugId:  25
+1. Name:  Incadronic acid
+2. Groups:  Approved, Investigational
+3. Description:  Incadronic acid is a third generation bisphosphonate which can suppress bone resorption by osteoclasts. It is used to treat hypercalcemia, and bone disorders associated with malignancy and osteoporosis. In rats with induced hypercalcemia, incadronate has been found to be 46 times more potent than pamidronate and 11 times more potent than aledronate.Incadronate has also been found to have anti-tumor effects in mice. In rat models of breast cancer, bisphosphonate treatment has been shown to inhibit the progression and development of bone metastases and reduce tumor burden in vivo. It has also been recognized as a potential treatment for adult T-cell leukaemia which is characterized by hypercalcemia and tumor-induced osteolysis. [2] Incadronate, as well as other nitrogen containing bisphosphonates, such as aledronate and minodronate, have been found to induce apoptosis of hematopoietic tumor cells. In vitro human myeloma cells have undergone apoptosis when exposed to incadronate. [5] When combined with Tipifarnib, a potent farnesyl transferase inhibitor which can suppress the growth of myeloma cells, growth suppression of myeloma cells in vitro is intensified. [6] Because of these findings Incadronate is being investigated as a treatment for multiple myeloma, a B-cell malignancy associated with bone loss. Incadronate is available by prescription only, and is not marked is the United States, UK, Canada, or Australia. It is an approved treatment for malignancy-associated hypercalcemia (MAH) in Japan.[8]
+4. Indication:  For the treatment of hypercalcemia associated with malignant disease.

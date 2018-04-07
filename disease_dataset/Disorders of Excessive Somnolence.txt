@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  VSF-173
+2. Groups:  Investigational
+3. Description:  VSF-173 is an oral small molecule. It is an oral compound that has demonstrated effects on animal sleep/wake patterns and gene expression patterns suggestive of a stimulant effect. It is developed for the treatment of excessive sleepiness. Study shows that VSF-173 possesses a novel mechanism to address disorders of excessive sleepiness.
+4. Indication:  Investigated for use/treatment in sleep disorders.
+DrugId:  2
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  3
+1. Name:  Prazepam
+2. Groups:  Approved, Illicit
+3. Description:  Prazepam is a benzodiazepine that is used in the treatment of anxiety disorders. It is a schedule IV drug in the U.S.
+4. Indication:  For the treatment of anxiety disorders.
+DrugId:  4
+1. Name:  Becocalcidiol
+2. Groups:  Investigational
+3. Description:  Becocalcidiol is a vitamin D(3) analogue which has not caused hypercalcaemia or significant irritation in preclinical trials.
+4. Indication:  For topical treatment of psoriasis and psoriatic disorders.
+DrugId:  5
+1. Name:  Betahistine
+2. Groups:  Approved, Investigational
+3. Description:  Betahistine is an antivertigo drug first used for treating vertigo assosicated with Ménière's disease. It is also commonly used for patients with balance disorders.
+4. Indication:  For the reduction of episodes of vertigo association with Ménière's disease.
+DrugId:  6
+1. Name:  NOX-100
+2. Groups:  Investigational
+3. Description:  NOX-100 is the new nitric oxide (NO) neutralizing agent being developed by San Diego-based Medinox -- demonstrated its effectiveness and potential as a therapeutic to treat hemorrhagic shock. NOX-100 is the first in a series of proprietary NO neutralizing compounds Medinox is developing to bind and inactivate NO, a simple gas molecule that is a key biological messenger in the body.
+4. Indication:  Investigated for use/treatment in sepsis and septicemia.
+DrugId:  7
+1. Name:  Seletracetam
+2. Groups:  Investigational
+3. Description:  Seletracetam is a pyrrolidone derivative and with a structural similarity to newer generation antiepileptic drug levetiracetam. It binds to the same target as levetiracetam but with higher affinity and has shown potent seizure suppression in models of acquired and genetic epilepsy with high CNS tolerability. It is predicted to have low drug-drug interactions and inhibition or induction of any major human metabolizing enzymes. Seletracetam was in Phase II clinical trials under the supervision of the U.S. Food and Drug Administration (FDA) investigated as treatment of epilepsy and partial epilepsy however its development had been put on hold in July 2007. As of 2010, its production was further halted due to the investigation of a newer antiepileptic agent, brivaracetam.
+4. Indication:  Investigated for use/treatment in epilepsy.
+DrugId:  8
+1. Name:  Cinolazepam
+2. Groups:  Approved
+3. Description:  Cinolazepam is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. Cinolazepam is not approved for sale in the United States or Canada.
+4. Indication:  For the management of anxiety disorders or for the short-term relief of the symptoms of anxiety or anxiety associated with depressive symptoms.
+DrugId:  9
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  10
+1. Name:  GW-501516
+2. Groups:  Investigational
+3. Description:  GW-501516 is a peroxisome proliferator-activator receptor-delta agonist for the potential treatment of dyslipidemia. GW-501516 has been investigated for the treatment of Obesity, Lipid Disorders, and Cardiovascular Disease.
+4. Indication:  Investigated for use/treatment in hyperlipidemia.
+DrugId:  11
+1. Name:  Prochlorperazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine antipsychotic used principally in the treatment of nausea; vomiting; and vertigo. It is more likely than chlorpromazine to cause extrapyramidal disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p612)
+4. Indication:  For the symptomatic management of psychotic disorders, short term management of nonpsychotic anxiety in patients with generalized anxiety disorder, and for the control of severe nausea and vomiting of various causes.
+DrugId:  12
+1. Name:  Amantadine
+2. Groups:  Approved
+3. Description:  An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the chemoprophylaxis, prophylaxis, and treatment of signs and symptoms of infection caused by various strains of influenza A virus. Also for the treatment of parkinsonism and drug-induced extrapyramidal reactions.
+DrugId:  13
+1. Name:  Propantheline
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used as an antispasmodic, in rhinitis, in urinary incontinence, and in the treatment of ulcers. At high doses it has nicotinic effects resulting in neuromuscular blocking. [PubChem]
+4. Indication:  For the treatment of enuresis. It has also been used for hyperhidrosis, and cramps or spasms of the stomach, intestines or bladder.
+DrugId:  14
+1. Name:  Armodafinil
+2. Groups:  Approved, Investigational
+3. Description:  Armodafinil is the enantiopure of the wakefulness-promoting agent modafinil (Provigil), and is indicated to improve wakefulness in adult patients with excessive sleepiness associated with obstructive sleep apnea (OSA), narcolepsy, or shift work disorder (SWD). Research has shown that armodafinil significantly improves driving simulator performance in patients with SWD. Armodafinil consists of the (−)-R-enantiomer of the racemic modafinil. Armodafinil is produced by the pharmaceutical company Cephalon Inc. (a wholly owned subsidiary of Teva Pharmaceutical Industries Ltd.) and was approved by the U.S. Food and Drug Administration (FDA) in June 2007.
+4. Indication:  Investigated for use/treatment in sleep disorders, obstructive sleep apnea, schizophrenia and schizoaffective disorders, depression, and bipolar disorders.
+DrugId:  15
+1. Name:  Fluvoxamine
+2. Groups:  Approved, Investigational
+3. Description:  Fluvoxamine is an antidepressant which functions pharmacologically as a selective serotonin reuptake inhibitor. Though it is in the same class as other SSRI drugs, it is most often used to treat obsessive-compulsive disorder.Fluvoxamine has been in use in clinical practice since 1983 and has a clinical trial database comprised of approximately 35,000 patients. It was launched in the US in December 1994 and in Japan in June 1999. As of the end of 1995, more than 10 million patients worldwide have been treated with fluvoxamine.
+4. Indication:  Indicated predominantly for the management of depression and for Obsessive Compulsive Disorder (OCD) [FDA Label]. Has also been used in the management of bulimia nervosa [2].
+DrugId:  16
+1. Name:  Dicyclomine
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used as an antispasmodic and in urinary incontinence. It has little effect on glandular secretion or the cardiovascular system. It does have some local anesthetic properties and is used in gastrointestinal, biliary, and urinary tract spasms. [PubChem]
+4. Indication:  For the treatment of functional bowel/irritable bowel syndromeincluding Colicky abdominal pain; diverticulitis
+DrugId:  17
+1. Name:  Fiboflapon
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified).
+DrugId:  18
+1. Name:  Ziprasidone
+2. Groups:  Approved
+3. Description:  Ziprasidone (marketed as Geodon, Zeldox) was the fifth atypical antipsychotic to gain FDA approval (February 2001). Ziprasidone is Food and Drug Administration (FDA) approved for the treatment of schizophrenia, and the intramuscular injection form of ziprasidone is approved for acute agitation in schizophrenic patients. Ziprasidone has also received approval for acute treatment of mania associated with bipolar disorder. [Wikipedia]
+4. Indication:  For the treatment of schizophrenia and related psychotic disorders.
+DrugId:  19
+1. Name:  Rufinamide
+2. Groups:  Approved
+3. Description:  Rufinamide is a triazole derivative and an anticonvulsant medication to treat seizure disorders like Lennox-Gastuat syndrome, a form of childhood epilepsy. Clinical trials suggest its efficacy in the treatment of partial seizures. 
+4. Indication:  Adjunct therapy for treatment of seizures associated with Lennox-Gastaut syndrome. 
+DrugId:  20
+1. Name:  Aripiprazole
+2. Groups:  Approved, Investigational
+3. Description:  Aripiprazole is an atypical antipsychotic medication used for the treatment of schizophrenia. It has also recently received FDA approval for the treatment of acute manic and mixed episodes associated with bipolar disorder. Aripiprazole appears to mediate its antipsychotic effects primarily by partial agonism at the D2 receptor. In addition to partial agonist activity at the D2 receptor, aripiprazole is also a partial agonist at the 5-HT1A receptor, and like the other atypical antipsychotics, aripiprazole displays an antagonist profile at the 5-HT2A receptor. Aripiprazole has moderate affinity for histamine and alpha adrenergic receptors, and no appreciable affinity for cholinergic muscarinic receptors.
+4. Indication:  For the treatment of schizophrenia and related psychotic disorders.
+DrugId:  21
+1. Name:  Tiagabine
+2. Groups:  Approved, Investigational
+3. Description:  Tiagabine is an anti-convulsive medication. It is also used in the treatment for panic disorder as are a few other anticonvulsants. Though the exact mechanism by which tiagabine exerts its effect on the human body is unknown, it does appear to operate as a selective GABA reuptake inhibitor.
+4. Indication:  For the treatment of partial seizures
+DrugId:  22
+1. Name:  Oxyphenonium
+2. Groups:  Approved
+3. Description:  A quaternary ammonium anticholinergic agent with peripheral side effects similar to those of atropine. It is used as an adjunct in the treatment of gastric and duodenal ulcer, and to relieve visceral spasms. The drug has also been used in the form of eye drops for mydriatic effect. [PubChem]
+4. Indication:  For the treatment of visceral spasms
+DrugId:  23
+1. Name:  Botulinum Toxin Type A
+2. Groups:  Approved, Investigational
+3. Description:  Purified botulinum toxin from Clostridium botulinum, purified from culture via dialysis and acid precipitation.
+4. Indication:  For the treatment of cervical dystonia in adults to decrease the severity of abnormal head position and neck pain associated with cervical dystonia. Also for the treatment of severe primary axillary hyperhidrosis that is inadequately managed with topical agents and for the treatment of strabismus and blepharospasm associated with dystonia, including benign essential blepharospasm or VII nerve disorders in patients 12 years of age and above. Also used cosmetically to temporarily improve the appearance of moderate-to-severe frown lines between the eyebrows (glabellar lines) as well as for the treatment of excessive underarm sweating.
+DrugId:  24
+1. Name:  Molindone
+2. Groups:  Approved
+3. Description:  An indole derivative effective in schizophrenia and other psychoses and possibly useful in the treatment of the aggressive type of undersocialized conduct disorder. Molindone has much lower affinity for D2 receptors than most antipsychotic agents and has a relatively low affinity for D1 receptors. It has only low to moderate affinity for cholinergic and alpha-adrenergic receptors. Some electrophysiologic data from animals indicate that molindone has certain characteristics that resemble those of clozapine. (From AMA Drug Evaluations Annual, 1994, p283)
+4. Indication:  Molindone is used for the management of the manifestations of psychotic disorders.
+DrugId:  25
+1. Name:  Diazepam
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589)
+4. Indication:  Used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome.

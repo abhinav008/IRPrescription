@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Decitabine
+2. Groups:  Approved, Investigational
+3. Description:  Decitabine is indicated for treatment of patients with myelodysplastic syndrome (MDS). It is a chemical analogue of cytidine, a nucleoside present in DNA and RNA. Cells in the presence of Decitabine incorporate it into DNA during replication and RNA during transcription. The incorporation of Decitabine into DNA or RNA inhibits methyltransferase thereby causing demethylation in that sequence. This adversely affects the way that cell regulatory proteins are able to bind to the DNA/RNA substrate.
+4. Indication:  For treatment of patients with myelodysplastic syndromes (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia) and intermediate-1, intermediate-2, and high-risk International Prognostic Scoring System groups (scores ≥0.5).
+DrugId:  2
+1. Name:  BMS-214662
+2. Groups:  Investigational
+3. Description:  BMS-214662 has been used in trials studying the treatment of Childhood Myelodysplastic Syndromes, Refractory Anemia With Excess Blasts, Recurrent Adult Acute Myeloid Leukemia, Relapsing Chronic Myelogenous Leukemia, and Adult Acute Promyelocytic Leukemia (M3), among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Azacitidine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analogue that inhibits DNA methyltransferase, impairing DNA methylation. It is also an antimetabolite of cytidine, incorporated primarily into RNA. Azacytidine has been used as an antineoplastic agent. [PubChem]
+4. Indication:  For treatment of patients with the following French-American-British myelodysplastic syndrome subtypes: refractory anemia or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts, refractory anemia with excess blasts in transformation (now classified as acute myelogenous leukemia with multilineage dysplasia), and chronic myelomonocytic leukemia.
+DrugId:  4
+1. Name:  recombinant human GM-CSF
+2. Groups:  Investigational
+3. Description:  Human GM-CSF (Granulocyte/Monocyte-Colony Stimulating Factor) is a differentially glycosylated factor produced mainly by activated T cells and macrophages. Endothelial cells and fibroblasts can also produce GM-CSF after exposure to TNF-α, IL-1, IL-2 and IFN-γ. GM-CSF is found associated with extracellular matrix and in membrane-bound formats too. GM-CSF stimulates proliferation, activation and differentiation of macrophages and granulocytes and their progenitors.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy) and bone marrow transplant.
+DrugId:  5
+1. Name:  Deferoxamine
+2. Groups:  Approved, Investigational
+3. Description:  Natural product isolated from Streptomyces pilosus. It forms iron complexes and is used as a chelating agent, particularly in the mesylate form. [PubChem]
+4. Indication:  Used to treat acute iron or aluminum toxicity (an excess of aluminum in the body) in certain patients. Also used in certain patients with anemia who must receive many blood transfusions.
+DrugId:  6
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Sodium ferric gluconate complex
+2. Groups:  Approved
+3. Description:  Sodium ferric gluconate complex is an iron replacement product for treatment of iron deficiency anemia. The stable macromolecular complex is negatively charged at alkaline pH with an apparent molecular weight of 289,000 – 440,000 daltons on gel chromatography. It is composed of iron (III) oxide hydrate directly bonded to sucrose with a chelating gluconate function in a molar ratio of two iron molecules to one gluconate. It is used in adult and in pediatric patients over the age of 6 years with chronic kidney disease (CKD) receiving hemodialysis and receiving supplemental epoetin therapy.
+4. Indication:  Used to replete the total body content of iron during iron deficiency anemia in patients age 6 years and older with chronic kidney disease receiving hemodialysis and receiving supplemental epoetin therapy.
+DrugId:  8
+1. Name:  Nandrolone decanoate
+2. Groups:  Approved, Illicit
+3. Description:  C18 steroid with androgenic and anabolic properties. It is generally prepared from alkyl ethers of estradiol to resemble testosterone but less one carbon at the 19 position. It is a schedule III drug in the U.S.
+4. Indication:  For the treatment of refractory deficient red cell production anemias, breast carcinoma, hereditary angioedema, antithrombin III deficiency, fibrinogen excess, growth failure and Turner's syndrome. It is also indicated in the prophylaxis of hereditary angioedema.
+DrugId:  9
+1. Name:  QR-334
+2. Groups:  Investigational
+3. Description:  QR-334 is under investigation for the treatment of sialorrhea. Sialorrhea is an excess secretion of saliva produced by the salivary glands, resulting in drooling. No pharmaceutical interventions currently exist to treat sialorrhea. The symptom is associated with many diseases including Amyotrophic Lateral Sclerosis (ALS), also known as Lou Gehrig’s Disease, Cerebral Palsy, Parkinson's Disease, and Muscular Dystrophy.
+4. Indication:  Investigated for use/treatment in saliva and salivary gland dysfunction (sialorrhea).
+DrugId:  10
+1. Name:  Iron Dextran
+2. Groups:  Approved, Vet approved
+3. Description:  Iron dextran is a dark brown, slightly viscous liquid complex of ferric hydroxide and dextran for intravenous or intramuscular use. Iron Dextran is used for the treatment of patients with documented iron deficiency in which oral administration is unsatisfactory or impossible. 
+4. Indication:  For treatment of patients with documented iron deficiency in whom oral administration is unsatisfactory or impossible. Also used to replenish body iron stores in Non-Dialysis Dependent-Chronic Kidney Disease (NDD-CKD) patients receiving or not receiving erythropoietin and in Hemodialysis Dependent (HDD-CKD) and Peritoneal Dialysis Dependent (PDD-CKD) - Chronic Kidney Disease patients receiving an erythropoietin.
+DrugId:  11
+1. Name:  PBI-1402
+2. Groups:  Investigational
+3. Description:  PBI-1402 is a small molecule synthetic compound with oralBioavailability. The compound activates neutrophils, enhancing their survival and activation with comparable efficacy to GM-CSF, G-CSF and EPO, which are currently used to treat anemia. However, it has been shown that when co-administered with these compounds, effects are additive, making PBI-1402 an excellent candidate for combination therapy and asserting its independent mechanism of action. PBI-1402 appears to work on the PMN pathway, but its specific binding properties are not known. PBI-1402 has a dual therapeutic action; as a chemoprotectant and hematopoietic progenitor stimulator. Since it stimulates immune activity, it has been considered as a candidate for cancer treatment as well as anemia.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anemia, and chemotherapy.
+DrugId:  12
+1. Name:  Vigabatrin
+2. Groups:  Approved
+3. Description:  An analogue of gamma-aminobutyric acid, vigabatrin is an irreversible inhibitor of 4-aminobutyrate transaminase, the enzyme responsible for the catabolism of gamma-aminobutyric acid. (From Martindale The Extra Pharmacopoeia, 31st ed). Off-label uses include treatment of cocaine dependence. 
+4. Indication:  For use as an adjunct in treatment resistant epilepsy, refractory complex partial seizures, and secondary generalized seizures. It is also used as monotherapy in infantile spasms in West syndrome.
+DrugId:  13
+1. Name:  Nandrolone phenpropionate
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  C18 steroid with androgenic and anabolic properties. It is generally prepared from alkyl ethers of estradiol to resemble testosterone but less one carbon at the 19 position. It is a schedule III drug in the U.S.
+4. Indication:  For the treatment of refractory deficient red cell production anemias, breast carcinoma, hereditary angioedema, antithrombin III deficiency, fibrinogen excess, growth failure and Turner's syndrome. It is also indicated in the prophylaxis of hereditary angioedema.
+DrugId:  14
+1. Name:  AP5346
+2. Groups:  Investigational
+3. Description:  AP5346 is designed to target a diaminocyclohexane platinum (Pt) moiety to tumors through pH-sensitive linkage to a 25 kDa hydroxypropylmethacrylamide polymer. It is being pursued by Access Pharmaceuticals, Inc.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  15
+1. Name:  Tipiracil
+2. Groups:  Approved, Investigational
+3. Description:  Tipiracil is a thymidine phosphorylase inhibitor. It is used in combination with trifluridine, in a ratio of 1:0.5, to form TAS-102. The main function of Tipiracil in TAS-102 is to increase trifluridine bioavailability by inhibiting its catabolism.[2] TAS-102 is indicated for the treatment of metastatic colorectal cancer which has been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, or with an anti-VEGF or anti-EGFR therapy.[1]
+4. Indication:  Tipiracil, in combination with trifluridine, is indicated for the treatment of refractory mestastatic colorectal cancer patients who keep progressing despite of treatment with standard chemotherapy and biologics.[3]
+DrugId:  16
+1. Name:  Imiglucerase
+2. Groups:  Approved
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  17
+1. Name:  Ferric Carboxymaltose
+2. Groups:  Approved
+3. Description:  Ferric Carboxymaltose is an iron replacement product and chemically, an iron carbohydrate complex. FDA approved on July 25, 2013. 
+4. Indication:  Ferric carboxymaltose is a iron replacement product indicated for the treatment of iron deficiency anemia in adult patients who have intolerance to oral iron or have had unsatisfactory response to oral iron or those who have non-dialysis dependent chronic kidney disease. 
+DrugId:  18
+1. Name:  Triethylenetetramine
+2. Groups:  Approved, Investigational
+3. Description:  Triethylenetatramine (TETA) is a highly selective divalent Cu(II) chelator and orphan drug that revereses copper overload in tissues. Its salt form, trientine (triethylenetetramine dihydrochloride or 2,2,2-tetramine) was introduced in 1969 as an alternative to D-penicillamine. It consists of a polyamine-like structure different from D-penicillamine, as it lack sulfhydryl groups. It was previously approved by FDA in 1985 as second-line pharmacotherapy for Wilson's disease. Although penicillamine treatment is believed to be more extensive, TETA therapy has been shown to be an effective initial therapy, even with patients with decompensated liver disease at the outset, and prolonged TETA treatment is not associated with adverse effects as expected in penicillamine treatment. Its clinical applications on cancer, diabetes mellitus, Alzheimer's disease and vascular demetia are being studied.
+4. Indication:  Trientine is a copper chelator used in the treatment of Wilson's disease as an alternative to D-penicillamine. It tends to be used in patients who are experiencing serious adverse effects from penicillamine therapy or intolerance of penicillamine. 
+DrugId:  19
+1. Name:  Trimethadione
+2. Groups:  Approved
+3. Description:  An anticonvulsant effective in absence seizures, but generally reserved for refractory cases because of its toxicity. (From AMA Drug Evaluations Annual, 1994, p378)
+4. Indication:  Used in the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+DrugId:  20
+1. Name:  Brontictuzumab
+2. Groups:  Investigational
+3. Description:  Brontictuzumab has been used in trials studying the treatment of Adenoid Cystic Carcinoma, Relapsed or Refractory Solid Tumors, and Relapsed or Refractory Lymphoid Malignancies.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  ETC-588
+2. Groups:  Investigational
+3. Description:  ETC-588, or LUV (large unilamellar vesicles), is made of naturally occurring lipids that circulate through arteries to facilitate the role of high-density lipoprotein (HDL) in removing accumulated cholesterol and other lipids from cells including those in the arterial wall. LUV are capable of transporting excess cholesterol from the vasculature to the liver for eventual elimination as part of the reverse lipid transport (RLT) pathway. It is believed that the removal of cholesterol by ETC-588 through this pathway may result in the reversal of atherosclerosis. Esperion is currently developing ETC-588 as a treatment for patients with acute coronary syndromes.
+4. Indication:  Investigated for use/treatment in atherosclerosis, coronary artery disease, and vascular diseases.
+DrugId:  22
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Darbepoetin alfa
+2. Groups:  Approved, Investigational
+3. Description:  Human erythropoietin with 2 aa substitutions to enhance glycosylation (5 N-linked chains), 165 residues (MW=37 kD). Produced in Chinese hamster ovary (CHO) cells by recombinant DNA technology.
+4. Indication:  For the treatment of anemia (from renal transplants or certain HIV treatment)
+DrugId:  24
+1. Name:  Tisagenlecleucel
+2. Groups:  Approved, Investigational
+3. Description:  Tisagenlecleucel is a CD19-directed genetically modified autologous T cell immunotherapy, or a CAR-T cell therapy for B-cell acute lymphoblastic leukemia. It was granted approval by FDA in August 2017 under the market name Kymriah. Tisagenlecleucel is an immunocellular therapy that involves autologous T cells that are collected from each individual patient and genetically engineered to express a specific protein called a chimeric antigen receptor (CAR) that specifically target CD19 antigens. Modified T cells are infused back into the patient's body. These CD19-directed chimeric antigen receptors (CD19 CAR-T cells) direct the T cells to targt and kill leukiemia cells that express a specific antigen (CD19) on the cell surface.In a multicenter clinical trial involving pediatric and young adult patients with relapsed or refractory B-cell precursor ALL, the overall remission rate within three months of treatment was 83 percent [4].
+4. Indication:  Indicated for the treatment of patients up to 25 years of age with B-cell precursor acute lymphoblastic leukemia (ALL) that is refractory or in second or later relapse [FDA Label]. 
+DrugId:  25
+1. Name:  Venetoclax
+2. Groups:  Approved, Investigational
+3. Description:  Venetoclax is an oral selective inhibitor of B-Cell Lymphoma-2 (BCL-2), an antiapoptotic protein that plays a key role in the development of chronic lymphocytic leukemia (CLL) cells. BCL-2 and its related proteins BCL-XL and MCL-1 bind to and sequester pro-apoptotic signals in the cell, causing a down-regulation of apoptosis. As an oncogene and an important regulator of apoptosis, BCL-2 overexpression therefore results in increased tumour cell survival and resistance to chemotherapy. Venetoclax helps restore the process of apoptosis by binding directly to the BCL-2 protein, displacing pro-apoptotic proteins like BIM, triggering mitochondrial outer membrane permeabilization and the activation of caspases. Compared to navitoclax, a duel inhibitor of BCL-2 and BCL-XL, venetoclax use results in significantly less platelet killing and thrombocytopenia. This is due to its specificity for BCL-2 and sparing of BCL-XL, which is required for platelet survival. In 2015, the United States Food and Drug Administration (FDA) granted Breakthrough Therapy Designation to venetoclax for patients with CLL who have relapsed or have been refractory to previous treatment and have the 17p deletion genetic mutation. It was approved by the FDA in April 2016.
+4. Indication:  For the treatment of patients with chronic lymphocytic leukemia (CLL) with 17p deletion, as detected by an FDA approved test, who have received at least one prior therapy.

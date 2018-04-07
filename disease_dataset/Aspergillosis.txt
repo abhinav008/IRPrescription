@@ -1,0 +1,45 @@
+DrugId:  1
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Ravuconazole
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections, aspergillosis, candidiasis, and onychomycosis.
+DrugId:  3
+1. Name:  Voriconazole
+2. Groups:  Approved, Investigational
+3. Description:  Voriconazole (Vfend®, Pfizer) is a triazole antifungal medication used to treat serious fungal infections. It is used to treat invasive fungal infections that are generally seen in patients who are immunocompromised. These include invasive candidiasis, invasive aspergillosis, and emerging fungal infections.
+4. Indication:  For the treatment of esophageal candidiasis, invasive pulmonary aspergillosis, and serious fungal infections caused by Scedosporium apiospermum and Fusarium spp.
+DrugId:  4
+1. Name:  Isavuconazole
+2. Groups:  Approved, Investigational
+3. Description:  Isavuconazole is an triazole antifungal with broad spectrum of activity and good safety profile [1]. It is approved by the FDA and EMA for the treatment of invasive aspergillosis and mucormycosis. It works by inhibiting fungal cell membrane synthesis. Invasive fungal infections pose significant clinical challenges for patients, especially those who are immunocompromised. In vitro, most of the Candida species, most Aspergillus species, Mucorales, Cryptococcus spp., Fusarium species, dermatophytes and dimorphic fungi displayed susceptibility to isavuconzaole [3]. Resistance to isavuconazole has been associated with the mutation in the target gene CYP51 [FDA Label]. Cross-resistance between isavuconazole and other azoles was also proposed although the clinical relevance is unclear [FDA Label]. Its prodrug, Isavuconazonium, is commonly used as an active ingredient in commercially available formulations due to low water solubility of isavuconazole. The prodrug formulation of isavuconazole is FDA- and EMA-approved and is marketed under the trade name Cresemba for the treatment of invasive aspergillosis and mucormycosis as oral or intravenous administration. The intravenous formulation is cyclodextrin-free which gives isavuconazole an advantage over other azole antifungals that requires cyclodextrin for facilitating drug solubility; this is because cyclodextrin has a potential for nephrotoxicity [3]. It is proposed that the intravenous and oral dosing can be used interchangeably [4], without the need for a repeat loading dose when transitioning from an IV to an oral formulation [1]. Isavuconazonium displays excellent water solubility for intravenous formulations, good absorption, and enhanced oral bioavailability [1]. Following administration, isavuconazonium undergoes biotransformation to form the active moiety, isavuconazole, for the antifungal actions.
+4. Indication:  Indicated for patients 18 years of age and older for the treatment of invasive aspergillosis [FDA Label].Indicated for patients 18 years of age and older for the treatment of invasive mucormycosis [FDA Label], including patients where treatment amphotericin B is inappropriate [4].
+DrugId:  5
+1. Name:  Isavuconazonium
+2. Groups:  Approved, Investigational
+3. Description:  Isavuconazonium is a second-generation triazole antifungal approved on March 6, 2015 by the FDA for the treatment of invasive aspergillosis and invasive mucormycosis, marketed by Astellas under the brand Cresemba. It is the prodrug form of isavuconazole, the active moiety, and it is available in oral and parenteral formulations. Due to low solubility in water of isavuconazole on its own, the isovuconazonium formulation is favorable as it has high solubility in water and allows for intravenous administration. This formulation also avoids the use of a cyclodextrin vehicle for solubilization required for intravenous administration of other antifungals such as voriconazole and posaconazole, eliminating concerns of nephrotoxicity associated with cyclodextrin. Isovuconazonium has excellent oral bioavailability, predictable pharmacokinetics, and a good safety profile, making it a reasonable alternative to its few other competitors on the market. 
+4. Indication:  Indicated in the treatment of invasive aspergillosis and invasive mucormycosis.
+DrugId:  6
+1. Name:  Itraconazole
+2. Groups:  Approved, Investigational
+3. Description:  One of the triazole antifungal agents that inhibits cytochrome P-450-dependent enzymes resulting in impairment of ergosterol synthesis. It has been used against histoplasmosis, blastomycosis, cryptococcal meningitis & aspergillosis. [PubChem]
+4. Indication:  For the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients: pulmonary and extrapulmonary blastomycosis, histoplasmosis, aspergillosis, and onychomycosis.
+DrugId:  7
+1. Name:  Caspofungin
+2. Groups:  Approved
+3. Description:  Caspofungin (brand name Cancidas worldwide) is an antifungal drug, the first of a new class termed the echinocandins from Merck & Co., Inc. It shows activity against infections with Aspergillus and Candida, and works by inhibiting β(1,3)-D-Glucan of the fungal cell wall. Caspofungin is administered intravenously.
+4. Indication:  For the treatment of esophageal candidiasis and invasive aspergillosis in patients who are refractory to or intolerant of other therapies.
+DrugId:  8
+1. Name:  Posaconazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Posaconazole is a triazole antifungal drug that is used to treat invasive infections by Candida species and Aspergillus species in severely immunocompromised patients.
+4. Indication:  For prophylaxis of invasive Aspergillus and Candida infections in patients, 13 years of age and older, who are at high risk of developing these infections due to being severely immunocompromised as a result of procedures such as hematopoietic stem cell transplant (HSCT) recipients with graft-versus-host disease (GVHD), or due to hematologic malignancies with prolonged neutropenia from chemotherapy. Also for the treatment of oropharyngeal candidiasis, including oropharyngeal candidiasis refractory to itraconazole and/or fluconazole. Posaconazole is used as an alternative treatment for invasive aspergillosis, Fusarium infections, and zygomycosis in patients who are intolerant of, or whose disease is refractory to, other antifungals.
+DrugId:  9
+1. Name:  Micafungin
+2. Groups:  Approved, Investigational
+3. Description:  Micafungin is an antifungal drug. It belongs to the antifungal class of compounds known as echinocandins and exerts its effect by inhibiting the synthesis of 1,3-beta-D-glucan, an integral component of the fungal cell wall.
+4. Indication:  For use in the treatment of candidemia, acute disseminated candidiasis, and certain other invasive Candida infections, as well as esophageal candidiasis, and prophylaxis of Candida infections in patients undergoing hematopoietic stem cell transplantation. Micafungin is also used as an alternative for the treatment of oropharyngeal candidiases and has been used with some success as primary or salvage therapy, alone or in combination with other antifungals, for the treatment of invasive aspergillosis.

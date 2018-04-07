@@ -1,0 +1,95 @@
+DrugId:  1
+1. Name:  Dermatophagoides pteronyssinus
+2. Groups:  Approved
+3. Description:  Dermatophagoides pteronyssinus extracts are sterile solutions used for intradermal testing or subcutaneous immunotherapy. This combination is approved for as a year-round, once-a-day tablet that's dissolved under the tongue as a treatment for dust mite allergies.
+4. Indication:  Dermatophagoides pteronyssinus is an allergen extract indicated as immunotherapy for house dust mite (HDM)-induced allergic rhinitis, with or without conjunctivitis, confirmed by in vitro testing for IgE antibodies to Dermatophagoides pteronyssinus house dust mites, or skin testing to licensed house dust mite allergen extracts. Dermatophagoides pteronyssinus is approved for use in adults 18 through 65 years of age. 
+DrugId:  2
+1. Name:  Dermatophagoides farinae
+2. Groups:  Approved
+3. Description:  Dermatophagoides farinae extracts are sterile solutions used for intradermal testing or subcutaneous immunotherapy. This combination is approved for as a year-round, once-a-day tablet that's dissolved under the tongue as a treatment for dust mite allergies.
+4. Indication:  Dermatophagoides farinae extract is an allergen extract indicated as immunotherapy for house dust mite (HDM)-induced allergic rhinitis, with or without conjunctivitis, confirmed by in vitro testing for IgE antibodies to Dermatophagoidesfarinae house dust mites, or skin testing to  licensed house dust mite allergen extracts. ODACTRA is approved for use in adults 18 through 65 years of age
+DrugId:  3
+1. Name:  Q-Derp1
+2. Groups:  Investigational
+3. Description:  Q-Derp1 is developed by Cytos Biotechnology as an immunodrug. It is an antigen for the prevention of various major chronic diseases. Derp1 is the dominant allergic protein found in dust mite feces.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Benzyl Benzoate
+2. Groups:  Approved
+3. Description:  Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+4. Indication:  Used to kill lice and the mites responsible for the skin condition scabies.
+DrugId:  5
+1. Name:  RP01
+2. Groups:  Investigational
+3. Description:  RP01 is a novel anti-IgE immunotherapy for allergic individuals. It is designed to induce the immune system to produce antibodies that block Immunoglobulin E (IgE), the key mediator of an allergic response. It could offer benefit to millions of asthma and allergy patients.
+4. Indication:  Investigated for use/treatment in allergic reaction and asthma.
+DrugId:  6
+1. Name:  Levamisole
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  An antihelminthic drug that has been tried experimentally in rheumatic disorders where it apparently restores the immune response by increasing macrophage chemotaxis and T-lymphocyte function. Paradoxically, this immune enhancement appears to be beneficial in rheumatoid arthritis where dermatitis, leukopenia, and thrombocytopenia, and nausea and vomiting have been reported as side effects. (From Smith and Reynard, Textbook of Pharmacology, 1991, p435-6). Levamisole was withdrawn from the US and Canadian markets in 2000 and 2003, respectively, due to the risk of serious side effects and the availability of more effective replacement medications. [Wikipedia]
+4. Indication:  For adjuvant treatment in combination with fluorouracil after surgical resection in patients with Dukes' stage C colon cancer. Also used to treat malignant melanoma and head/neck cancer.Levamisole was originally used as an antihelminthic to treat worm infestations in both humans and animals.
+DrugId:  7
+1. Name:  Praziquantel
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anthelmintic used in most schistosome and many cestode infestations.
+4. Indication:  For the treatment of infections due to all species of schistosoma.
+DrugId:  8
+1. Name:  Crotamiton
+2. Groups:  Approved
+3. Description:  Crotamiton is a scabicidal and antipruritic agent available as a cream or lotion for topical use only. It is a colorless to slightly yellowish oil, having a faint amine-like odor. It is miscible with alcohol and with methanol.
+4. Indication:  For eradication of scabies (Sarcoptes scabiei) and for symptomatic treatment of pruritic skin.
+DrugId:  9
+1. Name:  Permethrin
+2. Groups:  Approved, Investigational
+3. Description:  A pyrethroid insecticide commonly used in the treatment of lice infestations and scabies. It is a yellow to light orange-brown, low melt-ing solid or viscous liquid.
+4. Indication:  For the treatment of infestation with Sarcoptes scabiei (scabies).
+DrugId:  10
+1. Name:  Pyrvinium
+2. Groups:  Approved
+3. Description:  Pyrvinium is an anthelmintic effective for pinworms. Several forms of pyrvinium have been prepared with variable counter anions, such as halides, tosylate, triflate and pamoate. Pyrvinum's anti-cancer properties are currently under investigation.
+4. Indication:  Pyrvinium was once used in the treatment of pinworm infestations [3].
+DrugId:  11
+1. Name:  Diethylcarbamazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anthelmintic used primarily as the citrate in the treatment of filariasis, particularly infestations with Wucheria bancrofti or Loa loa. [PubChem]
+4. Indication:  Used for the treatment of individual patients with certain filarial diseases including tropical pulmonary eosinophilia, loiasis, and lymphatic filariasis caused by infection with Wuchereria bancrofti, Brugia malayi, or Brugia timori.
+DrugId:  12
+1. Name:  Spinosad
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Spinosad is a pediculicide mixture of spinosyn A and spinosyn D (in an approximately 5:1 ratio, respectively) used in the topical treatment of head lice in children (four years old and older) and in adults. Spinosad is an insecticide based on a compound found in S. spinosa, a bacterial species. Spinosad has also been experimented for use in cats for treatment of flea infestations, and has also been experimented for use against the KS1 Ctenocephalides felis flea strain infesting dogs, in addition to many investigations for use in other animals and agricultural plants.
+4. Indication:  Spinosad is indicated for the topical treatment of head lice in children four years old and over and in adults.
+DrugId:  13
+1. Name:  Ivermectin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Ivermectin is a broad-spectrum anti-parasite medication. It was first marketed under the name Stromectol® and used against worms (except tapeworms), but, in 2012, it was approved for the topical treatment of head lice infestations in patients 6 months of age and older, and marketed under the name Sklice™ as well. Ivermectin is mainly used in humans in the treatment of onchocerciasis, but is also effective against other worm infestations (such as strongyloidiasis, ascariasis, trichuriasis and enterobiasis).
+4. Indication:  For the treatment of intestinal (i.e., nondisseminated) strongyloidiasis due to the nematode parasite Strongyloides stercoralis. Also for the treatment of onchocerciasis (river blindness) due to the nematode parasite Onchocerca volvulus. Can be used to treat scabies caused by Sarcoptes scabiei.
+DrugId:  14
+1. Name:  Sufentanil
+2. Groups:  Approved, Investigational
+3. Description:  An opioid analgesic that is used as an adjunct in anesthesia, in balanced anesthesia, and as a primary anesthetic agent. [PubChem]
+4. Indication:  Used as an analgesic adjunct in anesthesia and as a primary anesthetic drug in procedures requiring assisted ventilation and in the relief of pain.
+DrugId:  15
+1. Name:  Lindane
+2. Groups:  Approved, Withdrawn
+3. Description:  An organochlorine insecticide that has been used as a pediculicide and a scabicide. Lindane has been banned in California, United Kingdom, Australia, and many western countries due to concerns about neurotoxicity and adverse effects on the environment. In Canada, Lindane is not recommmended as a first-line therapy due to reports of resistance, neurotoxicity, and bone marrow suppression, but has been approved by the FDA as a second-line therapy for topical treatment of pediculosis capitis (head lice), pediculosis pubis (pubic lice), or scabies in patients greater than two years of age who cannot tolerate or have failed first-line treatment. Lindane is still allowed for pharmaceutical use until 2015. 
+4. Indication:  For the treatment of patients infested with Sarcoptes scabiei or pediculosis capitis who have either failed to respond to adequate doses, or are intolerant of other approved therapies.
+DrugId:  16
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  17
+1. Name:  Sumatriptan
+2. Groups:  Approved, Investigational
+3. Description:  A serotonin agonist that acts selectively at 5HT1 receptors. It is used in the treatment of migraine disorders. A transdermal patch version of sumatriptan is currently in phase I trials in the U.S. under the code name NP101 (NuPathe).
+4. Indication:  For the treatment of migraine attacks with or without aura.
+DrugId:  18
+1. Name:  Magnesium
+2. Groups:  Approved, Nutraceutical
+3. Description:  Magnesium hydroxide is used primarily in "Milk of Magnesia", a white aqueous, mildly alkaline suspension of magnesium hydroxide formulated at about 8%w/v. Milk of magnesia is primarily used to alleviate constipation, but can also be used to relieve indigestion and heartburn. When taken internally by mouth as a laxative, the osmotic force of the magnesia suspension acts to draw fluids from the body and to retain those already within the lumen of the intestine, serving to distend the bowel, thus stimulating nerves within the colon wall, inducing peristalsis and resulting in evacuation of colonic contents.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Calcium
+2. Groups:  Approved, Nutraceutical
+3. Description:  Calcium plays a vital role in the anatomy, physiology and biochemistry of organisms and of the cell, particularly in signal transduction pathways. The skeleton acts as a major mineral storage site for the element and releases Ca2+ ions into the bloodstream under controlled conditions. Circulating calcium is either in the free, ionized form or bound to blood proteins such as serum albumin. Although calcium flow to and from the bone is neutral, about 5 mmol is turned over a day. Bone serves as an important storage point for calcium, as it contains 99% of the total body calcium. Low calcium intake may also be a risk factor in the development of osteoporosis. The best-absorbed form of calcium from a pill is a calcium salt like carbonate or phosphate. Calcium gluconate and calcium lactate are absorbed well by pregnant women. Seniors absorb calcium lactate, gluconate and citrate better unless they take their calcium supplement with a full breakfast.
+4. Indication:  Calcium plays a vital role in the anatomy, physiology and biochemistry of organisms and of the cell, particularly in signal transduction pathways. It is vital in cell signaling, muscular contractions, bone health, and signalling cascades.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Enalaprilat
+2. Groups:  Approved
+3. Description:  Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume. Enalaprilat was originally created to overcome the limitations of the first ACE inhibitor, captopril, which had numerous side effects and left a metallic taste in the mouth. Removal of the problematic thiol group from captopril resulted in enalaprilat, which was then modified further with an ester to create the orally available pro-drug enalapril.Enalaprilat is poorly orally available and is therefore only available as an intravenous injection for the treatment of hypertension when oral therapy is not possible.
+4. Indication:  Enalaprilat injection is indicated for the treatment of hypertension when oral therapy is not practical.
+DrugId:  2
+1. Name:  Corticorelin acetate
+2. Groups:  Investigational
+3. Description:  Corticorelin acetate has been investigated for the treatment of Brain Edema and Brain Tumor.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Abicipar Pegol
+2. Groups:  Investigational
+3. Description:  Abicipar Pegol has been used in trials studying the treatment of Macular Edema and Macular Degeneration.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Cocaine
+2. Groups:  Approved, Illicit
+3. Description:  An alkaloid ester extracted from the leaves of plants including coca. It is a local anesthetic and vasoconstrictor and is clinically used for that purpose, particularly in the eye, ear, nose, and throat. It also has powerful central nervous system effects similar to the amphetamines and is a drug of abuse. Cocaine, like amphetamines, acts by multiple mechanisms on brain catecholaminergic neurons; the mechanism of its reinforcing effects is thought to involve inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the introduction of local (topical) anesthesia of accessible mucous membranes of the oral, laryngeal and nasal cavities.
+DrugId:  5
+1. Name:  Cinalukast
+2. Groups:  Approved
+3. Description:  Used in the treatment of asthma, cinalukast selectively antagonizes leukotriene D4 (LTD4) at the cysteinyl leukotriene receptor, CysLT1, in the human airway. Cinalukast inhibits the actions of LTD4 at the CysLT1 receptor, preventing airway edema, smooth muscle contraction, and enhanced secretion of thick, viscous mucus.
+4. Indication:  For Protection against second- phase inflamation in exercise-induced bronchoconstriction and Asthma.
+DrugId:  6
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  7
+1. Name:  Enflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An extremely stable inhalation anesthetic that allows rapid adjustments of anesthesia depth with little change in pulse or respiratory rate. [PubChem]
+4. Indication:  Used for the induction and maintenance of general anaesthesia during surgery and cesarean section and also used for analgesia during vaginal delivery.
+DrugId:  8
+1. Name:  C1-INH
+2. Groups:  Investigational
+3. Description:  C1-INH is human pasteurized C1-inhibitor concentrate to treat patients with hereditary angioedema (HAE), a rare genetic disorder that can lead to painful and sometimes life-threatening attacks of edema (swelling) of the face, airway, abdomen, and extremities.
+4. Indication:  Investigated for use/treatment in angioedema.
+DrugId:  9
+1. Name:  Coumarin
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Anthrax immune globulin human
+2. Groups:  Approved
+3. Description:  Anthrax immune globulin is a human immune globulin that is used in combination with antibiotics to treat anthrax. It is derived from the plasma of humans immunized with BioThrax (adsorbed anthrax vaccine), which is then further purified. Available as the product Anthrasil (FDA), the result is a solution for slow IV infusion containing polyclonal antibodies that bind the protective antigen (PA) component of Bacillus anthracis lethal and edema toxins. This binding of antibody to PA prevents PA-mediated cellular entry of toxic factors. It is administered in combination with appropriate antibiotic therapy as the immunoglobulin itself is not known to have direct antibacterial activity against anthrax bacteria, which otherwise may continue to grow and produce anthrax toxins.
+4. Indication:  Anthrax immune globulin is indicated for the treatment of inhalational anthrax in adult and pediatric patients in combination with appropriate antibacterial drugs.
+DrugId:  11
+1. Name:  Dyclonine
+2. Groups:  Approved
+3. Description:  Dyclonine is an oral anaesthetic found in Sucrets, an over the counter throat lozenge. It is also found in some varieties of the Cepacol sore throat spray.
+4. Indication:  Used to provide topical anesthesia of accessible mucous membranes prior to examination, endoscopy or instrumentation, or other procedures involving the esophagus, larynx, mouth, pharynx or throat, respiratory tract or trachea, urinary tract, or vagina. Also used to suppress the gag reflex and/or other laryngeal and esophageal reflexes to facilitate dental examination or procedures (including oral surgery), endoscopy, or intubation. Also used for relief of canker sores, cold sores or fever blister.
+DrugId:  12
+1. Name:  Anatibant
+2. Groups:  Investigational
+3. Description:  Anatibant is a selective, very potent, small-molecule Bradykinin B2 receptor antagonist. It is developed for the for the treatment of traumatic brain injury (TBI).
+4. Indication:  Investigated for use/treatment in traumatic brain injuries.
+DrugId:  13
+1. Name:  Hydroflumethiazide
+2. Groups:  Approved, Investigational
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p822)
+4. Indication:  Used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. Also used in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  14
+1. Name:  Trimethaphan
+2. Groups:  Approved, Investigational
+3. Description:  A nicotinic antagonist that has been used as a ganglionic blocker in hypertension, as an adjunct to anesthesia, and to induce hypotension during surgery. [PubChem]
+4. Indication:  For the controlled reduction of blood pressure during surgery and in the treatment of hypertensive emergencies.
+DrugId:  15
+1. Name:  TG-100801
+2. Groups:  Investigational
+3. Description:  TG100801 is a topically applied kinase inhibitor in macular degeneration patients. It is administered noninvasivelyas an eye drop and is designed to suppress VEGF mediated leakage and additional kinase targets associated with inflammation, edema, and angiogenesis which are the pathological hallmarks of AMD and other back of the eye diseases including diabetic macular edema and proliferative diabetic retinopathy.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  16
+1. Name:  Ketamine
+2. Groups:  Approved, Vet approved
+3. Description:  Ketamine is an NMDA receptor antagonist with a potent anesthetic effect.[6] It was developed in 1963 as a replacement for phencyclidine (PCP) by Calvin Stevens at Parke Davis Laboratories. It started being used for veterinary purposes in Belgium and in 1964 was proven that compared to PCP, it produced minor hallucinogenic effects and shorter psychotomimetic effects. It was FDA approved in 1970, and from there, it has been used as an anesthetic for children or patients undergoing minor surgeries but mainly for veterinary purposes.[14]
+4. Indication:  Ketamine is indicated as an anesthetic agent for recommended diagnostic and surgical procedures. If skeletal muscle relaxation is needed, it should be combined with a muscle relaxant. If the surgical procedure involves visceral pain, it should be supplemented with an agent that obtunds visceral pain. Ketamine can be used for induction of anesthesia prior other general anesthetic agents and as a supplement of low potency agents.[15]Reports have indicated a potential use of ketamine as a therapeutic tool for the management of depression when administered in lower doses.[7] These reports have increased the interest for ketamine in this area and several clinical trials are launched for this indication.[16, 8]
+DrugId:  17
+1. Name:  Tetanus Immune Globulin
+2. Groups:  Approved
+3. Description:  Tetanus Immune Globulin is manufactured from human plasma [FDA Label]. It contains antibodies against tetanus toxoid and is primarily used as prophylaxis against tetanus in wounded patients.
+4. Indication:  For use as prophylaxis against tetanus in patients who are injured and have incomplete of uncertain immunization statu [FDA Label]. May also be used in the treatment of active tetanus.
+DrugId:  18
+1. Name:  Triamterene
+2. Groups:  Approved
+3. Description:  A pteridine that is used as a mild diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and the nephrotic syndrome; also in steroid-induced edema, idiopathic edema, and edema due to secondary hyperaldosteronism.
+DrugId:  19
+1. Name:  Corticorelin
+2. Groups:  Investigational
+3. Description:  Corticotropin-releasing factor is studied in the treatment of brain cancer. It is made naturally by the hypothalamus (a part of the brain) and can also be made in the laboratory. Human corticotropin-releasing factor may help reduce symptoms caused by edema (swelling) of the brain. It is a type of neurohormone, also called hCRF.
+4. Indication:  Investigated for use/treatment in brain cancer and neurologic disorders.
+DrugId:  20
+1. Name:  Ocriplasmin
+2. Groups:  Approved
+3. Description:  Ocriplasmin is a recombinant truncated form of human plasmin with a molecular weight of 27.2 kDa produced by recombinant DNA technology in a Pichia pastoris expression system. Ocriplasmin is a protein made up of 249 amino acids and has two peptide chains. Agent for pharmacologic vitreolysis; thrombolytic agent. FDA approved in October 17, 2012.
+4. Indication:  Ocriplasmin is a proteolytic enzyme indicated for the treatment for symptomatic vitreomacular adhesion. 
+DrugId:  21
+1. Name:  Benzthiazide
+2. Groups:  Approved
+3. Description:  Benzthiazide is used to treat hypertension and edema. Like other thiazides, benzthiazide promotes water loss from the body (diuretics). They inhibit Na+/Cl- reabsorption from the distal convoluted tubules in the kidneys. Thiazides also cause loss of potassium and an increase in serum uric acid. Thiazides are often used to treat hypertension, but their hypotensive effects are not necessarily due to their diuretic activity. Thiazides have been shown to prevent hypertension-related morbidity and mortality although the mechanism is not fully understood. Thiazides cause vasodilation by activating calcium-activated potassium channels (large conductance) in vascular smooth muscles and inhibiting various carbonic anhydrases in vascular tissue.
+4. Indication:  For the treatment of high blood pressure and management of edema.
+DrugId:  22
+1. Name:  Chloropyramine
+2. Groups:  Approved
+3. Description:  Chloropyramine is a first generation antihistamine drug approved in some Eastern European countries for the treatment of allergic conjunctivitis, allergic rhinitis, bronchial asthma, and other atopic (allergic) conditions. Related indications for clinical use include Quincke's edema, allergic reactions to insect bites, food and drug allergies, and anaphylactic shock.
+4. Indication:  For the treatment of allergic conjunctivitis, allergic rhinitis, bronchial asthma, and other atopic (allergic) conditions.
+DrugId:  23
+1. Name:  Acetazolamide
+2. Groups:  Approved, Vet approved
+3. Description:  One of the carbonic anhydrase inhibitors that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)
+4. Indication:  For adjunctive treatment of: edema due to congestive heart failure; drug-induced edema; centrencephalic epilepsies; chronic simple (open-angle) glaucoma
+DrugId:  24
+1. Name:  Aflibercept
+2. Groups:  Approved
+3. Description:  Aflibercept is a recombinant fusion protein that comprises of two main components: the vascular endothelial growth factor (VEGF) binding portions from the extracellular domains of human VEGF receptors 1 and 2 which is then fused to the Fc portion of human IgG1. Structurally, Aflibercept is a dimeric glycoprotein with a protein molecular weight of 96.9 kilo Daltons (kDa). It contains approximately 15% glycosylation to give a total molecular weight of 115 kDa. All five putative N-glycosylation sites on each polypeptide chain predicted by the primary sequence can be occupied with carbohydrate and exhibit some degree of chain heterogeneity, including heterogeneity in terminal sialic acid residues, except at the single unsialylated site associated with the Fc domain. Aflibercept, as an ophthalmic agent, is used in the treatment of macular edema following Central Retinal Vein Occlusion (CRVO) and neovascular Age-Related Macular Degeneration (AMD). Ziv-aflibercept, under the brand name Zaltrap, was developed as an injection for treatment of metastatic colorectal cancer. FDA approved in November 18, 2011 and EMA approved in November 2012.
+4. Indication:  The opthalmic agent is used for the treatment of neovascular (wet) age-related mascular degeneration (AMD) and macular edema following central retinal vein occulsion (CRVO). The systemic injection, known as ziv-aflibercept, in combination with 5-fluorouracil, leucovorin, irinotecan-(FOLFIRI), is for the treatment of metastatic colorectal cancer that is resistant to or progressed following treatment with oxaliplatin. 
+DrugId:  25
+1. Name:  Pranlukast
+2. Groups:  Approved, Investigational
+3. Description:  Pranlukast is a cysteinyl leukotriene receptor-1 antagonist. It antagonizes or reduces bronchospasm caused, principally in asthmatics, by an allergic reaction to accidentally or inadvertently encountered allergens.
+4. Indication:  Used as an adjunct to the standard therapy of inhaled steroids with inhaled long- and/or short-acting beta-agonists. 

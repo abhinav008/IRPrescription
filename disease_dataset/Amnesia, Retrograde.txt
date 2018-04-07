@@ -1,0 +1,115 @@
+DrugId:  1
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  2
+1. Name:  Adinazolam
+2. Groups:  Approved
+3. Description:  Adinazolam (Deracyn®) is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative, and antidepressant properties. Adinazolam was developed by Dr. Jackson B. Hester, who was seeking to enhance the antidepressant properties of alprazolam, which he also developed. Adinazolam was never FDA approved and was never available to the public. 
+4. Indication:  For the treatment of anxiety and status epilepticus.
+DrugId:  3
+1. Name:  Human secretin
+2. Groups:  Approved
+3. Description:  Human secretin is a gastrointestinal peptide hormone that regulates secretions in the stomach, pancreas, and liver. The hormone is produced from the enterochromaffin cells in the duodenum in response to the duodenal content with the pH less than 4.5 [5]. The main action of secretin is to stimulate the pancreas to secrete pancreatic juice for pH regulation in the small intestines. Secretin is also responsible in body fluid homeostasis [4] and bile production. Although it is a gastrointestinal hormone, secretin is also considered as a neuropeptide hormone since it is also expressed in the central nervous system [3].Purified synthetic human secretin, also referred to as RG1068, is available as an intravenous injection under the market name ChiRhoStim ® in the U.S.. It contains an amino acid sequence identical to the naturally occurring hormone consisting of 27 amino acids [FDA Label] that supports α-helical formation [3]. The carboxyl-terminal amino acid, valine, is amidated. Synthetic human secretin displays equivalent biological activity and properties as naturally-occurring secretin [1]. It is indicated for the stimulation of the pancreatic and gastric secretions to aid in the diagnosis of pancreatic exocrine dysfunction and the diagnosis of gastrinoma, and facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP).
+4. Indication:  Indicated for the stimulation of:pancreatic secretions, including bicarbonate, to aid in the diagnosis of pancreatic exocrine dysfunction [FDA Label].gastrin secretion to aid in the diagnosis of gastrinoma [FDA Label].pancreatic secretions to facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP) [FDA Label].
+DrugId:  4
+1. Name:  Silodosin
+2. Groups:  Approved
+3. Description:  Silodosin is an α1-adrenoceptor antagonist that is selective for the prostate. Silodosin is for symptomatic treatment of benign prostatic hyperplasia. FDA approved Oct 9, 2008.
+4. Indication:  Treatment for symptomatic relief of benign prostatic hyperplasia 
+DrugId:  5
+1. Name:  Midazolam
+2. Groups:  Approved, Illicit
+3. Description:  A short-acting hypnotic-sedative drug with anxiolytic and amnestic properties. It is used in dentistry, cardiac surgery, endoscopic procedures, as preanesthetic medication, and as an adjunct to local anesthesia. The short duration and cardiorespiratory stability makes it useful in poor-risk, elderly, and cardiac patients. It is water-soluble at pH less than 4 and lipid-soluble at physiological pH. [PubChem] Midazolam is a schedule IV drug in the United States.
+4. Indication:  The midazolam injection is indicated for preoperative sedation/anziolysis/amnesia. It is also an agent for sedation/anziolysis/amnesia prior to or during diagnostic, therapeutic, or endoscopic procedures. Midazolam can also be given intravenously for induction of general anaesthesia. 
+DrugId:  6
+1. Name:  Flunitrazepam
+2. Groups:  Approved, Illicit
+3. Description:  A benzodiazepine with pharmacologic actions similar to those of diazepam that can cause anterograde amnesia. Some reports indicate that it is used as a date rape drug and suggest that it may precipitate violent behavior. The United States Government has banned the importation of this drug. [PubChem]
+4. Indication:  For short-term treatment of severe insomnias, that are not responsive to other hypnotics.
+DrugId:  7
+1. Name:  Dofetilide
+2. Groups:  Approved, Investigational
+3. Description:  Dofetilide is a class III antiarrhythmic agent that is approved by the Food and Drug Administration (FDA) for the maintenance of sinus rhythm in individuals prone to the formation of atrial fibrillation and flutter, and for the chemical cardioversion to sinus rhythm from atrial fibrillation and flutter.
+4. Indication:  For the maintenance of normal sinus rhythm (delay in time to recurrence of atrial fibrillation/atrial flutter [AF/AFl]) in patients with atrial fibrillation/atrial flutter of greater than one week duration who have been converted to normal sinus rhythm
+DrugId:  8
+1. Name:  Iothalamic acid
+2. Groups:  Approved
+3. Description:  Iothalamic acid is an iodine containing organic anion used as a diagnostic contrast agent.
+4. Indication:  Conray is indicated for use in excretory urography, cerebral angiography, peripheral arteriography, venography, arthrography, direct cholangiography, endoscopic retrograde cholangiopancreatography, contrast enhancement of computed tomographic brain images, cranial computerized angiotomography, intravenous digital subtraction angiography and arterial digital subtraction angiography.Conray may also be used for enhancement of computed tomographic scans performed for detection and evaluation of lesions in the liver, pancreas, kidneys, abdominal aorta, mediastinum, abdominal cavity and retroperitoneal space.
+DrugId:  9
+1. Name:  Lorazepam
+2. Groups:  Approved
+3. Description:  A benzodiazepine used as an anti-anxiety agent with few side effects. It also has hypnotic, anticonvulsant, and considerable sedative properties and has been proposed as a preanesthetic agent.
+4. Indication:  For the management of anxiety disorders, and for treatment of status epilepticus.
+DrugId:  10
+1. Name:  Zaleplon
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Zaleplon is a sedative/hypnotic, mainly used for insomnia. It is known as a nonbenzodiazepine hypnotic. Zaleplon interacts with the GABA receptor complex and shares some of the pharmacological properties of the benzodiazepines. Zaleplon is a schedule IV drug in the United States.
+4. Indication:  For the treatment of short-term treatment of insomnia in adults.
+DrugId:  11
+1. Name:  Oxazepam
+2. Groups:  Approved
+3. Description:  Oxazepam is an intermediate-acting benzodiazepine used to treat alcohol withdrawal and anxiety disorders. Oxazepam is also the metabolite of other benzodiazpines.
+4. Indication:  For the treatment of anxiety disorders and alcohol withdrawal. 
+DrugId:  12
+1. Name:  Methyltestosterone
+2. Groups:  Approved
+3. Description:  A synthetic anabolic steroid used for treating men with testosterone deficiency or similar androgen replacement therapies. Also, has antineoplastic properties and so has been used secondarily in women with advanced breast cancer. Methyltestosterone is a schedule III drug in the US.
+4. Indication:  Methyltestosterone is an anabolic steroid hormone used to treat men with a testosterone deficiency. It is also used in women to treat breast cancer, breast pain, swelling due to pregnancy, and with the addition of estrogen it can treat symptoms of menopause.
+DrugId:  13
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  14
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.
+DrugId:  15
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  16
+1. Name:  Diatrizoate
+2. Groups:  Approved, Vet approved
+3. Description:  A commonly used x-ray contrast medium. As diatrizoate meglumine and as Diatrizoate sodium, it is used for gastrointestinal studies, angiography, and urography. [PubChem]
+4. Indication:  Used, alone or in combination, for a wide variety of diagnostic imaging methods, including angiography, urography, cholangiography, computed tomography, hysterosalpingography, and retrograde pyelography. It can be used for imaging the gastrointestinal tract in patients allergic to barium.
+DrugId:  17
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  18
+1. Name:  Testosterone
+2. Groups:  Approved, Investigational
+3. Description:  Testosterone is a steroid sex hormone found in both men and women. In men, testosterone is produced primarily by the Leydig (interstitial) cells of the testes when stimulated by luteinizing hormone (LH). It functions to stimulate spermatogenesis, promote physical and functional maturation of spermatozoa, maintain accessory organs of the male reproductive tract, support development of secondary sexual characteristics, stimulate growth and metabolism throughout the body and influence brain development by stimulating sexual behaviors and sexual drive. In women, testosterone is produced by the ovaries (25%), adrenals (25%) and via peripheral conversion from androstenedione (50%). Testerone in women functions to maintain libido and general wellbeing. Testosterone exerts a negative feedback mechanism on pituitary release of LH and follicle-stimulating hormone (FSH). Testosterone may be further converted to dihydrotestosterone or estradiol depending on the tissue.
+4. Indication:  To be used as hormone replacement or substitution of diminished or absent endogenous testosterone. Use in males: For management of congenital or acquired hypogonadism, hypogonadism associated with HIV infection, and male climacteric (andopause). Use in females: For palliative treatment of androgen-responsive, advanced, inoperable, metastatis (skeletal) carcinoma of the breast in women who are 1-5 years postmenopausal; testosterone esters may be used in combination with estrogens in the management of moderate to severe vasomotor symptoms associated with menopause in women who do not respond to adequately to estrogen therapy alone.
+DrugId:  19
+1. Name:  Gamma Hydroxybutyric Acid
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Gamma Hydroxybutyric Acid, commonly abbreviated GHB, is a therapeutic drug which is illegal in multiple countries. It is currently regulated in the US and sold by Jazz Pharmaceuticals under the name Xyrem. However, it is important to note that GHB is a designated Orphan drug (in 1985). Today Xyrem is a Schedule III drug; however GHB remains a Schedule I drug and the illicit use of Xyrem falls under penalties of Schedule I. GHB is a naturally occurring substance found in the central nervous system, wine, beef, small citrus fruits and almost all other living creatures in small amounts. It is used illegally under the street names Juice, Liquid Ecstasy or simply G, either as an intoxicant, or as a date rape drug. Xyrem is a central nervous system depressant that reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy.
+4. Indication:  Used as a general anesthetic, to treat conditions such as insomnia, clinical depression, narcolepsy, and alcoholism, and to improve athletic performance. 
+DrugId:  20
+1. Name:  Streptomycin
+2. Groups:  Approved, Vet approved
+3. Description:  Streptomycin is an aminoglycoside antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by binding to the 30S ribosomal subunit of susceptible organisms and disrupting the initiation and elongation steps in protein synthesis. It is bactericidal due to effects that are not fully understood.
+4. Indication:  For the treatment of tuberculosis. May also be used in combination with other drugs to treat tularemia (Francisella tularensis), plague (Yersia pestis), severe M. avium complex, brucellosis, and enterococcal endocarditis (e.g. E. faecalis, E. faecium).
+DrugId:  21
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  22
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  23
+1. Name:  Neomycin
+2. Groups:  Approved, Vet approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed). Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and acceptor tRNA sites and results in the production of non-functional or toxic peptides.
+4. Indication:  Topical uses include treatment for superficial eye infections caused by susceptible bacteria (used in combination with other antiinfectives), treatment of otitis externa caused by susceptible bacteria, treatment or prevention of bacterial infections in skin lesions, and use as a continuous short-term irrigant or rinse to prevent bacteriuria and gram negative rod bacteremia in abacteriuric patients with indwelling catheters. May be used orally to treat hepatic encephalopathy, as a perioperative prophylactic agent, and as an adjunct to fluid and electrolyte replacement in the treatment of diarrhea caused to enteropathogenic E. coli (EPEC). 

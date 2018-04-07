@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  2
+1. Name:  Bromelains
+2. Groups:  Approved, Experimental
+3. Description:  Bromelain is a protease enzyme derived from the stems of pineapples that is composed of a mixture of different thiol endopeptidases and other components like phosphatase, glucosidase, peroxidase, cellulase, escharase, and several protease inhibitors [2]. It works by selectively inhibiting the biosynthesis of proinflammatory prostaglandins [1] and also has analgesic properties, as well as anticancerous and pro-apoptotic effects. Bromelain holds potential therapeutic effect as a treatment of conditions including angina pectoris, bronchitis, sinusitis, surgical trauma, and osteoarthritis. It is considered as a safe food supplement.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Pentoxyverine
+2. Groups:  Approved, Investigational
+3. Description:  Pentoxyverine is a non-opioid central acting antitussive found in few OTC drugs. It is used in the symptomatic relief of cough associated with illnesses including the common cold, bronchitis or sinusitis. Its mechanism of action is not fully elucidated.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Loracarbef
+2. Groups:  Investigational, Withdrawn
+3. Description:  Loracarbef is a carbacephem antibiotic sometimes grouped together with the second-generation cephalosporin antibiotics. It is marketed under the trade name Lorabid.
+4. Indication:  Used to treat upper respiratory tract bacterial infections, chronic bronchitis, pneumonia, sinusitis, pharyntitis and tonsillitis, skin absceses, urinary tract infections and pyelonephritis caused by E. coli, S. pyogenes, S. aureus, S. saprphyticus, S. penumoniae, H. influenzae and M. catarrhalis.
+DrugId:  5
+1. Name:  Fenspiride
+2. Groups:  Approved
+3. Description:  Fenspiride is an oxazolidinone spiro compound used as a drug in the treatment of certain respiratory diseases. It is approved for use in Russia for the treatment of acute and chronic inflammatory diseases of ENT organs and the respiratory tract (like rhinopharyngitis, laryngitis, tracheobronchitis, otitis and sinusitis), as well as for maintenance treatment of asthma.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Anakinra
+2. Groups:  Approved
+3. Description:  Anakinra is a recombinant, nonglycosylated human interleukin-1 receptor antagonist (IL-1Ra). The difference between anakinra and the native human IL-1Ra is that anakinra has an extra methionine residue at the amino terminus. It is manufactured by using the E. coli expression system. Anakinra is composed of 153 amino acid residues. FDA approved on November 14, 2001. 
+4. Indication:  For the treatment of adult rheumatoid arthritis and treatment of Neonatal-Onset Multisystem Inflammatory Disease (NOMID). 
+DrugId:  7
+1. Name:  Gatifloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Gatifloxacin is an antibiotic of the fourth-generation fluoroquinolone family, that like other members of that family, inhibits the bacterial enzymes DNA gyrase and topoisomerase IV. Bristol-Myers Squibb introduced Gatifloxacin in 1999 under the proprietary name Tequin® for the treatment of respiratory tract infections, having licensed the medication from Kyorin Pharmaceutical Company of Japan. Allergan produces an eye-drop formulation called Zymar®. Gatifloxacin is available as tablets and in various aqueous solutions for intravenous therapy. [Wikipedia]
+4. Indication:  For the treatment of bronchitis, sinusitis, community-acquired pneumonia, and skin infections (abscesses, wounds) caused by S. pneumoniae, H. influenzae, S. aureus, M. pneumoniae, C. pneumoniae, L. pneumophila, S. pyogenes
+DrugId:  8
+1. Name:  Cefuroxime
+2. Groups:  Approved
+3. Description:  Broad-spectrum cephalosporin antibiotic resistant to beta-lactamase. It has been proposed for infections with gram-negative and gram-positive organisms, gonorrhea, and haemophilus. [PubChem]
+4. Indication:  For the treatment of many different types of bacterial infections such as bronchitis, sinusitis, tonsillitis, ear infections, skin infections, gonorrhea, and urinary tract infections.
+DrugId:  9
+1. Name:  Cefpodoxime
+2. Groups:  Approved, Vet approved
+3. Description:  Cefpodoxime is an oral third generation cephalosporin antibiotic. It is active against most Gram positive and Gram negative bacteria. It is commonly used to treat acute otitis media, pharyngitis, and sinusitis. Cefpodoxime proxetil is a prodrug which is absorbed and de-esterified by the intestinal mucosa to Cefpodoxime.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms.
+DrugId:  10
+1. Name:  Telithromycin
+2. Groups:  Approved
+3. Description:  Telithromycin, a semi-synthetic erythromycin derivative, belongs to a new chemical class of antibiotics called ketolides. Ketolides have been recently added to the macrolide-lincosamide-streptogramin class of antibiotics. Similar to the macrolide antibiotics, telithromycin prevents bacterial growth by interfering with bacterial protein synthesis. Telithromycin binds to the 50S subunit of the 70S bacterial ribosome and blocks further peptide elongation. Binding occurs simultaneously at to two domains of 23S RNA of the 50S ribosomal subunit, domain II and V, where older macrolides bind only to one. It is used to treat mild to moderate respiratory infections.
+4. Indication:  For the treatment of Pneumococcal infection, acute sinusitis, acute bacterial tonsillitis, acute bronchitis and bronchiolitis, lower respiratory tract infection and lobar (pneumococcal) pneumonia.
+DrugId:  11
+1. Name:  Naphazoline
+2. Groups:  Approved
+3. Description:  Naphazoline is a rapid acting sympathomimetic vasoconstrictor of occular artierioles. It acts to decrease congestion of the conjunctiva and is found in many over-the-counter eye drops.
+4. Indication:  Naphazoline is primarily indicated in conditions like Corneal vascularity, Hyperaemia, Itching, Nasal congestion, and can also be given in adjunctive therapy as an alternative drug of choice in Sinusitis
+DrugId:  12
+1. Name:  Ciprofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Ciprofloxacin is a broad-spectrum antimicrobial carboxyfluoroquinoline.The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV, which are required for bacterial DNA replication, transcription, repair, strand supercoiling repair, and recombination.
+4. Indication:  For the treatment of the following infections caused by susceptible organisms: urinary tract infections, acute uncomplicated cystitis, chronic bacterial prostatitis, lower respiratory tract infections, acute sinusitis, skin and skin structure infections, bone and joint infections, complicated intra-abdominal infections (used in combination with metronidazole), infectious diarrhea, typhoid fever (enteric fever), uncomplicated cervical and urethral gonorrhea, and inhalational anthrax (post-exposure).
+DrugId:  13
+1. Name:  Levofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic fluoroquinolone (fluoroquinolones) antibacterial agent that inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication. [PubChem]
+4. Indication:  For the treatment of bacterial conjunctivitis caused by susceptible strains of the following organisms: Corynebacterium species, Staphylococus aureus, Staphylococcus epidermidis, Streptococcus pneumoniae, Streptococcus (Groups C/F/G), Viridans group streptococci, Acinetobacter lwoffii, Haemophilus influenzae, Serratia marcescens.
+DrugId:  14
+1. Name:  Moxifloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Moxifloxacin is a synthetic fluoroquinolone antibiotic agent. Bayer AG developed the drug (initially called BAY 12-8039) and it is marketed worldwide (as the hydrochloride) under the brand name Avelox (in some countries also Avalox) for oral treatment.
+4. Indication:  For the treatment of sinus and lung infections such as sinusitis, pneumonia, and secondary infections in chronic bronchitis. Also for the treatment of bacterial conjunctivitis (pinkeye).
+DrugId:  15
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
+DrugId:  16
+1. Name:  Pseudoephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  For the treatment of nasal congestion, sinus congestion, Eustachian tube congestion, and vasomotor rhinitis, and as an adjunct to other agents in the optimum treatment of allergic rhinitis, croup, sinusitis, otitis media, and tracheobronchitis. Also used as first-line therapy of priapism.

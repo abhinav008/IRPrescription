@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ethanol
+2. Groups:  Approved
+3. Description:  A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+4. Indication:  For therapeutic neurolysis of nerves or ganglia for the relief of intractable chronic pain in such conditions as inoperable cancer and trigeminal neuralgia (tic douloureux), in patients for whom neurosurgical procedures are contraindicated.
+DrugId:  2
+1. Name:  Triclosan
+2. Groups:  Approved, Investigational
+3. Description:  An aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes. [ChEBI]
+4. Indication:  Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers. It is also used in health care settings in surgical scrubs and personnel hand washes.
+DrugId:  3
+1. Name:  Benzalkonium
+2. Groups:  Approved
+3. Description:  Benzalkonium is a quaternary ammonium compound used as a biocide, a cationic surfactant, and as a phase transfer agent [FDA Label]. Benzalkonium is more commonly contained in consumer products in its salt form, benzalkonium chloride [FDA Label]. This salt is used in a great variety of international pharmaceutical products such as eye, ear, and nasal drops or sprays as an excipient ingredient serving as an antimicrobial preservative [FDA Label]. When used as an ingredient in antiseptic and disinfectant products however, it is an active antimicrobial agent [2].
+4. Indication:  When used as an active ingredient in products like antibacterial, antiseptic, or disinfectant soaps, topical sanitizers, or cleaning agents, benzalkonium is primarily implemented in its salt form, benzalkonium chloride, where it may often be the only active ingredient present and indicated for the primary purpose of topical washing to decrease bacteria on skin [2].Conversely, when implemented as an excipient ingredient in a variety of multidose aqueous nose, eye, or ear products, benzalkonium chloride is being used as the antimicrobial preservative of choice to facilitate effective bactericidal and fungicidal actions to help minimize the growth of unwanted organisms in the multidose containers [FDA Label]. 
+DrugId:  4
+1. Name:  Benzethonium
+2. Groups:  Approved
+3. Description:  Benzethonium is a synthetic quaternary ammonium salt with surfactant, antiseptic, and broad spectrum antimicrobial properties. Its salt form, benzethonium chloride, is primarily used as a skin disinfectant at concentrations of 0.1-0.2 %, which are safe and effective concentrations for the compound specified by the U.S. Food and Drug Administration (FDA). It is additionally found in cosmetics and toiletries such as mouthwashes and anti-itch ointments. It is shown to be effective in mediating its antimicrobial action against bacteria, fungi, mold and viruses. There is evidence that benzethonium acts as a spermatocide but may cause vaginal irritation [2]. Benzethonium was identified as a novel cancer-specific compound by cell-based small-molecule screen [1].
+4. Indication:  Indicated as an antiseptic agent. No therapeutic indications for clinical use. 
+DrugId:  5
+1. Name:  Chloroxylenol
+2. Groups:  Approved
+3. Description:  Chloroxylenol, also known as para-chloro-meta-xylenol (PCMX), is an antiseptic and disinfectant agent used for skin disinfection and cleaning surgical instruments. It is also commonly used in antibacterial soaps, wound-cleansing applications and household antiseptics. The halophenol is shown to be most effective against Gram positive bacteria where it disrupts the cell wall due to its phenolic nature [1]. Chloroxylenol is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.
+4. Indication:  The predominant medical applications for which chloroxylenol is formally indicated for therapeutic use is as an application to the skin for use in cuts, bites, stings, abrasions, and for use as antiseptic hand cleaner [7].
+DrugId:  6
+1. Name:  Bronopol
+2. Groups:  Approved
+3. Description:  Nitrosating reagent for diethanolamine. Bronopol is approved for use in OTC products in Canada.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Vitamin E
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A generic descriptor for all tocopherols and tocotrienols that exhibit alpha-tocopherol activity. By virtue of the phenolic hydrogen on the 2H-1-benzopyran-6-ol nucleus, these compounds exhibit varying degree of antioxidant activity, depending on the site and number of methyl groups and the type of isoprenoids.
+4. Indication:  Vitamin E, known for its antioxidant activities, is protective against cardiovascular disease and some forms of cancer and has also demonstrated immune-enhancing effects. It may be of limited benefit in some with asthma and rheumatoid arthritis. It may be helpful in some neurological diseases including Alzheimer's, some eye disorders including cataracts, and diabetes and premenstrual syndrome. It may also help protect skin from ultraviolet irradiation although claims that it reverses skin aging, enhances male fertility and exercise performance are poorly supported. It may help relieve some muscle cramps.
+DrugId:  8
+1. Name:  C11-12 isoparaffin
+2. Groups:  Approved
+3. Description:  C11-12 isoparaffin is a mixture of branched chain hydrocarbons with 11C or 12C's in the alkyl chain. It is found in cosmetic and personal care products as solvents or skin conditioning agent.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Elafin
+2. Groups:  Investigational
+3. Description:  Elafin is a human protein that is produced naturally in the skin, lung and breast, protecting the respective tissue from destruction by the immune system. Elafin’s ability to block the activity of destructive enzymes that are involved in inflammatory reactions makes it a highly promising active compound for the treatment of inflammatory lung diseases or severe reperfusion injuries occurring after heart attacks, serious injuries and organ transplantation. The excellent tolerability of Elafin in human subjects was demonstrated in a Phase I clinical single dose escalating study.
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified).
+DrugId:  10
+1. Name:  Chlorhexidine
+2. Groups:  Approved, Vet approved
+3. Description:  A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque. [PubChem]
+4. Indication:  For reduction of pocket depth in patients with adult periodontitis, used as an adjunct to scaling and root planing procedures. Also for prevention of dental caries, oropharyngeal decontamination in critically ill patients, hand hygiene in health-care personnel, general skin cleanser, and catheter site preparation and care.
+DrugId:  11
+1. Name:  M40403
+2. Groups:  Investigational
+3. Description:  M40403 is a low molecular weight, synthetic manganese containing superoxide dismutase mimetic (SODm) that selectively removes superoxide anion.
+4. Indication:  Intended for the treatment of pain and possibly various forms of cancer.
+DrugId:  12
+1. Name:  Isopropyl Alcohol
+2. Groups:  Approved, Investigational
+3. Description:  An isomer of 1-propanol. It is a colorless liquid having disinfectant properties. It is used in the manufacture of acetone and its derivatives and as a solvent. Topically, it is used as an antiseptic. [PubChem]
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Tolperisone
+2. Groups:  Approved, Investigational
+3. Description:  Tolperisone is an oral, centrally acting muscle relaxant. Its precise mechanism is not completely understood, though it blocks sodium and calcium channels. It possesses a high affinity for nervous system tissue, reaching highest concentrations in brain stem, spinal cord and peripheral nerves. Based on existing clinical data, Tolperisone is not sedating and does not interact with alcohol.
+4. Indication:  Investigated for use/treatment in neurologic disorders, spinal cord injuries, muscle spasm, back pain, and multiple sclerosis.
+DrugId:  14
+1. Name:  Daprodustat
+2. Groups:  Investigational
+3. Description:  Daprodustat has been used in trials studying the other, treatment, and basic science of Anaemia, Wound Healing, Tendon Injuries, Surgical Procedures, and Vascular Disease, Peripheral.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Cocamidopropyl betaine
+2. Groups:  Approved
+3. Description:  Cocamidopropyl betaine is a mixture of closely related organic compounds derived from coconut oil and dimethylaminopropylamine that typically acts as an amphoteric surfactant in cosmetics and personal care products. It is a zwitterionic ammonium compound and fatty acid amide that contains a long hydrocarbon chain and a polar group at each end. Cocamidopropyl betaine also acts as a foam booster in shampoos, emulsifying agent, thickener, antistatic agent and rarely an antiseptic agent [Wikipedia]. Impurities formed during the manufacturing process are thought to increase the prevalence of contact sensitization and mild skin irritations.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Indigotindisulfonic Acid
+2. Groups:  Approved
+3. Description:  Indolesulfonic acid is a blue-colored dye used in the kidney function test for the detection of nitrates and chlorates. It is largely excreted by the kidneys.
+4. Indication:  Used as a dye in renal function testing for the detection of nitrates and chlorates.
+DrugId:  17
+1. Name:  Autologous cultured chondrocytes
+2. Groups:  Approved
+3. Description:  Autologous cultured chrondrocytes are used as autologous cell therapy to repair articular cartilage injuries in the knee (femoral condyle) due to acute or repetitive trauma. It serves as an alternative repair treatment for patients with inadequate response to pre-existing surgical methods. The surgical implantation shows a tolerable safety profile and efficacy up to 4 years, but it is not indicated for patients with osteoarthritis. It has been used since 1995 as Carticel and gained biologic license in 1997. The surgical implantation was first performed in Sweden.
+4. Indication:  Cellular repair strategy for patients with symptomatic cartilage defects of the femoral condyle (medial, lateral or trochlea) caused by trauma or patients who were previously unresponsive to available surgical procedures. 
+DrugId:  18
+1. Name:  DP-b99
+2. Groups:  Investigational
+3. Description:  DP-b99 is a newly developed lipophilic, cell permeable derivative of BAPTA (1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid), that is under development as a neuroprotectant for the potential treatment of stroke, head trauma and neurological damage associated with coronary artery bypass graft.
+4. Indication:  Investigated for use/treatment in strokes and traumatic brain injuries.
+DrugId:  19
+1. Name:  Dexanabinol
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in traumatic brain injuries and neurologic disorders.
+DrugId:  20
+1. Name:  Didecyldimethylammonium
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Agmatine
+2. Groups:  Experimental, Investigational
+3. Description:  Agmantine is a natural metabolite of the amino acid arginine. It is formed when arginine is decarboxylated by the enzyme arginine decarboxylase and is found naturally in ragweed pollen, ergot fungi, octopus muscle, herring sperm, sponges, and the mammalian brain. Agmatine is both an experimental and investigational drug. As an investigational drug, it is being studied in a non-blinded prospective case study in the United States looking at patients who have been diagnosed with small fiber peripheral neuropathy between the ages of 18 to 75 years. Up to now (July 2013), the results of this study have not yet been published. As an experimental drug, agmatine is being studied for several indications such as cardioprotection, diabetes, decreased kidney function, neuroprotection (stroke, severe CNS injuries, epilepsy, glaucoma, and neuropathic pain), and psychiatric conditions (depression, anxiety, schizophrenia, and cognition). The exact mechanism of action is still being investigated for all of the potential indications of agmatine.
+4. Indication:  Agmatine is being studied experimentally for several indications such as cardioprotection, diabetes, decreased kidney function, neuroprotection (stroke, severe CNS injuries, epilepsy, glaucoma, and neuropathic pain), and psychiatric conditions (depression, anxiety, schizophrenia, and cognition). As an investigational drug, agamatine is being studied in a non-blinded prospective case study in the United States looking at patients who have been diagnosed with small fiber peripheral neuropathy.
+DrugId:  22
+1. Name:  Colloidal oatmeal
+2. Groups:  Approved, Nutraceutical
+3. Description:  Colloidal oatmeal is produced by grinding fine granules of oatmeal and boiling it to extract the colloidal material. It contains high concentrations of starches and beta-glucan that exhibits water-absorbing properties. Phenols are also contained in colloidal oatmeal, which possess antioxidant and anti-inflammatory activities, as well as UV-absorbing activity. Colloidal oatmeal is a FDA-approved skin protectant that temporarily protects and helps relieve minor skin irritation and itching due to rashes, eczema, poison ivy, oak, sumac, or insect bites. It is available in topical products as a skin soothing agent.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Anatibant
+2. Groups:  Investigational
+3. Description:  Anatibant is a selective, very potent, small-molecule Bradykinin B2 receptor antagonist. It is developed for the for the treatment of traumatic brain injury (TBI).
+4. Indication:  Investigated for use/treatment in traumatic brain injuries.
+DrugId:  24
+1. Name:  Aloe Polysaccharide
+2. Groups:  Approved, Experimental
+3. Description:  Aloe describes a genus including over 500 species of flowering succulent plants that grow in the Southern peninsula and various islands. Aloe vera is the most common species of Aloe that is cultivated for agricultural and medical purposes. It is a perennial succulent xerophyte with elongated leaves that contain a clear gel. The aloe vera gel is a rich source of polysaccharides, vitamins, minerals, amino acids, anthraquinones, enzymes, lignin, saponins, and salicylic acids. Some of the polysaccharides that are active constituents of aloe vera gel include acemannan, mannose, and cellulosic glucose. While aloe vera has a long history of commercial uses, it is still widely used in cosmetic, food and pharmaceutical products.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Chlorphenesin
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  A centrally acting muscle relaxant. Its mode of action is unknown. Chlorphenesin is not available in the United States.
+4. Indication:  Used, along with rest and physical therapy, to treat injuries and other painful muscular conditions. Investigated for use in trigeminal neuralgia (tic douloureux), a neuropathic disorder characterized by severe facial pain. Was investigated as a modulator of histamine release.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  IMC-1C11
+2. Groups:  Investigational
+3. Description:  IMC-1C11 is an anti-angiogenesis agent. It is a chimeric anti-kinase insert domain-containing receptor (KDR) antibody that blocks VEGFR-KDR interaction and inhibits VEGFR-induced endothelial cell proliferation. IMC-1C11 is used for treatment of patients with liver metastases from colorectal carcinoma.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  2
+1. Name:  ABT-869
+2. Groups:  Investigational
+3. Description:  ABT-869 is a small molecule vascular endothelial growth factor (VEGF) receptor-based kinase inhibitor that is designed to suppress tumor growth by preventing the formation of new blood vessels that supply the tumor with oxygen and nutrients and by inhibiting key angiogenic signaling pathways. ABT-869 is intended for the treatment of hematologic malignancies and the solid tumors.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid), myelodysplastic syndrome, and solid tumors.
+DrugId:  3
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  4
+1. Name:  XL820
+2. Groups:  Investigational
+3. Description:  XL820 is investigated for use/treatment in solid tumors. XL820 is a solid. The proteins that XL820 inhibit include platelet-derived growth factor receptor beta (PDGFR), mast/stem cell growth factor receptor KIT, vascular endothelial growth factor receptor 2, and platelet-derived growth factor receptor alpha, clinically validated targets implicated in a variety of human cancers. XL820 exhibits dose-dependent growth inhibition in models of breast carcinoma, gliomas and leukemia.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  5
+1. Name:  GTI 2040
+2. Groups:  Investigational
+3. Description:  GTI-2040 is a substance that is being studied as a treatment for cancer. It belongs to the family of drugs called antisense oligonucleotides.
+4. Indication:  Investigated for use/treatment in breast cancer, colorectal cancer, leukemia (myeloid), leukemia (unspecified), myelodysplastic syndrome, prostate cancer, renal cell carcinoma, and solid tumors.
+DrugId:  6
+1. Name:  Avelumab
+2. Groups:  Approved, Investigational
+3. Description:  Avelumab is a programmed death ligand-1 (PD-L1) blocking antibody indicated for the treatment of adults and pediatric patients 12 years and older with metastatic Merkel cell carcinoma (MCC). It is a fully human anti-PD immunoglobulin G1 (IgG1) lambda monoclonal antibody with antineoplastic actions. It was granted accelerated approval in March 2017 under the name Bavencio.
+4. Indication:  Indicated for the treatment of adults and pediatric patients 12 years and older with metastatic Merkel cell carcinoma (MCC). 
+DrugId:  7
+1. Name:  AE-941
+2. Groups:  Investigational
+3. Description:  AE-941 is a naturally occurring anti-angiogenic compound, extracted from cartilage, with multiple anti-angiogenic mechanisms of action that provide broad therapeutic potential for a number of diseases. It is currently in international Phase III trials for renal cell carcinoma and non-small-cell lung cancer.
+4. Indication:  Investigated for use/treatment in kidney cancer, lung cancer, macular degeneration, multiple myeloma, prostate cancer, and psoriasis and psoriatic disorders.
+DrugId:  8
+1. Name:  oportuzumab monatox
+2. Groups:  Investigational
+3. Description:  VB4-845 is studied in the treatment of certain types of head and neck cancer. VB4-845 is made by linking a monoclonal antibody fragment to a toxic protein that may kill cancer cells. VB4-845 is a fusion protein containing humanized scFv specific for the epithelial cell adhesion molecule, Ep-CAM, a tumor cell-associated target highly expressed on carcinoma cells of epithelial origin and a truncated portion of Pseudomonas exotoxin A.
+4. Indication:  Investigated for use/treatment in bladder cancer and head and neck cancer.
+DrugId:  9
+1. Name:  Mitometh
+2. Groups:  Investigational
+3. Description:  Mitometh is under investigation for the treatment of Adenocarcinoma, Oropharyngeal Neoplasms, Nasopharyngeal Carcinoma, Non-small Cell Lung Cancer, and Stage IV Non-small Cell Lung Cancer, among others. Mitometh has been investigated for the treatment of Lung Neoplasms, Untreated Childhood Medulloblastoma, and Untreated Childhood Supratentorial Primitive Neuroectodermal Tumor.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Imiquimod
+2. Groups:  Approved, Investigational
+3. Description:  Imiquimod is an immune response modifier that acts as a toll-like receptor 7 agonist. Imiquimod is commonly used topically to treat warts on the skin of the genital and anal areas. Imiquimod does not cure warts, and new warts may appear during treatment. Imiquimod does not fight the viruses that cause warts directly, however, it does help to relieve and control wart production. Miquimod is also used to treat a skin condition of the face and scalp called actinic keratoses and certain types of skin cancer called superficial basal cell carcinoma.
+4. Indication:  For the topical treatment of clinically typical, nonhyperkeratotic, nonhypertrophic actinic keratoses on the face or scalp in immunocompetent adults. Also indicated for the treatment of external genital and perianal warts/condyloma acuminata in individuals 12 years old and above.
+DrugId:  11
+1. Name:  Etalocib
+2. Groups:  Investigational
+3. Description:  Etalocib has been used in trials studying the treatment of Pancreatic Cancer, Carcinoma, Non-Small-Cell Lung, and Unspecified Adult Solid Tumor, Protocol Specific.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Atezolizumab
+2. Groups:  Approved, Investigational
+3. Description:  Atezolizumab is an Fc-engineered, humanized, monoclonal antibody that binds to Programmed Death Ligand 1 (PD-L1) and blocks its interactions with the receptors B7.1 (also known as CD80) and Programmed Death 1 (PD-1). The binding of PD-L1 to PD-1 or B7.1 on activated T cells causes an inhibitory signal to suppress their production in the lymph nodes, thereby preventing immune responses to events such as pregnancy or autoimmune disease. This pathway is also utilized by cancer cells to evade the immune system through evasion of anti-tumor T-cell response. Furthermore, over-expression of PD-L1 and PD-1 has been linked to increased tumour aggressiveness and poorer prognosis. Currently the only antibody against PD-L1 and available as the product Tecentriq (FDA), atezolizumab is indicated for the treatment of locally advanced or metastatic urothelial carcinoma. 
+4. Indication:  For the treatment of patients with locally advanced or metastatic urothelial carcinoma who: 1) have disease progression during or following platinum-containing chemotherapy, and 2) have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
+DrugId:  13
+1. Name:  Temsirolimus
+2. Groups:  Approved
+3. Description:  Temsirolimus is an intravenous drug for the treatment of renal cell carcinoma (RCC), developed by Wyeth Pharmaceuticals and approved by the FDA in late May 2007, and was also approved by the European Medicines Agency (EMEA) on November 2007. It is a derivative of sirolimus and is sold as Torisel.
+4. Indication:  For the treatment of renal cell carcinoma (RCC). Also investigated for use/treatment in breast cancer, lymphoma (unspecified), rheumatoid arthritis, and multiple myeloma.
+DrugId:  14
+1. Name:  Doxorubicin
+2. Groups:  Approved, Investigational
+3. Description:  Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius. Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
+4. Indication:  Doxorubicin is used to produce regression in disseminated neoplastic conditions like acute lymphoblastic leukemia, acute myeloblastic leukemia, Wilms’ tumor, neuroblastoma, soft tissue and bone sarcomas, breast carcinoma, ovarian carcinoma, transitional cell bladder carcinoma, thyroid carcinoma, gastric carcinoma, Hodgkin’s disease, malignant lymphoma and bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types. Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.
+DrugId:  15
+1. Name:  Aldesleukin
+2. Groups:  Approved
+3. Description:  Aldesleukin, a lymphokine, is produced by recombinant DNA technology using a genetically engineered E. coli strain containing an analog of the human interleukin-2 gene. Genetic engineering techniques were used to modify the human IL-2 gene, and the resulting expression clone encodes a modified human interleukin-2. This recombinant form differs from native interleukin-2 in the following ways: a) Aldesleukin is not glycosylated because it is derived from E. coli; b) the molecule has no N-terminal alanine; the codon for this amino acid was deleted during the genetic engineering procedure; c) the molecule has serine substituted for cysteine at amino acid position 125.
+4. Indication:  For treatment of adults with metastatic renal cell carcinoma.
+DrugId:  16
+1. Name:  Foretinib
+2. Groups:  Investigational
+3. Description:  Foretinib has been used in trials studying the treatment of Cancer, Breast Cancer, Carcinoma, Renal Cell, Recurrent Breast Cancer, and Neoplasms, Head and Neck, among others. Foretinib is an orally available small molecule compound designed to target multiple RTKs implicated in the development, progression and spread of cancer. It inhibits the activation of MET, RON, ERK and AKT, decreased proliferation and increased apoptosis.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  PX-12
+2. Groups:  Investigational
+3. Description:  PX-12 (1-methylpropyl 2-imidazolyl disulfide) is a small-molecule inhibitor of Trx-1 (thioredoxin-1), stimulates apoptosis, down-regulates HIF-1α and vascular endothelial growth factor (VEGF) and inhibits tumor growth in animal models. Since high levels of Trx-1 have been associated with colorectal, gastric and lung cancers, PX-12 is indicated as a potential cancer treatment in combination with chemotherapy for patients with advanced metastatic cancer. Initial trials correlated doses of Px-12 with increased patient survival.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), gastric cancer, and pancreatic cancer.
+DrugId:  18
+1. Name:  Varlitinib
+2. Groups:  Investigational
+3. Description:  Varlitinib is an oral, selective, reversible, small molecule tyrosine kinase inhibitor of both ErbB-2 (Her-2/neu) and EGFR. Over-expression of ErbB-2 and EGFR receptors in tumors is predictive of poor prognosis in cancer patients. Varlitinib has shown significant anti-tumor activity in preclinical models of human breast, lung, and epidermal carcinoma tumors.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  19
+1. Name:  Durvalumab
+2. Groups:  Approved, Investigational
+3. Description:  Durvalumab is a a human monoclonal antibody that blocks programmed death ligand 1 (PD-L1), or CD 274. In May, 2017 it received FDA approval for previously treated patients with locally advanced or metastatic cancer in the urinary system (as Imfinzi). It is shown to be effective in patients with continued disease progression after the platinum-based chemotherapy. This drug has a relatively tolerable safety profile and its structural modification advantageously prevents the induction of antibody-dependent cytotoxicity (ADCC) or complement-dependent cytotoxicity (CDC) [5].
+4. Indication:  Durvalumab is indicated for patients with urothelial carcinoma, such as urinary bladder, urethra or ureter cancer. Patients with prolonged disease progression due to failed platinum-based chemotherapy such as cisplatin and carboplatin are most likely to benefit from durvalumab treatment. Its clinical effectiveness is especially enhanced in PD-L1-positive patient groups [1]. 
+DrugId:  20
+1. Name:  Thiotepa
+2. Groups:  Approved, Investigational
+3. Description:  N,N'N'-triethylenethiophosphoramide (ThioTEPA) is a cancer chemotherapeutic member of the alkylating agent group, now in use for over 50 years. It is a stable derivative of N,N',N''- triethylenephosphoramide (TEPA). It is mostly used to treat breast cancer, ovarian cancer and bladder cancer. It is also used as conditioning for Bone marrow transplantation. Its main toxicity is myelosuppression.
+4. Indication:  ThioTEPA is used a as conditioning treatment prior to allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT) in haematological diseases in adult and paediatric patients. Also, when high dose chemotherapy with HPCT support it is appropriate for the treatment of solid tumours in adult and paediatric patients.
+DrugId:  21
+1. Name:  Platinum
+2. Groups:  Investigational
+3. Description:  Platinum is under investigation for the treatment of Metastatic Breast Cancer, Non-small Cell Lung Cancer, Gastric Large Cell Neuroendocrine Carcinoma, Colorectal Large Cell Neuroendocrine Carcinoma, and Pancreatic Large Cell Neuroendocrine Carcinoma, among others. Platinum has been investigated for the treatment and supportive care of Ovarian Cancer, Fallopian Tube Cancer, Peritoneal Primary Cancer, Non Small Cell Lung Cancer, and Primary Peritoneal Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Entolimod
+2. Groups:  Investigational
+3. Description:  Entolimod has been used in trials studying the treatment of Mucositis, Tongue Cancer, Colorectal Cancer, Stage IVA Verrucous Carcinoma of the Larynx, and Stage IVB Verrucous Carcinoma of the Larynx, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Cetuximab
+2. Groups:  Approved
+3. Description:  Cetuximab is an epidermal growth factor receptor binding FAB. Cetuximab is composed of the Fv (variable; antigen-binding) regions of the 225 murine EGFr monoclonal antibody specific for the N-terminal portion of human EGFr with human IgG1 heavy and kappa light chain constant (framework) regions. Cetuximab is marketed under the brand Erbitux® by Eli Lilly and Company. In the United States, a regimen of cetuximab costs approximately $30,790 for an eight-week course.
+4. Indication:  Cetuximab, used in combination with irinotecan, is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are refractory to irinotecan-based chemotherapy. Cetuximab administered as a single agent is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are intolerant to irinotecan-based chemotherapy.
+DrugId:  24
+1. Name:  Gallium citrate Ga 67
+2. Groups:  Approved
+3. Description:  Gallium citrate Ga 67 is the citrate salt of the radioisotope gallium Ga 67. Although the mechanism is unknown, gallium Ga 67 concentrates in lysosomes and is bound to a soluble intracellular protein in certain viable primary and metastatic tumors and focal sites of inflammation, allowing scintigraphic localization. Ga-67 scintigraphy (GS) cannot differentiate between tumor and acute inflammation. [NCI Thesaurus]
+4. Indication:  Gallium Citrate Ga 67 Injection may be useful to demonstrate the presence and extent of Hodgkin's disease, lymphoma, and bronchogenic carcinoma. Positive gallium Ga-67 uptake in the absence of prior symptoms warrants follow-up as an indication of a potential disease state. Gallium Citrate Ga 67 Injection may be useful as an aid in detecting some acute inflammatory lesions.
+DrugId:  25
+1. Name:  Regorafenib
+2. Groups:  Approved
+3. Description:  Regorafenib is an orally-administered inhibitor of multiple kinases. It is used for the treatment of metastatic colorectal cancer and advanced gastrointestinal stromal tumours. FDA approved on September 27, 2012. Approved use of Regorafenib was expanded to treat Hepatocellular Carcinoma in April, 2017.
+4. Indication:  Regorafenib is indicated for the treatment of patients with metastatic colorectal cancer (CRC) who have been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF therapy, and, if KRAS wild type, an anti-EGFR therapy. Regorafenib is also indicated for the treatment of patients with locally advanced, unresectable or metastatic gastrointestinal stromal tumor (GIST) who have been previously treated with imatinib mesylate and sunitinib malate.

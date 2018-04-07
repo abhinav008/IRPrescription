@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Yellow Fever Vaccine
+2. Groups:  Approved, Investigational
+3. Description:  Yellow Fever vaccine prevents against Yellow Fever, a viral hemorrhagic disease caused by the transmission of a flavivirus through the bite of an infected mosquito. Symptoms of Yellow Fever can range from asymptomatic, to mild flu-like illness, to more severe symptoms such as shock, jaundice, internal bleeding, and organ failure [4]. Interestingly, Yellow Fever got its name from the characteristic yellowing of the skin and eyes that occurs from the development of jaundice when the virus attacks the liver. Although there is supportive treatment available for managing Yellow Fever, there are currently no antivirals developed to specifically treat Yellow Fever. Vaccination with Yellow Fever vaccine is therefore considered to be the most important and effective measure to protect against Yellow Fever, with protective immunity developing within 10 days after vaccination; in two separate clinical trials of Yellow Fever Vaccine, 90% of subjects seroconverted within 10 days after vaccination, and 100% of subjects seroconverted within 14 days [FDA Label]. The World Health Organization no longer recommends the use of a 10-year booster dose following primary immunization, as a single dose is "sufficient to confer life-long immunity against yellow fever disease" [3]. Yellow Fever is most commonly found in the southern hemisphere, in tropical regions of Africa and Central/South America [2]. The World Health Organization recommends routine vaccination in countries where Yellow Fever is endemic, and for travellers going to endemic areas as proof of vaccination is often a requirement at border crossings to prevent international spread of the disease [2, 5].Yellow Fever Vaccine is a subcutaneously administered vaccination for the active immunization and prophylaxis of yellow fever in pediatric patients 9 months of age and older. It is composed of two live, attenuated strains of yellow fever virus, 17D-204 and 17DD, which have been shown to elicit an immune response identical to that induced by wild-type infection [FDA Label]. The FDA recommends vaccination with Yellow Fever Vaccine for persons living in or travelling to endemic areas and for laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus.
+4. Indication:  Yellow Fever Vaccine is indicated for active immunization for the prevention of yellow fever in persons 9 months of age and older in the following categories:Persons Living in or Traveling to Endemic Areas: While the actual risk for contracting yellow fever during travel is probably low, variability of itineraries, behaviors and seasonal incidence of disease make it difficult to predict the actual risk for a given individual living in or traveling to a known endemic or epidemic area. Greater risk is associated with living in or traveling to areas of South America and Africa where yellow fever infection is officially reported at the time of travel and with traveling outside the urban areas of countries that do not officially report the disease but that lie in a yellow fever endemic zone.Persons Travelling Internationally Through Countries with Yellow Fever: Some countries require an individual to have a valid International Certificate of Vaccination or Prophylaxis (ICVP) if the individual has been in countries either known or thought to harbor yellow fever virus. The certificate becomes valid 10 days after vaccination with Yellow Fever Vaccine.Laboratory Personnel: Laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus strains may be at risk of exposure by direct or indirect contact or by aerosols.
+DrugId:  2
+1. Name:  Tripelennamine
+2. Groups:  Approved, Vet approved
+3. Description:  A histamine H1 antagonist with low sedative action but frequent gastrointestinal irritation. It is used to treat asthma; HAY fever; urticaria; and rhinitis; and also in veterinary applications. Tripelennamine is administered by various routes, including topically. [PubChem]
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions, coughs, and the common cold.
+DrugId:  3
+1. Name:  Minocycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline analog, having a 7-dimethylamino and lacking the 5 methyl and hydroxyl groups, which is effective against tetracycline-resistant staphylococcus infections. [PubChem]
+4. Indication:  For the treatment of infections caused by susceptible strains of microorganisms, such as Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsial pox and tick fevers caused by Rickettsiae, upper respiratory tract infections caused by Streptococcus pneumoniae and for the treatment of asymptomatic carriers of Neisseria meningitidis.
+DrugId:  4
+1. Name:  Phenol
+2. Groups:  Approved, Experimental
+3. Description:  Phenol is an antiseptic and disinfectant. It is active against a wide range of micro-organisms including some fungi and viruses, but is only slowly effective against spores. Phenol has been used to disinfect skin and to relieve itching. Phenol is also used as an oral analgesic or anesthetic in products such as Chloraseptic to treat pharyngitis. Additionally, phenol and its related compounds are used in surgical ingrown toenail treatment, a process termed phenolization. Research indicates that parental exposure to phenol and its related compounds are positively associated with spontaneous abortion. During the second world war, phenol injections were used as a means of execution by the Nazis. Phenol is a toxic compound whose vapours are corrosive to the skin, eyes, and respiratory tract. 
+4. Indication:  Phenol is primarily indicated for minor sore throat pain, sore mouth, minor mouth irritation, and pain associated with canker sores. Additionally, phenol is indicated in the treatment of focal spasticity. 
+DrugId:  5
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  6
+1. Name:  Benzocaine
+2. Groups:  Approved, Investigational
+3. Description:  A surface anesthetic that acts by preventing transmission of impulses along nerve fibers and at nerve endings. [PubChem]
+4. Indication:  For general use as a lubricant and topical anesthetic on esophagus, larynx, mouth, nasal cavity, rectum, respiratory tract or trachea, urinary tract, vagina. It is also used to suppress gag reflex.
+DrugId:  7
+1. Name:  Chlorphenamine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in allergic reactions, hay fever, rhinitis, urticaria, and asthma. It has also been used in veterinary applications. One of the most widely used of the classical antihistaminics, it generally causes less drowsiness and sedation than promethazine. [PubChem]
+4. Indication:  For the treatment of rhinitis, urticaria, allergy, common cold, asthma and hay fever.
+DrugId:  8
+1. Name:  Clemastine
+2. Groups:  Approved, Investigational
+3. Description:  An ethanolamine-derivative, first generation histamine H1 antagonist used in hay fever, rhinitis, allergic skin conditions, and pruritus. It causes drowsiness.
+4. Indication:  For the relief of symptoms associated with allergic rhinitis such as sneezing, rhinorrhea, pruritus and acrimation. Also for the management of mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Used as self-medication for temporary relief of symptoms associated with the common cold.
+DrugId:  9
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  10
+1. Name:  Tartaric acid
+2. Groups:  Approved
+3. Description:  Tartaric acid is a white crystalline organic acid that occurs naturally in many plants, most notably in grapes.Tartaric is an alpha-hydroxy-carboxylic acid, is diprotic and aldaric in acid characteristics, and is a dihydroxyl derivative of succinic acid.
+4. Indication:  Tartaric Acid is primarily indicated in conditions like Antiscorbutic, Antiseptic.
+DrugId:  11
+1. Name:  Cloxacillin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A semi-synthetic antibiotic that is a chlorinated derivative of oxacillin.
+4. Indication:  Used to treat infections caused by penicillinase-producing staphylococci, including pneumococci, group A beta-hemolytic streptococci, and penicillin G-sensitive and penicillin G-resistant staphylococci.
+DrugId:  12
+1. Name:  Ammonia
+2. Groups:  Approved
+3. Description:  Ammonia is a naturally-occurring compound with a chemical formula NH3 and structure of trigonal pyramidal geometry. It is a colorless gas with a pungent smell, and become NH4, or ammonium ion, when in water. Although ammonia is used as a food additive in the anhydrous form and serves as a starting material in pharmaceutical and commercial products, it is caustic and hazardous when concentrated. Ammonia gas has been used in the clinical setting as a respiratory stimulant to prevent fainting. The radiolabelled form of ammonia, ammonia N 13, is intravenously administered as a radioactive diagnostic agent for Positron Emission Tomography (PET) imaging of the myocardium to evaluate myocardial perfusion. Ammonia is a natural byproduct of biological and chemical reactions, including decomposition of organic matter, including plants, animals, and animal wastes. It is present in normally present in all tissues constituting a metabolic pool, where it is mostly taken up by glutamic acid and take part in transamination and other reactions, including the synthesis of protein by the Krebs-Hanseleit cycle in the liver [5]. It is proposed that human adults produce about 1000 mmol of ammonia daily, most of which undergoes excretion in the urine.
+4. Indication:  Indicated for use as a smelling salt to treat or prevent fainting. (when radiolabelled) Indicated for diagnostic PET imaging of the myocardium under rest or pharmacologic stress conditions to evaluate myocardial perfusion in patients with suspected or existing coronary artery disease [FDA Label].
+DrugId:  13
+1. Name:  Mefenamic acid
+2. Groups:  Approved
+3. Description:  A non-steroidal anti-inflammatory agent with analgesic, anti-inflammatory, and antipyretic properties. It is an inhibitor of cyclooxygenase. [PubChem]
+4. Indication:  For the treatment of rheumatoid arthritis, osteoarthritis, dysmenorrhea, and mild to moderate pain, inflammation, and fever.
+DrugId:  14
+1. Name:  Dicloxacillin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the penicillins which is resistant to penicillinase. [PubChem]
+4. Indication:  Used to treat infections caused by penicillinase-producing staphylococci which have demonstrated susceptibility to the drug.
+DrugId:  15
+1. Name:  Ty800
+2. Groups:  Investigational
+3. Description:  Ty800 is a vaccine designed to offer rapid, oral, single-dose protection against Salmonella typhi, the cause of typhoid fever. The Ty800 vaccine was developed using genetic techniques to delete specific genes known to be essential to the virulence of S. typhi. It is being developed by AVANT Immunotherapeutics, Inc.
+4. Indication:  For the production of immunity to Salmonella typhi, the cause of typhoid fever.
+DrugId:  16
+1. Name:  Benzathine benzylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Benzathine benzylpenicillin is a form of penicillin also known as benzathine penicillin. It is an B-lactam antibiotic useful for the treatment of a number of bacterial infections. These include This includes; syphilis, necrotizing enterocolitis, diphtheria, gas gangrene, leptospirosis, cellulitis, pneumonia, strep throat and tetanus.Side effects include diarrhea, seizures, and allergic reactions including anaphylaxis. Benzathine benzylpenicllin is considered long acting B-lactam antibiotic.
+4. Indication:  For the treatment of several infections include: acute glomerulonephritis, respiratory tract infections, rheumatic fever and chorea, rheumatic heart disease, rheumatic heart disease, syphilis and other venereal diseases.
+DrugId:  17
+1. Name:  Salmonella typhi ty21a live antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty21a live antigen is a live attenuated vaccine for oral administration only. It contains the attenuated strain Salmonella typhi Ty21a. The vaccine prevents the development of typhoid fever, an acute, febrile enteric disease caused by Salmonella typhi by inducing a local immune response in the intestinal tract.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Naproxen
+2. Groups:  Approved, Vet approved
+3. Description:  An anti-inflammatory agent with analgesic and antipyretic properties. Both the acid and its sodium salt are used in the treatment of rheumatoid arthritis and other rheumatic or musculoskeletal disorders, dysmenorrhea, and acute gout.
+4. Indication:  For the treatment of rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, tendinitis, bursitis, and acute gout. Also for the relief of mild to moderate pain and the treatment of primary dysmenorrhea.
+DrugId:  20
+1. Name:  Brompheniramine
+2. Groups:  Approved
+3. Description:  Histamine H1 antagonist used in treatment of allergies, rhinitis, and urticaria. [PubChem]
+4. Indication:  For the treatment of the symptoms of the common cold and allergic rhinitis, such as runny nose, itchy eyes, watery eyes, and sneezing.
+DrugId:  21
+1. Name:  Meloxicam
+2. Groups:  Approved, Vet approved
+3. Description:  Meloxicam is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve the symptoms of arthritis, primary dysmenorrhea, fever; and as an analgesic, especially where there is an inflammatory component. It is closely related to piroxicam. In Europe it is marketed under the brand names Movalis, Melox, and Recoxa. In North America it is generally marketed under the brand name Mobic. In Latin America, the drug is marketed as Tenaron. [Wikipedia]
+4. Indication:  For symptomatic treatment of arthritis and osteoarthritis.
+DrugId:  22
+1. Name:  Ketoprofen
+2. Groups:  Approved, Vet approved
+3. Description:  Ketoprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties. 
+4. Indication:  For symptomatic treatment of acute and chronic rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, primary dysmenorrhea and mild to moderate pain associated with musculotendinous trauma (sprains and strains), postoperative (including dental surgery) or postpartum pain.
+DrugId:  23
+1. Name:  Docosanol
+2. Groups:  Approved, Investigational
+3. Description:  Docosanol is a drug used for topical treatment for recurrent herpes simplex labialis episodes (episodes of cold sores or fever blisters). A saturated 22-carbon aliphatic alcohol, docosanol exhibits antiviral activity against many lipid enveloped viruses including herpes simplex virus (HSV). Docosanol inhibits fusion between the plasma membrane and the herpes simplex virus (HSV) envelope, thereby preventing viral entry into cells and subsequent viral replication.
+4. Indication:  For the topical treatment of recurrent oral-facial herpes simplex episodes (cold sores or fever blisters).
+DrugId:  24
+1. Name:  Phenylpropanolamine
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  Phenylpropanolamine has been withdrawn in Canada and the United States. In November 2000, the Food and Drug Administration (FDA) issued a public health advisory against the use of the drug.
+4. Indication:  For the treatment of nasal congestion, control of urinary incontinence, priapism and obesity.
+DrugId:  25
+1. Name:  Delavirdine
+2. Groups:  Approved
+3. Description:  A potent, non-nucleoside reverse transcriptase inhibitor with activity specific for HIV-1. [PubChem]
+4. Indication:  For the treatment of HIV-1 infection in combination with appropriate antiretroviral agents when therapy is warranted

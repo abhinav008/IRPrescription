@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Prothrombin
+2. Groups:  Approved
+3. Description:  Prothrombin Complex Concentrate (Human), is indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients receiving vitamin K antagonist therapy. Prothrombin is administered as part of a cocktail containing several coagulation factors.
+DrugId:  2
+1. Name:  Phylloquinone
+2. Groups:  Approved, Investigational
+3. Description:  Phylloquinone is often called vitamin K1. It is a fat-soluble vitamin that is stable to air and moisture but decomposes in sunlight. It is found naturally in a wide variety of green plants. Phylloquinone is also an antidote for coumatetralyl. Vitamin K is needed for the posttranslational modification of certain proteins, mostly required for blood coagulation.
+4. Indication:  For the treatment of haemorrhagic conditions in infants, antidote for coumarin anticoagulants in hypoprothrombinaemia.
+DrugId:  3
+1. Name:  Factor IX Complex (Human)
+2. Groups:  Approved, Investigational
+3. Description:  Factor IX Complex is a sterile, lyophilized concentrate composed of a number of Vitamin K-dependent clotting factors found in functioning human plasma. Also known as prothrombin complex concentrate, products containing this complex often include Factor IX (antihemophilic factor B), Factor II (prothrombin), Factor X (Stuart-Prower Factor), and low levels of Factor VII (proconvertin) derived from human plasma. Many commercially available products also contain low levels of other antithrombotic proteins. For example, Kcentra (FDA) also contains the antithrombotic proteins C and S, while Bebulin VH (FDA) contains heparin. Coagulation factors are purified from pooled human plasma and subsequently sterilized and treated. Although Factor IX Complex products contain many different coagulation components, Factor IX is the lead component for potency and efficacy, particularly when used for the treatment of bleeding associated with Hemophilia B (Factor IX deficiency). As the product Kcentra, Factor IX Complex is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients experiencing acute major bleeding or requiring rapid reversal of therapy.
+4. Indication:  Factor IX Complex is indicated for the prevention and control of hemorrhagic episodes in hemophilia B patients. It is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding or who require rapid reversal of therapy. 
+DrugId:  4
+1. Name:  Coagulation factor VII human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation factor VII is human serine protease type enzyme that is involved in the extrinsic coagulation cascade which results in blood clotting.
+4. Indication:  May be administered in cases of uncontrolled bleeding. Factor VII alone can be used in the treatment of congenital hemophilia A or B, acquired hemophilia, congenital factor VII deficiency, and Glanzmann's thrombasthenia. Off label use in the treatment of refractory bleeding after cardiac surgery and warfarin related intracerebral hemorrhage. Brands for human factor VII are currently only in combination with other vitamin K coagulation factors and can be used to reverse vitamin K antagonist activity in patients with acute major bleeds or for urgent surgery/invasive procedures. 
+DrugId:  5
+1. Name:  Menadione
+2. Groups:  Approved, Nutraceutical
+3. Description:  A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. [PubChem]
+4. Indication:  The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.
+DrugId:  6
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  7
+1. Name:  Coagulation Factor IX Human
+2. Groups:  Approved
+3. Description:  Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.
+4. Indication:  Factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection factor IX produced from human plasma. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.
+DrugId:  8
+1. Name:  Coagulation factor X human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation Factor X (Human), is a plasma-derived human blood coagulation factor is used by adults and children (aged 12 years and above) with hereditary Factor X deficiency. However its use is limited in the perioperative setting for the management of bleeding in major surgery in patients with moderate and severe hereditary Factor X deficiency. Coagulation Factor X is a vitamin K-dependent, liver-produced serine protease that serves as the first enzyme in the coagulation cascade to form fibrin. It is a two-chain glycoprotein with the molecular weight of approximately 59 kDa [2]. While Factor X normally circulates in the plasma as inactive molecules, the activation of Factor X is involved in both the intrinsic and extrinsic coagulation pathways. Inherited factor X deficiency is a rare autosomal recessive bleeding disorder that is estimated to occur in 1:1 000 000 individuals up to 1:500 carriers [1]. Administration of coagulation Factor X from healthy donor serves to restore and achieve effective hemostasis. Coagulation Factor X (Human) solution is approved by the FDA for intravenous injection under the market name Coagadex which contains normally 100 IU/mL of coagulation Factor X derived from healthy donors who have passed viral screening tests [FDA Label].
+4. Indication:  Indicated in adults and children (aged 12 years and above) with hereditary Factor X deficiency for on-demand treatment and control of bleeding episodes, or for perioperative management of bleeding in patients with mild hereditary Factor X deficiency [FDA Label]. 
+DrugId:  9
+1. Name:  Acenocoumarol
+2. Groups:  Approved, Investigational
+3. Description:  Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, XI and X, and interferes with coagulation. Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood. 
+4. Indication:  For the treatment and prevention of thromboembolic diseases. More specifically, it is indicated for the for the prevention of cerebral embolism, deep vein thrombosis, pulmonary embolism, thromboembolism in infarction and transient ischemic attacks. It is used for the treatment of deep vein thrombosis and myocardial infarction.
+DrugId:  10
+1. Name:  Phenprocoumon
+2. Groups:  Approved, Investigational
+3. Description:  Coumarin derivative that acts as a long acting oral anticoagulant. [PubChem]
+4. Indication:  Used for the prevention and treatment of thromboembolic disease including venous thrombosis, thromboembolism, and pulmonary embolism as well as for the prevention of ischemic stroke in patients with atrial fibrillation (AF).
+DrugId:  11
+1. Name:  Eftrenonacog alfa
+2. Groups:  Approved, Investigational
+3. Description:  Eftrenonacog alfa is a long-acting recombinant fusion protein used in the treatment of hemophilia B. It is comprised of a single molecule of human factor IX (FIX) covalently linked to the constant region (Fc) domain of human IgG1 via recombinant DNA technology in a human embryonic kidney cell line (HEK293H) [1]. The presence of the Fc domain extends the terminal half-life which confers clinical benefits of prolonged therapeutic efficacy, less frequent intravenous injections for patient convenience and improved adherence to prophylaxis. Hemophilia B is a blood disorder with an incidence of approximately once every 30,000 male births in all populations and ethnic groups [2]. It is an X-linked genetic disease caused by mutation of the gene for coagulation protein factor IX (FIX), leading to decreased levels of endogenous factor IX and increased susceptibility to recurrent bleeding episodes caused spontaneously or as a result of accidental or surgical trauma [FDA Label]. When untreated, most patients die from bleeding complications before 25 years of age [2]. Eftrenonacog alfa acts as a replacement therapy to restore the levels of factor IX and allow normal hemostasis. Eftrenonacog alfa was developed and marketed as Alprolix for intravenous injection by Biogen. It was first approved by the FDA in March 2014 and later approved by the EMA in May 2016. Eftrenonacog alfa treatment demonstrated good tolerability with no reports of inhibitor development in clinical studies [1].
+4. Indication:  Indicated for the treatment and prophylaxis of bleeding in patients of all age with haemophilia B (congenital factor IX deficiency).
+DrugId:  12
+1. Name:  Coagulation Factor IX (Recombinant)
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant Coagulation Factor IX is a purified Factor IX glycoprotein produced by recombinant DNA technology. It has a primary amino acid sequence that is identical to the Ala148 allelic form of human factor IX, and has structural and functional characteristics similar to those of endogenous factor IX. It is not derived from human blood (unlike human Factor IX complex), and is instead produced by a genetically engineered Chinese hamster ovary (CHO) cell line that secretes recombinant Factor IX into cell medium that is then processed and purified for use as a pharmaceutical agent. Recombinant Factor IX is indicated for the control and prevention of bleeding episodes in adult and pediatric patients with congenital factor IX deficiency (Hemophilia B).
+4. Indication:  For treatment of hemophilia (Christmas disease).
+DrugId:  13
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  14
+1. Name:  Vitamin C
+2. Groups:  Approved, Nutraceutical
+3. Description:  A six carbon compound related to glucose. It is found naturally in citrus fruits and many vegetables. Ascorbic acid is an essential nutrient in human diets, and necessary to maintain connective tissue and bone. Its biologically active form, vitamin C, functions as a reducing agent and coenzyme in several metabolic pathways. Vitamin C is considered an antioxidant.
+4. Indication:  Used to treat vitamin C deficiency, scurvy, delayed wound and bone healing, urine acidification, and in general as an antioxidant. It has also been suggested to be an effective antiviral agent.
+DrugId:  15
+1. Name:  Vitamin E
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A generic descriptor for all tocopherols and tocotrienols that exhibit alpha-tocopherol activity. By virtue of the phenolic hydrogen on the 2H-1-benzopyran-6-ol nucleus, these compounds exhibit varying degree of antioxidant activity, depending on the site and number of methyl groups and the type of isoprenoids.
+4. Indication:  Vitamin E, known for its antioxidant activities, is protective against cardiovascular disease and some forms of cancer and has also demonstrated immune-enhancing effects. It may be of limited benefit in some with asthma and rheumatoid arthritis. It may be helpful in some neurological diseases including Alzheimer's, some eye disorders including cataracts, and diabetes and premenstrual syndrome. It may also help protect skin from ultraviolet irradiation although claims that it reverses skin aging, enhances male fertility and exercise performance are poorly supported. It may help relieve some muscle cramps.
+DrugId:  16
+1. Name:  Anisindione
+2. Groups:  Approved
+3. Description:  Anisindione is a synthetic anticoagulant and an indanedione derivative. It prevents the formation of active procoagulation factors II, VII, IX, and X, as well as the anticoagulant proteins C and S, in the liver by inhibiting the vitamin K-mediated gamma-carboxylation of precursor proteins.
+4. Indication:  For the prophylaxis and treatment of venous thrombosis and its extension, the treatment of atrial fibrillation with embolization, the prophylaxis and treatment of pulmonary embolism, and as an adjunct in the treatment of coronary occlusion.
+DrugId:  17
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  18
+1. Name:  Dicoumarol
+2. Groups:  Approved
+3. Description:  An oral anticoagulant that interferes with the metabolism of vitamin K. It is also used in biochemical experiments as an inhibitor of reductases. [PubChem]
+4. Indication:  For decreasing blood clotting. Often used along with heparin for treatment of deep vein thrombosis.
+DrugId:  19
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  20
+1. Name:  Phenindione
+2. Groups:  Approved, Investigational
+3. Description:  An indandione that has been used as an anticoagulant. Phenindione has actions similar to warfarin, but it is now rarely employed because of its higher incidence of severe adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p234)
+4. Indication:  For the treatment of pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, mural thrombosis, and thrombophili. Also used for anticoagulant prophylaxis.
+DrugId:  21
+1. Name:  Coagulation factor VIIa Recombinant Human
+2. Groups:  Approved
+3. Description:  Recombinant human coagulation Factor VIIa (rFVIIa), intended for promoting hemostasis by activating the extrinsic pathway of the coagulation cascade. NovoSeven is a vitamin K-dependent glycoprotein consisting of 406 amino acid residues. Cloned and expressed in hamster kidney cells, the protein is catalytically active in a two-chain form.
+4. Indication:  For treatment of hemorrhagic complications in hemophilia A and B
+DrugId:  22
+1. Name:  Ascorbyl phosphate
+2. Groups:  Approved
+3. Description:  Ascorbyl phosphate is a synthetic form of Vitamin C and is found in different salt forms such as magnesium ascorbyl phosphate and sodium ascorbyl phosphate. These salts are present in cosmetic products at concentrations ranging from 0.001 % to 3% [1]. As vitamin C is susceptible to breakdown of compound and discoloration in cosmetic formulations, ascorbyl phosphate, along with other Vitamin C derivatives, acts as an active and stable precursor of vitamin C that is readily absorbed into the skin with a hydrating effect on the skin [2]. While ascorbyl phosphate salts provide a constant delivery of vitamin C into the skin, they also mediate an antioxidant action to act as a free radical scavenger and increases collagen production in vitro [2].
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Cobamamide
+2. Groups:  Approved
+3. Description:  Cobamamide is one of the active forms of vitamin B12 that is also known as adenosylcobalamin or dibencozide. This drug is available as a nutritional supplement to prevent vitamin B12 deficiency.Vitamin B12 is a collective term for these variously substituted corrinoids. The principal biochemical participants are two coenzyme forms of Vitamin B12 that are produced and activated in two separate cellular compartments: methylcobalamin in the cytosol and adenosylcobalamin in the mitochondria [7].Vitamin B12 (cyancobalamin, Cbl) has two active co-enzyme forms, methylcobalamin (MeCbl) and adenosylcobalamin (AdCbl). There has been a shift in the treatment of vitamin B12 deficiency such that MeCbl is being extensively used and promoted. This exists despite the fact that both MeCbl and AdCbl are necessary for life and have vastly different metabolic fates and functions. MeCbl is mainly involved along with folate in hematopoiesis and the growth of the brain during childhood. Deficiency of AdCbl disturbs the carbohydrate, fat and amino-acid metabolism, and therefore interferes with the formation of myelin. It is therefore important to treat vitamin B12 deficiency with a combination of MeCbl and AdCbl or hydroxocobalamin or cobalamin [8].Vitamin B12 has important physiological roles including DNA synthesis, myelin formation in the nervous system, red blood cell formation, as well as fatty acid and amino acid metabolism [2]. Please refer to the entry Cyanocobalamin for more information on this entry.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  25
+1. Name:  Tocofersolan
+2. Groups:  Approved
+3. Description:  Tocofersolan is a polyethylene glycol derivative of α-tocopherol and synthetic water-soluble version of vitamin E. Tocofersolan is an oral treatment of vitamin E deficiency due to digestive malabsorption in pediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis. It was approved by the European Medicines Agency (EMA) in June 2009 under the market name Vedrop. Tocofersolan is also used in cosmetics and pharmaceuticals as an antioxidant.
+4. Indication:  Vedrop is indicated in vitamin E deficiency due to digestive malabsorption in paediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis, from birth (full term newborns) up to 18years of age. [EMA]

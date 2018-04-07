@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Vinorelbine
+2. Groups:  Approved, Investigational
+3. Description:  Vinorelbine is an anti-mitotic chemotherapy drug that is used in the treatment of several types of malignancies, including breast cancer and non-small cell lung cancer (NSCLC) [5]. It was initially approved in the USA in 1990's for the treatment of NSCLC [13].It is a third-generation vinca alkaloid. The introduction of third-generation drugs (vinorelbine, gemcitabine, taxanes) in platinum combination improved survival of patients with advanced NSCLC, with very similar results from the various drugs. Treatment toxicities are considerable in the combination treatment setting [2].A study was done on the clearance rate of vinorelbine on individuals with various single polymorphonuclear mutations. It was found that there was 4.3-fold variation in vinorelbine clearance across the cohort, suggesting a strong influence of genetics on the clearance of this drug [7].
+4. Indication:  Vinorelbine tartrate is indicated for adults in the treatment of advanced non-small cell lung cancer (NSCLC), as a single therapy or in combination with other chemotherapeutic drugs [5].Used in relapsed or refractory Hodgkin lymphoma, in combination with other chemotherapy agents [14].For the treatment of desmoid tumor or aggressive fibromatosis, in combination with methotrexate [14].For the treatment of recurrent or metastatic squamous cell head and neck cancer [14].For the treatment of recurrent ovarian cancer [14].For the treatment of metastatic breast cancer, in patients previously treated with anthracyline and/or taxane therapy [14].For the treatment of HER2-positive, trastuzumab-resistant, advanced breast cancer in patients previously treated with a taxane, in combination with trastuzumab and everolimus [14].
+DrugId:  2
+1. Name:  Olaratumab
+2. Groups:  Approved, Investigational
+3. Description:  Olaratumab (IMC-3G3) is a fully human IgG1 monoclonal antibody with antitumor activity that selectively binds the external domain of human platelet-derived growth factor receptor (PDGFR)-α with high affinity and blocks ligand binding. It is composed of two heavy chain molecule fragments and 2 light chain fragments. Studies show that the treatment of olaratumab in combination with doxorubicin resulted in significant reduction of cancer cell proliferation and tumor growth. Olaratumab was granted accelerated approval (as Lartruvo) as initial therapy to treat adults with certain types of soft tissue sarcoma (STS) in October, 2016.
+4. Indication:  Olaratumab is indicated, in combination with doxorubicin, for the treatment of adult patients with advanced or mestastatic soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery.
+DrugId:  3
+1. Name:  Lumretuzumab
+2. Groups:  Investigational
+3. Description:  Lumretuzumab has been used in trials studying the treatment of Neoplasms, Breast Cancer, Squamous Non-Small Cell Lung Cancer, and Non-Squamous Non-Small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  CTCE-9908
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lung cancer, and sarcoma.
+DrugId:  5
+1. Name:  Platinum
+2. Groups:  Investigational
+3. Description:  Platinum is under investigation for the treatment of Metastatic Breast Cancer, Non-small Cell Lung Cancer, Gastric Large Cell Neuroendocrine Carcinoma, Colorectal Large Cell Neuroendocrine Carcinoma, and Pancreatic Large Cell Neuroendocrine Carcinoma, among others. Platinum has been investigated for the treatment and supportive care of Ovarian Cancer, Fallopian Tube Cancer, Peritoneal Primary Cancer, Non Small Cell Lung Cancer, and Primary Peritoneal Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Pazopanib
+2. Groups:  Approved
+3. Description:  Pazopanib is a small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. It is developed by GlaxoSmithKline and was FDA approved on October 19, 2009.
+4. Indication:  Treatment of advanced renal cell cancer and advanced soft tissue sarcoma (in patients previously treated with chemotherapy) 
+DrugId:  7
+1. Name:  Naptumomab Estafenatox
+2. Groups:  Investigational
+3. Description:  Naptumomab Estafenatox has been used in trials studying the treatment of Pancreatic Cancer, Renal Cell Carcinoma, and Non-Small-Cell Lung Carcinoma.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Paclitaxel
+2. Groups:  Approved, Vet approved
+3. Description:  Paclitaxel is a mitotic inhibitor used in cancer chemotherapy. It was discovered in a US National Cancer Institute program at the Research Triangle Institute in 1967 when Monroe E. Wall and Mansukh C. Wani isolated it from the bark of the Pacific yew tree, Taxus brevifolia and named it taxol. Later it was discovered that endophytic fungi in the bark synthesize paclitaxel.When it was developed commercially by Bristol-Myers Squibb (BMS), the generic name was changed to paclitaxel and the BMS compound is sold under the trademark Taxol. In this formulation, paclitaxel is dissolved in Kolliphor EL and ethanol, as a delivery agent. A newer formulation, in which paclitaxel is bound to albumin, is sold under the trademark Abraxane. [Wikipedia]
+4. Indication:  Used in the treatment of Kaposi's sarcoma and cancer of the lung, ovarian, and breast. Abraxane® is specfically indicated for the treatment of metastatic breast cancer and locally advanced or metastatic non-small cell lung cancer.
+DrugId:  9
+1. Name:  Irofulven
+2. Groups:  Investigational
+3. Description:  A novel anti-cancer compound synthesized by scientists at the University of California, San Diego more than a decade ago from toxins of the poisonous jack-o-lantern mushroom, has been granted “fast track” status by the U.S. Food and Drug Administration (FDA) after demonstrating promise against one of the most deadly cancers. MGI-114 (Irofulven) is currently being developed by MGI PHARMA, Inc., an emerging oncology-focused pharmaceutical company based in Minneapolis. Phase III clinical trials involving the drug have been underway since early 2001 at sites in the U.S. and Europe.
+4. Indication:  Investigated for use/treatment in brain cancer, breast cancer, endometrial cancer, liver cancer, lung cancer, ovarian cancer, pancreatic cancer, pediatric indications, prostate cancer, and sarcoma.
+DrugId:  10
+1. Name:  Trabectedin
+2. Groups:  Approved, Investigational
+3. Description:  Trabectedin, also referred as ET-743 during its development, is a marine derived antitumoral agent discovered in the Carribean tunicate Ecteinascidia turbinata and now produced synthetically. Trabectedin has a unique mechanism of action. It binds to the minor groove of DNA interfering with cell division and genetic transcription processes and DNA repair machinery.It is approved for use in Europe, Russia and South Korea for the treatment of advanced soft tissue sarcoma. It is also undergoing clinical trials for the treatment of breast, prostate, and paediatric sarcomas. The European Commission and the U.S. Food and Drug Administration (FDA) have granted orphan drug status to trabectedin for soft tissue sarcomas and ovarian cancer. On October 23, 2015, the FDA approved trabectedin, (as Yondelis), for the treatment of specific soft tissue sarcomas.
+4. Indication:  Indicated for treatment of advanced soft tissue sarcoma in patients refractory to or unsuitable to receive anthracycline or ifosfamide chemotherapy in Europe, Russia and South Korea. Approved for orphan drug status by the U.S. FDA for treatment of soft tissue sarcomas and ovarian cancer. Investigated for use/treatment in cancer/tumors (unspecified), gastric cancer, ovarian cancer, pediatric indications, sarcoma, and solid tumors.
+DrugId:  11
+1. Name:  Dalotuzumab
+2. Groups:  Investigational
+3. Description:  Dalotuzumab has been investigated for the treatment of Breast Cancer, Non Small Cell Lung Cancer, and Metastatic Colorectal Cancer.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Rovalpituzumab Tesirine
+2. Groups:  Investigational
+3. Description:  Rovalpituzumab Tesirine has been used in trials studying the treatment of GLIOBLASTOMA, Malignant Melanoma, Other Solid Tumors, Small Cell Lung Cancer, and Medullary Thyroid Cancer, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Emibetuzumab
+2. Groups:  Investigational
+3. Description:  Emibetuzumab has been used in trials studying the treatment of Advanced Cancer, Renal Cell Carcinoma, Hepatocellular Cancer, Gastric Adenocarcinoma, and Non-Small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Endostar
+2. Groups:  Investigational
+3. Description:  Endostar is under investigation for the treatment of Nasopharyngeal Carcinoma. Endostar has been investigated for the treatment of Non-small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Tarextumab
+2. Groups:  Investigational
+3. Description:  Tarextumab has been used in trials studying the treatment of Solid Tumors, Stage IV Pancreatic Cancer, and Stage IV Small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  EPC2407
+2. Groups:  Investigational
+3. Description:  EPC2407 is a novel small molecule vascular disruption agent and apoptosis inducer for the treatment of patients with advanced solid tumors and lymphomas. It is intended for the treatment of advanced cancer patients with solid tumors that are well vascularized. These tumorsinclude the frequently occurring cancers of the lung, gastrointestinal tract, ovaries, and breast.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  17
+1. Name:  Selumetinib
+2. Groups:  Investigational
+3. Description:  Selumetinib is under investigation for the treatment of Carcinoma, Thymic, Non-Small Cell Lung Cancer, and Carcinoma, Small Cell Lung. AZD6244 has been investigated for the treatment and basic science of Melanoma, Solid Tumours, Breast Cancer, Non Small Cell Lung Cancer, and Non Small Cell Lung Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Tecemotide
+2. Groups:  Investigational
+3. Description:  Tecemotide has been used in trials studying the treatment of Prostate Cancer and Carcinoma, Non-Small-Cell Lung.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Abexinostat
+2. Groups:  Investigational
+3. Description:  Abexinostat has been used in trials studying the treatment of Sarcoma, Lymphoma, Leukemia, Lymphocytic, and Hodgkin Disease, among others. It is a novel, broad-spectrum hydroxamic acid-based inhibitor of histone deacetylase (HDAC) with potential antineoplastic activity.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Antroquinonol
+2. Groups:  Investigational
+3. Description:  Antroquinonol has been used in trials studying the treatment of Hyperlipidemias, Non-small Cell Lung Cancer, and Non-small Cell Lung Cancer Stage IV.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Ridaforolimus
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in solid tumors, sarcoma, cancer/tumors (unspecified), endometrial cancer, prostate cancer, and bone metastases.
+DrugId:  22
+1. Name:  AE-941
+2. Groups:  Investigational
+3. Description:  AE-941 is a naturally occurring anti-angiogenic compound, extracted from cartilage, with multiple anti-angiogenic mechanisms of action that provide broad therapeutic potential for a number of diseases. It is currently in international Phase III trials for renal cell carcinoma and non-small-cell lung cancer.
+4. Indication:  Investigated for use/treatment in kidney cancer, lung cancer, macular degeneration, multiple myeloma, prostate cancer, and psoriasis and psoriatic disorders.
+DrugId:  23
+1. Name:  XL418
+2. Groups:  Investigational
+3. Description:  XL418 is a novel anticancer compound.
+4. Indication:  Cancer
+DrugId:  24
+1. Name:  Necitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Necitumumab is an intravenously administered recombinant monoclonal IgG1 antibody used in the treatment of non-small cell lung cancer (NSCLC) as an EGFR antagonist. It functions by binding to epidermal growth factor receptor (EGFR) and prevents binding of its ligands, a process that is involved in cell proliferation, metastasis, angiogenesis, and malignant progression. Binding of necitumumab to EGFR induces receptor internalization and degradation, thereby preventing further activation of EGFR which is beneficial in NSCLC as many patients have increased protein expression of EGFR. Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC).
+4. Indication:  Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC). It is not indicated for treatment of non-squamous NSCLC. 
+DrugId:  25
+1. Name:  5-(hydroxymethyl)-2-furaldehyde
+2. Groups:  Investigational
+3. Description:  Aes-103 has been used in trials studying the treatment and prevention of Hypoxia, Anemia, Sickle Cell, and Sickle Cell Disease.
+4. Indication:  Not Available

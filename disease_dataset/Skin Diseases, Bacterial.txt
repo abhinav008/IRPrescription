@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Lanopepden
+2. Groups:  Investigational
+3. Description:  Lanopepden has been used in trials studying the treatment of Pneumonia, Infections, Bacterial, Skin Diseases, Infectious, and Skin Infections, Bacterial.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Radezolid
+2. Groups:  Investigational
+3. Description:  Radezolid has been used in trials studying the treatment of Abscess, Bacterial Skin Diseases, Streptococcal Infections, Infectious Skin Diseases, and Staphylococcal Skin Infections, among others.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Delafloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Delafloxacin is a fluoroquinolone antibiotic which has been used in trials studying the treatment and basic science of Gonorrhea, Hepatic Impairment, Bacterial Skin Diseases, Skin Structure Infections, and Community Acquired Pneumonia, among others. It was approved in June 2017 under the trade name Baxdela for use in the treatment of acute bacterial skin and skin structure infections.
+4. Indication:  Delafloxacin is indicated for the treatment of acute bacterial skin and skin structure infections caused by the Gram-positive organisms Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates), Staphylococcus haemolyticus, Staphylococcus lugdunensis, Streptococcus agalactiae, Streptococcus anginosus Group (including Streptococcus anginosus, Streptococcus intermedius, and Streptococcus constellatus), Streptococcus pyogenes, and Enterococcus faecalis as well as the Gram-negative organisms Escherichia coli, Enterobacter cloacae, Klebsiella pneumoniae, and Pseudomonas aeruginosa [FDA Label].
+DrugId:  5
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  7
+1. Name:  Secukinumab
+2. Groups:  Approved
+3. Description:  Secukinumab (Cosentyx) is a human monoclonal antibody designed for the treatment of uveitis, rheumatoid arthritis, ankylosing spondylitis, and psoriasis. Secukinumab is an interleukin-17A (IL-17A) inhibitor marketed by Novartis. IL-17 is a group of proinflammatory cytokines released by cells of the immune system and and exist in higher levels in many immune conditions associated with chronic inflammation. By targeting IL-17A, secukinumab has shown excellent efficacy in psoriasis by normalizing skin histology and was approved by the United States Food and Drug Administration on January 21, 2015 to treat adults with moderate-to-severe plaque psoriasis. 
+4. Indication:  For the treatment of moderate to severe plaque psoriasis in patients that are candidates for systemic therapy or phototherapy. 
+DrugId:  8
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Ethanol
+2. Groups:  Approved
+3. Description:  A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+4. Indication:  For therapeutic neurolysis of nerves or ganglia for the relief of intractable chronic pain in such conditions as inoperable cancer and trigeminal neuralgia (tic douloureux), in patients for whom neurosurgical procedures are contraindicated.
+DrugId:  10
+1. Name:  Sulfapyridine
+2. Groups:  Approved
+3. Description:  Antibacterial, potentially toxic, and previously used to treat certain skin diseases. No longer prescribed. 
+4. Indication:  For the treatment of dermatitis herpetiformis, benign mucous membrane pemphigoid and pyoderma gangrenosum
+DrugId:  11
+1. Name:  Triclosan
+2. Groups:  Approved, Investigational
+3. Description:  An aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes. [ChEBI]
+4. Indication:  Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers. It is also used in health care settings in surgical scrubs and personnel hand washes.
+DrugId:  12
+1. Name:  Immune Globulin Human
+2. Groups:  Approved, Investigational
+3. Description:  Intravenous immunoglobulin (IVIg) is a mixture of IgG1 and other antibodies derived from healthy human plasma via Cohn fractionation. The purification process includes cold alcohol fractionation, polyethylene glycol precipitation, and ion exchange chromatography. IVIg contains the same distribution of IgG antibody subclasses as is found in the general human population. IgG subclasses are fully represented in the following proportions: 70.3% IgG1, 24.7% IgG2, 3.1% IgG3, and 1.9% IgG4. IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders.
+4. Indication:  IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders. These indications includes idiopathic thrombocytopenic purpura, Kawasaki disease, hypogammaglobulinemia, B cell chronic lymphocytic leukemia, bone marrow transplant complications, Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy (CIDP), multiple sclerosis, rheumatoid arthritis, myesthenia gravis, Wiskott–Aldrich syndrome and inflammatory skin diseases.
+DrugId:  13
+1. Name:  BI-K0376
+2. Groups:  Investigational
+3. Description:  BI-K0376 is investigated for use/treatment in acne. BI-K0376 is a solid. It is under investigation by Pfizer and has gone through phase I of the clinical trails.
+4. Indication:  Investigated for use/treatment in acne.
+DrugId:  14
+1. Name:  Ceftazidime
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibacterial derived from cephaloridine and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+4. Indication:  For the treatment of patients with infections caused by susceptible strains of organisms in the following diseases: lower respiratory tract infections,skin and skin structure infections, urinary tract infections, bacterial septicemia, bone and joint infections, gynecologic infections, intra abdominal infections (including peritonitis), and central nervous system infections (including meningitis).
+DrugId:  15
+1. Name:  Erythromycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Erythromycin is a macrolide antibiotic produced by Saccharopolyspora erythraea (formerly Streptomyces erythraeus). It inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits; binding inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins. Erythromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For use in the treatment of infections caused by susceptible strains of microorganisms in the following diseases: respiratory tract infections (upper and lower) of mild to moderate degree, pertussis (whooping cough), as adjunct to antitoxin in infections due to Corynebacterium diphtheriae, in the treatment of infections due to Corynebacterium minutissimum, intestinal amebiasis caused by Entamoeba histolytica, acute pelvic inflammatory disease caused by Neisseria gonorrhoeae, skin and soft tissue infections of mild to moderate severity caused by Streptococcus pyogenes and Staphylococcus aureus, primary syphilis caused by Treponema pallidum, infections caused by Chlamydia trachomatis, nongonococcal urethritis caused by Ureaplasma urealyticum, and Legionnaires' disease caused by Legionella pneumophila.
+DrugId:  16
+1. Name:  Benzethonium
+2. Groups:  Approved
+3. Description:  Benzethonium is a synthetic quaternary ammonium salt with surfactant, antiseptic, and broad spectrum antimicrobial properties. Its salt form, benzethonium chloride, is primarily used as a skin disinfectant at concentrations of 0.1-0.2 %, which are safe and effective concentrations for the compound specified by the U.S. Food and Drug Administration (FDA). It is additionally found in cosmetics and toiletries such as mouthwashes and anti-itch ointments. It is shown to be effective in mediating its antimicrobial action against bacteria, fungi, mold and viruses. There is evidence that benzethonium acts as a spermatocide but may cause vaginal irritation [2]. Benzethonium was identified as a novel cancer-specific compound by cell-based small-molecule screen [1].
+4. Indication:  Indicated as an antiseptic agent. No therapeutic indications for clinical use. 
+DrugId:  17
+1. Name:  Meningococcal group A polysaccharide
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group A polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup A. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup A.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Meningococcal group C polysaccharide
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group C polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup C. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup C.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  20
+1. Name:  Triclocarban
+2. Groups:  Approved
+3. Description:  Triclocarban is an antibacterial agent that is particularly effective against Gram positive bacteria such as Staphylococcus aureus. It is a bacteriostatic compound that has been found in antibacterial soaps and other personal care products. In September 2016, the US FDA prohibited the marketing of over-the-counter (OTC) consumer antiseptic wash products containing triclocarban due to negative health effects such as bacterial resistance or hormonal effects.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Povidone-iodine
+2. Groups:  Approved
+3. Description:  Povidone-iodine is a stable chemical complex of polyvinylpyrrolidone (povidone, PVP) and elemental iodine. It contains from 9.0% to 12.0% available iodine, calculated on a dry basis. This unique complex was discovered in 1955 at the Industrial Toxicology Laboratories in Philadelphia by H. A. Shelanski and M. V. Shelanski. They carried out tests in vitro to demonstrate anti-bacterial activity, and found that the complex was less toxic in mice than tincture of iodine. Human clinical trials showed the product to be superior to other iodine formulations. Povidone-iodine was immediately marketed, and has since become the universally preferred iodine antiseptic.
+4. Indication:  For topical application in the treatment and prevention of infection in wounds.
+DrugId:  22
+1. Name:  Ifetroban
+2. Groups:  Investigational
+3. Description:  Ifetroban has been used in trials studying the treatment of Skin Diseases, Autoimmune Diseases, Pathologic Processes, Scleroderma, Limited, and Scleroderma, Diffuse, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Dalbavancin
+2. Groups:  Approved, Investigational
+3. Description:  Dalbavancin is a second-generation lipoglycopeptide antibiotic that was designed to improve on the natural glycopeptides currently available, such as vancomycin and teicoplanin. Modifications from these older glycoprotein classes allowed a similar mechanism of action with increased activity and once weekly dosing. Its use is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) caused by the following gram-positive microorganisms: Staphylococcus aureus (including methicillin-susceptible and methicillin-resistant strains), S. pyogenes, S. agalactiae, and S. anginosus group (including S. anginosus, S. intermedius, and S. constellatus). Dalbavancin acts by interfering with cell wall synthesis by binding to the D-alanyl-D-alanine terminus of nascent cell wall peptidoglycan and preventing cross-linking.
+4. Indication:  Dalbavancin is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) caused by the following gram-positive microorganisms: Staphylococcus aureus (including methicillin-susceptible and methicillin-resistant strains), S. pyogenes, S. agalactiae, and S. anginosus group (including S. anginosus, S. intermedius, and S. constellatus). It is administered as a 30 minute IV infusion in a two-dose regimen of 1000 mg followed by 500 mg one week later.
+DrugId:  24
+1. Name:  AFN-1252
+2. Groups:  Investigational
+3. Description:  AFN-1252 has been used in trials studying the treatment of Cellulitis, Burn Infection, Wound Infection, Cutaneous Abscess, and Skin and Subcutaneous Tissue Bacterial Infections.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Iclaprim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, obesity, liver disease, kidney disease, and pneumonia.

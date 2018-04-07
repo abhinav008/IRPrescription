@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Naratriptan
+2. Groups:  Approved, Investigational
+3. Description:  Naratriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  2
+1. Name:  Rizatriptan
+2. Groups:  Approved
+3. Description:  Rizatriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For treatment of acute migraine attacks with or without aura.
+DrugId:  3
+1. Name:  Lesopitron
+2. Groups:  Investigational
+3. Description:  Lesopitron is an anxiolytic with pre- and post-synaptic 5-HT1A agonist activity, which is under development by Esteve.
+4. Indication:  Intended for the treatment of anxiety disorders.
+DrugId:  4
+1. Name:  Anthrax immune globulin human
+2. Groups:  Approved
+3. Description:  Anthrax immune globulin is a human immune globulin that is used in combination with antibiotics to treat anthrax. It is derived from the plasma of humans immunized with BioThrax (adsorbed anthrax vaccine), which is then further purified. Available as the product Anthrasil (FDA), the result is a solution for slow IV infusion containing polyclonal antibodies that bind the protective antigen (PA) component of Bacillus anthracis lethal and edema toxins. This binding of antibody to PA prevents PA-mediated cellular entry of toxic factors. It is administered in combination with appropriate antibiotic therapy as the immunoglobulin itself is not known to have direct antibacterial activity against anthrax bacteria, which otherwise may continue to grow and produce anthrax toxins.
+4. Indication:  Anthrax immune globulin is indicated for the treatment of inhalational anthrax in adult and pediatric patients in combination with appropriate antibacterial drugs.
+DrugId:  5
+1. Name:  Caffeine
+2. Groups:  Approved
+3. Description:  A methylxanthine naturally occurring in some beverages and also used as a pharmacological agent. Caffeine's most notable pharmacological effect is as a central nervous system stimulant, increasing alertness and producing agitation. It also relaxes smooth muscle, stimulates cardiac muscle, stimulates diuresis, and appears to be useful in the treatment of some types of headache. Several cellular actions of caffeine have been observed, but it is not entirely clear how each contributes to its pharmacological profile. Among the most important are inhibition of cyclic nucleotide phosphodiesterases, antagonism of adenosine receptors, and modulation of intracellular calcium handling.
+4. Indication:  For management of fatigue, orthostatic hypotension, and for the short term treatment of apnea of prematurity in infants.
+DrugId:  6
+1. Name:  Mepenzolate
+2. Groups:  Approved
+3. Description:  Mepenzolate is a post-ganglionic parasympathetic inhibitor. It decreases gastric acid and pepsin secretion and suppresses spontaneous contractions of the colon. Mepenzolate diminishes gastric acid and pepsin secretion. Mepenzolate also suppresses spontaneous contractions of the colon. Pharmacologically, it is a post-ganglionic parasympathetic inhibitor. It has not been shown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+4. Indication:  For use as adjunctive therapy in the treatment of peptic ulcer. It has not beenshown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+DrugId:  7
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.
+DrugId:  8
+1. Name:  Flutemetamol (18F)
+2. Groups:  Approved, Investigational
+3. Description:  Flutemetamol (18F) is a PET scanning radiopharmaceutical containing the radionuclide fluorine-18. It is indicated for Positron Emission Tomography (PET) imaging of the brain to estimate β amyloid neuritic plaque density in adult patients with cognitive impairment who are being evaluated for Alzheimer's disease (AD) or other causes of cognitive decline.
+4. Indication:  Flutemetamol F18 is indicated for Positron Emission Tomography (PET) imaging of the brain to estimate β amyloid neuritic plaque density in adult patients with cognitive impairment who are being evaluated for Alzheimer's disease (AD) or other causes of cognitive decline. 
+DrugId:  9
+1. Name:  Dexketoprofen
+2. Groups:  Approved, Investigational
+3. Description:  Dexketoprofen is a non-steroidal anti-inflammatory drug. It is available in the various countries in Europe, Asia and Latin America. It has analgesic, antipyretic and anti-inflammatory properties [2].
+4. Indication:  For short-term treatment of mild to moderate pain, including dysmenorrhoea, musculoskeletal pain and toothache [6]. 
+DrugId:  10
+1. Name:  Tetrafluoroaluminate Ion
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Milnacipran
+2. Groups:  Approved, Investigational
+3. Description:  Milnacipran is an antidepressant of the serotonin-norepinephrine reuptake inhibitor class. It more potently inhibits norepinephrine uptake than serotonin. It is provided as a racemic mixture. FDA approved in January 2009. 
+4. Indication:  Milnacipran is used to treat moderate to severe clinical depression but this indication is not yet FDA-approved in the USA. Milnacipran is labelled for the treatment of fibromyalgia pain. 
+DrugId:  12
+1. Name:  Gadoteric acid
+2. Groups:  Approved
+3. Description:  Gadoteric acid is a macrocycle-structured gadolinium-based MRI contrast agent. It is composed of the organic acid DOTA (1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid) used for its chelating properties, and gadolinium (Gd3+). As a paramagnetic molecule, gadoterate develops a magnetic moment when placed in a magnetic field. This magnetic moment enhances the relaxation rates of water protons in its vicinity, leading to an increase in signal intensity (brightness) of tissues. More specifically, it reduces the T1 relaxation time (and to some extent the T2 and T2* relaxation times) in NMR, which is the source of its clinical utility. Increased signal brightness allows it to be used in imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become 'leaky'. Gadoteric acid, as the FDA approved product Dotarem, is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+4. Indication:  Gadoteric acid is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+DrugId:  13
+1. Name:  Risedronate
+2. Groups:  Approved, Investigational
+3. Description:  Risedronate is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat Paget's disease of bone.
+4. Indication:  For the treatment of Paget's disease of the bone (osteitis deformans), postmenopausal and glucocorticoid-induced osteoporosis
+DrugId:  14
+1. Name:  Cyproheptadine
+2. Groups:  Approved
+3. Description:  A serotonin antagonist and a histamine H1 blocker used as antipruritic, appetite stimulant, antiallergic, and for the post-gastrectomy dumping syndrome, etc. [PubChem]
+4. Indication:  For treatment of perennial and seasonal allergic rhinitis, vasomotor rhinitis, allergic conjunctivitis due to inhalant allergens and foods, mild uncomplicated allergic skin manifestations of urticaria and angioedema, amelioration of allergic reactions to blood or plasma, cold urticaria, dermatographism, and as therapy for anaphylactic reactions adjunctive to epinephrine.
+DrugId:  15
+1. Name:  Lidocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic and cardiac depressant used as an antiarrhythmia agent. Its actions are more intense and its effects more prolonged than those of procaine but its duration of action is shorter than that of bupivacaine or prilocaine. [PubChem]
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  16
+1. Name:  Methylergometrine
+2. Groups:  Approved
+3. Description:  A homolog of ergonovine containing one more CH2 group. (Merck Index, 11th ed)
+4. Indication:  For the prevention and control of excessive bleeding following vaginal childbirth
+DrugId:  17
+1. Name:  Quercus stellata pollen
+2. Groups:  Approved
+3. Description:  Quercus stellata pollen is the pollen of the Quercus stellata plant. Quercus stellata pollen is mainly used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Clomipramine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Clomipramine, the 3-chloro analog of imipramine, is a dibenzazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, clomipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, clomipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as clomipramine, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Clomipramine may be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder). Unlabeled indications include panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy, autistic disorder, trichotillomania, onchophagia, stuttering, premature ejaculation, and premenstrual syndrome. Clomipramine is rapidly absorbed from the gastrointestinal tract and demethylated in the liver to its primary active metabolite, desmethylclomipramine.
+4. Indication:  May be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder).Unlabeled indications include: depression, panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy (limited evidence), autistic disorder (limited evidence), trichotillomania (limited evidence), onchophagia (limited evidence), stuttering (limited evidence), premature ejaculation, and premenstrual syndrome. 
+DrugId:  19
+1. Name:  Indium In-111
+2. Groups:  Investigational
+3. Description:  Indium In-111 is under investigation in clinical trial NCT00493454 (Ibritumomab Tiuxetan for Treatment of Non-Follicular CD20+ Indolent Lymphomas).
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Dihydrocodeine
+2. Groups:  Approved, Illicit
+3. Description:  Dihydrocodeine is an opioid analgesic used as an alternative or adjunct to codeine to treat moderate to severe pain, severe dyspnea, and cough. It is semi-synthetic, and was developed in Germany in 1908 during an international search to find a more effective antitussive agent to help reduce the spread of airborne infectious diseases such as tuburculosis. It was marketed in 1911. [Wikipedia]
+4. Indication:  Dihydrocodeine is used for the treatment of moderate to severe pain, including post-operative and dental pain [2]. It can also be used to treat chronic pain [1], breathlessness and coughing. In heroin addicts, dihydrocodeine has been used as a substitute drug, in doses up to 2500mg/day to treat addiction. [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014322/]
+DrugId:  21
+1. Name:  Florbetapir (18F)
+2. Groups:  Approved, Investigational
+3. Description:  Florbetapir (18F) is a radiopharmaceutical compound containing the radionuclide fluorine-18 bound to the compound florbetapir, a molecule that binds with high affinity to beta amyloid plaque, a peptide that plays a key role in Alzheimer's Disease pathogenesis. Marketed as the product Amyvid, florbetapir 18F is indicated for positron emission tomography (PET) imaging of the brain to estimate β-amyloid neuritic plaque density in adult patients with cognitive impairment who are being evaluated for Alzheimer's Disease (AD) and other causes of cognitive decline. The radionucleide fluorine-18 was chosen as it has a half life of 110 minutes allowing it to accumulate sufficiently in the brain before undergoing positon emission decay.
+4. Indication:  Florbetapir 18F is indicated for Positron Emission Tomography (PET) imaging of the brain to estimate β-amyloid neuritic plaque density in adult patients with cognitive impairment who are being evaluated for Alzheimer's Disease (AD) and other causes of cognitive decline.
+DrugId:  22
+1. Name:  Protriptyline
+2. Groups:  Approved
+3. Description:  Protriptyline hydrochloride is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, protriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, protriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. In addition, TCAs down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Protriptyline may be used for the treatment of depression. 
+4. Indication:  For the treatment of depression. 
+DrugId:  23
+1. Name:  Sertraline
+2. Groups:  Approved
+3. Description:  Sertraline hydrochloride belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). Despite distinct structural differences between compounds in this class, SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be required before a clinical effect is seen. SSRIs are potent inhibitors of neuronal serotonin reuptake [7]. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute use, SSRIs block serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The overall clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction and headache (see Toxicity section below for a more detailed listing of side effects). Compared to other agents in this class, sertraline may cause greater diarrheal and male sexual dysfunction effects [5]. Sertraline displays a better safety or tolerability profile than other classes of antidepressants [6]. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants or monoamine oxidase inhibitors [7]. Sertraline has shown therapeutic effectiveness as a treatment for major depressive disorder [1], obsessive-compulsive disorder (OCD) [2], panic disorder, post-traumatic stress disorder (PTSD) [3], premenstrual dysphoric disorder (PMDD) [4] and social anxiety disorder (social phobia).
+4. Indication:  For the management of major depressive disorder (MDD), posttraumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (PD) with or without agoraphobia, premenstrual dysphoric disorder (PMDD), and social anxiety disorder (SAD) [FDA Label]. It may be used for premature ejaculation and vascular headaches as off-label indications. 
+DrugId:  24
+1. Name:  Amitriptyline
+2. Groups:  Approved
+3. Description:  Amitriptyline hydrochloride is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA) and analgesic. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, amitriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, amitriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. Amitriptyline may be used to treat depression, chronic pain (unlabeled use), irritable bowel syndrome (unlabeled use), diabetic neuropathy (unlabeled use), post-traumatic stress disorder (unlabeled use), and for migraine prophylaxis (unlabeled use).
+4. Indication:  Indicated for the treatment of major depressive disorder in adultsIndicated for the management of neuropathic pain in adultsIndicated for the prophylactic treatment of chronic tension type headache (CTTH) in adultsIndicated for the prophylactic treatment of migraine in adultsIndicated for the the treatment of nocturnal enuresis in children aged 6 years and above when organic pathology, including spina bifida and related disorders, have been excluded and no response has been achieved to all other non-drug and drug treatments, including antispasmodics and vasopressin-related products. This medicinal product should only be prescribed by a healthcare professional with expertise in the management of persistent enuresis.-Other off-label uses include irritable bowel syndrome, sleep disorders, diabetic neuropathy, agitation and insomnia
+DrugId:  25
+1. Name:  Montmorillonite
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available

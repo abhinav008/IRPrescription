@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  APD668
+2. Groups:  Investigational
+3. Description:  APD668 is a novel, highly potent and orally active glucose-dependent insulinotropic receptor (GDIR) agonist intended to more efficiently stimulate insulin release by beta cells in response to elevated blood glucose levels, and to also avoid hypoglycemia. 
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  2
+1. Name:  WL-1002
+2. Groups:  Investigational
+3. Description:  WL-1002 is developed by Winston Laboratories which is a topical cream formulation of 075% zucapaicin (also known as civamide), for the treatment of pain due to osteoarthritis.
+4. Indication:  Investigated for use/treatment in osteoarthritis and pain (acute or chronic).
+DrugId:  3
+1. Name:  Insulin Lispro
+2. Groups:  Approved
+3. Description:  Insulin lispro is a recombinant human insulin analogue produced in a specialized laboratory strain of Escherischia coli. Plasmid DNA transfected into the bacteria encodes for an analogue of human insulin that has a lysine at residuce B28 and proline at B29; these residues are reversed in endogenous human insulin. Reversal of these amino acid residues produces a rapid-acting insulin analogue. FDA approved on 1996.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. To be used in conjunction with an intermediate or long-acting insulin except when used in a continuous insulin infusion pump. 
+DrugId:  4
+1. Name:  Insulin Glargine
+2. Groups:  Approved
+3. Description:  Insulin glargine is produced by recombinant DNA technology using a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism. It is an analogue of human insulin made by replacing the asparagine residue at position A21 of the A-chain with glycine and adding two arginines to the C-terminus (positions B31 and 32) of the B-chain. The resulting protein is soluble at pH 4 and forms microprecipitates at physiological pH 7.4. Small amounts of insulin glargine are slowly released from microprecipitates giving the drug a long duration of action (up to 24 hours) and no pronounced peak concentration. 
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus in patients over 17 years old who require a long-acting (basal) insulin for the control of hyperglycemia. May be used in pediatric patients with Type 1 diabetes mellitus who require a long-acting (basal) insulin for glycemic control. 
+DrugId:  5
+1. Name:  Metformin
+2. Groups:  Approved
+3. Description:  Metformin is a biguanide antihyperglycemic agent used for treating non-insulin-dependent diabetes mellitus (NIDDM). It improves glycemic control by decreasing hepatic glucose production, decreasing glucose absorption and increasing insulin-mediated glucose uptake. Metformin may induce weight loss and is the drug of choice for obese NIDDM patients. Use of metformin is associated with modest weight loss. When used alone, metformin does not cause hypoglycemia; however, it may potentiate the hypoglycemic effects of sulfonylureas and insulin. Its main side effects are dyspepsia, nausea and diarrhea. Dose titration and/or use of smaller divided doses may decrease side effects. Metformin should be avoided in those with severely compromised renal function (creatinine clearance < 30 ml/min), acute/decompensated heart failure, severe liver disease and for 48 hours after the use of iodinated contrast dyes due to the risk of lactic acidosis. Lower doses should be used in the elderly and those with decreased renal function. Metformin decreases fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Metformin may also have a positive effect on lipid levels. In 2012, a combination tablet of linagliptin plus metformin hydrochloride was marketed under the name Jentadueto for use in patients when treatment with both linagliptin and metformin is appropriate.
+4. Indication:  For use as an adjunct to diet and exercise in adult patients (18 years and older) with NIDDM. May also be used for the management of metabolic and reproductive abnormalities associated with polycystic ovary syndrome (PCOS). Jentadueto is for the treatment of patients when both linagliptin and metformin is appropriate.
+DrugId:  6
+1. Name:  Insulin Aspart
+2. Groups:  Approved
+3. Description:  Insulin aspart is a recombinant, biosynthetic, fast-acting insulin analogue. It has a single amino acid substitution at position B28 where proline is replaced with aspartic acid. This substitution decreases its propensity to form hexamers and gives it a higher rate of absorption following subcutaneous administration compared to native insulin. Insulin aspart is produced in a genetically modified strain of Saccharomyces cerevisiae and harvested from a bioreactor.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. Should normally be used in conjunction with an intermediate or long-acting insulin. 
+DrugId:  7
+1. Name:  Atecegatran metoxil
+2. Groups:  Investigational
+3. Description:  Atecegatran metoxil has been used in trials studying the basic science and prevention of Nonvalvular Atrial Fibrillation, Persistent or Permanent Nonvalvular Atrial Fibrillation, and Persistent or Permanent Non-valvular Atrial Fibrillation.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Stiripentol
+2. Groups:  Approved
+3. Description:  Stiripentol is an anticonvulsant drug used in the treatment of epilepsy as an adjunct therapy along with Clobazam and Valproic Acid. Unrelated to other anticonvulsants, stitipentol belongs to the group of aromatic allylic alcohols and may potentiate the effect of other antiepileptic drugs (AEDs) due to pharmacokinetic interactions. It elevates the levels of gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter that regulates electrical activity in the central nervous system. Use of stiripentol is approved for infants with Dravet syndrome, or Severe Myoclonic Epilepsy in Infancy (SMEI) that commonly occurs at the first year of life. Stiripentol is not FDA-approved but approved in Canada and European countries as oral tablets marketed as Diacomit.
+4. Indication:  Indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet’s syndrome) whose seizures are not adequately controlled with clobazam and valproate.
+DrugId:  9
+1. Name:  CCX282
+2. Groups:  Investigational
+3. Description:  CCX282, is a novel, orally active anti-inflammatory agent that targets a chemokine receptor protein implicated in both Crohn's disease and ulcerative colitis, the two principal forms of IBD.
+4. Indication:  Investigated for use/treatment in crohn's disease, inflammatory bowel disease, and ulcerative colitis.
+DrugId:  10
+1. Name:  Tolazoline
+2. Groups:  Approved, Vet approved
+3. Description:  A vasodilator that apparently has direct actions on blood vessels and also increases cardiac output. Tolazoline can interact to some degree with histamine, adrenergic, and cholinergic receptors, but the mechanisms of its therapeutic effects are not clear. It is used in treatment of persistent pulmonary hypertension of the newborn. [PubChem]
+4. Indication:  For the treatment of pulmonary artery anomalies
+DrugId:  11
+1. Name:  Iodine povacrylex
+2. Groups:  Approved
+3. Description:  Iodine povacrylex (DuraPrep) is a surgical solution, film-forming iodophor complex that provides fast acting, persistent, broad-spectrum antimicrobial activity. DuraPrep solution is indicated for use as a patient preoperative skin preparation, for the preparation of the skin prior to surgery and to help reduce bacteriathat can potentially cause skin infection.It is broad spectrum antispectic and can provide almost 99.9% antispectic conditions.It is intended for local use only. Prolonged skin exposure could cause skin defatting manifested by the following signs/symptoms; localized redness, itching, drying and cracking of skin.
+4. Indication:  Antispetic and germicidal agent. It is indicated for use as a patient preoperative skin preparation, for the preparation of the skin prior to surgery and to help reduce bacteria that can potentially cause skin infection.
+DrugId:  12
+1. Name:  Insulin Glulisine
+2. Groups:  Approved
+3. Description:  Insulin glulisine is a biosynthetic, rapid-acting human insulin analogue produced in a non-pathogenic laboratory strain of Escherichia coli (K12). This recombinant hormone differs from native human insulin in that the amino acid arginine at position B3 is replaced by lysine and the lysine at position B29 is replaced by glutamic acid. These structural modifications decrease hexamer formation, stabilize insulin glulisine monomers and increase the rate of absorption and onset of action compared to human insulin. 
+4. Indication:  For the treatment of Type 1 and 2 diabetes mellitus. Should be used in regimens including a long-acting or basal insulin analogue unless it is used in a continuous infusion pump. May be used with oral antidiabetic agents. 
+DrugId:  13
+1. Name:  Insulin Detemir
+2. Groups:  Approved
+3. Description:  Insulin detemir is a long-acting human insulin analogue used to maintain basal levels of insulin in diabetic individuals. It is produced using recombinant DNA technology in yeast cells. This insulin analogue has a 14-C fatty acid, myristic acid, bound to the lysine amino acid at position B29. The myristoyl side chain increases self-association and albumin binding. This along with slow systemic absorption from the injection site prolongs distribution of the hormone into tissues and results in a long duration of action. Novo Nordisk markets insulin detemir under the trade name Levemir.
+4. Indication:  For the treatment of type 1 or 2 diabetes mellitus. May be used in combination with oral anti-diabetic agents in type 2 diabetic patients who are not in adequate metabolic control with oral anti-diabetic agents alone. 
+DrugId:  14
+1. Name:  CMLVAX100
+2. Groups:  Investigational
+3. Description:  CMLVAX100 is a vaccine targeting the BCR-ABL-derived p210 fusion protein which reduces residual disease in some patients with chronic myeloid leukemia. It is developed by Breakthrough Therapeutics and has completed phase I of its clinical trial.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid).
+DrugId:  15
+1. Name:  Glucagon recombinant
+2. Groups:  Approved
+3. Description:  29 residue peptide hormone. Glucagon is synthesized in a special non- pathogenic laboratory strain of Escherichia coli bacteria that has been genetically altered by the addition of the gene for glucagons
+4. Indication:  For treatment of severe hypoglycemia, also used in gastrointestinal imaging
+DrugId:  16
+1. Name:  Gliclazide
+2. Groups:  Approved
+3. Description:  Gliclazide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating β cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic β cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Gliclazide has been shown to decrease fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels (reflective of the last 8-10 weeks of glucose control). Gliclazide is extensively metabolized by the liver; its metabolites are excreted in both urine (60-70%) and feces (10-20%).
+4. Indication:  For the treatment of NIDDM in conjunction with diet and exercise. 
+DrugId:  17
+1. Name:  Vestronidase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Vestronidase alfa, or vestronidase alfa-vjbk, is a recombinant human lysosomal beta glucuronidase that is a purified enzyme produced by recombinant DNA technology in a Chinese hamster ovary cell line. The enzyme is a homotetramer consisted of 4 monomers with 629 amino acids, and holds the same amino acid sequence as human beta-glucuronidase (GUS) [FDA Label]. Vestronidase alfa is an enzyme replacement therapy for the treatment of mucopolysaccharidosis type VII (MPS VII), also known as Sly syndrome, which is an inherited, rare genetic metabolic condition that targets a small subset of population. MPS VII is a progressive condition that affects most tissues and organs due to the lack of a lysosomal enzyme called beta-glucuronidase, leading to buildup of toxic metabolites. The disorder is initiated with skeletal abnormalities, including short stature, along with other pathological conditions including enlarged liver and spleen, heart valve abnormalities, and narrowed airways which can lead to lung infections and trouble breathing. Last two conditions are leading causes of fatalities in patients with MPS VII. Some affected individuals do not survive infancy, while others may live into adolescence or adulthood and patients may experience developmental delay and progressive intellectual disability [FDA Label]. In clinical trials, vestronidase alfa treatment demonstrated improvement and stabilization in motor symptoms by increasing the patients' ability to walk longer distances in comparison to treatment with placebo . Few patients also experienced improved pulmonary function. Vestronidase alfa was FDA-approved on November 17th, 2017 under the trade name Mepsevii as an intravenous infusion for the treatment of pediatric and adult patients.
+4. Indication:  Indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome).
+DrugId:  18
+1. Name:  Guanidine
+2. Groups:  Approved
+3. Description:  A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC. [PubChem]
+4. Indication:  For the reduction of the symptoms of muscle weakness and easy fatigability associated with the myasthenic syndrome of Eaton-Lambert. It is not indicated for treating myasthenia gravis.
+DrugId:  19
+1. Name:  Nebivolol
+2. Groups:  Approved, Investigational
+3. Description:  Nebivolol is a highly cardioselective vasodilatory beta1 receptor blocker used in treatment of hypertension. In most countries, this medication is available only by prescription. [Wikipedia]
+4. Indication:  For the treatment of essential hypertension.
+DrugId:  20
+1. Name:  Dronedarone
+2. Groups:  Approved
+3. Description:  Dronedarone is a sinus rhythm controller for management of paroxysmal or persistent atrial fibrillation. Classified as a Class III antiarrhythmic but displays properties of all four Vaughan-Williams classes, dronedarone blocks a multitude of channels (sodium, potassium, calcium), and demonstrates antiadrenergic properties. Chemically, it is a benzofuran derivative. FDA approved on July 1, 2009. 
+4. Indication:  Management of paroxysmal or persistent atrial fibrillation via restoration of normal sinus rhythm. 
+DrugId:  21
+1. Name:  Chlorpropamide
+2. Groups:  Approved, Investigational
+3. Description:  Chlorpropamide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating β cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic β cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Chlorpropamide is not recommended for the treatment of NIDDM as it increases blood pressure and the risk of retinopathy (UKPDS-33). Up to 80% of the single oral dose of chlorpropramide is metabolized, likely in the liver; 80-90% of the dose is excreted in urine as unchanged drug and metabolites. Renal and hepatic dysfunction may increase the risk of hypoglycemia. 
+4. Indication:  For treatment of NIDDM in conjunction with diet and exercise. 
+DrugId:  22
+1. Name:  Alanyl Glutamine
+2. Groups:  Investigational
+3. Description:  Alanyl Glutamine is under investigation in clinical trial NCT00338221 (Clinical Trial of Alanyl-Glutamine or Glycine in Children With Persistent Diarrhea or Malnutrition).
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Mecasermin
+2. Groups:  Approved, Investigational
+3. Description:  Mecasermin contains recombinant-DNA-engineered human insulin-like growth factor-1 (rhIGF-1). IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesized in bacteria (E. coli) that have been modified by the addition of the gene for human IGF-1.
+4. Indication:  For the long-term treatment of growth failure in pediatric patients with Primary IGFD or with GH gene deletion who have developed neutralizing antibodies to GH. It is not indicated to treat Secondary IGFD resulting from GH deficiency, malnutrition, hypothyroidism or other causes; it is not a substitute for GH therapy.
+DrugId:  24
+1. Name:  Tannic acid
+2. Groups:  Approved
+3. Description:  Tannic acid is a polyphenolic compound. It is a type of the commercially available tannins. It acts as a weak acid. Tannic acid is found in the nutgalls formed by insects on twigs of certain oak trees (Quercus infectoria and other Quercus species). It is removed and used as medicine. In the old days it was used as antidote against different poisons.Nowadays, tannic acid is applied topically for the treatment of cold sores, diaper rash, fever blisters and poison ivy. Tannic acid is also taken by mouth and applied directly for bleeding, chronic diarrhea, dysentery, bloody urine, painful joints, persistent coughs, and cancer.
+4. Indication:  Tannic acid is indicated for cold sores, fever blisters, diaper rash, minor burn or sunburn and prickly heat.Vaginally, tannic acid is used as a douche for leukorrhea. It has been also indicated for sore throat, inflamed tonsils, spongy or receding gums, and acute dermatitis.
+DrugId:  25
+1. Name:  Thioproperazine
+2. Groups:  Approved
+3. Description:  Thioproperazine is a potent neuroleptic with antipsychotic properties. Thioproperazine has a marked cataleptic and antiapomorphine activity associated with relatively slight sedative, hypothermic and spasmolytic effects. It is virtually without antiserotonin and hypotensive action and has no antihistaminic property. It is used for the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.Overdosage may result in severe extrapyramidal symptoms with dysphagia, marked sialorrhea, persistent and rapidly increasing hyperthermia, pulmonary syndrome, state of shock with pallor and profuse sweating, which may be followed by collapse and coma. LD50 in mice is 70 mg/kg I.V., 120 mg/kg I.P., 500 mg/kg S.C. and 830 mg/kg P.O.
+4. Indication:  For the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.

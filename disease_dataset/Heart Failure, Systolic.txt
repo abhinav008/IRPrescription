@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Xamoterol
+2. Groups:  Experimental
+3. Description:  Xamoterol is a β1-adrenoceptor partial agonist that has shown to improve systolic and diastolic function in studies with heart failure patients. It modulates the sympathetic control of the heart but has no agonist action on β2-adrenoceptors.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Betaxolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-1-adrenergic antagonist with no partial agonist activity.
+4. Indication:  For the management of hypertension.
+DrugId:  3
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  4
+1. Name:  Practolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist that has been used in the emergency treatment of cardiac arrhythmias. [PubChem]
+4. Indication:  Used in the emergency treatment of cardiac arrhythmias.
+DrugId:  5
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  6
+1. Name:  Bisoprolol
+2. Groups:  Approved
+3. Description:  Bisoprolol is a cardioselective β1-adrenergic blocking agent used for secondary prevention of myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. Bisoprolol is structurally similar to metoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At lower doses (less than 20 mg daily), bisoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with daily doses of 20 mg or greater. Unlike propranolol and pindolol, bisoprolol does not exhibit membrane-stabilizing or sympathomimetic activity. Bisoprolol possesses a single chiral centre and is administered as a racemic mixture. Only l-bisoprolol exhibits significant β-blocking activity.
+4. Indication:  For management of heart failure, angina pectoris, and mild to moderate hypertension and for secondary prevention of myocardial infarction (MI). 
+DrugId:  7
+1. Name:  Oxprenolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+4. Indication:  Used in the treatment of hypertension, angina pectoris, arrhythmias, and anxiety.
+DrugId:  8
+1. Name:  Candesartan cilexetil
+2. Groups:  Approved
+3. Description:  Candesartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. It is administered orally as the prodrug, candesartan cilexetil, which is rapidly converted to its active metabolite, candesartan, during absorption in the gastrointestinal tract. Candesartan lowers blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); it competes with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Candesartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of heart failure, systolic dysfunction, myocardial infarction and coronary artery disease.
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Candesartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  9
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  10
+1. Name:  Eplerenone
+2. Groups:  Approved
+3. Description:  Eplerenone, an aldosterone receptor antagonist similar to spironolactone, has been shown to produce sustained increases in plasma renin and serum aldosterone, consistent with inhibition of the negative regulatory feedback of aldosterone on renin secretion. The resulting increased plasma renin activity and aldosterone circulating levels do not overcome the effects of eplerenone. Eplerenone selectively binds to recombinant human mineralocorticoid receptors relative to its binding to recombinant human glucocorticoid, progesterone and androgen receptors.
+4. Indication:  For improvement of survival of stable patients with left ventricular systolic dysfunction (ejection fraction <40%) and clinical evidence of congestive heart failure after an acute myocardial infarction.
+DrugId:  11
+1. Name:  Glial growth factor 2
+2. Groups:  Investigational
+3. Description:  Glial growth factor 2 has been used in trials studying the treatment of Heart Failure.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Prazosin
+2. Groups:  Approved
+3. Description:  Prazosin is a selective α-1-adrenergic receptor antagonist used to treat hypertension. It has also been used to decrease urinary obstruction and relieve symptoms associated with symptomatic benign prostatic hyperplasia. α1-Receptors mediate contraction and hypertrophic growth of smooth muscle cells. Antagonism of these receptors leads to smooth muscle relaxation in the peripheral vasculature and prostate gland. Prazosin has also been used in conjunction with cardiac glycosides and diuretics in the management of severe congestive heart failure. It has also been used alone or in combination with β-blockers in the preoperative management of signs and symptoms of pheochromocytoma. 
+4. Indication:  For treatment of hypertension, symptomatic benign prostatic hyperplasia, and severe congestive heart failure. May also be used alone or in combination with β-blockers in the preoperative management of signs and symptoms of pheochromocytoma. 
+DrugId:  13
+1. Name:  rGLP-1
+2. Groups:  Investigational
+3. Description:  rGLP-1 is a continuous infusion of glucagon-like peptide 1, or GLP-1, targeted for the treatment of congestive heart failure (CHF) in patients ineligible for transplant. GLP-1 is a naturally occurring hormone produced in the intestines in response to food intake.
+4. Indication:  Investigated for use/treatment in congestive heart failure and diabetes mellitus type 2.
+DrugId:  14
+1. Name:  Nitrite
+2. Groups:  Approved, Investigational
+3. Description:  Nitrite is under investigation for the treatment of Heart Failure.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Urocortin-2
+2. Groups:  Investigational
+3. Description:  Urocortin 2 has been investigated for the basic science of Heart Failure and Cardiovascular Disease.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Omecamtiv Mecarbil
+2. Groups:  Investigational
+3. Description:  Omecamtiv Mecarbil has been used in trials studying the treatment and basic science of Heart Failure, Echocardiogram, Pharmacokinetics, Chronic Heart Failure, and History of Chronic Heart Failure, among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Derenofylline
+2. Groups:  Investigational
+3. Description:  Derenofylline has been used in trials studying the treatment of Congestive Heart Failure and Acute Decompensated Heart Failure; Renal Dysfunction.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Rolofylline
+2. Groups:  Investigational
+3. Description:  Rolofylline is under clinical development by pharmaceutical company NovaCardia for the treatment of congestive heart failure.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Losartan
+2. Groups:  Approved
+3. Description:  Losartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. Losartan and its longer acting metabolite, E-3174, lower blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); they compete with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Losartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of systolic dysfunction, myocardial infarction, coronary artery disease, and heart failure. 
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Losartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  20
+1. Name:  Darusentan
+2. Groups:  Investigational
+3. Description:  Darusentan is a selective endothelin ETA receptor antagonist. It is being evaluated as a treatment for congestive heart failure and hypertension.
+4. Indication:  For the treatment of congestive heart failure and hypertension.
+DrugId:  21
+1. Name:  Tezosentan
+2. Groups:  Investigational
+3. Description:  Tezosentan is an intravenous endothelin receptor A/B antagonist. It acts as a vasodilator and was designed as a therapy for patients with acute heart failure. Recent studies have shown however, that tezosentan does not improve dyspnea or reduce the risk of fatal or nonfatal cardiovascular events.
+4. Indication:  Investigated for use/treatment in congestive heart failure, liver disease, and heart disease.
+DrugId:  22
+1. Name:  Ubidecarenone
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Ubidecarenone, also known as coenzyme Q10, is a 1,4-benzoquinone, where Q refers to the quinone chemical group, and 10 refers to the number of isoprenyl chemical subunits in its tail.[1] It is a powerful antioxidant, a lipid-soluble and essential cofactor in mitochondrial oxidative phosphorylation.[2] The ubidecarenone is the coenzyme destined for mitochondrial enzyme complexes involved in oxidative phosphorylation in the production of ATP. It is fundamental for cells that have a high metabolic demand.[7] Ubidecarenone is sold as a dietary supplement and is not FDA approved as a drug thus, it is not meant to treat, cure or prevent any disease. FDA does not approve this dietary supplements before sold nor regulate the manufacturing process.[8]
+4. Indication:  The diet supplements containing ubidecarenone are indicated, as stated in the product label, to assist individuals with cardiovascular complaints including congestive heart failure and systolic hypertension. In the product, ubidecarenone is used to increase the cardiac input as well as for the prevention of several other diseases like Parkinson, fibromyalgia, migraine, periodontal disease and diabetes, based on preclinical studies.[9] It is important to highlight that these products are not FDA approved and it is recommended to use under discretion.
+DrugId:  23
+1. Name:  Ivabradine
+2. Groups:  Approved
+3. Description:  Ivabradine is a novel heart rate lowering medicine for the symptomatic management of stable angina pectoralis and symptomatic chronic heart failure. Ivabradine, brand name Corlanor, was approved by the FDA in April 2015 for the treatment of chronic heart failure in patients with an ejection fraction of ≤35%, in sinus rhythm with resting heart rate ≥70 beats per minute, who are not on beta-blockers due to contraindications or already receiving maximum beta-blocker dose. Ivabradine acts by selectively inhibiting the "funny" channel pacemaker current (If) in the sinoatrial node in a dose-dependent fashion, resulting in a lower heart rate and thus more blood to flow to the myocardium. Although non-dihydropyridine calcium channel blockers and beta blockers also effectively lower heart rate, they exhibit adverse events due to their negative ionotropic effects. Therefore, as ivabradine is designed as a "pure" heart rate-lowering drug by selectively acting on the If channels, it may offer a more favorable side effect profile due to its lower likelihood of causing serious adverse effects.
+4. Indication:  Ivabradine's indication by the FDA is to reduce the risk of hospitalization for worsening heart failure in patients with stable, symptomatic chronic heart failure with left ventricular ejection fraction ≤35%, who are in sinus rhythm with resting heart rate ≥70 beats per minute and either are on maximally tolerated doses of beta-blockers or have a contraindication to beta-blocker use. 
+DrugId:  24
+1. Name:  Epinephrine
+2. Groups:  Approved, Vet approved
+3. Description:  The active sympathomimetic hormone from the adrenal medulla in most species. It stimulates both the alpha- and beta- adrenergic systems, causes systemic vasoconstriction and gastrointestinal relaxation, stimulates the heart, and dilates bronchi and cerebral vessels. It is used in asthma and cardiac failure and to delay absorption of local anesthetics. [PubChem]
+4. Indication:  Used to treat anaphylaxis and sepsis. Also one of the body's main adrenergic neurotransmitters.
+DrugId:  25
+1. Name:  Trandolapril
+2. Groups:  Approved
+3. Description:  Trandolapril is a non-sulhydryl prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to its biologically active diacid form, trandolaprilat, in the liver. Trandolaprilat inhibits ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Trandolapril may be used to treat mild to moderate hypertension, to improve survival following myocardial infarction in clinically stable patients with left ventricular dysfunction, as an adjunct treatment for congestive heart failure, and to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy. 
+4. Indication:  For the treatment of mild to moderate hypertension, as an adjunct in the treatment of congestive heart failure (CHF), to improve survival following myocardial infarction (MI) in individuals who are hemodynamically stable and demonstrate symptoms of left ventricular systolic dysfunction or signs of CHF within a few days following acute MI, and to slow progression of renal disease in hypertensive patients with diabetes mellitus and microalbuminuria or overt nephropathy. 

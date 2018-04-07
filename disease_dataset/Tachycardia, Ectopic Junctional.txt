@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Corticorelin ovine triflutate
+2. Groups:  Approved
+3. Description:  Corticorelin, available commercially as corticorelin ovine triflutate (tradename Acthrel), is a synthetic form of the peptide human corticotropin-releasing hormone (hCRH), a potent stimulator of adrenocorticotropic hormone (ACTH) release from the anterior pituitary. Endogenous forms hCRH are involved in the stress response and its main function is stimulation of the pituitary to release ACTH. It is used as a diagnostic agent to evaluate the status of the pituitary-adrenal axis in the differentiation of a pituitary source from an ectopic source of excessive ACTH secretion. It provides a differential diagnosis for Cushing's disease (a pituitary source of ACTH excess) or of ectopic ACTH syndrome (an ectopic source of ACTH excess). If corticorelin injection results in an increase of plasma ACTH and cortisol, the patient is diagnosed with Cushing's disease. However, if corticorelin injection does not result in an increase of plasma ACTH and cortisol, the patient is diagnosed with ectopic ACTH syndrome.
+4. Indication:  Corticorelin is indicated for use in differentiating pituitary and ectopic production of ACTH in patients with ACTH-dependent Cushing's syndrome.
+DrugId:  2
+1. Name:  Enflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An extremely stable inhalation anesthetic that allows rapid adjustments of anesthesia depth with little change in pulse or respiratory rate. [PubChem]
+4. Indication:  Used for the induction and maintenance of general anaesthesia during surgery and cesarean section and also used for analgesia during vaginal delivery.
+DrugId:  3
+1. Name:  Isoflurane
+2. Groups:  Approved, Vet approved
+3. Description:  A stable, non-explosive inhalation anesthetic, relatively free from significant side effects.
+4. Indication:  For induction and maintenance of general anesthesia.
+DrugId:  4
+1. Name:  Sevelamer
+2. Groups:  Approved
+3. Description:  Sevelamer is a phosphate binding drug used to prevent hyperphosphataemia in patients with chronic renal failure. When taken with meals, sevelamer binds to dietary phosphate and prevents its absorption. It is marketed by Genzyme under the trade name Renagel.
+4. Indication:  For the control of serum phosphorus in patients with Chronic Kidney Disease (CKD) on hemodialysis.
+DrugId:  5
+1. Name:  Desflurane
+2. Groups:  Approved
+3. Description:  Desflurane is a highly fluorinated methyl ethyl ether used for maintenance of general anaesthesia. Volatile agents such as desflurane may activate GABA channels and hyperpolarize cell membranes. In addition, they may inhibit certain calcium channels and therefore prevent release of neurotransmitters and inhibit glutamate channels. Volatile anesthetics easily partition into cellular membranes and could expand the volume of the cell membrane and subsequently distort channels necessary for sodium ion flux and the development of action potentials necessary for synaptic transmission. Desflurane preconditions human myocardium against ischemia through activation of mitochondrial K(ATP) channels, adenosine A1 receptor, and alpha and beta adrenoceptors.
+4. Indication:  For use as an inhalation agent for induction and/or maintenance of anesthesia for inpatient and outpatient surgery in adults.
+DrugId:  6
+1. Name:  Methoxyflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An inhalation anesthetic. Currently, methoxyflurane is rarely used for surgical, obstetric, or dental anesthesia. If so employed, it should be administered with nitrous oxide to achieve a relatively light level of anesthesia, and a neuromuscular blocking agent given concurrently to obtain the desired degree of muscular relaxation. (From AMA Drug Evaluations Annual, 1994, p180)
+4. Indication:  For use in the induction and maintenance of general anesthesia
+DrugId:  7
+1. Name:  Etripamil
+2. Groups:  Investigational
+3. Description:  Etripamil has been used in trials studying the treatment of Paroxysmal Supraventricular Tachycardia (PSVT).
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Lutein
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Lutein is an xanthophyll and one of 600 known naturally occurring carotenoids. Lutein is synthesized only by plants and like other xanthophylls is found in high quantities in green leafy vegetables such as spinach, kale and yellow carrots. In green plants, xanthophylls act to modulate light energy and serve as non-photochemical quenching agents to deal with triplet chlorophyll (an excited form of chlorophyll), which is overproduced at very high light levels, during photosynthesis.
+4. Indication:  Xanthophylls are taken for nutritional supplementation, and also for treating dietary shortage or imbalance.
+DrugId:  9
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  10
+1. Name:  Sevoflurane
+2. Groups:  Approved, Vet approved
+3. Description:  Sevoflurane (2,2,2-trifluoro-1-[trifluoromethyl]ethyl fluoromethyl ether), also called fluoromethyl, is a sweet-smelling, non-flammable, highly fluorinated methyl isopropyl ether used for induction and maintenance of general anesthesia. Together with desflurane, it is replacing isoflurane and halothane in modern anesthesiology. [Wikipedia]
+4. Indication:  Used for induction and maintenance of general anesthesia in adult and pediatric patients for inpatient and outpatient surgery.
+DrugId:  11
+1. Name:  Alfacalcidol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism. Alfacalcidol is Vitamin D-hormone analog which is activated by the enzyme 25-hydroxylase in the liver for systemic and in osteoblasts for local D-hormone actions. It possesses a unique pattern of pleiotropic effects on, e.g. gut, bone, pararthyroids, muscle and brain. Alfacalcidol is superior to plain vitamin D (cholecalciferol) because the final kidney activation of the latter is regulated by a negative feedback mechanism. (PMID:17438884,17668216)
+4. Indication:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism.
+DrugId:  12
+1. Name:  Danazol
+2. Groups:  Approved
+3. Description:  A synthetic steroid with antigonadotropic and anti-estrogenic activities that acts as an anterior pituitary suppressant by inhibiting the pituitary output of gonadotropins. It possesses some androgenic properties. Danazol has been used in the treatment of endometriosis and some benign breast disorders. [PubChem]
+4. Indication:  For the treatment of endometriosis and fibrocystic breast disease (in patients unresponsive to simple measures). Also used for the prophylactic treatment of all types of hereditary angioedema in males and females.
+DrugId:  13
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  14
+1. Name:  Dienogest
+2. Groups:  Approved
+3. Description:  Dienogest is an orally-active semisynthetic progestogen which also possesses the properties of 17α-hydroxyprogesterone. It is a derivative of 19-nortestosterone and has antiandrogenic properties. It is primarily used as a contraceptive in combination with ethinylestradiol, or in other combination form pills approved in United States and Europe however it is not available in the US by itself. In Europe, Australia, Malaysia, Singapore and Japan, dienogest single therapy is an approved treatment for endometriosis to alleviate painful symptoms of endometriosis and reduce endometriotic lesions [1]. Dienogest is commonly marketed as Visanne, Natazia and Qlaira.
+4. Indication:  Indicated for use as the treatment of endometriosis alone and as a contraceptive in combination with ethinylestradiol. 
+DrugId:  15
+1. Name:  Bretylium
+2. Groups:  Approved
+3. Description:  Bretylium blocks the release of noradrenaline from the peripheral sympathetic nervous system, and is used in emergency medicine, cardiology, and other specialties for the acute management of ventricular tachycardia and ventricular fibrillation. The primary mode of action for bretylium is thought to be inhibition of voltage-gated K(+) channels. Recent evidence has shown that bretylium may also inhibit the Na,K-ATPase by binding to the extracellular K-site.
+4. Indication:  For use in the prophylaxis and therapy of ventricular fibrillation. Also used in the treatment of life-threatening ventricular arrhythmias, such as ventricular tachycardia, that have failed to respond to adequate doses of a first-line antiarrhythmic agent, such as lidocaine.
+DrugId:  16
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.
+DrugId:  17
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  18
+1. Name:  Cyclandelate
+2. Groups:  Approved
+3. Description:  A direct-acting smooth muscle relaxant used to dilate blood vessels. It may cause gastrointestinal distress and tachycardia. Cyclandelate is not approved for use in the U.S. or Canada, but is approved in various European countries.
+4. Indication:  Used in the treatment of various blood vessel diseases (e.g., claudication, arteriosclerosis and Raynaud's disease) and nighttime leg cramps.
+DrugId:  19
+1. Name:  Alpha-methyltryptamine
+2. Groups:  Experimental, Illicit
+3. Description:  A stimulant and psychoactive drug which produces effects similar to 3,4-methylenedioxy-N-methylamphetamine (MDMA), despite being structurally dissimilar.It was developed in the 1960's by Upjohn with the intention for use as an antidepressant. In the 1990's, alpha-methyltryptamine became regulated as a Schedule I controlled substance in the United states. 
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Pipotiazine
+2. Groups:  Approved, Investigational
+3. Description:  Pipotiazine has actions similar to those of other phenothiazines. Among the different phenothiazine derivatives, it appears to be less sedating and to have a weak propensity for causing hypotension or potentiating the effects of CNS depressants and anesthetics. However, it produces a high incidence of extra pyramidal reactions. It is used for the maintenance treatment of chronic non-agitated schizophrenic patients. Symptoms of overdose include severe extrapyramidal manifestations, hypotension, lethargy and sedation.
+4. Indication:  For the maintenance treatment of chronic non-agitated schizophrenic patients.
+DrugId:  21
+1. Name:  Thioproperazine
+2. Groups:  Approved
+3. Description:  Thioproperazine is a potent neuroleptic with antipsychotic properties. Thioproperazine has a marked cataleptic and antiapomorphine activity associated with relatively slight sedative, hypothermic and spasmolytic effects. It is virtually without antiserotonin and hypotensive action and has no antihistaminic property. It is used for the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.Overdosage may result in severe extrapyramidal symptoms with dysphagia, marked sialorrhea, persistent and rapidly increasing hyperthermia, pulmonary syndrome, state of shock with pallor and profuse sweating, which may be followed by collapse and coma. LD50 in mice is 70 mg/kg I.V., 120 mg/kg I.P., 500 mg/kg S.C. and 830 mg/kg P.O.
+4. Indication:  For the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.
+DrugId:  22
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  23
+1. Name:  Indoramin
+2. Groups:  Withdrawn
+3. Description:  Indoramin is a discontinued piperidine antiadrenergic drug with the trade names Baratol and Doralese. It is a selective alpha-1 adrenergic antagonist with no reflex tachycardia and direct myocardial depression action.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Etidronic acid
+2. Groups:  Approved
+3. Description:  A diphosphonate which affects calcium metabolism. It inhibits ectopic calcification and slows down bone resorption and bone turnover.
+4. Indication:  For the treatment of symptomatic Paget's disease of bone and in the prevention and treatment of heterotopic ossification following total hip replacement or due to spinal cord injury.
+DrugId:  25
+1. Name:  Acepromazine
+2. Groups:  Approved, Vet approved
+3. Description:  Acepromazine is one of the phenothiazine derivative psychotropic drugs, used little in humans, however frequently in animals as a sedative and antiemetic.
+4. Indication:  Acepromazine was first used in humans in the 1950s as an antipsychotic agent. It is now rarely used in humans. Acepromazine is frequently used in animals as a sedative and antiemetic. Its principal value is in quietening and calming anxious animals.

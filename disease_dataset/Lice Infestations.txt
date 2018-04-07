@@ -1,0 +1,75 @@
+DrugId:  1
+1. Name:  Permethrin
+2. Groups:  Approved, Investigational
+3. Description:  A pyrethroid insecticide commonly used in the treatment of lice infestations and scabies. It is a yellow to light orange-brown, low melt-ing solid or viscous liquid.
+4. Indication:  For the treatment of infestation with Sarcoptes scabiei (scabies).
+DrugId:  2
+1. Name:  Pyrethrum extract
+2. Groups:  Approved
+3. Description:  Pyrethrum is the crude extract form obtained from flowers of the plant Chrysanthemum cinerariifolium. Pyrethrin refers to a more refined extract of pyrethrum. While pyrethrum extract is composed of 6 esters, both organic compounds mediate insecticidal activities. Pyrethrum-containing mixtures are used as a common insecticide to control specific pest species. Pyrethrum extract is also used used to treat head, body, and pubic lice infections. The active compound is absorbed by the lice and destroys them by acting on their nervous systems but is thought to exert minimal effect on humans.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Piperonyl butoxide
+2. Groups:  Approved, Vet approved
+3. Description:  Piperonyl butoxide (PBO) is an organic compound used as a component of pesticide formulations. It is a waxy white solid. It is used for the treatment of head, pubic (crab), and body lice. Piperonyl butoxide is a synergist. It has no pesticidal activity of its own, but acts to increase the activity of pesticides such as carbamates, pyrethrins, pyrethroids, and rotenone. Piperonyl butoxide is a semisynthetic derivative of safrole.
+4. Indication:  For the treatment of head, pubic (crab), and body lice.
+DrugId:  4
+1. Name:  Spinosad
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Spinosad is a pediculicide mixture of spinosyn A and spinosyn D (in an approximately 5:1 ratio, respectively) used in the topical treatment of head lice in children (four years old and older) and in adults. Spinosad is an insecticide based on a compound found in S. spinosa, a bacterial species. Spinosad has also been experimented for use in cats for treatment of flea infestations, and has also been experimented for use against the KS1 Ctenocephalides felis flea strain infesting dogs, in addition to many investigations for use in other animals and agricultural plants.
+4. Indication:  Spinosad is indicated for the topical treatment of head lice in children four years old and over and in adults.
+DrugId:  5
+1. Name:  Lindane
+2. Groups:  Approved, Withdrawn
+3. Description:  An organochlorine insecticide that has been used as a pediculicide and a scabicide. Lindane has been banned in California, United Kingdom, Australia, and many western countries due to concerns about neurotoxicity and adverse effects on the environment. In Canada, Lindane is not recommmended as a first-line therapy due to reports of resistance, neurotoxicity, and bone marrow suppression, but has been approved by the FDA as a second-line therapy for topical treatment of pediculosis capitis (head lice), pediculosis pubis (pubic lice), or scabies in patients greater than two years of age who cannot tolerate or have failed first-line treatment. Lindane is still allowed for pharmaceutical use until 2015. 
+4. Indication:  For the treatment of patients infested with Sarcoptes scabiei or pediculosis capitis who have either failed to respond to adequate doses, or are intolerant of other approved therapies.
+DrugId:  6
+1. Name:  Ivermectin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Ivermectin is a broad-spectrum anti-parasite medication. It was first marketed under the name Stromectol® and used against worms (except tapeworms), but, in 2012, it was approved for the topical treatment of head lice infestations in patients 6 months of age and older, and marketed under the name Sklice™ as well. Ivermectin is mainly used in humans in the treatment of onchocerciasis, but is also effective against other worm infestations (such as strongyloidiasis, ascariasis, trichuriasis and enterobiasis).
+4. Indication:  For the treatment of intestinal (i.e., nondisseminated) strongyloidiasis due to the nematode parasite Strongyloides stercoralis. Also for the treatment of onchocerciasis (river blindness) due to the nematode parasite Onchocerca volvulus. Can be used to treat scabies caused by Sarcoptes scabiei.
+DrugId:  7
+1. Name:  Benzyl alcohol
+2. Groups:  Approved
+3. Description:  Not Available
+4. Indication:  Ulesfia (benzyl alcohol) lotion is indicated for the topical treatment of head lice infestation in patients 6 months of age and older. Ulesfia Lotion does not have ovicidal activity.
+DrugId:  8
+1. Name:  Benzyl Benzoate
+2. Groups:  Approved
+3. Description:  Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+4. Indication:  Used to kill lice and the mites responsible for the skin condition scabies.
+DrugId:  9
+1. Name:  Praziquantel
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anthelmintic used in most schistosome and many cestode infestations.
+4. Indication:  For the treatment of infections due to all species of schistosoma.
+DrugId:  10
+1. Name:  Levamisole
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  An antihelminthic drug that has been tried experimentally in rheumatic disorders where it apparently restores the immune response by increasing macrophage chemotaxis and T-lymphocyte function. Paradoxically, this immune enhancement appears to be beneficial in rheumatoid arthritis where dermatitis, leukopenia, and thrombocytopenia, and nausea and vomiting have been reported as side effects. (From Smith and Reynard, Textbook of Pharmacology, 1991, p435-6). Levamisole was withdrawn from the US and Canadian markets in 2000 and 2003, respectively, due to the risk of serious side effects and the availability of more effective replacement medications. [Wikipedia]
+4. Indication:  For adjuvant treatment in combination with fluorouracil after surgical resection in patients with Dukes' stage C colon cancer. Also used to treat malignant melanoma and head/neck cancer.Levamisole was originally used as an antihelminthic to treat worm infestations in both humans and animals.
+DrugId:  11
+1. Name:  Tea tree oil
+2. Groups:  Approved
+3. Description:  Tea tree oil is an essential oil derived mainly from the Australian native plant Melaleuca alternifolia via steam distillation of the of the leaves and terminal branches [2]. It may be referred to as Melaleuca alternifolia oil. It has been a popular ingredient in a variety of household and cosmetic products due to its antiseptic, anti-inflammatory, broad-spectrum antimicrobial and antioxidant properties [1]. The dermatological use of tea tree oil has been investigated by various studies, where several studies have suggested the uses of this oil for the treatment of acne vulgaris, seborrheic dermatitis, and chronic gingivitis [1]. Terpene hydrocarbons and related alcohols constitute tea tree oil, with Terpinen-4-ol being the major antimicrobial component [2].
+4. Indication:  Indicated for topical use to help protect against infection in minor cuts, scrapes, and burns. No FDA-approved therapeutic indications.
+DrugId:  12
+1. Name:  Pyrvinium
+2. Groups:  Approved
+3. Description:  Pyrvinium is an anthelmintic effective for pinworms. Several forms of pyrvinium have been prepared with variable counter anions, such as halides, tosylate, triflate and pamoate. Pyrvinum's anti-cancer properties are currently under investigation.
+4. Indication:  Pyrvinium was once used in the treatment of pinworm infestations [3].
+DrugId:  13
+1. Name:  Bioallethrin
+2. Groups:  Approved, Experimental
+3. Description:  Bioallethrin refers to a mixture of two of the allethrin isomers (1R,trans;1R and 1R,trans;1S) in an approximate ratio of 1:1, where both isomers are active ingredients. A mixture of the two same stereoisomers, but in an approximate ratio of R:S in 1:3, is called esbiothrin. A mixture containing only S-forms of allethrin is referred to as esbioallethrin or S-bioallethrin. Bioallethrin is a synthetic pyrethroid used as a pesticide against household pest insects such as mosquitoes, houseflies and cockroaches. It is claimed to have low mammalian toxicity.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Malathion
+2. Groups:  Approved, Investigational
+3. Description:  Malathion is a parasympathomimetic organophosphate compound that is used as an insecticide for the treatment of head lice. Malathion is an irreversible cholinesterase inhibitor and has low human toxicity.
+4. Indication:  For patients infected with Pediculus humanus capitis (head lice and their ova) of the scalp hair.
+DrugId:  15
+1. Name:  Diethylcarbamazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anthelmintic used primarily as the citrate in the treatment of filariasis, particularly infestations with Wucheria bancrofti or Loa loa. [PubChem]
+4. Indication:  Used for the treatment of individual patients with certain filarial diseases including tropical pulmonary eosinophilia, loiasis, and lymphatic filariasis caused by infection with Wuchereria bancrofti, Brugia malayi, or Brugia timori.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Mitotane
+2. Groups:  Approved
+3. Description:  A derivative of the insecticide dichlorodiphenyldichloroethane that specifically inhibits cells of the adrenal cortex and their production of hormones. It is used to treat adrenocortical tumors and causes CNS damage, but no bone marrow depression. [PubChem]
+4. Indication:  For treatment of inoperable adrenocortical tumours; Cushing's syndrome
+DrugId:  2
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.
+DrugId:  3
+1. Name:  Aminoglutethimide
+2. Groups:  Approved, Investigational
+3. Description:  An aromatase inhibitor that produces a state of "medical" adrenalectomy by blocking the production of adrenal steroids. It also blocks the conversion of androgens to estrogens. Aminoglutethimide has been used in the treatment of advanced breast and prostate cancer. It was formerly used for its weak anticonvulsant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p454)
+4. Indication:  For the suppression of adrenal function in selected patients with Cushing's syndrome, malignant neoplasm of the female breast, and carcinoma in situ of the breast.
+DrugId:  4
+1. Name:  Tetracosactide
+2. Groups:  Approved
+3. Description:  Tetracosactide (also known as Cosyntropin) is a synthetic peptide that is identical to the 24-amino acid segment (sequence: SYSMEHFRWGKPVGKKRRPVKVYP) at the N-terminal of adrenocorticotropic hormone. ACTH (1-24), a segment similar in all species, contains the biological activity that stimulates production of corticosteroids in the adrenal cortex. Tetracosactide exhibits the same activity as natural ACTH with regard to all its biological activities. The complex results in a product whose absorption in man is effected over a longer period of time as compared to corticotropin. Therefore, therapy may be maintained with less frequent administration.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  5
+1. Name:  Paramethasone
+2. Groups:  Approved
+3. Description:  A glucocorticoid with the general properties of corticosteroids. It has been used by mouth in the treatment of all conditions in which corticosteroid therapy is indicated except adrenal-deficiency states for which its lack of sodium-retaining properties makes it less suitable than hydrocortisone with supplementary fludrocortisone. (From Martindale, The Extra Pharmacopoeia, 30th ed, p737)
+4. Indication:  For the treatment of all conditions in which corticosteroid therapy is indicated except adrenal-deficiency states for which its lack of sodium-retaining properties makes it less suitable than hydrocortisone with supplementary fludrocortisone.
+DrugId:  6
+1. Name:  Magnesium carbonate
+2. Groups:  Approved, Investigational
+3. Description:  Magnesium carbonate, also known as magnesite, is a common over the counter remedy for heartburn and upset stomach caused by overproduction of acid in the stomach [FDA Label].
+4. Indication:  Used as an over the counter antacid [5].
+DrugId:  7
+1. Name:  Fluorometholone
+2. Groups:  Approved, Investigational
+3. Description:  A glucocorticoid employed, usually as eye drops, in the treatment of allergic and inflammatory conditions of the eye. It has also been used topically in the treatment of various skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732)
+4. Indication:  For the ophthalmic treatment of corticosteroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe.
+DrugId:  8
+1. Name:  Methocarbamol
+2. Groups:  Approved, Vet approved
+3. Description:  A centrally acting muscle relaxant whose mode of action has not been established. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1206)
+4. Indication:  For use as an adjunct to rest, physical therapy, and other measures for the relief of discomforts associated with acute, painful musculoskeletal conditions.
+DrugId:  9
+1. Name:  Caffeine
+2. Groups:  Approved
+3. Description:  A methylxanthine naturally occurring in some beverages and also used as a pharmacological agent. Caffeine's most notable pharmacological effect is as a central nervous system stimulant, increasing alertness and producing agitation. It also relaxes smooth muscle, stimulates cardiac muscle, stimulates diuresis, and appears to be useful in the treatment of some types of headache. Several cellular actions of caffeine have been observed, but it is not entirely clear how each contributes to its pharmacological profile. Among the most important are inhibition of cyclic nucleotide phosphodiesterases, antagonism of adenosine receptors, and modulation of intracellular calcium handling.
+4. Indication:  For management of fatigue, orthostatic hypotension, and for the short term treatment of apnea of prematurity in infants.
+DrugId:  10
+1. Name:  Flurandrenolide
+2. Groups:  Approved
+3. Description:  A corticosteroid used topically in the treatment of various skin disorders. It is usually employed as a cream or an ointment, and is also used as a polyethylene tape with an adhesive. (From Martindale, The Extra Pharmacopoeia, 30th ed, p733)
+4. Indication:  For relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses, particularly dry, scaling localized lesions
+DrugId:  11
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  12
+1. Name:  Betamethasone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)
+4. Indication:  Topical use (cream, lotion and ointment): for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.Topical use (foam): relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses of the scalp.Systemic use: for the treatment of edocrine disorders, rheumatic disorders, collagen diseases, dermatological diseases, allergic states, ophthalmic diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, gastrointestinal diseases, tuberculous meningitis and trichinosis.
+DrugId:  13
+1. Name:  Fluocinolone Acetonide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A glucocorticoid derivative used topically in the treatment of various skin disorders. It is usually employed as a cream, gel, lotion, or ointment. It has also been used topically in the treatment of inflammatory eye, ear, and nose disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732). It is also being investigated by Sivida and Alimera, under the brand name Medidur, as a sustained release intraocular implant for the treatment of diabetic macular edema.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also for the treatment of chronic non-infectious uveitis affecting the posterior segment of the eye (Retisert).
+DrugId:  14
+1. Name:  Naphazoline
+2. Groups:  Approved
+3. Description:  Naphazoline is a rapid acting sympathomimetic vasoconstrictor of occular artierioles. It acts to decrease congestion of the conjunctiva and is found in many over-the-counter eye drops.
+4. Indication:  Naphazoline is primarily indicated in conditions like Corneal vascularity, Hyperaemia, Itching, Nasal congestion, and can also be given in adjunctive therapy as an alternative drug of choice in Sinusitis
+DrugId:  15
+1. Name:  Calcium Carbonate
+2. Groups:  Approved, Investigational
+3. Description:  Calcium carbonate is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects. Calcium carbonate may also be used as a nutritional supplement or to treat hypocalcemia.
+4. Indication:  For relief of heartburn and acid indigestion. May also be used as a nutritional supplement or to treat hypocalcemia. 
+DrugId:  16
+1. Name:  Simethicone
+2. Groups:  Approved
+3. Description:  Simethicone is an orally administered antifoaming agent. It is mainly used to reduce gas from the gastrointestinal tract (GIT) in patients complaining from recurrent flatulence. Simethicone is a mixture of polydimethylsiloxane and hydrated silica gel. It exerts its action locally in the GIT, it is not absorbed into the blood stream.The main side effects of simethicone are GIT related including: mild diarrhea, nausea and vomiting.
+4. Indication:  To relieve pain and discomfort caused by excess gas in the intestine and stomach in cases such as flatulence and post operative gaseous distention.It could be used also prior to an endoscopy to eliminate foam, gas and air from the gastrointestinal tract to reduce gas shadow which will result in better visualization.
+DrugId:  17
+1. Name:  Androstenedione
+2. Groups:  Experimental, Illicit
+3. Description:  A delta-4 C19 steroid that is produced not only in the testis, but also in the ovary and the adrenal cortex. Depending on the tissue type, androstenedione can serve as a precursor to testosterone as well as estrone and estradiol.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Spironolactone
+2. Groups:  Approved
+3. Description:  A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)
+4. Indication:  Used primarily to treat low-renin hypertension, hypokalemia, and Conn's syndrome.
+DrugId:  19
+1. Name:  Pseudoephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  For the treatment of nasal congestion, sinus congestion, Eustachian tube congestion, and vasomotor rhinitis, and as an adjunct to other agents in the optimum treatment of allergic rhinitis, croup, sinusitis, otitis media, and tracheobronchitis. Also used as first-line therapy of priapism.
+DrugId:  20
+1. Name:  Corticotropin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Corticotropin (ACTH or adrenocorticotropic hormone) is a polypeptide hormone produced and secreted by the pituitary gland. It is an important player in the hypothalamic-pituitary-adrenal axis.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  21
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  22
+1. Name:  Hexylresorcinol
+2. Groups:  Approved
+3. Description:  Hexylresorcinol is a substituted dihydroxybenzene. It exhibits antiseptic, anthelmintic and local anaesthetic properties. It can be found in topical applications for minor skin infections and in oral solutions or throat lozenges for pain relief and first aid antiseptic.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Oxymetazoline
+2. Groups:  Approved, Investigational
+3. Description:  A direct acting sympathomimetic used as a vasoconstrictor to relieve nasal congestion. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1251)
+4. Indication:  For treatment of nasal congestion and redness associated with minor irritations of the eye
+DrugId:  24
+1. Name:  Aluminum hydroxide
+2. Groups:  Approved, Investigational
+3. Description:  Aluminum hydroxide is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects.
+4. Indication:  For relief of heartburn and acid indigestion. 
+DrugId:  25
+1. Name:  Eucalyptus oil
+2. Groups:  Approved
+3. Description:  Eucalyptus oil is a distilled oil derived from the leaves of the tree Eucalyptus. It is shown to be effective in reducing pain, swelling, and inflammation via its modulatory effect on the immune response. It is also shown to exhibit antibacterial activity against some bacterial species and cough suppressant actions. Eucalyptus oil can be applied directly to the skin for pain and swelling of respiratory tract mucous membranes, joint pain, genital herpes, and nasal stuffiness.
+4. Indication:  As an active agent, eucalyptus oil has been indicated for relief of the symptoms of catarrhal colds, and/or the relief of the symptoms of minor muscular sprains and cramps [24].

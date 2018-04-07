@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Exemestane
+2. Groups:  Approved, Investigational
+3. Description:  Exemestane is an oral steroidal aromatase inhibitor used in the adjuvant treatment of hormonally-responsive (also called hormone-receptor-positive, estrogen-responsive) breast cancer in postmenopausal women. It acts as a false substrate for the aromatase enzyme, and is processed to an intermediate that binds irreversibly to the active site of the enzyme causing its inactivation.
+4. Indication:  For the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy.
+DrugId:  2
+1. Name:  Avelumab
+2. Groups:  Approved, Investigational
+3. Description:  Avelumab is a programmed death ligand-1 (PD-L1) blocking antibody indicated for the treatment of adults and pediatric patients 12 years and older with metastatic Merkel cell carcinoma (MCC). It is a fully human anti-PD immunoglobulin G1 (IgG1) lambda monoclonal antibody with antineoplastic actions. It was granted accelerated approval in March 2017 under the name Bavencio.
+4. Indication:  Indicated for the treatment of adults and pediatric patients 12 years and older with metastatic Merkel cell carcinoma (MCC). 
+DrugId:  3
+1. Name:  Anastrozole
+2. Groups:  Approved, Investigational
+3. Description:  Anastrozole is a drug indicated in the treatment of breast cancer in post-menopausal women. It is used both in adjuvant therapy (i.e. following surgery) and in metastatic breast cancer. It decreases the amount of estrogens that the body makes. Anastrozole belongs in the class of drugs known as aromatase inhibitors. It inhibits the enzyme aromatase, which is responsible for converting androgens (produced by women in the adrenal glands) to estrogens.
+4. Indication:  For adjuvant treatment of hormone receptor positive breast cancer , as well as hormonal treatment of advanced breast cancer in post-menopausal women. Has also been used to treat pubertal gynecomastia and McCune-Albright syndrome; however, manufacturer states that efficacy for these indications have not been established.
+DrugId:  4
+1. Name:  Nilutamide
+2. Groups:  Approved, Investigational
+3. Description:  Nilutamide is an antineoplastic hormonal agent primarily used in the treatment of prostate cancer. Nilutamide is a pure, nonsteroidal anti-androgen with affinity for androgen receptors (but not for progestogen, estrogen, or glucocorticoid receptors). Consequently, Nilutamide blocks the action of androgens of adrenal and testicular origin that stimulate the growth of normal and malignant prostatic tissue. Prostate cancer is mostly androgen-dependent and can be treated with surgical or chemical castration. To date, antiandrogen monotherapy has not consistently been shown to be equivalent to castration.
+4. Indication:  For use in combination with surgical castration for the treatment of metastatic prostate cancer involving distant lymph nodes, bone, or visceral organs (Stage D2).
+DrugId:  5
+1. Name:  Durvalumab
+2. Groups:  Approved, Investigational
+3. Description:  Durvalumab is a a human monoclonal antibody that blocks programmed death ligand 1 (PD-L1), or CD 274. In May, 2017 it received FDA approval for previously treated patients with locally advanced or metastatic cancer in the urinary system (as Imfinzi). It is shown to be effective in patients with continued disease progression after the platinum-based chemotherapy. This drug has a relatively tolerable safety profile and its structural modification advantageously prevents the induction of antibody-dependent cytotoxicity (ADCC) or complement-dependent cytotoxicity (CDC) [5].
+4. Indication:  Durvalumab is indicated for patients with urothelial carcinoma, such as urinary bladder, urethra or ureter cancer. Patients with prolonged disease progression due to failed platinum-based chemotherapy such as cisplatin and carboplatin are most likely to benefit from durvalumab treatment. Its clinical effectiveness is especially enhanced in PD-L1-positive patient groups [1]. 
+DrugId:  6
+1. Name:  Strontium chloride Sr-89
+2. Groups:  Approved, Investigational
+3. Description:  Strontium chloride (Sr-89), initially FDA-approved in 1993, is used as a paliative therapeutic option to help relieve the pain from bone metastases. Strontium chloride is mainly used in cases of metastatic castrate-resistant prostate cancer.[9] Bone metastases is a common and severe complication presented in advanced stages of the disease. It is usually presented mainly in patients with prostatic and breast cancer, as well as in cancer of lung, bladder and thyroid. There has been some cases of apparent tumor regression which has given it a potential tumoricidal effect.[8]
+4. Indication:  Strontium-89 Chloride Injection is indicated as a paliative for the relief of bone pain in patients with skeletal metastases. It is impotant to confirm the presence of bone metastases prior the beginning of therapy.[9]
+DrugId:  7
+1. Name:  Fluticasone propionate
+2. Groups:  Approved
+3. Description:  Fluticasone propionate, a medium-potency synthetic corticosteroid, is used topically to relieve inflammatory and pruritic symptoms of dermatoses and psoriasis, intranasally to manage symptoms of allergic and non-allergic rhinitis, and orally for the treatment of asthma. Fluticasone proprionate is marketed under several different brand names such as Flonase®. Fluticasone propionate is also available as a combination product of azelastine hydrochloride and fluticasone propionate called Dymista™. Dymista™ is indicated in patients over 12 years old for symptomatic relief of seasonal allergic rhinitis.
+4. Indication:  Fluticasone propionate, a medium-potency synthetic corticosteroid, is used topically to relieve inflammatory and pruritic symptoms of dermatoses and psoriasis, intranasally to manage symptoms of allergic and non-allergic rhinitis, and orally for the maintenance treatment of asthma as prophylactic therapy and for patients requiring oral corticosteroid therapy for asthma.
+DrugId:  8
+1. Name:  Leflunomide
+2. Groups:  Approved, Investigational
+3. Description:  Leflunomide is a pyrimidine synthesis inhibitor belonging to the DMARD (disease-modifying antirheumatic drug) class of drugs, which are chemically and pharmacologically very heterogeneous. Leflunomide was approved by FDA and in many other countries (e.g., Canada, Europe) in 1999.
+4. Indication:  For the management of the signs and symptoms of active rheumatoid arthritis (RA) to improve physical function and to slow the progression of structural damage associated with the disease. Has also been used for the prevention of acute and chronic rejection in recipients of solid organ trasnplants and is designated by the FDA as an orphan drug for this use.
+DrugId:  9
+1. Name:  Denibulin
+2. Groups:  Investigational
+3. Description:  Denibulin is a novel small molecule Vascular Disrupting Agent under development by MediciNova for treatment of solid tumor cancers.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  10
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  11
+1. Name:  Mitotane
+2. Groups:  Approved
+3. Description:  A derivative of the insecticide dichlorodiphenyldichloroethane that specifically inhibits cells of the adrenal cortex and their production of hormones. It is used to treat adrenocortical tumors and causes CNS damage, but no bone marrow depression. [PubChem]
+4. Indication:  For treatment of inoperable adrenocortical tumours; Cushing's syndrome
+DrugId:  12
+1. Name:  Technetium Tc-99m tetrofosmin
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m tetrofosmin is a drug used in nuclear myocardial perfusion imaging. The radioisotope, technetium-99m, is chelated by two 1,2-bis[di-(2-ethoxyethyl)phosphino]ethane ligands which belong to the group of diphosphines and which are referred to as tetrofosmin. It is a lipophilic technetium phosphine dioxo cation that was formulated into a freeze-dried kit which yields an injection.[1] Technetium Tc-99m tetrofosmin was developed by GE Healthcare and FDA approved on February 9, 1996.
+4. Indication:  Technetium-99m tetrofosmin is indicated for the diagnosis of heart abnormalities by exercise myocardial scintigraphy. The exercise myocardial scintigraphy is an established method for the diagnosis of the severity of coronary artery disease.[1] This method allows distinguishing regions of reversible myocardial ischemia in the presence or absence of infarcted myocardium following rest and stress conditions.[4] The use of technetium-99m tetrofosmin is mainly used to assess myocardial perfusion in ischemia and infarction.[3]
+DrugId:  13
+1. Name:  Cisplatin
+2. Groups:  Approved
+3. Description:  Cisplatin, cisplatinum or cis-diamminedichloroplatinum(II) (CDDP) is a platinum-based chemotherapy drug used to treat various types of cancers, including sarcomas, some carcinomas (e.g. small cell lung cancer, and ovarian cancer), lymphomas and germ cell tumors. It was the first member of its class, which now also includes carboplatin and oxaliplatin.
+4. Indication:  For the treatment of metastatic testicular tumors, metastatic ovarian tumors and advanced bladder cancer.
+DrugId:  14
+1. Name:  Medrogestone
+2. Groups:  Approved
+3. Description:  Medrogestone (INN), also known as 6,17α-dimethyl-6-dehydroprogesterone, is a progestational agent derived from 17-methylprogesterone. It was conceived as an alternative for an orally effective option.[1] It was developed by Ayerst, approved in Canada in 1969 and its current status is cancelled post-marketing.[7] It was never approved by the FDA.
+4. Indication:  Medrogestone is indicated as adjunct to treat endometial shedding in menopausal women, to treat secondary amenorrhea, to induce menses and to treat dysfunctional uterine bleeding in adult and adolescent women.[2]
+DrugId:  15
+1. Name:  Abiraterone
+2. Groups:  Approved
+3. Description:  Abiraterone is a derivative of steroidal progesterone and is an innovative drug that offers clinical benefit to patients with hormone refractory prostate cancer. Abiraterone is administered as an acetate salt prodrug because it has a higher bioavailability and less susceptible to hydrolysis than abiraterone itself. FDA approved on April 28, 2011.
+4. Indication:  Used in combination with prednisone for the treatment of metastatic, castration-resistant prostate cancer. 
+DrugId:  16
+1. Name:  Rubidium chloride Rb-82
+2. Groups:  Approved, Investigational
+3. Description:  Rubidium chloride Rb-82 injection is a sterile nonpyrogenic solutions of rubidium Rb 82 chloride. It is indicated for Positron Emission Tomography (PET) imaging of the myocardium under rest or pharmacologic stress conditions to evaluate regional myocardial perfusion in adult patients with suspected or existing coronary artery disease.
+4. Indication:  Rubidium Rb 82 chloride injection is indicated for Positron Emission Tomography (PET) imaging of the myocardium under rest or pharmacologic stress conditions to evaluate regional myocardial perfusion in adult patients with suspected or existing coronary artery disease.
+DrugId:  17
+1. Name:  OXI-4503
+2. Groups:  Investigational
+3. Description:  OXI-4503 is investigated in clinical trials for treating cancer/tumors. OXI-4503 is a solid. OXI-4503 blocks and destroys tumor vasculature, resulting in extensive tumor cell death and necrosis. OXI-4503 (combretastatin A1 di-phosphate / CA1P) is a unique and highly potent, dual-mechanism vascular disrupting agent (VDA). In addition, however, preclinical data demonstrates that OXI-4503 is metabolized by oxidative enzymes (e.g., tyrosinase and peroxidases), which are elevated in many solid tumors and tumor infiltrates, to an orthoquinone chemical species that has direct cytotoxic effects on tumor cells. Preclinical studies have demonstrated that OXI-4503 has (i) single-agent activity against a range of xenograft tumor models; and (ii) synergistic or additive effects when incorporated in various combination regimens with chemotherapy, molecularly-targeted therapies (including tumor-angiogenesis inhibitors), and radiation therapy.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  18
+1. Name:  ADH-1
+2. Groups:  Investigational
+3. Description:  Adherex's biotechnology compound, ADH-1, targets N-cadherin, a protein present on certain tumor cells and established tumor blood vessels. ADH-1 is currently in clinical development in a combination program with a range of chemotherapeutic agents to investigate the synergistic effects noted in our preclinical models. At the end of 2006, the Company also completed patient enrollment in our single-agent Phase Ib/II and Phase II trials of ADH-1.Cadherins are cell adhesion and cell signaling molecules crucial to the development of tissues, organs and organisms. Agents that target and inhibit cadherin function have the potential to attack the progression of cancer at two distinct points:* Direct targeting of cadherins expressed on cancer cells may disturb cadherin-mediated signaling, leading to apoptosis (death) of cancer cells.* Cadherin inhibitors may exploit the inherent structural weaknesses of the tumor vasculature, causing angiolysis (disruption of blood vessels) and tumor damage.As many tumors become more aggressive, invasive, and malignant, researchers have found that N-cadherin is expressed in greater amounts, making it an important target for developing anti-cancer treatments.Poorly differentiated, highly invasive carcinomas are characterized by over-expression of N-cadherin (as opposed to E-cadherin). This change in primary cadherin expression causes the epithelial cells to lose their tightly adherent, polarized and well-defined shape and become loosely adherent, flattened and migratory. Such cadherin switching promotes properties such as dedifferentiation, local invasion and metastasis, leading to poor prognosis.ADH-1 may have utility in a wide variety of cancers as N-cadherin is overexpressed in a variety of tumors. As tumors progress to become higher grade, invasive and more metastatic, the frequency of N-cadherin expression generally rises.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), melanoma, ovarian cancer, and solid tumors.
+DrugId:  19
+1. Name:  AP5346
+2. Groups:  Investigational
+3. Description:  AP5346 is designed to target a diaminocyclohexane platinum (Pt) moiety to tumors through pH-sensitive linkage to a 25 kDa hydroxypropylmethacrylamide polymer. It is being pursued by Access Pharmaceuticals, Inc.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  20
+1. Name:  Androstenedione
+2. Groups:  Experimental, Illicit
+3. Description:  A delta-4 C19 steroid that is produced not only in the testis, but also in the ovary and the adrenal cortex. Depending on the tissue type, androstenedione can serve as a precursor to testosterone as well as estrone and estradiol.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  22
+1. Name:  XL765
+2. Groups:  Investigational
+3. Description:  XL765 is an orally available small molecule that has been shown in preclinical studies to selectively inhibit the activity of phosphoinositide-3 kinase (PI3K) and mammalian target of rapamycin (mTOR). It is being developed by Exelixis, Inc.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  23
+1. Name:  Letrozole
+2. Groups:  Approved, Investigational
+3. Description:  Letrozole (INN, trade name Femara®) is an oral non-steroidal aromatase inhibitor that has been introduced for the adjuvant treatment of hormonally-responsive breast cancerEstrogens are produced by the conversion of androgens through the activity of the aromatase enzyme. Letrozole blocks production of estrogens in this way by competitive, reversible binding to the heme of its cytochrome P450 unit. The action is specific, and letrozole does not reduce production of mineralo- or corticosteroids. In contrast, the antiestrogenic action of tamoxifen, the major medical therapy prior to the arrival of aromatase inhibitors, is due to its interfering with the estrogen receptor, rather than inhibiting estrogen production.Letrozole is approved by the United States Food and Drug Administration (FDA) for the treatment of local or metastatic breast cancer that is hormone receptor positive or has an unknown receptor status in postmenopausal women. Side effects include signs and symptoms of hypoestrogenism. There is concern that long term use may lead to osteoporosis, which is why prescriptions of Letrozole are often accompanied by prescriptions of osteoporosis-fighting medication such as Fosamax.Letrozole has shown to reduce estrogen levels by 98 percent while raising testosterone levels. The anti-estrogen action of letrozole is preferred by athletes and bodybuilders for use during a steroid cycle to reduce bloating due to excess water retention and prevent the formation of gynecomastia related breast tissue that is a side effect of some anabolic steroids. Usage above 2.5 mg/day is known to potentially temporarily kill sex drive. Above 5mg/day for extended periods may cause kidney problems.Letrozole has also been shown to delay the fusing of the growth plates in adolescents. This may boost the effectiveness of growth hormone, and thus Letrozole is used to treat adolescents and children with short stature.
+4. Indication:  For the extended adjuvant treatment of early breast cancer in postmenopausal women who have received 5 years of adjuvant tamoxifen therapy. Also for first-line treatment of postmenopausal women with hormone receptor positive or hormone receptor unknown locally advanced or metastatic breast cancer. Also indicated for the treatment of advanced breast cancer in postmenopausal women with disease progression following antiestrogen therapy.
+DrugId:  24
+1. Name:  Corticorelin acetate
+2. Groups:  Investigational
+3. Description:  Corticorelin acetate has been investigated for the treatment of Brain Edema and Brain Tumor.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  IDM-4
+2. Groups:  Investigational
+3. Description:  IDM-4 is an immuno-designed molecule that completed phase I/II of investigation for the treatment of Leukemia. It is a monoclonal antibody-specific antigen that can selectively target cancer-affected cells by coupling with tumor cell-killing MAK cells, which are derived from the patient's own monocytes. Trials of this drug have most likely been discontinued by the manufacturer.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Rifalazil
+2. Groups:  Investigational
+3. Description:  Rifalazil is a derivative of the antibiotic rifamycin. It is being investigated by ActivBiotics for the treatment of various bacterial infections.
+4. Indication:  Investigated for use/treatment in atherosclerosis, bacterial infection, and peripheral vascular disease.
+DrugId:  2
+1. Name:  Evernimicin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection.
+DrugId:  3
+1. Name:  Nitazoxanide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Nitazoxanide belongs to the class of drugs known as thiazolides. Nitazoxanide (NTZ) is a broad-spectrum anti-infective drug that markedly modulates the survival, growth, and proliferation of a range of extracellular and intracellular protozoa, helminths, anaerobic and microaerophilic bacteria, in addition to viruses. This drug is effective in the treatment of gastrointestinal infections including Cryptosporidium parvum or Giardia lamblia in healthy subjects. It is generally well tolerated. Nitazoxanide is a first-line, standard treatment for illness caused by C. parvum or G. lamblia infection in healthy (not immunosuppressed) adults and children and may also be considered in the treatment of illnesses caused by other protozoa or helminths [2]. Recently, this drug has been studied as a broad-spectrum antiviral agent due to its ability to inhibit the replication of several RNA and DNA viruses [3].
+4. Indication:  For the treatment of diarrhea in adults and children caused by the protozoa Giardia lamblia, and for the treatment of diarrhea in children caused by the protozoan, Cryptosporidium parvum [FDA Label].Nitazoxanide has not been shown to be superior to placebo medication for the management of diarrhea caused by Cryptosporidium parvum in patients with HIV/immunodeficiency [FDA Label]. 
+DrugId:  4
+1. Name:  P-nitrobiphenyl
+2. Groups:  Approved, Investigational
+3. Description:  Pnb has been used in trials studying the treatment of Pelvic Organ Prolapse.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Omiganan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection and rosacea.
+DrugId:  6
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  7
+1. Name:  Asvasiran
+2. Groups:  Investigational
+3. Description:  Asvasiran is an siRNA that targets the respiratory syncytial virus (RSV) N gene and inhibits viral replication. It has the potential to treat or prevent RSV infection.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.
+DrugId:  8
+1. Name:  EHT899
+2. Groups:  Investigational
+3. Description:  EHT899 is a proprietary formulation of an HBV viral protein designed to eliminate the undesirable immune response elicited by the HBV infection. It also apparently enhances a secondary immune response to clear the viral infection, resulting in reduction in liver damage and decrease in viral load.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  9
+1. Name:  BTA798
+2. Groups:  Investigational
+3. Description:  BTA798 is an antiviral for the treatment of HRV, the common cold virus, known to cause significant clinical complications in sufferers of Asthma and Chronic Obstructive Pulmonary Disease.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  10
+1. Name:  Surotomycin
+2. Groups:  Investigational
+3. Description:  Surotomycin has been used in trials studying the treatment of Diarrhea and Clostridium Difficile Infection.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Capromab pendetide
+2. Groups:  Approved
+3. Description:  Capromab is a Murine IgG1 monoclonal 7E11-C5.3 antibody that recognizes prostate specific membrane antigen (PSMA – also known as glutamate carboxypeptidase 2) from prostate cancer cells and normal prostate tissue. It is linked to pendetide, a derivative of DTPA. Pendetide acts as a chelating agent for the radionuclide indium-111. Capromab is used to image the extent of prostate cancer.
+4. Indication:  For diagnosis of prostate cancer and detection of intra-pelvic metastases.
+DrugId:  12
+1. Name:  CPG 10101
+2. Groups:  Investigational
+3. Description:  CPG 10101 is a synthetic oligodeoxynucleotide (ODN) in clinical trials. It is a toll-like receptor 9 (TLR9) agonist with antiviral and immunomodulatory properties that could potentially influence chronic infection with HCV.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C) and viral infection.
+DrugId:  13
+1. Name:  HGTV-43
+2. Groups:  Investigational
+3. Description:  HGTV43 is an anti-sense treatment designed to produce T cells that are genetically resistant to HIV infection. HGTV43 is one of a number of so-called 'gene transfer vectors' developed by the biotechnology company Enzo Biochem, Inc.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  14
+1. Name:  LC16M8
+2. Groups:  Investigational
+3. Description:  LC16m8 is a next-generation, attenuated smallpox vaccine that is designed to have a better safety profile, yet be equally effective, compared to conventional smallpox vaccines. It is the only attenuated vaccine to be licensed for use in humans to prevent smallpox infection. 
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  15
+1. Name:  PRO 2000
+2. Groups:  Investigational
+3. Description:  PRO 2000 is an investigational medicine that is not yet approved by the FDA for use outside of clinical trials. It is being studied for the prevention of HIV infection and other sexually transmitted diseases. This medicine does not cure HIV infection or AIDS and is being studied to reduce the risk of passing the virus to other people.
+4. Indication:  Investigated for use/treatment in HIV prevention, prevention of stdis, and vaginal infection.
+DrugId:  16
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  17
+1. Name:  MVA3000
+2. Groups:  Investigational
+3. Description:  MVA3000 is an attenuated smallpox vaccine that is being developed for use in people for whom the traditional smallpox vaccine is contraindicated, such as patients with disorders of the immune system or skin conditions such as eczema.
+4. Indication:  Investigated for use/treatment in viral infection.
+DrugId:  18
+1. Name:  Bezlotoxumab
+2. Groups:  Approved, Investigational
+3. Description:  Bezlotoxumab is a human monoclonal antibody that binds to Clostridium difficile toxin B and neutralizes its effects. Used to reduce the recurrence of Clostridium difficle infection in adults receiving antibiotic therapy to treat C. difficile infection and high risk of recurrence.
+4. Indication:  Prevents recurrence of Clostridium difficile infection in people 18 years or older who are either currently receiving treatment for C. difficile infection or have a high risk of recurrence. 
+DrugId:  19
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  20
+1. Name:  AVI-4020
+2. Groups:  Investigational
+3. Description:  AVI-4020 is a neugene antisense drug candidate for the treatment of patients with acute West Nile virus disease who have serious neurological impairment (WNV neuroinvasive disease).
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified) and viral infection.
+DrugId:  21
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  22
+1. Name:  IC41
+2. Groups:  Investigational
+3. Description:  IC41 is a therapeutic peptide vaccine. It is being devloped by Intercell AG for the treatment of hepatitis C. The vaccine consists of five synthetic peptides (IPEP83, 84, 87, 89,1426) harboring HCV CD4 and CD8 T-cell epitopes and the synthetic adjuvant poly-L-arginine. 
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  23
+1. Name:  CCR5 mAb
+2. Groups:  Investigational
+3. Description:  CCR5 mAb is a fully human monoclonal antibody that specifically recognizes and binds the chemokine receptor CCR5, which is known to be a key facilitator of infection with human immunodeficiency virus (HIV-1). It was generated by HGS using the Abgenix XenoMouse technology. 
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  24
+1. Name:  R-851
+2. Groups:  Investigational
+3. Description:  R-851 is part of the family of immune response modifier (IRM) and it acts in a novel way to stimulate the human body's immnune system to attack virus-infected cells and tumor cells. It is expected to be topical treatment for cervical displasia and cervical high-risk human papillomavirus (HPV), the sexually transmitted virus that causes most cases of cervical cancer.
+4. Indication:  Investigated for use/treatment in cervical dysplasia/cancer and viral infection.
+DrugId:  25
+1. Name:  alpha-Hydroxy glycineamide
+2. Groups:  Investigational
+3. Description:  Alpha-hydroxy glycineamide (αHGA) is the active antiviral metabolite of tri-peptide glycyl-prolyl-glycine-amide (GPG-NH2). αHGA inhibits the replication of HIV-1 in vitro by interfering with the capsid formation. It also has an effect on viral gp160 envelope protein. [3]
+4. Indication:  Investigated for use/treatment in HIV infection.

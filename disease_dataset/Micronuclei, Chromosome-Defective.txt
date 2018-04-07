@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Isavuconazole
+2. Groups:  Approved, Investigational
+3. Description:  Isavuconazole is an triazole antifungal with broad spectrum of activity and good safety profile [1]. It is approved by the FDA and EMA for the treatment of invasive aspergillosis and mucormycosis. It works by inhibiting fungal cell membrane synthesis. Invasive fungal infections pose significant clinical challenges for patients, especially those who are immunocompromised. In vitro, most of the Candida species, most Aspergillus species, Mucorales, Cryptococcus spp., Fusarium species, dermatophytes and dimorphic fungi displayed susceptibility to isavuconzaole [3]. Resistance to isavuconazole has been associated with the mutation in the target gene CYP51 [FDA Label]. Cross-resistance between isavuconazole and other azoles was also proposed although the clinical relevance is unclear [FDA Label]. Its prodrug, Isavuconazonium, is commonly used as an active ingredient in commercially available formulations due to low water solubility of isavuconazole. The prodrug formulation of isavuconazole is FDA- and EMA-approved and is marketed under the trade name Cresemba for the treatment of invasive aspergillosis and mucormycosis as oral or intravenous administration. The intravenous formulation is cyclodextrin-free which gives isavuconazole an advantage over other azole antifungals that requires cyclodextrin for facilitating drug solubility; this is because cyclodextrin has a potential for nephrotoxicity [3]. It is proposed that the intravenous and oral dosing can be used interchangeably [4], without the need for a repeat loading dose when transitioning from an IV to an oral formulation [1]. Isavuconazonium displays excellent water solubility for intravenous formulations, good absorption, and enhanced oral bioavailability [1]. Following administration, isavuconazonium undergoes biotransformation to form the active moiety, isavuconazole, for the antifungal actions.
+4. Indication:  Indicated for patients 18 years of age and older for the treatment of invasive aspergillosis [FDA Label].Indicated for patients 18 years of age and older for the treatment of invasive mucormycosis [FDA Label], including patients where treatment amphotericin B is inappropriate [4].
+DrugId:  2
+1. Name:  Radotinib
+2. Groups:  Investigational
+3. Description:  Radotinib is under investigation for the treatment of Leukemia, Myelogenous, Chronic, BCR-ABL Positive.
+4. Indication:  Radotinib is indicated for the treatment of different types of cancer, most notably Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) with resistance or intolerance of other Bcr-Abl tyrosine-kinase inhibitors, such as patients resistant or intolerant to imatinib.
+DrugId:  3
+1. Name:  Paromomycin
+2. Groups:  Approved, Investigational
+3. Description:  An oligosaccharide antibiotic produced by various streptomyces. [PubChem]
+4. Indication:  For the treatment of acute and chronic intestinal amebiasis (it is not effective in extraintestinal amebiasis). Also for the management of hepatic coma as adjunctive therapy.
+DrugId:  4
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  5
+1. Name:  CG0070
+2. Groups:  Investigational
+3. Description:  CG0070 is investigated in clinical trials for treating bladder cancer. CG0070 is a solid. CG0070 can potentially destroy cancer cells by two different mechanisms: direct cell killing by the virus and immune-mediated cell killing stimulated by GM-CSF. CG0070, an oncolytic virus therapy with specificity for multiple cancers, has been evaluated in numerous preclinical studies. It has been engineered to secrete GM-CSF, an immune stimulating hormone, which also serves as the adjuvant in cancer immunotherapy.
+4. Indication:  Investigated for use/treatment in bladder cancer.
+DrugId:  6
+1. Name:  Bosutinib
+2. Groups:  Approved
+3. Description:  Bosutinib is a Bcr-Abl kinase inhibitor for the treatment of Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML). Compared to other tyrosine kinase inhibitors, it has a more favourable hematologic toxicity profile. FDA approved on September 4, 2012. 
+4. Indication:  Treatment of chronic, accelerated, or blast phase Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) with resistance or intolerance to prior therapy in adult patients. 
+DrugId:  7
+1. Name:  GSK-923295
+2. Groups:  Investigational
+3. Description:  GSK-923295 is a small-molecule inhibitor of the mitotic kinesin centromere-associated protein E (CENP-E), and the third novel drug candidate to arise from Cytokinetics' broad strategic alliance with GlaxoSmithKline (GSK). GSK-923295 demonstrated a broad spectrum of activity against a range of human tumor xenografts grown in nude mice, including models of colon, breast, ovarian, lung and other tumors. GSK-923295 is the first drug candidate to enter human clinical trials that specifically targets CENP-E and is currently in Phase I human clinical trials being conducted by GSK.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  8
+1. Name:  ABL-001
+2. Groups:  Investigational
+3. Description:  ABL001 has been used in trials studying the health services research of Chronic Myelogenous Leukemia and Philadelphia Chromosome-positive Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Lenalidomide
+2. Groups:  Approved
+3. Description:  Lenalidomide (initially known as CC-5013 and marketed as Revlimid® by Celgene) is a derivative of thalidomide introduced in 2004. It was initially intended as a treatment for multiple myeloma, for which thalidomide is an accepted therapeutic modality, but has also shown efficacy in the hematological disorders known as the myelodysplastic syndromes. [Wikipedia] FDA approved on December 27, 2005. 
+4. Indication:  Lenalidomide is indicated for the treatment of multiple myeloma in combination with dexamethasone. It is also indicated for the treatment of patients with transfusion-dependent anemia due to low- or intermediate- risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+DrugId:  10
+1. Name:  Bevirimat
+2. Groups:  Investigational
+3. Description:  Bevirimat, also known as PA-457 or YK-FH312, is investigated in clinical trials for treating HIV infection. Bevirimat is a solid. This compound belongs to the androgens and derivatives, which are hydroxylated C19 steroid hormones. They are known to favour the development of masculine characteristics. They also show profound effects on scalp and body hair in humans. Bevirimat targets the protein gag-pol polyprotein. Bevirimat is derived from a betulinic acid-like compound, first isolated from Syzygium claviflorum, a Chinese herb. It is not currently FDA-approved, but is undergoing clinical trials conducted by the pharmaceutical company Panacos.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  11
+1. Name:  Imatinib
+2. Groups:  Approved
+3. Description:  Imatinib is a small molecule kinase inhibitor used to treat certain types of cancer. It is currently marketed by Novartis as Gleevec (USA) or Glivec (Europe/Australia) as its mesylate salt, imatinib mesilate (INN). It is occasionally referred to as CGP57148B or STI571 (especially in older publications). It is used in treating chronic myelogenous leukemia (CML), gastrointestinal stromal tumors (GISTs) and a number of other malignancies.It is the first member of a new class of agents that act by inhibiting particular tyrosine kinase enzymes, instead of non-specifically inhibiting rapidly dividing cells.
+4. Indication:  For the treatment of Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML), Ph+ acute lymphoblastic leukaemia, myelodysplastic/myeloproliferative diseases, aggressive systemic mastocytosis, hypereosinophilic syndrome and/or chronic eosinophilic leukemia (CEL), dermatofibrosarcoma protuberans, and malignant gastrointestinal stromal tumors (GIST).
+DrugId:  12
+1. Name:  Refametinib
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  13
+1. Name:  Tezacaftor
+2. Groups:  Approved, Investigational
+3. Description:  Tezacaftor is a small molecule that can be used as a corrector of the cystic fibrosis transmembrane conductance regulator (CFTR) gene function.[4] It was developed by Vertex Pharmaceuticals and FDA approved in combination with ivacaftor; a CFTR potentiator that allows the proteins at the cell surface to open longer and improve nutrient transport.[5] The approval was done on February 12, 2018, to be used under prescription.
+4. Indication:  Tezacaftor, in combination with ivacaftor, is indicated for the treatment of cystic fibrosis in people aged 12 years or older who have two copies of the F508del mutation or at least one mutation in the CFTR gene that is responsive to this treatment based on clinical evidence.[6]Cystic fibrosis is a rare, life-shortening disease caused by a defective or missing CFTR protein. This modification in the protein is caused by a mutation in the CFTR gene. The affected people carry two inherited defective copies of the CFTR gene. There are approximately 2000 known mutations in the CFTR gene. The presence of a defective or missing protein results in poor flow of salt and water into and out of the cell. This condition will cause the buildup of abnormally thick, sticky mucus in the lungs that will later potentially cause chronic lung infections and lung damage. In the patients with the F508del mutation, the CFTR protein is not processed or folded normally within the cell and thus, it does not reach the cell surface.[7]
+DrugId:  14
+1. Name:  Terazosin
+2. Groups:  Approved
+3. Description:  Terazosin is a selective alpha1-antagonist used for treatment of symptoms of benign prostatic hyperplasia (BPH). It also acts to lower blood pressure, so it is a drug of choice for men with hypertension and prostate enlargement. It works by blocking the action of adrenaline on smooth muscle of the bladder and the blood vessel walls.
+4. Indication:  For the treatment of symptomatic BPH and mild to moderate hypertension.
+DrugId:  15
+1. Name:  Idursulfase
+2. Groups:  Approved
+3. Description:  Idursulfase is a purified form of human iduronate-2-sulfatase, a lysosomal enzyme. Idursulfase is produced by recombinant DNA technology in a human cell line. Idursulfase is an enzyme that hydrolyzes the 2-sulfate esters of terminal iduronate sulfate residues from the glycosaminoglycans dermatan sulfate and heparan sulfate in the lysosomes of various cell types. Idursulfase is a 525-amino acid glycoprotein with a molecular weight of approximately 76 kilodaltons. The enzyme contains eight asparagine-linked glycosylation sites occupied by complex oligosaccharide structures. The enzyme activity of idursulfase is dependent on the post-translational modification of a specific cysteine to formylglycine.
+4. Indication:  For the treatment of Hunter syndrome in adults and children ages 5 and older.
+DrugId:  16
+1. Name:  Ponatinib
+2. Groups:  Approved, Investigational
+3. Description:  Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.
+4. Indication:  Ponatinib is indicated for the treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia (CML) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy or Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ALL) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy.
+DrugId:  17
+1. Name:  Acadesine
+2. Groups:  Investigational
+3. Description:  Acadesine (AICA-riboside) is a purine nucleoside analog with anti-ischemic properties that is currently being studied (Phase 3) for the prevention of adverse cardiovascular outcomes in patients undergoing coronary artery bypass graft (CABG) surgery. It is being developed jointly by PeriCor and Schering-Plough. Acadesine has been granted Orphan Drug Designation for B-CLL in the EU.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury, cardiovascular disorders, and coronary artery disease.
+DrugId:  18
+1. Name:  Tirapazamine
+2. Groups:  Investigational
+3. Description:  Tirapazamine (SR-4233) is an experimental anticancer drug that is activated to a toxic radical only at very low levels of oxygen (hypoxia). Such levels are common in human solid tumors, a phenomenon known as tumor hypoxia. Thus, tirapazamine is activated to its toxic form preferentially in the hypoxic areas of solid tumors. Cells in these regions are resistant to killing by radiotherapy and most anticancer drugs. Thus the combination of tirapazamine with conventional anticancer treatments is particularly effective. As of 2006, tirapazamine is undergoing phase III testing in patients with head and neck cancer and gynecological cancer, and similar trials are being undertaken for other solid tumor types. [Wikipedia]
+4. Indication:  For the treatment of head and neck cancer.
+DrugId:  19
+1. Name:  Uridine triacetate
+2. Groups:  Approved, Investigational
+3. Description:  Uridine triacetate, formerly known as vistonuridine, is an orally active prodrug of the naturally occurring nucleoside uridine. It is used for the treatment of hereditary orotic aciduria (Xuriden), or for the emergency treatment of fluorouracil or capecitabine overdose or toxicity (Vistogard). It is provided in the prodrug form as uridine triacetate as this form delivers 4- to 6-fold more uridine into the systemic circulation compared to equimolar doses of uridine itself. When used for the treatment or prevention of toxicity associated with fluorouracil and other antimetabolites, uridine triacetate is utilized for its ability to compete with 5-fluorouracil (5-FU) metabolites for incorporation into the genetic material of non-cancerous cells. It reduces toxicity and cell-death associated with two cytotoxic intermediates: 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). Normally, FdUMP inhibits thymidylate synthase required for thymidine synthesis and DNA replication and repair while FUTP incorporates into RNA resulting in defective strands. As a result, these metabolites are associated with various unpleasant side effects such as neutropenia, mucositis, diarrhea, and hand–foot syndrome. Like many other neoplastic agents, these side effects limit the doses of 5-FU that can be administered, which also affects the efficacy for treatment. By pre-administering with uridine (as the prodrug uridine triacetate), higher doses of 5-FU can be given allowing for improved efficacy and a reduction in toxic side effects [3]. It can also be used as a rescue therapy if severe side effects present within 96 hours after initiation of therapy. Uridine triacetate is also used for the treatment of hereditary orotic aciduria, also known as uridine monophosphate synthase deficiency. This rare congenital autosomal recessive disorder of pyrimidine metabolism is caused by a defect in uridine monophosphate synthase (UMPS), a bifunctional enzyme that catalyzes the final two steps of the de novo pyrimidine biosynthetic pathway. As a result of UMPS deficiency, patients experience a systemic deficiency of pyrimidine nucleotides, accounting for most symptoms of the disease. Additionally, orotic acid from the de novo pyrimidine pathway that cannot be converted to UMP is excreted in the urine, accounting for the common name of the disorder, orotic aciduria. Furthermore, orotic acid crystals in the urine can cause episodes of obstructive uropathy. When administered as the prodrug uridine triacetate, uridine can be used by essentially all cells to make uridine nucleotides, which compensates for the genetic deficiency in synthesis in patients with hereditary orotic aciduria. When intracellular uridine nucleotides are restored into the normal range, overproduction of orotic acid is reduced by feedback inhibition, so that urinary excretion of orotic acid is also reduced.
+4. Indication:  Marketed as the product Xuriden (FDA), uridine triacetate is indicated for the treatment of hereditary orotic aciduria.Marketed as the product Vistogard (FDA), uridine triacetate is indicated for the emergency treatment of adult and pediatric patients in the following situations: following a fluorouracil or capecitabine overdose regardless of the presence of symptoms; or who exhibit early-onset, severe or life-threatening toxicity affecting the cardiac or central nervous system, and/or early-onset, unusually severe adverse reactions (e.g., gastrointestinal toxicity and/or neutropenia) within 96 hours following the end of fluorouracil or capecitabine administration. 
+DrugId:  20
+1. Name:  Davunetide
+2. Groups:  Investigational
+3. Description:  Davunetide has been used in trials studying the treatment of Progressive Nonfluent Aphasia, Progressive Supranuclear Palsy, Predicted Tauopathies, Including, Corticobasal Degeneration Syndrome, and Frontotemporal Dementia With Parkinsonism Linked to Chromosome 17.Davunetide is the first drug to improve memory performance by impacting the mechanisms that lead to physical damage in the brain caused by neurofibrillary tangles, one of the two established pathological hallmarks that are common to amnestic mild cognitive impairment (aMCI) and Alzheimer's disease (AD). Davunetide is derived from a naturally occurring neuroprotective brain protein known as activity dependent neuroprotective protein.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Azacitidine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analogue that inhibits DNA methyltransferase, impairing DNA methylation. It is also an antimetabolite of cytidine, incorporated primarily into RNA. Azacytidine has been used as an antineoplastic agent. [PubChem]
+4. Indication:  For treatment of patients with the following French-American-British myelodysplastic syndrome subtypes: refractory anemia or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts, refractory anemia with excess blasts in transformation (now classified as acute myelogenous leukemia with multilineage dysplasia), and chronic myelomonocytic leukemia.
+DrugId:  22
+1. Name:  Trifluridine
+2. Groups:  Approved, Investigational
+3. Description:  An antiviral derivative of thymidine used mainly in the treatment of primary keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus. (From Martindale, The Extra Pharmacopoeia, 30th ed, p557)
+4. Indication:  Ophthalmic solution for the treatment of primay keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus, types 1 and 2.
+DrugId:  23
+1. Name:  Gadobutrol
+2. Groups:  Approved
+3. Description:  Intravenous gadobutrol is a second-generation extracellular non-ionic macrocyclic GBCA (gadolinium-based contrast agent) used in magnetic resonance imaging (MRI) in adults and children older than 2 years of age. It may help visualize and detect vascular abnormalities in the blood brain barrier (BBB) and central nervous system (CNS). In patients with impaired renal function, gadolinium based contrast agents increase the risk of nephrogenic systemic fibrosis (NSF). A physician should be contacted if symptoms of NSF are encountered, such as dark or red patches on the skin; stiffness in joints; trouble moving, bending or straightening arms, hands, legs or feet; burning, itching, swelling, scaling, hardening and tightening of skin; pain in hip bones or ribs; or muscle weakness. Common adverse reactions that may be experienced include headache, nausea, feeling hot, abnormal taste, and warmth, burning or pain local to the injection site. General precautions should be taken in patients who are pregnant or breastfeeding, or who have a history of allergic reaction to contrast media, bronchial asthma or an allergic respiratory disorder.
+4. Indication:  For diagnostic use only. Indicated for adults and children age 2 and over for contrast enhancement during cranial and spinal MRI, and for contrast-enhanced magnetic resonance angiography (CE-MRA). Gadobutrol is particularly suited for the detection of very small lesions and for the visualization of tumors that do not readily take up contrast media. It may be a desired agent when the exclusion or demonstration of an additional pathology may influence the choice of therapy or patient management. It may also be suitable for perfusion studies in the diagnosis of stroke, detection of focal cerebral ischemia, and in studies of tumor perfusion. 
+DrugId:  24
+1. Name:  Ceftriaxone
+2. Groups:  Approved
+3. Description:  A broad-spectrum cephalosporin antibiotic with a very long half-life and high penetrability to meninges, eyes and inner ears. [PubChem]
+4. Indication:  For the treatment of the infections (respiratory, skin, soft tissue, UTI, ENT) caused by S. pneumoniae, H. influenzae, staphylococci, S. pyogenes (group A beta-hemolytic streptococci), E. coli, P. mirabilis, Klebsiella sp, coagulase-negative staph
+DrugId:  25
+1. Name:  Riluzole
+2. Groups:  Approved, Investigational
+3. Description:  A glutamate antagonist (receptors, glutamate) used as an anticonvulsant (anticonvulsants) and to prolong the survival of patients with amyotrophic lateral sclerosis. Riluzole is marketed as Rilutek by Sanofi. 
+4. Indication:  For the treatment of amyotrophic lateral sclerosis (ALS, Lou Gehrig's Disease)

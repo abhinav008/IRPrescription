@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Eniluracil
+2. Groups:  Investigational
+3. Description:  Eniluracil, which was previously under development by GlaxoSmithKline (GSK), is being developed by Adherex to enhance the therapeutic value and effectiveness of 5-fluorouracil (5-FU), one of the world’s most widely-used oncology agents. 5-FU is widely used in the U.S. and is often first or second line therapy for a variety of cancers including colorectal, breast, gastric, head and neck, ovarian and basal cell cancer of the skin. Eniluracil could improve 5-FU by increasing its effectiveness, reducing its side effects and/or making it orally available. Eniluracil has received Orphan Drug status from the FDA for the treatment of hepatocellular cancer in combination with fluoropyrimidines (including 5-FU).
+4. Indication:  For the treatment of cancer in combination with 5-fluorouracil.
+DrugId:  2
+1. Name:  Gimeracil
+2. Groups:  Approved
+3. Description:  Gimeracil is an adjunct to antineoplastic therapy, used to increase the concentration and effect of the main active componets within chemotherapy regimens. Approved by the European Medicines Agency (EMA) in March 2011, Gimeracil is available in combination with Oteracil and Tegafur within the commercially available product "Teysuno". The main active ingredient in Teysuno is Tegafur, a pro-drug of Fluorouracil (5-FU), which is a cytotoxic anti-metabolite drug that acts on rapidly dividing cancer cells. By mimicking a class of compounds called "pyrimidines" that are essential components of RNA and DNA, 5-FU is able to insert itself into strands of DNA and RNA, thereby halting the replication process necessary for continued cancer growth. Gimeracil's main role within Teysuno is to prevent the breakdown of Fluorouracil (5-FU), which helps to maintin high enough concentrations for sustained effect against cancer cells [2]. It functions by reversibly and selectively blocking the enzyme dihydropyrimidine dehydrogenase (DPD), which is involved in the degradation of 5-FU [1]. This allows higher concentrations of 5-FU to be achieved with a lower dose of tegafur, thereby also reducing toxic side effects.
+4. Indication:  Gimeracil is used as an adjunct to antineoplastic therapy. When used within the product Teysuno, gimeracil is indicated for the treatment of adults with advanced gastric (stomach) cancer when given in combination with cisplatin.
+DrugId:  3
+1. Name:  Tegafur-uracil
+2. Groups:  Approved, Investigational
+3. Description:  Tegafur-uracil is an anti-tumor compound containing tegafur (1-(2-tetrahydrofuryl)-5-fluorouracil) and uracil in a molar ratio of 1:4. It was developed as an anti-cancer therapy by Taiho Pharmaceutical Co Ltd.[1] It is approved in different countries but it is not yet approved by the FDA, Health Canada or EMA.
+4. Indication:  Tegafur-uracil is indicated for the first line treatment of metastatic colorectal cancer with concomitant administration of calcium folinate.[8] Colorectal cancer is the third most diagnosed cancer and 30% of the cases can present the metastatic state.[5]
+DrugId:  4
+1. Name:  (5s)-5-Iododihydro-2,4(1h,3h)-Pyrimidinedione
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Pyruvic acid
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  6
+1. Name:  5-Fluoro-4-(S)-Hydroxy-3,4-Dihydropyrimidine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Tegafur
+2. Groups:  Approved, Investigational
+3. Description:  Tegafur (INN, BAN, USAN) is a prodrug of Fluorouracil (5-FU), an antineoplastic agent used as the treatment of various cancers such as advanced gastric and colorectal cancers. It is a pyrimidine analogue used in combination therapies as an active chemotherapeutic agent in conjunction with Gimeracil and Oteracil, or along with Fluorouracil as Tegafur-uracil. Tegafur is usually given in combination with other drugs that enhance the bioavailability of the 5-FU or limit its toxicity. When metabolized and bioactivated to 5-FU, the drug mediates an antitumor activity by inhibiting thymidylate synthase (TS) to disrupt DNA replication in tumors. 5-FU is listed on the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated for the treatment of cancer usually in combination with other biochemically modulating drugs.
+DrugId:  8
+1. Name:  L-Carnitine
+2. Groups:  Approved, Investigational
+3. Description:  Constituent of striated muscle and liver. It is used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+4. Indication:  For treatment of primary systemic carnitine deficiency, a genetic impairment of normal biosynthesis or utilization of levocarnitine from dietary sources, or for the treatment of secondary carnitine deficiency resulting from an inborn error of metabolism such as glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency. Used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias. Parenteral levocarnitine is indicated for the prevention and treatment of carnitine deficiency in patients with end-stage renal disease.
+DrugId:  9
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  11
+1. Name:  Sulfamerazine
+2. Groups:  Approved, Vet approved
+3. Description:  A sulfanilamide that is used as an antibacterial agent. [PubChem]
+4. Indication:  A sulfanilamide that is used as an antibacterial agent. It can be used to treat bronchitis, prostatitis and urinary tract infections.
+DrugId:  12
+1. Name:  Estrone
+2. Groups:  Approved
+3. Description:  Estrone, one of the major mammalian estrogens, is an aromatized C18 steroid with a 3-hydroxyl group and a 17-ketone. It is produced in vivo from androstenedione or from testosterone via estradiol. It is produced primarily in the ovaries, placenta, and in peripheral tissues (especially adipose tissue) through conversion of adrostenedione. Estrone may be further metabolized to 16-alpha-hydroxyestrone, which may be reduced to estriol by estradiol dehydrogenase.
+4. Indication:  For management of perimenopausal and postmenopausal symptoms.
+DrugId:  13
+1. Name:  4-Imino-5-Methidyl-2-Methylpyrimidine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  4-Hydroxy-3,4-Dihydro-1h-Pyrimidin-2-One
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  4-Imino-5-Methidyl-2-Trifluoromethylpyrimidine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Fomepizole
+2. Groups:  Approved, Vet approved
+3. Description:  Fomepizole is used as an antidote in confirmed or suspected methanol or ethylene glycol poisoning. Fomepizole is a competitive inhibitor of alcohol dehydrogenase, the enzyme that catalyzes the initial steps in the metabolism of ethylene glycol and methanol to their toxic metabolites.
+4. Indication:  Antizol is indicated as an antidote for ethylene glycol (such as antifreeze) or methanol poisoning, or for use in suspected ethylene glycol or methanol ingestion, either alone or in combination with hemodialysis
+DrugId:  17
+1. Name:  5-Methyl-5-(4-Phenoxy-Phenyl)-Pyrimidine-2,4,6-Trione
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  (2R,6S)-6-{[methyl(3,4,5-trimethoxyphenyl)amino]methyl}-1,2,5,6,7,8-hexahydroquinazoline-2,4-diamine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  INCB13739
+2. Groups:  Investigational
+3. Description:  INCB13739 is developed as a new treatment for type 2 diabetes.It is an orally available small molecule inhibitor of 11beta-HSD1 (11-beta hydroxysteroid dehydrogenase type 1). 11beta-HSD1 is an enzyme that appears to be critical to the development of type 2 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and diabetes prevention.
+DrugId:  21
+1. Name:  3-Butylthiolane 1-Oxide
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  N-Formylpiperidine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  25
+1. Name:  Ferrous asparto glycinate
+2. Groups:  Approved
+3. Description:  Ferrous asparto glycinate is an iron-amino acid chelate. It is available as a dietary supplement used in the treatment of iron deficiency and iron deficiency anemia.
+4. Indication:  Not Available

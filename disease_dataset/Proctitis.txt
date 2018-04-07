@@ -1,0 +1,15 @@
+DrugId:  1
+1. Name:  Spectinomycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An antibiotic produced by Streptomyces spectabilis. It is active against gram-negative bacteria and used for the treatment of gonorrhea.
+4. Indication:  For use in the treatment of acute gonorrheal urethritis and proctitis in the male and acute gonorrheal cervicitis and proctitis in the female when due to susceptible strains of Neisseria gonorrhoeae.
+DrugId:  2
+1. Name:  Lymecycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline with a 7-chloro substitution.
+4. Indication:  For the treatment of infections and to treat acne. It may also be used to treat urinary tract infections, gum disease, and other bacterial infections such as gonorrhea and chlamydia. Lymecycline is also used commonly as a prophylactic treatment for infection by Bacillus anthracis (anthrax). It is also effective against Yersinia pestis and malaria and is also prescribed for the treatment of Lyme disease.
+DrugId:  3
+1. Name:  Mesalazine
+2. Groups:  Approved
+3. Description:  An anti-inflammatory agent, structurally related to the salicylates, which is active in inflammatory bowel disease. It is considered to be the active moiety of sulphasalazine. (From Martindale, The Extra Pharmacopoeia, 30th ed)
+4. Indication:  For the treatment of active ulcerative proctitis.

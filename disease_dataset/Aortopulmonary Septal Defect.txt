@@ -1,0 +1,105 @@
+DrugId:  1
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  2
+1. Name:  AC-100
+2. Groups:  Investigational
+3. Description:  AC-100 is a novel synthetic peptide derived from an endogenous human protein produced by bone and dental cells (a fragment from matrix extracellular phosphoglycoprotein). It is being developed by Acologix, Inc.
+4. Indication:  Investigated for use/treatment in periodontal disease.
+DrugId:  3
+1. Name:  Coagulation Factor IX Human
+2. Groups:  Approved
+3. Description:  Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.
+4. Indication:  Factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection factor IX produced from human plasma. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.
+DrugId:  4
+1. Name:  Thrombin
+2. Groups:  Approved, Investigational
+3. Description:  Also known as coagulation factor II, thrombin is a serine protease that plays a physiological role in regulating hemostasis and maintaining blood coagulation. Once converted from prothrombin, thrombin converts fibrinogen to fibrin, which, in combination with platelets from the blood, forms a clot. Medical thrombin is a protein substance produced through a conversion reaction in which prothrombin of bovine origin is activated by tissue thromboplastin in the presence of calcium chloride. Thrombin requires no intermediate physiological agent for its action. It clots the fibrinogen of the blood directly. Failure to clot blood occurs in the rare case where the primary clotting defect is the absence of fibrinogen itself.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Ataluren
+2. Groups:  Approved, Investigational
+3. Description:  Ataluren is a novel, orally administered drug that targets nonsense mutations. Ataluren is approved for use by the European Medicines Agency to treat Duchenne Muscular Dystrophy in patients aged 5 years and older who are able to walk. More specifically, ataluren is used in the small group of patients whose disease is caused by a specific genetic defect (called a ‘nonsense mutation’) in the dystrophin gene.This drug does not yet have approval by the US Food and Drug Administration or by Health Canada for any indications.
+4. Indication:  Ataluren is approved for use by the European Medicines Agency to treat Duchenne Muscular Dystrophy in patients aged 5 years and older who are able to walk. More specifically, ataluren is used in the small group of patients whose disease is caused by a specific genetic defect (called a ‘nonsense mutation’) in the dystrophin gene.
+DrugId:  6
+1. Name:  Coagulation Factor IX (Recombinant)
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant Coagulation Factor IX is a purified Factor IX glycoprotein produced by recombinant DNA technology. It has a primary amino acid sequence that is identical to the Ala148 allelic form of human factor IX, and has structural and functional characteristics similar to those of endogenous factor IX. It is not derived from human blood (unlike human Factor IX complex), and is instead produced by a genetically engineered Chinese hamster ovary (CHO) cell line that secretes recombinant Factor IX into cell medium that is then processed and purified for use as a pharmaceutical agent. Recombinant Factor IX is indicated for the control and prevention of bleeding episodes in adult and pediatric patients with congenital factor IX deficiency (Hemophilia B).
+4. Indication:  For treatment of hemophilia (Christmas disease).
+DrugId:  7
+1. Name:  Pegaspargase
+2. Groups:  Approved, Investigational
+3. Description:  Pegylated L-asparagine amidohydrolase from E. coli. Pegylation substantially (by a factor of 4) extends the protein half life.
+4. Indication:  For treatment of acute lymphoblastic leukemia
+DrugId:  8
+1. Name:  PPI-1019
+2. Groups:  Investigational
+3. Description:  Apan (PPI-1019) is developed by Praecis Pharmaceuticals to treat Alzheimer's Disease.
+4. Indication:  Investigated for use/treatment in alzheimer's disease.
+DrugId:  9
+1. Name:  Antihemophilic factor, human recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Human recombinant antihemophilic factor (AHF) or Factor VIII, 2332 residues, glycosylated, produced by CHO cells
+4. Indication:  For the treatment of hemophilia A, von Willebrand disease and Factor XIII deficiency.
+DrugId:  10
+1. Name:  Cysteamine
+2. Groups:  Approved, Investigational
+3. Description:  Cysteamine is a radiation-protective agent that oxidizes in air to form cystamine. It can be given intravenously or orally to treat radiation sickness. The bitartrate and hydrochloride salt forms are indicated for the treatment of neuropathic cystinosis in patients 6 years old and older. [PubChem]. Cysteamine is marketed under several brand names such as Cystaran™, Procysbi, and Cystagon®.
+4. Indication:  Given intravenously or orally to treat radiation sickness. The bitartrate salts (Cystagon® and Procysbi) have been used for the oral treatment of nephropathic cystinosis and cystinurea. The hydrochloride salt (Cystaran™) is indicated for the treatment of corneal cystine crystal accumulation in cystinosis patients.
+DrugId:  11
+1. Name:  Deferiprone
+2. Groups:  Approved
+3. Description:  Deferiprone is an oral iron chelator used as a second line agent in thalassemia syndromes when iron overload from blood transfusions occurs. Thalassemias are a type of hereditary anaemia due a defect in the production of hemoglobin. As a result, erythropoiesis, the production of new red blood cells, is impaired. FDA approved on October 14, 2011. 
+4. Indication:  Deferiprone is indicated in thalassemia syndromes when first line chelation agents are not adequate to treat transfusional iron overload.
+DrugId:  12
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  13
+1. Name:  Nitric Oxide
+2. Groups:  Approved
+3. Description:  Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants.Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant.The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+4. Indication:  For the treatment of term and near-term (>34 weeks) neonates with hypoxic respiratory failure
+DrugId:  14
+1. Name:  Chlordiazepoxide
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  An anxiolytic benzodiazepine derivative with anticonvulsant, sedative, and amnesic properties. It has also been used in the symptomatic treatment of alcohol withdrawal.
+4. Indication:  For the management of anxiety disorders or for the short-term relief of symptoms of anxiety, withdrawal symptoms of acute alcoholism, and preoperative apprehension and anxiety.
+DrugId:  15
+1. Name:  Uridine triacetate
+2. Groups:  Approved, Investigational
+3. Description:  Uridine triacetate, formerly known as vistonuridine, is an orally active prodrug of the naturally occurring nucleoside uridine. It is used for the treatment of hereditary orotic aciduria (Xuriden), or for the emergency treatment of fluorouracil or capecitabine overdose or toxicity (Vistogard). It is provided in the prodrug form as uridine triacetate as this form delivers 4- to 6-fold more uridine into the systemic circulation compared to equimolar doses of uridine itself. When used for the treatment or prevention of toxicity associated with fluorouracil and other antimetabolites, uridine triacetate is utilized for its ability to compete with 5-fluorouracil (5-FU) metabolites for incorporation into the genetic material of non-cancerous cells. It reduces toxicity and cell-death associated with two cytotoxic intermediates: 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). Normally, FdUMP inhibits thymidylate synthase required for thymidine synthesis and DNA replication and repair while FUTP incorporates into RNA resulting in defective strands. As a result, these metabolites are associated with various unpleasant side effects such as neutropenia, mucositis, diarrhea, and hand–foot syndrome. Like many other neoplastic agents, these side effects limit the doses of 5-FU that can be administered, which also affects the efficacy for treatment. By pre-administering with uridine (as the prodrug uridine triacetate), higher doses of 5-FU can be given allowing for improved efficacy and a reduction in toxic side effects [3]. It can also be used as a rescue therapy if severe side effects present within 96 hours after initiation of therapy. Uridine triacetate is also used for the treatment of hereditary orotic aciduria, also known as uridine monophosphate synthase deficiency. This rare congenital autosomal recessive disorder of pyrimidine metabolism is caused by a defect in uridine monophosphate synthase (UMPS), a bifunctional enzyme that catalyzes the final two steps of the de novo pyrimidine biosynthetic pathway. As a result of UMPS deficiency, patients experience a systemic deficiency of pyrimidine nucleotides, accounting for most symptoms of the disease. Additionally, orotic acid from the de novo pyrimidine pathway that cannot be converted to UMP is excreted in the urine, accounting for the common name of the disorder, orotic aciduria. Furthermore, orotic acid crystals in the urine can cause episodes of obstructive uropathy. When administered as the prodrug uridine triacetate, uridine can be used by essentially all cells to make uridine nucleotides, which compensates for the genetic deficiency in synthesis in patients with hereditary orotic aciduria. When intracellular uridine nucleotides are restored into the normal range, overproduction of orotic acid is reduced by feedback inhibition, so that urinary excretion of orotic acid is also reduced.
+4. Indication:  Marketed as the product Xuriden (FDA), uridine triacetate is indicated for the treatment of hereditary orotic aciduria.Marketed as the product Vistogard (FDA), uridine triacetate is indicated for the emergency treatment of adult and pediatric patients in the following situations: following a fluorouracil or capecitabine overdose regardless of the presence of symptoms; or who exhibit early-onset, severe or life-threatening toxicity affecting the cardiac or central nervous system, and/or early-onset, unusually severe adverse reactions (e.g., gastrointestinal toxicity and/or neutropenia) within 96 hours following the end of fluorouracil or capecitabine administration. 
+DrugId:  16
+1. Name:  Coagulation factor X human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation Factor X (Human), is a plasma-derived human blood coagulation factor is used by adults and children (aged 12 years and above) with hereditary Factor X deficiency. However its use is limited in the perioperative setting for the management of bleeding in major surgery in patients with moderate and severe hereditary Factor X deficiency. Coagulation Factor X is a vitamin K-dependent, liver-produced serine protease that serves as the first enzyme in the coagulation cascade to form fibrin. It is a two-chain glycoprotein with the molecular weight of approximately 59 kDa [2]. While Factor X normally circulates in the plasma as inactive molecules, the activation of Factor X is involved in both the intrinsic and extrinsic coagulation pathways. Inherited factor X deficiency is a rare autosomal recessive bleeding disorder that is estimated to occur in 1:1 000 000 individuals up to 1:500 carriers [1]. Administration of coagulation Factor X from healthy donor serves to restore and achieve effective hemostasis. Coagulation Factor X (Human) solution is approved by the FDA for intravenous injection under the market name Coagadex which contains normally 100 IU/mL of coagulation Factor X derived from healthy donors who have passed viral screening tests [FDA Label].
+4. Indication:  Indicated in adults and children (aged 12 years and above) with hereditary Factor X deficiency for on-demand treatment and control of bleeding episodes, or for perioperative management of bleeding in patients with mild hereditary Factor X deficiency [FDA Label]. 
+DrugId:  17
+1. Name:  Ticlopidine
+2. Groups:  Approved
+3. Description:  Ticlopidine is an effective inhibitor of platelet aggregation. It is a prodrug that is metabolised to an active form, which blocks the ADP receptor that is involved in GPIIb/IIIa receptor activation leading to platelet aggregation. Ticlopidine is marketed under the brand name Ticlid and is indicated for patients who cannot take aspirin or in whom aspirin has not worked to prevent a thrombotic stroke. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.
+4. Indication:  Used in patients, who have had a stroke or stroke precursors and who cannot take aspirin or aspirin has not worked, to try to prevent another thrombotic stroke.
+DrugId:  18
+1. Name:  Clopidogrel
+2. Groups:  Approved
+3. Description:  Clopidogrel, an antiplatelet agent structurally and pharmacologically similar to ticlopidine, is used to inhibit blood clots in a variety of conditions such as peripheral vascular disease, coronary artery disease, and cerebrovascular disease. Clopidogrel is sold under the name Plavix by Sanofi and Bristol-Myers Squibb. The drug is an irreversible inhibitor of the P2Y12 adenosine diphosphate receptor found on the membranes of platelet cells. Clopidogrel use is associated with several serious adverse drug reactions such as severe neutropenia, various forms of hemorrhage, and cardiovascular edema.
+4. Indication:  For the reduction of atherosclerotic events (myocardial infarction, stroke, and vascular death) in patients with atherosclerosis documented by recent stroke, recent myocardial infarction, or established peripheral arterial disease.
+DrugId:  19
+1. Name:  L-Leucine
+2. Groups:  Approved, Nutraceutical
+3. Description:  An essential branched-chain amino acid important for hemoglobin formation. [PubChem]
+4. Indication:  Indicated to assist in the prevention of the breakdown of muscle proteins that sometimes occur after trauma or severe stress.
+DrugId:  20
+1. Name:  L-Isoleucine
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An essential branched-chain aliphatic amino acid found in many proteins. It is an isomer of leucine. It is important in hemoglobin synthesis and regulation of blood sugar and energy levels. [PubChem]
+4. Indication:  The branched-chain amino acids may have antihepatic encephalopathy activity in some. They may also have anticatabolic and antitardive dyskinesia activity.
+DrugId:  21
+1. Name:  L-Valine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A branched-chain essential amino acid that has stimulant activity. It promotes muscle growth and tissue repair. It is a precursor in the penicillin biosynthetic pathway. [PubChem]
+4. Indication:  Promotes mental vigor, muscle coordination, and calm emotions. May also be of use in a minority of patients with hepatic encephalopathy and in some with phenylketonuria.

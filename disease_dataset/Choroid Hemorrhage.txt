@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  MP4
+2. Groups:  Investigational
+3. Description:  MP4 is a hemoglobin-based oxygen carrier designed to serve as an alternative for blood transfusions. It is free of harmful vasoactivity and provides targeted oxygen delivery to tissues at risk of oxygen deprivation.
+4. Indication:  Investigated for use/treatment in hemorrhage and transfusion.
+DrugId:  2
+1. Name:  Technetium Tc-99m pertechnetate
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m pertechnetate is a radiopharmaceutical diagnostic agent composed of an oxoanion with the chemical formula TcO4-. Pertechnetate has a wide variety of uses within nuclear medicine as it distributes within the body to a similar extent as iodine. It also concentrates in the thyroid gland, salivary glands, gastric mucosa, and choroid plexus. However, in contrast to the iodide ion, the pertechnetate ion is released unchanged from the thyroid gland. Currently marketed as the product Drytec, technetium-99m pertechnetate is indicated for imaging of the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and the nasolacrimal drainage system.Technetium-99m's short half life (6 hours) makes storage impossible, therefore it is supplied as its parent nuclide molybdenum-99, which spontaneously decays to technetium-99 through beta decay. This is normally supplied in a hospital setting through the use of a technetium-99m generator, whereby technetium exits the generator in the form of the pertechnetate ion, TcO4−, which can be extracted and promptly used for clinical diagnostics. Following intravenous injection, single photon emission computed tomography (SPECT) is performed to detect the gamma ray emmitted by the decay of Technetium-99m to Technetium-99.
+4. Indication:  Sodium Pertechnetate Tc99m Injection is indicated for use in adults for imaging in the following tissues: thyroid, salivary gland, urinary bladder (for detection of vesico-ureteral reflux), and nasolacrimal drainage system (dacryoscintigraphy). It is indicated for use in children for imaging the following tissues: thyroid and urinary bladder. 
+DrugId:  3
+1. Name:  Perflubron
+2. Groups:  Investigational
+3. Description:  Perflubron (Oxygent) is being developed as an intravascular oxygen carrier designed to augment oxygen delivery in surgical patients.
+4. Indication:  Investigated for use/treatment in cardiac surgery, hemorrhage, and ileus.
+DrugId:  4
+1. Name:  Nicaraven
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cerebrovascular disease (unspecified).
+DrugId:  5
+1. Name:  VIT-100
+2. Groups:  Investigational
+3. Description:  VIT-100 was developed by ItherX Pharmaceuticals of San Diego. In preclinical studies, companyl has shown that VIT-100 inhibits the growth of cells taken from multiple keloid biopsies as compared to the same keloidal cells treated with a control. It is believed that similar effects would be seen in cells isolated from hypertrophic scars.
+4. Indication:  Investigated for use/treatment in diabetic retinopathy, scar tissue, and vitreous hemorrhage.
+DrugId:  6
+1. Name:  AZX-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in scar tissue.
+DrugId:  7
+1. Name:  Nepafenac
+2. Groups:  Approved, Investigational
+3. Description:  Nepafenac is a non-steroidal anti-inflammatory prodrug (NSAID) usually sold as a prescription eye drop. It is used to treat pain and inflammation associated with cataract surgery.
+4. Indication:  For the treatment of pain and inflammation associated with cataract surgery.
+DrugId:  8
+1. Name:  Carbetocin
+2. Groups:  Approved, Investigational
+3. Description:  Carbetocin is a drug used to control postpartum hemorrhage, bleeding after giving birth. It is an analogue of oxytocin, and its action is similar to that of oxytocin -- it causes contraction of the uterus.
+4. Indication:  Used to control postpartum hemorrhage and bleeding after giving birth.
+DrugId:  9
+1. Name:  Leptin
+2. Groups:  Investigational
+3. Description:  Although leptin is a circulating signal that reduces appetite, in general, obese people have an unusually high circulating concentration of leptin. These people are said to be resistant to the effects of leptin, in much the same way that people with type 2 diabetes are resistant to the effects of insulin. Thus, obesity develops when people take in more energy than they use over a prolonged period of time, and this excess food intake is not driven by hunger signals, occurring in spite of the anti-appetite signals from circulating leptin. The high sustained concentrations of leptin from the enlarged fat stores result in the cells that respond to leptin becoming desensitized.
+4. Indication:  Investigated for use/treatment in lipodystrophy and obesity.
+DrugId:  10
+1. Name:  Cabozantinib
+2. Groups:  Approved, Investigational
+3. Description:  Cabozantinib was approved in 2012 and is a non-specific tyrosine kinase inhibitor. It is marketed as Cometriq, which is indicated for the treatment of metastatic medullary thyroid cancer. It's label includes a black box warning of gastrointestinal perforations, fistulas, and hemorrhage. The FDA approved cabozantinib as Cabometyx for patients with advanced renal cell carcinoma in April 2016.
+4. Indication:  For the treatment of metastatic medullary thyroid cancer and for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy.
+DrugId:  11
+1. Name:  Ocriplasmin
+2. Groups:  Approved
+3. Description:  Ocriplasmin is a recombinant truncated form of human plasmin with a molecular weight of 27.2 kDa produced by recombinant DNA technology in a Pichia pastoris expression system. Ocriplasmin is a protein made up of 249 amino acids and has two peptide chains. Agent for pharmacologic vitreolysis; thrombolytic agent. FDA approved in October 17, 2012.
+4. Indication:  Ocriplasmin is a proteolytic enzyme indicated for the treatment for symptomatic vitreomacular adhesion. 
+DrugId:  12
+1. Name:  Coagulation factor VII human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation factor VII is human serine protease type enzyme that is involved in the extrinsic coagulation cascade which results in blood clotting.
+4. Indication:  May be administered in cases of uncontrolled bleeding. Factor VII alone can be used in the treatment of congenital hemophilia A or B, acquired hemophilia, congenital factor VII deficiency, and Glanzmann's thrombasthenia. Off label use in the treatment of refractory bleeding after cardiac surgery and warfarin related intracerebral hemorrhage. Brands for human factor VII are currently only in combination with other vitamin K coagulation factors and can be used to reverse vitamin K antagonist activity in patients with acute major bleeds or for urgent surgery/invasive procedures. 
+DrugId:  13
+1. Name:  Nimodipine
+2. Groups:  Approved, Investigational
+3. Description:  Nimodipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nimodipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Compared to other calcium channel blocking agents, nimodipine exhibits greater effects on cerebral circulation than on peripheral circulation. Nimodipine is used to as an adjunct to improve the neurologic outcome following subarachnoid hemorrhage from ruptured intracranial aneurysm.
+4. Indication:  For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.
+DrugId:  14
+1. Name:  Transcrocetinate
+2. Groups:  Investigational
+3. Description:  Vitamin A-analog that increases diffusivity of oxygen in aqueous solutions, including plasma.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), hemorrhage, hypoxia, respiratory failure, and strokes.
+DrugId:  15
+1. Name:  Etiracetam
+2. Groups:  Investigational
+3. Description:  Etiracetam is under investigation in clinical trial NCT01137110 (Comparison of Short Duration Levetiracetam to Extended Course for Seizure Prophylaxis After Subarachnoid Hemorrhage (SAH)).
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Tranexamic Acid
+2. Groups:  Approved
+3. Description:  Antifibrinolytic hemostatic used in severe hemorrhage. [PubChem]
+4. Indication:  For use in patients with hemophilia for short term use (two to eight days) to reduce or prevent hemorrhage and reduce the need for replacement therapy during and following tooth extraction. It can also be used for excessive bleeding in menstruation, surgery, or trauma cases.
+DrugId:  17
+1. Name:  Metaraminol
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic agonist that acts predominantly at alpha adrenergic receptors and also stimulates the release of norepinephrine. It has been used primarily as a vasoconstrictor in the treatment of hypotension. [PubChem]
+4. Indication:  For the treatment and prevention of hypotension due to hemorrhage, spinal anesthesia, and shock associated with brain damage
+DrugId:  18
+1. Name:  Colfosceril palmitate
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Colfosceril palmitate is a synthetic pulmonary surfactant administered in infants with respiratory distress syndrome.[1] It was part of the first generation of commercially available artificial surfactants.[4] It was developed by Burroughs Wellcome and it was FDA approved on August 6, 1990.[8] Nowadays colfosceril palmitate is under the state of canceled post-marketing.
+4. Indication:  Colfosceril palmitate is indicated for the treatment of respiratory distress syndrome (RDS) in premature infants. The official label is referred as a intratracheal suspension for prophylactic treatment of infants of less than 1350 grams of birth weight under risk of developing RDS, or in infants with birth weight greater than 1350 grams with pulmonary immaturity, or as rescue treatment of infants that already developed RDS.[8] The central feature of RDS is a surfactant deficiency due to lung immaturity. This lung condition is more frequently presented due to risk factors like prematurity, delayed lung maturation caused by maternal diabetes or male gender, or surfactant dysfuntion due to perinatal asphyxia, pulmonary infection or delivery without labor.[4]
+DrugId:  19
+1. Name:  Axitinib
+2. Groups:  Approved, Investigational
+3. Description:  Axitinib is an oral, potent, and selective inhibitor of vascular endothelial growth factor receptors (VEGFR) 1, 2, and 3. Axitinib is marketed under the name Inlyta®, and if one previous systemic therapy for kidney cell cancer has failed, axitinib is indicated.
+4. Indication:  Used in kidney cell cancer and investigated for use/treatment in pancreatic and thyroid cancer.
+DrugId:  20
+1. Name:  Dextran 40
+2. Groups:  Approved
+3. Description:  Dextran 40 is a sterile, nonpyrogenic preparation of low molecular weight dextran (average mol. wt. 40,000) in 5% Dextrose Injection or 0.9% Sodium Chloride Injection. It is administered by intravenous infusion.
+4. Indication:  Dextran 40 is indicated for use in the adjunctive treatment of shock or impending shock due to hemorrhage, burns, surgery or other trauma. Also, indicated for use as a priming fluid, either as a sole prime or as an additive, in pump oxygenators during extracorporeal circulation.Dextran 40 is also indicated for use in prophylaxis of venous thrombosis and pulmonary embolism in patients undergoing procedures known to be associated with a high incidence of thromboembolic complications, such as hip surgery.
+DrugId:  21
+1. Name:  Clopidogrel
+2. Groups:  Approved
+3. Description:  Clopidogrel, an antiplatelet agent structurally and pharmacologically similar to ticlopidine, is used to inhibit blood clots in a variety of conditions such as peripheral vascular disease, coronary artery disease, and cerebrovascular disease. Clopidogrel is sold under the name Plavix by Sanofi and Bristol-Myers Squibb. The drug is an irreversible inhibitor of the P2Y12 adenosine diphosphate receptor found on the membranes of platelet cells. Clopidogrel use is associated with several serious adverse drug reactions such as severe neutropenia, various forms of hemorrhage, and cardiovascular edema.
+4. Indication:  For the reduction of atherosclerotic events (myocardial infarction, stroke, and vascular death) in patients with atherosclerosis documented by recent stroke, recent myocardial infarction, or established peripheral arterial disease.
+DrugId:  22
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  23
+1. Name:  Ferric pyrophosphate
+2. Groups:  Experimental
+3. Description:  Ferric pyrophosphate is an iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate.[1] It presents an increasing interest as this insoluble form can be milder in the gastrointestinal tract and present higher bioavailability.[10]
+4. Indication:  Ferric pyrophosphate is intended to be indicated for the treatment of iron loss or iron deficiency as a formulation with a milder gastrointestinal effect.[9, 10] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  24
+1. Name:  Tiopronin
+2. Groups:  Approved, Investigational
+3. Description:  Tiopronin is a prescription thiol drug used primarily in the treatment of severe homozygous cystinuria. Patients with cystinuria excrete high levels of cystine in their urine and are at risk for kidney stone formation. Tiopronin is used as a second-line therapy to control the rate of cystine precipitation and excretion, and prevent kidney stone formation. It is used after a failure of the non-pharmacological first line treatment consisting of increased fluid intake, restriction of sodium and protein, and urinary alkalinization. As cystinuria is a relatively rare disease, tiopronin is classified as an orphan drug and is not patented in the United States. It is similar to d-penicillamine in use and efficacy, but offers the advantage of far less adverse effects. Tiopronin is dosed on an individual basis using close monitoring of urinary cystine concentrations and urinary output.Tiopronin may also be used to bind metal nanoparticles in Wilson's disease, which is an overload of copper in the body. It has been investigated for use in the treatment of arthritis and as a neuroprotective agent in aneurysmal subarachnoid hemorrhage.
+4. Indication:  Tiopronin is indicated for the prevention of kidney stone formation in patients with severe homozygous cystinuria consisting of a urinary cystine concentration greater than 500 mg/day, and who have failed treatment with non-pharmacological measures of increased fluid intake, decreased sodium and protein intake, and urine alkalinization.
+DrugId:  25
+1. Name:  Dextran
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Dextran is a polysaccharide that differs from others in that its glucose units are joined together 1:6 glucoside links. The main chain of glucose has short branches at frequent intervals which are probably joined by 1:3 and 1:4 glucoside links. The chains can be composed of about 200,000 glucose units.[1] Many bacteria, like Leuconostoc, can synthesize dextran from sucrose, and this activity is used commercially to obtain dextran.[4]
+4. Indication:  Dextran is used as the restoration of blood mass during surgical interventions if there is hypovolemia due to trauma or dehydration. It is as well used after the presence of hemorrhage in cases of blood loss to a level inferior to 15% of the blood mass, if compatibility test cannot be completed or when blood lots need to be tested for pathogen detection. Dextran is also used for the prevention of profound postoperative venous thrombosis.[5]Dextran as well presents ophthalmic applications as solutions or ointments for the temporary relief of xerophthalmia or minor ocular irritations.[6]

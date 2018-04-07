@@ -1,0 +1,120 @@
+DrugId:  1
+1. Name:  BLXA4
+2. Groups:  Investigational
+3. Description:  BLXA4 has been used in trials studying the treatment of Gingival Inflammation.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Macitentan
+2. Groups:  Approved
+3. Description:  Macitentan was approved in October 2013. It is indicated for patients with pulmonary arterial hypertension, and is marketed under the brand name Opsumit. Macitentan is an antagonist/blocker of endothelin receptors on blood vessels and smooth muscle, and, thus, blocks the stimulation of vasculature hypertrophy, inflammation, fibrosis, proliferation, and vasoconstriction. Similar to all drugs acting on the renin-angiotensin system, macitentan is associated with embryo and fetal toxicity, so it should not be used in pregnancy and has special precautions that must be followed for all females of child-bearing age. 
+4. Indication:  Macitentan is indicated for patients with pulmonary arterial hypertension.
+DrugId:  3
+1. Name:  T131
+2. Groups:  Investigational
+3. Description:  T131, an orally-administered therapy, is expected to lower blood glucose in type II diabetic patients by improving the body’s ability to respond to insulin. T131 is a selective modulator of PPARg (peroxisome proliferator activated receptor gamma), a receptor involved in regulating the body’s ability to respond to insulin. T131 is not structurally related to the thiazolidinedione class of PPARg agonists, which includes Actos and Avandia.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  4
+1. Name:  Stannous fluoride
+2. Groups:  Approved
+3. Description:  Stannous Fluoride, or Tn(II) Fluoride, is a compound commonly used in toothpastes for the prevention of gingivitis, dental infections, cavities, and to relieve dental hypersensitivity. Although similar in function and activity to Sodium Fluoride (NaF), the conventionally added ingredient in toothpastes, stannous fluoride has been shown to be more effective at stopping and reversing dental lesions [2]. It manages and prevents dental caries and gingivitis by promoting enamel mineralization [1], reducing gingival inflammation and bleeding [3, 4] through its potential broad-spectrum antibiotic effect and modulation of the microbial composition of the dental biofilm [2]. It is an FDA-approved over-the-counter product.
+4. Indication:  Indicated for use to relieve dental hypersensitivity, increase enamel production, prevent gingivitis and cavities, and control periodontal infections. 
+DrugId:  5
+1. Name:  Ozarelix
+2. Groups:  Investigational
+3. Description:  Ozarelix has been used in trials studying the treatment of Prostate Cancer, Benign Prostatic Hypertrophy, and Benign Prostatic Hyperplasia (BPH).
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  7
+1. Name:  Solifenacin
+2. Groups:  Approved
+3. Description:  Solifenacin (rINN), marketed as solifenacin succinate under the trade name Vesicare, is a urinary antispasmodic of the anticholinergic class. It is used in the treatment of overactive bladder with urge incontinence. [Wikipedia]
+4. Indication:  For the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency, and urinary frequency.
+DrugId:  8
+1. Name:  Silodosin
+2. Groups:  Approved
+3. Description:  Silodosin is an α1-adrenoceptor antagonist that is selective for the prostate. Silodosin is for symptomatic treatment of benign prostatic hyperplasia. FDA approved Oct 9, 2008.
+4. Indication:  Treatment for symptomatic relief of benign prostatic hyperplasia 
+DrugId:  9
+1. Name:  Acenocoumarol
+2. Groups:  Approved, Investigational
+3. Description:  Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, XI and X, and interferes with coagulation. Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood. 
+4. Indication:  For the treatment and prevention of thromboembolic diseases. More specifically, it is indicated for the for the prevention of cerebral embolism, deep vein thrombosis, pulmonary embolism, thromboembolism in infarction and transient ischemic attacks. It is used for the treatment of deep vein thrombosis and myocardial infarction.
+DrugId:  10
+1. Name:  Candesartan cilexetil
+2. Groups:  Approved
+3. Description:  Candesartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. It is administered orally as the prodrug, candesartan cilexetil, which is rapidly converted to its active metabolite, candesartan, during absorption in the gastrointestinal tract. Candesartan lowers blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); it competes with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Candesartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of heart failure, systolic dysfunction, myocardial infarction and coronary artery disease.
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Candesartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  11
+1. Name:  Losartan
+2. Groups:  Approved
+3. Description:  Losartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. Losartan and its longer acting metabolite, E-3174, lower blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); they compete with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Losartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of systolic dysfunction, myocardial infarction, coronary artery disease, and heart failure. 
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Losartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  12
+1. Name:  Aranidipine
+2. Groups:  Approved, Investigational
+3. Description:  Aranidipine is a novel dihydropyridine derivative that gives rise to two active metabolites (M-1α and M-1β) that exhibit hypotensive activity. It is a calcium antagonist with the formula methyl 2-oxopropyl 1,4-dihydro-2,6-dimethyl-4-(2-nitrophenyl)-3,5-pyridinedicarboxylate.[1] It was developed by Maruko Seiyaku, introduced by Taiho and launched in Japan in 1997.[5]
+4. Indication:  Aranidipine has been used for many years to treat angina pectoris and hypertension.[1]
+DrugId:  13
+1. Name:  Finasteride
+2. Groups:  Approved
+3. Description:  An orally active testosterone 5-alpha-reductase inhibitor. It is used as a surgical alternative for treatment of benign prostatic hyperplasia. [PubChem]
+4. Indication:  For the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate to: Improve symptoms, reduce the risk of acute urinary retention, reduce the risk of the need for surgery including transurethral resection of the prostate. Also used for the stimulation of regrowth of hair in men with mild to moderate androgenetic alopecia (male pattern alopecia, hereditary alopecia, common male baldness).
+DrugId:  14
+1. Name:  Nifedipine
+2. Groups:  Approved
+3. Description:  Nifedipine has been formulated as both a long- and short-acting 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nifedipine prevents calcium-dependent myocyte contraction and vasoconstriction. A second proposed mechanism for the drug’s vasodilatory effects involves pH-dependent inhibition of calcium influx via inhibition of smooth muscle carbonic anhydrase. Nifedipine is used to treat hypertension and chronic stable angina.
+4. Indication:  For the management of vasospastic angina, chronic stable angina, hypertension, and Raynaud's phenomenon. May be used as a first line agent for left ventricular hypertrophy and isolated systolic hypertension (long-acting agents). 
+DrugId:  15
+1. Name:  Alfuzosin
+2. Groups:  Approved, Investigational
+3. Description:  Alfuzosin (INN, provided as the hydrochloride salt) is an alpha-adrenergic blocker used to treat benign prostatic hyperplasia (BPH). It works by relaxing the muscles in the prostate and bladder neck, making it easier to urinate. [Wikipedia]
+4. Indication:  For the reduction of urinary obstruction and relief of associated manifestations (eg. sensation of incomplete bladder emptying or straining, urgency, interrupted or weak stream) in patients with symptomatic beningn prostatic hyperplasia.
+DrugId:  16
+1. Name:  Tamsulosin
+2. Groups:  Approved, Investigational
+3. Description:  Tamsulosin is a selective antagonist at alpha-1A and alpha-1B-adrenoceptors in the prostate, prostatic capsule, prostatic urethra, and bladder neck. At least three discrete alpha1-adrenoceptor subtypes have been identified: alpha-1A, alpha-1B and alpha-1D; their distribution differs between human organs and tissue. Approximately 70% of the alpha1-receptors in human prostate are of the alpha-1A subtype. Blockage of these receptors causes relaxation of smooth muscles in the bladder neck and prostate.
+4. Indication:  Used in the treatment of signs and symptoms of benign prostatic hyperplasia (reduction in urinary obstruction and relief of associated manifestations such as hesitancy, terminal dribbling of urine, interrupted or weak stream...etc.)
+DrugId:  17
+1. Name:  Dutasteride
+2. Groups:  Approved, Investigational
+3. Description:  Dutasteride belongs to a class of drugs called 5-alpha-reductase inhibitors, which block the action of the 5-alpha-reductase enzymes that convert testosterone into dihydrotestosterone (DHT). Finasteride also belongs to this group, but while dutasteride inhibits both isoforms of 5-alpha reductase, finasteride inhibits only one. Even so, a clinical study done by GlaxoSmithKline, the EPICS trial, did not find dutasteride to be more effective than finasteride in treating BPH. [Wikipedia]
+4. Indication:  For the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate gland to improve symptoms, and reduce the risk of acute urinary retention and the need for surgery.
+DrugId:  18
+1. Name:  Terazosin
+2. Groups:  Approved
+3. Description:  Terazosin is a selective alpha1-antagonist used for treatment of symptoms of benign prostatic hyperplasia (BPH). It also acts to lower blood pressure, so it is a drug of choice for men with hypertension and prostate enlargement. It works by blocking the action of adrenaline on smooth muscle of the bladder and the blood vessel walls.
+4. Indication:  For the treatment of symptomatic BPH and mild to moderate hypertension.
+DrugId:  19
+1. Name:  Sodium monofluorophosphate
+2. Groups:  Approved
+3. Description:  Sodium monofluorophosphate is used in OTC dental preparations to help protect against cavities
+4. Indication:  Sodium monofluorophosphate is indicated for the treatment of cavities
+DrugId:  20
+1. Name:  Semaglutide
+2. Groups:  Approved, Investigational
+3. Description:  Semaglutide is a once-daily glucagon-like peptide-1 analog that differs to others by the presence of an acyl group with a steric diacid at Lys26 and a large synthetic spacer and modified by the presence of a α-aminobutyric acid in position 8 which gives stability against the dipeptidylpeptidase-4.[1] The stability of semaglutide by the acylation permits a high-affinity albumin binding and gives it a long plasma half-life which allows the once-daily dosage. It was developed by the Danish pharmaceutical company Novo Nordisk and FDA approved on December 5, 2017.[6]
+4. Indication:  Semaglutide is indicated to improve glycemic control in adults with type 2 diabetes mellitus as an adjunct of diet and exercise. The approved therapeutic doses are 0.5 mg and 1 mg.[7] Diabetes mellitus type 2 is a long-term metabolic disorder characterized by high blood sugar, insulin resistance and lack of insulin. Its onset is determined by the loss ability of beta cells to respond to an increased plasma glucose. This disease is predominantly caused by lifestyle factors like overweight and obesity. The key feature on type 2 diabetes is the presence of insulin resistance which reduced the capacity of insulin to exert its functions at normal at any given concentration. The secretion of insulin is stimulated by the action of incretins in the gut like glucagon-like peptide 1, which also delays gastric emptying and induces satiety, and glucose-dependent insulinotropic polypeptide.[5]
+DrugId:  21
+1. Name:  Apalutamide
+2. Groups:  Approved, Investigational
+3. Description:  Apalutamide is a potent androgen receptor (AR) antagonist that selectively binds to the ligand-binding domain of AR and blocks AR nuclear translocation or binding to androgen response elements [1]. It has been used in trials studying the treatment of Prostate Cancer, Hepatic Impairment, Prostatic Neoplasms, Castration-Resistant Prostate Cancer, and Prostatic Neoplasms, Castration-Resistant, among others. Exerting an antitumor action, apalutamide blocking the effect of androgens that promote tumor growth. It targets the AR ligand-binding domain and prevents AR nuclear translocation, DNA binding, and transcription of AR gene targets in prostate tumors [1]. In mice bearing human CRPC xenograft models, apalutamide treatment produced tumor regressions in a dose-dependent manner that was more effective than that of Bicalutamide or Enzalutamide. Unlike bicalutamide, apalutamide antagonized AR-mediated signaling in AR overexpressing human CRPC cell lines [1].Androgen-deprivation therapy, or hormone therapy, can be used as part of maintenance therapy for patients with non-metastatic prostate cancer. Although most patients achieve therapeutic responses at the initial hormone therapy, many patients progress to non-metastatic castration-resistant (resistance to hormone therapy) prostate cancer which is the second-most common cause of cancer-related deaths in American males [2]. Castration-resistant prostate cancer is often incurable, which poses significant clinical challenges for patients. Approximately 10 to 20 % of prostate cancer cases are castration-resistant, and up to 16% of these patients show no evidence of cancer metastasis at the time of castration-resistant diagnosis [3]. Higher prostate-specific antigen (PSA) and shorter PSA doubling time (PSA DT) are associated with a higher risk for metastases and death [1]. In a phase-2 multicenter open-label study, 89% of patients with non-metastatic, castration-resistant prostate cancer had ≥50% PSA decline at week 12 of apalutamide treatment [1]. In a randomized trial, the median metastasis-free survival for patients taking apalutamide was 40.5 months compared to 16.2 months for patients taking a placebo [3]. Apalutamide displayed good tolerability and safety profile in clinical studies. Apalutamide was approved in February 2018 by the FDA as Erleada for the treatment of patients with non-metastatic prostate cancer that is resistant to treatment with hormone therapy (castration-resistant). It is available as oral tablets. Apalutamide is the first FDA-approved treatment for non-metastatic, castration-resistant prostate cancer [3].
+4. Indication:  Indicated for the treatment of patients with non-metastatic, castration-resistant prostate cancer (NM-CRPC) [FDA Label].
+DrugId:  22
+1. Name:  Valsartan
+2. Groups:  Approved, Investigational
+3. Description:  Valsartan is an angiotensin-receptor blocker (ARB) that may be used to treat a variety of cardiac conditions including hypertension, diabetic nephropathy and heart failure. Valsartan lowers blood pressure by antagonizing the renin-angiotensin-aldosterone system (RAAS); it competes with angiotensin II for binding to the type-1 angiotensin II receptor (AT1) subtype and prevents the blood pressure increasing effects of angiotensin II. Unlike angiotensin-converting enzyme (ACE) inhibitors, ARBs do not have the adverse effect of dry cough. Valsartan may be used to treat hypertension, isolated systolic hypertension, left ventricular hypertrophy and diabetic nephropathy. It may also be used as an alternative agent for the treatment of heart failure, systolic dysfunction, myocardial infarction and coronary artery disease.
+4. Indication:  May be used as a first line agent to treat uncomplicated hypertension, isolated systolic hypertension and left ventricular hypertrophy. May be used as a first line agent to delay progression of diabetic nephropathy. Losartan may be also used as a second line agent in the treatment of congestive heart failure, systolic dysfunction, myocardial infarction and coronary artery disease in those intolerant of ACE inhibitors.
+DrugId:  23
+1. Name:  Glycerin
+2. Groups:  Approved, Investigational
+3. Description:  A trihydroxy sugar alcohol that is an intermediate in carbohydrate and lipid metabolism.
+4. Indication:  It is used as a solvent, emollient, pharmaceutical agent, and sweetening agent.
+DrugId:  24
+1. Name:  Menthol
+2. Groups:  Approved
+3. Description:  Menthol is a covalent organic compound made synthetically or obtained from peppermint or other mint oils. It is a waxy, crystalline substance, clear or white in color, which is solid at room temperature and melts slightly above. The main form of menthol occurring in nature is (-)-menthol, which is assigned the (1R,2S,5R) configuration. Menthol has local anesthetic and counterirritant qualities, and it is widely used to relieve minor throat irritation.
+4. Indication:  Used to treat occasional minor irritation, pain, sore mouth, and sore throat as well as cough associated with a cold or inhaled irritants.

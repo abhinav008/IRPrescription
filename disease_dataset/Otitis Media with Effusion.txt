@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Xylitol
+2. Groups:  Approved, Investigational
+3. Description:  Xylitol is a naturally occurring five-carbon sugar alcohol found in most plant material, including many fruits and vegetables. Xylitol-rich plant materials include birch and beechwood [1]. It is widely used as a sugar substitute and in "sugar-free" food products. The effects of xylitol on dental caries have been widely studied, and xylitol is added to some chewing gums and other oral care products to prevent tooth decay and dry mouth. Xylitol is a non-fermentable sugar alcohol by most plaque bacteria, indicating that it cannot be fermented into cariogenic acid end-products [4]. It works by inhibiting the growth of the microorganisms present in plaque and saliva after it accummulates intracellularly into the microorganism [4]. The recommended dose of xylitol for dental caries prevention is 6–10 g/day, and most adults can tolerate 40 g/day without adverse events [1].
+4. Indication:  Indicated for use as a sugar substitute, and oral hygiene active ingredient. 
+DrugId:  2
+1. Name:  Ceftibuten
+2. Groups:  Approved, Investigational
+3. Description:  Ceftibuten is a third-generation cephalosporin antibiotic. It is an orally-administered agent. Cefalexin is used to treat acute bacterial exacerbations of chronic bronchitis (ABECB), acute bacterial otitis media, pharyngitis, and tonsilitis.
+4. Indication:  Used to treat acute bacterial exacerbations of chronic bronchitis (ABECB), acute bacterial otitis media, pharyngitis, and tonsilitis.
+DrugId:  3
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  4
+1. Name:  Dextran 75
+2. Groups:  Approved
+3. Description:  Dextran 75 is a complex branched glucan with an average molecular weight 75000 Daltons. It is produced from certain bacteria that with α-1,6 glycosidic linkages between glucose molecules and α-1,3 linkages between branches. Dextrans are used therapeutically as plasma volume expanders in hypovolemia and antithrombin agents to reduce blood viscosity. When labelled with technetium Tc99m, dextran 75 is intravenously administered as an imaging agent to detect and diagnose conditions in the vascular compartment such as pericardial effusion or ventricular aneurysm.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Cefprozil
+2. Groups:  Approved
+3. Description:  Cefprozil is a cephalosporin antibiotic. It can be used to treat bronchitis, ear infections, skin infections, and other bacterial infections.
+4. Indication:  For the treatment of the following infections (respiratory, skin, soft tissue, UTI, ENT) caused by; S. pneumoniae, H. influenzae, staphylococci, S. pyogenes (group A beta-hemolytic streptococci), E. coli, P. mirabilis, Klebsiella sp, coagulase-negative staph
+DrugId:  6
+1. Name:  Cefpodoxime
+2. Groups:  Approved, Vet approved
+3. Description:  Cefpodoxime is an oral third generation cephalosporin antibiotic. It is active against most Gram positive and Gram negative bacteria. It is commonly used to treat acute otitis media, pharyngitis, and sinusitis. Cefpodoxime proxetil is a prodrug which is absorbed and de-esterified by the intestinal mucosa to Cefpodoxime.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms.
+DrugId:  7
+1. Name:  Azithromycin
+2. Groups:  Approved
+3. Description:  Azithromycin is a semi-synthetic macrolide antibiotic of the azalide class. Like other macrolide antibiotics, azithromycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit of the bacterial 70S ribosome. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the process of translation. Its effects may be bacteriostatic or bactericidal depending of the organism and the drug concentration. Its long half life, which enables once daily dosing and shorter administration durations, is a property distinct from other macrolides.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions: H. influenzae, M. catarrhalis, S. pneumoniae, C. pneumoniae, M. pneumoniae, S. pyogenes, S. aureus, S. agal
+DrugId:  8
+1. Name:  Cefixime
+2. Groups:  Approved, Investigational
+3. Description:  Cefixime, an antibiotic, is a third-generation cephalosporin like ceftriaxone and cefotaxime. Cefixime is highly stable in the presence of beta-lactamase enzymes. As a result, many organisms resistant to penicillins and some cephalosporins due to the presence of beta-lactamases, may be susceptible to cefixime. The antibacterial effect of cefixime results from inhibition of mucopeptide synthesis in the bacterial cell wall.
+4. Indication:  For use in the treatment of the following infections when caused by susceptible strains of the designated microorganisms: (1) uncomplicated urinary tract infections caused by Escherichia coli and Proteus mirabilis, (2) otitis media caused by Haemophilus influenzae (beta-lactamase positive and negative strains), Moraxella catarrhalis (most of which are beta-lactamase positive), and S. pyogenes, (3) pharyngitis and tonsillitis caused by S. pyogenes, (4) acute bronchitis and acute exacerbations of chronic bronchitis caused by Streptococcus pneumoniae and Haemophilus influenzae (beta-lactamase positive and negative strains), and (5) uncomplicated gonorrhea (cervical/urethral) caused by Neisseria gonorrhoeae (penicillinase- and non-penicillinase-producing strains).
+DrugId:  9
+1. Name:  Cephalexin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A semisynthetic cephalosporin antibiotic with antimicrobial activity similar to that of cephaloridine or cephalothin, but somewhat less potent. It is effective against both gram-positive and gram-negative organisms.
+4. Indication:  For the treatment of respiratory tract infections caused by Streptococcus pneumoniae and Streptococcus pyogenes; otitis media due to Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, and Moraxella catarrhalis; skin and skin structure infections caused by Staphylococcus aureus and/or Streptococcus pyogenes; bone infections caused by Staphylococcus aureus and/or Proteus mirabilis; genitourinary tract infections, including acute prostatitis, caused by Escherichia coli, Proteus mirabilis, and Klebsiella pneumoniae.
+DrugId:  10
+1. Name:  faropenem medoxomil
+2. Groups:  Investigational
+3. Description:  Faropenem medoxomil is an ester prodrug derivative of the beta-lactam antibiotic faropenem. The prodrug form of faropenem offers dramatically improved oral bioavailability and leads to higher systemic concentrations of the drug. Faropenem medoxomil is a broad-spectrum antibiotic that is highly resistant to beta-lactamase degradation. It is being developed jointly by Replidyne, Inc. and Forest Laboratories, Inc.
+4. Indication:  Investigated for use/treatment in bacterial infection, bronchitis, otitis media, and pediatric indications.
+DrugId:  11
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  12
+1. Name:  Iopamidol
+2. Groups:  Approved
+3. Description:  Iopamidol is a contrast agent developed by Bracco with nonionic, low-osmolar properties.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Finafloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Finafloxacin is a fluoroquinolone antibiotic indicated in the treatment of acute otitis externa (swimmer's ear) caused by the bacteria Pseudomonas aeruginosa and Staphylococcus aureus. Finafloxacin is marketed by Novartis under the brand Xtoro™, and was approved by the FDA in December 2014. 
+4. Indication:  Finafloxacin is indicated for the treatment of acute otitis externa (AOE) with or without an otowick, caused by susceptible strains of Pseudomonas aeruginosa and Staphylococcus aureus in patients age 1 year and older. 
+DrugId:  14
+1. Name:  Gadofosveset trisodium
+2. Groups:  Approved
+3. Description:  Gadofosveset trisodium is an intravenous contrast agent used with magnetic resonance angiography(MRA), which is a non-invasive way of imaging blood vessels. The agent allows for the vascular system to be imaged more clearly by the MRA. In this way, gadofosveset trisodium is used to help diagnose certain disorders of the heart and blood vessels.
+4. Indication:  Gadofosveset trisodium is indicated for use as a contrast agent in magnetic resonance angiography (MRA) to evaluate aortoiliac occlusive disease (AIOD) in adults with known or suspected peripheral vascular disease.
+DrugId:  15
+1. Name:  Metrizoic acid
+2. Groups:  Approved
+3. Description:  Metrizoic acid is a molecule used as a contrast medium. Owing to its high osmolality, metrizoic acid has a risk of inducing allergic reactions compared to lower osmolar contrast media. Its approval has been discontinued by the FDA. One study in 1976 demonstrated that metrizoic acid, when used for cardiac angiography, was well tolerated. A total of 10, 000 injections were administered to 2,028 patients undergoing angiocardiographic procedures over a three-year period. With two exceptions, all complications occurred during injection of the right coronary artery. Seven cases of ventricular fibrillation, and 5 of significant bradycardia/asystole, were associated with metrizoic acid injection. In general, the drug was well tolerated by patients during cardiac examinations [A32901].
+4. Indication:  For use as a contrast medium [2].
+DrugId:  16
+1. Name:  EP-2104R
+2. Groups:  Investigational
+3. Description:  EP-2104R is an imaging pharmaceutical under development for the detection of blood clots. It is the first targeted high-resolution technique designed to visualize blood clots directly. It is being developed by EPIX Pharmaceuticals, Inc.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.
+DrugId:  17
+1. Name:  Iophendylate
+2. Groups:  Approved
+3. Description:  Iophendylate is a mixture of isomers used as contrast medium, mainly for brain and spinal cord visualization. Iophendylate is a myelographic oil-ester (U.S. Patent 2,348,231). Iophendylate, which was never shown to be safe, was initially introduced for use in small amounts (1-2cc) for locating spinal tumors. It next appeared on the world scene for high volume (12-15cc), routine use, in diagnosing disc herniations. A number of clinicians have published on the dangers of oil myelography. In 1942 Van Wagenen (a neurosurgical colleague of Warrens, at the University of Rochester) identified Iophendylate as causing chemical meningitis in 30 patients where "space-displacing masses within the spinal canal were suspected".
+4. Indication:  Iophendylate is used as a contrast agent to locate spinal tumors.
+DrugId:  18
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  19
+1. Name:  Gadoxetic acid
+2. Groups:  Approved
+3. Description:  Gadoxetic acid (gadoxetate) is a paramagnetic gadolinium-containing contrast agent in which its salt form, gadoxetate disodium, is used for intravenous injection. Ethoxybenzyl diethylenetriaminepentaacetic acid is the moiety that chelates with a gadolinium ion and forms a stable complex with it to make up the drug. It is marketed by Bayer HealthCare Pharmaceuticals and FDA approved on July 3, 2008.
+4. Indication:  Gadoxetate is used as a contrast medium for magnetic resonance imaging (MRI) to detect and characterize lesions in the liver. 
+DrugId:  20
+1. Name:  Barium sulfate
+2. Groups:  Approved
+3. Description:  Barium sulfate is an inorganic compound with the chemical formula BaSO4 [3].Barium sulfate occurs in nature as the mineral barite. It is also used in various manufacturing applications and mixed into heavy concrete to serve as a radiation shield [3].This drug is used as a contrast agent in diagnostic x-ray procedures. Therapeutic advantages of barium sulfate in diagnostic procedures include both its low water solubility and high level of clearance from the body [FDA Label].Barium sulfate is ingested by mouth or administered rectally and combined with granules of effervescent bicarbonate to enhance distension of the GI tract, allowing for enhanced gastrointestinal tract visualization [3], [5].
+4. Indication:  Barium sulfate is a radiographic contrast agent indicated for use in computed tomography (CT) of the abdomen to delineate the gastrointestinal (GI) tract in adult and pediatric patients [FDA Label].
+DrugId:  21
+1. Name:  Sulfur hexafluoride
+2. Groups:  Approved
+3. Description:  Sulfur hexafluoride is an ultrasound contrast agent indicated for use•in echocardiography to opacify the left ventricular chamber and to improve the delineation of the left ventricular endocardial border in adult patients with suboptimal echocardiograms•in ultrasonography of the liver for characterization of focal liver lesions in adult and pediatric patients
+4. Indication:  Echocardiography: Sulfur hexafluoride is indicated for use in adult patients with suboptimal echocardiograms to opacify the left ventricular chamber and to improve the delineation of the left ventricularendocardial border.Ultrasonography of the Liver: Sulfur hexafluoride is indicated for use with ultrasound of the liver in adult and pediatric patients to characterize focal liver lesions.
+DrugId:  22
+1. Name:  Mangafodipir
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Mangafodipir is a contrast agent used as a diagnostic tool administered intravenously to enhance contrast in magnetic resonance imaging (MRI) of the liver and pancreas. It consists of two parts, the paramagnetic manganese (II) ions and the chelating agent fodipir (dipyridoxyl diphosphate, DPDP). Manganese absorption into the tissues that makes the normal tissue appear brighter in MRI is limited in abnormal or cancerous tissue. Enhanced contrast by mangafodipir improves visualization and detection of lesions of the liver formed from metastatic disease or hepatocellular carcinomas. The contrast agent is present as mangafodipir trisodium marketed under the name Teslascan. Teslascan has been removed from the Drug Product List by FDA in 2003, and withdrawn from the European market in 2012.
+4. Indication:  Indicated for use as an organ-specific paramagnetic contrast agent developed for imaging of the hepatobiliary system and detecting lesions in liver and pancreas.
+DrugId:  23
+1. Name:  Iothalamic acid
+2. Groups:  Approved
+3. Description:  Iothalamic acid is an iodine containing organic anion used as a diagnostic contrast agent.
+4. Indication:  Conray is indicated for use in excretory urography, cerebral angiography, peripheral arteriography, venography, arthrography, direct cholangiography, endoscopic retrograde cholangiopancreatography, contrast enhancement of computed tomographic brain images, cranial computerized angiotomography, intravenous digital subtraction angiography and arterial digital subtraction angiography.Conray may also be used for enhancement of computed tomographic scans performed for detection and evaluation of lesions in the liver, pancreas, kidneys, abdominal aorta, mediastinum, abdominal cavity and retroperitoneal space.
+DrugId:  24
+1. Name:  Gadoteridol
+2. Groups:  Approved, Investigational
+3. Description:  Gadoteridol provides contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies. n MRI, visualization of normal and pathological brain tissue depends in part on variations in the radiofrequency signal intensity that occur with changes in proton density, alteration of the T1, and variation in T2. When placed in a magnetic field, gadoteridol shortens the T1 relaxation time in tissues where it accumulates. Abnormal vascularity or disruption of the blood-brain barrier allows accumulation of gadoteridol in lesions such as neoplasms, abscesses, and subacute infarcts.
+4. Indication:  Gadoteridol is an MRI contrast agent used for contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies.
+DrugId:  25
+1. Name:  Mechlorethamine
+2. Groups:  Approved, Investigational
+3. Description:  A vesicant and necrotizing irritant destructive to mucous membranes, mechlorethamine is an alkylating drug. It was formerly used as a war gas. The hydrochloride is used as an antineoplastic in Hodgkin's disease and lymphomas. It causes severe gastrointestinal and bone marrow damage. [PubChem]The FDA granted marketing approval for the orphan drug Valchlor (mechlorethamine) gel on August 23, 2013 for the topical treatment of stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma (CTCL) in patients who have received prior skin-directed therapy. Each tube of Valchlor contains 0.016% of mechlorethamine which is equivalent to 0.02% mechlorethamine HCL. 
+4. Indication:  For the palliative treatment of Hodgkin's disease (Stages III and IV), lymphosarcoma, chronic myelocytic or chronic lymphocytic leukemia, polycythemia vera, mycosis fungoides, and bronchogenic carcinoma. Also for the palliative treatment of metastatic carcinoma resulting in effusion.

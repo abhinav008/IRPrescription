@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Doripenem
+2. Groups:  Approved, Investigational
+3. Description:  Doripenem is a broad-spectrum, carbapenem antibiotic marketed under the brand name Doribax by Janssen. Doripenem injection was approved by the FDA in 2007 to treat complicated urinary tract and intra-abdominal infections. In a clinical trial of doripenem treatment in ventilator associated pneumonia (vs. imipenem and cilastatin), it was found that doripenem carried an increased risk of death and lower clinical cure rates, resulting in a premature termination of the trial. The FDA revised the doripenem label in 2014 to include a warning against use in ventilator-associated pneumonia and to reiterate its safety and efficacy for its approved indications. 
+4. Indication:  Doripenem is indicated in the treatment of complicated intra-abdominal infections and complicated urinary tract infections, including pyelonephritis, caused by designated susceptible bacteria.
+DrugId:  2
+1. Name:  Sultamicillin
+2. Groups:  Approved, Investigational
+3. Description:  Sultamicillin has been used in trials studying the prevention and treatment of Ventilator Associated Pneumonia and Chronic Obstructive Pulmonary Disease (COPD).
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Telavancin
+2. Groups:  Approved
+3. Description:  Telavancin is a semi-synthetic derivative of vanocymycin that has bactericidal activity against Methicillin-resistant Staphylococcus aureus (MRSA) and other gram-positive bacteria. MRSA is an important pathogen capable of causing hospital-acquired pneumonia (HAP), ventilator-associated pneumonia (VAP), and skin and subcutaneous tissue infections among others.
+4. Indication:  For the treatment of complicated skin and skin structure infections (cSSSI) caused by gram-positive bacteria like methicillin-susceptible or -resistant Staphylococcus aureus, vancomycin-susceptible Enterococcus faecalis, and Streptococcus pyogenes, Streptococcus agalactiae, or Streptococcus anginosus group. Also for the treatment of adult patients with hospital-acquired bacterial pneumonia (HAP) and ventilator-associated bacterial pneumonia (VAP), known or suspected to be caused by susceptible isolates of Staphylococcus aureus (including methicillin-susceptible and methicillin-resistant S. aureus).
+DrugId:  4
+1. Name:  Tifacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in sepsis and septicemia and pneumonia.
+DrugId:  5
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  6
+1. Name:  Idarucizumab
+2. Groups:  Approved
+3. Description:  Idarucizumab is a humanized monoclonal antibody fragment (Fab) derived from an immunoglobulin G1 isotype molecule that binds to and inactivates the oral anticoagulant dabigatran, thereby reversing its anticoagulant effect. As a direct acting oral anticoagulant (DOAC), one of the risks associated with the use of dabigatran includes bleeding, espeically when given to patients at increased risk (elderly, chronic kidney disease, concomitant NSAID or warfarin use, etc). Approved under the tradename Praxbind (FDA), idarucizumab is indicated for the emergency treatment of dabigatran-associated bleeding in life-threatening or surgically induced situations. Its use is associated with immediate, complete and sustained reversal of the anticoagulant effects of dabigatran.Idarucizumab protein structure can be viewed below, with disulfide bridges at the following points: H22-H95, H149-H205, H225-L-219, L23-L93, L139-L199.
+4. Indication:  For use in patients treated with Dabigatran when reversal of the anticoagulant effects of dabigatran is needed for emergency surgery/urgent procedures and in life-threatening or uncontrolled bleeding.
+DrugId:  7
+1. Name:  Pafuramidine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in pneumonia, trypanosomiasis, malaria, HIV infection, and infectious and parasitic disease (unspecified).
+DrugId:  8
+1. Name:  Pentamidine
+2. Groups:  Approved, Investigational
+3. Description:  Antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of pneumocystis pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects. [PubChem]
+4. Indication:  For the treatment of pneumonia due to Pneumocystis carinii.
+DrugId:  9
+1. Name:  Streptococcus pneumoniae type 4 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 4 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 4 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Streptococcus pneumoniae type 12f capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 12f capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 12f of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Streptococcus pneumoniae type 19f capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 19f capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 19f of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Streptococcus pneumoniae type 23f capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 23f capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 23f of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Nitric Oxide
+2. Groups:  Approved
+3. Description:  Nitric oxide or Nitrogen monoxide is a chemical compound with chemical formula NO. This gas is an important signaling molecule in the body of mammals including humans and is an extremely important intermediate in the chemical industry. It is also a toxic air pollutant produced by automobile engines and power plants.Nitric oxide (NO) should not be confused with nitrous oxide (N2O), a general anaesthetic, or with nitrogen dioxide (NO2) which is another poisonous air pollutant.The nitric oxide molecule is a free radical, which is relevant to understanding its high reactivity. It reacts with the ozone in air to form nitrogen dioxide, signalled by the appearance of the reddish-brown color.
+4. Indication:  For the treatment of term and near-term (>34 weeks) neonates with hypoxic respiratory failure
+DrugId:  14
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  15
+1. Name:  Streptococcus pneumoniae type 6b capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 6b capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 6b of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Streptococcus pneumoniae type 7f capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 7f capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 7f of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Streptococcus pneumoniae type 8 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 8 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 8 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Streptococcus pneumoniae type 11a capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 11a capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 11a of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Streptococcus pneumoniae type 17f capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 17f capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 17f of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Streptococcus pneumoniae type 18c capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 18c capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 18c of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Streptococcus pneumoniae type 20 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 20 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 20 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Methyl isocyanate
+2. Groups:  Investigational
+3. Description:  Methyl isocyanate has been investigated for the treatment of Nosocomial Pneumonia.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Tobramycin
+2. Groups:  Approved, Investigational
+3. Description:  An aminoglycoside, broad-spectrum antibiotic produced by Streptomyces tenebrarius. It is effective against gram-negative bacteria, especially the pseudomonas species. It is a 10% component of the antibiotic complex, nebramycin, produced by the same species. [PubChem]
+4. Indication:  For the treatment of pseudomonas aeruginosa lung infections. Also being investigated for use in the treatment of sinus infections.
+DrugId:  25
+1. Name:  Iclaprim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, obesity, liver disease, kidney disease, and pneumonia.

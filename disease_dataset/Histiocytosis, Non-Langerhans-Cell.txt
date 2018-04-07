@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Vinblastine
+2. Groups:  Approved
+3. Description:  Antitumor alkaloid isolated from Vinca rosea. (Merck, 11th ed.)
+4. Indication:  For treatment of breast cancer, testicular cancer, lymphomas, neuroblastoma, Hodgkin's and non-Hodgkin's lymphomas, mycosis fungoides, histiocytosis, and Kaposi's sarcoma.
+DrugId:  2
+1. Name:  Glisoxepide
+2. Groups:  Investigational
+3. Description:  Glisoxepide is one of the sulphonamide-derived oral antidiabetic drugs. It inhibits the uptake of bile acids into isolated rat hepatocytes. However it inhibits taurocholate uptake only in the absence of sodium ions. Glisoxepide uptake could be further inhibited by blockers of the hepatocellular monocarboxylate transporter, by the loop diuretic bumetanide, by 4,4'-diisothiocyano-2,2'-stilbenedisulfonate (DIDS) and by sulphate. These results are consistent with the transport of glisoxepide via the transport system for the unconjugated bile acid cholate. [1, 2]
+4. Indication:  For the treatment of diabetes mellitus type 2.
+DrugId:  3
+1. Name:  Gliclazide
+2. Groups:  Approved
+3. Description:  Gliclazide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating β cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic β cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Gliclazide has been shown to decrease fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels (reflective of the last 8-10 weeks of glucose control). Gliclazide is extensively metabolized by the liver; its metabolites are excreted in both urine (60-70%) and feces (10-20%).
+4. Indication:  For the treatment of NIDDM in conjunction with diet and exercise. 
+DrugId:  4
+1. Name:  Lumretuzumab
+2. Groups:  Investigational
+3. Description:  Lumretuzumab has been used in trials studying the treatment of Neoplasms, Breast Cancer, Squamous Non-Small Cell Lung Cancer, and Non-Squamous Non-Small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Polatuzumab Vedotin
+2. Groups:  Investigational
+3. Description:  Polatuzumab Vedotin has been used in trials studying the treatment of Non-Hodgkin's Lymphoma, Lymphoma, B-Cell, Non-Hodgkin's Lymphoma, Diffuse Large B-Cell Lymphoma, Lymphoma, Follicular, Lymphoma, Follicular, Diffuse Large B-Cell Lymphoma, and Diffuse Large B-Cell Lymphoma, Lymphoma, Non Hodgkin, Lymphoma, Follicular, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Platinum
+2. Groups:  Investigational
+3. Description:  Platinum is under investigation for the treatment of Metastatic Breast Cancer, Non-small Cell Lung Cancer, Gastric Large Cell Neuroendocrine Carcinoma, Colorectal Large Cell Neuroendocrine Carcinoma, and Pancreatic Large Cell Neuroendocrine Carcinoma, among others. Platinum has been investigated for the treatment and supportive care of Ovarian Cancer, Fallopian Tube Cancer, Peritoneal Primary Cancer, Non Small Cell Lung Cancer, and Primary Peritoneal Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Vildagliptin
+2. Groups:  Approved, Investigational
+3. Description:  Vildagliptin, previously identified as LAF237, is a new oral anti-hyperglycemic agent (anti-diabetic drug) of the new dipeptidyl peptidase-4 (DPP-4) inhibitor class of drugs. Vildagliptin inhibits the inactivation of GLP-1 and GIP by DPP-4, allowing GLP-1 and GIP to potentiate the secretion of insulin in the beta cells and suppress glucaon release by the alpha cells of the islets of Langerhans in the pancreas. It is currently in clinical trials in the U.S. and has been shown to reduce hyperglycemia in type 2 diabetes mellitus. While the drug is still not approved for use in the US, it was approved in Feb 2008 by European Medicines Agency for use within the EU and is listed on the Australian PBS with certain restrictions.
+4. Indication:  Used to reduce hyperglycemia in type 2 diabetes mellitus.
+DrugId:  8
+1. Name:  FavId
+2. Groups:  Investigational
+3. Description:  FavId, is an active immunotherapy that is based upon unique genetic information extracted from a patient's tumor.
+4. Indication:  B-cell non-Hodgkin's lymphoma
+DrugId:  9
+1. Name:  IPH 1101
+2. Groups:  Investigational
+3. Description:  IPH 1101 is a chemically-synthesized structural analog of non-conventional bacterial phosphoantigens which specifically activate the Vγ9Vδ2 T cell subset. IPH 1101 is the most advanced drug candidate of the γδ T cell platform
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), leukemia (myeloid), and lymphoma (non-hodgkin's).
+DrugId:  10
+1. Name:  Naptumomab Estafenatox
+2. Groups:  Investigational
+3. Description:  Naptumomab Estafenatox has been used in trials studying the treatment of Pancreatic Cancer, Renal Cell Carcinoma, and Non-Small-Cell Lung Carcinoma.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Ublituximab
+2. Groups:  Investigational
+3. Description:  Ublituximab has been used in trials studying the treatment of B-cell Lymphoma, Neuromyelitis Optica, Mantle Cell Lymphoma, Non-Hodgkins Lymphoma, and Marginal Zone Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  PRLX 93936
+2. Groups:  Investigational
+3. Description:  PRLX 93936 is selectively toxic to cancer cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  13
+1. Name:  FAV-201
+2. Groups:  Investigational
+3. Description:  FAV-201 is a patient-specific immunotherapy for the treatment of T-cell lymphoma.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's).
+DrugId:  14
+1. Name:  Emibetuzumab
+2. Groups:  Investigational
+3. Description:  Emibetuzumab has been used in trials studying the treatment of Advanced Cancer, Renal Cell Carcinoma, Hepatocellular Cancer, Gastric Adenocarcinoma, and Non-Small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Dalotuzumab
+2. Groups:  Investigational
+3. Description:  Dalotuzumab has been investigated for the treatment of Breast Cancer, Non Small Cell Lung Cancer, and Metastatic Colorectal Cancer.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Necitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Necitumumab is an intravenously administered recombinant monoclonal IgG1 antibody used in the treatment of non-small cell lung cancer (NSCLC) as an EGFR antagonist. It functions by binding to epidermal growth factor receptor (EGFR) and prevents binding of its ligands, a process that is involved in cell proliferation, metastasis, angiogenesis, and malignant progression. Binding of necitumumab to EGFR induces receptor internalization and degradation, thereby preventing further activation of EGFR which is beneficial in NSCLC as many patients have increased protein expression of EGFR. Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC).
+4. Indication:  Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC). It is not indicated for treatment of non-squamous NSCLC. 
+DrugId:  18
+1. Name:  MCC
+2. Groups:  Investigational
+3. Description:  Mycobacterial Cell Wall-DNA Complex (MCC) is formulated from Mycobacterium phlei, a non-pathogenic strain of mycobacteria. MCC has been shown to have immune stimulatory and apoptosis (programmed cell death) activity against cancer cells. The product is a sterile biological composition in a sub-micron suspension. It is produced at the Bioniche manufacturing facility in Pointe-Claire, Quebec.
+4. Indication:  Bladder cancer
+DrugId:  19
+1. Name:  Endostar
+2. Groups:  Investigational
+3. Description:  Endostar is under investigation for the treatment of Nasopharyngeal Carcinoma. Endostar has been investigated for the treatment of Non-small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Tecemotide
+2. Groups:  Investigational
+3. Description:  Tecemotide has been used in trials studying the treatment of Prostate Cancer and Carcinoma, Non-Small-Cell Lung.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  AE-941
+2. Groups:  Investigational
+3. Description:  AE-941 is a naturally occurring anti-angiogenic compound, extracted from cartilage, with multiple anti-angiogenic mechanisms of action that provide broad therapeutic potential for a number of diseases. It is currently in international Phase III trials for renal cell carcinoma and non-small-cell lung cancer.
+4. Indication:  Investigated for use/treatment in kidney cancer, lung cancer, macular degeneration, multiple myeloma, prostate cancer, and psoriasis and psoriatic disorders.
+DrugId:  23
+1. Name:  Antroquinonol
+2. Groups:  Investigational
+3. Description:  Antroquinonol has been used in trials studying the treatment of Hyperlipidemias, Non-small Cell Lung Cancer, and Non-small Cell Lung Cancer Stage IV.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Vitespen
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in kidney cancer, melanoma, renal cell carcinoma, lymphoma (unspecified), colorectal cancer, and brain cancer.
+DrugId:  25
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available

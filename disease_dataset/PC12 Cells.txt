@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  IDM-4
+2. Groups:  Investigational
+3. Description:  IDM-4 is an immuno-designed molecule that completed phase I/II of investigation for the treatment of Leukemia. It is a monoclonal antibody-specific antigen that can selectively target cancer-affected cells by coupling with tumor cell-killing MAK cells, which are derived from the patient's own monocytes. Trials of this drug have most likely been discontinued by the manufacturer.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  2
+1. Name:  IDM-2
+2. Groups:  Investigational
+3. Description:  IDM-2 is composed of Monocyte-derived Activated Killer (MAK) cells. IDM produces MAK cells from the patient's own white blood cells by activating these cells ex vivo to allow them to recognize and destroy tumor cells.
+4. Indication:  Investigated for use/treatment in bladder cancer.
+DrugId:  3
+1. Name:  Amolimogene
+2. Groups:  Investigational
+3. Description:  Amolimogene is an investigational therapeutic designed to specifically augment the body's defensive response to human papillomavirus (HPV). Amolimogene was biologically engineered as a targeted therapy for the treatment of cervical dysplasia.
+4. Indication:  Intended for the treatment of cervical dysplasia associated with the human papillomavirus (HPV).
+DrugId:  4
+1. Name:  Catumaxomab
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Catumaxumab is a trifunctional monoclonal antibody developed for use in cancer treatment. It has affinity for T-cells, accessory immune cells, and cancer cells. Catumaxumab was initially authorized for market by the European Medicines Agency in April 2009 for the treatment of malignant ascites [3]. Its market authorization was withdrawn in the EU in June 2017 at the manufacturer's request due to the company's insolvency. Catumaxumab was approved for market in Canada in May 2012 for the same condition [FDA Label]. It is currently available under the brand name Removab.
+4. Indication:  For use in the management of malignant ascites tumours via intraperitoneal infusion where standard therapy is not available or feasible [FDA Label].
+DrugId:  5
+1. Name:  IDD-3
+2. Groups:  Investigational
+3. Description:  IDD-3 is a therapeutic specific immunostimulant developed by IDM Pharma in partnership with sanofi-aventis. It consists of mature dendritic cells loaded with lysates from melanoma tumor cell lines. It includes Dendritophages that are dendritic cells, a type of specialized immune cells derived from the patient's own white blood cells. 
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  6
+1. Name:  Lucatumumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid), multiple myeloma, and lymphoma (unspecified).
+DrugId:  7
+1. Name:  CT-011
+2. Groups:  Investigational
+3. Description:  CT-011 is a humanized monoclonal antibody directed against a B7 family-associated protein, in patients with advanced haematological malignancies. It is directed against human PD-1 (programmed cell death 1; PDCD1), with immunomodulating and antitumor activities.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  8
+1. Name:  Technetium Tc-99m red blood cells
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m red blood cells is a radiopharmaceutical diagnostic agent that is intravenously administered to be used in blood pool imaging, including cardiac first pass and gated equilibrium imaging and for detection of sites of gastrointestinal bleeding. It is clinically useful in early detection and localization of bleeding sites, and preoperative diagnosis of hemangioma [1]. Autologous red blood cells are radiolabeled with sodium pertechnetate Tc 99m in the reaction vial. Radiolabeled red blood cells are re-injected intravenously into the patient for gamma scintigraphic imaging [FDA Label]. It is suggested that in vitro labelling improves the heart-to-background ratio during imaging [2].
+4. Indication:  Indicated for blood pool imaging, including cardiac first pass and gated equilibrium imaging and for detection of sites of gastrointestinal bleeding [FDA Label]. 
+DrugId:  9
+1. Name:  HGTV-43
+2. Groups:  Investigational
+3. Description:  HGTV43 is an anti-sense treatment designed to produce T cells that are genetically resistant to HIV infection. HGTV43 is one of a number of so-called 'gene transfer vectors' developed by the biotechnology company Enzo Biochem, Inc.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  10
+1. Name:  VPM4001
+2. Groups:  Investigational
+3. Description:  VPM4001 is an allogeneic vaccine for treatment of prostate carcinoma. It consists of irradiated human LNCaP cells that have been genetically modified to permanently secrete interferon-γ and interleukin-2 (LNCaP/IL-2/IFN-γ). Interferon-γ enhances presentation of tumour antigens, whereas interleukin-2 stimulates T cells.
+4. Indication:  Investigated for use/treatment in prostate cancer.
+DrugId:  11
+1. Name:  Natalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized IgG4k monoclonal antibody produced in murine myeloma cells. Natalizumab contains human framework regions and the complementarity-determining regions of a murine antibody that binds to a4-integrin. Natalizumab was voluntarily withdrawn from U.S. market because of risk of Progressive multifocal leukoencephalopathy (PML). It was returned to market July, 2006.
+4. Indication:  For treatment of multiple sclerosis.
+DrugId:  12
+1. Name:  Mesenchymal Stem Cells
+2. Groups:  Investigational
+3. Description:  Mesenchymal stem cells (MSCs) from healthy donors improve cardiac function in experimental acute myocardial infarction (AMI) models. Osiris' stem cells are derived from human bone marrow. The source marrow is voluntarily donated by healthy adults between the ages of 18 and 30 years. Blood samples from the donor are screened prior to donation for transmissible diseases, including HIV and hepatitis, and the medical and social history of each donor is obtained to ascertain whether signs, symptoms or behaviors consistent with high risk for carrying a disease are present.
+4. Indication:  Investigated for use/treatment in heart disease and myocardial infarction.
+DrugId:  13
+1. Name:  Bardoxolone methyl
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in lymphoma (unspecified), multiple myeloma, and solid tumors.
+DrugId:  14
+1. Name:  R-851
+2. Groups:  Investigational
+3. Description:  R-851 is part of the family of immune response modifier (IRM) and it acts in a novel way to stimulate the human body's immnune system to attack virus-infected cells and tumor cells. It is expected to be topical treatment for cervical displasia and cervical high-risk human papillomavirus (HPV), the sexually transmitted virus that causes most cases of cervical cancer.
+4. Indication:  Investigated for use/treatment in cervical dysplasia/cancer and viral infection.
+DrugId:  15
+1. Name:  EG009
+2. Groups:  Investigational
+3. Description:  Cerepro is a novel gene-based product for the treatment of patients with operable high grade glioma, a type of malignant brain tumour, given in addition to standard surgery and radiotherapy/chemotherapy. It is being developed by Ark Therapeutics.
+4. Indication:  Intended for the treatment of brain cancer.
+DrugId:  16
+1. Name:  ADH-1
+2. Groups:  Investigational
+3. Description:  Adherex's biotechnology compound, ADH-1, targets N-cadherin, a protein present on certain tumor cells and established tumor blood vessels. ADH-1 is currently in clinical development in a combination program with a range of chemotherapeutic agents to investigate the synergistic effects noted in our preclinical models. At the end of 2006, the Company also completed patient enrollment in our single-agent Phase Ib/II and Phase II trials of ADH-1.Cadherins are cell adhesion and cell signaling molecules crucial to the development of tissues, organs and organisms. Agents that target and inhibit cadherin function have the potential to attack the progression of cancer at two distinct points:* Direct targeting of cadherins expressed on cancer cells may disturb cadherin-mediated signaling, leading to apoptosis (death) of cancer cells.* Cadherin inhibitors may exploit the inherent structural weaknesses of the tumor vasculature, causing angiolysis (disruption of blood vessels) and tumor damage.As many tumors become more aggressive, invasive, and malignant, researchers have found that N-cadherin is expressed in greater amounts, making it an important target for developing anti-cancer treatments.Poorly differentiated, highly invasive carcinomas are characterized by over-expression of N-cadherin (as opposed to E-cadherin). This change in primary cadherin expression causes the epithelial cells to lose their tightly adherent, polarized and well-defined shape and become loosely adherent, flattened and migratory. Such cadherin switching promotes properties such as dedifferentiation, local invasion and metastasis, leading to poor prognosis.ADH-1 may have utility in a wide variety of cancers as N-cadherin is overexpressed in a variety of tumors. As tumors progress to become higher grade, invasive and more metastatic, the frequency of N-cadherin expression generally rises.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), melanoma, ovarian cancer, and solid tumors.
+DrugId:  17
+1. Name:  Bavituximab
+2. Groups:  Investigational
+3. Description:  Bavituximab is a chimeric Anti-PS monoclonal antibody analog which is used to potentially treat cancers and viral infections. It binds to phosphatidylserine and other exposed host cell lipids when induced by cellular stress. Additional analogs in the class include 3G4, 2aG4, 9d2 and Hu3g4.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), HIV infection, hepatitis (viral, C), and solid tumors.
+DrugId:  18
+1. Name:  1D09C3
+2. Groups:  Investigational
+3. Description:  1D09C3, a monoclonal antibody against lymphoid cancers, is an anti-MHC (major histocompatibility complex) class II monoclonal antibody. The antibody was isolated in collaboration with MorphoSys from its HuCAL(R) library of human antibodies. 1D09C3 binds to certain cell surface receptors, selectively killing activated, proliferating MHC class II-positive tumor cells, which include those in B-cell and T-cell lymphomas. 1D09C3 has been shown to induce programmed cell death and does not require a functioning immune system for its cell-killing effect.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  19
+1. Name:  Axicabtagene ciloleucel
+2. Groups:  Approved
+3. Description:  Axicabtagene ciloleucel is a chimeric antigen receptor (CAR) T cell therapy for the treatment of Diffuse large B-cell lymphoma (DLBCL), which is a type of a non-Hodgkin lymphoma (NHL). It is the second cell-based gene therapy that is FDA-approved but the first in the treatment of large B-cell lymphoma in adult patients. Uniquely, axicabtagene ciloleucel utilizes each patient’s own immune system where each dose of the drug consists of the patient's genetically modified T-cells that were previously collected. The modified version of the T-cell expresses a new gene that targets and kills the lymphoma cells and is infused back into the patient. Diffuse large B-cell lymphoma (DLBCL) is the most common type of NHL in adults that mostly originates from the lymph nodes but can initiate outside of the lymphatic system. Lymphoma cells appear to be much larger in size than normal lymphocytes. In a multicenter clinical trial, the patients who were treated with axicabtagene ciloleucel achieved the complete remission rate of 51%. Developed by Kite Pharma, Inc., it was approved on October 18th, 2017 by the FDA as an intravenously infused anticancer therapy and is marketed under the brand name Yescarta.
+4. Indication:  Indicated for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, primary mediastinal large B-cell lymphoma, high grade B-cell lymphoma, and DLBCL arising from follicular lymphoma. 
+DrugId:  20
+1. Name:  MUC1 Dendritic Cell Vaccine
+2. Groups:  Investigational
+3. Description:  Dendritic Cell (DC) Therapy is a newly emerging and potent form of immune therapy that amplifies the actions of the body's own immune system to help fight cancer, AIDS and other serious conditions. The Dendritic Cell is an immune cell whose role is the recognition, processing and presentation of foreign antigens to the T-cells to initiate a primary response in the effector arm of the immune system. Dendritic cells not only activate lymphocytes to induce the immune response, but they also minimize autoimmune reactions by downplaying self-antigens to stimulated T-cells. Dendritic Cell Therapy involves the harvesting of blood cells (ie monocytes or macrophages) from a patient and processing them in the laboratory to produce a greater than typical Dendritic Cell concentration. These cells are then given back to a patient as a vaccine in order to allow for a potent immune response to cancer.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and ovarian cancer.
+DrugId:  21
+1. Name:  Elesclomol
+2. Groups:  Investigational
+3. Description:  Elesclomol is a novel, injectable, drug candidate that kills cancer cells by elevating oxidative stress levels beyond a breaking point, triggering programmed cell death. In preclinical models elesclomol showed potent killing of a broad range of cancer cell types at high doses, and an ability to strongly enhance the efficacy of certain chemotherapy agents, with minimal additional toxicity, at moderate doses. It is being developed by Synta Pharmaceuticals.
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  22
+1. Name:  AG-858
+2. Groups:  Investigational
+3. Description:  AG-858 (autologous heat-shock protein 70 peptide vaccine) isa recombinant cancer vaccine made with tumor-derived heat shock protein 70 (HSP70) peptide complexes. HSP70 associates with antigenic peptides, transporting them into antigen presenting cells (APC) for processing. Tumor-derived HSP70-peptide complexes used in vaccine preparations have been shown to prime tumor immunity and tumor-specific T cells in animal models.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid).
+DrugId:  23
+1. Name:  ZYC300
+2. Groups:  Investigational
+3. Description:  ZYC300 is a plasmid DNA of CYP1B1 encapsulated in biodegradable poly-DL-lactide-coglycolide microparticles. It is designed as a vaccine, intended to increase immune system sensitivity to CYP1B1, an enzyme highly prevalent in tumor cells.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  24
+1. Name:  AVAC
+2. Groups:  Investigational
+3. Description:  AVAC is derived from M. vaccae. It has been tested in uses related to asthma and in treating eczema and atopic dermatitis.Mycobacterium vaccae is a non-pathogenic, saprophytic bacteria whose antigens can be used to induce peripheral immune activation through the activity of regulatory T-cells that surpress inappropriate Th2 activity.
+4. Indication:  Investigated for use/treatment in asthma and atopic dermatitis.
+DrugId:  25
+1. Name:  Siplizumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders, transplant (rejection), graft versus host disease, lymphoma (unspecified), and leukemia (unspecified).

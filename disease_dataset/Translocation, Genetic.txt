@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  FavId
+2. Groups:  Investigational
+3. Description:  FavId, is an active immunotherapy that is based upon unique genetic information extracted from a patient's tumor.
+4. Indication:  B-cell non-Hodgkin's lymphoma
+DrugId:  2
+1. Name:  VIR201
+2. Groups:  Investigational
+3. Description:  is an experimental therapeutic vaccine currently in clinical trial. The aim of therapeutic vaccines is to augment the body's immune response to HIV and to delay or prevent progression to AIDS.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  3
+1. Name:  EW-A-401
+2. Groups:  Investigational
+3. Description:  EW-A-401 is a circle of genetic material (plasmid DNA) that instructs the body to produce a genetically-engineered transcription factor, a protein that regulates expression of genes. This specific transcription factor has been shown in animal studies to increase expression of the VEGF-A gene, and to promote the growth of new blood vessels.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease.
+DrugId:  4
+1. Name:  RDEA806
+2. Groups:  Investigational
+3. Description:  RDEA806 is a new HIV non-nucleoside reverse transcriptase inhibitor (NNRTI) with a high genetic barrier to resistance and a broad spectrum of activity.
+4. Indication:  For the treatment of HIV-1 infection in combination with appropriate antiretroviral agents when therapy is warranted.
+DrugId:  5
+1. Name:  Fx-1006A
+2. Groups:  Investigational
+3. Description:  Fx-1006A is a small molecule compound with the potential to treat genetic disorders, such as familial amyloid cardiomyopathy (FAC) and familial amyloid polyneuropathy (FAP).
+4. Indication:  Investigated for use/treatment in amyloidosis.
+DrugId:  6
+1. Name:  Peach
+2. Groups:  Approved
+3. Description:  Peach allergenic extract is used in allergenic testing.
+4. Indication:  For the treatment of Pneumococcal pneumonia due to susceptible strains and group A beta-hemolytic streptococcal infections of the upper respiratory tract.
+DrugId:  7
+1. Name:  Fusidic Acid
+2. Groups:  Approved, Investigational
+3. Description:  An antibiotic isolated from the fermentation broth of Fusidium coccineum. (From Merck Index, 11th ed) It acts by inhibiting translocation during protein synthesis.
+4. Indication:  For the treatment of bacterial infections.
+DrugId:  8
+1. Name:  NV1020
+2. Groups:  Investigational
+3. Description:  NV1020, a genetically engineered herpes simplex virus, is a novel anticancer therapeutic.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  9
+1. Name:  CX501
+2. Groups:  Investigational
+3. Description:  Cx501 is used to treat epidermolysis bullosa (EB), a rare genetic condition which can lead to contraction of the joints, fusion of fingers and toes, contraction of the mouth membranes and narrowing of the oesophagus. It is developed by Cellerix and is in phase I of clinical trials.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  10
+1. Name:  C1-INH
+2. Groups:  Investigational
+3. Description:  C1-INH is human pasteurized C1-inhibitor concentrate to treat patients with hereditary angioedema (HAE), a rare genetic disorder that can lead to painful and sometimes life-threatening attacks of edema (swelling) of the face, airway, abdomen, and extremities.
+4. Indication:  Investigated for use/treatment in angioedema.
+DrugId:  11
+1. Name:  ICA-105665
+2. Groups:  Investigational
+3. Description:  ICA-105665 is a novel small molecule compound for the treatment of epilepsy. It is a novel opener of the KCNQ ion channel which in preclinical studies has demonstrated a broad spectrum of activity in models of epilepsy. In addition, ICA-105665 has also demonstrated activity in certain models of neuropathic pain.
+4. Indication:  Investigated for use/treatment in epilepsy.
+DrugId:  12
+1. Name:  omega interferon
+2. Groups:  Investigational
+3. Description:  Human interferon omega 1 (IFN-omega 1 = IFN-alpha II1) is a recently discovered protein structurally related to IFN-alpha and -beta. It occurs naturally in the human body and is currently being manufactured by Intarcia through genetic engineering. There are multiple routes for administration of omega interferon: injection, an implantable subcutaneous drug delivery system, and an oral formulation. It has been investigated both in single and combination treatment. The biological activities of IFN-omega 1 and its physiological role are not known to date. 
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  13
+1. Name:  Iroxanadine
+2. Groups:  Investigational
+3. Description:  BRX-235 (iroxanadine) is a a novel small molecule synthesized by Biorex, Hungary that acts as a cardioprotective agent. It induces phosphorylation of p38 SAPK, which plays an important role in EC homeostasis. endothelial cell (EC). EC function plays a central role in vascular diseases (e.g. atherosclerosis, restenosis, diabetic angiopathies, microvascular angina, peripheral arterial disease). BRX-235 also causes translocation of calcium-dependent protein kinase C isoform to membranes.
+4. Indication:  Investigated for use/treatment in atherosclerosis and vascular diseases as a cardioprotective agent. Its use has also been suggested for the prevention of early restenosis following vascular surgery or balloon angioplasty.
+DrugId:  14
+1. Name:  EG009
+2. Groups:  Investigational
+3. Description:  Cerepro is a novel gene-based product for the treatment of patients with operable high grade glioma, a type of malignant brain tumour, given in addition to standard surgery and radiotherapy/chemotherapy. It is being developed by Ark Therapeutics.
+4. Indication:  Intended for the treatment of brain cancer.
+DrugId:  15
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  16
+1. Name:  L-aminocarnityl-succinyl-leucyl-argininal-diethylacetal
+2. Groups:  Investigational
+3. Description:  C-101, also called Myodur, is developed for the treatment of Duchenne’s muscular dystrophy (DMD) which is a morbid genetic disease that can lead to death in late adolescence due to accelerated skeletal muscle breakdown. C-101 includes a carnitine carrier molecule and a leupeptin analogue, a known calpain inhibitor. Calpain is the primary protease that degrades skeletal muscle.
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  17
+1. Name:  Voxilaprevir
+2. Groups:  Approved, Investigational
+3. Description:  Voxilaprevir is a Direct-Acting Antiviral (DAA) medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Voxilaprevir exerts its antiviral action by reversibley binding and inhibiting the NS3/4A serine protease of Hepatitis C Virus (HCV) [FDA Label]. Following viral replication of HCV genetic material and translation into a single polypeptide, Nonstructural Protein 3 (NS3) and its activating cofactor Nonstructural Protein 4A (NS4A) are responsible for cleaving genetic material into the following structural and nonstructural proteins required for assembly into mature virus: NS3, NS4A, NS4B, NS5A, and NS5B [2]. By inhibiting viral protease NS3/4A, voxilaprevir therefore prevents viral replication and function. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as voxilaprevir. Voxilaprevir has been available since July 2017 in a fixed dose combination product with Sofosbuvir and Velpatasvir as the commercially available product Vosevi. Vosevi is approved for the treatment of adult patients with chronic HCV infection with genotype 1, 2, 3, 4, 5, or 6 infection [FDA Label]. Notably, Vosevi is approved for use in patients with genotypes 1-6 who have been previously treated with an NS5A inhibitor, or patients with genotypes 1a or 3 infection and have previously been treated with an HCV regimen containing Sofosbuvir without an NS5A inhibitor [4]. Prior to Vosevi, there were no approved retreatment options for patients who have previously received, and failed, a regimen containing an NS5A inhibitor for treatment of chronic HCV infection.
+4. Indication:  Vosevi (Voxilaprevir/Sofosbuvir/Velpatasvir) is approved for use in patients with genotypes 1-6 who have been previously treated with an NS5A inhibitor, or patients with genotypes 1a or 3 infection who have previously been treated with an HCV regimen containing Sofosbuvir without an NS5A inhibitor [4]. 
+DrugId:  18
+1. Name:  Ty800
+2. Groups:  Investigational
+3. Description:  Ty800 is a vaccine designed to offer rapid, oral, single-dose protection against Salmonella typhi, the cause of typhoid fever. The Ty800 vaccine was developed using genetic techniques to delete specific genes known to be essential to the virulence of S. typhi. It is being developed by AVANT Immunotherapeutics, Inc.
+4. Indication:  For the production of immunity to Salmonella typhi, the cause of typhoid fever.
+DrugId:  19
+1. Name:  Vatiquinone
+2. Groups:  Investigational
+3. Description:  Vatiquinone has been investigated for the treatment and prevention of Retinopathy, Rett Syndrome, Genetic Disease, Noise-induced Hearing Loss, and Methylmalonic Aciduria and Homocystinuria,Cblc Type.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Apalutamide
+2. Groups:  Approved, Investigational
+3. Description:  Apalutamide is a potent androgen receptor (AR) antagonist that selectively binds to the ligand-binding domain of AR and blocks AR nuclear translocation or binding to androgen response elements [1]. It has been used in trials studying the treatment of Prostate Cancer, Hepatic Impairment, Prostatic Neoplasms, Castration-Resistant Prostate Cancer, and Prostatic Neoplasms, Castration-Resistant, among others. Exerting an antitumor action, apalutamide blocking the effect of androgens that promote tumor growth. It targets the AR ligand-binding domain and prevents AR nuclear translocation, DNA binding, and transcription of AR gene targets in prostate tumors [1]. In mice bearing human CRPC xenograft models, apalutamide treatment produced tumor regressions in a dose-dependent manner that was more effective than that of Bicalutamide or Enzalutamide. Unlike bicalutamide, apalutamide antagonized AR-mediated signaling in AR overexpressing human CRPC cell lines [1].Androgen-deprivation therapy, or hormone therapy, can be used as part of maintenance therapy for patients with non-metastatic prostate cancer. Although most patients achieve therapeutic responses at the initial hormone therapy, many patients progress to non-metastatic castration-resistant (resistance to hormone therapy) prostate cancer which is the second-most common cause of cancer-related deaths in American males [2]. Castration-resistant prostate cancer is often incurable, which poses significant clinical challenges for patients. Approximately 10 to 20 % of prostate cancer cases are castration-resistant, and up to 16% of these patients show no evidence of cancer metastasis at the time of castration-resistant diagnosis [3]. Higher prostate-specific antigen (PSA) and shorter PSA doubling time (PSA DT) are associated with a higher risk for metastases and death [1]. In a phase-2 multicenter open-label study, 89% of patients with non-metastatic, castration-resistant prostate cancer had ≥50% PSA decline at week 12 of apalutamide treatment [1]. In a randomized trial, the median metastasis-free survival for patients taking apalutamide was 40.5 months compared to 16.2 months for patients taking a placebo [3]. Apalutamide displayed good tolerability and safety profile in clinical studies. Apalutamide was approved in February 2018 by the FDA as Erleada for the treatment of patients with non-metastatic prostate cancer that is resistant to treatment with hormone therapy (castration-resistant). It is available as oral tablets. Apalutamide is the first FDA-approved treatment for non-metastatic, castration-resistant prostate cancer [3].
+4. Indication:  Indicated for the treatment of patients with non-metastatic, castration-resistant prostate cancer (NM-CRPC) [FDA Label].
+DrugId:  21
+1. Name:  Interferon gamma-1b
+2. Groups:  Approved, Investigational
+3. Description:  Human Interferon gamma-1b (140 residues), produced from E. coli. Production of Actimmune is achieved by fermentation of a genetically engineered Escherichia coli bacterium containing the DNA which encodes for the human protein. Purification of the product is achieved by conventional column chromatography.The sequence displayed is a cDNA sequence which codes for human interferon gamma, as described by Gray et. al. and not specifically interferon gamma 1b.
+4. Indication:  Interferon gamma-1b is used for the treatment of Chronic granulomatous disease and Osteopetrosis.
+DrugId:  22
+1. Name:  Ribostamycin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum antimicrobial isolated from Streptomyces ribosifidicus. Ribostamycin, along with other aminoglycosides with the DOS (2-deoxystreptamine) subunit, is an important broad-spectrum antibiotic with important use against human immunodeficiency virus and is considered a critically important antimicrobial by the World Health Organization.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  D-Tryptophan
+2. Groups:  Experimental
+3. Description:  Tryptophan is one of the 20 standard amino acids, as well as an essential amino acid in the human diet. It is encoded in the standard genetic code as the codon UGG. The D-stereoisomer is occasionally found in naturally produced peptides (for example, the marine venom peptide contryphan). The distinguishing structural characteristic of tryptophan is that it contains an indole functional group. It is an essential amino acid as defined by its growth effects on rats.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Uridine triacetate
+2. Groups:  Approved, Investigational
+3. Description:  Uridine triacetate, formerly known as vistonuridine, is an orally active prodrug of the naturally occurring nucleoside uridine. It is used for the treatment of hereditary orotic aciduria (Xuriden), or for the emergency treatment of fluorouracil or capecitabine overdose or toxicity (Vistogard). It is provided in the prodrug form as uridine triacetate as this form delivers 4- to 6-fold more uridine into the systemic circulation compared to equimolar doses of uridine itself. When used for the treatment or prevention of toxicity associated with fluorouracil and other antimetabolites, uridine triacetate is utilized for its ability to compete with 5-fluorouracil (5-FU) metabolites for incorporation into the genetic material of non-cancerous cells. It reduces toxicity and cell-death associated with two cytotoxic intermediates: 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). Normally, FdUMP inhibits thymidylate synthase required for thymidine synthesis and DNA replication and repair while FUTP incorporates into RNA resulting in defective strands. As a result, these metabolites are associated with various unpleasant side effects such as neutropenia, mucositis, diarrhea, and hand–foot syndrome. Like many other neoplastic agents, these side effects limit the doses of 5-FU that can be administered, which also affects the efficacy for treatment. By pre-administering with uridine (as the prodrug uridine triacetate), higher doses of 5-FU can be given allowing for improved efficacy and a reduction in toxic side effects [3]. It can also be used as a rescue therapy if severe side effects present within 96 hours after initiation of therapy. Uridine triacetate is also used for the treatment of hereditary orotic aciduria, also known as uridine monophosphate synthase deficiency. This rare congenital autosomal recessive disorder of pyrimidine metabolism is caused by a defect in uridine monophosphate synthase (UMPS), a bifunctional enzyme that catalyzes the final two steps of the de novo pyrimidine biosynthetic pathway. As a result of UMPS deficiency, patients experience a systemic deficiency of pyrimidine nucleotides, accounting for most symptoms of the disease. Additionally, orotic acid from the de novo pyrimidine pathway that cannot be converted to UMP is excreted in the urine, accounting for the common name of the disorder, orotic aciduria. Furthermore, orotic acid crystals in the urine can cause episodes of obstructive uropathy. When administered as the prodrug uridine triacetate, uridine can be used by essentially all cells to make uridine nucleotides, which compensates for the genetic deficiency in synthesis in patients with hereditary orotic aciduria. When intracellular uridine nucleotides are restored into the normal range, overproduction of orotic acid is reduced by feedback inhibition, so that urinary excretion of orotic acid is also reduced.
+4. Indication:  Marketed as the product Xuriden (FDA), uridine triacetate is indicated for the treatment of hereditary orotic aciduria.Marketed as the product Vistogard (FDA), uridine triacetate is indicated for the emergency treatment of adult and pediatric patients in the following situations: following a fluorouracil or capecitabine overdose regardless of the presence of symptoms; or who exhibit early-onset, severe or life-threatening toxicity affecting the cardiac or central nervous system, and/or early-onset, unusually severe adverse reactions (e.g., gastrointestinal toxicity and/or neutropenia) within 96 hours following the end of fluorouracil or capecitabine administration. 
+DrugId:  25
+1. Name:  Arsenic trioxide
+2. Groups:  Approved, Investigational
+3. Description:  Arsenic trioxide is a chemotheraputic agent of idiopathic function used to treat leukemia that is unresponsive to first line agents. It is suspected that arsenic trisulfide induces cancer cells to undergo apoptosis. Due to the toxic nature of arsenic, this drug carries significant health risks. The enzyme thioredoxin reductase has recently been identified as a target for arsenic trioxide.
+4. Indication:  For induction of remission and consolidation in patients with acute promyelocytic leukemia (APL), and whose APL is characterized by the presence of the t(15;17) translocation or PML/RAR-alpha gene expression

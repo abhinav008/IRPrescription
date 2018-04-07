@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Gepotidacin
+2. Groups:  Investigational
+3. Description:  Gepotidacin has been used in trials studying the treatment of Gonorrhea, Infections, Bacterial, and Infections, Respiratory Tract.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  PRO 2000
+2. Groups:  Investigational
+3. Description:  PRO 2000 is an investigational medicine that is not yet approved by the FDA for use outside of clinical trials. It is being studied for the prevention of HIV infection and other sexually transmitted diseases. This medicine does not cure HIV infection or AIDS and is being studied to reduce the risk of passing the virus to other people.
+4. Indication:  Investigated for use/treatment in HIV prevention, prevention of stdis, and vaginal infection.
+DrugId:  3
+1. Name:  Trovafloxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Trovafloxacin (sold as Trovan by Pfizer) is a broad spectrum antibiotic that inhibits the uncoiling of supercoiled DNA in various bacteria by blocking the activity of DNA gyrase and topoisomerase IV. It was withdrawn from the market due to the risk of hepatotoxicity. It had better gram-positive bacterial coverage and less gram-negative coverage than the previous fluoroquinolones. [Wikipedia]
+4. Indication:  For treatment of infections caused by susceptible strains of the designated microorganisms in uncomplicated urethral gonorrhea in males and endocervical and rectal gonorrhea in females caused by Neisseria gonorrhoeae as well as non gonoccocal urethritis and cervicitis due to Chlamydia trachomatis.
+DrugId:  4
+1. Name:  Clomocycline
+2. Groups:  Approved
+3. Description:  Clomocycline is a tetracycline antibiotic.
+4. Indication:  For the treatment and management of Brucellosis, mycoplasma infection, acne vulgaris, chlamydial infection;Chronic bronchitis
+DrugId:  5
+1. Name:  Spectinomycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An antibiotic produced by Streptomyces spectabilis. It is active against gram-negative bacteria and used for the treatment of gonorrhea.
+4. Indication:  For use in the treatment of acute gonorrheal urethritis and proctitis in the male and acute gonorrheal cervicitis and proctitis in the female when due to susceptible strains of Neisseria gonorrhoeae.
+DrugId:  6
+1. Name:  Cefuroxime
+2. Groups:  Approved
+3. Description:  Broad-spectrum cephalosporin antibiotic resistant to beta-lactamase. It has been proposed for infections with gram-negative and gram-positive organisms, gonorrhea, and haemophilus. [PubChem]
+4. Indication:  For the treatment of many different types of bacterial infections such as bronchitis, sinusitis, tonsillitis, ear infections, skin infections, gonorrhea, and urinary tract infections.
+DrugId:  7
+1. Name:  Lymecycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline with a 7-chloro substitution.
+4. Indication:  For the treatment of infections and to treat acne. It may also be used to treat urinary tract infections, gum disease, and other bacterial infections such as gonorrhea and chlamydia. Lymecycline is also used commonly as a prophylactic treatment for infection by Bacillus anthracis (anthrax). It is also effective against Yersinia pestis and malaria and is also prescribed for the treatment of Lyme disease.
+DrugId:  8
+1. Name:  Probenecid
+2. Groups:  Approved, Investigational
+3. Description:  The prototypical uricosuric agent. It inhibits the renal excretion of organic anions and reduces tubular reabsorption of urate. Probenecid has also been used to treat patients with renal impairment, and, because it reduces the renal tubular excretion of other drugs, has been used as an adjunct to antibacterial therapy. [PubChem]
+4. Indication:  For the reduction of serum uric acid concentrations in chronic gouty arthritis and tophaceous gout in patients with frequent disabling gout attacks. Has also been effectively used to promote uric acid excretion in hyperuricemia secondary to the administration of thiazide and related diuretics. 
+DrugId:  9
+1. Name:  Enoxacin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum 6-fluoronaphthyridinone antibacterial agent (fluoroquinolones) structurally related to nalidixic acid. [PubChem]
+4. Indication:  For the treatment of adults (≥18 years of age) with the following infections caused by susceptible strains of the designated microorganisms: (1) uncomplicated urethral or cervical gonorrhea due to Neisseria gonorrhoeae, (2) uncomplicated urinary tract infections (cystitis) due to Escherichia coli, Staphylococcus epidermidis, or Staphylococcus saprophyticus, and (3) complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Staphylococcus epidermidis, or Enterobacter cloacae.
+DrugId:  10
+1. Name:  Cefixime
+2. Groups:  Approved, Investigational
+3. Description:  Cefixime, an antibiotic, is a third-generation cephalosporin like ceftriaxone and cefotaxime. Cefixime is highly stable in the presence of beta-lactamase enzymes. As a result, many organisms resistant to penicillins and some cephalosporins due to the presence of beta-lactamases, may be susceptible to cefixime. The antibacterial effect of cefixime results from inhibition of mucopeptide synthesis in the bacterial cell wall.
+4. Indication:  For use in the treatment of the following infections when caused by susceptible strains of the designated microorganisms: (1) uncomplicated urinary tract infections caused by Escherichia coli and Proteus mirabilis, (2) otitis media caused by Haemophilus influenzae (beta-lactamase positive and negative strains), Moraxella catarrhalis (most of which are beta-lactamase positive), and S. pyogenes, (3) pharyngitis and tonsillitis caused by S. pyogenes, (4) acute bronchitis and acute exacerbations of chronic bronchitis caused by Streptococcus pneumoniae and Haemophilus influenzae (beta-lactamase positive and negative strains), and (5) uncomplicated gonorrhea (cervical/urethral) caused by Neisseria gonorrhoeae (penicillinase- and non-penicillinase-producing strains).
+DrugId:  11
+1. Name:  Azithromycin
+2. Groups:  Approved
+3. Description:  Azithromycin is a semi-synthetic macrolide antibiotic of the azalide class. Like other macrolide antibiotics, azithromycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit of the bacterial 70S ribosome. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the process of translation. Its effects may be bacteriostatic or bactericidal depending of the organism and the drug concentration. Its long half life, which enables once daily dosing and shorter administration durations, is a property distinct from other macrolides.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions: H. influenzae, M. catarrhalis, S. pneumoniae, C. pneumoniae, M. pneumoniae, S. pyogenes, S. aureus, S. agal
+DrugId:  12
+1. Name:  Delafloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Delafloxacin is a fluoroquinolone antibiotic which has been used in trials studying the treatment and basic science of Gonorrhea, Hepatic Impairment, Bacterial Skin Diseases, Skin Structure Infections, and Community Acquired Pneumonia, among others. It was approved in June 2017 under the trade name Baxdela for use in the treatment of acute bacterial skin and skin structure infections.
+4. Indication:  Delafloxacin is indicated for the treatment of acute bacterial skin and skin structure infections caused by the Gram-positive organisms Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates), Staphylococcus haemolyticus, Staphylococcus lugdunensis, Streptococcus agalactiae, Streptococcus anginosus Group (including Streptococcus anginosus, Streptococcus intermedius, and Streptococcus constellatus), Streptococcus pyogenes, and Enterococcus faecalis as well as the Gram-negative organisms Escherichia coli, Enterobacter cloacae, Klebsiella pneumoniae, and Pseudomonas aeruginosa [FDA Label].
+DrugId:  13
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  14
+1. Name:  Ciprofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Ciprofloxacin is a broad-spectrum antimicrobial carboxyfluoroquinoline.The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV, which are required for bacterial DNA replication, transcription, repair, strand supercoiling repair, and recombination.
+4. Indication:  For the treatment of the following infections caused by susceptible organisms: urinary tract infections, acute uncomplicated cystitis, chronic bacterial prostatitis, lower respiratory tract infections, acute sinusitis, skin and skin structure infections, bone and joint infections, complicated intra-abdominal infections (used in combination with metronidazole), infectious diarrhea, typhoid fever (enteric fever), uncomplicated cervical and urethral gonorrhea, and inhalational anthrax (post-exposure).
+DrugId:  15
+1. Name:  Amoxicillin
+2. Groups:  Approved, Vet approved
+3. Description:  A broad-spectrum semisynthetic antibiotic similar to ampicillin except that its resistance to gastric acid permits higher serum levels with oral administration. Amoxicillin is commonly prescribed with clauvanic acid (a beta lactamase inhibitor) as it is susceptible to beta-lacatamase degradation.
+4. Indication:  For the treatment of infections of the ear, nose, and throat, the genitourinary tract, the skin and skin structure, and the lower respiratory tract due to susceptible (only b-lactamase-negative) strains of Streptococcus spp. (a- and b-hemolytic strains only), S. pneumoniae, Staphylococcus spp., H. influenzae, E. coli, P. mirabilis, or E. faecalis. Also for the treatment of acute, uncomplicated gonorrhea (ano-genital and urethral infections) due to N. gonorrhoeae (males and females).
+DrugId:  16
+1. Name:  Polymyxin B Sulfate
+2. Groups:  Approved, Vet approved
+3. Description:  Polymyxin B sulfate is a mixture of polymyxins B1 and B2, obtained from Bacillus polymyxa strains. They are basic polypeptides of about eight amino acids and have cationic detergent action on cell membranes. Polymyxin B is used for infections with gram-negative organisms, but may be neurotoxic and nephrotoxic. All gram-positive bacteria, fungi, and the gram-negative cocci, N. gonorrhea and N. menigitidis, are resistant. It is appropriate for treatment of infections of the urinary tract, meninges, and blood stream, caused by susceptible strains of Pseudomonas aeruginosa.
+4. Indication:  For treatment of infections of the urinary tract, meninges, and blood stream, caused by susceptible strains of Pseudomonas aeruginosa.

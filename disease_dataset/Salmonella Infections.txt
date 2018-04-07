@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Salmonella typhi ty21a live antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty21a live antigen is a live attenuated vaccine for oral administration only. It contains the attenuated strain Salmonella typhi Ty21a. The vaccine prevents the development of typhoid fever, an acute, febrile enteric disease caused by Salmonella typhi by inducing a local immune response in the intestinal tract.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Ty800
+2. Groups:  Investigational
+3. Description:  Ty800 is a vaccine designed to offer rapid, oral, single-dose protection against Salmonella typhi, the cause of typhoid fever. The Ty800 vaccine was developed using genetic techniques to delete specific genes known to be essential to the virulence of S. typhi. It is being developed by AVANT Immunotherapeutics, Inc.
+4. Indication:  For the production of immunity to Salmonella typhi, the cause of typhoid fever.
+DrugId:  3
+1. Name:  Salmonella typhi ty2 vi polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Salmonella typhi ty2 vi polysaccharide antigen is a vaccine that is administered intramuscularly. It is an active immunization for the prevention of typhoid fever caused by S typhi and is approved for use in persons two years of age or older. The vaccine contains the purified cell surface Vi polysaccharide extracted from Salmonella enterica serovar Typhi, S typhi Ty2 strain. The bacterial culture is inactivated in the medium with the capsular polysaccharides precipated from the solution.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Sulfadimethoxine
+2. Groups:  Approved, Vet approved
+3. Description:  Sulfadimethoxine is a sulfonamide antibiotic. Sulfadimethoxine is used to treat many infections including treatment of respiratory, urinary tract, enteric, and soft tissue infections. It is most frequently used in veterinary medicine, although it is approved in some countries for use in humans. Sulfadimethoxine inhibits bacterial synthesis of folic acid (pteroylglutamic acid) from para-aminobenzoic acid. Sulfadimethoxine is approved in Russia for use in humans, including children, and has been successfully used there for more than 35 years. It is widely available in Russia as an over-the-counter drug manufactured by a number of Russian pharmaceutical companies.
+4. Indication:  For use in the treatment of infections.
+DrugId:  5
+1. Name:  Temafloxacin
+2. Groups:  Withdrawn
+3. Description:  Temafloxacin is a fluoroquinolone antibiotic drug which was withdrawn from sale in the U.S. shortly after its approval in 1992 because of serious adverse reactions resulting in three deaths. [Wikipedia]
+4. Indication:  For the treatment of lower respiratory tract infections, genital and urinary infections like prostatitis, and skin infections.
+DrugId:  6
+1. Name:  Lomefloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Lomefloxacin is a fluoroquinolone antibiotic, used to treat bacterial infections including bronchitis and urinary tract infections. It is also used to prevent urinary tract infections prior to surgery.
+4. Indication:  For the treatment of bacterial infections of the respiratory tract (chronic bronchitis) and urinary tract, and as a pre-operative prophylactic to prevent urinary tract infection caused by: S.pneumoniae, H.influenzae, S.aureus, P.aeruginosa, E. cloacae, P. mirabilis, C. civersus, S. asprphyticus, E.coli, and K.pneumoniae.
+DrugId:  7
+1. Name:  Ceforanide
+2. Groups:  Approved
+3. Description:  Ceforanide is a second-generation parenteral cephalosporin antibiotic. It has a longer elimination half-life than any currently available cephalosporin. Its activity is very similar to that of cefamandole, a second-generation cephalosporin, except that ceforanide is less active against most gram-positive organisms. Many coliforms, including Escherichia coli, Klebsiella, Enterobacter, and Proteus, are susceptible to ceforanide, as are most strains of Salmonella, Shigella, Hemophilus, Citrobacter and Arizona species.
+4. Indication:  For the treatment of infections caused by susceptible organisms.
+DrugId:  8
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.
+DrugId:  9
+1. Name:  Pefloxacin
+2. Groups:  Approved
+3. Description:  A synthetic broad-spectrum fluoroquinolone antibacterial agent active against most gram-negative and gram-positive bacteria. [PubChem]
+4. Indication:  For the treatment of uncomplicated gonococcal urethritis in males and for gram-negative-bacterial infections in the gastrointestinal system and the genitourinary tract.
+DrugId:  10
+1. Name:  Nitrofurantoin
+2. Groups:  Approved, Vet approved
+3. Description:  A bacteriostatic or bactericidal agent depending on the concentration and susceptibility of the infecting organism. Nitrofurantoin is active against some gram positive organisms such as S. aureus, S. epidermidis, S. saprophyticus, Enterococcus faecalis, S. agalactiae, group D streptococci, viridians streptococci and Corynebacterium. Its spectrum of activity against gram negative organisms includes E. coli, Enterobacter, Neisseria, Salmonella and Shigella. It may be used as an alternative to trimethoprim/sulfamethoxazole for treating urinary tract infections though it may be less effective at eradicating vaginal bacteria. May also be used in females as prophylaxis against recurrent cystitis related to coitus. Nitrofurantoin is highly stable to the development of bacterial resistance, a property thought to be due to its multiplicity of mechanisms of action. 
+4. Indication:  May be used as an alternative in the treatment of urinary tract infections. May be used by females pericoitally for prophylaxis against recurrent cystitis related to coitus. 
+DrugId:  11
+1. Name:  Ampicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Ampicillin is a semi-synthetic derivative of penicillin that functions as an orally active broad-spectrum antibiotic.
+4. Indication:  For treatment of infection (Respiratory, GI, UTI and meningitis) due to E. coli, P. mirabilis, enterococci, Shigella, S. typhosa and other Salmonella, nonpenicillinase-producing N. gononhoeae, H. influenzae, staphylococci, streptococci including streptoc
+DrugId:  12
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  13
+1. Name:  Beeswax
+2. Groups:  Approved
+3. Description:  The wax obtained from the honeycomb of the bee. It consists primarily of myricyl palmitate, cerotic acid esters and some high-carbon paraffins. Beeswax is used as a stiffening agent in ointments and creams, and enables water to be incorporated to produce water-in-oil emulsions. It is also used as a coating in the manufacture of modified-release oral preparations
+4. Indication:  Beeswax is also characterized by several therapeutic properties of great interest to us; it is thought to be particularly effective in healing bruises, inflammation and burns. Recently, the interest of researchers has moved even on antimicrobial properties of beeswax although there are still few studies in the literature focused only on the action of beeswax. The few studies showed an antimicrobic effectiveness of beeswax against overall Staphylococcus aureus, Salmonella enterica, Candida albicans and Aspergillus niger. A sterile preparation of white beeswax, hard paraffin, and isopropyl palmitate (Sterile Surgical Bone Wax) is used to control bleeding from damaged bone during surgery. It should not be confused with Aseptic Surgical Wax (BPC 1949), also known as Horsley's Wax , which contained yellow beeswax, olive oil, and phenol in a mercuric chloride solution and was used to control haemorrhage in bone or cranial surgery.
+DrugId:  14
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  15
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  16
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  17
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  20
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Azidocillin
+2. Groups:  Approved
+3. Description:  Azidocillin is a penicillin antibiotic similir to ampicillin.
+4. Indication:  For treatment of infection (Respiratory, GI, UTI and meningitis) due to E. coli, P. mirabilis, enterococci, Shigella, S. typhosa and other Salmonella, nonpenicillinase-producing N. gononhoeae, H. influenzae, staphylococci, streptococci including streptoc
+DrugId:  23
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  25
+1. Name:  Methacycline
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum semisynthetic antibiotic related to tetracycline but excreted more slowly and maintaining effective blood levels for a more extended period. [PubChem]
+4. Indication:  For the treatment of acute bacterial exacerbations of chronic bronchitis

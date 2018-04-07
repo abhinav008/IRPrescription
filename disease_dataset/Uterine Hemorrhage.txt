@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Carbetocin
+2. Groups:  Approved, Investigational
+3. Description:  Carbetocin is a drug used to control postpartum hemorrhage, bleeding after giving birth. It is an analogue of oxytocin, and its action is similar to that of oxytocin -- it causes contraction of the uterus.
+4. Indication:  Used to control postpartum hemorrhage and bleeding after giving birth.
+DrugId:  2
+1. Name:  Dinoprostone
+2. Groups:  Approved
+3. Description:  Dinoprostone is a naturally occurring prostaglandin E2 (PGE2). It has important effects in labour. It also stimulates osteoblasts to release factors which stimualtes bone resorption by osteoclasts. As a prescription drug it is used as a vaginal suppository, to prepare the cervix for labour and to induce labour.
+4. Indication:  For the termination of pregnancy during the second trimester (from the 12th through the 20th gestational week as calculated from the first day of the last normal menstrual period), as well as for evacuation of the uterine contents in the management of missed abortion or intrauterine fetal death up to 28 weeks of gestational age as calculated from the first day of the last normal menstrual period. Also used in the management of nonmetastatic gestational trophoblastic disease (benign hydatidiform mole). Other indications include improving the cervical inducibility (cervical "ripening") in pregnant women at or near term with a medical or obstetrical need for labor induction, and the management of postpartum hemorrhage.
+DrugId:  3
+1. Name:  Misoprostol
+2. Groups:  Approved
+3. Description:  A synthetic analog of natural prostaglandin E1. It produces a dose-related inhibition of gastric acid and pepsin secretion, and enhances mucosal resistance to injury. It is an effective anti-ulcer agent and also has oxytocic properties.
+4. Indication:  Indicated for the treatment of ulceration (duodenal, gastric and NSAID induced) and prophylaxis for NSAID induced ulceration.Misoprostol is also indicated for other uses that are not approved in Canada, including the medical termination of an intrauterine pregnancy used alone or in combination with methotrexate,as well as the induction of labour in a selected population of pregnant women with unfavourable cervices. This indication is avoided in women with prior uterine surgery or cesarean surgery due to an increased risk of possible uterine rupture. Misoprostol is also used for the prevention or treatment of serious postpartum hemorrhage.
+DrugId:  4
+1. Name:  Methylergometrine
+2. Groups:  Approved
+3. Description:  A homolog of ergonovine containing one more CH2 group. (Merck Index, 11th ed)
+4. Indication:  For the prevention and control of excessive bleeding following vaginal childbirth
+DrugId:  5
+1. Name:  Proellex
+2. Groups:  Investigational
+3. Description:  Proellex is an orally-available, selective progesterone receptor modulator, is in development to alleviate symptoms associated with both uterine fibroids and endometriosis.
+4. Indication:  For the treatment of uterine fibroids and endometriosis.
+DrugId:  6
+1. Name:  Carboprost Tromethamine
+2. Groups:  Approved
+3. Description:  A nonsteroidal abortifacient agent that is effective in both the first and second trimesters of pregnancy. [PubChem]
+4. Indication:  For aborting pregnancy between the 13th and 20th weeks of gestation as calculated from the first day of the last normal menstrual period and in the following conditions related to second trimester abortion: 1. Failure of expulsion of the fetus during the course of treatment by another method; 2. Premature rupture of membranes in intrauterine methods with loss of drug and insufficient or absent uterine activity; 3. Requirement of a repeat intrauterine instillation of drug for expulsion of the fetus; 4. Inadvertent or spontaneous rupture of membranes in the presence of a previable fetus and absence of adequate activity for expulsion. Also for the treatment of postpartum hemorrhage due to uterine atony which has not responded to conventional methods of management.
+DrugId:  7
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  8
+1. Name:  MP4
+2. Groups:  Investigational
+3. Description:  MP4 is a hemoglobin-based oxygen carrier designed to serve as an alternative for blood transfusions. It is free of harmful vasoactivity and provides targeted oxygen delivery to tissues at risk of oxygen deprivation.
+4. Indication:  Investigated for use/treatment in hemorrhage and transfusion.
+DrugId:  9
+1. Name:  CHF 4227
+2. Groups:  Investigational
+3. Description:  CHF 4227 is a new selective estrogen receptor modulator (SERM). The compound has a high receptor affinity and has shown promising efficacy in the prevention of bone loss in animal models of osteoporosis. Additionally, the compound has shown no uterotrophic activity suggesting a potential therapeutic advantage over drugs normally used in postmenopausal therapy.
+4. Indication:  Investigated for use/treatment in osteoporosis.
+DrugId:  10
+1. Name:  Gemeprost
+2. Groups:  Approved, Withdrawn
+3. Description:  Gemeprost is a prostaglandin E1 (PGE1) analog and antiprogestogen used for preoperative dilation of the cervix before surgical abortion. It is available as vaginal suppositories and also used in combination with the antiprogestin and mifepristone for termination of 1st- and 2nd-trimester pregnancy [1]. It is not FDA-approved but available in Japan marketed as Preglandin.
+4. Indication:  Indicated for the softening and dilatation of the cervix uteri prior to transcervical, intrauterine operative procedures in the first trimester of pregnancy or facilitating therapeutic termination of pregnancy in patients in the second trimester of gestation.
+DrugId:  11
+1. Name:  Elagolix
+2. Groups:  Investigational
+3. Description:  Elagolix has been used in trials studying the basic science and treatment of Endometriosis, Folliculogenesis, Uterine Fibroids, Heavy Uterine Bleeding, and Heavy Menstrual Bleeding.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  MPI-674
+2. Groups:  Investigational
+3. Description:  MPI-674 is an aromatase inhibitor (AI) with a well-established, multi-year chronic safety and tolerability profile. AIs are a class of drugs that reduce the amount of estrogen circulating in the body by binding to and inhibiting the enzyme aromatase, which is responsible for converting certain hormones to estrogen. It is developed for the treatment of several serious women’s health conditions including endometrial thinning prior to endometrial ablations in premenopausal women with abnormal uterine bleeding (AUB).
+4. Indication:  Investigated for use/treatment in menstrual disorders.
+DrugId:  13
+1. Name:  Ergonovine
+2. Groups:  Approved
+3. Description:  An ergot alkaloid with uterine and vascular smooth muscle contractile properties.
+4. Indication:  Used to treat postpartum haemorrhage and postabortion haemorrhage in patients with uterine atony. 
+DrugId:  14
+1. Name:  Perflubron
+2. Groups:  Investigational
+3. Description:  Perflubron (Oxygent) is being developed as an intravascular oxygen carrier designed to augment oxygen delivery in surgical patients.
+4. Indication:  Investigated for use/treatment in cardiac surgery, hemorrhage, and ileus.
+DrugId:  15
+1. Name:  Nicaraven
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cerebrovascular disease (unspecified).
+DrugId:  16
+1. Name:  Ritodrine
+2. Groups:  Approved, Investigational
+3. Description:  Adrenergic beta-agonist used to control premature labor. [PubChem]
+4. Indication:  For the treatment and prophylaxis of premature labour
+DrugId:  17
+1. Name:  Asoprisnil
+2. Groups:  Investigational
+3. Description:  Asoprisnil (J867) is a selective progesterone receptor modulator. It can be used to treat progesterone sensitive myomata.
+4. Indication:  Investigated for use/treatment in uterine fibroids.
+DrugId:  18
+1. Name:  VIT-100
+2. Groups:  Investigational
+3. Description:  VIT-100 was developed by ItherX Pharmaceuticals of San Diego. In preclinical studies, companyl has shown that VIT-100 inhibits the growth of cells taken from multiple keloid biopsies as compared to the same keloidal cells treated with a control. It is believed that similar effects would be seen in cells isolated from hypertrophic scars.
+4. Indication:  Investigated for use/treatment in diabetic retinopathy, scar tissue, and vitreous hemorrhage.
+DrugId:  19
+1. Name:  AZX-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in scar tissue.
+DrugId:  20
+1. Name:  Arzoxifene
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in breast cancer, osteoporosis, and endometrial cancer.
+DrugId:  21
+1. Name:  Isoxsuprine
+2. Groups:  Approved, Withdrawn
+3. Description:  A beta-adrenergic agonist that causes direct relaxation of uterine and vascular smooth muscle. Its vasodilating actions are greater on the arteries supplying skeletal muscle than on those supplying skin. It is used in the treatment of peripheral vascular disease and in premature labor.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Relugolix
+2. Groups:  Investigational
+3. Description:  Relugolix has been used in trials studying the treatment of Endometriosis, Prostate Cancer, Uterine Fibroids, and Androgen Deprivation Treatment-naïve Nonmetastatic Prostate Cancer.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Terbutaline
+2. Groups:  Approved
+3. Description:  A selective beta-2 adrenergic agonist used as a bronchodilator and tocolytic. [PubChem]
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible, obstructive airway disease, as well as symptomatic management of reversible bronchospasm associated with bronchitis and emphysema. Also used acute IV and sub-Q therapy in selected women to inhibit uterine contractions in preterm labor (tocolysis) and prolong gestation when beneficial.
+DrugId:  24
+1. Name:  Leuprolide
+2. Groups:  Approved, Investigational
+3. Description:  Leuprolide belongs to the general class of drugs known as hormones or hormone antagonists. It is a synthetic 9 residue peptide analog of gonadotropin releasing hormone. Leuprolide is used to treat advanced prostate cancer. It is also used to treat uterine fibroids and endometriosis. Leuprolide is also under investigation for possible use in the treatment of mild to moderate Alzheimer's disease.
+4. Indication:  For treatment of prostate cancer, endometriosis, uterine fibroids and premature puberty
+DrugId:  25
+1. Name:  Ocriplasmin
+2. Groups:  Approved
+3. Description:  Ocriplasmin is a recombinant truncated form of human plasmin with a molecular weight of 27.2 kDa produced by recombinant DNA technology in a Pichia pastoris expression system. Ocriplasmin is a protein made up of 249 amino acids and has two peptide chains. Agent for pharmacologic vitreolysis; thrombolytic agent. FDA approved in October 17, 2012.
+4. Indication:  Ocriplasmin is a proteolytic enzyme indicated for the treatment for symptomatic vitreomacular adhesion. 

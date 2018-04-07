@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  AR-42
+2. Groups:  Investigational
+3. Description:  AR-42 has been used in trials studying the treatment of Meningioma, Acoustic Neuroma, Testicular Lymphoma, Intraocular Lymphoma, and Vestibular Schwannoma, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Lerisetron
+2. Groups:  Investigational
+3. Description:  Lerisetron has been used in trials studying the supportive care of Nausea and Vomiting and Testicular Germ Cell Tumor.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Nilutamide
+2. Groups:  Approved, Investigational
+3. Description:  Nilutamide is an antineoplastic hormonal agent primarily used in the treatment of prostate cancer. Nilutamide is a pure, nonsteroidal anti-androgen with affinity for androgen receptors (but not for progestogen, estrogen, or glucocorticoid receptors). Consequently, Nilutamide blocks the action of androgens of adrenal and testicular origin that stimulate the growth of normal and malignant prostatic tissue. Prostate cancer is mostly androgen-dependent and can be treated with surgical or chemical castration. To date, antiandrogen monotherapy has not consistently been shown to be equivalent to castration.
+4. Indication:  For use in combination with surgical castration for the treatment of metastatic prostate cancer involving distant lymph nodes, bone, or visceral organs (Stage D2).
+DrugId:  4
+1. Name:  Palifosfamide
+2. Groups:  Investigational
+3. Description:  Palifosfamide (ZIO-201) is a proprietary stabilized metabolite of ifosfamide. Ifosfamide has been shown to be effective in high doses in treating testicular cancer, sarcoma and lymphoma.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lymphoma (unspecified), and sarcoma.
+DrugId:  5
+1. Name:  Bicalutamide
+2. Groups:  Approved
+3. Description:  Bicalutamide is an oral non-steroidal anti-androgen for prostate cancer. It is a racemic mixture consisting of equal proportions of enantiomers (R)-bicalutamide and (S)-bicalutamide. Bicalutamide binds to the androgen receptor.
+4. Indication:  For treatment (together with surgery or LHRH analogue) of advanced prostatic cancer.
+DrugId:  6
+1. Name:  Sabarubicin
+2. Groups:  Investigational
+3. Description:  Sabarubicin has been used in trials studying the treatment of Prostate Cancer, Testicular Germ Cell Tumor, and Unspecified Adult Solid Tumor, Protocol Specific.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Plicamycin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Plicamycin is an antineoplastic antibiotic produced by Streptomyces plicatus. It has been used in the treatment of testicular cancer, Paget's disease of bone, and, rarely, the management of hypercalcemia. The manufacturer discontinued plicamycin in 2000.
+4. Indication:  For the treatment of testicular cancer, as well as hypercalcemia and hypercalciuria associated with a variety of advanced forms of cancer.
+DrugId:  8
+1. Name:  Triptorelin
+2. Groups:  Approved, Vet approved
+3. Description:  Triptorelin is a synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH). Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion. After chronic, continuous administration, this agent effects sustained decreases in LH and FSH production and testicular and ovarian steroidogenesis. Serum testosterone concentrations may fall to levels typically observed in surgically castrated men.
+4. Indication:  Triptorelin is indicated for the palliative treatment of advanced prostate cancer.
+DrugId:  9
+1. Name:  Abarelix
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Synthetic decapeptide antagonist to gonadotropin releasing hormone (GnRH). It is marketed by Praecis Pharmaceuticals as Plenaxis. Praecis announced in June 2006 that it was voluntarily withdrawing the drug from the market.
+4. Indication:  For palliative treatment of advanced prostate cancer.
+DrugId:  10
+1. Name:  Leuprolide
+2. Groups:  Approved, Investigational
+3. Description:  Leuprolide belongs to the general class of drugs known as hormones or hormone antagonists. It is a synthetic 9 residue peptide analog of gonadotropin releasing hormone. Leuprolide is used to treat advanced prostate cancer. It is also used to treat uterine fibroids and endometriosis. Leuprolide is also under investigation for possible use in the treatment of mild to moderate Alzheimer's disease.
+4. Indication:  For treatment of prostate cancer, endometriosis, uterine fibroids and premature puberty
+DrugId:  11
+1. Name:  Lutropin alfa
+2. Groups:  Approved
+3. Description:  Lutropin alfa is a recombinant human luteinizing hormone produced in yeast with 2 subunits, alpha = 92 residues, beta = 121 residues. It is a heterodimeric glycoprotein. Each monomeric unit is a glycoprotein molecule. In females, an acute rise of LH ("LH surge") triggers ovulation and the development of the corpus luteum. In males, it stimulates Leydig cell production of testosterone. Lutropin alfa was the first and only recombinant human form of luteinizing hormone (LH) developed for use in the stimulation of follicular development.
+4. Indication:  For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH <1.2 international units [IU]/L)
+DrugId:  12
+1. Name:  Brigatinib
+2. Groups:  Approved, Investigational
+3. Description:  Brigatinib, originally named AP26113, is a reversible dual inhibitor of anaplastic lymphoma kinase (ALK) and epidermal growth factor receptor (EGFR). It presents selectivity against the mutant forms of EGFR compared to the wild-type.[1] It also exhibits selectivity against 9 different Crizotinib-resistant mutants of the EML4-ALK fusion gene, which is a pivotal player in the transformation of susceptible lung parenchyma.[2] Brigatinib was developed by Ariad Pharmaceuticals, a subsidiary of Takeda Pharmaceutical Company Limited, and FDA-approved on April 28, 2017.[9]
+4. Indication:  The anaplastic lymphoma kinase positive, metastatic non-small cell lung cancer (ALK+ NSCLC), represents only 3-5% of the NSCLC cancer cases, but the ALK mutation, overexpression and presence in several oncogenic fusion proteins in solid and hematologic tumors have pointed out the importance as well as its potential as a cancer therapy target.[1] The ALK-related cases of NSCLC are associated with the presence of the fusion gene EML4-ALK which fused the ALK protein with the echinoderm microtubule-associated protein like-4 whose original function is the correct formation of microtubules.[2] The presence of the aberrant fusion protein results in abnormal signaling that provokes increased cell growth, proliferation and survival.[4] Crizotinib is indicated for the treatment of such cases but the presence of ALK kinase domain mutations confer resistance to the treatment. Thus, brigatinib is indicated for the treatment of patients with ALK+ NSCLC with intolerance to Crizotinib.[3]
+DrugId:  13
+1. Name:  Cisplatin
+2. Groups:  Approved
+3. Description:  Cisplatin, cisplatinum or cis-diamminedichloroplatinum(II) (CDDP) is a platinum-based chemotherapy drug used to treat various types of cancers, including sarcomas, some carcinomas (e.g. small cell lung cancer, and ovarian cancer), lymphomas and germ cell tumors. It was the first member of its class, which now also includes carboplatin and oxaliplatin.
+4. Indication:  For the treatment of metastatic testicular tumors, metastatic ovarian tumors and advanced bladder cancer.
+DrugId:  14
+1. Name:  Dactinomycin
+2. Groups:  Approved, Investigational
+3. Description:  A compound composed of a two cyclic peptides attached to a phenoxazine that is derived from streptomyces parvullus. It binds to DNA and inhibits RNA synthesis (transcription), with chain elongation more sensitive than initiation, termination, or release. As a result of impaired mRNA production, protein synthesis also declines after dactinomycin therapy. (From AMA Drug Evaluations Annual, 1993, p2015)
+4. Indication:  For the treatment of Wilms' tumor, childhood rhabdomyosarcoma, Ewing's sarcoma and metastatic, nonseminomatous testicular cancer as part of a combination chemotherapy and/or multi-modality treatment regimen
+DrugId:  15
+1. Name:  Vinorelbine
+2. Groups:  Approved, Investigational
+3. Description:  Vinorelbine is an anti-mitotic chemotherapy drug that is used in the treatment of several types of malignancies, including breast cancer and non-small cell lung cancer (NSCLC) [5]. It was initially approved in the USA in 1990's for the treatment of NSCLC [13].It is a third-generation vinca alkaloid. The introduction of third-generation drugs (vinorelbine, gemcitabine, taxanes) in platinum combination improved survival of patients with advanced NSCLC, with very similar results from the various drugs. Treatment toxicities are considerable in the combination treatment setting [2].A study was done on the clearance rate of vinorelbine on individuals with various single polymorphonuclear mutations. It was found that there was 4.3-fold variation in vinorelbine clearance across the cohort, suggesting a strong influence of genetics on the clearance of this drug [7].
+4. Indication:  Vinorelbine tartrate is indicated for adults in the treatment of advanced non-small cell lung cancer (NSCLC), as a single therapy or in combination with other chemotherapeutic drugs [5].Used in relapsed or refractory Hodgkin lymphoma, in combination with other chemotherapy agents [14].For the treatment of desmoid tumor or aggressive fibromatosis, in combination with methotrexate [14].For the treatment of recurrent or metastatic squamous cell head and neck cancer [14].For the treatment of recurrent ovarian cancer [14].For the treatment of metastatic breast cancer, in patients previously treated with anthracyline and/or taxane therapy [14].For the treatment of HER2-positive, trastuzumab-resistant, advanced breast cancer in patients previously treated with a taxane, in combination with trastuzumab and everolimus [14].
+DrugId:  16
+1. Name:  4-Hydroxytestosterone
+2. Groups:  Experimental, Illicit
+3. Description:  4-Hydroxytestosterone is testosterone substituted with a hydroxy group on the fourth carbon atom. It is an anabolic steroid with no therapeutic indications, which is prohibited from use in sports by the World Anti-Doping Agency.Formestane (Lentaron) acts as a prohormone of 4-Hydroxytestosterone, as 4-Hydroxytestosterone is one of the many byproducts of formestane metabolism. It is specifically the 17-hydroxylated analog to formestane. [1] Like formestane, 4-hydroxytesterone has been patented for use in decreasing estrogen production in the body, but no such indication currently exists. 4-Hydroxytestosterone was first patented in 1955 by G.D Searle & Company.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Buserelin
+2. Groups:  Approved, Investigational
+3. Description:  Buserelin is a synthetic peptide analog of the luteinizing hormone-releasing hormone (LHRH) agonist, which stimulates the pituitary gland's gonadotrophin-releasing hormone receptor (GnRHR). It is used in prostate cancer treatment.
+4. Indication:  Buserelin may be used in the treatment of hormone-responsive cancers such as prostate cancer or breast cancer, estrogen-dependent conditions (such as endometriosis or uterine fibroids), and in assisted reproduction.
+DrugId:  18
+1. Name:  Vinblastine
+2. Groups:  Approved
+3. Description:  Antitumor alkaloid isolated from Vinca rosea. (Merck, 11th ed.)
+4. Indication:  For treatment of breast cancer, testicular cancer, lymphomas, neuroblastoma, Hodgkin's and non-Hodgkin's lymphomas, mycosis fungoides, histiocytosis, and Kaposi's sarcoma.
+DrugId:  19
+1. Name:  Cyproterone acetate
+2. Groups:  Approved, Investigational
+3. Description:  An anti-androgen that, in the form of its acetate (cyproterone acetate), also has progestational properties. It is used in the treatment of hypersexuality in males, as a palliative in prostatic carcinoma, and, in combination with estrogen, for the therapy of severe acne and hirsutism in females. [Pubchem]
+4. Indication:  For the palliative treatment of patients with advanced prostatic carcinoma.
+DrugId:  20
+1. Name:  Spironolactone
+2. Groups:  Approved
+3. Description:  A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)
+4. Indication:  Used primarily to treat low-renin hypertension, hypokalemia, and Conn's syndrome.
+DrugId:  21
+1. Name:  Etoposide
+2. Groups:  Approved
+3. Description:  A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Etoposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent entry into the mitotic phase of cell division, and lead to cell death. Etoposide acts primarily in the G2 and S phases of the cell cycle. [PubChem]
+4. Indication:  For use in combination with other chemotherapeutic agents in the treatment of refractory testicular tumors and as first line treatment in patients with small cell lung cancer. Also used to treat other malignancies such as lymphoma, non-lymphocytic leukemia, and glioblastoma multiforme.
+DrugId:  22
+1. Name:  Letermovir
+2. Groups:  Approved, Investigational
+3. Description:  Letermovir recieved approval from the FDA on November 8th, 2017 for use in prophylaxis of cytomegalovirus (CMV) infection in allogeneic hematopoietic stem cell transplant patients [6]. It represents the first entry into a new class of CMV anti-infectives, DNA terminase complex inhibitors [3]. Letermovir has recieved both priority and orphan drug status from the FDA. It is currently marketed under the brand name Prevymis [6].
+4. Indication:  For use in prophylaxis of cytomegalovirus (CMV) infection and disease in adult CMV-seropositive recipients of an allogeneic hematopoietic stem cell transplant (HSCT) [FDA Label].
+DrugId:  23
+1. Name:  Quinapril
+2. Groups:  Approved, Investigational
+3. Description:  Quinapril is a prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to quinaprilat (quinapril diacid) following oral administration. Quinaprilat is a competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Quinapril may be used to treat essential hypertension and congestive heart failure.
+4. Indication:  For the treatment of hypertension and as adjunct therapy in the treatment of congestive heart failure. May also be used to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy. 
+DrugId:  24
+1. Name:  Vincristine
+2. Groups:  Approved, Investigational
+3. Description:  Vincristine is an antitumor vinca alkaloid isolated from Vinca Rosea. It is marketed under several brand names, many of which have different formulations such as Marqibo (liposomal injection) and Vincasar. Vincristine is indicated for the treatment of acute leukaemia, malignant lymphoma, Hodgkin's disease, acute erythraemia, and acute panmyelosis. vincristine sulfate is often chosen as part of polychemotherapy because of lack of significant bone–marrow suppression (at recommended doses) and of unique clinical toxicity (neuropathy). 
+4. Indication:  Treatment of acute lymphocytic leukemia (ALL), Hodgkin lymphoma, non-Hodgkin lymphomas, Wilms' tumor, neuroblastoma, rhabdomyosarcoma. Liposomal vincristine is indicated for the treatment of relapsed Philadelphia chromosome-negative (Ph-) acute lymphoblastic leukemia (ALL). 
+DrugId:  25
+1. Name:  Ifosfamide
+2. Groups:  Approved
+3. Description:  Ifosfamide is a chemotherapeutic agent chemically related to the nitrogen mustards and a synthetic analog of cyclophosphamide. It is active as an alkylating agent and an immunosuppresive agent. 
+4. Indication:  Used as a component of various chemotherapeutic regimens as third-line therapy for recurrent or refractory germ cell testicular cancer. Also used as a component of various chemotherapeutic regimens for the treatment of cervical cancer, as well as in conjunction with surgery and/or radiation therapy in the treatment of various soft tissue sarcomas. Other indications include treatment of osteosarcoma, bladder cancer, ovarian cancer. small cell lung cancer, and non-Hodgkin's lymphoma.

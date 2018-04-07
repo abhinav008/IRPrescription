@@ -1,0 +1,35 @@
+DrugId:  1
+1. Name:  Conivaptan
+2. Groups:  Approved, Investigational
+3. Description:  Conivaptan is a non-peptide inhibitor of antidiuretic hormone (vasopressin). It was approved in 2004 for hyponatremia (low blood sodium levels) caused by syndrome of inappropriate antidiuretic hormone (SIADH). Conivaptan inhibits both isotypes of the vasopressin receptor (V1a and V2).
+4. Indication:  For the treatment of euvolemic or hypervolemic hyponatremia (e.g. the syndrome of inappropriate secretion of antidiuretic hormone, or in the setting of hypothyroidism, adrenal insufficiency, pulmonary disorders, etc.) in hospitalized patients.
+DrugId:  2
+1. Name:  Cromoglicic acid
+2. Groups:  Approved
+3. Description:  A chromone complex that acts by inhibiting the release of chemical mediators from sensitized mast cells. It is used in the prophylactic treatment of both allergic and exercise-induced asthma, but does not affect an established asthmatic attack.
+4. Indication:  For the management of patients with bronchial asthma. Also used in the treatment of vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  3
+1. Name:  Codeine
+2. Groups:  Approved, Illicit
+3. Description:  An opioid analgesic related to morphine but with less potent analgesic properties and mild sedative effects. It also acts centrally to suppress cough.
+4. Indication:  For treatment and management of pain (systemic). It is also used as an antidiarrheal and as a cough suppressant.
+DrugId:  4
+1. Name:  Ipratropium bromide
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist structurally related to atropine but often considered safer and more effective for inhalation use. It is used for various bronchial disorders, in rhinitis, and as an antiarrhythmic.
+4. Indication:  For maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema.
+DrugId:  5
+1. Name:  Salbutamol
+2. Groups:  Approved, Vet approved
+3. Description:  Salbutamol is a short-acting, selective beta2-adrenergic receptor agonist used in the treatment of asthma and COPD. It is 29 times more selective for beta2 receptors than beta1 receptors giving it higher specificity for pulmonary beta receptors versus beta1-adrenergic receptors located in the heart. Salbutamol is formulated as a racemic mixture of the R- and S-isomers. The R-isomer has 150 times greater affinity for the beta2-receptor than the S-isomer and the S-isomer has been associated with toxicity. This lead to the development of levalbuterol, the single R-isomer of salbutamol. However, the high cost of levalbuterol compared to salbutamol has deterred wide-spread use of this enantiomerically pure version of the drug. Salbutamol is generally used for acute episodes of bronchospasm caused by bronchial asthma, chronic bronchitis and other chronic bronchopulmonary disorders such as chronic obstructive pulmonary disorder (COPD). It is also used prophylactically for exercise-induced asthma.
+4. Indication:  For symptomatic relief and prevention of bronchospasm due to bronchial asthma, chronic bronchitis, and other chronic bronchopulmonary disorders such as COPD. 
+DrugId:  6
+1. Name:  Sodium Citrate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium citrate is the sodium salt of citric acid. It is white, crystalline powder or white, granular crystals, slightly deliquescent in moist air, freely soluble in water,practically insoluble in alcohol. Like citric acid, it has a sour taste.From the medical point of view, it is used as alkalinizing agent. It works by neutralizing excess acid in the blood and urine. It has been indicated for the treatment of metabolic acidosis.
+4. Indication:  Used as an anticoagulant during plasmophoresis as well as a neutralizing agent in the treatment of upset stomach and acidic urine [FDA Label] [6] [7].
+DrugId:  7
+1. Name:  Chlorhexidine
+2. Groups:  Approved, Vet approved
+3. Description:  A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque. [PubChem]
+4. Indication:  For reduction of pocket depth in patients with adult periodontitis, used as an adjunct to scaling and root planing procedures. Also for prevention of dental caries, oropharyngeal decontamination in critically ill patients, hand hygiene in health-care personnel, general skin cleanser, and catheter site preparation and care.

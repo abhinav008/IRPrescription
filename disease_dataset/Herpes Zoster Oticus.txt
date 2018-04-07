@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Varicella Zoster Vaccine (Recombinant)
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant zoster vaccine, manufactured as the product Shingrix by GlaxoSmithKline, is an adjuvanted non-live recombinant vaccine indicated for prevention of shingles. First approved in October 2017 by the Food and Drug Administration, Shingrix is the preferred vaccine for preventing varicella zoster infection in people aged 50 years and older, replacing Zostavax as first line therapy[4]. Herpes zoster, also known as shingles, is caused by a reactivation of Varicella Zoster Virus (VZV), the virus that commonly causes Chickenpox in childhood. Following initial infection of VZV and resolution of Chickenpox as a child, VZV then lies dormant within the dorsal root ganglion of the central nervous sytem. Decades later, when the body's immune system weakens with age, VZV is able to reactivate and descend through the nerve cells to the surface of the skin where it causes a painful blistering rash. Risk factors for developing shingles include old age, with rates increasing substantially in person's over the age of 50, low immune function or immunosuppression, psychological stress, and diabetes. Person's living with HIV or cancer, those taking immunosuppressants, and transplant recipients are particularly at risk [3]. One of the most common complications associated with shingles is the development of Post-Herpetic Neuralgia (PHN), a persistant severe nerve pain that develops as a result of chronic pain from shingles lesions. PHN can last for days, months, or even years following resolution of shingles. Other complications also include bacterial infection, spread of the shingles rash to the eye (herpes zoster ophthalmicus) or ear, nerve palsies, or spread of VZV to non-immune persons via contact with varicella lesions.There are numerous advantages to using Shingrix over Zostavax. Clinical trials for Shingrix have shown greater than 90% efficacy in adults aged 50 and older, with 89% efficacy in preventing postherpetic neuralgia in patients 70 years and older and 91% efficacy in patients 50-70 years of age [FDA Label]. This is a significant improvement over its predecessor, Zostavax, which reduces the risk of shingles by only 51% and the risk of post-herpetic neuralgia by 67% [1]. Efficacy of Zostavax also wanes over time, with protection against shingles and PHN lasting only around 5 years. Furthermore, because Shingrix is an inactivated vaccine it can also be used to prevent shingles and PHN in individuals with suppressed immune systems, who are already at increased risk of developing shingles, while Zostavax, a live attenuated vaccine, is contraindicated.The main immunological component of Shingrix vaccine is glycoprotein E (gE), a protein found on the surface of varicella zoster virus (VZV). Immune exposure to gE protein stimulates the development of anti-gE antibodies, and therefore adaptive immunity to VZV. Shingrix also contains an adjuvant system, AS01B, which is intended to enhance the immunological response to the vaccine leading to longer lasting and greater immunogenicity to the herpes zoster virus [2].
+4. Indication:  Shingrix vaccine is indicated for the prevention of herpes zoster (shingles) in adults aged 50 years and older.
+DrugId:  2
+1. Name:  Varicella Zoster Vaccine (Live/Attenuated)
+2. Groups:  Approved
+3. Description:  Live attenuated zoster vaccine is available as two products: Zostavax for the prevention of shingles in immunocompetent people over the age of 50, and Varivax for the prevention of chickenpox in individuals 12 months of age and older. While the two vaccines contain the same immunological components and provide protection against the same virus, Zostavax contains a higher dose and is used in older adults to prevent the development of shingles and post-herpetic neuralgia. First approved in May 2006 by the Food and Drug Administration, Zostavax was the first vaccine available for the prevention of shingles. Since October 2017, however, it has been replaced as first line therapy by Shingrix (Varicella Zoster Vaccine (Recombinant)), a more effective and longer lasting vaccine[3]. Both Varivax and Zostavax are composed of a lyophilized preparation of live, attenuated Oka/Merck strain of varicella-zoster virus. Varicella Zoster Virus (VZV) is the virus that commonly causes Chickenpox (also known as Varicella) in childhood [4]. Following initial infection of VZV and resolution of Chickenpox as a child, VZV then lies dormant within the dorsal root ganglion of the central nervous sytem. Decades later, when the body's immune system weakens with age, VZV is able to reactivate and descend through the nerve cells to the surface of the skin where it causes a painful blistering rash, known as shingles (or Herpes Zoster). Risk factors for developing shingles include old age, with rates increasing substantially in person's over the age of 50, low immune function or immunosuppression, psychological stress, and diabetes. Person's living with HIV or cancer, those taking immunosuppressants, and transplant recipients are particularly at risk [2]. One of the most common complications associated with shingles is the development of Post-Herpetic Neuralgia (PHN), a persistant severe nerve pain that develops as a result of chronic pain from shingles lesions. PHN can last for days, months, or even years following resolution of shingles. Other complications also include bacterial infection, spread of the shingles rash to the eye (herpes zoster ophthalmicus) or ear, nerve palsies, or spread of VZV to non-immune persons via contact with varicella lesions.There are numerous advantages to using Shingrix over Zostavax. Clinical trials for Shingrix have shown greater than 90% efficacy in adults aged 50 and older, with 89% efficacy in preventing postherpetic neuralgia in patients 70 years and older and 91% efficacy in patients 50-70 years of age. This is a significant improvement over its predecessor, Zostavax, which reduces the risk of shingles by only 51% and the risk of post-herpetic neuralgia by 67% [1]. Efficacy of Zostavax also wanes over time, with protection against shingles and PHN lasting only around 5 years. Efficacy for prevention of shingles is highest in patients 60-69 years old and decreases with increasing age. Furthermore, because Shingrix is an inactivated vaccine it can also be used to prevent shingles and PHN in individuals with suppressed immune systems, who are already at increased risk of developing shingles, while Zostavax, a live attenuated vaccine, is contraindicated.
+4. Indication:  Zostavax vaccine is indicated for the prevention of herpes zoster (shingles) in immunocompetent adults aged 50 years and older.Varivax vaccine is indicated for active immunization for the prevention of varicella in individuals 12 months of age and older.
+DrugId:  3
+1. Name:  Famciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Famciclovir is a guanine analogue antiviral drug used for the treatment of various herpes virus infections, most commonly for herpes zoster (shingles). It is a prodrug form of penciclovir with improved oral bioavailability. Famciclovir is marketed under the trade name Famvir (Novartis).
+4. Indication:  For the treatment of acute herpes zoster (shingles). Also for the treatment or suppression of recurrent genital herpes in immunocompetent patients and treatment of recurrent mucocutaneous herpes simplex infections in HIV infected patients.
+DrugId:  4
+1. Name:  Amenamevir
+2. Groups:  Investigational
+3. Description:  Amenamevir has been used in trials studying the treatment of Herpes Zoster, Herpes Simplex, Herpes Genitalis, and Safety of Amenamevir.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Valomaciclovir
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in herpes zoster infections and viral infection.
+DrugId:  6
+1. Name:  Valaciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Valaciclovir (INN) or valacyclovir (USAN) is an antiviral drug used in the management of herpes simplex and herpes zoster (shingles). It is a prodrug, being converted in vivo to aciclovir. It is marketed by GlaxoSmithKline under the trade name Valtrex or Zelitrex.
+4. Indication:  For the treatment or suppression of cold sores (herpes labialis), herpes zoster (shingles), genital herpes in immunocompetent individuals, and recurrent genital herpes in HIV-infected individuals.
+DrugId:  7
+1. Name:  Acyclovir
+2. Groups:  Approved
+3. Description:  A guanosine analog antiviral drug that acts as an antimetabolite. Aciclovir is used for the treatment of herpes simplex virus infections, varicella zoster (chickenpox) and herpes zoster (shingles).Aciclovir has also been investigated for the treatment of herpes labialis applied using an iontophoretic device. Currently approved drugs for the treatment of herpes labialis (cold sores) exhibit low levels of efficacy due to the limited ability of the drugs to penetrate the skin to the site where the herpes virus is replicating. Iontophoresis uses electric current to enhance the delivery of drugs through the skin.
+4. Indication:  For the treatment and management of herpes zoster (shingles), genital herpes, and chickenpox. 
+DrugId:  8
+1. Name:  Vidarabine
+2. Groups:  Approved, Investigational
+3. Description:  A nucleoside antibiotic isolated from Streptomyces antibioticus. It has some antineoplastic properties and has broad spectrum activity against DNA viruses in cell cultures and significant antiviral activity against infections caused by a variety of viruses such as the herpes viruses, the vaccinia VIRUS and varicella zoster virus. [PubChem]
+4. Indication:  For treatment of chickenpox - varicella, herpes zoster and herpes simplex
+DrugId:  9
+1. Name:  Dimethyl sulfoxide
+2. Groups:  Approved, Vet approved
+3. Description:  A highly polar organic liquid, that is used widely as a chemical solvent. Because of its ability to penetrate biological membranes, it is used as a vehicle for topical application of pharmaceuticals. It is also used to protect tissue during cryopreservation. Dimethyl sulfoxide shows a range of pharmacological activity including analgesia and anti-inflammation. [PubChem]
+4. Indication:  For the symptomatic relief of patients with interstitial cystitis.
+DrugId:  10
+1. Name:  Loteprednol
+2. Groups:  Approved
+3. Description:  Loteprednol (as Loteprednol Etabonate) is a topical corticoid antiinflammatory. It is used in ophthalmic solution for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, is used for the treatment and management of seasonal allergic rhinitis.
+4. Indication:  As an ophthalmic it is used for the treatment of steroid responsive inflammatory conditions of the eye such as allergic conjunctivitis, uveitis, acne rosacea, superficial punctate keratitis, herpes zoster keratitis, iritis, cyclitis, and selected infective conjunctivitides. As a nasal spray, used for the treatment and management of seasonal allergic rhinitis.
+DrugId:  11
+1. Name:  Human Varicella-Zoster Immune Globulin
+2. Groups:  Approved
+3. Description:  Human Varicella-Zoster Immune Globulin is a solvent/detergent-treated sterile liquid preparation of purified human immune globulin G (IgG) containing antibodies to varicella zoster virus (anti-VZV). It is prepared from pools of healthy human donors' plasma via anion-exchange column chromatography and was approved in 2012 under the name VariZIG to reduce the disease severity in high-risk patients who lack evidence of immunity to varicella and for whom varicella vaccine is contraindicated. The therapeutic efficacy is proven if administered within 4 days of exposure to varicella zoster virus.
+4. Indication:  Indicated for preventing and reducing the severity of chicken pox (varicella zoster virus) infections in high risk individuals within 4 days of exposure to varicella zoster virus.
+DrugId:  12
+1. Name:  Ganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  An acyclovir analog that is a potent inhibitor of the Herpesvirus family including cytomegalovirus. Ganciclovir is used to treat complications from AIDS-associated cytomegalovirus infections. [PubChem]
+4. Indication:  For induction and maintenance in the treatment of cytomegalovirus (CMV) retinitis in immunocompromised patients, including patients with acquired immunodeficiency syndrome (AIDS). Also used in the treatment of severe cytomegalovirus (CMV) disease, including CMV pneumonia, CMV gastrointestinal disease, and disseminated CMV infections, in immunocompromised patients.
+DrugId:  13
+1. Name:  Epicept NP-1
+2. Groups:  Investigational
+3. Description:  EpiCept NP-1 is a prescription topical analgesic cream designed to provide effective, long-term relief from the pain of peripheral neuropathies. Peripheral neuropathies are medical conditions caused by damage to the nerves in the peripheral nervous system. The peripheral nervous system includes nerves that run from the brain and spinal cord to the rest of the body. EpiCept NP-1 Cream is a patented formulation containing two FDA-approved drugs, amitriptyline (a widely-used antidepressant) and ketamine (an NMDA antagonist that is used as an anesthetic).
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic) and pain (acute or chronic).
+DrugId:  14
+1. Name:  HSV-2 theracine
+2. Groups:  Investigational
+3. Description:  HSV-2 theracine is an attenuated recombinant vaccine developed by AuRx for the treatment of genital herpes.
+4. Indication:  Investigated for use/treatment in genital herpes.
+DrugId:  15
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  16
+1. Name:  Tofacitinib
+2. Groups:  Approved, Investigational
+3. Description:  Tofacitinib is an inhibitor of Janus kinases, a group of intracellular enzymes involved in signalling pathways that affect hematopoiesis and immune cell function. It is approved by the FDA for treatment of moderate to severe rheumatoid arthritis that responds inadequately to methotrexate or in those who are intolerant to methotrexate.Besides rheumatoid arthritis, tofacitinib has also been studied in clinical trials for the prevention of organ transplant rejection, and is currently under investigation for the treatment of psoriasis. Known adverse effects include nausea and headache as well as more serious immunologic and hematological adverse effects. Tofacitinib is marketed under the brand name Xeljanz by Pfizer.
+4. Indication:  For the treatment of moderate to severe rheumatoid arthritis which is resistant or intolerant to methotrexate therapy. It may also be used as an adjunct to methotrexate therapy, or other non-biologic disease-modifying antirheumatic drugs (DMARDS), when methotrexate alone is not sufficient. Tofacitinib has also been investigated as a preventative therapy for kidney transplant rejections, and as a treatment for psoriasis, ulcerative colitis, and ankylosing spondylitis. It is not to be initiated in patients with a history of chronic or recurrent infections, or in the presence of active infection, even if localized, due to reports of serious and sometimes fatal infections (commonly pneumonia, herpes zoster and urinary tract infections). Use of tofacitinib is also discouraged in those who have been, or are likely to be, exposed to TB. An increased likelihood of exposure may be encountered by traveling to certain areas. In addition, tofacitinib is not to be used in patients with severe hepatic impairment, or low hemoglobin (less than 9g/dL). Cautioned is advised when using tofacitinib in patients at risk of gastrointestinal perforation, and in the elderly who are more susceptible to infection. 
+DrugId:  17
+1. Name:  Docosanol
+2. Groups:  Approved, Investigational
+3. Description:  Docosanol is a drug used for topical treatment for recurrent herpes simplex labialis episodes (episodes of cold sores or fever blisters). A saturated 22-carbon aliphatic alcohol, docosanol exhibits antiviral activity against many lipid enveloped viruses including herpes simplex virus (HSV). Docosanol inhibits fusion between the plasma membrane and the herpes simplex virus (HSV) envelope, thereby preventing viral entry into cells and subsequent viral replication.
+4. Indication:  For the topical treatment of recurrent oral-facial herpes simplex episodes (cold sores or fever blisters).
+DrugId:  18
+1. Name:  ME-609
+2. Groups:  Investigational
+3. Description:  ME-609 is a Medivir’s combination treatment against labial herpes which suppresses the virus while moderating the immune system’s reaction. Clinical trials demonstrated that cold sores become far smaller, and in a significant number of cases, do not arise. This concept is highly competitive since none of the market’s current pharmaceuticals can prevent the incidence of cold sores.
+4. Indication:  Investigated for use/treatment in herpes labialis infections (cold sores).
+DrugId:  19
+1. Name:  NV1020
+2. Groups:  Investigational
+3. Description:  NV1020, a genetically engineered herpes simplex virus, is a novel anticancer therapeutic.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  20
+1. Name:  AG-702
+2. Groups:  Investigational
+3. Description:  AG-702 is a recombinant human heat shock protein also known as stress protein. It is also known as HSPs, which are a group of proteins that are induced when a cell undergoes various types of environmental stresses like heat, cold and oxygen deprivation. HSPs are present in all cells in all life forms from bacteria to mammals, and their structure and function are similar across these diverse life forms. This drug is developed by antigenics for the treatment of genital herpes infection and is under phase I of clinical trial.
+4. Indication:  Investigated for use/treatment in genital herpes.
+DrugId:  21
+1. Name:  Talimogene laherparepvec
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Talimogene laherparepvec is an oncolytic treatment used in local treatment of unresectable cutaneous, subcutaneous, and nodal lesions in patients with recurrent melanoma. It is a genetically administered herpes simplex virus 1 (HSV-1) that expresses human cytokine granulocyte-macrophage colony stimulating factor (GM-CSF) with antitumor and immune-stimulating activities. It specifically replicates within tumor cells and causes lysis. It was approved by the FDA in 2015 under the market name Imlygic.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  PCL-016
+2. Groups:  Investigational
+3. Description:  PCL-016 or Picolinic acid drug substance is a pyridine carboxylate metabolite of tryptophan. It acts as an anti-infective and immunomodulator and is produced in approximately 25-50 mg quantities by the body on a daily basis through the breakdown of tryptophan. PCL-016 plays a key role in zinc transport. As a therapeutic agent, the molecule works by binding to zinc finger proteins (ZFPs) in a way that changes their structures and disrupts zinc binding, inhibiting function. ZFPs are involved in viral replication and packaging as well as normal cell homeostatic functions. Picolinic acid has been shown to be an anti-viral in vitro and in vivo, and sometimes works in conjunction with other cytokines such as interferon gamma to affect immune responses. Acne vulgaris, herpes and other viral infections therefore pose potential therapeutic targets of PCL-016.
+4. Indication:  Investigated for use/treatment in acne, herpes labialis infections (cold sores), and venereal disease.
+DrugId:  23
+1. Name:  NB-001
+2. Groups:  Investigational
+3. Description:  NB-001 has been investigated for the treatment of Recurrent Herpes Labialis.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Idoxuridine
+2. Groups:  Approved, Investigational
+3. Description:  An analog of deoxyuridine that inhibits viral DNA synthesis. The drug is used as an antiviral agent. [PubChem]
+4. Indication:  For use in keratoconjunctivitis and keratitis caused by herpes simplex virus.
+DrugId:  25
+1. Name:  Pritelivir
+2. Groups:  Investigational
+3. Description:  Pritelivir has been used in trials studying the prevention of HSV-2 and Genital Herpes.
+4. Indication:  Not Available

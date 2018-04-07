@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Macadamia nut
+2. Groups:  Approved
+3. Description:  Macadamia nut allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Brazil nut
+2. Groups:  Approved
+3. Description:  Brazil nut allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Cashew
+2. Groups:  Approved
+3. Description:  Cashew allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Pecan
+2. Groups:  Approved
+3. Description:  Pecan allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Pistachio
+2. Groups:  Approved
+3. Description:  Pistachio allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Hazelnut
+2. Groups:  Approved
+3. Description:  Hazelnut allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Carbon Black
+2. Groups:  Investigational
+3. Description:  Carbon Black has been used in trials studying Atopic Hypersensitivity and Hypersensitivity, Immediate.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Coccidioides immitis spherule
+2. Groups:  Approved
+3. Description:  Coccidioides immitis spherule is a skin test antigen indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis.
+4. Indication:  Indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis. Use in 18-64 year old patients. A positive result occurs if 48h after administration if the diameter of the induration is >5mm. 
+DrugId:  9
+1. Name:  Guvacine
+2. Groups:  Experimental
+3. Description:  Guvacine is a pyridine alkaloid found in the Areca nut (also known as the Betel nut). It is an experimental drug with no approved indication. Experimental studies are still being investigated to determine all of the physiological effects and mechanisms of action of guvacine. Currently it has been determined that guvacine is a specific GABA reuptake inhibitor with no significant affinity at GABA receptors. 
+4. Indication:  There is no approved indication for guvacine.
+DrugId:  10
+1. Name:  Arecoline
+2. Groups:  Experimental
+3. Description:  An alkaloid obtained from the betel nut (Areca catechu), fruit of a palm tree. It is an agonist at both muscarinic and nicotinic acetylcholine receptors. It is used in the form of various salts as a ganglionic stimulant, a parasympathomimetic, and a vermifuge, especially in veterinary practice. It has been used as a euphoriant in the Pacific Islands.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  CUDC-907
+2. Groups:  Investigational
+3. Description:  CUDC-907 has been used in trials studying the treatment of Lymphoma, Solid Tumors, BREAST CANCER, Multiple Myeloma, and NUT Midline Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  13
+1. Name:  Diphencyprone
+2. Groups:  Investigational
+3. Description:  Diphencyprone has been used in trials studying the treatment and basic science of Melanoma, Ultraviolet Rays, Immunosuppression, Neoplasm Metastasis, and Hypersensitivity, Delayed, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Eucalyptus oil
+2. Groups:  Approved
+3. Description:  Eucalyptus oil is a distilled oil derived from the leaves of the tree Eucalyptus. It is shown to be effective in reducing pain, swelling, and inflammation via its modulatory effect on the immune response. It is also shown to exhibit antibacterial activity against some bacterial species and cough suppressant actions. Eucalyptus oil can be applied directly to the skin for pain and swelling of respiratory tract mucous membranes, joint pain, genital herpes, and nasal stuffiness.
+4. Indication:  As an active agent, eucalyptus oil has been indicated for relief of the symptoms of catarrhal colds, and/or the relief of the symptoms of minor muscular sprains and cramps [24].
+DrugId:  15
+1. Name:  Asparaginase Erwinia chrysanthemi
+2. Groups:  Approved, Investigational
+3. Description:  Erwinaze (asparaginase Erwinia chrysanthemi) contains an asparaginase specific enzyme derived from Erwinia chrysanthemi [4]. Specifically, this L-asparaginase is a tetrameric enzyme consisting of four identical subunits, each having a molecular weight of about 35 kDa [4]. The activity of Erwinaze is expressed in terms of International Units. It is an antineoplastic agent and was FDA approved in November 19, 2011 [4].
+4. Indication:  Asparaginase Erwinia chrysanthemi is for the treatment of patients with acute lymphoblastic leukemia (ALL) that have developed a hypersensitivity to E. coli-derivied asparaginase [4]. It is a component of a multi-agent chemotherpeutic regimen [4] for the treatment of the aforementioned disease and is considered second- or third- line treatment in European and American protocols [1]. 
+DrugId:  16
+1. Name:  Pemirolast
+2. Groups:  Approved, Investigational
+3. Description:  Pemirolast potassium is a slightly yellow powder that is soluble in water. It is a mast cell stabilizer that acts as an antiallergic agent. As an ophthalmic aqueous sterile solution, pemirolast is used for the prevention of itching of the eyes caused by allergies such as hay fever, and allergic conjunctivitis. Pemirolast is potentially useful for prophylaxis of pulmonary hypersensitivity reactions to drugs such as paclitaxel.
+4. Indication:  For the prevention of itching of the eyes caused by allergies such as hay fever, and allergic conjunctivitis
+DrugId:  17
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  18
+1. Name:  Lodoxamide
+2. Groups:  Approved
+3. Description:  Lodoxamide is a mast-cell stabilizer for topical administration into the eye. Mast-cell stabilizers, first one approved being cromolyn sodium, are used in treatment of ocular hypersensitivity reactions such as vernal conjunctivitis. These conditions often require treatment with anti-inflammatory medications such as ophthalmic NSAIDs or topical steroids which may cause systemic or toxic effects long-term. Although less effective than topical steroids at decreasing inflammation, mast-cell stabilizers offer another treatment option and exhibit minimal adverse effects. Lodoxamide is marketed under the brand name Alomide by Alcon. 
+4. Indication:  Indicated in the treatment of the ocular disorders referred to by the terms vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  19
+1. Name:  Pegaspargase
+2. Groups:  Approved, Investigational
+3. Description:  Pegylated L-asparagine amidohydrolase from E. coli. Pegylation substantially (by a factor of 4) extends the protein half life.
+4. Indication:  For treatment of acute lymphoblastic leukemia
+DrugId:  20
+1. Name:  Pirbuterol
+2. Groups:  Approved
+3. Description:  Pirbuterol is a beta-2 adrenergic bronchodilator. In vitro studies and in vivo pharmacologic studies have demonstrated that pirbuterol has a preferential effect on beta-2 Adrenergic receptors compared with isoproterenol. While it is recognized that beta-2 adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta-2 receptors in the human heart, existing in a concentration between 10-50%. The precise function of these receptors has not been established.The pharmacologic effects of beta adrenergic agonist drugs, including pirbuterol, are at least in proof attributable to stimulation through beta adrenergic receptors of intracellular adenyl cyclase, the enzyme which catalyzes the conversion of adenosine triphosphate (AlP) to cyclic-3† ,5†-adenosine monophosphate (c-AMP). Increased c-AMP levels are associated with relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible bronchospasm including asthma.
+DrugId:  21
+1. Name:  Mafenide
+2. Groups:  Approved, Vet approved
+3. Description:  Mafenide is a sulfonamide-type medication used to treat severe burns. It acts by reducing the bacterial population present in the burn tissue and promotes healing of deep burns. 
+4. Indication:  Mafenide is indicated in the treatment of severe burns.
+DrugId:  22
+1. Name:  Isoetarine
+2. Groups:  Approved
+3. Description:  Isoetarine is a selective adrenergic beta-2 agonist used as fast acting bronchodilator for emphysema, bronchitis and asthma. [PubChem]
+4. Indication:  For the treatment of asthma, wheezing, and chronic asthmatic bronchitis.
+DrugId:  23
+1. Name:  Bambuterol
+2. Groups:  Approved, Investigational
+3. Description:  Bambuterol is a long acting beta-adrenoceptor agonist used in the treatment of asthma. It is a prodrug of terbutaline.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated with bronchitis and emphysema.
+DrugId:  24
+1. Name:  Cholecystokinin
+2. Groups:  Approved, Investigational
+3. Description:  Cholecystokinin ( also known as CCK or CCK-PZ) is a peptide hormone of the gastrointestinal system which is responsible for stimulating the digestion of fat and protein. Cholecystokinin, previously called pancreozymin, is synthesized and secreted by enteroendocrine cells in the duodenum (the first portion of the small intestine) and leads to the release of bile and digestive enzymes. CCK also acts as an appetite suppressant and has been studied for weight management regimens [12]. Normally, it is an endogenous hormone but is available commercially for diagnostic processes and replacement in pancreatic insufficiency [21, 22, 23]. in the octapeptide form.Cholecystokinin is one of the first gastrointestinal hormones discovered, identified more than 90 years ago due to its ability to stimulate gallbladder contraction in 1928. Soon after, it was recognized to be identical to the factor responsible for stimulating pancreatic exocrine secretion in 1943 [11]. This hormone has also been shown to have positive effects on enteric smooth muscle contraction and on nerve activity at multiple locations in the peripheral and central nervous system. In addition to its roles in promoting smooth muscle cell contraction/exocrine cell secretion, CCK promotes cell growth, energy production, gene expression and protein synthesis, processes that have profound for drug development [11]. This drug has also been investigated for possible antipsychotic properties, owing to its effect on CCK receptors in the brain [13].Recent studies have suggested that cholecystokinin also plays a major role in inducing drug tolerance to opioids such as morphine and heroin, and is partially implicated in experiences of pain hypersensitivity during opioid withdrawal [1].
+4. Indication:  For use as a diagnostic aid for evaluation of gallbladder disorders. It is also used in conjunction with secretin in pancreatic insufficiency [9].
+DrugId:  25
+1. Name:  Olopatadine
+2. Groups:  Approved
+3. Description:  Used to treat allergic conjunctivitis (itching eyes), olopatadine inhibits the release of histamine from mast cells. It is a relatively selective histamine H1 antagonist that inhibits the in vivo and in vitro type 1 immediate hypersensitivity reaction including inhibition of histamine induced effects on human conjunctival epithelial cells.
+4. Indication:  For the treatment of ocular itching associated with allergic conjunctivitis.

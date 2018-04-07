@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Almotriptan
+2. Groups:  Approved, Investigational
+3. Description:  Almotriptan is a triptan drug for the treatment of migraine headaches. Almotriptan is in a class of medications called selective serotonin receptor agonists. It works by narrowing blood vessels in the brain, stopping pain signals from being sent to the brain, and stopping the release of certain natural substances that cause pain, nausea, and other symptoms of migraine. Almotriptan does not prevent migraine attacks.
+4. Indication:  For the treatment of acute migraine headache in adults
+DrugId:  2
+1. Name:  Dalbavancin
+2. Groups:  Approved, Investigational
+3. Description:  Dalbavancin is a second-generation lipoglycopeptide antibiotic that was designed to improve on the natural glycopeptides currently available, such as vancomycin and teicoplanin. Modifications from these older glycoprotein classes allowed a similar mechanism of action with increased activity and once weekly dosing. Its use is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) caused by the following gram-positive microorganisms: Staphylococcus aureus (including methicillin-susceptible and methicillin-resistant strains), S. pyogenes, S. agalactiae, and S. anginosus group (including S. anginosus, S. intermedius, and S. constellatus). Dalbavancin acts by interfering with cell wall synthesis by binding to the D-alanyl-D-alanine terminus of nascent cell wall peptidoglycan and preventing cross-linking.
+4. Indication:  Dalbavancin is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) caused by the following gram-positive microorganisms: Staphylococcus aureus (including methicillin-susceptible and methicillin-resistant strains), S. pyogenes, S. agalactiae, and S. anginosus group (including S. anginosus, S. intermedius, and S. constellatus). It is administered as a 30 minute IV infusion in a two-dose regimen of 1000 mg followed by 500 mg one week later.
+DrugId:  3
+1. Name:  Dexmethylphenidate
+2. Groups:  Approved, Investigational
+3. Description:  Dexmethylphenidate is the dextrorotary form of methylphenidate. It is a norepinephrine-dopamine reuptake inhibitor (NDRI) and thus a psychostimulant. It is used for treatment of Attention Deficit Hyperactivity Disorder (ADHD). 
+4. Indication:  Dexmethylphenidate is used as a treatment for ADHD, ideally in conjunction with psychological, educational, behavioral or other forms of treatment.
+DrugId:  4
+1. Name:  Caffeine
+2. Groups:  Approved
+3. Description:  A methylxanthine naturally occurring in some beverages and also used as a pharmacological agent. Caffeine's most notable pharmacological effect is as a central nervous system stimulant, increasing alertness and producing agitation. It also relaxes smooth muscle, stimulates cardiac muscle, stimulates diuresis, and appears to be useful in the treatment of some types of headache. Several cellular actions of caffeine have been observed, but it is not entirely clear how each contributes to its pharmacological profile. Among the most important are inhibition of cyclic nucleotide phosphodiesterases, antagonism of adenosine receptors, and modulation of intracellular calcium handling.
+4. Indication:  For management of fatigue, orthostatic hypotension, and for the short term treatment of apnea of prematurity in infants.
+DrugId:  5
+1. Name:  Methdilazine
+2. Groups:  Approved
+3. Description:  Methdilazine is a phenothiazine compound with antihistaminic activity. It is used in the treatment of various dermatoses to relieve pruritus.
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions and particularly for the control of pruritic skin disorders
+DrugId:  6
+1. Name:  Lesopitron
+2. Groups:  Investigational
+3. Description:  Lesopitron is an anxiolytic with pre- and post-synaptic 5-HT1A agonist activity, which is under development by Esteve.
+4. Indication:  Intended for the treatment of anxiety disorders.
+DrugId:  7
+1. Name:  Velusetrag
+2. Groups:  Investigational
+3. Description:  Velusetrag has been used in trials studying the treatment of Gastroparesis and Alzheimer's Disease. It is a highly selective serotonin receptor agonist effective in patients with chronic constipation. It is being developed by Theravance. Velusetrag was discovered by Theravance through the application of its multivalent drug design in a research program dedicated to finding new treatments for GI motility disorders.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Dihydroergotamine
+2. Groups:  Approved, Investigational
+3. Description:  A 9,10alpha-dihydro derivative of ergotamine. It is used as a vasoconstrictor, specifically for the therapy of migraine disorders.
+4. Indication:  For the acute treatment of migraine headaches with or without aura and the acute treatment of cluster headache episodes.
+DrugId:  9
+1. Name:  Glycerol Phenylbutyrate
+2. Groups:  Approved
+3. Description:  Glycerol phenylbutyrate is a nitrogen-binding agent. Chemically, it is a triglyceride in which three molecules of phenylbutyrate are linked to a glycerol backbone. FDA approved on February 1, 2013.
+4. Indication:  Glycerol phenylbutyrate is a nitrogen-binding agent for the chronic management of adult and pediatric patients ≥2 years of age with urea cycle disorders (UCDs) who cannot be managed by dietary protein restriction and/or amino acid supplementation alone. 
+DrugId:  10
+1. Name:  Thyroid, porcine
+2. Groups:  Approved
+3. Description:  Desiccated thyroid or thyroid extract, refers to porcine or bovine thyroid glands, dried and powdered for therapeutic use. In the last few decades, pork alone is the usual source.Desiccated (dried) thyroid is a combination of hormones that are normally produced by your thyroid gland to regulate the body's energy and metabolism. Desiccated thyroid is given when the thyroid does not produce enough of this hormone on its own.Desiccated thyroid treats hypothyroidism (low thyroid hormone). It is also used to treat or prevent goiter (enlarged thyroid gland), and is also given as part of a medical tests for thyroid disorders.This medicine should not be used to treat obesity or weight problems.
+4. Indication:  Replacement or supplemental therapy in hypothyroidism; TSH suppression (in thyroid cancer, nodules, goiters, and enlargement in chronic thyroiditis); diagnostic agent to differentiate suspected hyperthyroidism from euthyroidism.
+DrugId:  11
+1. Name:  Risedronate
+2. Groups:  Approved, Investigational
+3. Description:  Risedronate is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat Paget's disease of bone.
+4. Indication:  For the treatment of Paget's disease of the bone (osteitis deformans), postmenopausal and glucocorticoid-induced osteoporosis
+DrugId:  12
+1. Name:  Ergotamine
+2. Groups:  Approved
+3. Description:  A vasoconstrictor found in ergot of Central Europe. It is an alpha-1 selective adrenergic agonist and is commonly used in the treatment of migraine disorders. [PubChem]
+4. Indication:  For use as therapy to abort or prevent vascular headache, e.g., migraine, migraine variants, or so called "histaminic cephalalgia".
+DrugId:  13
+1. Name:  Pinaverium
+2. Groups:  Approved
+3. Description:  Pinaverium is a spasmolytic agent used for functional gastrointestinal disorders. It is a quaternary ammonium compound that acts as an atypical calcium antagonist to restore normal bowel function. It is shown to relieve GI spasm and pain, transit disturbances and other symptoms related to motility disorders [1] and may be considered as effective first-lline therapy for patients with irritable bowel syndrome (IBS) [5]. Pinaverium bromide is the common ingredient in formulations, mostly as oral tablets. Although it is not a currently approved drug by the FDA, pinaverium is available in over 60 countries including Canada.
+4. Indication:  Indicated for the treatment and relief of symptoms associated with irritable bowel syndrome (IBS) associated with abdominal pain, bowel disturbances and intestinal discomfort, as well as the treatment of symptoms related to functional disorders of the biliary tract. 
+DrugId:  14
+1. Name:  Melatonin
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Melatonin is a biogenic amine that is found in animals, plants and microbes. Aaron B. Lerner of Yale University is credited for naming the hormone and for defining its chemical structure in 1958. In mammals, melatonin is produced by the pineal gland. The pineal gland is small endocrine gland, about the size of a rice grain and shaped like a pine cone (hence the name), that is located in the center of the brain (rostro-dorsal to the superior colliculus) but outside the blood-brain barrier. The secretion of melatonin increases in darkness and decreases during exposure to light, thereby regulating the circadian rhythms of several biological functions, including the sleep-wake cycle. In particular, melatonin regulates the sleep-wake cycle by chemically causing drowsiness and lowering the body temperature. Melatonin is also implicated in the regulation of mood, learning and memory, immune activity, dreaming, fertility and reproduction. Melatonin is also an effective antioxidant. Most of the actions of melatonin are mediated through the binding and activation of melatonin receptors. Individuals with autism spectrum disorders (ASD) may have lower than normal levels of melatonin. A 2008 study found that unaffected parents of individuals with ASD also have lower melatonin levels, and that the deficits were associated with low activity of the ASMT gene, which encodes the last enzyme of melatonin synthesis. Reduced melatonin production has also been proposed as a likely factor in the significantly higher cancer rates in night workers.
+4. Indication:  Used orally for jet lag, insomnia, shift-work disorder, circadian rhythm disorders in the blind (evidence for efficacy), and benzodiazepine and nicotine withdrawal. Evidence indicates that melatonin is likely effective for treating circadian rhythm sleep disorders in blind children and adults. It has received FDA orphan drug status as an oral medication for this use. A number of studies have shown that melatonin may be effective for treating sleep-wake cycle disturbances in children and adolescents with mental retardation, autism, and other central nervous system disorders. It appears to decrease the time to fall asleep in children with developmental disabilities, such as cerebral palsy, autism, and mental retardation. It may also improve secondary insomnia associated with various sleep-wake cycle disturbances. Other possible uses for which there is some evidence for include: benzodiazepine withdrawal, cluster headache, delayed sleep phase syndrome (DSPS), primary insomnia, jet lag, nicotine withdrawal, preoperative anxiety and sedation, prostate cancer, solid tumors (when combined with IL-2 therapy in certain cancers), sunburn prevention (topical use), tardive dyskinesia, thrombocytopenia associated with cancer, chemotherapy and other disorders. 
+DrugId:  15
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.
+DrugId:  16
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  17
+1. Name:  Fluvoxamine
+2. Groups:  Approved, Investigational
+3. Description:  Fluvoxamine is an antidepressant which functions pharmacologically as a selective serotonin reuptake inhibitor. Though it is in the same class as other SSRI drugs, it is most often used to treat obsessive-compulsive disorder.Fluvoxamine has been in use in clinical practice since 1983 and has a clinical trial database comprised of approximately 35,000 patients. It was launched in the US in December 1994 and in Japan in June 1999. As of the end of 1995, more than 10 million patients worldwide have been treated with fluvoxamine.
+4. Indication:  Indicated predominantly for the management of depression and for Obsessive Compulsive Disorder (OCD) [FDA Label]. Has also been used in the management of bulimia nervosa [2].
+DrugId:  18
+1. Name:  Droxidopa
+2. Groups:  Approved, Investigational
+3. Description:  Droxidopa is a precursor of noradrenaline that is used in the treatment of Parkinsonism. It is approved for use in Japan and is currently in trials in the U.S. The racaemic form (dl-threo-3,4-dihydroxyphenylserine) has also been used, and has been investigated in the treatment of orthostatic hypotension. There is a deficit of noradrenaline as well as of dopamine in Parkinson's disease and it has been proposed that this underlies the sudden transient freezing seen usually in advanced disease.Though L-DOPS has been used in Japan and Southeast Asia already for some time, it is also currently in clinical trials at the phase III point in the United States (U.S.), Canada, Australia, and throughout Europe. Provided L-DOPS successfully completes clinical trials, it could be approved for the treatment of neurogenic orthostatic hypotension (NOH) as early as 2011. Additionally, phase II clinical trials for intradialytic hypotension are also underway. Chelsea Therapeutics obtained orphan drug status (ODS) for L-DOPS in the U.S. for NOH, and that of which associated with Parkinson's disease , pure autonomic failure, and multiple system atrophy, and is the pharmaceutical company developing it in that country.
+4. Indication:  For treatment of neurogenic orthostatic hypotension (NOH) associated with various disorders including Multiple System Atrophy, Familial Amyloid Polyneuropathy, hemodialysis induced hypotension and Parkinson's Disease. Also investigated for use/treatment in neurologic disorders, nephropathy, blood (blood forming organ disorders, unspecified), and dizzy/fainting spells.
+DrugId:  19
+1. Name:  Benzatropine
+2. Groups:  Approved
+3. Description:  Benzotropine is a centrally-acting, antimuscarinic agent used as an adjunct in the treatment of Parkinson’s disease. It may also be used to treat extrapyramidal reactions, such as dystonia and Parkinsonism, caused by antipsychotics (e.g. phenothiazines). Symptoms of Parkinson’s disease and extrapyramidal reactions arise from decreases in dopaminergic activity which creates an imbalance between dopaminergic and cholinergic activity. Anticholinergic therapy is thought to aid in restoring this balance leading to relief of symptoms. In addition to its anticholinergic effects, benztropine also inhibits the reuptake of dopamine at nerve terminals via the dopamine transporter. Benzotropine also produces antagonistic effects at the histamine H1 receptor. 
+4. Indication:  For use as an adjunct in the therapy of all forms of parkinsonism and also for use in the control of extrapyramidal disorders due to neuroleptic drugs.
+DrugId:  20
+1. Name:  Mepenzolate
+2. Groups:  Approved
+3. Description:  Mepenzolate is a post-ganglionic parasympathetic inhibitor. It decreases gastric acid and pepsin secretion and suppresses spontaneous contractions of the colon. Mepenzolate diminishes gastric acid and pepsin secretion. Mepenzolate also suppresses spontaneous contractions of the colon. Pharmacologically, it is a post-ganglionic parasympathetic inhibitor. It has not been shown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+4. Indication:  For use as adjunctive therapy in the treatment of peptic ulcer. It has not beenshown to be effective in contributing to the healing of peptic ulcer, decreasing the rate of recurrence, or preventing complications.
+DrugId:  21
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  22
+1. Name:  Clomipramine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Clomipramine, the 3-chloro analog of imipramine, is a dibenzazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, clomipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, clomipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as clomipramine, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Clomipramine may be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder). Unlabeled indications include panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy, autistic disorder, trichotillomania, onchophagia, stuttering, premature ejaculation, and premenstrual syndrome. Clomipramine is rapidly absorbed from the gastrointestinal tract and demethylated in the liver to its primary active metabolite, desmethylclomipramine.
+4. Indication:  May be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder).Unlabeled indications include: depression, panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy (limited evidence), autistic disorder (limited evidence), trichotillomania (limited evidence), onchophagia (limited evidence), stuttering (limited evidence), premature ejaculation, and premenstrual syndrome. 
+DrugId:  23
+1. Name:  Rufinamide
+2. Groups:  Approved
+3. Description:  Rufinamide is a triazole derivative and an anticonvulsant medication to treat seizure disorders like Lennox-Gastuat syndrome, a form of childhood epilepsy. Clinical trials suggest its efficacy in the treatment of partial seizures. 
+4. Indication:  Adjunct therapy for treatment of seizures associated with Lennox-Gastaut syndrome. 
+DrugId:  24
+1. Name:  Ginkgo biloba
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  The extract of the Ginkgo leaves contains flavonoid glycosides and terpenoids (ginkgolides, bilobalides) and has been used pharmaceutically for hundreds of years. It has many alleged nootropic properties, and is mainly used as memory and concentration enhancer, and anti-vertigo agent. Ginkgo extract seems to have three effects on the human body: it improves blood flow (including microcirculation in small capillaries) to most tissues and organs; it protects against oxidative cell damage from free radicals; and it blocks many of the effects of PAF (platelet aggregation, blood clotting) that have been related to the development of a number of cardiovascular, renal, respiratory and CNS (Central Nervous System) disorders.
+4. Indication:  Appears to be effective in: alleviating age-related memory impairment in some elderly people with mild to moderate age-related memory or cognitive impairment; improving cognitive function in healthy young to middle-aged people; improving symptoms of Alzheimer's, vascular or mixed dementia; improving damage to the visual field in patients with normal tension glaucoma; decreasing the number of painful attacks in patients with Raynaud's syndrome; and may improve symptoms of vertigo and dizziness in some patients. 
+DrugId:  25
+1. Name:  Terfenadine
+2. Groups:  Approved, Withdrawn
+3. Description:  In the U.S., Terfenadine was superseded by fexofenadine in the 1990s due to the risk of cardiac arrhythmia caused by QT interval prolongation.
+4. Indication:  For the treatment of allergic rhinitis, hay fever, and allergic skin disorders.

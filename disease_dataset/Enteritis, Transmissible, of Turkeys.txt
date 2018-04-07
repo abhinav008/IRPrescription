@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Mesenchymal Stem Cells
+2. Groups:  Investigational
+3. Description:  Mesenchymal stem cells (MSCs) from healthy donors improve cardiac function in experimental acute myocardial infarction (AMI) models. Osiris' stem cells are derived from human bone marrow. The source marrow is voluntarily donated by healthy adults between the ages of 18 and 30 years. Blood samples from the donor are screened prior to donation for transmissible diseases, including HIV and hepatitis, and the medical and social history of each donor is obtained to ascertain whether signs, symptoms or behaviors consistent with high risk for carrying a disease are present.
+4. Indication:  Investigated for use/treatment in heart disease and myocardial infarction.
+DrugId:  2
+1. Name:  Podophyllin
+2. Groups:  Approved
+3. Description:  Podophyllin is a resin extracted from the root of the plant Podophyllum sp. Berberidaceae (mandrake), which contains numerous compounds, among which podophyllotoxin. Podophyllin is the principal active component. Podophyllin arrests mitosis in metaphase.
+4. Indication:  25% podophyllin (in benzoin tincture) is indicated for the removal of soft genital (venereal) warts (condylomata acuminata).
+DrugId:  3
+1. Name:  Furazolidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A nitrofuran derivative with antiprotozoal and antibacterial activity. Furazolidone binds bacterial DNA which leads to the gradual inhibition of monoamine oxidase. (From Martindale, The Extra Pharmacopoeia, 30th ed, p514)
+4. Indication:  For the specific and symptomatic treatment of bacterial or protozoal diarrhea and enteritis caused by susceptible organisms.
+DrugId:  4
+1. Name:  Picrotoxin
+2. Groups:  Experimental
+3. Description:  A noncompetitive antagonist at GABA-A receptors and thus a convulsant. Picrotoxin blocks the gamma-aminobutyric acid-activated chloride ionophore. Although it is most often used as a research tool, it has been used as a CNS stimulant and an antidote in poisoning by CNS depressants, especially the barbiturates. [PubChem]
+4. Indication:  Used internally for relieving respiratory distress. Also for use as an antidote in poisoning by CNS depressants, especially barbiturates.
+DrugId:  5
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  6
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  7
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  8
+1. Name:  DG051
+2. Groups:  Investigational
+3. Description:  DG051 is a novel small-molecule inhibitor of leukotriene A4 hydrolase (LTA4H), the protein made by one of the genes in the leukotriene pathway that has been shown to link to risk of heart attack. DG051 is designed to decrease risk of heart attack by decreasing the production of leukotriene B4 (LTB4), an end product of the leukotriene pathway and a potent promoter of inflammation. 
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  9
+1. Name:  Desoxyribonuclease
+2. Groups:  Approved
+3. Description:  Desoxyribonuclease is a crystalline enzyme that aids in the digestion of the thymus nucleic acid. The mechanism of action of the enzyme involves the splitting of thymus nucleic acid into fragments approaching the size of tetranucleotides without the release of free phosphoric acid. The enzyme's cofactor is reported to be magnesium (or manganese) ions, although the optimal concentration of the ion is independent of the enzyme concentration [2].
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Plozalizumab
+2. Groups:  Investigational
+3. Description:  Plozalizumab has been investigated for the treatment of Atherosclerosis. Plozalizumab, a novel humanized monoclonal antibody, specifically targets CCR2 chemokine receptors found on the surface of certain white blood cells including macrophages and monocytes. Preclinical studies suggest that CCR2 plays an important role in the trafficking of monocytes and macrophages to sites of inflammation. The recruitment of macrophages to the arterial wall is believed to be a critical step in the development of atherosclerosis.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  XEN2174
+2. Groups:  Investigational
+3. Description:  Xen2174 is a synthetic drug modeled on a peptide from the venom of a cone shell found on Australia's Great Barrier Reef. Xen2174 represents a new class of molecules, called the chi conopeptides that selectively inhibit the Norepinephrine Transporter (NET). NET is the primary mechanism regulating the biological effects of norepinephrine (NE) on the body. In episodes of pain, inhibition of NET by Xen2174 elevates the levels of NE leading to the activation of inhibitory pathways preventing pain signals from reaching the brain. 
+4. Indication:  For the treatment of chronic cancer pain.
+DrugId:  12
+1. Name:  ND7001
+2. Groups:  Investigational
+3. Description:  ND7001, a selective PDE2 inhibitor is in clinical trials for the treatment of depression. ND7001 is a solid. Known drug targets of ND7001 including phosphodiesterase 2A, cGMP-stimulated and cGMP-dependent 3',5'-cyclic phosphodiesterase. It is a new type of antidepressant drug with anxiolytic activity. It is the first representative of a new generation of psycho-active compounds potentially devoid of several problems seen with existing treatments.
+4. Indication:  Investigated for use/treatment in anxiety disorders and depression.
+DrugId:  13
+1. Name:  NCX 1015
+2. Groups:  Investigational
+3. Description:  NCX 1015 is nitric oxide-releasing derivative of prednisolone developed for the treatment of inflammatory bowel disease (IBD) by NicOx SA.
+4. Indication:  Investigated for use/treatment in arthritis and arthritic pain and inflammatory bowel disease.
+DrugId:  14
+1. Name:  XL281
+2. Groups:  Investigational
+3. Description:  XL281 is a novel anticancer compound designed to potently inhibit the RAS/RAF/MEK/ERK signaling pathway. Mutational activation of RAS occurs in about 30 percent of all human tumors, including non-small cell lung, pancreatic, and colon cancer. XL281 is a specific inhibitor of RAF kinases, including the mutant form of B-RAF, which is activated in 60 percent of melanomas, 24-44 percent of thyroid cancers, and 9 percent of colon cancers.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  15
+1. Name:  Sinecatechins
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Sinecatechins is a botanical drug product for topical use. It is a partially purified fraction of the water extract of green tea leaves from Camellia sinensis, and is a mixture of catechins and other green tea components. Catechins constitute 85 to 95% (by weight) of the total drug substance which includes more than 55% of Epigallocatechin gallate (EGCg), other catechin derivatives such as Epicatechin (EC), Epigallocatechin (EGC), Epicatechin gallate (ECg) and some additional minor catechin derivatives i.e. Gallocatechin gallate (GCg), Gallocatechin (GC), Catechin gallate (Cg), and Catechin (C). In addition to the known catechin components, it also contains gallic acid, caffeine, and theobromine which together constitute about 2.5% of the drug substance. The remaining amount of the drug substance contains undefined botanical constituents derived from green tea leaves.
+4. Indication:  For the topical treatment of external genital and perianal warts (Condylomata acuminata) in immunocompetent patients 18 years and older.
+DrugId:  16
+1. Name:  Conestat alfa
+2. Groups:  Approved, Investigational
+3. Description:  C1 Esterase Inhibitor (Recombinant) is a recombinant analogue of endogenous complement component-1 esterase inhibitor (rhC1INH), purified from the milk of transgenic rabbits. The primary function of endogenous C1INH is to regulate the activation of the complement and contact system pathways. It does this through inhibition of several target proteases within these pathways including activated C1s, kallikrein, factor XIIa and factor XIa. C1 esterase inhibitor has also been shown to inhibit the action of thrombin within the coagulation pathway, and tPA and plasmin within the fibrinolytic pathway. Deficiency of C1-inhibitor permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin. Additionally, C4 and C2 cleavage goes unchecked, resulting in auto-activation of the complement system. Down-stream effects of the lack of enzyme inhibition by C1 esterase inhibitor results in swelling due to leakage of fluid from blood vessels into connective tissue and consequently the presentation of hereditary angioedema (HAE). Marketed as the product Ruconest (FDA), this drug is indicated for the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults. Intravenous replacement of C1 esterase inhibitor results in reversal of acute symptoms of HAE.
+4. Indication:  For the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults.
+DrugId:  17
+1. Name:  ICA-105665
+2. Groups:  Investigational
+3. Description:  ICA-105665 is a novel small molecule compound for the treatment of epilepsy. It is a novel opener of the KCNQ ion channel which in preclinical studies has demonstrated a broad spectrum of activity in models of epilepsy. In addition, ICA-105665 has also demonstrated activity in certain models of neuropathic pain.
+4. Indication:  Investigated for use/treatment in epilepsy.
+DrugId:  18
+1. Name:  TAFA-93
+2. Groups:  Investigational
+3. Description:  TAFA93 is a novel prodrug of the mTOR inhibitor rapamycin which has successfully completed Phase 1 clinical development. mTOR inhibitors are currently used in the prevention of organ rejection in transplantation, the treatment of autoimmune and oncological diseases, and as a component of coated stents for the treatment of coronary artery disease.
+4. Indication:  Investigated for use/treatment in transplant (rejection).
+DrugId:  19
+1. Name:  GFT14
+2. Groups:  Investigational
+3. Description:  GFT14 is a new class of medicaction for treatment of cardiometabolic disease. GFT14 aims to target mixed dyslipidemia of type IIb (high levels of triglycerides and LDL-C) as one of the major indications of cardiometabolic disease.GFT14 is destined to improve the condition of patients at risk from cardiovascular disease by a simultaneous and favorable action on the plasmatic lipids (rise of HDL- cholesterol et lowering of triglycerides) and on other risk factors such as hypertension or diabetes. Orally absorbed GFT14 has absolutely no structural link with current treatments for dyslipidemia (statin or fibrate based). The risks of medical interaction are weak and GFT14 may be easily combined with statins or other antidiabetic molecules (glitazones). 
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and hyperlipidemia.
+DrugId:  20
+1. Name:  SC12267
+2. Groups:  Investigational
+3. Description:  SC12267 is a novel, small molecule agent from the class of DMARDs (disease modifying anti-rheumatic drug) for the therapy of autoimmune diseases such as rheumatoid arthritis or multiple sclerosis. Through highly selective inhibition of pyrimidine biosynthesis, it controls the growth of rapidly proliferating cells, especially of lymphocytes, which are important for the immune response.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and rheumatoid arthritis.
+DrugId:  21
+1. Name:  XL019
+2. Groups:  Investigational
+3. Description:  XL019 is a selective inhibitor of the cytoplasmic tyrosine kinase JAK2. An IND for XL019 was filed by Exelixis in May 2007.
+4. Indication:  For the treatment of various forms of cancer.
+DrugId:  22
+1. Name:  ATL1102
+2. Groups:  Investigational
+3. Description:  ATL1102 is a second-generation antisense inhibitor of CD49d, an immunesystem protein known as VLA-4, an immune cell molecule. It works by entering cells and targeting genes.
+4. Indication:  Investigated for use/treatment in asthma and multiple sclerosis.
+DrugId:  23
+1. Name:  Grn163l
+2. Groups:  Investigational
+3. Description:  GRN163L is a novel anti-cancer drug. It has been characterized preclinically and shown to inhibit telomerase in human tumor cells of many cancer types (including lung, breast, prostate, liver, and early stage of human breast cancer), in both cell culture systems and animal models. Study of this drug shows the its potential utility in the treatment of patients with hematologic and solid tumor malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and solid tumors.
+DrugId:  24
+1. Name:  ARX201
+2. Groups:  Investigational
+3. Description:  ARX201 (PEG-ahGH) is a recombinant form of human growth hormone that has been modified using Ambrx’s patented ReCODE™ technology to achieve precise spatial positioning of the site of polyethylene glycol (PEG) attachment to human growth hormone, by biosynthetic incorporation of a chemically unique amino acid (ahGH). ARX201 has improved pharmacological properties, which should allow less frequent administration than the daily dosing regimen of currently available growth hormones.
+4. Indication:  Investigated for use/treatment in growth hormone deficiencies/abnormalities.
+DrugId:  25
+1. Name:  Choriogonadotropin alfa
+2. Groups:  Approved
+3. Description:  Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.
+4. Indication:  For the treatment of female infertility

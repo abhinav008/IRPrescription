@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ibalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ibalizumab (also known as ibalizumab-uiyk and formerly known as TNX-355) is a monoclonal antibody that binds to CD4 receptors on the surface of CD4-positive cells, preventing HIV particle entry into the lymphocytes. It is an advanced and current antibody in development for the treatment of HIV/AIDS. It has been developed by Taimed biologics and Theratechnologies [8, 5].This drug was approved in March 2018 for the management of treatment-resistant HIV [5].
+4. Indication:  Indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in highly treatment-experienced adults with multidrug-resistant HIV-1 infection failing their current antiretroviral regimen [FDA Label].The approval of Trogarzo was supported by a clinical trial of 40 treatment-experienced adults with MDR HIV-1 infection who persistently had elevated levels of HIV RNA in their blood despite heavy antiretroviral therapy. The majority of study patients had previously been treated with ≥10 antiretroviral medications [5].
+DrugId:  2
+1. Name:  Clenoliximab
+2. Groups:  Investigational
+3. Description:  Clenoliximab is a monoclonal antibody against CD4. It acts as an immunomodulator and has been investigated for the treatment of rheumatoid arthritis. The drug is a chimeric antibody from Macaca irus and Homo sapiens.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  3
+1. Name:  Coccidioides immitis spherule
+2. Groups:  Approved
+3. Description:  Coccidioides immitis spherule is a skin test antigen indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis.
+4. Indication:  Indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis. Use in 18-64 year old patients. A positive result occurs if 48h after administration if the diameter of the induration is >5mm. 
+DrugId:  4
+1. Name:  IC41
+2. Groups:  Investigational
+3. Description:  IC41 is a therapeutic peptide vaccine. It is being devloped by Intercell AG for the treatment of hepatitis C. The vaccine consists of five synthetic peptides (IPEP83, 84, 87, 89,1426) harboring HCV CD4 and CD8 T-cell epitopes and the synthetic adjuvant poly-L-arginine. 
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  5
+1. Name:  PDPSC18
+2. Groups:  Investigational
+3. Description:  PDPSC18 is therapeutic DNA vaccine designed to fight chronic infections with the Hepatitis B virus, entering phase I clinical trials.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B).
+DrugId:  6
+1. Name:  HGTV-43
+2. Groups:  Investigational
+3. Description:  HGTV43 is an anti-sense treatment designed to produce T cells that are genetically resistant to HIV infection. HGTV43 is one of a number of so-called 'gene transfer vectors' developed by the biotechnology company Enzo Biochem, Inc.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  7
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  8
+1. Name:  Alefacept
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Immunosuppressive dimeric fusion protein that consists of the extracellular CD2-binding portion of the human leukocyte function antigen-3 (LFA-3) linked to the Fc (hinge, CH2 and CH3 domains) portion of human IgG1. Produced by CHO cells, mW is 91.4 kD.
+4. Indication:  As an immunosuppressive drug, Alefacept can be used for treatment of moderate to severe chronic plaque psoriasis
+DrugId:  9
+1. Name:  MM-093
+2. Groups:  Investigational
+3. Description:  MM-093 is a recombinant version of human alpha-fetoprotein (hAFP), an immunomodulatory serum protein normally produced at very high levels by the fetus and present in low levels in the blood of adults and children. Research on AFP suggests that it may play a role in modulating the immune system of the mother in order to protect the developing fetus during pregnancy. The presence of hAFP in the pregnant mother’s blood has long been associated with remission of many autoimmune diseases, including rheumatoid arthritis, psoriasis and multiple sclerosis, during the third trimester of pregnancy. Current studies are assessing MM-093’s potential to improve the treatment of autoimmune disease.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, psoriasis and psoriatic disorders, and rheumatoid arthritis.
+DrugId:  10
+1. Name:  Tantalum
+2. Groups:  Investigational
+3. Description:  Tantalum has been investigated for the treatment and prevention of Osteoarthritis, Knee Osteoarthritis, Intraoperative Bleeding, and Adolescent Idiopathic Scoliosis.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Abatacept
+2. Groups:  Approved
+3. Description:  Abatacept is a soluble fusion protein, which links the extracellular domain of human cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) to the modified Fc (hinge, CH2, and CH3 domains) portion of human immunoglobulin G1 (IgG1). Structurally, abatacept is a glycosylated fusion protein with a MALDI-MS molecular weight of 92,300 Da and it is a homodimer of two homologous polypeptide chains of 357 amino acids each. It is produced through recombinant DNA technology in mammalian CHO cells. The drug has activity as a selective co-stimulation modulator with inhibitory activity on T lymphocytes. Although approved for the treatment of rheumatoid arthritis, Repligen has entered a slightly different formulation of CTLA4-Ig into clinical trials (RG2077).
+4. Indication:  For the management of the signs and symptoms of moderate-to-severe active rheumatoid arthritis, inducing major clinical response, slowing the progression of structural damage, and improving physical function in adult patients. It is indicated both as a monotherapy and for use in combination with a continued regimen of DMARDs (not including TNF antagonists). Also used for the management of the signs and symptoms of moderately to severely active polyarticular juvenile idiopathic arthritis in children.
+DrugId:  12
+1. Name:  AVR118
+2. Groups:  Investigational
+3. Description:  AVR118 represents a new type of biopolymer chemistry that also possesses novel immunomodulator activity. This non-toxic peptide-nucleic acid, which to date has shown no indication of human toxicity, appears to stimulate the proinflammatory responses required to combat viral infections such as AIDS and human papilloma virus and to dampen aberrant autoimmune-type inflammatory responses. AVR118 is being studied for the promise shown in its ability to mitigate the toxic side effects of other drugs (including those used to treat HIV infection and chemotherapeutic drugs employed in the treatment of cancers); for its ability to stimulate the immune system to attack tumor cells (especially those cancer cells that have been damaged by chemotherapeutic agents) and for its ability to treat cachexia (wasting) in patients with AIDS or cancer.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Arsenic trioxide
+2. Groups:  Approved, Investigational
+3. Description:  Arsenic trioxide is a chemotheraputic agent of idiopathic function used to treat leukemia that is unresponsive to first line agents. It is suspected that arsenic trisulfide induces cancer cells to undergo apoptosis. Due to the toxic nature of arsenic, this drug carries significant health risks. The enzyme thioredoxin reductase has recently been identified as a target for arsenic trioxide.
+4. Indication:  For induction of remission and consolidation in patients with acute promyelocytic leukemia (APL), and whose APL is characterized by the presence of the t(15;17) translocation or PML/RAR-alpha gene expression
+DrugId:  14
+1. Name:  Simtuzumab
+2. Groups:  Investigational
+3. Description:  Simtuzumab has been used in trials studying the treatment and basic science of Myelofibrosis, Pancreatic Cancer, Colorectal Cancer, and Idiopathic Pulmonary Fibrosis.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Muromonab
+2. Groups:  Approved, Investigational
+3. Description:  Murine monoclonal antibody specific to CD3 T-cell lymphocyte antigens. More specifically it is a purified murine (mouse) monoclonal antibody, directed against the CD3 (T3) receptor on the surface of human T-cells (T-lymphocytes) cultured using the murine ascites method. Muromonab is 93% monomeric immune globulin G type 2a (IgG2a).
+4. Indication:  For treatment of organ transplant recipients, prevention of organ rejection
+DrugId:  16
+1. Name:  Avatrombopag
+2. Groups:  Investigational
+3. Description:  Avatrombopag has been used in trials studying the treatment of Thrombocytopenia, Idiopathic Thrombocytopenia Purpura, Idiopathic Thrombocytopenic Purpura (ITP), Thrombocytopenia Associated With Liver Disease, and Thrombocytopenia Related to Chronic Liver Disease, among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Givinostat
+2. Groups:  Investigational
+3. Description:  Givinostat has been used in trials studying the treatment of Polycythemia Vera, Juvenile Idiopathic Arthritis, Duchenne Muscular Dystrophy (DMD), Chronic Myeloproliferative Neoplasms, and Polyarticular Course Juvenile Idiopathic Arthritis.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  SYM001
+2. Groups:  Investigational
+3. Description:  Sym001 is a recombinant polyclonal antibody consisting of 25 different anti-Rhesus D (RhD) antibodies to replace existing anti-RhD hyperimmune immunoglobulins for the treatment of Idiopathic Thrombocytopenic Purpura (ITP) and the prevention of Hemolytic Disease of Newborns (HDN).
+4. Indication:  Investigated for use/treatment in thrombocytopenia.
+DrugId:  19
+1. Name:  ISS-1018
+2. Groups:  Investigational
+3. Description:  ISS 1018 is a short, synthetic, unmethylated CpG oligodeoxynucleotide (CpG ODN) with immunostimulatory activity. ISS 1018 signals through Toll-like receptor 9 (TLR9) to induce the production of immunoglobulin by B cells and interferon (IFN) -alpha, IFN-beta, interleukin-12 (IL-12), and tumor necrosis factor - alpha (TNF-alpha) by plasmacytoid dendritic cells (pDC). ISS 1018 CpG ODN promotes antigen presentation and co-stimulatory molecule expression. ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It is also being investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+4. Indication:  Investigated for use/treatment in colorectal cancer, hepatitis (viral, B), and lymphoma (non-hodgkin's).ISS 1018 is currently being investigated in combination with HBsAg vaccine as a prophylactic treatment for to prevent Hepatitis B in adults. It has also been investigated in combination with rituximab for treatment of b-cell or non-hodgkin's lymphoma.
+DrugId:  20
+1. Name:  Catumaxomab
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Catumaxumab is a trifunctional monoclonal antibody developed for use in cancer treatment. It has affinity for T-cells, accessory immune cells, and cancer cells. Catumaxumab was initially authorized for market by the European Medicines Agency in April 2009 for the treatment of malignant ascites [3]. Its market authorization was withdrawn in the EU in June 2017 at the manufacturer's request due to the company's insolvency. Catumaxumab was approved for market in Canada in May 2012 for the same condition [FDA Label]. It is currently available under the brand name Removab.
+4. Indication:  For use in the management of malignant ascites tumours via intraperitoneal infusion where standard therapy is not available or feasible [FDA Label].
+DrugId:  21
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  22
+1. Name:  Clomipramine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Clomipramine, the 3-chloro analog of imipramine, is a dibenzazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, clomipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, clomipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as clomipramine, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Clomipramine may be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder). Unlabeled indications include panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy, autistic disorder, trichotillomania, onchophagia, stuttering, premature ejaculation, and premenstrual syndrome. Clomipramine is rapidly absorbed from the gastrointestinal tract and demethylated in the liver to its primary active metabolite, desmethylclomipramine.
+4. Indication:  May be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette’s disorder).Unlabeled indications include: depression, panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy (limited evidence), autistic disorder (limited evidence), trichotillomania (limited evidence), onchophagia (limited evidence), stuttering (limited evidence), premature ejaculation, and premenstrual syndrome. 
+DrugId:  23
+1. Name:  Immune Globulin Human
+2. Groups:  Approved, Investigational
+3. Description:  Intravenous immunoglobulin (IVIg) is a mixture of IgG1 and other antibodies derived from healthy human plasma via Cohn fractionation. The purification process includes cold alcohol fractionation, polyethylene glycol precipitation, and ion exchange chromatography. IVIg contains the same distribution of IgG antibody subclasses as is found in the general human population. IgG subclasses are fully represented in the following proportions: 70.3% IgG1, 24.7% IgG2, 3.1% IgG3, and 1.9% IgG4. IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders.
+4. Indication:  IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders. These indications includes idiopathic thrombocytopenic purpura, Kawasaki disease, hypogammaglobulinemia, B cell chronic lymphocytic leukemia, bone marrow transplant complications, Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy (CIDP), multiple sclerosis, rheumatoid arthritis, myesthenia gravis, Wiskott–Aldrich syndrome and inflammatory skin diseases.
+DrugId:  24
+1. Name:  Thymalfasin
+2. Groups:  Approved, Investigational
+3. Description:  Thymalfasin is a chemically synthesized version of thymosin alpha 1 that is identical to human thymosin alpha 1. Thymosin alpha 1 is an acetylated polypeptide. Thymosin alpha 1 is now approved in 35 developing countries for the treatment of Hepatitis B and C. It is also used to boost the immune response in the treatment of other diseases.
+4. Indication:  Indicated as an adjuvant for influenza vaccine in elderly patients and as an adjuvant for both influenza and hepatitis B vaccines in chronic hemodialysis patients who failed to achieve adequate antibody titers from previous immunization.
+DrugId:  25
+1. Name:  Testosterone cypionate
+2. Groups:  Approved
+3. Description:  Testosterone cypionate is a synthetic derivative of testosterone in the form of an oil-soluble 17 (beta)-cyclopentylpropionate ester. Its benefit compared to other testosterone derivatives is the slow rate of release after injection and longer half-life. The characteristics of testosterone cypionate and testosterone enanthate are very similar, therefore both of them tend to be interchangeable.[6] It was developed by the company Pharmacia and Upjohn and FDA approved on July 25, 1979.
+4. Indication:  Testosterone cypionate is used in males that present conditions derived from a deficiency or absence of endogenous testosterone. These conditions are 1) primary hypogonadism, defined as the testicular failure due to cryptorchidism, bilateral torsion, orchitis, vanishing testis syndrome or orchidectomy; and 2) hypogonadotropic hypogonadism characterized by idiopathic gonadotropin, LHRH deficiency or pituitary-hypothalamic injury from tumors, trauma or radiation.[7]

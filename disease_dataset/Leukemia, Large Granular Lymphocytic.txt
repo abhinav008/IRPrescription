@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Inebilizumab
+2. Groups:  Investigational
+3. Description:  Inebilizumab has been used in trials studying the treatment of Blood Cancer, B-cell Malignancies, Advanced B Cell Malignancies, Chronic Lymphocytic Leukemia (CLL), and Diffuse Large B-Cell Lymphoma (DLBCL).
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Dacetuzumab
+2. Groups:  Investigational
+3. Description:  Dacetuzumab has been used in trials studying the treatment of Multiple Myeloma, Non-Hodgkin Lymphoma, Leukemia, Lymphocytic, Chronic, and Lymphoma, Large B-Cell, Diffuse. It is a humanized anti-CD40 antibody and induces cytotoxicity in human multiple myeloma cells.
+4. Indication:  Investigated for use/treatment in lymphoma (non-hodgkin's) and multiple myeloma.
+DrugId:  4
+1. Name:  Lirilumab
+2. Groups:  Investigational
+3. Description:  Lirilumab has been used in trials studying the treatment of Leukemia, CANCER,NOS, Multiple Myeloma, Lymphocytic Leukemia, and Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Spebrutinib
+2. Groups:  Investigational
+3. Description:  Spebrutinib has been used in trials studying the treatment of Rheumatoid Arthritis, Lymphoma, Large B-Cell, Diffuse, and Leukemia Lymphocytic Chronic B-Cell.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Samalizumab
+2. Groups:  Investigational
+3. Description:  Samalizumab has been used in trials studying the treatment of Multiple Myeloma and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Monalizumab
+2. Groups:  Investigational
+3. Description:  Monalizumab has been used in trials studying the treatment of Gynecologic Cancer, Chronic Lymphocytic Leukemia, and Squamous Cell Carcinoma of the Oral Cavity.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Milatuzumab
+2. Groups:  Investigational
+3. Description:  Milatuzumab has been used in trials studying the treatment of Lupus Nephritis, Multiple Myeloma (MM), GVHD (Acute or Chronic), Myelodysplastic Syndrome, and Chronic Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Ofatumumab
+2. Groups:  Approved
+3. Description:  Ofatumumab is a human monoclonal antibody for the CD20 protein. Ofatumumab binds specifically to both the small and large extracellular loops of the CD20 molecule. The CD20 molecule is expressed on normal B lymphocytes (pre-B- to mature B-lymphocyte) and on B-cell CLL. The Fab domain of ofatumumab binds to the CD20 molecule and the Fc domain mediates immune effector functions to result in B-cell lysis in vitro. Ofatumumab received FDA approval on April 17, 2014, for use in combination with chlorambucil, for the treatment of previously untreated patients with CLL for whom fludarabine-based therapy is considered inappropriate. Ofatumumab was also approved by Health Canada on August 13th, 2012. 
+4. Indication:  Ofatumumab is indicated for the treatment of patients with chronic lymphocytic leukemia (CLL) refractory to fludarabine and alemtuzumab.
+DrugId:  10
+1. Name:  Pinometostat
+2. Groups:  Investigational
+3. Description:  Pinometostat has been used in trials studying the treatment of Leukemia, Acute Leukemias, Acute Myeloid Leukemia, Myelodysplastic Syndrome, and Acute Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Daporinad
+2. Groups:  Investigational
+3. Description:  Daporinad has been used in trials studying the treatment of Melanoma, Cutaneous T-cell Lymphoma, and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Bafetinib
+2. Groups:  Investigational
+3. Description:  Bafetinib has been used in trials studying the treatment of Adult Gliosarcoma, Adult Mixed Glioma, Adult Glioblastoma, Chronic Myeloid Leukemia, and Acute Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Methylprednisone
+2. Groups:  Approved, Investigational
+3. Description:  Methylprednisone has been used in trials studying the treatment of Leukemia, Rheumatoid Arthritis, Renal Transplantation, Kidney Transplantation, and Acute Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Lumiliximab
+2. Groups:  Investigational
+3. Description:  Lumiliximab is a chimeric monoclonal antibody which is used as an immunosuppressive drug. It is a primatized anti-CD23 macaque/human chimeric antibody that inhibits the production of the IgE antibody, for the potential treatment of allergic conditions. Lumiliximab was developed by IDEC Pharmaceuticals, which was acquired by Biogen. Clinical trials for CLL were terminated in 2010, and for allergic asthma in 2007. Results published from the CLL clinical trial failed to meet primary endpoints.
+4. Indication:  Investigated for use/treatment in asthma and leukemia (lymphoid).
+DrugId:  15
+1. Name:  Cytarabine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)
+4. Indication:  For the treatment of acute non-lymphocytic leukemia, acute lymphocytic leukemia and blast phase of chronic myelocytic leukemia.
+DrugId:  16
+1. Name:  Alemtuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized monoclonal antibody specific to lymphocyte antigens. It is a recombinant DNA-derived humanized monoclonal antibody (Campath-1H) that is directed against the 21-28 kD cell surface glycoprotein,CD52. The Campath-1H antibody is an IgG1 kappa with human variable framework and constant regions, and complementarity-determining regions from a murine (rat) monoclonal antibody (Campath-1G). Campath is produced in mammalian cell (Chinese hamster ovary) suspension culture in a medium containing neomycin.
+4. Indication:  Alemtuzumab (Campath) is a monoclonal antibody therapy used for treatment of B-cell chronic lymphocytic leukemia.
+DrugId:  17
+1. Name:  Obinutuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Obinutuzumab is a humanized monoclonal antibody used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia. It was approved by the FDA in November 2013 and is marketed under the brand name Gazyva. There is a black box warning of fatal Hepatitis B Virus (HBV) reactivation and fatal Progressive Multifocal Leukoencephalopathy (PML).
+4. Indication:  Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
+DrugId:  18
+1. Name:  Briciclib
+2. Groups:  Investigational
+3. Description:  Briciclib has been used in trials studying the treatment of Lymphoma, Neoplasms, Advanced Solid Tumor, and Acute Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Sotrastaurin
+2. Groups:  Investigational
+3. Description:  Sotrastaurin has been used in trials studying the basic science and treatment of Uveal Melanoma, Richter Syndrome, Prolymphocytic Leukemia, Recurrent Mantle Cell Lymphoma, and Recurrent Small Lymphocytic Lymphoma, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Rabacfosadine
+2. Groups:  Investigational
+3. Description:  Rabacfosadine has been used in trials studying the treatment of Multiple Myeloma, Non-Hodgkin's Lymphoma, and Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  IPH 1101
+2. Groups:  Investigational
+3. Description:  IPH 1101 is a chemically-synthesized structural analog of non-conventional bacterial phosphoantigens which specifically activate the Vγ9Vδ2 T cell subset. IPH 1101 is the most advanced drug candidate of the γδ T cell platform
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C), leukemia (myeloid), and lymphoma (non-hodgkin's).
+DrugId:  22
+1. Name:  CC-115
+2. Groups:  Investigational
+3. Description:  CC-115 has been used in trials studying the treatment of Prostate Cancer, Neoplasm Metastasis, Ewing's Osteosarcoma, Glioblastoma Multiforme, and Chronic Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Idelalisib
+2. Groups:  Approved
+3. Description:  Idelalisib is a phosphoinositide 3-kinase inhibitor indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies. More specifically, idelalisib targets P110δ, the delta isoform of the enzyme phosphatidylinositol-4,5-bisphosphate 3-kinase, also known as PI-3K. The PI-3Ks are a family of enzymes involved in cellular functions such as cell growth, proliferation, differentiation, motility, survival and intracellular trafficking, which in turn are involved in cancer. In contrast to the other class IA PI3Ks p110α and p110β, p110δ is principally expressed in leukocytes (white blood cells) and is important for the function of T cells, B cell, mast cells and neutrophils. By inhibiting this enzyme, idelalisib induces apoptosis of malignant cells and inhibits several cell signaling pathways, including B-cell receptor (BCR) signaling and C-X-C chemokine receptors type 5 and type 4 signalling, which are involved in trafficking and homing of B-cells to the lymph nodes and bone marrow. Treatment of lymphoma cells with idelalisib has been shown to result in inhibition of chemotaxis and adhesion, and reduced cell viability.
+4. Indication:  Idelalisib is indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies.
+DrugId:  24
+1. Name:  Daunorubicin
+2. Groups:  Approved
+3. Description:  A very toxic anthracycline aminoglycoside antineoplastic isolated from Streptomyces peucetius and others, used in treatment of leukemia and other neoplasms. [PubChem]
+4. Indication:  For remission induction in acute nonlymphocytic leukemia (myelogenous, monocytic, erythroid) of adults and for remission induction in acute lymphocytic leukemia of children and adults.
+DrugId:  25
+1. Name:  Ibrutinib
+2. Groups:  Approved
+3. Description:  Ibrutinib is a small molecule that acts as an irreversible potent inhibitor of Burton's tyrosine kinase. It is designated as a targeted covalent drug and it presents a very promising activity in B cell malignancies.[4] Ibrutinib was developed by Pharmacyclics Inc and in November 2013 was FDA-approved for the treatment of mantle cell lymphoma. Later, in February 2014, ibrutinib was approved for the treatment of chronic lymphocytic leukemia and it is also indicated for the treatment of patients with Waldenström's Macroglobulinemia.[13] Ibrutinib has also been approved by the EMA for the treatment of chronic lymphocytic leukemia and mantle cell lymphoma.[4] Ibrutinib was approved for use in chronic graft versus host disease in August 2017 [12].
+4. Indication:  Ibrutinib acquired an accelerated approval for the treatment of mantle cell lymphoma who have received at least one prior therapy.[FDA Label] Mantle cell lymphoma (MCL) is a B-cell non-Hodgkin lymphoma that develops in the outer edge of a lymph node. MCL is usually diagnosed at late stages and it is easily spread into bone marrow, spleen, liver and gastrointestinal tract.[14]Ibrutinib is indicated for the treatment of chronic lymphocytic leukemia (CLL) who have at least one prior therapy.[FDA Label] CLL is a type of cancer caused by an overproduction of lymphocytes by the bone marrow. Some of the symptoms include swollen lymph nodes and tiredness.[15]Ibrutinib is indicated for the treatment of chronic lymphocytic leukemia (CLL) with 17p deletion.[FDA Label] CLL with 17p is a type of leukemia in which a deletion in 17p disrupts the tumor suppressor p53 by deleting one allele of the TP53 gene. The remaining allele is mainly inactivated and thus, this type of leukemia is unresponsive to p53-dependent treatments.[5]Ibrutinib is indicated for the treatment of patients with Waldenstrom's Macroglobulinemia (WM).[FDA Label] WM, also called lymphoplasmacytic lymphoma, is a type of non-Hodgkin lymphoma in which the cancer cells make large amounts of macroglobulin. The macroglobulin is a monoclonal protein that corresponds to the type of IgM antibodies and the unrestricted formation of this protein causes typical symptoms such as excessive bleeding and effects in vision and nervous system.[16]

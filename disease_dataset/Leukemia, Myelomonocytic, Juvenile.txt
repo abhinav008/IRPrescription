@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clofarabine
+2. Groups:  Approved, Investigational
+3. Description:  Clofarabine is a purine nucleoside antimetabolite that is being studied in the treatment of cancer. It is marketed in the U.S. and Canada as Clolar. In Europe and Australia/New Zealand the product is marketed under the name Evoltra.Clofarabine is used in paediatrics to treat a type of leukaemia called relapsed or refractory acute lymphoblastic leukaemia (ALL), only after at least two other types of treatment have failed. It is not known if the drug extends life expectancy. Some investigations of effectiveness in cases of acute myeloid leukaemia (AML) and juvenile myelomonocytic leukaemia (JMML) have been carried out.
+4. Indication:  For the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphocytic (lymphoblastic) leukemia after at least two prior regimens. It is designated as an orphan drug by the FDA for this use.
+DrugId:  2
+1. Name:  Birinapant
+2. Groups:  Investigational
+3. Description:  Birinapant has been investigated for the treatment of Myelodysplastic Syndrome (MDS) and Chronic Myelomonocytic Leukemia (CMML).
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Nilotinib
+2. Groups:  Approved, Investigational
+3. Description:  Nilotinib, also known as AMN107, is a tyrosine kinase inhibitor under investigation as a possible treatment for chronic myelogenous leukemia (CML). In June 2006, a Phase I clinical trial found nilotinib has a relatively favorable safety profile and shows activity in cases of CML resistant to treatment with imatinib (Gleevec®), another tyrosine kinase inhibitor currently used as a first-line treatment. [Wikipedia]
+4. Indication:  For the potential treatment of various leukemias, including chronic myeloid leukemia (CML).
+DrugId:  4
+1. Name:  Decitabine
+2. Groups:  Approved, Investigational
+3. Description:  Decitabine is indicated for treatment of patients with myelodysplastic syndrome (MDS). It is a chemical analogue of cytidine, a nucleoside present in DNA and RNA. Cells in the presence of Decitabine incorporate it into DNA during replication and RNA during transcription. The incorporation of Decitabine into DNA or RNA inhibits methyltransferase thereby causing demethylation in that sequence. This adversely affects the way that cell regulatory proteins are able to bind to the DNA/RNA substrate.
+4. Indication:  For treatment of patients with myelodysplastic syndromes (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia) and intermediate-1, intermediate-2, and high-risk International Prognostic Scoring System groups (scores ≥0.5).
+DrugId:  5
+1. Name:  Azacitidine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analogue that inhibits DNA methyltransferase, impairing DNA methylation. It is also an antimetabolite of cytidine, incorporated primarily into RNA. Azacytidine has been used as an antineoplastic agent. [PubChem]
+4. Indication:  For treatment of patients with the following French-American-British myelodysplastic syndrome subtypes: refractory anemia or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts, refractory anemia with excess blasts in transformation (now classified as acute myelogenous leukemia with multilineage dysplasia), and chronic myelomonocytic leukemia.
+DrugId:  6
+1. Name:  Beclanorsen
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  7
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Givinostat
+2. Groups:  Investigational
+3. Description:  Givinostat has been used in trials studying the treatment of Polycythemia Vera, Juvenile Idiopathic Arthritis, Duchenne Muscular Dystrophy (DMD), Chronic Myeloproliferative Neoplasms, and Polyarticular Course Juvenile Idiopathic Arthritis.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Lirilumab
+2. Groups:  Investigational
+3. Description:  Lirilumab has been used in trials studying the treatment of Leukemia, CANCER,NOS, Multiple Myeloma, Lymphocytic Leukemia, and Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Methotrexate
+2. Groups:  Approved
+3. Description:  An antineoplastic antimetabolite with immunosuppressant properties. It is an inhibitor of tetrahydrofolate dehydrogenase and prevents the formation of tetrahydrofolate, necessary for synthesis of thymidylate, an essential component of DNA.
+4. Indication:  Methotrexate is indicated in the treatment of gestational choriocarcinoma, chorioadenoma destruens and hydatidiform mole. In acute lymphocytic leukemia, methotrexate is indicated in the prophylaxis of meningeal leukemia and is used in maintenance therapy in combination with other chemotherapeutic agents. Methotrexate is also indicated in the treatment of meningeal leukemia. Methotrexate is used alone or in combination with other anticancer agents in the treatment of breast cancer, epidermoid cancers of the head and neck, advanced mycosis fungoides (cutaneous T cell lymphoma), and lung cancer, particularly squamous cell and small cell types. Methotrexate is also used in combination with other chemotherapeutic agents in the treatment of advanced stage non-Hodgkin’s lymphomas. Methotrexate is indicated in the symptomatic control of severe, recalcitrant, disabling psoriasis. Methotrexate is indicated in the management of selected adults with severe, active rheumatoid arthritis (ACR criteria), or children with active polyarticular-course juvenile rheumatoid arthritis. 
+DrugId:  12
+1. Name:  Tocilizumab
+2. Groups:  Approved
+3. Description:  Tocilizumab is a recombinant, humanized, anti-human interleukin 6 (IL-6) receptor monoclonal antibody that achieves a significant therapeutic response rate. The light chain is made up of 214 amino acids. The heavy chain is made up of 448 amino acids. The four polypeptide chains are linked intra- and inter-molecularly by disulfide bonds. FDA approved on January 8, 2010. Tocilizumab (injection) was further approved by the FDA for the treatment of adults with giant cell arteritis, an inflammation of the blood vessels (vasculitis) in May, 2017. In a double-blind, placebo-controlled study, the patients achieved sustained remission from Week 12 through Week 52, which was associated with significant improvements in symptoms of giant cell arteritis, normalization of inflammatory laboratory tests and tapering the use of corticosteroids [2].
+4. Indication:  Indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis (RA) who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs). It is also indicated for the treatment of active polyarticular juvenile idiopathic arthritis (PJIA) and active systemic juvenile idiopathic arthritis (SJIA) in patients 2 years of age and older.
+DrugId:  13
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Neocartilage
+2. Groups:  Investigational
+3. Description:  Neocartilage, a novel cartilage regeneration treatment. Neocartilage is generated from juvenile rather than adult chondrocytes. Neocartilage is the only scaffold-free living cartilage graft on the market. 
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  15
+1. Name:  XL228
+2. Groups:  Investigational
+3. Description:  XL228 is a novel anticancer compound designed to inhibit the insulin-like growth factor type-1 receptor (IGF1R), Src and Abl tyrosine kinases – targets that play crucial roles in cancer cell proliferation, survival and metastasis.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and leukemia (myeloid).
+DrugId:  16
+1. Name:  NBI-6024
+2. Groups:  Investigational
+3. Description:  NBI-6024 is an altered peptide ligand that is designed to cause an immune response which result in preservation of beta-cell function and endogenous insulin production. 
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1 and pediatric indications.
+DrugId:  17
+1. Name:  Urelumab
+2. Groups:  Investigational
+3. Description:  Urelumab has been used in trials studying the treatment of Leukemia, Multiple Myeloma, Malignant Tumors, and Cancer - Solid Tumors and B-Cell Non-Hodgkin's Lymphoma.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Sotatercept
+2. Groups:  Investigational
+3. Description:  Sotatercept has been used in trials studying the supportive care and treatment of Anemia, Leukemia, Solid Tumors, Bladder Cancer, and multiple myeloma, among others.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  CMLVAX100
+2. Groups:  Investigational
+3. Description:  CMLVAX100 is a vaccine targeting the BCR-ABL-derived p210 fusion protein which reduces residual disease in some patients with chronic myeloid leukemia. It is developed by Breakthrough Therapeutics and has completed phase I of its clinical trial.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid).
+DrugId:  20
+1. Name:  Samalizumab
+2. Groups:  Investigational
+3. Description:  Samalizumab has been used in trials studying the treatment of Multiple Myeloma and B-cell Chronic Lymphocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Monalizumab
+2. Groups:  Investigational
+3. Description:  Monalizumab has been used in trials studying the treatment of Gynecologic Cancer, Chronic Lymphocytic Leukemia, and Squamous Cell Carcinoma of the Oral Cavity.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Canakinumab
+2. Groups:  Approved, Investigational
+3. Description:  Canakinumab is a recombinant, human anti-human-IL-1β monoclonal antibody that belongs to the IgG1/κ isotype subclass. It is expressed in a murine Sp2/0-Ag14 cell line and comprised of two 447- (or 448-) residue heavy chains and two 214-residue light chains, with a molecular mass of 145157 Daltons when deglycosylated. Both heavy chains of canakinumab contain oligosaccharide chains linked to the protein backbone at asparagine 298 (Asn 298). Canakinumab binds to human IL-1β and neutralizes its inflammatory activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1alpha or IL-1 receptor antagonist (IL-1ra). Canakinumab is marketed under the brand name Ilaris and indicated for patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). Clinical trials have established the administration of canakinumab every 2 weeks to be safe and effective, offering a considerable advantage over the existing treatment with the human IL-1 receptor antagonist, anakinra, which must be injected daily and which is often poorly tolerated by patients.
+4. Indication:  Used in patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). 
+DrugId:  23
+1. Name:  Asfotase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Asfotase Alfa is a first-in-class bone-targeted enzyme replacement therapy designed to address the underlying cause of hypophosphatasia (HPP)—deficient alkaline phosphatase (ALP). Hypophosphatasia is almost always fatal when severe skeletal disease is obvious at birth. By replacing deficient ALP, treatment with Asfotase Alfa aims to improve the elevated enzyme substrate levels and improve the body's ability to mineralize bone, thereby preventing serious skeletal and systemic patient morbidity and premature death. Asfotase alfa was first approved by Pharmaceuticals and Medicals Devices Agency of Japan (PMDA) on July 3, 2015, then approved by the European Medicine Agency (EMA) on August 28, 2015, and was approved by the U.S. Food and Drug Administration (FDA) on October 23, 2015. Asfotase Alfa is marketed under the brand name Strensiq® by Alexion Pharmaceuticals, Inc. The annual average price of Asfotase Alfa treatment is $285,000. 
+4. Indication:  Indicated for the treatment of patients with perinatal/infantile and juvenile onset hypophosphatasia (HPP). 
+DrugId:  24
+1. Name:  IDM-4
+2. Groups:  Investigational
+3. Description:  IDM-4 is an immuno-designed molecule that completed phase I/II of investigation for the treatment of Leukemia. It is a monoclonal antibody-specific antigen that can selectively target cancer-affected cells by coupling with tumor cell-killing MAK cells, which are derived from the patient's own monocytes. Trials of this drug have most likely been discontinued by the manufacturer.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid).
+DrugId:  25
+1. Name:  Lorvotuzumab mertansine
+2. Groups:  Investigational
+3. Description:  Lorvotuzumab mertansine has been used in trials studying the treatment of SCLC, Leukemia, Ovarian Cancer, Multiple Myeloma, and Merkel Cell Carcinoma, among others.
+4. Indication:  Not Available

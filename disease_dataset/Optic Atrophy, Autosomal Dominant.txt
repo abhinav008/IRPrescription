@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Imidapril
+2. Groups:  Investigational
+3. Description:  Imidapril has been investigated for the treatment of Kidney, Polycystic, Autosomal Dominant.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Alirocumab
+2. Groups:  Approved
+3. Description:  Alirocumab is a biopharmaceutical drug approved by the FDA in July 2015 as a second line treatment for high cholesterol for adults whose LDL-cholesterol (LDL-C) is not controlled by diet and statin treatment. It is a human monoclonal antibody administered by subcutaneous injection that belongs to a novel class of anti-cholesterol drugs, known as PCSK9 inhibitors, and it was the first such agent to receive FDA approval. The FDA approval was contingent on the completion of further clinical trials to better determine efficacy and safety. PCSK9 inhibition facilitates more LDL-C clearance from the blood.
+4. Indication:  Alirocumab is indicated as an adjunct to diet and maximally tolerated statin therapy in adults who require additional LDL-cholesterol (LDL-C) lowering due to heterozygous familial hypercholesterolemia or clinical atherosclerotic cardiovascular disease.
+DrugId:  3
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  4
+1. Name:  Ecallantide
+2. Groups:  Approved, Investigational
+3. Description:  Ecallantide is a potent and selective human plasma kallikrein inhibitor that is indicated for the symptomatic treatment of hereditary angioedema. Ecallantide is a recombinant 60-amino-acid protein produced in Pichia pastoris yeast cells that contains three intramolecular disulfide bonds [FDA Label]. It was discovered by phage display technology [4]. It shares sequence similarities with the naturally occurring human protein tissue-factor pathway inhibitor (TFPI), which is also known lipoprotein-associated coagulation inhibitor (LACI) [5]. The amino acid sequence of two compounds differ by seven amino acids [5]. Ecallantide works by blocking kallikrein to participate in the kallikrein-kinin system, which is a complex proteolytic cascade that initiates inflammatory and coagulation pathways [FDA Label]. The protease plasma kallikerin facilitates the conversion of kininogen to bradykinin, which is a pro-inflammatory vasodilator that increases vascular permeability and induces pain [1]. Hereditary angioedema is a rare autosomal dominant disorder with mutations to C1-esterase-inhibitor (C1-INH) located on Chromosome 11q, resulting in substantially lower levels of C4 and C1-INH activity [FDA Label]. The disorder is associated with recurrent attacks of severe swelling and is thought to be caused by unregulated activity of kallikrein and excessive bradykinin production [FDA Label]. By reversibly binding to plasma kallikrein, ecallantide displays a rapid on-rate and a slow off-rate that results in high affinity inhibition in the picomolar range [5]. Ecallantide is marketed by FDA and EMA under the trade name Kalbitor for subcutaneous injection. Apart from its FDA and EMA indication, ecallantide has been used off label in the management of nonhistaminergic angioedema, not due to HAE [4].
+4. Indication:  Indicated for the symptomatic treatment of acute attacks of hereditary angioedema (HAE) in patients 12 years of age and older [FDA Label].
+DrugId:  5
+1. Name:  DNB-001
+2. Groups:  Investigational
+3. Description:  DNB-001 is a first-in-class oral therapy with dual mechanism of action, which is initially being developed for the treatment of glaucoma. In preclinical animal models, DNB-001 has demonstrated potent IOP- lowering effects as well as neuroprotective effects on the optic nerve.
+4. Indication:  Investigated for use/treatment in ocular hypertension.
+DrugId:  6
+1. Name:  Q-Derp1
+2. Groups:  Investigational
+3. Description:  Q-Derp1 is developed by Cytos Biotechnology as an immunodrug. It is an antigen for the prevention of various major chronic diseases. Derp1 is the dominant allergic protein found in dust mite feces.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Lampalizumab
+2. Groups:  Investigational
+3. Description:  Lampalizumab has been used in trials studying the treatment of Geographic Atrophy.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Tesidolumab
+2. Groups:  Investigational
+3. Description:  Tesidolumab has been used in trials studying the treatment of Geographic Atrophy, Non-infectious Panuveitis, Exudative Macular Degeneration, Non-infectious Posterior Uveitis, and Age-related Macular Degeneration, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Landogrozumab
+2. Groups:  Investigational
+3. Description:  Landogrozumab has been used in trials studying the treatment of Advanced Cancer, Muscular Atrophy, and Pancreatic Cancer.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Hydroxocobalamin
+2. Groups:  Approved
+3. Description:  Hydroxocobalamin, also known as vitamin B12a and hydroxycobalamin, is an injectable form of vitamin B 12 that has been used therapeutically to treat vitamin B 12 deficiency. Other uses include cyanide poisoning, Leber's optic atrophy, and toxic amblyopia.
+4. Indication:  For treatment of pernicious anemia and the prevention and treatment of vitamin B12 deficiency arising from alcoholism, malabsorption, tapeworm infestation, celiac, hyperthyroidism, hepatic-biliary tract disease, persistent diarrhea, ileal resection, pancreatic cancer, renal disease, prolonged stress, vegan diets, macrobiotic diets or other restrictive diets. Also for the treatment of known or suspected cyanide poisoning.
+DrugId:  11
+1. Name:  Sodium monofluorophosphate
+2. Groups:  Approved
+3. Description:  Sodium monofluorophosphate is used in OTC dental preparations to help protect against cavities
+4. Indication:  Sodium monofluorophosphate is indicated for the treatment of cavities
+DrugId:  12
+1. Name:  Romiplostim
+2. Groups:  Approved
+3. Description:  Romiplostim is a thrombopoiesis stimulating dimer Fc-peptide fusion protein (peptibody) to increase platelet production through activation of the thrombopoietin receptor. The peptibody molecule has two identical single-chain subunits, each one is made up of 269 amino acid residues. Each subunit consists of an IgG1 Fc carrier domain that is covalently attached to a polypeptide sequence that contains two binding domains to interact with thrombopoietin receptor c-Mpl. Each domain consists of 14 amino acids. Interestingly, romiplostim's amino acid sequence is not similar to that of endogenous thrombopoietin. Romiplostim is produced by recombinant DNA technology in Escherichia coli. FDA approved on August 22, 2008.
+4. Indication:  Treatment of chronic immune thrombocytopenic purpura. 
+DrugId:  13
+1. Name:  Pheniprazine
+2. Groups:  Withdrawn
+3. Description:  Pheniprazine is an irreversible and nonselective monoamine oxidase inhibitor (MAOI) of the hydrazine chemical class that was used as an antidepressant in the 1960s. It was also used in the treatment of angina pectoris and schizophrenia. Pheniprazine has been largely discontinued due to toxicity concerns such as jaundice, amblyopia, and optic neuritis.
+4. Indication:  For the treatment of depression, schizophrenia, and angina pectoris.
+DrugId:  14
+1. Name:  Isoflavone
+2. Groups:  Approved, Investigational
+3. Description:  Isoflavone has been used in trials studying the treatment of Atrophy, Menopause, and Postmenopausal Symptoms.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Nerispirdine
+2. Groups:  Investigational
+3. Description:  Nerispirdine has been used in trials studying the treatment of Neuritis, Optic Nerve, and Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Verdiperstat
+2. Groups:  Investigational
+3. Description:  Verdiperstat has been used in trials studying the basic science and treatment of Multiple System Atrophy (MSA).
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Emixustat
+2. Groups:  Investigational
+3. Description:  Emixustat has been used in trials studying the treatment of Geographic Atrophy, Age-Related Macular Degeneration, and Dry Age-related Macular Degeneration.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Dirucotide
+2. Groups:  Investigational
+3. Description:  Dirucotide is a synthetic peptide that consists of 17 amino acids linked in a sequence identical to that of a portion of human myelin basic protein (MBP). Dirucotide has been developed for the treatment of multiple sclerosis (MS). Developed at the University of Alberta, dirucotide is being investigated by BioMS Medical Corp.
+4. Indication:  For the treatment of multiple sclerosis (MS).
+DrugId:  19
+1. Name:  Nusinersen
+2. Groups:  Approved, Investigational
+3. Description:  An antisense oligonucleotide that induces survival motor neuron (SMN) protein expression, it was approved by the U.S. FDA in December, 2016 as Spinraza for the treatment of children and adults with spinal muscular atrophy (SMA). It is adminstrated as direct intrathecal injection.
+4. Indication:  Indicated for the treatment of spinal muscular atrophy (SMA) in pediatric and adult patients. 
+DrugId:  20
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  21
+1. Name:  Synthetic Conjugated Estrogens, A
+2. Groups:  Approved
+3. Description:  Synthetic conjugated estrogens A are composed of a blend of the following nine synthetic estrogenic substances: estrone sulfate, sodium equilin sulfate, sodium 17α-dihydroequilin sulfate, sodium 17α-estradiol sulfate, sodium 17β­ dihydroequilin sulfate, sodium 17α-dihydroequilenin sulfate, sodium 17β-dihydroequilenin sulfate, sodium equilenin sulfate, and sodium 17β-estradiol sulfate. This blend of nine estrogen derivatives are plant-derived forms of endogenous estrogens and contain many of the same compounds as the Conjugated Equine Estrogens (CEEs), although they are not considered to be equivalent. Available as the product Enjuvia (FDA), this combination of plant-derived estrogenic compounds is indicated for the treatment of moderate to severe vasomotor symptoms and vulvovaginal atrophy associated with menopause. All estrogen products mimic the effects of endogenous estrogens in the body which are responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Estrogens act by binding to estrogen receptors on a wide variety of tissues in the body and modulating the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH) through a negative feedback mechanism. Prior to menopause, the primary source of estrogen is the ovarian follicle, which secretes 70-500 micrograms of estradiol daily, depending on the phase of the menstrual cycle. However, once a woman stops ovulating there is a sharp decline in the production of progesterone and estradiol by the ovaries and a consequent fluctuation in LH and FSH due to a lack of feedback control. This shift in hormone production is largely responsible for many of the symptoms experienced during and after menopause and includes hot flashes and other vasomotor symptoms, painful intercourse, vaginal dryness, and vulvovaginal atrophy. These symptoms are able to be reduced by replacing many of the hormones lost during and following menopause with synthetic or naturally occurring forms, in a therapy known as Hormone Replacement Therapy (HRT).Pharmacologic estrogen products are available in a variety of formats. Although many of them contain several compounds in common (such as the estrogen derivatives sodium estrone sulfate and sodium equilin sulfate), they vary by their original source (such as horse-, human-, or plant-derived), and the remaining mixture of estrogenic derivatives. Conjugated Equine Estrogens (CEEs) are derived from the urine of pregnant mares and contain a blend of at least 10 estrogen derivatives. Marketed under the brand name Premarin, CEEs are the most frequently used form of conjugated estrogens. There is currently no generic form of CEEs available as a detailed analytical characterization of the active ingredients or of their estrogenic activity is not available at this time. Conjugated estrogens are also available in a plant-derived synthetic form that replicates the naturally occurring, horse-derived forms. Available as either "Synthetic Conjugated Estrogens, A" containing 9 estrogen derivatives (available as Cenestin) or as "Synthetic Conjugated Estrogens, B" containing 10 estrogen derivatives (available as Enjuvia), these products are isolated as precursors from yam or soy plants and then chemically modified to mimic the products available in their naturally occurring form. 
+4. Indication:  For the treatment of moderate to severe vasomotor symptoms due to menopause and for treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.
+DrugId:  22
+1. Name:  SRT-2104
+2. Groups:  Investigational
+3. Description:  SRT2104 has been investigated for the basic science and treatment of Sepsis, PSORIASIS, Atrophy, Muscular, and Diabetes Mellitus, Type 2.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Ospemifene
+2. Groups:  Approved, Investigational
+3. Description:  Ospemifene is a new selective non-hormonal estrogen receptor modulator (SERM) that is used for the treatment of moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause. FDA approved on February 26, 2013. 
+4. Indication:  Ospemifene is used for the treatment of moderate to dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause.
+DrugId:  24
+1. Name:  Synthetic Conjugated Estrogens, B
+2. Groups:  Approved
+3. Description:  Synthetic conjugated estrogens, B tablets contain a blend of ten synthetic estrogenic substances. The estrogenic substances are: sodium estrone sulfate, sodium equilin sulfate, sodium 17α-dihydroequilin sulfate, sodium 17α-estradiol sulfate, sodium 17β­ dihydroequilin sulfate, sodium 17α-dihydroequilenin sulfate, sodium 17β-dihydroequilenin sulfate, sodium equilenin sulfate, sodium 17β-estradiol sulfate, and sodium Δ8,9-dehydroestrone sulfate. This blend of ten estrogen derivatives are plant-derived forms of endogenous estrogens and contain many of the same compounds as the Conjugated Equine Estrogens (CEEs), although they are not considered to be equivalent. Available as the product Cenestin (FDA), this combination of plant-derived estrogenic compounds is indicated for the treatment of moderate to severe vasomotor symptoms, vulvovaginal atrophy, vaginal dryness, and paint with intercourse associated with menopause. All estrogen products mimic the effects of endogenous estrogens in the body which are responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Estrogens act by binding to estrogen receptors on a wide variety of tissues in the body and modulating the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH) through a negative feedback mechanism. Prior to menopause, the primary source of estrogen is the ovarian follicle, which secretes 70-500 micrograms of estradiol daily, depending on the phase of the menstrual cycle. However, once a woman stops ovulating there is a sharp decline in the production of progesterone and estradiol by the ovaries and a consequent fluctuation in LH and FSH due to a lack of feedback control. This shift in hormone production is largely responsible for many of the symptoms experienced during and after menopause and includes hot flashes and other vasomotor symptoms, painful intercourse, vaginal dryness, and vulvovaginal atrophy. These symptoms are able to be reduced by replacing many of the hormones lost during and following menopause with synthetic or naturally occurring forms, in a therapy known as Hormone Replacement Therapy (HRT).Pharmacologic estrogen products are available in a variety of formats. Although many of them contain several compounds in common (such as the estrogen derivatives sodium estrone sulfate and sodium equilin sulfate), they vary by their original source (such as horse-, human-, or plant-derived), and the remaining mixture of estrogenic derivatives. Conjugated Equine Estrogens (CEEs) are derived from the urine of pregnant mares and contain a blend of at least 10 estrogen derivatives. Marketed under the brand name Premarin, CEEs are the most frequently used form of conjugated estrogens. There is currently no generic form of CEEs available as a detailed analytical characterization of the active ingredients or of their estrogenic activity is not available at this time. Conjugated estrogens are also available in a plant-derived synthetic form that replicates the naturally occurring, horse-derived forms. Available as either "Synthetic Conjugated Estrogens, A" containing 9 estrogen derivatives (available as Cenestin) or as "Synthetic Conjugated Estrogens, B" containing 10 estrogen derivatives (available as Enjuvia), these products are isolated as precursors from yam or soy plants and then chemically modified to mimic the products available in their naturally occurring form. 
+4. Indication:  For the treatment of moderate to severe vasomotor symptoms due to menopause and for the treatment of moderate to severe vaginal dryness, pain with intercourse, and symptoms of vulvar and vaginal atrophy due to menopause.
+DrugId:  25
+1. Name:  Carteolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used as an anti-arrhythmia agent, an anti-angina agent, an antihypertensive agent, and an antiglaucoma agent. [PubChem]
+4. Indication:  For the treatment of intraocular hypertension and chronic open-angle glaucoma

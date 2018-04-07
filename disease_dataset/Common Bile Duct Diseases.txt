@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Adecatumumab
+2. Groups:  Investigational
+3. Description:  Adecatumumab is a recombinant human monoclonal antibody of the IgG1 subclass with a binding specificity to epithelial cell adhesion molecule (EpCAM). EpCAM (CD326) is a cell surface protein that is frequently expressed at high level on most solid tumor types, including prostate, breast, colon, gastric, ovarian, pancreatic and lung cancer.
+4. Indication:  Investigated for use/treatment in breast cancer and prostate cancer.
+DrugId:  3
+1. Name:  Obeticholic acid
+2. Groups:  Approved
+3. Description:  Obeticholic acid is a farnesoid-X receptor (FXR) agonist and is used to treat a number of liver diseases. [1] Obeticholic acid has been granted accelerated approval to treat primary biliary cholangitis in combination with ursodeoxycholic acid. [1] Approval is limited to monotherapy in patient's who are intolerant to ursodeoxycholic acid, or in combination with ursodeoxycholic acid in adults who have not responded adequately to ursodeoxyholic acid alone. [1]Obeticholic acid given orally, binds to the farnesoid X receptor (FXR), a receptor found in the nucleus of cells in the liver and intestine. FXR is a key regulator of bile acid metabolic pathways. Obeticholic acid increases bile flow from the liver and suppresses bile acid production in the liver, thus reducing the exposure of the liver to toxic levels of bile acids.
+4. Indication:  Investigated for use/treatment in liver disease.Obeticholic acid was approved as an orphan drug based on its reduction in the level of the biomarker alkaline phosphatase as a surrogate endpoint for clinical benefit. It is indicated for the treatment of primary biliary cholangitis in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in adults unable to tolerate UDCA. Additional studies are being required to prove its clinical benefit.
+DrugId:  4
+1. Name:  Human secretin
+2. Groups:  Approved
+3. Description:  Human secretin is a gastrointestinal peptide hormone that regulates secretions in the stomach, pancreas, and liver. The hormone is produced from the enterochromaffin cells in the duodenum in response to the duodenal content with the pH less than 4.5 [5]. The main action of secretin is to stimulate the pancreas to secrete pancreatic juice for pH regulation in the small intestines. Secretin is also responsible in body fluid homeostasis [4] and bile production. Although it is a gastrointestinal hormone, secretin is also considered as a neuropeptide hormone since it is also expressed in the central nervous system [3].Purified synthetic human secretin, also referred to as RG1068, is available as an intravenous injection under the market name ChiRhoStim ® in the U.S.. It contains an amino acid sequence identical to the naturally occurring hormone consisting of 27 amino acids [FDA Label] that supports α-helical formation [3]. The carboxyl-terminal amino acid, valine, is amidated. Synthetic human secretin displays equivalent biological activity and properties as naturally-occurring secretin [1]. It is indicated for the stimulation of the pancreatic and gastric secretions to aid in the diagnosis of pancreatic exocrine dysfunction and the diagnosis of gastrinoma, and facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP).
+4. Indication:  Indicated for the stimulation of:pancreatic secretions, including bicarbonate, to aid in the diagnosis of pancreatic exocrine dysfunction [FDA Label].gastrin secretion to aid in the diagnosis of gastrinoma [FDA Label].pancreatic secretions to facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP) [FDA Label].
+DrugId:  5
+1. Name:  Ceruletide
+2. Groups:  Approved
+3. Description:  Caerulein is a specific decapeptide similar in action and composition to the natural gastrointestinal peptide hormone cholecystokinin. It stimulates gastric, biliary, and pancreatic secretion; and certain smooth muscle.
+4. Indication:  Caerulein stimulates gastric, biliary, and pancreatic secretion; and certain smooth muscle. As such, it is used in paralytic ileus and as diagnostic aid in pancreatic malfunction.
+DrugId:  6
+1. Name:  Sincalide
+2. Groups:  Approved
+3. Description:  Sincalide is a cholecystokinetic drug administered by injection to aid in diagnosing disorders of the gallbladder and pancreas. It is the 8-amino acid C-terminal fragment of cholecystokinin, also known as CCK-8. Endogenous cholecystokinin is a gastrointestinal peptide hormone responsible for stimulating the digestion of fat and protein. When injected intravenously, sincalide produces a substantial reduction in gallbladder size by causing this organ to contract. The evacuation of bile that results is similar to that which occurs physiologically in response to endogenous cholecystokinin. Furthermore, sincalide stimulates pancreatic secretion of bicarbonate and enzymes.As the product Kinevac (FDA), sincalide is used for the following indications: 1) to stimulate gallbladder contraction, as may be assessed by various methods of diagnostic imaging, or to obtain by duodenal aspiration a sample of concentrated bile for analysis of cholesterol, bile salts, phospholipids, and crystals; (2) to stimulate pancreatic secretion (especially in conjunction with secretin) prior to obtaining a duodenal aspirate for analysis of enzyme activity, composition, and cytology; (3) to accelerate the transit of a barium meal through the small bowel, thereby decreasing the time and extent of radiation associated with fluoroscopy and x-ray examination of the intestinal tract.
+4. Indication:  As the product Kinevac (FDA), sincalide is used for the following indications: 1) to stimulate gallbladder contraction, as may be assessed by various methods of diagnostic imaging, or to obtain by duodenal aspiration a sample of concentrated bile for analysis of cholesterol, bile salts, phospholipids, and crystals; (2) to stimulate pancreatic secretion (especially in conjunction with secretin) prior to obtaining a duodenal aspirate for analysis of enzyme activity, composition, and cytology; (3) to accelerate the transit of a barium meal through the small bowel, thereby decreasing the time and extent of radiation associated with fluoroscopy and x-ray examination of the intestinal tract.
+DrugId:  7
+1. Name:  Latiglutenase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in gastrointestinal diseases and disorders (miscellaneous) and autoimmune diseases such as celiac disease.
+DrugId:  8
+1. Name:  Daclatasvir
+2. Groups:  Approved, Investigational
+3. Description:  Daclatasvir is a direct-acting antiviral agent against Hepatitis C Virus (HCV) used for the treatment of chronic HCV genotype 1 and 3 infection. It is marketed under the name DAKLINZA and is contained in daily oral tablets as the hydrochloride salt form . Hepatitis C is an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [8]. Daclatasvir was the first drug with demonstrated safety and therapeutic efficacy in treating HCV genotype 3 without the need for co-administration of interferon or Ribavirin. It exerts its antiviral action by preventing RNA replication and virion assembly via binding to NS5A, a nonstructural phosphoprotein encoded by HCV. Binding to the N-terminus of the D1 domain of NS5A prevents its interaction with host cell proteins and membranes required for virion replication complex assembly. Daclatasvir is shown to target both the cis- and trans-acting functions of NS5A and disrupts the function of new HCV replication complexes by modulating the NS5A phosphorylation status [3]. The most common critical NS5A amino acid substitutions that led to reduced susceptibility to daclatasvir therapy occured at position Q30 (Q30H/K/R) and M28 in genotype 1a patients and Y93H in genotype 3 patients. According to 2017 American Association for the Study of Liver Diseases (AASLD), 60mg of daclatasvir is recommended with 400mg Sofosbuvir for genotype 1a/b patients with or without cirrhosis as second-line therapy. The same dosing regimen can be used as first-line therapy in patients with genotype 3 without cirrhosis and second-line therapy in genotype 3 patients with compensated cirrhosis. Combination therapies that include daclatasir can be used for challenging-to-treat patients who have HIV-1 coinfection, advanced cirrhosis, or post-liver transplant recurrence of HCV [9]. The therapy is intended to cure or achieve a sustained virologic response (SVR12), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [6]. Daclatasvir was FDA-approved in July 2015 for use with Sofosbuvir (Sovaldi) with or without Ribavirin to treat HCV genotype 1 and 3 infections. The SVR12 in HCV genotype 1a-infected treatment-naïve subjects without and with cirrhosis undergoing daclatasvir and Sofosbuvir therapy were 88% and 99%, respectively [FDA Label]. The same dosing regimen in treatment-naïve patients with HCV genotype 3 infection with or without cirrhosis achieved SVR12 rates of 71% and 98%, respectively [FDA Label].
+4. Indication:  Indicated for use with sofosbuvir, with or without ribavirin, for the treatment of chronic HCV genotype 1a/b or 3 infection. The dosing regimen of 60mg daclatasvir 60 mg with 400mg sofosbuvir once a day is recommended for both genontypes. Resistance: Reduced susceptibility to daclatasvir was associated with the polymorphisms at NS5A amino acid positions M28, Q30, L31, and Y93 in genotypes 1a, 1b, and 3a patients. NS5A Resistance Testing is recommended for HCV genotype 1a-infected patients with cirrhosis prior to the initiaition of the treatment, as the risk of resistance development is higher in genotype 1a patients. 
+DrugId:  9
+1. Name:  MYO-029
+2. Groups:  Investigational
+3. Description:  MYO-029 is a human anti-GDF-8 monoclonal antibody, which is being developed to treat muscle-wasting diseases including muscular dystrophy and age-related sarcopenia. 
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  10
+1. Name:  Omalizumab
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant DNA-derived humanized IgG1k monoclonal antibody that selectively binds to human immunoglobulin E (IgE). Xolair is produced by a Chinese hamster ovary cell suspension culture in a nutrient medium containing the antibiotic gentamicin.
+4. Indication:  For treatment of asthma caused by allergies
+DrugId:  11
+1. Name:  Denosumab
+2. Groups:  Approved
+3. Description:  Denosumab is a novel, fully human IgG2 monoclonal antibody specific to receptor activator of nuclear factor kappa-B ligand (RANKL), suppresses bone resorption markers in patients with a variety of metastatic tumors and is being investigated in multiple clinical trials for the prevention and treatment of bone metastases. Chemically, it consists of 2 heavy and 2 light chains. Each light chain consists of 215 amino acids. Each heavy chain consists of 448 amino acids with 4 intramolecular disulfides. FDA approved on June 1, 2010. 
+4. Indication:  Prolia is indicated for the treatment of postmenopausal women with osteoporosis at high risk for fracture. It reduces the incidence of vertebral, nonvertebral, and hip fractures. Prolia is also indicated as a treatment to increase bone mass in women at high risk for fracture receiving adjuvant aromatase inhibitor therapy for breast cancer. It can also be used in men with osteoporosis at high risk for fracture or in men receiving androgen deprivation therapy for nonmetastatic prostate cancer to increase bone mass. Xgeva is indicated for the prevention of skeletal-related events in patients with bone metastases from solid tumors.
+DrugId:  12
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
+DrugId:  13
+1. Name:  Cholic Acid
+2. Groups:  Approved
+3. Description:  A major primary bile acid produced in the liver and usually conjugated with glycine or taurine. It facilitates fat absorption and cholesterol excretion. [PubChem]Cholic acid, formulated as Cholbam capsules, is approved by the United States Food and Drug Administration as a treatment for children and adults with bile acid synthesis disorders due to single enzyme defects, and for peroxisomal disorders (such as Zellweger syndrome).
+4. Indication:  Oral cholic acid is indicated for: treatment of bile acid synthesis disorders due to single enzyme defects; and as adjunctive treatment of peroxisomal disorders including Zellweger spectrum disorders in patients who exhibit manifestations of liver disease, steatorrhea or complications from decreased fat soluble vitamin absorption. 
+DrugId:  14
+1. Name:  Chenodeoxycholic acid
+2. Groups:  Approved
+3. Description:  Chenodeoxycholic acid (or Chenodiol) is an epimer of ursodeoxycholic acid (DB01586). Chenodeoxycholic acid is a bile acid naturally found in the body. It works by dissolving the cholesterol that makes gallstones and inhibiting production of cholesterol in the liver and absorption in the intestines, which helps to decrease the formation of gallstones. It can also reduce the amount of other bile acids that can be harmful to liver cells when levels are elevated.
+4. Indication:  Chenodiol is indicated for patients with radiolucent stones in well-opacifying gallbladders, in whom selective surgery would be undertaken except for the presence of increased surgical risk due to systemic disease or age. Chenodiol will not dissolve calcified (radiopaque) or radiolucent bile pigment stones.
+DrugId:  15
+1. Name:  Glisoxepide
+2. Groups:  Investigational
+3. Description:  Glisoxepide is one of the sulphonamide-derived oral antidiabetic drugs. It inhibits the uptake of bile acids into isolated rat hepatocytes. However it inhibits taurocholate uptake only in the absence of sodium ions. Glisoxepide uptake could be further inhibited by blockers of the hepatocellular monocarboxylate transporter, by the loop diuretic bumetanide, by 4,4'-diisothiocyano-2,2'-stilbenedisulfonate (DIDS) and by sulphate. These results are consistent with the transport of glisoxepide via the transport system for the unconjugated bile acid cholate. [1, 2]
+4. Indication:  For the treatment of diabetes mellitus type 2.
+DrugId:  16
+1. Name:  Antihemophilic Factor (Recombinant), PEGylated
+2. Groups:  Approved, Investigational
+3. Description:  Antihemophilic Factor (Recombinant), PEGylated, is a recombinant full-length human coagulation factor VIII (2,332 amino acids with a molecular weight (MW) of 280 kDa) covalently conjugated with at least one molecule of polyethylene glycol (MW 20 kDa). The therapeutic activity of Antihemophilic Factor (Recombinant), PEGylated is a derivative of its parent drug, Antihemophilic Factor (Recombinant). Antihemophilic Factor (Recombinant) is purified from the culture medium using several chromatography columns. The purification process includes immunoaffinity chromatography, in which a monoclonal antibody directed against factor VIII is promoted to selectively isolate the factor VIII from the medium. The production process includes a viral inactivation solvent-detergent treatment step. The Antihemophilic Factor (Recombinant) molecule is then covalently conjugated with the polyethylene glycol, which primarily targets lysine residues [FDA Label].Antihemophilic Factor (Recombinant), PEGylated, was approved by the FDA in November 2015 as the product Adynovate [FDA Label].PEGylation is the covalent attachment of a polyethylene glycol polymer, called PEG, to a drug or protein. It is believed that PEGylation reduces the binding of ADYNOVATE to the LRP1 clearance receptor, allowing for an increased duration of drug circulation in the plasma [6].
+4. Indication:  For the treatment of hemophilia A (congenital factor VIII deficiency) [FDA Label].This medication is a human antihemophilic factor indicated in adolescent and adult patients (12 years and older) with hemophilia A (congenital factor VIII deficiency). It is also used for on-demand treatment and control of bleeding and routine prophylaxis of bleeding episodes. It is not indicated for the treatment of von Willebrand disease [FDA Label].
+DrugId:  17
+1. Name:  Myrrh
+2. Groups:  Approved
+3. Description:  Extractives and their physically modified derivatives such as tinctures, concretes, absolutes, essential oils, oleoresins, terpenes, terpene-free fractions, distillates, residues, obtained from Commiphora abyssinica, Burseraceae.
+4. Indication:  FDA approved only for use in food. Historically used for indigestion, ulcers, colds, cough, asthma, bronchial congestion, arthritic pain, cancer, leprosy, and syphilis. It is also used orally as a stimulant, antispasmodic, and to increase menstrual flow. Topically, myrrh is used for mild inflammation of the oral and pharyngeal mucosa, aphthous ulcers, gingivitis, chapped lips, hemorrhoids, bedsores, wounds, abrasions, furunculosis, bad breath, and loose teeth. In foods and beverages, myrrh is used as a flavoring component. In manufacturing, myrrh is used as a fragrance and fixative in cosmetics. It is also used in embalming and as incense. 
+DrugId:  18
+1. Name:  Iodipamide
+2. Groups:  Approved
+3. Description:  Iodipamide is a water-soluble radiographic contrast media for cholecystography and intravenous cholangiography.
+4. Indication:  Iodipamide is used as a contrast agent for cholecystography and intravenous cholangiography.
+DrugId:  19
+1. Name:  Hyodeoxycholic Acid
+2. Groups:  Investigational
+3. Description:  Hyodeoxycholic Acid has been used in trials studying the treatment of Hypercholesterolemia.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Dehydrocholic acid
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Glycochenodeoxycholic Acid
+2. Groups:  Experimental
+3. Description:  A bile salt formed in the liver from chenodeoxycholate and glycine, usually as the sodium salt. It acts as a detergent to solubilize fats for absorption and is itself absorbed. It is a cholagogue and choleretic. [PubChem]
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Iopodic acid
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Iopodic acid, also known by the name of ipodate, is classified as a cholecystographic agent formed by a weak organic acid that contains a tri-iodinated benzene ring with iodine at positions 2, 4 and 6.[1] Due to its particular structure, it presents a high degree of lipid solubility and a radiopaque property. It was developed and filed to the FDA by the company BRACCO. This drug was approved on March 15, 1962 but it is nowadays discontinued from the FDA and Health Canada. On September 22, 1981, ipodate was submitted again by the company Schering AG but it is currently under an inactive status.[7]
+4. Indication:  Iopodic acid is available as a cholecystographic agent. This denomination indicates the iopodic acid is a radiopaque substance that can be used to visualize the gallbladder and biliary channels in abdominal X-ray.[8, 4] An abdominal X-ray uses a minimal amount of ionizing radiation to produce pictures of the inside of the abdominal cavity. It is commonly used to evaluate the stomach, liver, intestines, and spleen.[9]Iopodic acid has also been indicated for the treatment of hyperthyroidism such as Graves disease.[2, 3] Hyperthyroidism refers to any condition where there is too much thyroid hormone produced in the body (overactive thyroid). When the overactivity involves the entire thyroid gland, it is known as Grave's disease.[10]
+DrugId:  23
+1. Name:  Cholestyramine
+2. Groups:  Approved, Investigational
+3. Description:  Cholestyramine or colestyramine is a bile acid sequestrant. Bile acid sequestrants are polymeric compounds which serve as ion exchange resins. Cholestyramine resin is quite hydrophilic, but insoluble in water.
+4. Indication:  Indicated as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low density lipoprotein [LDL] cholesterol) who do not respond adequately to diet. Also for the relief of pruritus associated with partial biliary obstruction.
+DrugId:  24
+1. Name:  Sulodexide
+2. Groups:  Approved, Investigational
+3. Description:  Sulodexide is a mixture of glycosaminoglycans (GAGs) composed of dermatan sulfate (DS) and fast moving heparin (FMH).
+4. Indication:  Sulodexide has been used clinically for the prophylaxis and treatment of vascular diseases with increased risk of thrombosis, including intermittent claudication, peripheral arterial occlusive disease and post-myocardial infarc-tion. Also investigated in the treatment of diabetic kidney disease and diabetic neuropathy. New anti-inflammatory properties have also extended its use in venous disease.
+DrugId:  25
+1. Name:  Ursodeoxycholic acid
+2. Groups:  Approved, Investigational
+3. Description:  Ursodeoxycholic acid is an epimer of chenodeoxycholic acid (DB06777). It is a mammalian bile acid found first in the bear and is apparently either a precursor or a product of chenodeoxycholate. Its administration changes the composition of bile and may dissolve gallstones. It is used as a cholagogue and choleretic. [PubChem]
+4. Indication:  The drug reduces cholesterol absorption and is used to dissolve (cholesterol) gallstones in patients who want an alternative to surgery.

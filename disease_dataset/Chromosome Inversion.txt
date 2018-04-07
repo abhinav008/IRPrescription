@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Radotinib
+2. Groups:  Investigational
+3. Description:  Radotinib is under investigation for the treatment of Leukemia, Myelogenous, Chronic, BCR-ABL Positive.
+4. Indication:  Radotinib is indicated for the treatment of different types of cancer, most notably Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) with resistance or intolerance of other Bcr-Abl tyrosine-kinase inhibitors, such as patients resistant or intolerant to imatinib.
+DrugId:  2
+1. Name:  Propylhexedrine
+2. Groups:  Approved
+3. Description:  Propylhexedrine is an alpha-adrenergic agonist often used in nasal decongestant inhalers. It is used to give temporary relief for nasal congestion from colds, allergic rhinitis, or allergies.
+4. Indication:  It is used to provide temporary symptomatic relief of nasal congestion due to colds, allergies and allergic rhinitis.
+DrugId:  3
+1. Name:  Bosutinib
+2. Groups:  Approved
+3. Description:  Bosutinib is a Bcr-Abl kinase inhibitor for the treatment of Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML). Compared to other tyrosine kinase inhibitors, it has a more favourable hematologic toxicity profile. FDA approved on September 4, 2012. 
+4. Indication:  Treatment of chronic, accelerated, or blast phase Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) with resistance or intolerance to prior therapy in adult patients. 
+DrugId:  4
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  5
+1. Name:  GSK-923295
+2. Groups:  Investigational
+3. Description:  GSK-923295 is a small-molecule inhibitor of the mitotic kinesin centromere-associated protein E (CENP-E), and the third novel drug candidate to arise from Cytokinetics' broad strategic alliance with GlaxoSmithKline (GSK). GSK-923295 demonstrated a broad spectrum of activity against a range of human tumor xenografts grown in nude mice, including models of colon, breast, ovarian, lung and other tumors. GSK-923295 is the first drug candidate to enter human clinical trials that specifically targets CENP-E and is currently in Phase I human clinical trials being conducted by GSK.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  6
+1. Name:  ABL-001
+2. Groups:  Investigational
+3. Description:  ABL001 has been used in trials studying the health services research of Chronic Myelogenous Leukemia and Philadelphia Chromosome-positive Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Imatinib
+2. Groups:  Approved
+3. Description:  Imatinib is a small molecule kinase inhibitor used to treat certain types of cancer. It is currently marketed by Novartis as Gleevec (USA) or Glivec (Europe/Australia) as its mesylate salt, imatinib mesilate (INN). It is occasionally referred to as CGP57148B or STI571 (especially in older publications). It is used in treating chronic myelogenous leukemia (CML), gastrointestinal stromal tumors (GISTs) and a number of other malignancies.It is the first member of a new class of agents that act by inhibiting particular tyrosine kinase enzymes, instead of non-specifically inhibiting rapidly dividing cells.
+4. Indication:  For the treatment of Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML), Ph+ acute lymphoblastic leukaemia, myelodysplastic/myeloproliferative diseases, aggressive systemic mastocytosis, hypereosinophilic syndrome and/or chronic eosinophilic leukemia (CEL), dermatofibrosarcoma protuberans, and malignant gastrointestinal stromal tumors (GIST).
+DrugId:  8
+1. Name:  Lenalidomide
+2. Groups:  Approved
+3. Description:  Lenalidomide (initially known as CC-5013 and marketed as Revlimid® by Celgene) is a derivative of thalidomide introduced in 2004. It was initially intended as a treatment for multiple myeloma, for which thalidomide is an accepted therapeutic modality, but has also shown efficacy in the hematological disorders known as the myelodysplastic syndromes. [Wikipedia] FDA approved on December 27, 2005. 
+4. Indication:  Lenalidomide is indicated for the treatment of multiple myeloma in combination with dexamethasone. It is also indicated for the treatment of patients with transfusion-dependent anemia due to low- or intermediate- risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+DrugId:  9
+1. Name:  Estriol
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A hydroxylated metabolite of estradiol or estrone that has a hydroxyl group at C3-beta, 16-alpha, and 17-beta position. Estriol is a major urinary estrogen. During pregnancy, large amount of estriol is produced by the placenta. Isomers with inversion of the hydroxyl group or groups are called epiestriol. Though estriol is used as part of the primarily North American phenomenon of bioidentical hormone replacement therapy, it is not approved for use by the FDA or Health Canada. It is however available in the United States by prescription filled only by compounding pharmacies. It has also been approved and marketed throughout Europe and Asia for approximately 40 years for the treatment of post-menopausal hot flashes.
+4. Indication:  Used as a test to determine the general health of an unborn fetus.
+DrugId:  10
+1. Name:  Terazosin
+2. Groups:  Approved
+3. Description:  Terazosin is a selective alpha1-antagonist used for treatment of symptoms of benign prostatic hyperplasia (BPH). It also acts to lower blood pressure, so it is a drug of choice for men with hypertension and prostate enlargement. It works by blocking the action of adrenaline on smooth muscle of the bladder and the blood vessel walls.
+4. Indication:  For the treatment of symptomatic BPH and mild to moderate hypertension.
+DrugId:  11
+1. Name:  Levobupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  Levobupivacaine is an amino-amide local anaesthetic drug belonging to the family of n-alkylsubstitutedpipecoloxylidide. It is the S-enantiomer of bupivacaine. Levobupivacaine hydrochloride is commonly marketed by AstraZeneca under the trade name Chirocaine. Compared to bupivacaine, levobupivacaine is associated with less vasodilation and has a longer duration of action. It is approximately 13 per cent less potent (by molarity) than racemic bupivacaine.Levobupivacaine is indicated for local anaesthesia including infiltration, nerve block, ophthalmic, epidural and intrathecal anaesthesia in adults; and infiltration analgesia in children. Adverse drug reactions (ADRs) are rare when it is administered correctly. Most ADRs relate to administration technique (resulting in systemic exposure) or pharmacological effects of anesthesia, however allergic reactions can rarely occur. [Wikipedia]
+4. Indication:  For the production of local or regional anesthesia for surgery and obstetrics, and for post-operative pain management
+DrugId:  12
+1. Name:  Tirapazamine
+2. Groups:  Investigational
+3. Description:  Tirapazamine (SR-4233) is an experimental anticancer drug that is activated to a toxic radical only at very low levels of oxygen (hypoxia). Such levels are common in human solid tumors, a phenomenon known as tumor hypoxia. Thus, tirapazamine is activated to its toxic form preferentially in the hypoxic areas of solid tumors. Cells in these regions are resistant to killing by radiotherapy and most anticancer drugs. Thus the combination of tirapazamine with conventional anticancer treatments is particularly effective. As of 2006, tirapazamine is undergoing phase III testing in patients with head and neck cancer and gynecological cancer, and similar trials are being undertaken for other solid tumor types. [Wikipedia]
+4. Indication:  For the treatment of head and neck cancer.
+DrugId:  13
+1. Name:  Davunetide
+2. Groups:  Investigational
+3. Description:  Davunetide has been used in trials studying the treatment of Progressive Nonfluent Aphasia, Progressive Supranuclear Palsy, Predicted Tauopathies, Including, Corticobasal Degeneration Syndrome, and Frontotemporal Dementia With Parkinsonism Linked to Chromosome 17.Davunetide is the first drug to improve memory performance by impacting the mechanisms that lead to physical damage in the brain caused by neurofibrillary tangles, one of the two established pathological hallmarks that are common to amnestic mild cognitive impairment (aMCI) and Alzheimer's disease (AD). Davunetide is derived from a naturally occurring neuroprotective brain protein known as activity dependent neuroprotective protein.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Ponatinib
+2. Groups:  Approved, Investigational
+3. Description:  Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.
+4. Indication:  Ponatinib is indicated for the treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia (CML) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy or Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ALL) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy.
+DrugId:  15
+1. Name:  Dasatinib
+2. Groups:  Approved, Investigational
+3. Description:  Dasatinib is an oral dual BCR/ABL and Src family tyrosine kinase inhibitor approved for use in patients with chronic myelogenous leukemia (CML). The main targets of Dasatinib, are BCRABL, SRC, Ephrins and GFR.
+4. Indication:  For the treatment of adults with chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia with resistance or intolerance to prior therapy. Also indicated for the treatment of adults with Philadelphia chromosome-positive acute lymphoblastic leukemia with resistance or intolerance to prior therapy.
+DrugId:  16
+1. Name:  Pefloxacin
+2. Groups:  Approved
+3. Description:  A synthetic broad-spectrum fluoroquinolone antibacterial agent active against most gram-negative and gram-positive bacteria. [PubChem]
+4. Indication:  For the treatment of uncomplicated gonococcal urethritis in males and for gram-negative-bacterial infections in the gastrointestinal system and the genitourinary tract.
+DrugId:  17
+1. Name:  Temafloxacin
+2. Groups:  Withdrawn
+3. Description:  Temafloxacin is a fluoroquinolone antibiotic drug which was withdrawn from sale in the U.S. shortly after its approval in 1992 because of serious adverse reactions resulting in three deaths. [Wikipedia]
+4. Indication:  For the treatment of lower respiratory tract infections, genital and urinary infections like prostatitis, and skin infections.
+DrugId:  18
+1. Name:  Hexaminolevulinate
+2. Groups:  Approved
+3. Description:  Hexaminolevulinate is an optical imaging drug. In solution form it is instilled intravesically for use with photodynamic blue light cystoscopy as an adjunct to white light cystoscopy. On May 28, 2010, the U.S. Food and Drug Administration (FDA) granted approval for hexaminolevulinate hydrochloride (Cysview for Intravesical Solution, Photocure ASA), as an optical imaging agent for use in combination with the Karl Storz Photodynamic Diagnostic D-Light C (PDD) System for cystoscopic detection of non-muscle invasive papillary cancer of the bladder for patients suspected or known to have lesion(s) on the basis of a prior cystoscopy. Hexaminolevulinate is manufactured under the brand Cysview® by Photocure ASA. In Europe, Hexaminolevulinate is marketed under the brand Hexvix®. 
+4. Indication:  Hexaminolevulinate is indicated for use in the cystoscopic detection of non-muscle invasive papillary cancer of the bladder among patients suspected or known to have lesion(s) on the basis of a prior cystoscopy. 
+DrugId:  19
+1. Name:  Methoxyamine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  20
+1. Name:  Nusinersen
+2. Groups:  Approved, Investigational
+3. Description:  An antisense oligonucleotide that induces survival motor neuron (SMN) protein expression, it was approved by the U.S. FDA in December, 2016 as Spinraza for the treatment of children and adults with spinal muscular atrophy (SMA). It is adminstrated as direct intrathecal injection.
+4. Indication:  Indicated for the treatment of spinal muscular atrophy (SMA) in pediatric and adult patients. 
+DrugId:  21
+1. Name:  Gadobutrol
+2. Groups:  Approved
+3. Description:  Intravenous gadobutrol is a second-generation extracellular non-ionic macrocyclic GBCA (gadolinium-based contrast agent) used in magnetic resonance imaging (MRI) in adults and children older than 2 years of age. It may help visualize and detect vascular abnormalities in the blood brain barrier (BBB) and central nervous system (CNS). In patients with impaired renal function, gadolinium based contrast agents increase the risk of nephrogenic systemic fibrosis (NSF). A physician should be contacted if symptoms of NSF are encountered, such as dark or red patches on the skin; stiffness in joints; trouble moving, bending or straightening arms, hands, legs or feet; burning, itching, swelling, scaling, hardening and tightening of skin; pain in hip bones or ribs; or muscle weakness. Common adverse reactions that may be experienced include headache, nausea, feeling hot, abnormal taste, and warmth, burning or pain local to the injection site. General precautions should be taken in patients who are pregnant or breastfeeding, or who have a history of allergic reaction to contrast media, bronchial asthma or an allergic respiratory disorder.
+4. Indication:  For diagnostic use only. Indicated for adults and children age 2 and over for contrast enhancement during cranial and spinal MRI, and for contrast-enhanced magnetic resonance angiography (CE-MRA). Gadobutrol is particularly suited for the detection of very small lesions and for the visualization of tumors that do not readily take up contrast media. It may be a desired agent when the exclusion or demonstration of an additional pathology may influence the choice of therapy or patient management. It may also be suitable for perfusion studies in the diagnosis of stroke, detection of focal cerebral ischemia, and in studies of tumor perfusion. 
+DrugId:  22
+1. Name:  Furazolidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A nitrofuran derivative with antiprotozoal and antibacterial activity. Furazolidone binds bacterial DNA which leads to the gradual inhibition of monoamine oxidase. (From Martindale, The Extra Pharmacopoeia, 30th ed, p514)
+4. Indication:  For the specific and symptomatic treatment of bacterial or protozoal diarrhea and enteritis caused by susceptible organisms.
+DrugId:  23
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  24
+1. Name:  Ecallantide
+2. Groups:  Approved, Investigational
+3. Description:  Ecallantide is a potent and selective human plasma kallikrein inhibitor that is indicated for the symptomatic treatment of hereditary angioedema. Ecallantide is a recombinant 60-amino-acid protein produced in Pichia pastoris yeast cells that contains three intramolecular disulfide bonds [FDA Label]. It was discovered by phage display technology [4]. It shares sequence similarities with the naturally occurring human protein tissue-factor pathway inhibitor (TFPI), which is also known lipoprotein-associated coagulation inhibitor (LACI) [5]. The amino acid sequence of two compounds differ by seven amino acids [5]. Ecallantide works by blocking kallikrein to participate in the kallikrein-kinin system, which is a complex proteolytic cascade that initiates inflammatory and coagulation pathways [FDA Label]. The protease plasma kallikerin facilitates the conversion of kininogen to bradykinin, which is a pro-inflammatory vasodilator that increases vascular permeability and induces pain [1]. Hereditary angioedema is a rare autosomal dominant disorder with mutations to C1-esterase-inhibitor (C1-INH) located on Chromosome 11q, resulting in substantially lower levels of C4 and C1-INH activity [FDA Label]. The disorder is associated with recurrent attacks of severe swelling and is thought to be caused by unregulated activity of kallikrein and excessive bradykinin production [FDA Label]. By reversibly binding to plasma kallikrein, ecallantide displays a rapid on-rate and a slow off-rate that results in high affinity inhibition in the picomolar range [5]. Ecallantide is marketed by FDA and EMA under the trade name Kalbitor for subcutaneous injection. Apart from its FDA and EMA indication, ecallantide has been used off label in the management of nonhistaminergic angioedema, not due to HAE [4].
+4. Indication:  Indicated for the symptomatic treatment of acute attacks of hereditary angioedema (HAE) in patients 12 years of age and older [FDA Label].
+DrugId:  25
+1. Name:  Voretigene Neparvovec
+2. Groups:  Approved
+3. Description:  Voretigene Neparvovec-rzyl (VN-rzyl) is an adeno-associated virus vector-based gene therapy.[6] An adeno-associated virus is a small virus that infects humans and other primates. It is not pathogenic and it causes a very mild immune response. This type of virus is vastly used as vectors for gene therapy because they can infect dividing and quiescent cell integrating just the carried genes into the host genome without fully integrating into the genome.[1] An advantage of this adeno-associated virus is the high predictability, unlike retrovirus, as they associate with a specific region of the human cellular genome localized in the chromosome 19. When used in genetic therapy, this virus is modified for the elimination of its negligible integrative capacity by the removal of rep and cap and the insertion of the desired gene with its promoter between the inverted terminal repeats.[2] VN-rzyl was developed by Spark Therapeutics Inc. and FDA approved on December 19, 2017.[7]
+4. Indication:  VN-rzyl is indicated for the treatment of children and adult patients with confirmed biallelic RPE65 mutation-associated retinal dystrophy. The administration of VN-rzyl is conditioned to the physician determination of the presence of viable retinal cells.[FDA Label] The RPE65 represents the LCA2 form of the Leber's congenital amaurosis (LCA). LCA is a group of inherited conditionts that involves retinal degeneration and severe vision loss in early childhood leading to total blindness by 30-40 years old. The LCA2 form is associated with a mutation that interferes with the isomerohydrolase activity of the retinal pigment epithelium. The isomerohydrolase activity transforms the trans-retinyl esters to 11-cis-retinal which is the natural ligand and chromophore of the opsins of rod and cones photoreceptors. In the presence of RPE65 mutations, the opsins cannot capture light or transduce it into electrical responses to initiate vision.[3]

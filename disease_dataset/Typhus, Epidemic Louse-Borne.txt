@@ -1,0 +1,50 @@
+DrugId:  1
+1. Name:  Meningococcal Polysaccharide Vaccine Group Y
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group Y polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup Y. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup Y.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Meningococcal Polysaccharide Vaccine Group W-135
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group W-135 polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup W-135. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup W-135.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Meningococcal group A polysaccharide
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group A polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup A. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup A.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Meningococcal group C polysaccharide
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group C polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup C. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup C.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Minocycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline analog, having a 7-dimethylamino and lacking the 5 methyl and hydroxyl groups, which is effective against tetracycline-resistant staphylococcus infections. [PubChem]
+4. Indication:  For the treatment of infections caused by susceptible strains of microorganisms, such as Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsial pox and tick fevers caused by Rickettsiae, upper respiratory tract infections caused by Streptococcus pneumoniae and for the treatment of asymptomatic carriers of Neisseria meningitidis.
+DrugId:  6
+1. Name:  Amdinocillin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Amidinopenicillanic acid derivative with broad spectrum antibacterial action. It is poorly absorbed if given orally and is used in urinary infections and typhus. Amdinocillin is not available in the United States.
+4. Indication:  Used in the treatment of urinary tract infections caused by some strains of E. coli and klebsiella and enterobacter species. Used mainly against Gram negative organisms.
+DrugId:  7
+1. Name:  Recombinant alpha 1-antitrypsin
+2. Groups:  Investigational
+3. Description:  Alpha 1-antitrypsin is a glycoprotein primarily produced by hepatocytes, and to a lesser extent, immune system cells. Recombinant alpha 1-antitrypsin (rAAT) is produced from yeast, which unlike commercially available forms of plasma-derived AAT, eliminates the risk associated with blood-borne infectious agents and allows for a increased manufacturing. rAAT belongs to a family of structurally-related proteins classified as serine protease inhibitors or SERPINS, which are known to inhibit several proteases including trypsin, cathepsin G, thrombin, tissue kallikrein, as well as neutrophil elastase. The proteinase/antiproteinase balance is believed to be important for maintaining healthy skin. The rAAT topical gel (Dermolastin™) is indicated for patients with atopic dermatitis and psoriasis. The company has indicated that other formulations for gastroenterological and urological indications will also be developed.
+4. Indication:  Investigated for use/treatment in alpha 1 antitrypsin deficiency, atopic dermatitis, and chronic obstructive pulmonary disease (COPD).
+DrugId:  8
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  9
+1. Name:  Tetracycline
+2. Groups:  Approved, Vet approved
+3. Description:  Tetracycline is a broad spectrum polyketide antibiotic produced by the Streptomyces genus of Actinobacteria. It exerts a bacteriostatic effect on bacteria by binding reversible to the bacterial 30S ribosomal subunit and blocking incoming aminoacyl tRNA from binding to the ribosome acceptor site. It also binds to some extent to the bacterial 50S ribosomal subunit and may alter the cytoplasmic membrane causing intracellular components to leak from bacterial cells.
+4. Indication:  Used to treat bacterial infections such as Rocky Mountain spotted fever, typhus fever, tick fevers, Q fever, rickettsialpox and Brill-Zinsser disease. May be used to treat infections caused by Chlamydiae spp., B. burgdorferi (Lyme disease), and upper respiratory infections caused by typical (S. pneumoniae, H. influenzae, and M. catarrhalis) and atypical organisms (C. pneumoniae, M. pneumoniae, L. pneumophila). May also be used to treat acne. Tetracycline may be an alternative drug for people who are allergic to penicillin.
+DrugId:  10
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available

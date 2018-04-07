@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Fulranumab
+2. Groups:  Investigational
+3. Description:  Fulranumab has been used in trials studying the treatment of Pain, Cystitis, Neuralgia, Joint Pain, and Arthralgia, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Anakinra
+2. Groups:  Approved
+3. Description:  Anakinra is a recombinant, nonglycosylated human interleukin-1 receptor antagonist (IL-1Ra). The difference between anakinra and the native human IL-1Ra is that anakinra has an extra methionine residue at the amino terminus. It is manufactured by using the E. coli expression system. Anakinra is composed of 153 amino acid residues. FDA approved on November 14, 2001. 
+4. Indication:  For the treatment of adult rheumatoid arthritis and treatment of Neonatal-Onset Multisystem Inflammatory Disease (NOMID). 
+DrugId:  3
+1. Name:  Taliglucerase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Taliglucerase alfa is the recombinant active form of the human lysosomal enzyme, β-glucocerebrosidase. It was approved in 2012 and is marketed under the name Elelyso for use in patients with type 1 Gaucher's disease.
+4. Indication:  For the treatment of adult Type 1 Gaucher disease. 
+DrugId:  4
+1. Name:  Denosumab
+2. Groups:  Approved
+3. Description:  Denosumab is a novel, fully human IgG2 monoclonal antibody specific to receptor activator of nuclear factor kappa-B ligand (RANKL), suppresses bone resorption markers in patients with a variety of metastatic tumors and is being investigated in multiple clinical trials for the prevention and treatment of bone metastases. Chemically, it consists of 2 heavy and 2 light chains. Each light chain consists of 215 amino acids. Each heavy chain consists of 448 amino acids with 4 intramolecular disulfides. FDA approved on June 1, 2010. 
+4. Indication:  Prolia is indicated for the treatment of postmenopausal women with osteoporosis at high risk for fracture. It reduces the incidence of vertebral, nonvertebral, and hip fractures. Prolia is also indicated as a treatment to increase bone mass in women at high risk for fracture receiving adjuvant aromatase inhibitor therapy for breast cancer. It can also be used in men with osteoporosis at high risk for fracture or in men receiving androgen deprivation therapy for nonmetastatic prostate cancer to increase bone mass. Xgeva is indicated for the prevention of skeletal-related events in patients with bone metastases from solid tumors.
+DrugId:  5
+1. Name:  Glatiramer Acetate
+2. Groups:  Approved, Investigational
+3. Description:  Glatiramer acetate consists of the acetate salts of synthetic polypeptides, containing four naturally occurring amino acids: L-glutamic acid, L-alanine, L-tyrosine, and L-lysine with an average molar fraction of 0.141, 0.427, 0.095, and 0.338, respectively. The average molecular weight of glatiramer acetate is 5,000-9,000 daltons. It is an immunomodulator, licensed in much of the world for reduced frequency of relapses in relapsing-remitting multiple sclerosis.
+4. Indication:  For reduction of the frequency of relapses in patients with Relapsing-Remitting Multiple Sclerosis.
+DrugId:  6
+1. Name:  Antilymphocyte immunoglobulin (horse)
+2. Groups:  Approved, Investigational
+3. Description:  Equine anti-thymocyte globulin is composed of purified gamma globulin containing primarily IgG against human thymus lymphocytes. It is formed by inoculating a horse with an antigen (human thymoyctes) which then induces the horse immune system's B-lymphocytes to produce IgG immunoglobulins specific for that antigen. The result is polyclonal IgG that is then purified from the horse's serum to produce a usable drug product that can be used for immunosuppression. Although the exact mechanism of action is unknown, equine anti-thymocyte globulin targets a variety of immune system proteins including lymphocyte surface proteins, granulocytes, platelets, bone marrow cells, and other cell types. Equine ATG is currently indicated for the suppression of the immune system to prevent renal transplant rejection and in the treatment of aplastic anemia. Induction of T cell apoptosis and resulting T-cell lymphopenia found in vivo is credited for its therapeutic effect in these conditions. There are currently various ATG products available, which differ in the source of inoculated animal (rabbit, horse, or pig) and in the type of antigen product used to produce immunoglobulin (thymocytes, peripheral T cells, etc.).
+4. Indication:  For prevention of renal transplant rejection and for the treatment of aplastic anemia.
+DrugId:  7
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  8
+1. Name:  Enzalutamide
+2. Groups:  Approved
+3. Description:  Enzalutamide is an androgen receptor inhibitor for the treatment of castration-resistant prostate cancer. FDA approved on August 31, 2012.
+4. Indication:  Enzalutamide is indicated for the treatment of patients with metastatic castration-resistant prostate cancer who have previously received docetaxel.
+DrugId:  9
+1. Name:  Romiplostim
+2. Groups:  Approved
+3. Description:  Romiplostim is a thrombopoiesis stimulating dimer Fc-peptide fusion protein (peptibody) to increase platelet production through activation of the thrombopoietin receptor. The peptibody molecule has two identical single-chain subunits, each one is made up of 269 amino acid residues. Each subunit consists of an IgG1 Fc carrier domain that is covalently attached to a polypeptide sequence that contains two binding domains to interact with thrombopoietin receptor c-Mpl. Each domain consists of 14 amino acids. Interestingly, romiplostim's amino acid sequence is not similar to that of endogenous thrombopoietin. Romiplostim is produced by recombinant DNA technology in Escherichia coli. FDA approved on August 22, 2008.
+4. Indication:  Treatment of chronic immune thrombocytopenic purpura. 
+DrugId:  10
+1. Name:  Peginterferon beta-1a
+2. Groups:  Approved
+3. Description:  Peginterferon beta-1a is an interferon beta-1a to which a single, linear 20,000 dalton (Da) methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (PEG) molecule is covalently attached to the alpha amino group of the N-terminal amino acid residue. The amino acid sequence of the recombinant interferon beta-1a is identical to that of the human interferon beta counterpart. Although it's mechanism of action is unknown, peginterferon beta-1a is indicated for use in relapsing forms of Multiple Sclerosis (MS).Interferon beta was the first drug to alter the course of MS, however multiple side effects and the need for weekly subcutaneous injection make it difficult to use. Interferon beta was subsequently PEGylated (covalently attached to polyethylene glycol) to extend its duration of action to every 14 days. It is currently available as peginterferon beta-1a as the FDA-approved product Plegridy.
+4. Indication:  For the treatment of patients with relapsing forms of multiple sclerosis.
+DrugId:  11
+1. Name:  Umeclidinium
+2. Groups:  Approved
+3. Description:  Umeclidinium is a long-acting muscarinic antagonist (LAMA) used as maintenance treatment for symptoms of chronic obstructive pulmonary disease (COPD). It is available as a once-daily inhalation monotherapy or as a fixed-dose combination product with the long-acting beta2-agonist vilanterol. COPD is a progressive obstructive lung disease characterized by shortness of breath, cough, sputum production, and chronically poor airflow with a forced expiratory volume in 1 second (FEV1) of less than 80%. By blocking the M3 muscarinic receptor which is highly expressed in airway smooth muscle of the lungs, umeclidinium inhibits the binding of acetylcholine and thereby opens up the airways by preventing bronchoconstriction. Its use has been shown to provide clinically significant, sustained improvements in lung function. 
+4. Indication:  Indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD).
+DrugId:  12
+1. Name:  Dabrafenib
+2. Groups:  Approved, Investigational
+3. Description:  Dabrafenib mesylate is a reversible ATP-competitive kinase inhibitor and targets the MAPK pathway. FDA approved on May 29, 2013. 
+4. Indication:  Dabrafenib is indicated for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test.
+DrugId:  13
+1. Name:  Furazolidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A nitrofuran derivative with antiprotozoal and antibacterial activity. Furazolidone binds bacterial DNA which leads to the gradual inhibition of monoamine oxidase. (From Martindale, The Extra Pharmacopoeia, 30th ed, p514)
+4. Indication:  For the specific and symptomatic treatment of bacterial or protozoal diarrhea and enteritis caused by susceptible organisms.
+DrugId:  14
+1. Name:  Bedaquiline
+2. Groups:  Approved
+3. Description:  Bedaquiline is a bactericidal antimycobacterial drug. Chemically it is a diarylquinoline. FDA approved on December 28, 2012. 
+4. Indication:  Bedaquiline is indicated as part of combination therapy in adults (≥ 18 years) with pulmonary multi-drug resistant tuberculosis (MDR-TB). 
+DrugId:  15
+1. Name:  Emicizumab
+2. Groups:  Approved, Investigational
+3. Description:  Emicizumab is a humanized recombinant monoclonal antibody that mimics the function of the coagulation Factor VIII and it has the capacity to bind simultaneously to activated Factor IX and Factor X. The ability of Emicizumab to bind to all these three different factors allows it to overcome immunogenicity and unstable hemostatic efficacy produced by previous Factor VII agents. Emicizumab was originated as an improved form of hBS23 and it was approved on November 16, 2017, for the treatment of hemophilia A with factor VIII inhibitors.[1, 6] It was created by Chugai Pharmaceuticals Co. Ltd. and co-developed with Roche and Genentech.[5]
+4. Indication:  The main function of Emicizumab is the prevention of bleeding episodes. Thus, Emicizumab is approved for the routine prophylaxis of patients with hemophilia A that present Factor VIII inhibitors. Hemophilia A is a deficiency of coagulation Factor VIII which causes a serious bleeding disorder. The standard treatment is done with the administration of recombinant or serum-deriver Factor VIII which induces the formation of anti-factor VIII alloantibodies (Factor VIII inhibitors) and renders the standard treatment ineffective.[2]
+DrugId:  16
+1. Name:  Eteplirsen
+2. Groups:  Approved, Investigational
+3. Description:  Eteplirsen is a phosphoramidite morpholino sequence complementary to a portion of exon 51. [1] It exerts it's mechanism of action by forcing the exclusion of exon 51 from the mature DMD mRNA. [1]
+4. Indication:  Eteplirsen is indicated for treatment of certain individuals with Duchenne muscular dystrophy (DMD). Its use is limited to those with a confirmed mutation of the DMD gene which would benefit from exon 51 skipping. Based on clinical studies showing increased dystrophin production in skeletal muscle in some patients given this drug, the above indication was approved under accelerated approval. Further confirmatory trials are required to demonstrate clinical benefit of eteplirsen.
+DrugId:  17
+1. Name:  Dinutuximab
+2. Groups:  Approved, Investigational
+3. Description:  Dinutuximab is an IgG1 monoclonal human/mouse chimeric antibody against GD2, a disialoganglioside expressed on tumors of neuroectodermal origin, including human neuroblastoma and melanoma, with highly restricted expression on normal tissues. It is composed of the variable heavy- and light-chain regions of the murine anti-GD2 mAb 14.18 and the constant regions of human IgG1 heavy-chain and kappa light-chain. By binding to GD2, dinutiximab induces antibody-dependent cell-mediated cytotoxicity and complement-dependent cytotoxicity of tumor cells thereby leading to apoptosis and inhibiting proliferation of the tumour. It is indicated, in combination with granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-2 (IL-2), and 13-cis-retinoic acid (RA), for the treatment of pediatric patients with high-risk neuroblastoma who achieve at least a partial response to prior first-line multiagent, multimodality therapy. Despite a high clinical response seen after first-line treatment, the complete eradication of neuroblastoma is rarely achieved and the majority of patients with advanced disease suffer a relapse. Current strategies for treatment include immunotherapy with drugs such as dinutuximab to target surviving neuroblastoma cells and to prevent relapse.
+4. Indication:  Dinutuximab is indicated, in combination with granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-2 (IL-2), and 13-cis-retinoic acid (RA), for the treatment of pediatric patients with high-risk neuroblastoma who achieve at least a partial response to prior first-line multiagent, multimodality therapy. Despite a high clinical response seen after first-line treatment, the complete eradication of neuroblastoma is rarely achieved and the majority of patients with advanced disease suffer a relapse. Current strategies for treatment include immunotherapy with drugs such as dinutuximab to target surviving neuroblastoma cells and to prevent relapse.
+DrugId:  18
+1. Name:  Simvastatin
+2. Groups:  Approved
+3. Description:  Simvastatin is a lipid-lowering agent that is derived synthetically from the fermentation of Aspergillus terreus. It is a potent competitive inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase (hydroxymethylglutaryl COA reductases), which is the rate-limiting enzyme in cholesterol biosynthesis. It may also interfere with steroid hormone production. Due to the induction of hepatic LDL receptors, it increases breakdown of LDL cholesterol. [PubChem]
+4. Indication:  For the treatment of hypercholesterolemia and for the reduction in the risk of cardiac heart disease mortality and cardiovascular events. It can also be used in adolescent patients for the treatment of heterozygous familial hypercholesterolemia. 
+DrugId:  19
+1. Name:  Zucapsaicin
+2. Groups:  Approved, Investigational
+3. Description:  Zucapsaicin, the cis-isomer of capsaicin, is a topical analgesic used to treat osteoarthritis of the knee and other neuropathic pain. It is a modulator of transient receptor potential cation channel subfamily V member 1 (TRPV-1), also known as the vanilloid or capsaicin receptor 1, that reduces pain and improves articular functions. Zucapsaicin has also been tested for treatment of a variety of conditions associated with ongoing nerve pain. This includes herpes simplex infections; cluster headaches and migraine; and knee osteoarthritis. It was approved by the Health Canada in 2010 as topical cream marketed under the brand name Zuacta but currently not FDA-approved.
+4. Indication:  Indicated to be used in conjunction with oral COX-2 inhibitors or NSAIDs for the relief of severe pain in adult patients with osteoarthritis of the knee, not controlled with oral COX-2 inhibitors or NSAIDs alone, for a duration of no more than three months. 
+DrugId:  20
+1. Name:  Antihemophilic Factor (Recombinant), PEGylated
+2. Groups:  Approved, Investigational
+3. Description:  Antihemophilic Factor (Recombinant), PEGylated, is a recombinant full-length human coagulation factor VIII (2,332 amino acids with a molecular weight (MW) of 280 kDa) covalently conjugated with at least one molecule of polyethylene glycol (MW 20 kDa). The therapeutic activity of Antihemophilic Factor (Recombinant), PEGylated is a derivative of its parent drug, Antihemophilic Factor (Recombinant). Antihemophilic Factor (Recombinant) is purified from the culture medium using several chromatography columns. The purification process includes immunoaffinity chromatography, in which a monoclonal antibody directed against factor VIII is promoted to selectively isolate the factor VIII from the medium. The production process includes a viral inactivation solvent-detergent treatment step. The Antihemophilic Factor (Recombinant) molecule is then covalently conjugated with the polyethylene glycol, which primarily targets lysine residues [FDA Label].Antihemophilic Factor (Recombinant), PEGylated, was approved by the FDA in November 2015 as the product Adynovate [FDA Label].PEGylation is the covalent attachment of a polyethylene glycol polymer, called PEG, to a drug or protein. It is believed that PEGylation reduces the binding of ADYNOVATE to the LRP1 clearance receptor, allowing for an increased duration of drug circulation in the plasma [6].
+4. Indication:  For the treatment of hemophilia A (congenital factor VIII deficiency) [FDA Label].This medication is a human antihemophilic factor indicated in adolescent and adult patients (12 years and older) with hemophilia A (congenital factor VIII deficiency). It is also used for on-demand treatment and control of bleeding and routine prophylaxis of bleeding episodes. It is not indicated for the treatment of von Willebrand disease [FDA Label].
+DrugId:  21
+1. Name:  Ezetimibe
+2. Groups:  Approved
+3. Description:  Ezetimibe is an anti-hyperlipidemic medication which is used to lower cholesterol levels. Specifically, it appears to bind to a critical mediator of cholesterol absorption, the Niemann-Pick C1-Like 1 (NPC1L1) protein on the gastrointestinal tract epithelial cells as well as in hepatocytes.
+4. Indication:  For use as adjunctive therapy to diet for the reduction of elevated total-C, LDL-C, and Apo B in patients with primary (heterozygous familial and non-familial) hypercholesterolemia.
+DrugId:  22
+1. Name:  Ponatinib
+2. Groups:  Approved, Investigational
+3. Description:  Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.
+4. Indication:  Ponatinib is indicated for the treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia (CML) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy or Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ALL) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy.
+DrugId:  23
+1. Name:  Olodaterol
+2. Groups:  Approved
+3. Description:  Olodaterol is a novel, long-acting beta2-adrenergic agonist (LABA) that exerts its pharmacological effect by binding and activating beta2-adrenergic receptors located primarily in the lungs. Beta2-adrenergic receptors are membrane-bound receptors that are normally activated by endogenous epinephrine whose signalling, via a downstream L-type calcium channel interaction, mediates smooth muscle relaxation and bronchodilation. Activation of the receptor stimulates an associated G protein which then activates adenylate cyclase, catalyzing the formation of cyclic adenosine monophosphate (cAMP) and protein kinase A (PKA). Elevation of these two molecules induces bronchodilation by relaxation of airway smooth muscles. It is by this mechanism that olodaterol is used for the treatment of chronic obstructive pulmonary disease (COPD) and the progressive airflow obstruction that is characteristic of it. Treatment with bronchodilators helps to mitigate associated symptoms such as shortness of breath, cough, and sputum production. Single doses of olodaterol have been shown to improve forced expiratory volume in 1 sec (FEV1) for 24 h in patients with COPD, allowing once daily dosing. A once-a-day treatment with a LABA has several advantages over short-acting bronchodilators and twice-daily LABAs including improved convenience and compliance and improved airflow over a 24-hour period. Despite similarities in symptoms, olodaterol is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+4. Indication:  Olodaterol is indicated for use in chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema. It is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+DrugId:  24
+1. Name:  Isavuconazole
+2. Groups:  Approved, Investigational
+3. Description:  Isavuconazole is an triazole antifungal with broad spectrum of activity and good safety profile [1]. It is approved by the FDA and EMA for the treatment of invasive aspergillosis and mucormycosis. It works by inhibiting fungal cell membrane synthesis. Invasive fungal infections pose significant clinical challenges for patients, especially those who are immunocompromised. In vitro, most of the Candida species, most Aspergillus species, Mucorales, Cryptococcus spp., Fusarium species, dermatophytes and dimorphic fungi displayed susceptibility to isavuconzaole [3]. Resistance to isavuconazole has been associated with the mutation in the target gene CYP51 [FDA Label]. Cross-resistance between isavuconazole and other azoles was also proposed although the clinical relevance is unclear [FDA Label]. Its prodrug, Isavuconazonium, is commonly used as an active ingredient in commercially available formulations due to low water solubility of isavuconazole. The prodrug formulation of isavuconazole is FDA- and EMA-approved and is marketed under the trade name Cresemba for the treatment of invasive aspergillosis and mucormycosis as oral or intravenous administration. The intravenous formulation is cyclodextrin-free which gives isavuconazole an advantage over other azole antifungals that requires cyclodextrin for facilitating drug solubility; this is because cyclodextrin has a potential for nephrotoxicity [3]. It is proposed that the intravenous and oral dosing can be used interchangeably [4], without the need for a repeat loading dose when transitioning from an IV to an oral formulation [1]. Isavuconazonium displays excellent water solubility for intravenous formulations, good absorption, and enhanced oral bioavailability [1]. Following administration, isavuconazonium undergoes biotransformation to form the active moiety, isavuconazole, for the antifungal actions.
+4. Indication:  Indicated for patients 18 years of age and older for the treatment of invasive aspergillosis [FDA Label].Indicated for patients 18 years of age and older for the treatment of invasive mucormycosis [FDA Label], including patients where treatment amphotericin B is inappropriate [4].
+DrugId:  25
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
