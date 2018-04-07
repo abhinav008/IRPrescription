@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Umeclidinium
+2. Groups:  Approved
+3. Description:  Umeclidinium is a long-acting muscarinic antagonist (LAMA) used as maintenance treatment for symptoms of chronic obstructive pulmonary disease (COPD). It is available as a once-daily inhalation monotherapy or as a fixed-dose combination product with the long-acting beta2-agonist vilanterol. COPD is a progressive obstructive lung disease characterized by shortness of breath, cough, sputum production, and chronically poor airflow with a forced expiratory volume in 1 second (FEV1) of less than 80%. By blocking the M3 muscarinic receptor which is highly expressed in airway smooth muscle of the lungs, umeclidinium inhibits the binding of acetylcholine and thereby opens up the airways by preventing bronchoconstriction. Its use has been shown to provide clinically significant, sustained improvements in lung function. 
+4. Indication:  Indicated for the long-term, once-daily, maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD).
+DrugId:  2
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Bitolterol
+2. Groups:  Withdrawn
+3. Description:  Bitolterol mesylate is a beta-2-adrenergic receptor agonist used for the relief of bronchospasm in conditions such as asthma and COPD. Bitolterol was withdrawn from the market by Elan Pharmaceuticals in 2001. [Wikipedia]
+4. Indication:  Used to dilate air passages in the lungs that have become narrowed as a result of disease or inflammation. It is used in the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  4
+1. Name:  Procaterol
+2. Groups:  Approved, Investigational
+3. Description:  A long-acting beta-2-adrenergic receptor agonist. It is a potent bronchodilator that may be administered orally or by aerosol inhalation. [PubChem]
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  5
+1. Name:  NCX 950
+2. Groups:  Investigational
+3. Description:  NCX 950, beta2-adrenoceptor agonists is widely used in the treatment of pulmonary diseases.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  6
+1. Name:  INS 316
+2. Groups:  Investigational
+3. Description:  INS316 belongs to the family of drugs called nucleoside triphosphates.It is studied in the diagnosis of lung diseases, including lung cancer. It is selective P2y2 receptor antagonists claimed to be useful as anti-inflammatory agents.
+4. Indication:  Investigated for use/treatment in lung cancer.
+DrugId:  7
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  8
+1. Name:  Aminophylline
+2. Groups:  Approved
+3. Description:  Aminophylline is a drug combination that contains theophylline and ethylenediamine in a 2:1 ratio. Once in the body, theophylline is released and acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Similar to other theophyllines, aminophylline is indicated for the treatment of lung diseases such as asthma, chronic bronchitis, and COPD. The majority of aminophylline medications are discontinued and the remaining medications on the market are in short supply.
+4. Indication:  For the treatment of bronchospasm due to asthma, emphysema and chronic bronchitis.
+DrugId:  9
+1. Name:  Fluticasone furoate
+2. Groups:  Approved
+3. Description:  Fluticasone furoate is a synthetic trifluorinated corticosteroid with potent anti-inflammatory activity. Despite the similarity in the names, fluticasone furoate and fluticasone propionate are different drugs with different properties. It is marketed under the brand name, Veramyst in the US by GlaxoSmithKline for the management of chronic obstructive pulmonary disease (COPD). FDA approved on April 27, 2007. Fluticasone furoate is available as a combination product with vilanterol, a long-acting beta-2 agonist, under the tradename Breo Ellipta. Approved by the FDA in 2013, its use is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease.
+4. Indication:  Fluticasone furoate nasal spray is indicated for the treatment of the symptoms of seasonal and perennial allergic rhinitis in patients aged 2 years and older. Breo Ellipta, a mixture of fluticasone furoate and vilanterol is indicated for the long-term, once-daily maintenance treatment of airflow obstruction in patients with COPD, including chronic bronchitis and emphysema. It is also indicated for once-daily maintenance treatment of asthma in patients aged 18 or older with reversible obstructive airways disease. Breo Ellipta should not be used for the relief of acute symptoms of asthma or COPD.
+DrugId:  10
+1. Name:  Formoterol
+2. Groups:  Approved, Investigational
+3. Description:  Formoterol is a long-acting (12 hours) beta2-agonist used in the management of asthma and/or chronic obstructive pulmonary disease (COPD). Inhaled formoterol works like other beta2-agonists, causing bronchodilatation through relaxation of the smooth muscle in the airway so as to treat the exacerbation of asthma.
+4. Indication:  For use as long-term maintenance treatment of asthma in patients 6 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma, who are using optimal corticosteroid treatment and experiencing regular or frequent breakthrough symptoms requiring use of a short-acting bronchodilator. Not indicated for asthma that can be successfully managed with occasional use of an inhaled, short-acting beta2-adrenergic agonist. Also used for the prevention of exercise-induced bronchospasm, as well as long-term treatment of bronchospasm associated with COPD.
+DrugId:  11
+1. Name:  Roflumilast
+2. Groups:  Approved
+3. Description:  Roflumilast is a phosphodiesterase-4 (PDE-4) inhibitor. Due to its selective inhibition of the PDE4 isoenzyme in lung cells, roflumilast is indicated for the management of chronic obstrtuctive pulmonary disease (COPD) exacerbations. Treatment with Roflumilast is associated with an increase in psychiatric adverse reactions, including suicide and suicidal attempts. 
+4. Indication:  Roflumilast is indicated as a treatment to reduce the risk of COPD exacerbations in patients with severe COPD associated with chronic bronchitis and a history of exacerbations. Roflumilast is not a bronchodilator and is not indicated for the relief of acute bronchospasm.
+DrugId:  12
+1. Name:  Olodaterol
+2. Groups:  Approved
+3. Description:  Olodaterol is a novel, long-acting beta2-adrenergic agonist (LABA) that exerts its pharmacological effect by binding and activating beta2-adrenergic receptors located primarily in the lungs. Beta2-adrenergic receptors are membrane-bound receptors that are normally activated by endogenous epinephrine whose signalling, via a downstream L-type calcium channel interaction, mediates smooth muscle relaxation and bronchodilation. Activation of the receptor stimulates an associated G protein which then activates adenylate cyclase, catalyzing the formation of cyclic adenosine monophosphate (cAMP) and protein kinase A (PKA). Elevation of these two molecules induces bronchodilation by relaxation of airway smooth muscles. It is by this mechanism that olodaterol is used for the treatment of chronic obstructive pulmonary disease (COPD) and the progressive airflow obstruction that is characteristic of it. Treatment with bronchodilators helps to mitigate associated symptoms such as shortness of breath, cough, and sputum production. Single doses of olodaterol have been shown to improve forced expiratory volume in 1 sec (FEV1) for 24 h in patients with COPD, allowing once daily dosing. A once-a-day treatment with a LABA has several advantages over short-acting bronchodilators and twice-daily LABAs including improved convenience and compliance and improved airflow over a 24-hour period. Despite similarities in symptoms, olodaterol is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+4. Indication:  Olodaterol is indicated for use in chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema. It is not indicated for the treatment of acute exacerbations of COPD or for the treatment of asthma.
+DrugId:  13
+1. Name:  Salmeterol
+2. Groups:  Approved
+3. Description:  Salmeterol is a long-acting beta2-adrenergic receptor agonist drug that is currently prescribed for the treatment of asthma and chronic obstructive pulmonary disease COPD.
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  14
+1. Name:  Fenspiride
+2. Groups:  Approved
+3. Description:  Fenspiride is an oxazolidinone spiro compound used as a drug in the treatment of certain respiratory diseases. It is approved for use in Russia for the treatment of acute and chronic inflammatory diseases of ENT organs and the respiratory tract (like rhinopharyngitis, laryngitis, tracheobronchitis, otitis and sinusitis), as well as for maintenance treatment of asthma.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Tulobuterol
+2. Groups:  Investigational
+3. Description:  Tulobuterol has been used in trials studying the treatment of Chronic Obstructive Pulmonary Disease.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Oxitropium
+2. Groups:  Investigational
+3. Description:  Oxitropium has been investigated for the treatment of Pulmonary Disease, Chronic Obstructive.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  AE-941
+2. Groups:  Investigational
+3. Description:  AE-941 is a naturally occurring anti-angiogenic compound, extracted from cartilage, with multiple anti-angiogenic mechanisms of action that provide broad therapeutic potential for a number of diseases. It is currently in international Phase III trials for renal cell carcinoma and non-small-cell lung cancer.
+4. Indication:  Investigated for use/treatment in kidney cancer, lung cancer, macular degeneration, multiple myeloma, prostate cancer, and psoriasis and psoriatic disorders.
+DrugId:  18
+1. Name:  Erdosteine
+2. Groups:  Investigational
+3. Description:  Erdosteine is a mucolytic. Erdosteine is a thiol derivative developed for the treatment of chronic obstructive bronchitis, including acute infective exacerbation of chronic bronchitis. Erdosteine contains 2 blocked sulfhydryl groups which are released following first-pass metabolism. The 3 active metabolites exhibit mucolytic and free radical scavenging activity. Erdosteine modulates mucus production and viscosity and increases mucociliary transport, thereby improving expectoration. It also exhibits inhibitory activity against the effects of free radicals produced by cigarette smoke. Clinical studies in patients with chronic obstructive lung disease have demonstrated the efficacy and tolerability of erdosteine. Erdosteine 300mg twice daily reduced cough (both frequency and severity) and sputum viscosity more quickly and more effectively than placebo and reduced the adhesivity of sputum more effectively than ambroxol 30mg twice daily. Co-administration of erdosteine and amoxicillin in patients with acute infective exacerbation of chronic bronchitis resulted in higher concentrations of the antibiotic in the sputum, leading to earlier and more pronounced amelioration of clinical symptoms compared with placebo. Erdosteine is associated with a low incidence of adverse events, most of which are gastrointestinal and generally mild.
+4. Indication:  Fro the treatment of chronic bronchitis in adults.
+DrugId:  19
+1. Name:  Theophylline
+2. Groups:  Approved
+3. Description:  A methylxanthine derivative from tea with diuretic, smooth muscle relaxant, bronchial dilation, cardiac and central nervous system stimulant activities. Mechanistically, theophylline acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Theophylline is marketed under several brand names such as Uniphyl and Theochron, and it is indicated mainly for asthma, bronchospasm, and COPD.
+4. Indication:  For the treatment of the symptoms and reversible airflow obstruction associated with chronic asthma and other chronic lung diseases, such as emphysema and chronic bronchitis.
+DrugId:  20
+1. Name:  Danirixin
+2. Groups:  Investigational
+3. Description:  Danirixin has been used in trials studying the treatment and basic science of Virus Diseases, Nutritional Status, Pulmonary Disease, Chronic Obstructive, and Infections, Respiratory Syncytial Virus.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Levosalbutamol
+2. Groups:  Approved, Investigational
+3. Description:  Levosalbutamol, also known as levalbuterol, is a short-acting β2 adrenergic receptor agonist used in the treatment of asthma and chronic obstructive pulmonary disease (COPD).Salbutamol has been marketed as a racemic mixture, although beta2-agonist activity resides almost exclusively in the (R)-enantiomer. The enantioselective disposition of salbutamol and the possibility that (S)-salbutamol has adverse effects have led to the development of an enantiomerically pure (R)-salbutamol formulation known as levosalbutamol (levalbuterol).
+4. Indication:  Levosalbutamol's bronchodilator properties give it indications in treatment of COPD (chronic obstructive pulmonary disease, also known as chronic obstructive lung disease) and asthma.
+DrugId:  22
+1. Name:  MDX-018
+2. Groups:  Investigational
+3. Description:  MDX-018, also known as HuMax-Inflam, is a fully human antibody that is directed to IL-8 (interleukin-8) and may have potential application in oncology and inflammation. Trials will initially focus on studies to treat glioblastoma, a cancer of the central nervous system. Other possible indications include chronic obstructive pulmonary disease (COPD) and pustular dermatoses. In pre-clinical studies, HuMax-Inflam has been shown to inhibit tumor growth in tumor models using primary human tumors in immunodeficient mice. HuMax-Inflam was also effective in reducing disease activity in palmoplantar pustulosis patients in a clinical study.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  23
+1. Name:  Seratrodast
+2. Groups:  Approved
+3. Description:  Seratrodast (INN) is a thromboxane receptor antagonist used primarily in the treatment of asthma.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Cilomilast
+2. Groups:  Investigational
+3. Description:  Cilomilast (Ariflo, SB-207,499) is a drug which was developed for the treatment of respiratory disorders such as asthma and Chronic Obstructive Pulmonary Disease (COPD). It is orally active and acts as a selective Phosphodiesterase-4 inhibitor. Following four clinical trials, the drug proved to be effective in treating COPD, however it has never been marketed due to a poor side effect profile.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  25
+1. Name:  Reslizumab
+2. Groups:  Approved, Investigational
+3. Description:  Reslizumab is a humanized interleukin-5 (IL-5) antagonist monoclonal antibody (IgG4 kappa) that is produced by recombinant DNA technology in murine myeloma non-secreting 0 (NS0) cells. IL-5 is a pro-inflammatory cytokine that is responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils [FDA Label]. Elevated levels of eosinophils increase the risk for asthma exacerbations, including both allergic forms and nonallergic forms of asthma where eosinophilia is prominent. By targeting the IL-5 and disrupting its signalling pathways, reslizumab aims to inhibit eosinophil maturation and promote programmed cell death [2].Asthma is a chronic respiratory disease that causes inflammation in the lungs with asthma attacks that lead to severe breathing difficulties. Patients often experience persistent or exacerbating symptoms overtime despite conventional first-line therapies available. Inflammation-predominant asthma, which is chatacterized by eosinophilic infiltration of airway mucosa and elevated levels of eosinophils in the blood, sputum and BAL fluid, is associated with an increased risk for recurrent exacerbation and asthma-related hospitalizations [3]. In four double-blind, randomized, placebo‑controlled trials in patients with severe asthma on currently available therapies, patients receiving reslizumab had fewer asthma attacks, and a longer time to the first attack compared to patients receiving placebo [FDA Label]. In addition, a significant improvement in lung function was seen, as measured by the volume of air exhaled by patients in one second [4]. Studies demonstrated that reslizumab was not effective in various asthma outcomes in patients without eosinophilia [1].Reslizumab was developed by Teva Pharmaceuticals. Approved by the FDA in March 2016, reslizumab is marketed under the brand name Cinqair for intravenous injection. It is injected once every four weeks via intravenous infusion. Cinqair is indicated as an add-on maintenance therapy for adults with severe asthma with an eosinophilic phenotype. It is approved for patients who have a history of severe asthma attacks (exacerbations) despite receiving their current asthma medicines. Reslizumab is marketed as Cinqaero in Europe.
+4. Indication:  Indicated for the add-on maintenance treatment of patients with severe asthma aged 18 years and older with an eosinophilic phenotype.

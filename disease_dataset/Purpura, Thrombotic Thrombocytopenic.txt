@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  SYM001
+2. Groups:  Investigational
+3. Description:  Sym001 is a recombinant polyclonal antibody consisting of 25 different anti-Rhesus D (RhD) antibodies to replace existing anti-RhD hyperimmune immunoglobulins for the treatment of Idiopathic Thrombocytopenic Purpura (ITP) and the prevention of Hemolytic Disease of Newborns (HDN).
+4. Indication:  Investigated for use/treatment in thrombocytopenia.
+DrugId:  2
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  3
+1. Name:  Avatrombopag
+2. Groups:  Investigational
+3. Description:  Avatrombopag has been used in trials studying the treatment of Thrombocytopenia, Idiopathic Thrombocytopenia Purpura, Idiopathic Thrombocytopenic Purpura (ITP), Thrombocytopenia Associated With Liver Disease, and Thrombocytopenia Related to Chronic Liver Disease, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  5
+1. Name:  Fostamatinib
+2. Groups:  Investigational
+3. Description:  Fostamatinib has been investigated for the treatment and basic science of Rheumatoid Arthritis and Immune Thrombocytopenic Purpura.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Human Rho(D) immune globulin
+2. Groups:  Approved, Investigational
+3. Description:  Human Rho(D) immune globulin is a medicine given by intramuscular or intravenous injection that is used to prevent the immunological condition known as Rh disease (or hemolytic disease of newborn). Rho (D) immune globulin is available as a sterile, lyophilized or liquid gamma globulin (IgG) fraction containing antibodies to the Rh0 (D) antigen (D antigen) under the name Rhophylac (IM/IV). Immune globullin was purified via ion-exchange chromatography method and prepared from pools of human plasma, where the donors are Rho (D)-negative donors who have been immunized with Rho(D)-positive RBCs. It was approved by FDA as treatment for suppression of rhesus (Rh) isoimmunization or chronic immune thrombocytopenic purpura (ITP) in adults.
+4. Indication:  Indicated for suppression of rhesus (Rh) isoimmunization in nonsensitized Rho (D)-negative women with an Rh-incompatible pregnancy, or in Rho (D)-negative individuals transfused with Rh0(D)-positive red blood cells (RBCs) or blood components containing Rh0(D)-positive RBCs. Also indicated in Rh0(D)-positive, non-splenectomized adult patients with chronic immune thrombocytopenic purpura (ITP) to raise platelet counts.
+DrugId:  7
+1. Name:  Romiplostim
+2. Groups:  Approved
+3. Description:  Romiplostim is a thrombopoiesis stimulating dimer Fc-peptide fusion protein (peptibody) to increase platelet production through activation of the thrombopoietin receptor. The peptibody molecule has two identical single-chain subunits, each one is made up of 269 amino acid residues. Each subunit consists of an IgG1 Fc carrier domain that is covalently attached to a polypeptide sequence that contains two binding domains to interact with thrombopoietin receptor c-Mpl. Each domain consists of 14 amino acids. Interestingly, romiplostim's amino acid sequence is not similar to that of endogenous thrombopoietin. Romiplostim is produced by recombinant DNA technology in Escherichia coli. FDA approved on August 22, 2008.
+4. Indication:  Treatment of chronic immune thrombocytopenic purpura. 
+DrugId:  8
+1. Name:  Ticlopidine
+2. Groups:  Approved
+3. Description:  Ticlopidine is an effective inhibitor of platelet aggregation. It is a prodrug that is metabolised to an active form, which blocks the ADP receptor that is involved in GPIIb/IIIa receptor activation leading to platelet aggregation. Ticlopidine is marketed under the brand name Ticlid and is indicated for patients who cannot take aspirin or in whom aspirin has not worked to prevent a thrombotic stroke. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.
+4. Indication:  Used in patients, who have had a stroke or stroke precursors and who cannot take aspirin or aspirin has not worked, to try to prevent another thrombotic stroke.
+DrugId:  9
+1. Name:  Sodium aurothiomalate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium aurothiomalate is a gold compound that is used for its immunosuppressive anti-rheumatic effects. Gold Sodium Thiomalate is supplied as a solution for intramuscular injection containing 50 mg of Gold Sodium Thiomalate per mL. It is most effective in active progressive rheumatoid arthritis and of little or no value in the presence of extensive deformities or in the treatment of other forms of arthritis.
+4. Indication:  As anti-inflammatory agent for the treatment of arthritis. Disease-modifying antirheumatic drug, DMARD.
+DrugId:  10
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  11
+1. Name:  Carbazochrome
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Carbazochrome is a hemostatic agent that causes the aggregation and adhesion of platelets in the blood to form a platelet plug, ceasing blood flow from an open wound. It is an oxidation product of adrenaline which enhances the microcirculatory tone [4]. It is hoped that this drug can be used in the future for preventing excessive blood flow during surgical operations and the treatment of hemorrhoids, but research on its effectiveness and the severity of possible side effects remains to be fairly inconclusive. It is not FDA-approved but is available as tablets or IM/SC injections in the treatment of hemorrhages in a number of countries.Carbazochrome has been investigated for use in the treatment of non-surgical acute uncomplicated hemorrhoids in a mixture with Troxerutin, and this combination therapy demonstrated efficacy and safe tolerability either at a local or systemic level [1].
+4. Indication:  Indicated for capillary and parenchymal hemorrhage (trauma, tonsillectomy, during surgery), intestinal bleeding, and thrombocytopenic purpura.
+DrugId:  12
+1. Name:  Immune Globulin Human
+2. Groups:  Approved, Investigational
+3. Description:  Intravenous immunoglobulin (IVIg) is a mixture of IgG1 and other antibodies derived from healthy human plasma via Cohn fractionation. The purification process includes cold alcohol fractionation, polyethylene glycol precipitation, and ion exchange chromatography. IVIg contains the same distribution of IgG antibody subclasses as is found in the general human population. IgG subclasses are fully represented in the following proportions: 70.3% IgG1, 24.7% IgG2, 3.1% IgG3, and 1.9% IgG4. IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders.
+4. Indication:  IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders. These indications includes idiopathic thrombocytopenic purpura, Kawasaki disease, hypogammaglobulinemia, B cell chronic lymphocytic leukemia, bone marrow transplant complications, Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy (CIDP), multiple sclerosis, rheumatoid arthritis, myesthenia gravis, Wiskott–Aldrich syndrome and inflammatory skin diseases.
+DrugId:  13
+1. Name:  Prednisolone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states. [PubChem]
+4. Indication:  For the treatment of primary or secondary adrenocortical insufficiency, such as congenital adrenal hyperplasia, thyroiditis. Also used to treat psoriatic arthritis, rheumatoid arthritis, ankylosing spondylitis, bursitis, acute gouty arthritis and epicondylitis. Also indicated for treatment of systemic lupus erythematosus, pemphigus and acute rhematic carditis. Can be used in the treatment of leukemias, lymphomas, thrombocytopenia purpura and autoimmune hemolytic anemia. Can be used to treat celiac disease, insulin resistance, ulcerative colitis and liver disorders.
+DrugId:  14
+1. Name:  AZD-9684
+2. Groups:  Investigational
+3. Description:  AZD-9684 is the first member of a new anti-thrombotic class (CPU inhibitors). It is being developed by AstraZeneca.
+4. Indication:  Investigated for use/treatment in thrombosis.
+DrugId:  15
+1. Name:  APD791
+2. Groups:  Investigational
+3. Description:  APD791 is an oral anti-thrombotic drug candidate being evaluated in a Phase 1 clinical trial by Arena. APD791 is intended to lower the risk of arterial thrombosis by reducing the amplification of platelet aggregation, arterial constriction and intimal hyperplasia mediated by serotonin.
+4. Indication:  For the treatment and prophylaxis of arterial thrombosis.
+DrugId:  16
+1. Name:  Sarracenia Purpurea
+2. Groups:  Approved, Experimental
+3. Description:  Sarracenia purpurea, commonly known as the purple pitcher plant, northern pitcher plant, turtle socks, or side-saddle flower, is a carnivorous plant in the family Sarraceniaceae.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  liposomal prostaglandin E1
+2. Groups:  Investigational
+3. Description:  Liposome-encapsulated form of prostaglandin E1 (Liprostin) is known to be a potent vasodilator and platelet inhibitor as well as an anti-inflammatory and anti-thrombotic agent. The liposomal formulation of PGE-1 changes the drug’s dynamics and improve its therapeutic index in ways that PGE-1 alone could not achieve.
+4. Indication:  Investigated for use/treatment in neuropathy (diabetic) and peripheral vascular disease.
+DrugId:  18
+1. Name:  Caplacizumab
+2. Groups:  Investigational
+3. Description:  ALX-0081 is a novel ‘first-in-class’ therapeutic Nanobody®targeting von Willebrand Factor (vWF), which can reduce the risk of thrombosis in patients with acute coronary syndrome. ALX-0081 is intended to prevent arterial thrombosis, without interfering with the desired haemostatis (wound healing) in the patient which results in less bleeding complications.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and thrombosis.
+DrugId:  19
+1. Name:  Vorapaxar
+2. Groups:  Approved
+3. Description:  Vorapaxar is a tricyclic himbacine-derived selective inhibitor of protease activated receptor (PAR-1) indicated for reducing the incidence of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or with peripheral arterial disease (PAD). By inhibiting PAR-1, a thrombin receptor expressed on platelets, vorapaxar prevents thrombin-related platelet aggregation.
+4. Indication:  Vorapaxar is indicated for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or peripheral arterial disease (PAD). It is usually co-administered with acetylsalicylic acid (ASA) and/or clopidogrel, and should therefore be administered as an addition to these medications as it has not been studied alone. 
+DrugId:  20
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  21
+1. Name:  Axitinib
+2. Groups:  Approved, Investigational
+3. Description:  Axitinib is an oral, potent, and selective inhibitor of vascular endothelial growth factor receptors (VEGFR) 1, 2, and 3. Axitinib is marketed under the name Inlyta®, and if one previous systemic therapy for kidney cell cancer has failed, axitinib is indicated.
+4. Indication:  Used in kidney cell cancer and investigated for use/treatment in pancreatic and thyroid cancer.
+DrugId:  22
+1. Name:  Emicizumab
+2. Groups:  Approved, Investigational
+3. Description:  Emicizumab is a humanized recombinant monoclonal antibody that mimics the function of the coagulation Factor VIII and it has the capacity to bind simultaneously to activated Factor IX and Factor X. The ability of Emicizumab to bind to all these three different factors allows it to overcome immunogenicity and unstable hemostatic efficacy produced by previous Factor VII agents. Emicizumab was originated as an improved form of hBS23 and it was approved on November 16, 2017, for the treatment of hemophilia A with factor VIII inhibitors.[1, 6] It was created by Chugai Pharmaceuticals Co. Ltd. and co-developed with Roche and Genentech.[5]
+4. Indication:  The main function of Emicizumab is the prevention of bleeding episodes. Thus, Emicizumab is approved for the routine prophylaxis of patients with hemophilia A that present Factor VIII inhibitors. Hemophilia A is a deficiency of coagulation Factor VIII which causes a serious bleeding disorder. The standard treatment is done with the administration of recombinant or serum-deriver Factor VIII which induces the formation of anti-factor VIII alloantibodies (Factor VIII inhibitors) and renders the standard treatment ineffective.[2]
+DrugId:  23
+1. Name:  Selexipag
+2. Groups:  Approved
+3. Description:  Selexipag was approved by the United States FDA on December 22, 2015 for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization. PAH is a relatively rare disease with usually a poor prognosis requiring more treatment options to prolong long-term outcomes. Marketed by Actelion Pharmaceuticals under brand name Uptravi, selexipag and its active metabolite, ACT-333679 (MRE-269), act as agonists of the prostacyclin receptor to increase vasodilation in the pulmonary circulation and decrease elevated pressure in the blood vessels supplying blood to the lungs. 
+4. Indication:  Selexipag is indicated for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization.
+DrugId:  24
+1. Name:  Human Varicella-Zoster Immune Globulin
+2. Groups:  Approved
+3. Description:  Human Varicella-Zoster Immune Globulin is a solvent/detergent-treated sterile liquid preparation of purified human immune globulin G (IgG) containing antibodies to varicella zoster virus (anti-VZV). It is prepared from pools of healthy human donors' plasma via anion-exchange column chromatography and was approved in 2012 under the name VariZIG to reduce the disease severity in high-risk patients who lack evidence of immunity to varicella and for whom varicella vaccine is contraindicated. The therapeutic efficacy is proven if administered within 4 days of exposure to varicella zoster virus.
+4. Indication:  Indicated for preventing and reducing the severity of chicken pox (varicella zoster virus) infections in high risk individuals within 4 days of exposure to varicella zoster virus.
+DrugId:  25
+1. Name:  Sulodexide
+2. Groups:  Approved, Investigational
+3. Description:  Sulodexide is a mixture of glycosaminoglycans (GAGs) composed of dermatan sulfate (DS) and fast moving heparin (FMH).
+4. Indication:  Sulodexide has been used clinically for the prophylaxis and treatment of vascular diseases with increased risk of thrombosis, including intermittent claudication, peripheral arterial occlusive disease and post-myocardial infarc-tion. Also investigated in the treatment of diabetic kidney disease and diabetic neuropathy. New anti-inflammatory properties have also extended its use in venous disease.

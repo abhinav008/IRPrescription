@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pegnivacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in thrombosis, coronary artery disease, and vascular diseases.
+DrugId:  2
+1. Name:  OPC-28326
+2. Groups:  Investigational
+3. Description:  At low doses, OPC 28326 selectively vasodilates the femoral arterial bed due to its inhibitory action at alpha-2-adrenoceptors while having minimal action on systemic blood pressure, heart rate and coronary, carotid, vertebral, renal, and mesenteric blood flows. It is the only clinical compound with this profile. It is currently being investigated in the treatment of peripheral vascular diseases and Raynaud's syndrome.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease and raynaud's disease.
+DrugId:  3
+1. Name:  TAFA-93
+2. Groups:  Investigational
+3. Description:  TAFA93 is a novel prodrug of the mTOR inhibitor rapamycin which has successfully completed Phase 1 clinical development. mTOR inhibitors are currently used in the prevention of organ rejection in transplantation, the treatment of autoimmune and oncological diseases, and as a component of coated stents for the treatment of coronary artery disease.
+4. Indication:  Investigated for use/treatment in transplant (rejection).
+DrugId:  4
+1. Name:  Oxygen
+2. Groups:  Approved, Vet approved
+3. Description:  Oxygen is a chemical element with symbol O and atomic number 8. Uptake of oxygen from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen. Higher level of oxygen than ambient air (hyperoxia) can be introduced under normobaric or hyperbaric conditions.
+4. Indication:  Oxygen therapy in clinical settings is used across diverse specialties, including various types of anoxia, hypoxia or dyspnea and any other disease states and conditions that reduce the efficiency of gas exchange and oxygen consumption such as respiratory illnesses, trauma, poisonings and drug overdoses. Oxygen therapy tries to achieve hyperoxia [6] to reduce the extent of hypoxia-induced tissue damage and malfunction. 
+DrugId:  5
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  6
+1. Name:  Perflubutane
+2. Groups:  Approved, Investigational
+3. Description:  Perflubutane has been used in trials studying the diagnostic of Liver Mass, Liver Diseases, Liver Metastasis, Portal Hypertension, and Peripheral Artery Disease. It is a cardiovascular drug designed to enable ultrasound to compete more effectively with nuclear stress testing; currently the leading procedure for detecting coronary heart disease.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Ergotamine
+2. Groups:  Approved
+3. Description:  A vasoconstrictor found in ergot of Central Europe. It is an alpha-1 selective adrenergic agonist and is commonly used in the treatment of migraine disorders. [PubChem]
+4. Indication:  For use as therapy to abort or prevent vascular headache, e.g., migraine, migraine variants, or so called "histaminic cephalalgia".
+DrugId:  8
+1. Name:  DG041
+2. Groups:  Investigational
+3. Description:  DG041 is a novel, first-in-class, orally-administered small molecule developmented for the prevention of arterial thrombosis and its complications.DG041, an anti-platelet compound, has shown to be a selective and potent antagonist of the EP3 receptor for prostaglandins E2. EP3 is a target that associates with increased risk of various vascular diseases. It block the formation of blood clots mediated through inflammation in atherosclerotic plaques but without increasing bleeding risk.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease.
+DrugId:  9
+1. Name:  VX-702
+2. Groups:  Investigational
+3. Description:  VX-702 is a small molecule investigational oral anti-cytokine therapy for treatment of inflammatory diseases, specifically rheumatoid arthritis (RA). It acts as a p38 MAP kinase inhibitor. In the future, VX-702 may be investigated for combination with methotrexate, a commonly used therapy for RA.
+4. Indication:  Investigated for use/treatment in coronary artery disease, inflammatory disorders (unspecified), and rheumatoid arthritis.
+DrugId:  10
+1. Name:  ETC-588
+2. Groups:  Investigational
+3. Description:  ETC-588, or LUV (large unilamellar vesicles), is made of naturally occurring lipids that circulate through arteries to facilitate the role of high-density lipoprotein (HDL) in removing accumulated cholesterol and other lipids from cells including those in the arterial wall. LUV are capable of transporting excess cholesterol from the vasculature to the liver for eventual elimination as part of the reverse lipid transport (RLT) pathway. It is believed that the removal of cholesterol by ETC-588 through this pathway may result in the reversal of atherosclerosis. Esperion is currently developing ETC-588 as a treatment for patients with acute coronary syndromes.
+4. Indication:  Investigated for use/treatment in atherosclerosis, coronary artery disease, and vascular diseases.
+DrugId:  11
+1. Name:  Fasudil
+2. Groups:  Investigational
+3. Description:  Fasudil has been investigated in Carotid Stenosis.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Amyl Nitrite
+2. Groups:  Approved
+3. Description:  Amyl Nitrite is an antihypertensive medicine. Amyl nitrite is employed medically to treat heart diseases such as angina and to treat cyanide poisoning. Like other alkyl nitrites, amyl nitrite is bioactive in mammals, being a vasodilator which is the basis of its use as a prescription medicine. As an inhalant, it also has psychoactive effect which has led to illegal drug use.
+4. Indication:  For the rapid relief of angina pectoris.
+DrugId:  13
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Almitrine
+2. Groups:  Approved
+3. Description:  A respiratory stimulant that enhances respiration by acting as an agonist of peripheral chemoreceptors located on the carotid bodies. The drug increases arterial oxygen tension while decreasing arterial carbon dioxide tension in patients with chronic obstructive pulmonary disease. It may also prove useful in the treatment of nocturnal oxygen desaturation without impairing the quality of sleep. [PubChem]
+4. Indication:  For the treatment of chronic obstructive pulmonary disease.
+DrugId:  15
+1. Name:  Isosorbide Dinitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator used in the treatment of angina pectoris. Its actions are similar to nitroglycerin but with a slower onset of action. [PubChem]
+4. Indication:  For the prevention of angina pectoris due to coronary artery disease.
+DrugId:  16
+1. Name:  Temocapril
+2. Groups:  Experimental, Investigational
+3. Description:  Temocapril is a prodrug-type angiotensin-I converting enzyme (ACE) inhibitor not approved for use in the United States, but is approved in Japan and South Korea. Temocapril can also be used in hemodialysis patients without risk of serious accumulation. 
+4. Indication:  Temocapril is an ACE inhibitor primarily indicated in the treatment of hypertension and congestive heart failure, diabetic nephropathy, and improvement of prognosis for coronary artery diseases (including acute myocardial infarction). 
+DrugId:  17
+1. Name:  Doxapram
+2. Groups:  Approved, Vet approved
+3. Description:  A central respiratory stimulant with a brief duration of action. (From Martindale, The Extra Pharmocopoeia, 30th ed, p1225)
+4. Indication:  For use as a temporary measure in hospitalized patients with acute respiratory insufficiency superimposed on chronic obstructive pulmonary disease.
+DrugId:  18
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  19
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  21
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  22
+1. Name:  Fibroblast growth factor-1
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in coronary artery disease and peripheral vascular disease.
+DrugId:  23
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  24
+1. Name:  Adomiparin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and coronary artery disease.
+DrugId:  25
+1. Name:  Regrelor
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, coronary artery disease, thrombosis, and transfusion.

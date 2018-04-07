@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ethanol
+2. Groups:  Approved
+3. Description:  A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+4. Indication:  For therapeutic neurolysis of nerves or ganglia for the relief of intractable chronic pain in such conditions as inoperable cancer and trigeminal neuralgia (tic douloureux), in patients for whom neurosurgical procedures are contraindicated.
+DrugId:  2
+1. Name:  Triclosan
+2. Groups:  Approved, Investigational
+3. Description:  An aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes. [ChEBI]
+4. Indication:  Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers. It is also used in health care settings in surgical scrubs and personnel hand washes.
+DrugId:  3
+1. Name:  Benzalkonium
+2. Groups:  Approved
+3. Description:  Benzalkonium is a quaternary ammonium compound used as a biocide, a cationic surfactant, and as a phase transfer agent [FDA Label]. Benzalkonium is more commonly contained in consumer products in its salt form, benzalkonium chloride [FDA Label]. This salt is used in a great variety of international pharmaceutical products such as eye, ear, and nasal drops or sprays as an excipient ingredient serving as an antimicrobial preservative [FDA Label]. When used as an ingredient in antiseptic and disinfectant products however, it is an active antimicrobial agent [2].
+4. Indication:  When used as an active ingredient in products like antibacterial, antiseptic, or disinfectant soaps, topical sanitizers, or cleaning agents, benzalkonium is primarily implemented in its salt form, benzalkonium chloride, where it may often be the only active ingredient present and indicated for the primary purpose of topical washing to decrease bacteria on skin [2].Conversely, when implemented as an excipient ingredient in a variety of multidose aqueous nose, eye, or ear products, benzalkonium chloride is being used as the antimicrobial preservative of choice to facilitate effective bactericidal and fungicidal actions to help minimize the growth of unwanted organisms in the multidose containers [FDA Label]. 
+DrugId:  4
+1. Name:  Benzethonium
+2. Groups:  Approved
+3. Description:  Benzethonium is a synthetic quaternary ammonium salt with surfactant, antiseptic, and broad spectrum antimicrobial properties. Its salt form, benzethonium chloride, is primarily used as a skin disinfectant at concentrations of 0.1-0.2 %, which are safe and effective concentrations for the compound specified by the U.S. Food and Drug Administration (FDA). It is additionally found in cosmetics and toiletries such as mouthwashes and anti-itch ointments. It is shown to be effective in mediating its antimicrobial action against bacteria, fungi, mold and viruses. There is evidence that benzethonium acts as a spermatocide but may cause vaginal irritation [2]. Benzethonium was identified as a novel cancer-specific compound by cell-based small-molecule screen [1].
+4. Indication:  Indicated as an antiseptic agent. No therapeutic indications for clinical use. 
+DrugId:  5
+1. Name:  Chloroxylenol
+2. Groups:  Approved
+3. Description:  Chloroxylenol, also known as para-chloro-meta-xylenol (PCMX), is an antiseptic and disinfectant agent used for skin disinfection and cleaning surgical instruments. It is also commonly used in antibacterial soaps, wound-cleansing applications and household antiseptics. The halophenol is shown to be most effective against Gram positive bacteria where it disrupts the cell wall due to its phenolic nature [1]. Chloroxylenol is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.
+4. Indication:  The predominant medical applications for which chloroxylenol is formally indicated for therapeutic use is as an application to the skin for use in cuts, bites, stings, abrasions, and for use as antiseptic hand cleaner [7].
+DrugId:  6
+1. Name:  Bronopol
+2. Groups:  Approved
+3. Description:  Nitrosating reagent for diethanolamine. Bronopol is approved for use in OTC products in Canada.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  C11-12 isoparaffin
+2. Groups:  Approved
+3. Description:  C11-12 isoparaffin is a mixture of branched chain hydrocarbons with 11C or 12C's in the alkyl chain. It is found in cosmetic and personal care products as solvents or skin conditioning agent.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Chlorhexidine
+2. Groups:  Approved, Vet approved
+3. Description:  A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque. [PubChem]
+4. Indication:  For reduction of pocket depth in patients with adult periodontitis, used as an adjunct to scaling and root planing procedures. Also for prevention of dental caries, oropharyngeal decontamination in critically ill patients, hand hygiene in health-care personnel, general skin cleanser, and catheter site preparation and care.
+DrugId:  9
+1. Name:  Isopropyl Alcohol
+2. Groups:  Approved, Investigational
+3. Description:  An isomer of 1-propanol. It is a colorless liquid having disinfectant properties. It is used in the manufacture of acetone and its derivatives and as a solvent. Topically, it is used as an antiseptic. [PubChem]
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Cocamidopropyl betaine
+2. Groups:  Approved
+3. Description:  Cocamidopropyl betaine is a mixture of closely related organic compounds derived from coconut oil and dimethylaminopropylamine that typically acts as an amphoteric surfactant in cosmetics and personal care products. It is a zwitterionic ammonium compound and fatty acid amide that contains a long hydrocarbon chain and a polar group at each end. Cocamidopropyl betaine also acts as a foam booster in shampoos, emulsifying agent, thickener, antistatic agent and rarely an antiseptic agent [Wikipedia]. Impurities formed during the manufacturing process are thought to increase the prevalence of contact sensitization and mild skin irritations.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Sodium aurothiomalate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium aurothiomalate is a gold compound that is used for its immunosuppressive anti-rheumatic effects. Gold Sodium Thiomalate is supplied as a solution for intramuscular injection containing 50 mg of Gold Sodium Thiomalate per mL. It is most effective in active progressive rheumatoid arthritis and of little or no value in the presence of extensive deformities or in the treatment of other forms of arthritis.
+4. Indication:  As anti-inflammatory agent for the treatment of arthritis. Disease-modifying antirheumatic drug, DMARD.
+DrugId:  12
+1. Name:  Didecyldimethylammonium
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Colloidal oatmeal
+2. Groups:  Approved, Nutraceutical
+3. Description:  Colloidal oatmeal is produced by grinding fine granules of oatmeal and boiling it to extract the colloidal material. It contains high concentrations of starches and beta-glucan that exhibits water-absorbing properties. Phenols are also contained in colloidal oatmeal, which possess antioxidant and anti-inflammatory activities, as well as UV-absorbing activity. Colloidal oatmeal is a FDA-approved skin protectant that temporarily protects and helps relieve minor skin irritation and itching due to rashes, eczema, poison ivy, oak, sumac, or insect bites. It is available in topical products as a skin soothing agent.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Aloe Polysaccharide
+2. Groups:  Approved, Experimental
+3. Description:  Aloe describes a genus including over 500 species of flowering succulent plants that grow in the Southern peninsula and various islands. Aloe vera is the most common species of Aloe that is cultivated for agricultural and medical purposes. It is a perennial succulent xerophyte with elongated leaves that contain a clear gel. The aloe vera gel is a rich source of polysaccharides, vitamins, minerals, amino acids, anthraquinones, enzymes, lignin, saponins, and salicylic acids. Some of the polysaccharides that are active constituents of aloe vera gel include acemannan, mannose, and cellulosic glucose. While aloe vera has a long history of commercial uses, it is still widely used in cosmetic, food and pharmaceutical products.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Benralizumab
+2. Groups:  Approved, Investigational
+3. Description:  Benralizumab is a humanized recombinant monoclonal antibody of the isotype IgG1k immunoglobulin that specifically binds to the alpha chain of the interleukin 5 receptor (IL-5R) expressed on eosinophils and basophils.[2] It inhibits the binding of IL-5 as well as the hetero-oligomerization of the alpha and beta subunits of the IL-5R, thus blocking, signal transduction. Besides, it is an afucosylated IgG which gives it high affinity for the FcγRIIIα receptor in natural killer cells, macrophages and neutrophils.[1] Benralizumab, FDA approved on November 14, 2017, was developed by MedImmune, the AstraZeneca's global biologic research and development arm.[6]
+4. Indication:  Benralizumab is indicated as a maintenance treatment of patients 12 years or older with severe asthma and an eosinophilic phenotype.[7] The pathology of severe asthma with eosinophilic phenotype is also denotated as TH2-high phenotype. The patients with this phenotype are characterized by the expression of IL-5 and IL-13, airway hyperresponsiveness, responsiveness to inhaled corticosteroids, high serum IgE and eosinophilia in blood and airway. In the TH2-high phenotype, IL-5 presents a central role as it is responsible for eosinophil differentiation, survival, activation and migration to the lungs.[3]
+DrugId:  16
+1. Name:  Baricitinib
+2. Groups:  Approved, Investigational
+3. Description:  Baricitinib is a selective and reversible Janus kinase 1 (JAK1) and 2 (JAK2) inhibitor. Janus kinases belong to the tyrosine protein kinase family and play an important role in the proinflammatory pathway signalling that is frequently over-activated in autoimmune disorders such as rheumatoid arthritis. By blocking the actions of JAK1/2, baricitinib disrupts the activation of downstream signalling molecules and proinflammatory mediators. Rheumatoid arthritis is a progressive autoimmune disease commonly associated with discomfort, diasability, and joint damage. Throughout disease progression, the disease may further lead to joint erosions and deformities, causing premature mortality, functional impairment, and reduced quality of life [3]. While there are several disease modifying antirheumatic drugs (DMARDs) available for treatment, patients often experience inadequate threapeutic resposes to these drugs. In animal models of inflammatory arthritis, baricitinib was shown to have significant anti-inflammatory effects, but also led to preservation of cartilage and bone, with no detectable suppression of humoral immunity or adverse hematologic effects [1].In February 2017, Baricitinib was approved for use in the EU as a second-line oral therapy for moderate to severe active rheumatoid arthritis in adults, either alone or in combination with methotrexate. It is marketed under the trade name Olumiant.
+4. Indication:  Indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs as monotherapy or in combination with methotrexate.
+DrugId:  17
+1. Name:  Thymol
+2. Groups:  Approved
+3. Description:  A phenol obtained from thyme oil or other volatile oils. It is used as a stabilizer in pharmaceutic preparations. It has been used for its antiseptic, antibacterial, and antifungal actions, and was formerly used as a vermifuge. (Dorland, 28th ed)
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Dimethicone
+2. Groups:  Approved
+3. Description:  Dimethicone is a silicone oil that is also known as polydimethylsiloxane (PDMS). It has viscoelastic properties. Dimethicone is used as a surfactant, antifoaming agent, carminative in various products such as medical devices, food products, and lubricants. It is used in a number of health and beauty products including hair care products such as shampoo, conditioner, leave-in conditioner, and de-tangling products. On skin, it is also observed to have moisturizing actions [6, 8].A study found that that the 100 % dimethicone product is a safe and highly effective head lice treatment for children and may serve as less toxic and less resistance-prone alternative to pesticide-containing products [3].
+4. Indication:  Dimethicone is a colorless liquid with both cosmetic and therapeutic uses. It is used in topical creams and ointments to help distribute the active ingredients. Dimethicone is used as an anti-foaming agent, a hair and skin conditioner, and in the treatment of head lice and, as an anti-bloating/anti-flatulence agent [2], [7].
+DrugId:  19
+1. Name:  Tipiracil
+2. Groups:  Approved, Investigational
+3. Description:  Tipiracil is a thymidine phosphorylase inhibitor. It is used in combination with trifluridine, in a ratio of 1:0.5, to form TAS-102. The main function of Tipiracil in TAS-102 is to increase trifluridine bioavailability by inhibiting its catabolism.[2] TAS-102 is indicated for the treatment of metastatic colorectal cancer which has been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, or with an anti-VEGF or anti-EGFR therapy.[1]
+4. Indication:  Tipiracil, in combination with trifluridine, is indicated for the treatment of refractory mestastatic colorectal cancer patients who keep progressing despite of treatment with standard chemotherapy and biologics.[3]
+DrugId:  20
+1. Name:  Glycerin
+2. Groups:  Approved, Investigational
+3. Description:  A trihydroxy sugar alcohol that is an intermediate in carbohydrate and lipid metabolism.
+4. Indication:  It is used as a solvent, emollient, pharmaceutical agent, and sweetening agent.
+DrugId:  21
+1. Name:  Triclocarban
+2. Groups:  Approved
+3. Description:  Triclocarban is an antibacterial agent that is particularly effective against Gram positive bacteria such as Staphylococcus aureus. It is a bacteriostatic compound that has been found in antibacterial soaps and other personal care products. In September 2016, the US FDA prohibited the marketing of over-the-counter (OTC) consumer antiseptic wash products containing triclocarban due to negative health effects such as bacterial resistance or hormonal effects.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Trolamine salicylate
+2. Groups:  Approved
+3. Description:  Trolamine salicylate is an organic compound or a salt formed between triethanolamine and salicylic acid. Triethanolamine neutralizes the acidity of the salicylic acid. It is a topical analgesic used for temporary relief of minor pain associated with arthritis, simple backache, muscle strains, sprains, and bruises. Unlike other topical analgesics, trolamine salicylate has no distinct odor which improves patient acceptability [2]. It also displays low systemic absorption upon dermal or topical administration [3] and has low skin irritant properties [4]. As with other salicylates, trolamine salicylate is an inhibitor of cyclo-oxygenase (COX) enzymes with no reported selectivity towards a specific enzyme isoform. Trolamine salicylate serves as an active ingredient in topical over-the-counter products for temporary management of mild to moderate muscular and joint pains.
+4. Indication:  Indicated for the temporary relief of aches, and pains of muscles and joints associated with backache, lumbago, strains, bruises, sprains and arthritic or rheumatic pain, pain of tendons and ligaments [6].
+DrugId:  23
+1. Name:  Trioxsalen
+2. Groups:  Approved
+3. Description:  Trioxsalen (trimethylpsoralen, trioxysalen or trisoralen) is a furanocoumarin and a psoralen derivative. It is obtained from several plants, mainly Psoralea corylifolia. Like other psoralens it causes photosensitization of the skin. It is administered either topically or orally in conjunction with UV-A (the least damaging form of ultraviolet light) for phototherapy treatment of vitiligo[1] and hand eczema.[2] After photoactivation it creates interstrand cross-links in DNA, which can cause programmed cell death unless repaired by cellular mechanisms. In research it can be conjugated to dyes for confocal microscopy and used to visualize sites of DNA damage.[3] The compound is also being explored for development of antisense oligonucleotides that can be cross-linked specifically to a mutant mRNA sequence without affecting normal transcripts differing at even a single base pair.
+4. Indication:  Trioxsalen is a pigmenting photosensitizing agent used in conjunction with ultraviolet light in the treatment of vitiligo.
+DrugId:  24
+1. Name:  Thyroid, porcine
+2. Groups:  Approved
+3. Description:  Desiccated thyroid or thyroid extract, refers to porcine or bovine thyroid glands, dried and powdered for therapeutic use. In the last few decades, pork alone is the usual source.Desiccated (dried) thyroid is a combination of hormones that are normally produced by your thyroid gland to regulate the body's energy and metabolism. Desiccated thyroid is given when the thyroid does not produce enough of this hormone on its own.Desiccated thyroid treats hypothyroidism (low thyroid hormone). It is also used to treat or prevent goiter (enlarged thyroid gland), and is also given as part of a medical tests for thyroid disorders.This medicine should not be used to treat obesity or weight problems.
+4. Indication:  Replacement or supplemental therapy in hypothyroidism; TSH suppression (in thyroid cancer, nodules, goiters, and enlargement in chronic thyroiditis); diagnostic agent to differentiate suspected hyperthyroidism from euthyroidism.
+DrugId:  25
+1. Name:  Uridine triacetate
+2. Groups:  Approved, Investigational
+3. Description:  Uridine triacetate, formerly known as vistonuridine, is an orally active prodrug of the naturally occurring nucleoside uridine. It is used for the treatment of hereditary orotic aciduria (Xuriden), or for the emergency treatment of fluorouracil or capecitabine overdose or toxicity (Vistogard). It is provided in the prodrug form as uridine triacetate as this form delivers 4- to 6-fold more uridine into the systemic circulation compared to equimolar doses of uridine itself. When used for the treatment or prevention of toxicity associated with fluorouracil and other antimetabolites, uridine triacetate is utilized for its ability to compete with 5-fluorouracil (5-FU) metabolites for incorporation into the genetic material of non-cancerous cells. It reduces toxicity and cell-death associated with two cytotoxic intermediates: 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). Normally, FdUMP inhibits thymidylate synthase required for thymidine synthesis and DNA replication and repair while FUTP incorporates into RNA resulting in defective strands. As a result, these metabolites are associated with various unpleasant side effects such as neutropenia, mucositis, diarrhea, and hand–foot syndrome. Like many other neoplastic agents, these side effects limit the doses of 5-FU that can be administered, which also affects the efficacy for treatment. By pre-administering with uridine (as the prodrug uridine triacetate), higher doses of 5-FU can be given allowing for improved efficacy and a reduction in toxic side effects [3]. It can also be used as a rescue therapy if severe side effects present within 96 hours after initiation of therapy. Uridine triacetate is also used for the treatment of hereditary orotic aciduria, also known as uridine monophosphate synthase deficiency. This rare congenital autosomal recessive disorder of pyrimidine metabolism is caused by a defect in uridine monophosphate synthase (UMPS), a bifunctional enzyme that catalyzes the final two steps of the de novo pyrimidine biosynthetic pathway. As a result of UMPS deficiency, patients experience a systemic deficiency of pyrimidine nucleotides, accounting for most symptoms of the disease. Additionally, orotic acid from the de novo pyrimidine pathway that cannot be converted to UMP is excreted in the urine, accounting for the common name of the disorder, orotic aciduria. Furthermore, orotic acid crystals in the urine can cause episodes of obstructive uropathy. When administered as the prodrug uridine triacetate, uridine can be used by essentially all cells to make uridine nucleotides, which compensates for the genetic deficiency in synthesis in patients with hereditary orotic aciduria. When intracellular uridine nucleotides are restored into the normal range, overproduction of orotic acid is reduced by feedback inhibition, so that urinary excretion of orotic acid is also reduced.
+4. Indication:  Marketed as the product Xuriden (FDA), uridine triacetate is indicated for the treatment of hereditary orotic aciduria.Marketed as the product Vistogard (FDA), uridine triacetate is indicated for the emergency treatment of adult and pediatric patients in the following situations: following a fluorouracil or capecitabine overdose regardless of the presence of symptoms; or who exhibit early-onset, severe or life-threatening toxicity affecting the cardiac or central nervous system, and/or early-onset, unusually severe adverse reactions (e.g., gastrointestinal toxicity and/or neutropenia) within 96 hours following the end of fluorouracil or capecitabine administration. 

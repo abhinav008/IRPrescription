@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  EC-18
+2. Groups:  Investigational
+3. Description:  EC-18 has been used in trials studying the supportive care and treatment of Chemotherapy-induced Neutropenia.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Thenalidine
+2. Groups:  Withdrawn
+3. Description:  Withdrawn from the Canadian, US, and UK markets in 1963 due to concerns involving neutropenia.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Pegfilgrastim
+2. Groups:  Approved
+3. Description:  PEGylated (at N terminus) form of human G-CSF (Granulocyte colony stimulating factor), 175 residues, produced from E. coli via bacterial fermentation.
+4. Indication:  Increases leukocyte production, for treatment in non-myeloid cancer, neutropenia and bone marrow transplant.
+DrugId:  4
+1. Name:  Lenograstim
+2. Groups:  Approved, Investigational
+3. Description:  Lenograstim is a recombinant granulocyte colony-stimulating factor which functions as an immunostimulator.
+4. Indication:  The drug is used to reduce the risk of life-threatening infection in patients with neutropenia, particularly after cytotoxic chemotherapy.Lenograstim is indicated as a treatment to reduce the duration of neutropenia and the severity of infections in patients with non-myeloid malignancy who have undergone autologous or allogeneic bone marrow transplantation, or treatment with established cytotoxic chemotherapy and in addition to reduce the incidence of infection associated with established cytotoxic chemotherapy.Lenograstim is also indicated to mobilise peripheral blood progenitor cells (PBPCs) with Lenograstim alone, or after myelosuppressive chemotherapy, in order to accelerate haematopoietic recovery by infusion of such cells, after myelosuppressive or myeloablative therapy. Lenograstim is also indicated to accelerate the engraftment of these cells after their reinfusion.GRANOCYTE is also indicated for the treatment of severe chronic neutropenia including congenital agranulocytosis (Kostmann's syndrome).
+DrugId:  5
+1. Name:  Maxy-G34
+2. Groups:  Investigational
+3. Description:  MAXY-G34 is a pegylated variant of human granulocyte-colony stimulating factor (G-CSF). This variant contains multiple non-naturally occurring lysines that have been introduced into alpha helixes of wild type human G-CSF as PEGylation sites, and from which multiple undesired, naturally occurring lysines have been removed as compared to wild type human G-CSF to avoid PEGylation of such sites. Specifically, the amino acid sequence of MAXY-G34 differs from that of human wild type G-CSF at residues 16, 34, 40, 105 and 159. This was accomplished by removing the three lysine residues at positions 16, 34 and 40, and replacing them with arginine, and substituting two new lysine residues at positions 105 and 159. MAXY-G34 is pegylated with 5 kd mPEG SPA (succinimidyl propionate) groups at 3 amino acid residues, including PEG groups attached at the amino terminal end of the protein and at two internal lysine residues, while Neulasta has a single 20 Kd PEG group attached at the N terminal end of the wild type G-CSF protein. It is being developed by Maxygen, Inc. for the treatment of chemotherapy-induced neutropenia.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy) and neutropenics.
+DrugId:  6
+1. Name:  Filgrastim
+2. Groups:  Approved
+3. Description:  Filgrastim is a recombinant, non-pegylated human granulocyte colony stimulating factor (G-CSF) analogue manufactured by recombinant DNA technology using a strain of E. coli. It is marketed as the brand name Neupogen by Amgen. Chemically, it consists of 175 amino acid residues. The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis, except for the addition of an N-terminal methionine necessary for expression in E coli. Tbo-filgrastim, which is marketed by Sicor Biotech and FDA approved on August 29, 2012, contains the same active ingredient as Neupogen and is biologically similar, but it is formulated to be short-acting. On March 6, 2015, the FDA approved the biosimilar Zarxio (filgrastim-sndz) and is indicated for use in the same conditions as Neupogen. Zarxio is marketed by Sandoz.
+4. Indication:  Filgrastim is used in patients with acute myeloid leukemia receiving induction or consolidation chemotherapy. It is also used in cancer patients receiving bone marrow transplant. In general, filgrastim increases neutrophil counts in order to decrease the risk of infection or duration of neutropenia in the aforementioned patient populations. Infection and neutropenia are adverse events associated with chemotherapy. Furthermore, filgrastim is also indicated for patients with severe chronic neutropenia. It mobilizes hematopoietic progenitor cells into the peripheral blood for collection by leukapheresis to allow for a more rapid engraftment. Tbo-filgrastim has a narrower indication profile than Neupogen - it is a leukocyte growth factor indicated for the reduction in the duration of severe neutropenia in patients with non-myeloid malignancies.
+DrugId:  7
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  8
+1. Name:  Tipiracil
+2. Groups:  Approved, Investigational
+3. Description:  Tipiracil is a thymidine phosphorylase inhibitor. It is used in combination with trifluridine, in a ratio of 1:0.5, to form TAS-102. The main function of Tipiracil in TAS-102 is to increase trifluridine bioavailability by inhibiting its catabolism.[2] TAS-102 is indicated for the treatment of metastatic colorectal cancer which has been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, or with an anti-VEGF or anti-EGFR therapy.[1]
+4. Indication:  Tipiracil, in combination with trifluridine, is indicated for the treatment of refractory mestastatic colorectal cancer patients who keep progressing despite of treatment with standard chemotherapy and biologics.[3]
+DrugId:  9
+1. Name:  Pertuzumab
+2. Groups:  Approved
+3. Description:  Pertuzumab is a recombinant humanized monoclonal antibody that targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2). It consists of two heavy chains and two lights chains that have 448 and 214 residues respectively. FDA approved June 8, 2012.
+4. Indication:  Pertuzumab is indicated for use in combination with trastuzumab and docetaxel for the treatment of patients with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease.
+DrugId:  10
+1. Name:  Tofacitinib
+2. Groups:  Approved, Investigational
+3. Description:  Tofacitinib is an inhibitor of Janus kinases, a group of intracellular enzymes involved in signalling pathways that affect hematopoiesis and immune cell function. It is approved by the FDA for treatment of moderate to severe rheumatoid arthritis that responds inadequately to methotrexate or in those who are intolerant to methotrexate.Besides rheumatoid arthritis, tofacitinib has also been studied in clinical trials for the prevention of organ transplant rejection, and is currently under investigation for the treatment of psoriasis. Known adverse effects include nausea and headache as well as more serious immunologic and hematological adverse effects. Tofacitinib is marketed under the brand name Xeljanz by Pfizer.
+4. Indication:  For the treatment of moderate to severe rheumatoid arthritis which is resistant or intolerant to methotrexate therapy. It may also be used as an adjunct to methotrexate therapy, or other non-biologic disease-modifying antirheumatic drugs (DMARDS), when methotrexate alone is not sufficient. Tofacitinib has also been investigated as a preventative therapy for kidney transplant rejections, and as a treatment for psoriasis, ulcerative colitis, and ankylosing spondylitis. It is not to be initiated in patients with a history of chronic or recurrent infections, or in the presence of active infection, even if localized, due to reports of serious and sometimes fatal infections (commonly pneumonia, herpes zoster and urinary tract infections). Use of tofacitinib is also discouraged in those who have been, or are likely to be, exposed to TB. An increased likelihood of exposure may be encountered by traveling to certain areas. In addition, tofacitinib is not to be used in patients with severe hepatic impairment, or low hemoglobin (less than 9g/dL). Cautioned is advised when using tofacitinib in patients at risk of gastrointestinal perforation, and in the elderly who are more susceptible to infection. 
+DrugId:  11
+1. Name:  Uridine triacetate
+2. Groups:  Approved, Investigational
+3. Description:  Uridine triacetate, formerly known as vistonuridine, is an orally active prodrug of the naturally occurring nucleoside uridine. It is used for the treatment of hereditary orotic aciduria (Xuriden), or for the emergency treatment of fluorouracil or capecitabine overdose or toxicity (Vistogard). It is provided in the prodrug form as uridine triacetate as this form delivers 4- to 6-fold more uridine into the systemic circulation compared to equimolar doses of uridine itself. When used for the treatment or prevention of toxicity associated with fluorouracil and other antimetabolites, uridine triacetate is utilized for its ability to compete with 5-fluorouracil (5-FU) metabolites for incorporation into the genetic material of non-cancerous cells. It reduces toxicity and cell-death associated with two cytotoxic intermediates: 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). Normally, FdUMP inhibits thymidylate synthase required for thymidine synthesis and DNA replication and repair while FUTP incorporates into RNA resulting in defective strands. As a result, these metabolites are associated with various unpleasant side effects such as neutropenia, mucositis, diarrhea, and hand–foot syndrome. Like many other neoplastic agents, these side effects limit the doses of 5-FU that can be administered, which also affects the efficacy for treatment. By pre-administering with uridine (as the prodrug uridine triacetate), higher doses of 5-FU can be given allowing for improved efficacy and a reduction in toxic side effects [3]. It can also be used as a rescue therapy if severe side effects present within 96 hours after initiation of therapy. Uridine triacetate is also used for the treatment of hereditary orotic aciduria, also known as uridine monophosphate synthase deficiency. This rare congenital autosomal recessive disorder of pyrimidine metabolism is caused by a defect in uridine monophosphate synthase (UMPS), a bifunctional enzyme that catalyzes the final two steps of the de novo pyrimidine biosynthetic pathway. As a result of UMPS deficiency, patients experience a systemic deficiency of pyrimidine nucleotides, accounting for most symptoms of the disease. Additionally, orotic acid from the de novo pyrimidine pathway that cannot be converted to UMP is excreted in the urine, accounting for the common name of the disorder, orotic aciduria. Furthermore, orotic acid crystals in the urine can cause episodes of obstructive uropathy. When administered as the prodrug uridine triacetate, uridine can be used by essentially all cells to make uridine nucleotides, which compensates for the genetic deficiency in synthesis in patients with hereditary orotic aciduria. When intracellular uridine nucleotides are restored into the normal range, overproduction of orotic acid is reduced by feedback inhibition, so that urinary excretion of orotic acid is also reduced.
+4. Indication:  Marketed as the product Xuriden (FDA), uridine triacetate is indicated for the treatment of hereditary orotic aciduria.Marketed as the product Vistogard (FDA), uridine triacetate is indicated for the emergency treatment of adult and pediatric patients in the following situations: following a fluorouracil or capecitabine overdose regardless of the presence of symptoms; or who exhibit early-onset, severe or life-threatening toxicity affecting the cardiac or central nervous system, and/or early-onset, unusually severe adverse reactions (e.g., gastrointestinal toxicity and/or neutropenia) within 96 hours following the end of fluorouracil or capecitabine administration. 
+DrugId:  12
+1. Name:  Rolapitant
+2. Groups:  Approved, Investigational
+3. Description:  Rolapitant is a potent, highly selective, long-acting Neurokinin-1 (NK-1) receptor antagonist approved for the prevention of delayed chemotherapy-induced nausea and vomiting (CINV) in adults. Delayed-phase CINV typically occurs >24 hours after chemotherapy treatment and is principally mediated by Neurokinin-1 and its ligand Substance P, which is released in the gut following chemotherapy administration. Neurokinin-1 is also known as Tachykinin Receptor 1 (TACR1), Neurokinin 1 Receptor (NK1R), and Substance P Receptor (SPR).By blocking Substance P from interacting with NK-1 receptors in the gut and the central nervous system, rolapitant prevents late-phase CINV. Unlike other available NK-1 receptor antagonists, rolapitant is not an inhibitor of Cytochrome P450 enzyme CYP3A4 and has a long elimination half-life, allowing a single dose to prevent both acute and late-phase CINV during the first 120 hours post-chemotherapy.
+4. Indication:  Rolapitant is indicated in combination with other antiemetic agents in adults for the prevention of delayed nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy, including, but not limited to, highly emetogenic chemotherapy.
+DrugId:  13
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  14
+1. Name:  Ramucirumab
+2. Groups:  Approved, Investigational
+3. Description:  Ramucirumab is a human monoclonal antibody (IgG1) against vascular endothelial growth factor receptor 2 (VEGFR2), a type II trans-membrane tyrosine kinase receptor expressed on endothelial cells. By binding to VEGFR2, ramucirumab prevents binding of its ligands (VEGF-A, VEGF-C, and VEGF-D), thereby preventing VEGF-stimulated receptor phosphorylation and downstream ligand-induced proliferation, permeability, and migration of human endothelial cells. VEGFR stimulation also mediates downstream signalling required for angiogenesis and is postulated to be heavily involved in cancer progression, making it a highly likely drug target. In contrast to other agents directed against VEGFR-2, ramucirumab binds a specific epitope on the extracellular domain of VEGFR-2, thereby blocking all VEGF ligands from binding to it. Ramucirumab is indicated for us in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+4. Indication:  For use in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+DrugId:  15
+1. Name:  Obinutuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Obinutuzumab is a humanized monoclonal antibody used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia. It was approved by the FDA in November 2013 and is marketed under the brand name Gazyva. There is a black box warning of fatal Hepatitis B Virus (HBV) reactivation and fatal Progressive Multifocal Leukoencephalopathy (PML).
+4. Indication:  Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
+DrugId:  16
+1. Name:  Olaratumab
+2. Groups:  Approved, Investigational
+3. Description:  Olaratumab (IMC-3G3) is a fully human IgG1 monoclonal antibody with antitumor activity that selectively binds the external domain of human platelet-derived growth factor receptor (PDGFR)-α with high affinity and blocks ligand binding. It is composed of two heavy chain molecule fragments and 2 light chain fragments. Studies show that the treatment of olaratumab in combination with doxorubicin resulted in significant reduction of cancer cell proliferation and tumor growth. Olaratumab was granted accelerated approval (as Lartruvo) as initial therapy to treat adults with certain types of soft tissue sarcoma (STS) in October, 2016.
+4. Indication:  Olaratumab is indicated, in combination with doxorubicin, for the treatment of adult patients with advanced or mestastatic soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery.
+DrugId:  17
+1. Name:  Deferiprone
+2. Groups:  Approved
+3. Description:  Deferiprone is an oral iron chelator used as a second line agent in thalassemia syndromes when iron overload from blood transfusions occurs. Thalassemias are a type of hereditary anaemia due a defect in the production of hemoglobin. As a result, erythropoiesis, the production of new red blood cells, is impaired. FDA approved on October 14, 2011. 
+4. Indication:  Deferiprone is indicated in thalassemia syndromes when first line chelation agents are not adequate to treat transfusional iron overload.
+DrugId:  18
+1. Name:  Cladribine
+2. Groups:  Approved, Investigational
+3. Description:  An antineoplastic agent used in the treatment of lymphoproliferative diseases including hairy-cell leukemia. [PubChem]
+4. Indication:  For the treatment of active hairy cell leukemia (leukemic reticuloendotheliosis) as defined by clinically significant anemia, neutropenia, thrombocytopenia, or disease-related symptoms. Also used as an alternative agent for the treatment of chronic lymphocytic leukemia (CLL), low-grade non-Hodgkin's lymphoma, and cutaneous T-cell lymphoma.
+DrugId:  19
+1. Name:  Cupric Chloride
+2. Groups:  Approved, Investigational
+3. Description:  Cupric chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  20
+1. Name:  Ticlopidine
+2. Groups:  Approved
+3. Description:  Ticlopidine is an effective inhibitor of platelet aggregation. It is a prodrug that is metabolised to an active form, which blocks the ADP receptor that is involved in GPIIb/IIIa receptor activation leading to platelet aggregation. Ticlopidine is marketed under the brand name Ticlid and is indicated for patients who cannot take aspirin or in whom aspirin has not worked to prevent a thrombotic stroke. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.
+4. Indication:  Used in patients, who have had a stroke or stroke precursors and who cannot take aspirin or aspirin has not worked, to try to prevent another thrombotic stroke.
+DrugId:  21
+1. Name:  Cyclophosphamide
+2. Groups:  Approved, Investigational
+3. Description:  Precursor of an alkylating nitrogen mustard antineoplastic and immunosuppressive agent that must be activated in the liver to form the active aldophosphamide. It has been used in the treatment of lymphoma and leukemia. Its side effect, alopecia, has been used for defleecing sheep. Cyclophosphamide may also cause sterility, birth defects, mutations, and cancer. [PubChem]
+4. Indication:  Cyclophosphamide is indicated for the treatment of malignant lymphomas, multiple myeloma, leukemias, mycosis fungoides (advanced disease), neuroblastoma (disseminated disease), adenocarcinoma of the ovary, retinoblastoma, and carcinoma of the breast. It is also indicated for the treatment of biopsy-proven minimal change nephrotic syndrome in pediatric patients. 
+DrugId:  22
+1. Name:  Albendazole
+2. Groups:  Approved, Vet approved
+3. Description:  A benzimidazole broad-spectrum anthelmintic structurally related to mebendazole that is effective against many diseases. (From Martindale, The Extra Pharmacopoeia, 30th ed, p38)
+4. Indication:  For the treatment of parenchymal neurocysticercosis due to active lesions caused by larval forms of the pork tapeworm, Taenia solium and for the treatment of cystic hydatid disease of the liver, lung, and peritoneum, caused by the larval form of the dog tapeworm, Echinococcus granulosus.
+DrugId:  23
+1. Name:  Pomalidomide
+2. Groups:  Approved
+3. Description:  Pomalidomide, an analogue of thalidomide, is an immunomodulatory antineoplastic agent. FDA approved on February 8, 2013.
+4. Indication:  Pomalidomide is indicated for patients with multiple myeloma who have received at least two prior therapies including lenalidomide and bortezomib and have demonstrated disease progression on or within 60 days of completion of the last therapy.
+DrugId:  24
+1. Name:  Cabazitaxel
+2. Groups:  Approved
+3. Description:  Cabazitaxel is an anti-neoplastic used with the steroid medicine prednisone. Cabazitaxel is used to treat people with prostate cancer that has progressed despite treatment with docetaxel. Cabazitaxel is prepared by semi-synthesis with a precursor extracted from yew needles (10-deacetylbaccatin III). It was approved by the U.S. Food and Drug Administration (FDA) on June 17, 2010.
+4. Indication:  For treatment of patients with hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing treatment regimen.
+DrugId:  25
+1. Name:  Aflibercept
+2. Groups:  Approved
+3. Description:  Aflibercept is a recombinant fusion protein that comprises of two main components: the vascular endothelial growth factor (VEGF) binding portions from the extracellular domains of human VEGF receptors 1 and 2 which is then fused to the Fc portion of human IgG1. Structurally, Aflibercept is a dimeric glycoprotein with a protein molecular weight of 96.9 kilo Daltons (kDa). It contains approximately 15% glycosylation to give a total molecular weight of 115 kDa. All five putative N-glycosylation sites on each polypeptide chain predicted by the primary sequence can be occupied with carbohydrate and exhibit some degree of chain heterogeneity, including heterogeneity in terminal sialic acid residues, except at the single unsialylated site associated with the Fc domain. Aflibercept, as an ophthalmic agent, is used in the treatment of macular edema following Central Retinal Vein Occlusion (CRVO) and neovascular Age-Related Macular Degeneration (AMD). Ziv-aflibercept, under the brand name Zaltrap, was developed as an injection for treatment of metastatic colorectal cancer. FDA approved in November 18, 2011 and EMA approved in November 2012.
+4. Indication:  The opthalmic agent is used for the treatment of neovascular (wet) age-related mascular degeneration (AMD) and macular edema following central retinal vein occulsion (CRVO). The systemic injection, known as ziv-aflibercept, in combination with 5-fluorouracil, leucovorin, irinotecan-(FOLFIRI), is for the treatment of metastatic colorectal cancer that is resistant to or progressed following treatment with oxaliplatin. 

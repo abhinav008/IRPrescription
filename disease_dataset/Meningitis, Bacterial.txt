@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Meningococcal group A polysaccharide
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group A polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup A. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup A.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Meningococcal group C polysaccharide
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Meningococcal group C polysaccharide is group-specific polysaccharide antigens extracted and purified from Neisseria meningitidis serogroup C. N. meningitidis is a bacteria that causes endemic and epidemic diseases including meningitis and meningococcemia. It is subcutaneously administered as an active immunization against the invasive meningococcal disease caused by the serogroup C.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Sulfacytine
+2. Groups:  Approved
+3. Description:  Sulfacytine is a short-acting sulfonamide. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of p-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections.Sulfacytine is a competitive inhibitor of the enzyme dihydropteroate synthetase. It inhibits bacterial synthesis of of dihydrofolic acid by preventing the condensation of the pteridine with para-aminobenzoic acid (PABA), a substrate of the enzyme dihydropteroate synthetase. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.
+4. Indication:  Used orally in the treatment of acute urinary tract infections.
+DrugId:  4
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  5
+1. Name:  Azidocillin
+2. Groups:  Approved
+3. Description:  Azidocillin is a penicillin antibiotic similir to ampicillin.
+4. Indication:  For treatment of infection (Respiratory, GI, UTI and meningitis) due to E. coli, P. mirabilis, enterococci, Shigella, S. typhosa and other Salmonella, nonpenicillinase-producing N. gononhoeae, H. influenzae, staphylococci, streptococci including streptoc
+DrugId:  6
+1. Name:  Sulfamoxole
+2. Groups:  Approved
+3. Description:  Sulfamoxole is a sulfonamide antibacterial.
+4. Indication:  For the treatment of bacterial infection.
+DrugId:  7
+1. Name:  Sulfadiazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections. [PubChem]
+4. Indication:  For the treatment of rheumatic fever and meningococcal meningitis
+DrugId:  8
+1. Name:  Latamoxef
+2. Groups:  Approved, Investigational
+3. Description:  Broad- spectrum beta-lactam antibiotic similar in structure to the cephalosporins except for the substitution of an oxaazabicyclo moiety for the thiaazabicyclo moiety of certain cephalosporins. It has been proposed especially for the meningitides because it passes the blood-brain barrier and for anaerobic infections. [PubChem]
+4. Indication:  Latamoxef is an oxacephem antibiotic usually grouped with the cephalosporins. It is used to treat bacterial infections. Latamoxef is primarily indicated in conditions like Bone and joint infection, GI infections, Gynecological infections, Meningitis, Respiratory tract infections, Septicaemia, Skin infections, Soft tissue infections, UTI. 
+DrugId:  9
+1. Name:  Sulfamethizole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfathiazole antibacterial agent. [PubChem]
+4. Indication:  For the treatment of urinary tract infection
+DrugId:  10
+1. Name:  Sulfametopyrazine
+2. Groups:  Approved, Withdrawn
+3. Description:  Long-acting plasma-bound sulfonamide used for respiratory and urinary tract infections and also for malaria. [PubChem]
+4. Indication:  For the treatment of urinary tract infection and chronic bronchitis.
+DrugId:  11
+1. Name:  Sulfoxone
+2. Groups:  Approved
+3. Description:  Sulfoxone is a water-soluble sulfone used as an antileprosy drug. It has been used with limited success in the treatment of dermatitis herpetiformis.
+4. Indication:  For the treatment of leprosy and dermatitis herpetiformis
+DrugId:  12
+1. Name:  Sulfanilamide
+2. Groups:  Approved
+3. Description:  Sulfanilamide is a molecule containing the sulfonamide functional group attached to an aniline. [Wikipedia]
+4. Indication:  For the treatment of vulvovaginitis caused by Candida albicans.
+DrugId:  13
+1. Name:  Sulfapyridine
+2. Groups:  Approved
+3. Description:  Antibacterial, potentially toxic, and previously used to treat certain skin diseases. No longer prescribed. 
+4. Indication:  For the treatment of dermatitis herpetiformis, benign mucous membrane pemphigoid and pyoderma gangrenosum
+DrugId:  14
+1. Name:  Ampicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Ampicillin is a semi-synthetic derivative of penicillin that functions as an orally active broad-spectrum antibiotic.
+4. Indication:  For treatment of infection (Respiratory, GI, UTI and meningitis) due to E. coli, P. mirabilis, enterococci, Shigella, S. typhosa and other Salmonella, nonpenicillinase-producing N. gononhoeae, H. influenzae, staphylococci, streptococci including streptoc
+DrugId:  15
+1. Name:  Meropenem
+2. Groups:  Approved, Investigational
+3. Description:  Meropenem is a broad-spectrum carbapenem antibiotic. It is active against Gram-positive and Gram-negative bacteria. Meropenem exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death.In August 2017, a combination antibacterial therapy under the market name vabomere was approved for treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of meropenem and Vaborbactam and is intravenously admininstered. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  For use as single agent therapy for the treatment of the following infections when caused by susceptible isolates of the designated microorganisms: complicated skin and skin structure infections due to Staphylococcus aureus (b-lactamase and non-b-lactamase producing, methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (excluding vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis and Peptostreptococcus species; complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species. Also for use in the treatment of bacterial meningitis caused by Streptococcus pneumoniae, Haemophilus influenzae (b-lactamase and non-b-lactamase-producing isolates), and Neisseria meningitidis.
+DrugId:  16
+1. Name:  Erythromycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Erythromycin is a macrolide antibiotic produced by Saccharopolyspora erythraea (formerly Streptomyces erythraeus). It inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits; binding inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins. Erythromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For use in the treatment of infections caused by susceptible strains of microorganisms in the following diseases: respiratory tract infections (upper and lower) of mild to moderate degree, pertussis (whooping cough), as adjunct to antitoxin in infections due to Corynebacterium diphtheriae, in the treatment of infections due to Corynebacterium minutissimum, intestinal amebiasis caused by Entamoeba histolytica, acute pelvic inflammatory disease caused by Neisseria gonorrhoeae, skin and soft tissue infections of mild to moderate severity caused by Streptococcus pyogenes and Staphylococcus aureus, primary syphilis caused by Treponema pallidum, infections caused by Chlamydia trachomatis, nongonococcal urethritis caused by Ureaplasma urealyticum, and Legionnaires' disease caused by Legionella pneumophila.
+DrugId:  17
+1. Name:  Benzylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Benzylpenicillin (Penicillin G) is narrow spectrum antibiotic used to treat infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered intravenously or intramuscularly due to poor oral absorption. Penicillin G may also be used in some cases as prophylaxis against susceptible organisms.Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as Streptococcus pneumoniae, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (S. agalactiae), S. viridans, and Enterococcus faecalis. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as Bacillus anthracis, Corynebacterium diphtheriae, and Erysipelothrix rhusiopathiae. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by Neisseria meningitidis and Pasteurella. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+4. Indication:  For use in the treatment of severe infections caused by penicillin G-susceptible microorganisms when rapid and high penicillin levels are required such as in the treatment of septicemia, meningitis, pericarditis, endocarditis and severe pneumonia.
+DrugId:  18
+1. Name:  Sulfacetamide
+2. Groups:  Approved
+3. Description:  An anti-infective agent that is used topically to treat skin infections and orally for urinary tract infections. [PubChem]
+4. Indication:  For the treatment of bacterial vaginitis, keratitis, acute conjunctivitis, and blepharitis.
+DrugId:  19
+1. Name:  Evernimicin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection.
+DrugId:  20
+1. Name:  Ceftazidime
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibacterial derived from cephaloridine and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+4. Indication:  For the treatment of patients with infections caused by susceptible strains of organisms in the following diseases: lower respiratory tract infections,skin and skin structure infections, urinary tract infections, bacterial septicemia, bone and joint infections, gynecologic infections, intra abdominal infections (including peritonitis), and central nervous system infections (including meningitis).
+DrugId:  21
+1. Name:  Cefotaxime
+2. Groups:  Approved
+3. Description:  Cefotaxime is a third-generation cephalosporin antibiotic. Like other third-generation cephalosporins, it has broad spectrum activity against Gram positive and Gram negative bacteria. In most cases, it is considered to be equivalent to ceftriaxone in terms of safety and efficacy. Cefotaxime sodium is marketed under various trade names including Claforan (Sanofi-Aventis).
+4. Indication:  Used to treat gonorrhoea, meningitis, and severe infections including infections of the kidney (pyelonephritis) and urinary system. Also used before an operation to prevent infection after surgery.
+DrugId:  22
+1. Name:  Neisseria meningitidis group w-135 capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved
+3. Description:  Neisseria meningitidis group w-135 capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup W-135. The vaccine contains N. meningitis serogroup W-135 capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Neisseria meningitidis group y capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved
+3. Description:  Neisseria meningitidis group y capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup W-135. The vaccine contains* N. meningitis* serogroup y capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Neisseria meningitidis group c capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved
+3. Description:  Neisseria meningitidis group c capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup c. The vaccine contains N. meningitis serogroup c capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Neisseria meningitidis group a capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved, Investigational
+3. Description:  Neisseria meningitidis group a capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup a. The vaccine contains N. meningitis serogroup a capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available

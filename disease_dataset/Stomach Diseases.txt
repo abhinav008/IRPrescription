@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bismuth Subsalicylate
+2. Groups:  Approved, Vet approved
+3. Description:  Bismuth subsalicylate is the active ingredient in the popular medication Pepto-Bismol that is used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract. It is also the main ingredient of Kaopectate. It displays anti-inflammatory action (due to salicylic acid) and also acts as an antacid and mild antibiotic.
+4. Indication:  Used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract.
+DrugId:  2
+1. Name:  Pranlukast
+2. Groups:  Approved, Investigational
+3. Description:  Pranlukast is a cysteinyl leukotriene receptor-1 antagonist. It antagonizes or reduces bronchospasm caused, principally in asthmatics, by an allergic reaction to accidentally or inadvertently encountered allergens.
+4. Indication:  Used as an adjunct to the standard therapy of inhaled steroids with inhaled long- and/or short-acting beta-agonists. 
+DrugId:  3
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  5
+1. Name:  Apixaban
+2. Groups:  Approved
+3. Description:  Apixaban is an oral, direct, and highly selective factor Xa (FXa) inhibitor (of both free and prothrombinase-bound FXa independently of antithrombin III) for the prevention and treatment of thromboembolic diseases. It is marketed under the name Eliquis. FDA approved on December 28, 2012.
+4. Indication:  Apixaban is to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. It has also been used to lower the risk of developing venous thrombosis post-orthopedic surgical procedures. 
+DrugId:  6
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Magnesium carbonate
+2. Groups:  Approved, Investigational
+3. Description:  Magnesium carbonate, also known as magnesite, is a common over the counter remedy for heartburn and upset stomach caused by overproduction of acid in the stomach [FDA Label].
+4. Indication:  Used as an over the counter antacid [5].
+DrugId:  8
+1. Name:  Bismuth Subcitrate
+2. Groups:  Approved, Investigational
+3. Description:  A bismuth compound used for peptic ulcer and gastro-oesophageal reflux disease (GORD).
+4. Indication:  For the treatment of peptic ulcer and gastro-oesophageal reflux disease (GORD).Treatment of inflammatory and erosive-ulcerous diseases of gastric and duodenal mucosa: gastritis, ulcer disease of the stomach and duodenum, functional non-ulcerous dyspepsia, erosive duodenitis, post-operative inflammatory and erosive changes – anastomositis, peptic ulcer of anastomosis
+DrugId:  9
+1. Name:  Oxtriphylline
+2. Groups:  Approved
+3. Description:  Oxtriphylline is the choline salt form of theophylline. Once in the body, theophylline is released and acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Its main physiological reponse is to dilate the bronchioles. As such, oxytriphylline is indicated mainly for asthma, bronchospasm, and COPD (i.e. all the same indications as the other theophyllines). It is marketed under the name Choledyl SA, and several forms of oxytriphylline have been discontinued. In the US, oxtriphylline is no longer available.
+4. Indication:  Used to treat the symptoms of asthma, bronchitis, COPD, and emphysema.
+DrugId:  10
+1. Name:  Indusatumab vedotin
+2. Groups:  Investigational
+3. Description:  Indusatumab vedotin has been used in trials studying the treatment of Pancreatic Adenocarcinoma, Adenocarcinoma of the Stomach, Recurrent Gastric Adenocarcinoma, Metastatic Gastric Adenocarcinoma, and Advanced Gastrointestinal Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Pegamotecan
+2. Groups:  Investigational
+3. Description:  Pegamotecan has been used in trials studying the treatment of Cancer of Stomach, Sarcoma, Soft Tissue, and Gastroesophageal Cancer.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Risedronate
+2. Groups:  Approved, Investigational
+3. Description:  Risedronate is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat Paget's disease of bone.
+4. Indication:  For the treatment of Paget's disease of the bone (osteitis deformans), postmenopausal and glucocorticoid-induced osteoporosis
+DrugId:  13
+1. Name:  Secretin
+2. Groups:  Approved, Investigational
+3. Description:  This drug is the synthetic form of natural secretin. It is prepared using solid phase peptide synthesis. Secretin is a peptide hormone produced in the S cells of the duodenum. Its main effect is to regulate the pH of the small intestine’s contents through the control of gastric acid secretion and buffering with bicarbonate. It was the first hormone to be discovered.
+4. Indication:  For diagnosis of pancreatic exocrine dysfunction and gastrinoma
+DrugId:  14
+1. Name:  Pepsin
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Pepsin is a peptide hydrolase produced in the stomach that breaks down proteins into smaller peptides. When hydrochloric acid mixes with the zymogen pepsinogen that is released by the chief cells in the stomach wall, the acidic environment promotes the autocatalytic cleavage of pepsinogen to form the activated form of pepsin. Pepsin is an aspartic protease that uses a catalytic aspartate in its active site and is most effective in cleaving peptide bonds between hydrophobic and preferably aromatic amino acids. Pepsin used as a food ingredient in commercial application is extracted from hog stomach. It is used in pharmaceutical applications to prepare and purify antibody fragments.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  16
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  17
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  19
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Iopodic acid
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Iopodic acid, also known by the name of ipodate, is classified as a cholecystographic agent formed by a weak organic acid that contains a tri-iodinated benzene ring with iodine at positions 2, 4 and 6.[1] Due to its particular structure, it presents a high degree of lipid solubility and a radiopaque property. It was developed and filed to the FDA by the company BRACCO. This drug was approved on March 15, 1962 but it is nowadays discontinued from the FDA and Health Canada. On September 22, 1981, ipodate was submitted again by the company Schering AG but it is currently under an inactive status.[7]
+4. Indication:  Iopodic acid is available as a cholecystographic agent. This denomination indicates the iopodic acid is a radiopaque substance that can be used to visualize the gallbladder and biliary channels in abdominal X-ray.[8, 4] An abdominal X-ray uses a minimal amount of ionizing radiation to produce pictures of the inside of the abdominal cavity. It is commonly used to evaluate the stomach, liver, intestines, and spleen.[9]Iopodic acid has also been indicated for the treatment of hyperthyroidism such as Graves disease.[2, 3] Hyperthyroidism refers to any condition where there is too much thyroid hormone produced in the body (overactive thyroid). When the overactivity involves the entire thyroid gland, it is known as Grave's disease.[10]
+DrugId:  21
+1. Name:  Zafirlukast
+2. Groups:  Approved, Investigational
+3. Description:  Zafirlukast is an oral leukotriene receptor antagonist (LTRA) for the maintenance treatment of asthma, often used in conjunction with an inhaled steroid and/or long-acting bronchodilator. It is available as a tablet and is usually dosed twice daily. Another leukotriene receptor antagonist is montelukast (Singulair), which is usually taken just once daily.Zafirlukast blocks the action of the cysteinyl leukotrienes on the CysLT1 receptors, thus reducing constriction of the airways, build-up of mucus in the lungs and inflammation of the breathing passages.
+4. Indication:  For the prophylaxis and chronic treatment of asthma.
+DrugId:  22
+1. Name:  Glutamic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  A peptide that is a homopolymer of glutamic acid.
+4. Indication:  Considered to be nature's "Brain food" by improving mental capacities; helps speed the healing of ulcers; gives a "lift" from fatigue; helps control alcoholism, schizophrenia and the craving for sugar.
+DrugId:  23
+1. Name:  Montelukast
+2. Groups:  Approved
+3. Description:  Montelukast is a leukotriene receptor antagonist (LTRA) used for the maintenance treatment of asthma and to relieve symptoms of seasonal allergies. It is usually administered orally. Montelukast blocks the action of leukotriene D4 on the cysteinyl leukotriene receptor CysLT1 in the lungs and bronchial tubes by binding to it. This reduces the bronchoconstriction otherwise caused by the leukotriene, and results in less inflammation. Because of its method of operation, it is not useful for the treatment of acute asthma attacks. Again because of its very specific locus of operation, it does not interact with other allergy medications such as theophylline. Montelukast is marketed in United States and many other countries by Merck & Co. with the brand name Singulair®. It is available as oral tablets, chewable tablets, and oral granules. In India and other countries, it is also marketed under the brand name Montair®, produced by Indian company Cipla.
+4. Indication:  For the treatment of asthma
+DrugId:  24
+1. Name:  Busulfan
+2. Groups:  Approved, Investigational
+3. Description:  Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen. [PubChem]
+4. Indication:  For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.
+DrugId:  25
+1. Name:  Urea C-14
+2. Groups:  Approved
+3. Description:  Urea 14C is a urea molecule radiolabelled with a radioactive carbon-14. It is currently used for the Urea Breath Test (UBT) and is available as a rapid diagnostic test (marketed as PyTest) for the detection of Helicobacter pylori infections. H pylori is a common stomach bacteria that has been linked to a variety of upper gastrointestinal disorders such as gastritis, gastric and peptic ulcers, stomach cancer, and gastric mucosa-associated lymphoid-tissue (MALT) lymphoma. The UBT is indicated to confirm H. pylori infection and to monitor post-treatment for its eradication. Radiolabelled urea is available in two forms as 13C and 14C. Both forms can be used within the Urea Breath Test, however some may prefer 13C as it is non-radioactive compared to 14C, which may be preferable in pregnant women and children.The Urea Breath Test is based on the ability of the H. pylori enzyme urease to cleave urea into ammonia and carbon dioxide. As the urease enzyme is not present in mammalian cells, the presence of urease (and the products of urea cleavage) in the stomach is evidence that H. pylori bacteria are present. To detect H. pylori, urea labeled with 14C is swallowed by the patient. If gastric urease from H. pylori is present, urea is split to form CO2 and NH3 at the interface between the gastric epithelium and lumen and 14CO2 is absorbed into the blood and exhaled in the breath. Exhaled breath samples can then be collected and measured for the presence of radioactivity.
+4. Indication:  14C-urea is intended for use in the detection of gastric urease as an aid in the diagnosis of Helicobacter pylori (H. pylori) infection in the human stomach. The test utilizes a liquid scintillation counter for the measurement of 14CO2 in breath samples.

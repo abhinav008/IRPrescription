@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Triflupromazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine used as an antipsychotic agent and as an antiemetic. [PubChem]
+4. Indication:  Used mainly in the management of psychoses. Also used to control nausea and vomiting.
+DrugId:  2
+1. Name:  Pancuronium
+2. Groups:  Approved
+3. Description:  A bis-quaternary steroid that is a competitive nicotinic antagonist. As a neuromuscular blocking agent it is more potent than curare but has less effect on the circulatory system and on histamine release.
+4. Indication:  Used as a muscle relaxant during anesthesia and surgical procedures.
+DrugId:  3
+1. Name:  Ciliary neurotrophic factor
+2. Groups:  Investigational
+3. Description:  Ciliary neurotrophic factor (NT-501) is Neurotech's lead product which is in two Phase II/III clinical trials for the treatment of visual loss associated with retinitis pigmentosa and a Phase II trial for the treatment of the dry form of age-related macular degeneration. Neurotech is also evaluating other factors that can be used with its proprietary delivery technology, Encapsulated Cell Technology (ECT), to treat additional retinal diseases.
+4. Indication:  Investigated for use/treatment in eye disorders/infections, macular degeneration, and retinal disorders (unspecified).
+DrugId:  4
+1. Name:  TRO19622
+2. Groups:  Investigational
+3. Description:  TRO19622 is a cholesterol-like small molecule that has demonstrated a remarkable neuroprotective profile in a battery of both in vitro and in vivo preclinical models. For example, it has demonstrated the ability to prevent neurodegeneration, enhance nerve function and accelerate neuroregeneration following nerve trauma. 
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  5
+1. Name:  PYM50028
+2. Groups:  Investigational
+3. Description:  Cogane (PYM50028/P58, p59, p63) is a novel non-peptide, orally bioavailable neurotrophic factor inducer that readily reverses free radical neurotoxicity produced by 1-ethyl-4- phenylpyridium (MPP+) in dopaminergic neurones and reverses the decrease of neuronal growth factors and dopamine receptors in the brain. Pre-clinical work with Cogane showed it to be neuroprotective against betya-amyloid and glutamate damage which contributes to Alzheimer's disease and reverses the changes in the area of the brain involved in Parkinson’s disease.P58 is a protein synthesis stimulant acts by restoring levels of proteins that are altered in the ageing brain, reversing the loss of nerve receptors in the ageing brain and potentially allowing for the regrowth of neural connections. P58 therefore provides a totally novel mode of action with potential importance for diseases associated with ageing of the brain. P58 is one of a family of phytochemicals (Cogane) isolated from traditional treatments for the elderly that have previously been shown to offer significant benefit in the treatment of senile dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, parkinson's disease and other neurodegenerative diseases.
+DrugId:  6
+1. Name:  Tropisetron
+2. Groups:  Approved, Investigational
+3. Description:  Tropisetron is an indole derivative with antiemetic activity. As a selective serotonin receptor antagonist, tropisetron competitively blocks the action of serotonin at 5HT3 receptors, resulting in suppression of chemotherapy-and radiotherapy-induced nausea and vomiting.Tropisetron appears to be well tolerated with the most frequently reported adverse effect being headache. Extrapyramidal side effects are rare upon using tropisetron.
+4. Indication:  For the prevention of nausea and vomiting induced by cytotoxic therapy and postoperative. 
+DrugId:  7
+1. Name:  Granisetron
+2. Groups:  Approved, Investigational
+3. Description:  A serotonin receptor (5HT-3 selective) antagonist that has been used as an antiemetic and antinauseant for cancer chemotherapy patients. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with initial and repeat courses of emetogenic cancer therapy (including high dose cisplatin), postoperation, and radiation (including total body irradiation and daily fractionated abdominal radiation).
+DrugId:  8
+1. Name:  Dilmapimod
+2. Groups:  Investigational
+3. Description:  Dilmapimod has been used in trials studying the treatment and diagnostic of Nerve Trauma, Inflammation, Pain, Neuropathic, Arthritis, Rheumatoid, and Coronary Heart Disease, among others. Dilmapimod (SB-681323) is a p38 MAP-kinase inhibitor that has potential uses in inflammatory conditions such as RA (Rheumatoid Arthritis). Previous p38 MAP-kinase inhibitors have been hindered in development by liver toxicity. Methotrexate (common treatment for RA patients) also has potential liver toxicity.}
+4. Indication:  Dilmapimod has been used in trials studying the treatment and diagnostic of Nerve Trauma, Inflammation, Pain, Neuropathic, Arthritis, Rheumatoid, and Coronary Heart Disease, among others.
+DrugId:  9
+1. Name:  Palonosetron
+2. Groups:  Approved, Investigational
+3. Description:  Palonosetron (INN, trade name Aloxi) is a 5-HT3 antagonist used in the prevention and treatment of chemotherapy-induced nausea and vomiting (CINV). It is the most effective of the 5-HT3 antagonists in controlling delayed CINV nausea and vomiting that appear more than 24 hours after the first dose of a course of chemotherapy and is the only drug of its class approved for this use by the U.S. Food and Drug Administration. As of 2008, it is the most recent 5-HT3 antagonist to enter clinical use.
+4. Indication:  For the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy, as well as prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy. Also used for the prevention of postoperative nausea and vomiting for up to 24 hours post operation.
+DrugId:  10
+1. Name:  Dolasetron
+2. Groups:  Approved, Investigational
+3. Description:  Dolasetron is an antinauseant and antiemetic agent indicated for the prevention of nausea and vomiting associated with moderately-emetogenic cancer chemotherapy and for the prevention of postoperative nausea and vomiting. Dolasetron is a highly specific and selective serotonin 5-HT3 receptor antagonist. This drug is not shown to have activity at other known serotonin receptors, and has low affinity for dopamine receptors.
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, including initial and repeat courses of chemotherapy. Also used for the prevention of postoperative nausea and vomiting. This drug can be used intravenously for the treatment of postoperative nausea and vomiting.
+DrugId:  11
+1. Name:  Ondansetron
+2. Groups:  Approved
+3. Description:  A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, postoperation, and radiation. Also used for the treatment of postoperative nausea and vomiting.
+DrugId:  12
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Nerve Growth Factor
+2. Groups:  Investigational
+3. Description:  Nerve Growth Factor has been used in trials studying the prevention and treatment of Mental Handicap, Alzheimer's Disease, Traumatic Brain Injury, Cerebral Palsy Children, and Delayed Speech Development, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Atropine
+2. Groups:  Approved, Vet approved
+3. Description:  An alkaloid, originally from Atropa belladonna, but found in other plants, mainly solanaceae. [PubChem]
+4. Indication:  For the treatment of poisoning by susceptible organophosphorous nerve agents having anti-cholinesterase activity (cholinesterase inhibitors) as well as organophosphorous or carbamate insecticides.
+DrugId:  15
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  16
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  17
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Itopride
+2. Groups:  Investigational
+3. Description:  Itopride is a dopamine D2 antagonist with acetylcholinesterase inhibitory actions.
+4. Indication:  Investigated for use/treatment in gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  19
+1. Name:  Acetylcarnitine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcarnitine is an investigational drug in the United states, Italy, United Kingdom, China, Israel, and Norway, and it is approved in Italy, Portugal, Argentina, Chile, Philippines, Australia, and India. Acetylcarnitine can be synthesized, but it is also naturally found in adequate amounts in healthy humans. In human plasma and tissues, acetylcarnitine is the most predominant acylated ester of carnitine, which is an amino acid derivative that is made in the kidney, liver, and brain from lysine and methionine. The main role of acetylcarnitine is to help transport fatty acids into the mitochondrial matrix where fatty acid metabolism occurs.
+4. Indication:  Acetylcarnitine is not approved for any indication in the United states and Canada, but it is approved and indicated in Italy for cerebrovascular disorders, mental function disorders, peripheral nerve disorders, diabetic neuropathy, and nutritional supplementation; Portugal for mental function disorders; Argentina for cerebral vasculopathy, nutritional supplementation, and peripheral neuropathy; Chile for dementia; Philippines for cerebrovascular disorders and mental function disorders; Australia for nutritional supplementation; and India for nutritional supplementation to increase sperm count. Acetylcarnitine also has several potential therapeutic indications for which it is still being investigated: in Norway, acetylcarnitine is in a phase IV trial for prophylactic treatment of migraines; in Italy acetylcarnitine is in a phase II trial for use in patients with type 2 Diabetes Mellitus, a phase III trial for alleviating fatigue in patients with chronic hepatitis C, and for use in patients with Minimal Hepatic Encephalopathy; in the United States acetylcarnitine is in a phase II trial for the neurodegenerative disorder Progressive Supranuclear Palsy, a phase II and III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy, a phase I and II trial for treating patients in septic shock, a phase II trial for bipolar depression, a phase II trial to reduce oxidative stress in patients with Sickle Cell disease, a phase I and II trial for chronic fatigue syndrome, and a study for preventing nerve damage in HIV patients; in China acetylcarnitine is in a phase III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy; in the United Kingdom acetylcarnitine is being investigated for preventing nerve damage in HIV patients; and in Israel acetylcarnitine is being studied for the treatment of male infertility.
+DrugId:  20
+1. Name:  Afamelanotide
+2. Groups:  Approved, Investigational
+3. Description:  Afamelanotide is an analog of the peptide hormone alpha-melanocyte stimulating hormone (alpha-MSH) that tends to induce skin tanning. It is being developed by the Australian company Clinuvel Pharmaceuticals (previously known as EpiTan). Afamelanotide was approved in Europe in October, 2014 for the treatment of erythropoietic protoporphyria (EPP). Clinuvel now intends to seek approval of afamelanotide in the United States.
+4. Indication:  Investigated for use/treatment in actinic keratosis, keratoses, skin cell studies, and skin infections/disorders.
+DrugId:  21
+1. Name:  Nesiritide
+2. Groups:  Approved, Investigational
+3. Description:  Nesiritide is a medication used to treat acutely decompensated congestive heart failure with dyspnea at rest or with minimal exertion (such as talk, eating or bathing). Nesiritide is the recombinant form of the 32 amino acid human B-type natriuretic peptide, which is normally produced by the ventricular myocardium.
+4. Indication:  For the intravenous treatment of patients with acutely decompensated congestive heart failure who have dyspnea at rest or with minimal activity.
+DrugId:  22
+1. Name:  Risedronate
+2. Groups:  Approved, Investigational
+3. Description:  Risedronate is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat Paget's disease of bone.
+4. Indication:  For the treatment of Paget's disease of the bone (osteitis deformans), postmenopausal and glucocorticoid-induced osteoporosis
+DrugId:  23
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  24
+1. Name:  Tanezumab
+2. Groups:  Investigational
+3. Description:  Tanezumab has been investigated for the treatment of Osteoarthritis, Knee and Neuralgia, Postherpetic.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Oxyphencyclimine
+2. Groups:  Approved
+3. Description:  Oxyphencyclimine is an anticholinergic drug (trade name Daricon) used in treating peptic ulcers.
+4. Indication:  For the treatment of peptic ulcer disease and the relief of smooth muscle spasms in gastrointestinal disorders.

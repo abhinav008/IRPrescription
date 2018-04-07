@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Guselkumab
+2. Groups:  Approved, Investigational
+3. Description:  Guselkumab is a human immunoglobulin G1 lambda (IgG1λ) monoclonal antibody that selectively blocks interleukin-23. IL-23 is an inflammatory cytokine that activates the CD4+ T-helper (Th17) cell pathway to mediate the inflammatory cascade that induces psoriatic plaque formation [2]. In clinical trials, guselkumab demonstrated improved skin clearance and symptomatic improvements in dermatological manifestations of psoriasis. Developed by Janssen, the subcutenous injection form of guselkumab was approved in July 2017 under the market name Tremfya for the treatment of adult patients with moderate-to-severe plaque psoriasis.
+4. Indication:  Indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+DrugId:  2
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  3
+1. Name:  Bos taurus skin
+2. Groups:  Approved
+3. Description:  Bos taurus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Mesocricetus auratus skin
+2. Groups:  Approved
+3. Description:  Mesocricetus auratus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Sus scrofa skin
+2. Groups:  Approved
+3. Description:  Sus scrofa skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Mus musculus skin
+2. Groups:  Approved
+3. Description:  Mus musculus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Thioridazine
+2. Groups:  Approved, Withdrawn
+3. Description:  A phenothiazine antipsychotic used in the management of psychoses, including schizophrenia, and in the control of severely disturbed or agitated behavior. It has little antiemetic activity. Thioridazine has a higher incidence of antimuscarinic effects, but a lower incidence of extrapyramidal symptoms, than chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p618).Thioridazine was withdrawn worldwide in 2005 due to it's association with cardiac arrythmias.
+4. Indication:  For the treatment of schizophrenia and generalized anxiety disorder.
+DrugId:  8
+1. Name:  Flurbiprofen
+2. Groups:  Approved, Investigational
+3. Description:  Flurbiprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with antipyretic and analgesic activity. Oral formulations of flurbiprofen may be used for the symptomatic treatment of rheumatoid arthritis, osteoarthritis and anklylosing spondylitis. Flurbiprofen may also be used topically prior to ocular surgery to prevent or reduce intraoperative miosis. Flurbiprofen is structurally and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen.
+4. Indication:  Flurbiprofen tablets are indicated for the acute or long-term symptomatic treatment of rheumatoid arthritis, osteorarthritis and anklosing spondylitis. It may also be used to treat pain associated with dysmenorrhea and mild to moderate pain accompanied by inflammation (e.g. bursitis, tendonitis, soft tissue trauma). Topical ophthalmic formulations may be used pre-operatively to prevent intraoperative miosis. 
+DrugId:  9
+1. Name:  Cavia porcellus skin
+2. Groups:  Approved
+3. Description:  Cavia porcellus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Rattus norvegicus skin
+2. Groups:  Approved
+3. Description:  Rattus norvegicus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Etodolac
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Etodolac is a non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, analgesic and antipyretic properties. Its therapeutic effects are due to its ability to inhibit prostaglandin synthesis. It is indicated for relief of signs and symptoms of rheumatoid arthritis and osteoarthritis. 
+4. Indication:  For acute and long-term management of signs and symptoms of osteoarthritis and rheumatoid arthritis, as well as for the management of pain.
+DrugId:  12
+1. Name:  NV-07a
+2. Groups:  Investigational
+3. Description:  NV-07a is topical skin repair compound protecting skin from sun-induced immunosuppression and UV-induced damage.
+4. Indication:  Investigated for use/treatment in skin cancer and skin infections/disorders.
+DrugId:  13
+1. Name:  ARX201
+2. Groups:  Investigational
+3. Description:  ARX201 (PEG-ahGH) is a recombinant form of human growth hormone that has been modified using Ambrx’s patented ReCODE™ technology to achieve precise spatial positioning of the site of polyethylene glycol (PEG) attachment to human growth hormone, by biosynthetic incorporation of a chemically unique amino acid (ahGH). ARX201 has improved pharmacological properties, which should allow less frequent administration than the daily dosing regimen of currently available growth hormones.
+4. Indication:  Investigated for use/treatment in growth hormone deficiencies/abnormalities.
+DrugId:  14
+1. Name:  Paricalcitol
+2. Groups:  Approved, Investigational
+3. Description:  Paricalcitol is a synthetic vitamin D analog. Paricalcitol has been used to reduce parathyroid hormone levels. Paricalcitol is indicated for the prevention and treatment of secondary hyperparathyroidism associated with chronic renal failure.
+4. Indication:  For treatment of secondary hyperparathyroidism associated with chronic kidney disease (CKD) Stage 3 and 4
+DrugId:  15
+1. Name:  Capra hircus skin
+2. Groups:  Approved
+3. Description:  Capra hircus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Meriones unguiculatus skin
+2. Groups:  Approved
+3. Description:  Meriones unguiculatus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Gadobutrol
+2. Groups:  Approved
+3. Description:  Intravenous gadobutrol is a second-generation extracellular non-ionic macrocyclic GBCA (gadolinium-based contrast agent) used in magnetic resonance imaging (MRI) in adults and children older than 2 years of age. It may help visualize and detect vascular abnormalities in the blood brain barrier (BBB) and central nervous system (CNS). In patients with impaired renal function, gadolinium based contrast agents increase the risk of nephrogenic systemic fibrosis (NSF). A physician should be contacted if symptoms of NSF are encountered, such as dark or red patches on the skin; stiffness in joints; trouble moving, bending or straightening arms, hands, legs or feet; burning, itching, swelling, scaling, hardening and tightening of skin; pain in hip bones or ribs; or muscle weakness. Common adverse reactions that may be experienced include headache, nausea, feeling hot, abnormal taste, and warmth, burning or pain local to the injection site. General precautions should be taken in patients who are pregnant or breastfeeding, or who have a history of allergic reaction to contrast media, bronchial asthma or an allergic respiratory disorder.
+4. Indication:  For diagnostic use only. Indicated for adults and children age 2 and over for contrast enhancement during cranial and spinal MRI, and for contrast-enhanced magnetic resonance angiography (CE-MRA). Gadobutrol is particularly suited for the detection of very small lesions and for the visualization of tumors that do not readily take up contrast media. It may be a desired agent when the exclusion or demonstration of an additional pathology may influence the choice of therapy or patient management. It may also be suitable for perfusion studies in the diagnosis of stroke, detection of focal cerebral ischemia, and in studies of tumor perfusion. 
+DrugId:  18
+1. Name:  Oryctolagus cuniculus skin
+2. Groups:  Approved
+3. Description:  Oryctolagus cuniculus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Hydroquinone
+2. Groups:  Approved, Investigational
+3. Description:  Hydroquinone is a topical lightening product found in OTC products, and is used to correct skin discoloration associated with disorders of hyperpigmentation including melasma, post-inflammatory hyperpigmention, sunspots, and freckles. It can be used alone, but is more frequently found in combination with other agents such as alpha-hydroxy acids, corticosteroids, retinoids, or sunscreen. Hydroquinone has come under scrutiny due to several complications associated with its use, including dermal irritation, exogenous onchronosis, and carginogenicity. As a result of these concerns, hydroquinone has been banned in the EU and UK.
+4. Indication:  Hydroquinone is used as an OTC topical lightening agent for disorders of hyperpigmentation including melasma, post-inflammatory hyperpigmention, sunspots and freckles. 
+DrugId:  20
+1. Name:  Iodide I-131
+2. Groups:  Approved, Investigational
+3. Description:  Iodide I-131 (as Sodium iodide I-131) is a radioisotopic drug used for the treatment and palliation of thyroid malignancy. Iodine-131 is notable for causing mutation and death in cells that it penetrates, which is due to its mode of beta decay. As a result of beta decay, approximately 10% of its energy and radiation dose is via gamma radiation, while the other 90% (beta radiation) causes tissue damage without contributing to any ability to see or image the isotope. Low levels of beta radiation are also known for causing cancer as this dose is highly mutagenic. For this reason, less toxic iodine isotopes such as I-123 are more frequently used in nuclear imaging, while I-131 is reserved for its tissue destroying effects. Because the thyroid gland naturally takes up iodine from the body, therapeutic methods using radioisotopes can take advantage of this mechanism for localization of drug to the site of malignancy. Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+4. Indication:  Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+DrugId:  21
+1. Name:  Fispemifene
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in male hormonal deficiencies/abnormalities.
+DrugId:  22
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  23
+1. Name:  Felis catus skin
+2. Groups:  Approved
+3. Description:  Felis catus skin or pelt is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Lenalidomide
+2. Groups:  Approved
+3. Description:  Lenalidomide (initially known as CC-5013 and marketed as Revlimid® by Celgene) is a derivative of thalidomide introduced in 2004. It was initially intended as a treatment for multiple myeloma, for which thalidomide is an accepted therapeutic modality, but has also shown efficacy in the hematological disorders known as the myelodysplastic syndromes. [Wikipedia] FDA approved on December 27, 2005. 
+4. Indication:  Lenalidomide is indicated for the treatment of multiple myeloma in combination with dexamethasone. It is also indicated for the treatment of patients with transfusion-dependent anemia due to low- or intermediate- risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.
+DrugId:  25
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 

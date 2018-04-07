@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Solnatide
+2. Groups:  Investigational
+3. Description:  Solnatide has been used in trials studying the treatment of Acute Lung Injury.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Sivelestat
+2. Groups:  Investigational
+3. Description:  Sivelestat has been used in trials studying the treatment of Acute Lung Injury and Respiratory Distress Syndrome, Adult.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Ficlatuzumab
+2. Groups:  Investigational
+3. Description:  Ficlatuzumab has been used in trials studying the treatment of Acute Myeloid Leukemia, Non-small Cell Lung Cancer, Mullerian Mixed Tumor of Ovary, Relapsed Acute Myeloid Leukemia, and Refractory Acute Myeloid Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Edaravone
+2. Groups:  Approved, Investigational
+3. Description:  Edaravone is a free radical scavenger approved in May, 2017 for the treatment of amyotrophic lateral scleorosis (ALS). Clinical studies showed that the treatment attenuated deterioration of the disease when compared to placebo. It has been previously investigated for the treatment of ischemic stroke, reperfusion Injury, and myocardial Infarction as it possesses antioxidant and anti-apoptotic properties. Being a low molecular weight molecule with good water and lipid-soluble properies, it therapeutically advantageous in crossing the blood-brain barrier to mediate nootropic and neuroprotective effects. Oral formulation of edaravone is currently under development.
+4. Indication:  Indicated for improving neurological symptoms and damage from acute ischemic stroke and delaying disease progression of ALS.
+DrugId:  5
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Nitrogen
+2. Groups:  Approved, Vet approved
+3. Description:  Nitrogen is a chemical element with symbol N and atomic number 7. At room temperature, it is a transparent, odorless diatomic gas.Liquid nitrogen is used principally in cryotherapy for removal of diseased skin. Liquid nitrogen helps in removal of skin lesions through necrosis, which results from the freezing and thawing of cells. Cryotherapy usually done in doctors' office. Also, nitrogen is very famous component in fertilizers and energy-stores.
+4. Indication:  Liquid nitrogen is used mainly as a cryogenic agent for the treatment of various benign and malignant skin lesions. 
+DrugId:  7
+1. Name:  Pumactant
+2. Groups:  Investigational
+3. Description:  Pumactant is a synthetic surfactant used for treating respiratory distress syndrome in neonates. It is a unique formulation of the naturally occurring phospholipids Dipalmitoylphosphatidycholine (DPPC) and Phosphatidyl Glycerol (PG).
+4. Indication:  Investigated for use/treatment in asthma, lung injury, and surgical adhesions.
+DrugId:  8
+1. Name:  Pexelizumab
+2. Groups:  Investigational
+3. Description:  Pexelizumab is a humanized monoclonal antibody used as an immunosuppressive drug. It is being investigated by Alexion Pharmaceuticals.
+4. Indication:  For the treatment of inflammation during cardiac surgery.
+DrugId:  9
+1. Name:  Sodium sulfide
+2. Groups:  Approved
+3. Description:  Sodium sulfide is a chemical compound with a chemical formula Na2S. Sodium sulfide is used in the pulp and paper industry, water treatment, textile industry, and various chemical manufacturing processes including the production of rubber chemicals, sulfur dyes and oil recovery. Along with its hydrate form, sodium sulfide releases hydrogen sulfide (H2S) when in contact with moist air. H2S is an endogenous gaseous transmitter that exhibits anti-inflammatory and antiapoptotic properties. Along with other sulfides, the anti-inflammatory and tissue-protective effects of sodium sulfide have been investigated in models of inflammation and oxidative stress. Interestingly, sodium sulfide was shown to have some cardioprotective role against cardiac ischemia or reperfusion injury, as well as protect lungs against ventilator-induced lung injury [1]. However the clinical significance and mechanism of action of sodium sulfide and replication of results across other studies are not yet fully determined.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  FX06
+2. Groups:  Investigational
+3. Description:  FX06 is a naturally occurring peptide derived from the neo-N-terminus of fibrin (Bbeta(15-42)). It prevents leukocyte migration through the gap junctions of endothelial cells. FX06 has proven safe in acute and subchronic toxicological studies and recently entered clinical development. It is being developed by Fibrex Medical Inc.
+4. Indication:  Investigated for use/treatment in cardiac reperfusion injury and myocardial infarction.
+DrugId:  11
+1. Name:  XL999
+2. Groups:  Investigational
+3. Description:  XL999 has the potential to provide benefit to patients with lung cancer and acute myelogenous leukemia. XL999 is a new chemical entity that inhibits a spectrum of receptor tyrosine kinases (RTKs) with growth promoting and angiogenic properties, including FGFR 1/3, PDGFRα/β, VEGFR2/KDR, KIT, and FLT3. XL999 also inhibits FLT4 and SRC. XL999 has the potential to prevent tumor growth — both directly by a novel effect on tumor cell proliferation and indirectly through inhibition of the host angiogenic response. XL999 induces a cell-cycle block by a mechanism distinct from those previously identified and exhibits broad antitumor activity in xenograft models.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lung cancer, and solid tumors.
+DrugId:  12
+1. Name:  RI 624
+2. Groups:  Investigational
+3. Description:  RI 624 is a novel humanized monoclonal antibody that blocks nerve growth factor (NGF), a key mediator of acute and chronic pain. RI 624 is being developed by Rinat and is currently in Phase I clinical trials.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  13
+1. Name:  CHGN111
+2. Groups:  Investigational
+3. Description:  CHGN111 is an inhibitor of the mitochondrial enzyme CLK-1 which is a demethoxyubiquinone hydroxylase. Numerous parameters of mitochondrial function are altered when the activity of CLK-1 is reduced, which results in a decrease of ROS at critical cellular sites, as well as in a decrease of systemic oxidative stress. It was under investigation until approximately 2007.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  14
+1. Name:  Etifoxine
+2. Groups:  Investigational, Withdrawn
+3. Description:  Etifoxine is an anxiolytic and anticonvulsant drug developed by Hoechst in the 1960s. It is used in anxiety disorders and to promote peripheral nerve healing. It has similar effects to benzodiazepine drugs, but is structurally distinct and does not bind to the benzodiazepine receptor. It is more effective than lorazepam as an anxiolytic, and has fewer side effects. Etifoxine has been associated with acute liver injury.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Sucralfate
+2. Groups:  Approved
+3. Description:  A basic aluminum complex of sulfated sucrose. [PubChem]
+4. Indication:  For the short-term treatment (up to 8 weeks) of active duodenal ulcer, as well as maintenance therapy for duodenal ulcer patients at reduced dosage (1 gram twice a day) after healing of acute ulcers. Also used for the short-term treatment of gastric ulcer.
+DrugId:  16
+1. Name:  Elafin
+2. Groups:  Investigational
+3. Description:  Elafin is a human protein that is produced naturally in the skin, lung and breast, protecting the respective tissue from destruction by the immune system. Elafin’s ability to block the activity of destructive enzymes that are involved in inflammatory reactions makes it a highly promising active compound for the treatment of inflammatory lung diseases or severe reperfusion injuries occurring after heart attacks, serious injuries and organ transplantation. The excellent tolerability of Elafin in human subjects was demonstrated in a Phase I clinical single dose escalating study.
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified).
+DrugId:  17
+1. Name:  Nafamostat
+2. Groups:  Approved, Investigational
+3. Description:  Nafamostat is a synthetic serine protease inhibitor that is commonly formulated with hydrochloric acid due to its basic properties. It has been used in trials studying the prevention of Liver Transplantation and Postreperfusion Syndrome. The use of nafamostat in Asian countries is approved as an anticoagulant therapy for patients undergoing continuous renal replacement therapy due to acute kidney injury.
+4. Indication:  Used as an anticoagulant in patients with disseminative blood vessel coagulation, hemorrhagic lesions, and hemorrhagic tendencies. It prevents blood clot formation during extracorporeal circulation in patients undergoing continuous renal replacement therapy and extra corporeal membrane oxygenation. 
+DrugId:  18
+1. Name:  Autologous cultured chondrocytes
+2. Groups:  Approved
+3. Description:  Autologous cultured chrondrocytes are used as autologous cell therapy to repair articular cartilage injuries in the knee (femoral condyle) due to acute or repetitive trauma. It serves as an alternative repair treatment for patients with inadequate response to pre-existing surgical methods. The surgical implantation shows a tolerable safety profile and efficacy up to 4 years, but it is not indicated for patients with osteoarthritis. It has been used since 1995 as Carticel and gained biologic license in 1997. The surgical implantation was first performed in Sweden.
+4. Indication:  Cellular repair strategy for patients with symptomatic cartilage defects of the femoral condyle (medial, lateral or trochlea) caused by trauma or patients who were previously unresponsive to available surgical procedures. 
+DrugId:  19
+1. Name:  Torapsel
+2. Groups:  Investigational
+3. Description:  Torapsel has been used in trials studying the prevention of Ischemia Reperfusion Injury.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Acetylcysteine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcysteine (also known as N-acetylcysteine or N-acetyl-L-cysteine or NAC) is primarily used as a mucolytic agent and in the management of acetaminophen poisoning. It is a derivative of cysteine with an acetyl group attached to the amino group of cysteine. NAC is essentially a prodrug that is converted to cysteine (in the intestine by the enzyme aminoacylase 1) and absorbed in the intestine into the blood stream. Cysteine is a key constituent to glutathione and hence administration of acetylcysteine replenishes glutathione stores. Acetylcysteine can also be used as a general antioxidant which can help mitigate symptoms for a variety of diseases exacerbated by reactive oxygen species (ROS). For instance, acetylcysteine is commonly used in individuals with renal impairment to prevent the precipitation of acute renal failure. Acetylcysteine has been shown to have efficacy in treating mild to moderate traumatic brain injury including ischemic brain injury, particularly in reducing neuronal losses, and also reducing cognitive and neurological symptoms when administered promptly after injury. N-acetylcysteine is now widely used in the treatment of HIV, and it has reported efficacy in chronic obstructive pulmonary disease and contrast-induced nephropathy. Acetylcysteine is also being successfully used to treat a variety of neuropsychiatric and neurodegenerative disorders including cocaine, cannabis, and smoking addictions, Alzheimer's and Parkinson's diseases, autism, compulsive and grooming disorders, schizophrenia, depression, and bipolar disorder. Recent data also shows that N-acetylcysteine inhibits muscle fatigue and can be used to enhance performance in endurance events and in exercise and endurance training.Acetylcysteine is also undergoing clinical trials as RK-0202, an oral rinse for the prevention and treatment of mucositis. It is comprised of acetylcysteine in a polymer matrix.
+4. Indication:  Acetylcysteine is used mainly as a mucolytic and in the management of paracetamol (acetaminophen) overdose.
+DrugId:  21
+1. Name:  SB-249553
+2. Groups:  Investigational
+3. Description:  SB-249553 is a vaccine that has MAGE-3 cancer antigen and the Adjuvant SBAS-2. It is also under by GlaxoSmithKline to treat melanoma and lung cancer.
+4. Indication:  lung cancer/melanoma 
+DrugId:  22
+1. Name:  Remestemcel-L
+2. Groups:  Approved, Investigational
+3. Description:  Remestemcel-L is a third-party, off-the-shelf suspension of ex-vivo cultured adult human mesenchymal stem cells intended for intravenous infusion. The mesenchymal stem cells are derived from the bone marrow of unrelated and human leukocyte antigen (HLA)–unmatched healthy adult donors and have the ability to differentiate into different tissue cells. It was approved for use in Canada in May 2012 as Prochymal for the management of refractory acute Graft versus Host Disease (aGvHD) in children who are unresponsive to systemic steroid therapies, with the approval conditional upon further trials being conducted.aGvHD is a T-cell mediated disease that occurs after allogeneic hematopoietic stem cell transplant and is a reaction of donor immune cells against host tissues [A31822] developed by 30-80% of the recipients [1]. aGvHD is often characterized by the presence of inflammatory cascades through signalling of activated T cells. While systemic corticosteroids and other immunosuppressive agents are commonly used as first-line treatments to manage aGvHD, about 30-50% of patients with aGvHD experience inadequately control of disease with first-line therapies, putting them in a risk for poor outcomes and creating a significant clinical challenge [1]. It is estimated that the patients with the most severe forms of refractory aGvHD that do not respond to steroid therapy have expected one-year survival rates of only 5% to 30% [6]. Human mesenchymal stem cells (hMSCs) serve to down-regulate inflammatory responses and produce anti-inflammatory cytokines and growth factors to promote tissue repair [1]. In clinical studies, patients treated with remestemcel-L demonstrated an improvement in their aGvHD and improved survival rates at subsequent days following intravenous infusion [6]. Based on its tolerability and safety profile, remestemcel-L is a promising alternative to second-line immunosuppressive agents [1].
+4. Indication:  Indicated for in the management of acute Graft versus Host Disease (aGvHD) in pediatric patients. Acute GvHD should be refractory to treatment with systemic corticosteroid therapy and/or other immunosuppressive agents. Remestemcel-L may be used for Grades C and D of the disease in any organ. Remestemcel-L may also be used in the management of Grade B aGvHD involving any visceral organ, including the GI tract and the liver, but excluding skin [6].
+DrugId:  23
+1. Name:  Erdosteine
+2. Groups:  Investigational
+3. Description:  Erdosteine is a mucolytic. Erdosteine is a thiol derivative developed for the treatment of chronic obstructive bronchitis, including acute infective exacerbation of chronic bronchitis. Erdosteine contains 2 blocked sulfhydryl groups which are released following first-pass metabolism. The 3 active metabolites exhibit mucolytic and free radical scavenging activity. Erdosteine modulates mucus production and viscosity and increases mucociliary transport, thereby improving expectoration. It also exhibits inhibitory activity against the effects of free radicals produced by cigarette smoke. Clinical studies in patients with chronic obstructive lung disease have demonstrated the efficacy and tolerability of erdosteine. Erdosteine 300mg twice daily reduced cough (both frequency and severity) and sputum viscosity more quickly and more effectively than placebo and reduced the adhesivity of sputum more effectively than ambroxol 30mg twice daily. Co-administration of erdosteine and amoxicillin in patients with acute infective exacerbation of chronic bronchitis resulted in higher concentrations of the antibiotic in the sputum, leading to earlier and more pronounced amelioration of clinical symptoms compared with placebo. Erdosteine is associated with a low incidence of adverse events, most of which are gastrointestinal and generally mild.
+4. Indication:  Fro the treatment of chronic bronchitis in adults.
+DrugId:  24
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  25
+1. Name:  Ubenimex
+2. Groups:  Experimental, Investigational
+3. Description:  Ubenimex (also known as bestatin) is a competitive protease inhibitor. It is an inhibitor of aminopeptidase B, leukotriene A4 hydrolase, aminopeptidase N. It is being studied for use in the treatment of acute myelocytic leukemia.
+4. Indication:  An adjuvant therapy used for acute and chronic myelonous leukemia, lung cancer and nasopharyngeal cancer. It is also used to treat hypercholesterolaemia.

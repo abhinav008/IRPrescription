@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bentoquatam
+2. Groups:  Approved
+3. Description:  Bentoquatam is a topical medication intended to act as a shield against exposure to the irritating substance urushiol, found in plants such as poison ivy or poison oak. Bentoquatam contains bentonite, a clay, and is only effective as long as the film is visible on the skin.
+4. Indication:  Used to prevent or reduce the severity of allergic contact dermatitis due to urushiol, the allergenic resin of poison ivy, poison oak, and poison sumac.
+DrugId:  2
+1. Name:  Parthenolide
+2. Groups:  Approved, Investigational
+3. Description:  Parthenolide has been used in trials studying the diagnostic of Allergic Contact Dermatitis.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Crisaborole
+2. Groups:  Approved, Investigational
+3. Description:  Crisaborole is a novel oxaborole approved by FDA on December 14, 2016 as Eucrisa, a topical treatment of for mild to moderate atopic dermatitis.This non-steroidal agent is efficacious in improving disease severity, reducing the risk of infection and reducing the signs and symptoms in patients 2 years old and older. It reduces the local inflammation in the skin and prevents further exacerbation of the disease with a good safety profile. Its structure contains a boron atom, which facilitates skin penetration and binding to the bimetal center of the phosphodiesterase 4 enzyme. It is currently under development as topical treatment of psoriasis.
+4. Indication:  Intended for the topical treatment of mild to moderate atopic dermatitis in patients 2 years of age and older.
+DrugId:  4
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  5
+1. Name:  Oxiconazole
+2. Groups:  Approved
+3. Description:  Oxiconazole nitrate (U.S.: Oxistat, Canada: Oxizole) is an antifungal medication typically administered in a cream or lotion to treat skin infections such as athlete's foot, jock itch and ringworm. [Wikipedia]
+4. Indication:  For treatment of dermal fungal infection.
+DrugId:  6
+1. Name:  Flumethasone
+2. Groups:  Approved, Vet approved
+3. Description:  Flumethasone is a moderately potent difluorinated corticosteroid ester with anti-inflammatory, antipruritic and vasoconstrictive properties. As it is a privalate salt, its anti-inflammatory action is concentrated at the site of application. This local effect on diseased areas results in a prompt decrease in inflammation, exudation and itching.
+4. Indication:  For the treatment of contact dermatitis, atopic dermatitis, exczema, psoriasis, diaper rash and other skin conditions
+DrugId:  7
+1. Name:  Hydrocortamate
+2. Groups:  Approved
+3. Description:  Hydrocortamate is a synthetic glucocorticoid used for its anti-inflammatory or immunosuppressive properties to treat inflammation due to corticosteroid-responsive dermatoses. Glucocorticoids are a class of steroid hormones characterised by an ability to bind with the cortisol receptor and trigger a variety of important cardiovascular, metabolic, immunologic and homeostatic effects.
+4. Indication:  Used topically as an antiinflammatory in the treatment of steroid-responsive dermatoses
+DrugId:  8
+1. Name:  Luliconazole
+2. Groups:  Approved
+3. Description:  Luliconazole is a topical antifungal agent that acts by unknown mechanisms but is postulated to involve altering the synthesis of fungi cell membranes. It was approved by the FDA (USA) in November 2013 and is marketed under the brand name Luzu. Luliconazole is also approved in Japan.
+4. Indication:  Luliconazole is indicated in adults aged 18 years and older for the topical treatment of fungal infections caused by Trichophyton rubrum and Epidermophyton floccosum, specifically tinea pedis, cruris, and corporis.
+DrugId:  9
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  10
+1. Name:  Eteplirsen
+2. Groups:  Approved, Investigational
+3. Description:  Eteplirsen is a phosphoramidite morpholino sequence complementary to a portion of exon 51. [1] It exerts it's mechanism of action by forcing the exclusion of exon 51 from the mature DMD mRNA. [1]
+4. Indication:  Eteplirsen is indicated for treatment of certain individuals with Duchenne muscular dystrophy (DMD). Its use is limited to those with a confirmed mutation of the DMD gene which would benefit from exon 51 skipping. Based on clinical studies showing increased dystrophin production in skeletal muscle in some patients given this drug, the above indication was approved under accelerated approval. Further confirmatory trials are required to demonstrate clinical benefit of eteplirsen.
+DrugId:  11
+1. Name:  Brimonidine
+2. Groups:  Approved
+3. Description:  Brimonidine is a drug used to treat glaucoma. It acts via decreasing aqueous humor synthesis. A topical gel formulation, marketed under the name Mirvaso, was FDA approved on August 2013 for the treatment of rosacea.
+4. Indication:  The ophthalmic solution is indicated for patients with open-angle glaucoma or ocular hypertension to lower intraocular pressure. The topical gel is indicated for the treatment of persistent (nontransient) facial erythema of rosacea in adults 18 years or older. 
+DrugId:  12
+1. Name:  BF-37
+2. Groups:  Investigational
+3. Description:  BF-37 for the treatment of atopic dermatitis and/or psoriasis. The active ingredient in BF-37 is Riluzole, applied in a topical formulation, which is believed to correct the imbalances of the immune system that cause atopic dermatitis or psoriasis.
+4. Indication:  Investigated for use/treatment in atopic dermatitis.
+DrugId:  13
+1. Name:  Fezakinumab
+2. Groups:  Investigational
+3. Description:  Fezakinumab has been used in trials studying the treatment of Atopic Dermatitis and Rheumatoid Arthritis.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Ligelizumab
+2. Groups:  Investigational
+3. Description:  Ligelizumab has been used in trials studying the basic science and treatment of Asthma, Allergy, Peanut Allergy, Allergic Asthma, and Atopic Dermatitis, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Maltodextrin
+2. Groups:  Investigational
+3. Description:  Maltodextrin is under investigation for the treatment and prevention of Autism, Pouchitis, Inflammation, Colonic Cancer, and Atopic Dermatitis, among others. Maltodextrin has been investigated for the prevention and treatment of Fatigue, Thalassemia, Constipation, Type I Diabetes, and Sickle Cell Anemia, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Stannous fluoride
+2. Groups:  Approved
+3. Description:  Stannous Fluoride, or Tn(II) Fluoride, is a compound commonly used in toothpastes for the prevention of gingivitis, dental infections, cavities, and to relieve dental hypersensitivity. Although similar in function and activity to Sodium Fluoride (NaF), the conventionally added ingredient in toothpastes, stannous fluoride has been shown to be more effective at stopping and reversing dental lesions [2]. It manages and prevents dental caries and gingivitis by promoting enamel mineralization [1], reducing gingival inflammation and bleeding [3, 4] through its potential broad-spectrum antibiotic effect and modulation of the microbial composition of the dental biofilm [2]. It is an FDA-approved over-the-counter product.
+4. Indication:  Indicated for use to relieve dental hypersensitivity, increase enamel production, prevent gingivitis and cavities, and control periodontal infections. 
+DrugId:  17
+1. Name:  SRP 299
+2. Groups:  Investigational
+3. Description:  SRP 299 is a preparation of killed Mycobacterium vaccae that has been tested in uses related to inhibiting periodontal disease, in treating asthma and in treating eczema, itching and inflammation. Mycobacterium vaccae is a non-pathogenic, saprophytic bacteria whose antigens can be used to induce peripheral immune activation through the activity of regulatory T-cells that surpress inappropriate Th2 activity. A specific subset of serotonergic neurons in the interfascicular part of the dorsal raphe nucleus (DRI) is believed to be involved, based on studies with mice. 
+4. Indication:  Investigated for use/treatment in asthma, atopic dermatitis, and pediatric atopic dermatitis indications.
+DrugId:  18
+1. Name:  Betamethasone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)
+4. Indication:  Topical use (cream, lotion and ointment): for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.Topical use (foam): relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses of the scalp.Systemic use: for the treatment of edocrine disorders, rheumatic disorders, collagen diseases, dermatological diseases, allergic states, ophthalmic diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, gastrointestinal diseases, tuberculous meningitis and trichinosis.
+DrugId:  19
+1. Name:  AN0128
+2. Groups:  Investigational
+3. Description:  AN0128 is a novel compound that contains a boron atom within a borinic acid complex. AN0128 has broad spectrum activity against a wide variety of Gram positivebacteria, including many that are known skin colonizers. Of particular importance is P. acnes and its causal role in acne vulgaris. The rise in antibioticresistance of P. acnes to standard antibiotics necessitates the development of new treatment agents. AN0128 is a good candidate for a topical antibiotic and is currently being developed by Anacor as a novel therapeutic for acne and atopic dermatitis.
+4. Indication:  Investigated for use/treatment in acne, atopic dermatitis, pediatric indications, and psoriasis and psoriatic disorders.
+DrugId:  20
+1. Name:  Sodium hydroxide
+2. Groups:  Approved
+3. Description:  Sodium hydroxide is also known as lye or soda , or caustic soda [6].At room temperature, sodium hydroxide is a white crystalline odorless solid that absorbs moisture from the air. It is a synthetically manufactured substance. When dissolved in water or neutralized with acid it releases substantial amounts of heat, which may prove sufficient to ignite combustible materials. Sodium hydroxide is highly corrosive [2].Sodium hydroxide is generally used as a solid or a diluted in a 50% solution. This chemical is used to manufacture soaps, rayon, paper, explosives, dyestuffs, and petroleum products [2].It is also used in processing cotton fabric, laundering and bleaching, metal cleaning and processing, oxide coating, electroplating, and electrolytic extracting. It is commonly found in commercial drain/ oven cleaners [2]. According to the the FDA, sodium hydroxide is considered a direct food recognized as safe, where it serves as a pH control agent and follows good manufacturing guidelines [3].Interestingly, sodium hydroxide has been studied for its use in the treatment of prion disease (as occurs in mad cow disease and kuru). The use of this compound has been shown to effectively reduce prion levels in an in vitro inactivation assay [1].
+4. Indication:  Used to destroy or kill the mail matrix (matrixectomies) [4].
+DrugId:  21
+1. Name:  Lebrikizumab
+2. Groups:  Investigational
+3. Description:  Lebrikizumab has been used in trials studying the treatment of Asthma, Allergic Asthma, Atopic Dermatitis, Idiopathic Pulmonary Fibrosis, and COPD, Chronic Obstructive Pulmonary Disease.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Pimecrolimus
+2. Groups:  Approved, Investigational
+3. Description:  Pimecrolimus is an immunomodulating agent used in the treatment of atopic dermatitis (eczema). It is currently available as a topical cream, once marketed by Novartis, (however Galderma will be promoting the molecule in Canada in early 2007) under the trade name Elidel. [Wikipedia]
+4. Indication:  For treatment of mild to moderate atopic dermatitis.
+DrugId:  23
+1. Name:  Biotin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A water-soluble, enzyme co-factor present in minute amounts in every living cell. It occurs mainly bound to proteins or polypeptides and is abundant in liver, kidney, pancreas, yeast, and milk. [PubChem]
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  24
+1. Name:  Chloroxine
+2. Groups:  Approved
+3. Description:  Chloroxine is a synthetic antibacterial compound. Chloroxine is a compound used in some shampoos for the treatment of dandruff and seborrheic dermatitis of the scalp.
+4. Indication:  Used in the treatment of dandruff and mild to moderately severe seborrheic dermatitis of the scalp.
+DrugId:  25
+1. Name:  Bergapten
+2. Groups:  Investigational
+3. Description:  Bergapten is under investigation in clinical trial NCT00533195 (Comparison of UVA1 Phototherapy Versus Photochemotherapy for Patients With Severe Generalized Atopic Dermatitis).
+4. Indication:  Not Available

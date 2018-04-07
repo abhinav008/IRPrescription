@@ -1,0 +1,35 @@
+DrugId:  1
+1. Name:  Monoctanoin
+2. Groups:  Approved
+3. Description:  Monoctanoin is used to dissolve cholesterol gallstones.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Chenodeoxycholic acid
+2. Groups:  Approved
+3. Description:  Chenodeoxycholic acid (or Chenodiol) is an epimer of ursodeoxycholic acid (DB01586). Chenodeoxycholic acid is a bile acid naturally found in the body. It works by dissolving the cholesterol that makes gallstones and inhibiting production of cholesterol in the liver and absorption in the intestines, which helps to decrease the formation of gallstones. It can also reduce the amount of other bile acids that can be harmful to liver cells when levels are elevated.
+4. Indication:  Chenodiol is indicated for patients with radiolucent stones in well-opacifying gallbladders, in whom selective surgery would be undertaken except for the presence of increased surgical risk due to systemic disease or age. Chenodiol will not dissolve calcified (radiopaque) or radiolucent bile pigment stones.
+DrugId:  3
+1. Name:  Aramchol
+2. Groups:  Investigational
+3. Description:  Aramchol has been used in trials studying the treatment of HIV, Gallstones, Fatty Liver, Metabolic Syndrome, and Nonalcoholic Steatohepatitis, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Tyropanoic acid
+2. Groups:  Approved
+3. Description:  Tyropanoic acid and its salt sodium tyropanoate are radiocontrast agents used in cholecystography (X-ray diagnosis of gallstones). Trade names include Bilopaque, Lumopaque, Tyropaque, and Bilopac. The molecule contains three heavy iodine atoms which obstruct X-rays in the same way as the calcium in bones, which results in a visible image [9].
+4. Indication:  For use in cholecystography (X-ray diagnosis/imaging of gallstones).
+DrugId:  5
+1. Name:  Ursodeoxycholic acid
+2. Groups:  Approved, Investigational
+3. Description:  Ursodeoxycholic acid is an epimer of chenodeoxycholic acid (DB06777). It is a mammalian bile acid found first in the bear and is apparently either a precursor or a product of chenodeoxycholate. Its administration changes the composition of bile and may dissolve gallstones. It is used as a cholagogue and choleretic. [PubChem]
+4. Indication:  The drug reduces cholesterol absorption and is used to dissolve (cholesterol) gallstones in patients who want an alternative to surgery.
+DrugId:  6
+1. Name:  Tauroursodeoxycholic acid
+2. Groups:  Approved, Investigational
+3. Description:  Tauroursodeoxycholic acid is the more hydrophilic form of ursodeoxycholic acid, which is the more abundant naturally produced bile acid in humans. Tauroursodeoxycholic acid, on the other hand, is produced abundantly in bears and has been used for centuries as a natural remedy in some Asian countries. It is approved in Italy and Turkey for the treatment of cholesterol gallstones and is an investigational drug in China, Unites States, and Italy. Tauroursodeoxycholic acid is being investigated for use in several conditions such as Primary Biliary Cirrhosis (PBC), insulin resistance, amyloidosis, Cystic Fibrosis, Cholestasis, and Amyotrophic Lateral Sclerosis. The only completed clinical trial thus far is a phase III clinical trial comparing tauroursodeoxycholic acid and ursofalk in PBC adult patients, but as of June 2013 no results of this trial have been published. 
+4. Indication:  Used in the treatment of cholesterol gallstones. Tauroursodeoxycholic acid is also being investigated for use in several conditions such as Primary Biliary Cirrhosis (PBC), insulin resistance, amyloidosis, Cystic Fibrosis, Cholestasis, and Amyotrophic Lateral Sclerosis.
+DrugId:  7
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]

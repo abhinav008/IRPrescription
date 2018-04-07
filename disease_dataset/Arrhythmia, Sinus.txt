@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Dofetilide
+2. Groups:  Approved, Investigational
+3. Description:  Dofetilide is a class III antiarrhythmic agent that is approved by the Food and Drug Administration (FDA) for the maintenance of sinus rhythm in individuals prone to the formation of atrial fibrillation and flutter, and for the chemical cardioversion to sinus rhythm from atrial fibrillation and flutter.
+4. Indication:  For the maintenance of normal sinus rhythm (delay in time to recurrence of atrial fibrillation/atrial flutter [AF/AFl]) in patients with atrial fibrillation/atrial flutter of greater than one week duration who have been converted to normal sinus rhythm
+DrugId:  2
+1. Name:  Tecadenoson
+2. Groups:  Investigational
+3. Description:  Tecadenoson is a novel selective A1 adenosine receptor agonist that is currently being evaluated for the conversion of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm. It is being developed by CV Therapeutics, Inc.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  3
+1. Name:  Alprenolol
+2. Groups:  Approved, Withdrawn
+3. Description:  One of the adrenergic beta-antagonists used as an antihypertensive, anti-anginal, and anti-arrhythmic agent. Alprenolol is no longer marketed by AstraZeneca, but may still be available in generic varieties.
+4. Indication:  For the treatment of hypertension, angina, and arrhythmia
+DrugId:  4
+1. Name:  Mexiletine
+2. Groups:  Approved, Investigational
+3. Description:  Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties. [PubChem]
+4. Indication:  For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.
+DrugId:  5
+1. Name:  Ibutilide
+2. Groups:  Approved
+3. Description:  Ibutilide is a Class III antiarrhythmic agent that is indicated for acute cardioconversion of atrial fibrillation and atrial flutter of a recent onset to sinus rhythm.
+4. Indication:  Indicated for the rapid conversion of atrial fibrillation or atrial flutter of recent onset to sinus rhythm.
+DrugId:  6
+1. Name:  Moricizine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  An antiarrhythmia agent used primarily for ventricular rhythm disturbances. [PubChem]
+4. Indication:  Used to treat irregular heartbeats (arrhythmias) and maintain a normal heart rate.
+DrugId:  7
+1. Name:  Dronedarone
+2. Groups:  Approved
+3. Description:  Dronedarone is a sinus rhythm controller for management of paroxysmal or persistent atrial fibrillation. Classified as a Class III antiarrhythmic but displays properties of all four Vaughan-Williams classes, dronedarone blocks a multitude of channels (sodium, potassium, calcium), and demonstrates antiadrenergic properties. Chemically, it is a benzofuran derivative. FDA approved on July 1, 2009. 
+4. Indication:  Management of paroxysmal or persistent atrial fibrillation via restoration of normal sinus rhythm. 
+DrugId:  8
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  9
+1. Name:  Disopyramide
+2. Groups:  Approved
+3. Description:  A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.
+DrugId:  10
+1. Name:  Pseudoephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  For the treatment of nasal congestion, sinus congestion, Eustachian tube congestion, and vasomotor rhinitis, and as an adjunct to other agents in the optimum treatment of allergic rhinitis, croup, sinusitis, otitis media, and tracheobronchitis. Also used as first-line therapy of priapism.
+DrugId:  11
+1. Name:  Phenylephrine
+2. Groups:  Approved
+3. Description:  Phenylephrine is a sympathomimetic amine that acts predominantly on α-adrenergic receptors. It is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+4. Indication:  Phenylephrine is mainly used to treat nasal congestion, but may also be useful in treating hypotension and shock, hypotension during spinal anaesthesia, prolongation of spinal anaesthesia, paroxysmal supraventricular tachycardia, symptomatic relief of external or internal hemorrhoids, and to increase blood pressure as an aid in the diagnosis of heart murmurs. 
+DrugId:  12
+1. Name:  Chlorphenamine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in allergic reactions, hay fever, rhinitis, urticaria, and asthma. It has also been used in veterinary applications. One of the most widely used of the classical antihistaminics, it generally causes less drowsiness and sedation than promethazine. [PubChem]
+4. Indication:  For the treatment of rhinitis, urticaria, allergy, common cold, asthma and hay fever.
+DrugId:  13
+1. Name:  Oxymetazoline
+2. Groups:  Approved, Investigational
+3. Description:  A direct acting sympathomimetic used as a vasoconstrictor to relieve nasal congestion. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1251)
+4. Indication:  For treatment of nasal congestion and redness associated with minor irritations of the eye
+DrugId:  14
+1. Name:  Digoxin
+2. Groups:  Approved
+3. Description:  A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone digoxigenin. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in atrial fibrillation and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  15
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  16
+1. Name:  Guaifenesin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An expectorant that also has some muscle relaxing action. It is used in many cough preparations. [PubChem]
+4. Indication:  Used to assist the expectoration of phlegm from the airways in acute respiratory tract infections.
+DrugId:  17
+1. Name:  Ibuprofen
+2. Groups:  Approved
+3. Description:  Ibuprofen, a propionic acid derivative, is a prototypical nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties.
+4. Indication:  For symptomatic treatment of rheumatoid arthritis, juvenile rheumatoid arthritis and osteoarthritis. May be used to treat mild to moderate pain and for the management of dysmenorrhea. May be used to reduce fever. Has been used with some success for treating ankylosing spondylitis, gout and psoriatic arthritis. May reduce pain, fever and inflammation of pericarditis. May be used IV with opiates to relieve moderate to severe pain. Ibuprofen lysine may be used IV to treat patent ductus arteriosus (PDA) in premature neonates. 
+DrugId:  18
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  19
+1. Name:  Budiodarone
+2. Groups:  Investigational
+3. Description:  Budiodarone (ATI-2042) is an antiarrhythmic agent and chemical analog of amiodarone that is currently being studied in clinical trials.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  20
+1. Name:  Doxylamine
+2. Groups:  Approved, Vet approved
+3. Description:  Histamine H1 antagonist with pronounced sedative properties. It is used in allergies and as an antitussive, antiemetic, and hypnotic. Doxylamine has also been administered in veterinary applications and was formerly used in parkinsonism. [PubChem]
+4. Indication:  Used alone as a short-term sleep aid, in combination with other drugs as a night-time cold and allergy relief drug. Also used in combination with Vitamin B6 (pyridoxine) to prevent morning sickness in pregnant women.
+DrugId:  21
+1. Name:  Naproxen
+2. Groups:  Approved, Vet approved
+3. Description:  An anti-inflammatory agent with analgesic and antipyretic properties. Both the acid and its sodium salt are used in the treatment of rheumatoid arthritis and other rheumatic or musculoskeletal disorders, dysmenorrhea, and acute gout.
+4. Indication:  For the treatment of rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, tendinitis, bursitis, and acute gout. Also for the relief of mild to moderate pain and the treatment of primary dysmenorrhea.
+DrugId:  22
+1. Name:  Tedisamil
+2. Groups:  Investigational
+3. Description:  Tedisamil (planned trade name Pulzium) is an investigational drug for atrial fibrillation and atrial flutter. It is currently being developed by Solvay and is currently under regulatory review by the United States Food and Drug Administration.
+4. Indication:  Investigated for use/treatment in arrhythmia, atrial fibrillation, and angina.
+DrugId:  23
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  24
+1. Name:  Simendan
+2. Groups:  Investigational
+3. Description:  Simendan is under investigation in clinical trial NCT00527059 (Renal Effects of Levosimendan in Patients Admitted With Acute Decompensated Heart Failure).
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Flecainide
+2. Groups:  Approved, Withdrawn
+3. Description:  A potent anti-arrhythmia agent, effective in a wide range of ventricular and atrial arrhythmias and tachycardias. Paradoxically, however, in myocardial infarct patients with either symptomatic or asymptomatic arrhythmia, flecainide exacerbates the arrhythmia and is not recommended for use in these patients. [PubChem]
+4. Indication:  Flecainide is is a class Ic antiarrhythmic agent and as such, it is used for the prevention of paroxysmal supraventricular tachycardias (PSVT), including atrioventricular nodal reentrant tachycardia, atrioventricular reentrant tachycardia and other supraventricular tachycardias of unspecified mechanism associated with disablin.

@@ -1,0 +1,20 @@
+DrugId:  1
+1. Name:  Iodide
+2. Groups:  Approved, Investigational
+3. Description:  Iodide has been investigated for the treatment of Goiter, Nodular.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Isotretinoin
+2. Groups:  Approved
+3. Description:  Isotretinoin is a medication used for the treatment of severe acne. It is sometimes used in prevention of certain skin cancers. It is a retinoid, meaning it derives from vitamin A and is found in small quantities naturally in the body. Isotretinoin binds to and activates nuclear retinoic acid receptors (RAR), thereby regulating cell proliferation and differentiation. This agent also exhibits immunomodulatory and anti-inflammatory responses and inhibits ornithine decarboxylase, thereby decreasing polyamine synthesis and keratinization.
+4. Indication:  For the treatment of severe recalcitrant nodular acne
+DrugId:  3
+1. Name:  Methyprylon
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Methyprylon is a sedative of the piperidinedione derivative family. This medicine was used for treating insomnia, but is now rarely used as it has been replaced by newer drugs with less side effects, such as benzodiazepines. Methyprylon was withdrawn from the US market in June 1965 and the Canadian market in September 1990. [Wikipedia]
+4. Indication:  For the treatment of insomnia.
+DrugId:  4
+1. Name:  Levorphanol
+2. Groups:  Approved
+3. Description:  A narcotic analgesic that may be habit-forming. It is nearly as effective orally as by injection.
+4. Indication:  For the management of moderate to severe pain or as a preoperative medication where an opioid analgesic is appropriate.

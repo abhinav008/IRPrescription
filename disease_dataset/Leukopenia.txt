@@ -1,0 +1,115 @@
+DrugId:  1
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  2
+1. Name:  Strontium chloride Sr-89
+2. Groups:  Approved, Investigational
+3. Description:  Strontium chloride (Sr-89), initially FDA-approved in 1993, is used as a paliative therapeutic option to help relieve the pain from bone metastases. Strontium chloride is mainly used in cases of metastatic castrate-resistant prostate cancer.[9] Bone metastases is a common and severe complication presented in advanced stages of the disease. It is usually presented mainly in patients with prostatic and breast cancer, as well as in cancer of lung, bladder and thyroid. There has been some cases of apparent tumor regression which has given it a potential tumoricidal effect.[8]
+4. Indication:  Strontium-89 Chloride Injection is indicated as a paliative for the relief of bone pain in patients with skeletal metastases. It is impotant to confirm the presence of bone metastases prior the beginning of therapy.[9]
+DrugId:  3
+1. Name:  Cupric Chloride
+2. Groups:  Approved, Investigational
+3. Description:  Cupric chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  4
+1. Name:  Mitoxantrone
+2. Groups:  Approved, Investigational
+3. Description:  An anthracenedione-derived antineoplastic agent. [PubChem]
+4. Indication:  For the treatment of secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis
+DrugId:  5
+1. Name:  Antilymphocyte immunoglobulin (horse)
+2. Groups:  Approved, Investigational
+3. Description:  Equine anti-thymocyte globulin is composed of purified gamma globulin containing primarily IgG against human thymus lymphocytes. It is formed by inoculating a horse with an antigen (human thymoyctes) which then induces the horse immune system's B-lymphocytes to produce IgG immunoglobulins specific for that antigen. The result is polyclonal IgG that is then purified from the horse's serum to produce a usable drug product that can be used for immunosuppression. Although the exact mechanism of action is unknown, equine anti-thymocyte globulin targets a variety of immune system proteins including lymphocyte surface proteins, granulocytes, platelets, bone marrow cells, and other cell types. Equine ATG is currently indicated for the suppression of the immune system to prevent renal transplant rejection and in the treatment of aplastic anemia. Induction of T cell apoptosis and resulting T-cell lymphopenia found in vivo is credited for its therapeutic effect in these conditions. There are currently various ATG products available, which differ in the source of inoculated animal (rabbit, horse, or pig) and in the type of antigen product used to produce immunoglobulin (thymocytes, peripheral T cells, etc.).
+4. Indication:  For prevention of renal transplant rejection and for the treatment of aplastic anemia.
+DrugId:  6
+1. Name:  Carmustine
+2. Groups:  Approved, Investigational
+3. Description:  A cell-cycle phase nonspecific alkylating antineoplastic agent. It is used in the treatment of brain tumors and various other malignant neoplasms. (From Martindale, The Extra Pharmacopoeia, 30th ed, p462) This substance may reasonably be anticipated to be a carcinogen according to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985). (From Merck Index, 11th ed)
+4. Indication:  For the treatment of brain tumors, multiple myeloma, Hodgkin's disease and Non-Hodgkin's lymphomas.
+DrugId:  7
+1. Name:  Olaratumab
+2. Groups:  Approved, Investigational
+3. Description:  Olaratumab (IMC-3G3) is a fully human IgG1 monoclonal antibody with antitumor activity that selectively binds the external domain of human platelet-derived growth factor receptor (PDGFR)-α with high affinity and blocks ligand binding. It is composed of two heavy chain molecule fragments and 2 light chain fragments. Studies show that the treatment of olaratumab in combination with doxorubicin resulted in significant reduction of cancer cell proliferation and tumor growth. Olaratumab was granted accelerated approval (as Lartruvo) as initial therapy to treat adults with certain types of soft tissue sarcoma (STS) in October, 2016.
+4. Indication:  Olaratumab is indicated, in combination with doxorubicin, for the treatment of adult patients with advanced or mestastatic soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery.
+DrugId:  8
+1. Name:  Mechlorethamine
+2. Groups:  Approved, Investigational
+3. Description:  A vesicant and necrotizing irritant destructive to mucous membranes, mechlorethamine is an alkylating drug. It was formerly used as a war gas. The hydrochloride is used as an antineoplastic in Hodgkin's disease and lymphomas. It causes severe gastrointestinal and bone marrow damage. [PubChem]The FDA granted marketing approval for the orphan drug Valchlor (mechlorethamine) gel on August 23, 2013 for the topical treatment of stage IA and IB mycosis fungoides-type cutaneous T-cell lymphoma (CTCL) in patients who have received prior skin-directed therapy. Each tube of Valchlor contains 0.016% of mechlorethamine which is equivalent to 0.02% mechlorethamine HCL. 
+4. Indication:  For the palliative treatment of Hodgkin's disease (Stages III and IV), lymphosarcoma, chronic myelocytic or chronic lymphocytic leukemia, polycythemia vera, mycosis fungoides, and bronchogenic carcinoma. Also for the palliative treatment of metastatic carcinoma resulting in effusion.
+DrugId:  9
+1. Name:  Coenzyme M
+2. Groups:  Approved, Investigational
+3. Description:  Coenzyme M (commonly known by it's salt form, Mesna) is a synthetic sulfhydryl (thiol) compound and is used for prophylaxis of Ifosfamide and cyclophosphamide induced hemorrhagic cystitis. [2]
+4. Indication:  Mesna is a uroprotective agent and is used prophylactically to reduce ifosfamide and cyclophosphamide induced hemorrhagic cystitis. (2)
+DrugId:  10
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  11
+1. Name:  Floxuridine
+2. Groups:  Approved
+3. Description:  An antineoplastic antimetabolite that is metabolized to fluorouracil when administered by rapid injection. Floxuridine is available as a sterile, nonpyrogenic, lyophilized powder for reconstitution. When administered by slow, continuous, intra-arterial infusion, it is converted to floxuridine monophosphate. It has been used to treat hepatic metastases of gastrointestinal adenocarcinomas and for palliation in malignant neoplasms of the liver and gastrointestinal tract. [PubChem]
+4. Indication:  For palliative management of gastrointestinal adenocarcinoma metastatic to the liver, when given by continuous regional intra-arterial infusion in carefully selected patients who are considered incurable by surgery or other means. Also for the palliative management of liver cancer (usually administered by hepatic intra-arterial infusion).
+DrugId:  12
+1. Name:  Aflibercept
+2. Groups:  Approved
+3. Description:  Aflibercept is a recombinant fusion protein that comprises of two main components: the vascular endothelial growth factor (VEGF) binding portions from the extracellular domains of human VEGF receptors 1 and 2 which is then fused to the Fc portion of human IgG1. Structurally, Aflibercept is a dimeric glycoprotein with a protein molecular weight of 96.9 kilo Daltons (kDa). It contains approximately 15% glycosylation to give a total molecular weight of 115 kDa. All five putative N-glycosylation sites on each polypeptide chain predicted by the primary sequence can be occupied with carbohydrate and exhibit some degree of chain heterogeneity, including heterogeneity in terminal sialic acid residues, except at the single unsialylated site associated with the Fc domain. Aflibercept, as an ophthalmic agent, is used in the treatment of macular edema following Central Retinal Vein Occlusion (CRVO) and neovascular Age-Related Macular Degeneration (AMD). Ziv-aflibercept, under the brand name Zaltrap, was developed as an injection for treatment of metastatic colorectal cancer. FDA approved in November 18, 2011 and EMA approved in November 2012.
+4. Indication:  The opthalmic agent is used for the treatment of neovascular (wet) age-related mascular degeneration (AMD) and macular edema following central retinal vein occulsion (CRVO). The systemic injection, known as ziv-aflibercept, in combination with 5-fluorouracil, leucovorin, irinotecan-(FOLFIRI), is for the treatment of metastatic colorectal cancer that is resistant to or progressed following treatment with oxaliplatin. 
+DrugId:  13
+1. Name:  Interferon Alfa-2a, Recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+4. Indication:  For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.
+DrugId:  14
+1. Name:  Pentamidine
+2. Groups:  Approved, Investigational
+3. Description:  Antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of pneumocystis pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects. [PubChem]
+4. Indication:  For the treatment of pneumonia due to Pneumocystis carinii.
+DrugId:  15
+1. Name:  Levamisole
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  An antihelminthic drug that has been tried experimentally in rheumatic disorders where it apparently restores the immune response by increasing macrophage chemotaxis and T-lymphocyte function. Paradoxically, this immune enhancement appears to be beneficial in rheumatoid arthritis where dermatitis, leukopenia, and thrombocytopenia, and nausea and vomiting have been reported as side effects. (From Smith and Reynard, Textbook of Pharmacology, 1991, p435-6). Levamisole was withdrawn from the US and Canadian markets in 2000 and 2003, respectively, due to the risk of serious side effects and the availability of more effective replacement medications. [Wikipedia]
+4. Indication:  For adjuvant treatment in combination with fluorouracil after surgical resection in patients with Dukes' stage C colon cancer. Also used to treat malignant melanoma and head/neck cancer.Levamisole was originally used as an antihelminthic to treat worm infestations in both humans and animals.
+DrugId:  16
+1. Name:  Mycophenolic acid
+2. Groups:  Approved
+3. Description:  Mycophenolic acid is an an immunosuppresant drug and potent anti-proliferative, and can be used in place of the older anti-proliferative azathioprine. It is usually used as part of triple therapy including a calcineurin inhibitor (ciclosporin or tacrolimus) and prednisolone. It is also useful in research for the selection of animal cells that express the E. coli gene coding for XGPRT (xanthine guanine phosphoribosyltransferase).
+4. Indication:  For the prophylaxis of organ rejection in patients receiving allogeneic renal transplants, administered in combination with cyclosporine and corticosteroids.
+DrugId:  17
+1. Name:  Belinostat
+2. Groups:  Approved, Investigational
+3. Description:  Belinostat is a novel agent that inhibits the enzyme histone deacetylase (HDAC) with a sulfonamide-hydroxamide structure. It was developed as an orphan drug to target hematological malignancies and solid tumors by TopoTarget. The safety and efficacy of belinostat is currently being evaluated for use in combination with traditional front-line therapies for the treatment of PTCL. Intravenous administration of the agent is available as Beleodaq as monotherapy and the dosing regimen involves a 21-day cycle. It was US-approved in July 2014 as a therapeutic agent for relapsed or refractory peripheral T-cell lymphoma.
+4. Indication:  Belinostat is indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL) with manageable safety profile. It is a potential alternative therapy for patients who did not experience adequate response to first-line drugs for PTCL. It can be used in patients with baseline thrombocytopenia [2]. 
+DrugId:  18
+1. Name:  Mycophenolate mofetil
+2. Groups:  Approved, Investigational
+3. Description:  Mycophenolate mofetil is the 2-morpholinoethyl ester of mycophenolic acid (MPA), an immunosuppressive agent, inosine monophosphate dehydrogenase (IMPDH) inhibitor.
+4. Indication:  For the prophylaxis of organ rejection in patients receiving allogeneic renal, cardiac or hepatic transplants. Mycophenolate mofetil should be used concomitantly with cyclosporine and corticosteroids. 
+DrugId:  19
+1. Name:  Miglustat
+2. Groups:  Approved
+3. Description:  Miglustat is a drug used to treat Gaucher disease. It inhibits the enzyme glucosylceramide synthase, an essential enzyme for the synthesis of most glycosphingolipids. It is only used for patients who cannot be treated with enzyme replacement therapy with imiglucerase. Miglustat is marketed under the trade name Zavesca. Miglustat is now the first and only approved therapy for patients with Niemann-Pick disease type C (NP-C). It has recently been approved for treatment of progressive neurological symptoms in adult and pediatric patients in the European Union, Brazil, and South Korea. Miglustat was first developed as an anti-HIV agent in the 1990s. However, clinical experience with miglustat showed that therapeutic levels of the drug could not be achieved in patients without a high incidence of adverse effect.
+4. Indication:  For the treatment of adult patients with mild to moderate type 1 (nonneuropathic) Gaucher's disease for whom enzyme replacement therapy is not a therapeutic option (e.g. due to constraints such as allergy, hypersensitivity, or poor venous access). Now approved in some countries for the treatment of progressive neurological symptoms in adult and pediatric patients with Niemann-Pick disease type C (NP-C). 
+DrugId:  20
+1. Name:  Zidovudine
+2. Groups:  Approved
+3. Description:  A dideoxynucleoside compound in which the 3'-hydroxy group on the sugar moiety has been replaced by an azido group. This modification prevents the formation of phosphodiester linkages which are needed for the completion of nucleic acid chains. The compound is a potent inhibitor of HIV replication, acting as a chain-terminator of viral DNA during reverse transcription. It improves immunologic function, partially reverses the HIV-induced neurological dysfunction, and improves certain other clinical abnormalities associated with AIDS. Its principal toxic effect is dose-dependent suppression of bone marrow, resulting in anemia and leukopenia. [PubChem]
+4. Indication:  Used in combination with other antiretroviral agents for the treatment of human immunovirus (HIV) infections.
+DrugId:  21
+1. Name:  Ponatinib
+2. Groups:  Approved, Investigational
+3. Description:  Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.
+4. Indication:  Ponatinib is indicated for the treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia (CML) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy or Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ALL) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy.
+DrugId:  22
+1. Name:  Imipramine
+2. Groups:  Approved
+3. Description:  Imipramine, the prototypical tricyclic antidepressant (TCA), is a dibenzazepine-derivative TCA. TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, imipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, imipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as imipramine and amitriptyline, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also block histamine H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively [5]. Imipramine has less sedative and anticholinergic effects than the tertiary amine TCAs, amitriptyline and clomipramine. Imipramine may be used to treat depression and nocturnal enuresis in children [FDA Label]. Unlabeled indications include chronic and neuropathic pain (including diabetic neuropathy), panic disorder, attention-deficit/hyperactivity disorder (ADHD), and post-traumatic stress disorder (PTSD) [12, 11, 1, 13, 14, 15, 2].
+4. Indication:  For the relief of symptoms of depression and as temporary adjunctive therapy in reducing enuresis in children aged 6 years and older [FDA Label]. May also be used off-label to manage panic disorders with or without agoraphobia, as a second line agent for ADHD in children and adolescents, to manage bulimia nervosa, for short-term management of acute depressive episodes in bipolar disorder and schizophrenia, for the treatment of acute stress disorder and posttraumatic stress disorder, and for symptomatic treatment of postherpetic neuralgia and painful diabetic neuropathy [12, 11, 1, 13, 14, 15, 2]. 
+DrugId:  23
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.

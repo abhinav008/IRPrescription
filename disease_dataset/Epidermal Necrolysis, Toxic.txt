@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Chlormezanone
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  A non-benzodiazepine that is used in the management of anxiety. It has been suggested for use in the treatment of muscle spasm. [PubChem]
+4. Indication:  Used in the management of anxiety and in the treatment of muscle spasm.
+DrugId:  2
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  3
+1. Name:  Etravirine
+2. Groups:  Approved
+3. Description:  Etravirine is an antiretroviral agent more specifically classified as a Non-Nucleoside Reverse Transcriptase Inhibitor(NNRTI). Etraverine is used clinically for the treatment of human immunodeficiency virus type 1 (HIV-1) infection.On January 18, 2007, the FDA granted accelerated approved for the use of etravirine 100mg tablets in the treatment of adult HIV-1 infection documented to be resistant to therapy with other NNRTIs and antiretroviral agents. On March 26, 2012, approval was extended for use in treatment-experienced pediatric patients 6 to 18 years of age, weighing at least 16 kg. Etravarine must always be used in combination with other antiretroviral drugs. Etravirine exerts its effects via direct inhibition of the reverse transcriptase enzyme of human immunodeficiency virus type 1 (HIV-1), and consequently blocks DNA-dependent and RNA-dependent polymerase activity. Etravirine does not inhibit human DNA polymerase alpha, beta or gamma. Common side effects of use include mild to moderate rash within the first 6 weeks of therapy, nausea, diarrhea and peripheral neuropathy. Patients are advised to immediately contact their healthcare provider if a rash develops. In 2009, postmarketing case reports of Stevens-Johnson Syndrome, toxic epidermal necrolysis, erythema multiforme, and other hypersensitivity reactions lead to a revision of etravirine's "Warnings and Precautions," as well as notification of health care providers. In 2013, reports of Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barrésyndrome) in the setting of immune reconstitution, as well as more in depth information about the development of rashes in patients taking etravirine, lead to a modification of etravirine's monograph.
+4. Indication:  Indicated as an adjunct therapy in the treatment of adult HIV-1 infections resistant to therapy with other NNRTIs and antiretroviral agents. 
+DrugId:  4
+1. Name:  Flurbiprofen
+2. Groups:  Approved, Investigational
+3. Description:  Flurbiprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with antipyretic and analgesic activity. Oral formulations of flurbiprofen may be used for the symptomatic treatment of rheumatoid arthritis, osteoarthritis and anklylosing spondylitis. Flurbiprofen may also be used topically prior to ocular surgery to prevent or reduce intraoperative miosis. Flurbiprofen is structurally and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen.
+4. Indication:  Flurbiprofen tablets are indicated for the acute or long-term symptomatic treatment of rheumatoid arthritis, osteorarthritis and anklosing spondylitis. It may also be used to treat pain associated with dysmenorrhea and mild to moderate pain accompanied by inflammation (e.g. bursitis, tendonitis, soft tissue trauma). Topical ophthalmic formulations may be used pre-operatively to prevent intraoperative miosis. 
+DrugId:  5
+1. Name:  Telaprevir
+2. Groups:  Approved, Withdrawn
+3. Description:  Telaprevir is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [7]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as Telaprevir. Telaprevir is an inhibitor of NS3/4A, a serine protease enzyme, encoded by HCV genotype 1 [FDA Label]. These enzymes are essential for viral replication and serve to cleave the virally encoded polyprotein into mature proteins like NS4A, NS4B, NS5A and NS5B. The barrier for develoment of resistance to NS3/4A inhibitors is lower than that of NS5B inhibitors, another class of DAAs [6]. Subtitutions at amino acid positions 155, 156, or 168 are known to confer resistance. The substitutions of the enzyme's catalytic triad consisting of H58, D82, and S139 are also likely to alter the affinity of the drug for NS3/4A or the activity of the enzyme itself. Despite this disadvantage Telaprevir is still effective against HCV when paired with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b.Telaprevir, Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b were used with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily administration of the combination therapy followed by 12 or 36 weeks of therapy with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [5].Telaprevir was available as a fixed dose product (tradename Incivek) used for the treatment of chronic Hepatitis C. Approved in May 2011 by the FDA, Incivek was indicated for the treatment of HCV genotype 1 in combination with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b [FDA Label]. Incivek has since been withdrawn from the market.
+4. Indication:  Telaprevir, when used in combination with Ribavirin, Peginterferon alfa-2a, and Peginterferon alfa-2b is indicated for use in the treatment of chronic HCV genotype 1 infection in adults [FDA Label].
+DrugId:  6
+1. Name:  Etodolac
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Etodolac is a non-steroidal anti-inflammatory drug (NSAID) with anti-inflammatory, analgesic and antipyretic properties. Its therapeutic effects are due to its ability to inhibit prostaglandin synthesis. It is indicated for relief of signs and symptoms of rheumatoid arthritis and osteoarthritis. 
+4. Indication:  For acute and long-term management of signs and symptoms of osteoarthritis and rheumatoid arthritis, as well as for the management of pain.
+DrugId:  7
+1. Name:  Strontium ranelate
+2. Groups:  Approved, Withdrawn
+3. Description:  Strontium ranelate, a strontium (II) salt of ranelic acid, is a medication for osteoporosis. Studies indicate it can also slow the course of osteoarthritis of the knee. The drug is unusual in that it both increases deposition of new bone by osteoblasts and reduces the resorption of bone by osteoclasts. It is therefore promoted as a "dual action bone agent" (DABA) indicated for use in treatment of severe osteoporosis.Furthermore, various clinical studies demonstrate the ability of strontium ranelate to improve and strengthen intrinsic bone tissue quality and microarchitecture in osteoporosis by way of a number of cellular and microstructural changes by which anti-fracture efficacy is enhanced.Available for prescription use for a time in some parts of the world as Protelos (strontium ranelate) 2 g granules for oral suspension by Servier, it was ultimately discontinued in 2016-2017 owing to an increased adverse cardiac effects profile along with increased risk of venous thromboembolism (VTE) and various life threatening allergic reactions.
+4. Indication:  Strontium ranelate is therapeutically indicated for the treatement of severe osteoperosis in: a) postmenopasual women, and b) adult men, who are at high risk of fractures, for whom treatment with other medical products approved for the treatment of osteoperosis is not possible due to, for example, contraindications or intolerance. [6]In postmenopausal women, strontium ranelate can also reduce the risk of vertebral and hip fractures [6].
+DrugId:  8
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
+DrugId:  9
+1. Name:  Osimertinib
+2. Groups:  Approved
+3. Description:  Osimertinib is an oral, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) drug developed by AstraZeneca Pharmaceuticals. Its use is indicated for the treatment of metastatic non-small cell lung cancer (NSCLC) in cases where tumour EGFR expression is positive for the T790M mutation as detected by FDA-approved testing and which has progressed following therapy with a first-generation EGFR tyrosine kinase inhibitor. Approximately 10% of patients with NSCLC have a rapid and clinically effective response to EGFR-TKIs due to the presence of specific activating EGFR mutations within the tumour cells. More specifically, deletions around the LREA motif in exon 19 and exon 21 L858R point mutations are correlated with response to therapy. Development of third-generation EGFR-TKIs, such as osimertinib, has been in response to altered tumour resistance patterns following treatment and toxic side effects that impact patient quality of life. Treatment with first-generation EGFR-TKIs (gefitinib and erlotinib) has been associated with the development of resistance through activating mutations in the EGFR gene. Second-generation EGFR-TKIs (afatinib and dacomitinib) were then developed to be more potent inhibitors, although their use is associated with increased toxicity through nonspecific targeting of wild-type EGFR. In contrast, third-generation inhibitors are specific for the gate-keeper T790M mutations which increases ATP binding activity to EGFR and result in poor prognosis for late-stage disease. Furthermore, osimertinib has been shown to spare wild-type EGFR during therapy, thereby reducing non-specific binding and limiting toxicity. 
+4. Indication:  Osimertinib is indicated for the treatment of patients with metastatic epidermal growth factor receptor (EGFR) T790M mutation-positive non-small cell lung cancer (NSCLC), as detected by an FDA- approved test, who have progressed on or after EGFR-TKI therapy.
+DrugId:  10
+1. Name:  Pelitinib
+2. Groups:  Investigational
+3. Description:  Pelitinib (EKB-569) is a potent, low molecular weight, selective, and irreversible inhibitor of epidermal growth factor receptor (EGFR) that is being developed as an anticancer agent.
+4. Indication:  Investigated for use/treatment in colorectal cancer and lung cancer.
+DrugId:  11
+1. Name:  Zalutumumab
+2. Groups:  Investigational
+3. Description:  Zalutumumab (proposed trade name HuMax-EGFR) is a fully human IgG1 monoclonal antibody (mAb) directed towards the epidermal growth factor receptor (EGFR). Zalutumumab has been investigated for the treatment of Squamous Cell Cancer and Head and Neck Cancer.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  INCB7839
+2. Groups:  Investigational
+3. Description:  INCB7839 is a novel, orally available ADAM metalloprotease inhibitor that is designed to block activation of the epidermal growth factor (EGFR) pathways. It represents a potentially important new class of targeted breast cancer therapy. It has shown promising clinical activity in heavily pretreated, refractory breast cancer patients.
+4. Indication:  Investigated for use/treatment in breast cancer.
+DrugId:  13
+1. Name:  Cetuximab
+2. Groups:  Approved
+3. Description:  Cetuximab is an epidermal growth factor receptor binding FAB. Cetuximab is composed of the Fv (variable; antigen-binding) regions of the 225 murine EGFr monoclonal antibody specific for the N-terminal portion of human EGFr with human IgG1 heavy and kappa light chain constant (framework) regions. Cetuximab is marketed under the brand Erbitux® by Eli Lilly and Company. In the United States, a regimen of cetuximab costs approximately $30,790 for an eight-week course.
+4. Indication:  Cetuximab, used in combination with irinotecan, is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are refractory to irinotecan-based chemotherapy. Cetuximab administered as a single agent is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are intolerant to irinotecan-based chemotherapy.
+DrugId:  14
+1. Name:  Necitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Necitumumab is an intravenously administered recombinant monoclonal IgG1 antibody used in the treatment of non-small cell lung cancer (NSCLC) as an EGFR antagonist. It functions by binding to epidermal growth factor receptor (EGFR) and prevents binding of its ligands, a process that is involved in cell proliferation, metastasis, angiogenesis, and malignant progression. Binding of necitumumab to EGFR induces receptor internalization and degradation, thereby preventing further activation of EGFR which is beneficial in NSCLC as many patients have increased protein expression of EGFR. Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC).
+4. Indication:  Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC). It is not indicated for treatment of non-squamous NSCLC. 
+DrugId:  15
+1. Name:  Panitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Panitumumab (ABX-EGF) is a recombinant human IgG2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (EGFR). This drug is an antineoplastic agent.
+4. Indication:  For the treatment of EGFR-expressing, metastatic colorectal carcinoma that is refractory to fluoropyrimidine-, oxaliplatin-, and irinotecan- containing chemotherapy regimens.
+DrugId:  16
+1. Name:  Naquotinib
+2. Groups:  Investigational
+3. Description:  Naquotinib has been used in trials studying the treatment of Solid Tumors, Non-small Cell Lung Cancer, Non-Small-Cell Lung Cancer (NSCLC), Epidermal Growth Factor Receptor Mutations, and Epidermal Growth Factor Receptor (EGFR) Mutations, among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  AEE-788
+2. Groups:  Investigational
+3. Description:  AEE788 has been used in trials studying the treatment of Cancer, Glioblastoma Multiforme, and Brain and Central Nervous System Tumors.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Matuzumab
+2. Groups:  Investigational
+3. Description:  Matuzumab (formerly EMD 72000) is a humanized monoclonal antibody for the treatment of cancer. It binds to EGFR (epithelial growth factor receptor) with high affinity.
+4. Indication:  Investigated for use/treatment in cervical dysplasia/cancer, colorectal cancer, gastric cancer, and lung cancer.
+DrugId:  19
+1. Name:  Icotinib
+2. Groups:  Approved, Investigational
+3. Description:  Icotinib is a potent and specific epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)Icotinib was approved in China by the SFDA in June, 2011 and in January 2014, Beta Pharma, Inc. was given a “May Proceed” from the US FDA to conduct a Phase I study for the evaluation of icotinib as a treatment of EGFR+ Non-Small Cell Lung Cancer (NSCLC).
+4. Indication:  Icotinib hydrochloride is a novel epidermal growth factor receptor (EGFR)–tyrosine kinase inhibitor, exhibits encouraging efficacy and tolerability in patients with advanced non-small-cell lung cancer (NSCLC) who failed previous chemotherapy.
+DrugId:  20
+1. Name:  Semustine
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Neratinib
+2. Groups:  Approved, Investigational
+3. Description:  Neratinib was approved in July 2017 for use as an extended adjuvant therapy in Human Epidermal Growth Factor Receptor 2 (HER2) positive breast cancer. Approval was granted to Puma Biotechnology Inc. for the tradename Nerlynx. Neratinib is currently under investigation for use in many other forms of cancer.
+4. Indication:  For use as an extended adjuvant treatment in adult patients with early stage HER2-overexpressed/amplified breast cancer, to follow adjuvant trastuzumab-based therapy [FDA Label].
+DrugId:  22
+1. Name:  Lapatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lapatinib is an anti-cancer drug developed by GlaxoSmithKline (GSK) as a treatment for solid tumours such as breast and lung cancer. It was approved by the FDA on March 13, 2007, for use in patients with advanced metastatic breast cancer in conjunction with the chemotherapy drug Capecitabine. Lapatinib is human epidermal growth factor receptor type 2 (HER2/ERBB2) and epidermal growth factor receptor (HER1/EGFR/ERBB1) tyrosine kinases inhibitor. It binds to the intracellular phosphorylation domain to prevent receptor autophosphorylation upon ligand binding.
+4. Indication:  Indicated in combination with capecitabine for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress the human epidermal receptor type 2 (HER2) protein and who have received prior therapy including an anthracycline, a taxane, and trastuzuma.
+DrugId:  23
+1. Name:  Olmutinib
+2. Groups:  Approved, Investigational
+3. Description:  Olmutinib is an orally active epidermal growth factor receptor inhibitor used in the treatment of T790M mutation positive non-small cell lung cancer. It is available under the brand name Olita made by Hanmi Pharmaceuticals [4]. Olmutinib was developed by Hanmi Pharmaceuticals and Boehringer Ingelheim. Olmutinib recieved breakthrough therapy designation in the United States in December 2015 and was approved for use in Korea in May 2016.
+4. Indication:  For use in treatment of metastatic T790M mutation positive non-small cell lung cancer [4].
+DrugId:  24
+1. Name:  Gefitinib
+2. Groups:  Approved, Investigational
+3. Description:  Gefitinib (originally coded ZD1839) is a drug used in the treatment of certain types of cancer. Acting in a similar manner to erlotinib (marketed as Tarceva), gefitinib selectively targets the mutant proteins in malignant cells. It is marketed by AstraZeneca under the trade name Iressa. [Wikipedia]
+4. Indication:  For the continued treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of either platinum-based or docetaxel chemotherapies.
+DrugId:  25
+1. Name:  Pegademase bovine
+2. Groups:  Approved
+3. Description:  Bovine adenosine deaminase derived from bovine intestine that has been extensively pegylated for extended serum half life.
+4. Indication:  For treatment of adenosine deaminase deficiency

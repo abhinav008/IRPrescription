@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Beclamide
+2. Groups:  Experimental
+3. Description:  Beclamide (N-benzyl-B-chloropropionamide) is a drug that possesses anticonvulsant activity. It is no longer used. It has been used as a sedative and as an anticonvulsant. It was studied in the 1950s for its anticonvulsant properties, as a treatment for generalised tonic-clonic seizures. It was not effective for absence seizures.
+4. Indication:  Has been used in the management of epilepsy and epilepsy related behavioural disorders. It was used for generalised tonic-clonic seizures, and was not effective for absence seizures.More recently focus has shifted to the use of beclamide in behavioural disorders. In mentally handicapped epileptic patients it has been found to decrease anxiety, antisocial and demanding behaviours, and impulsivity. Mood stabilizing effects were also noted. [2]Additionally, due to its effects on monoamines, beclamide may have a potential place in treating conditions such as tardive dyskinesia and hyperkinetic syndromes. [2]
+DrugId:  2
+1. Name:  Mephenytoin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mephenytoin is used for the treatment of refractory partial epilepsy. Mephenytoin is a solid. This compound belongs to the phenylhydantoins. These are heterocyclic aromatic compounds containing an imiazolidinedione moiety substituted by a phenyl group. Mephenytoin is known to target sodium channel protein type 5 subunit alpha. Cytochrome P450 2C19, Cytochrome P450 2C8, Cytochrome P450 2C9, Cytochrome P450 2B6, Cytochrome P450 1A2, and Cytochrome P450 2D6 are known to metabolize mephenytoin. Mephenytoin is a hydantoin-derivative anticonvulsant used to control various partial seizures. Mephenytoin and oxazolidinedione derivatives are associated with higher incidences of blood dyscrasias compared to other anticonvulsants. It is still studied largely because of its interesting hydroxylation polymorphism.
+4. Indication:  For the treatment of refractory partial epilepsy.
+DrugId:  3
+1. Name:  Topiramate
+2. Groups:  Approved
+3. Description:  Topiramate (brand name Topamax) is an anticonvulsant drug produced by Ortho-McNeil Neurologics, a division of Johnson & Johnson. It is used to treat epilepsy in both children and adults. In children it is also indicated for treatment of Lennox-Gastaut syndrome (a disorder that causes seizures and developmental delays). It is also Food and Drug Administration (FDA) approved for, and now most frequently prescribed for, the prevention of migraines. [Wikipedia]. A combination product containing phentermine and topiramate extended-release called QSYMIA® is indicated for the management of obesity. On August 2013, an extended released formulation, marketed as Trokendi XR has been approved for the management of partial onset, tonic-clonic, and Lennox-Gastaut Syndrome seizures. 
+4. Indication:  Used for the treatment and control of partial seizures and severe tonic-clonic (grand mal) seizures and also for the prevention of migraine headaches. In children it is also used for treatment of Lennox-Gastaut syndrome. Qsymia® is indicated for the treatment and management of obesity.
+DrugId:  4
+1. Name:  Lamotrigine
+2. Groups:  Approved, Investigational
+3. Description:  Lamotrigine is an antiepileptic drug belonging in the phenyltriazine class used in the treatment of epilepsy and bipolar disorder. For epilepsy it is used to treat partial seizures, primary and secondary tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome. Lamotrigine also acts as a mood stabilizer. It is the first medication since lithium granted Food and Drug Administration (FDA) approval for the maintenance treatment of bipolar type I. In the US, lamotrigine is available as oral tablets under the market name Lamictal. Chemically unrelated to other anticonvulsants, lamotrigine has relatively few side-effects and does not require blood monitoring. While lamotrigine is primarily indicated for epilepsy and bipolar disorders, there is evidence that it could have some clinical efficacy in some neuropathic pain states. Lamotrigine is also used as an off-label drug in treating other neurologic and psychiatric pathologies like borderline personality disorder [6]. The exact mechanism of action of lamotrigine is not fully elucidated, as it may have multiple cellular actions that contribute to its broad clinical efficacy.
+4. Indication:  Indicated as adjunctive therapy for the following seizure types in patients ≥2 years of age: partial seizures/primary generalized tonic-clonic seizures/generalized seizures of Lennox-Gastaut syndrome [FDA Label].Indicated for conversion to monotherapy in adults (≥16 years of age) with partial seizures who are receiving treatment with carbamazepine, phenytoin, phenobarbital, primidone, or valproate as the single antiepileptic drug (AED)[FDA Label]. Indicated for the maintenance treatment of Bipolar I Disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in adults (≥18 years of age) treated for acute mood episodes with standard therapy [FDA Label].
+DrugId:  5
+1. Name:  Phenytoin
+2. Groups:  Approved, Vet approved
+3. Description:  An anticonvulsant that is used in a wide variety of seizures. It is also an anti-arrhythmic and a muscle relaxant. The mechanism of therapeutic action is not clear, although several cellular actions have been described including effects on ion channels, active transport, and general membrane stabilization. The mechanism of its muscle relaxant effect appears to involve a reduction in the sensitivity of muscle spindles to stretch. Phenytoin has been proposed for several other therapeutic uses, but its use has been limited by its many adverse effects and interactions with other drugs. [PubChem]
+4. Indication:  For the control of generalized tonic-clonic (grand mal) and complex partial (psychomotor, temporal lobe) seizures and prevention and treatment of seizures occurring during or following neurosurgery.
+DrugId:  6
+1. Name:  Stiripentol
+2. Groups:  Approved
+3. Description:  Stiripentol is an anticonvulsant drug used in the treatment of epilepsy as an adjunct therapy along with Clobazam and Valproic Acid. Unrelated to other anticonvulsants, stitipentol belongs to the group of aromatic allylic alcohols and may potentiate the effect of other antiepileptic drugs (AEDs) due to pharmacokinetic interactions. It elevates the levels of gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter that regulates electrical activity in the central nervous system. Use of stiripentol is approved for infants with Dravet syndrome, or Severe Myoclonic Epilepsy in Infancy (SMEI) that commonly occurs at the first year of life. Stiripentol is not FDA-approved but approved in Canada and European countries as oral tablets marketed as Diacomit.
+4. Indication:  Indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet’s syndrome) whose seizures are not adequately controlled with clobazam and valproate.
+DrugId:  7
+1. Name:  Valproic Acid
+2. Groups:  Approved, Investigational
+3. Description:  Valproic acid, supplied as the sodium salt valproate semisodium or divalproex sodium, is a fatty acid with anticonvulsant properties used in the treatment of epilepsy. The mechanisms of its therapeutic actions are not well understood. It may act by increasing gamma-aminobutyric acid levels in the brain or by altering the properties of voltage dependent sodium channels. Typically supplied in the sodium salt form (CAS number: 76584-70-8). Valproic Acid is also a histone deacetylase inhibitor and is under investigation for treatment of HIV and various cancers.
+4. Indication:  For treatment and management of seizure disorders, mania, and prophylactic treatment of migraine headache. In epileptics, valproic acid is used to control absence seizures, tonic-clonic seizures (grand mal), complex partial seizures, and the seizures associated with Lennox-Gastaut syndrome.
+DrugId:  8
+1. Name:  Phenacemide
+2. Groups:  Approved
+3. Description:  Phenacemide is used to control certain seizures in the treatment of epilepsy. This medicine acts on the central nervous system (CNS) to reduce the number and severity of seizures.
+4. Indication:  Used to control certain seizures in the treatment of epilepsy.
+DrugId:  9
+1. Name:  Ganaxolone
+2. Groups:  Investigational
+3. Description:  Ganaxolone is the 3β-methylated synthetic analog of allopregnanolone; it belongs to a class of compounds referred to as neurosteroids. Ganaxolone is an allosteric modulator of GABAA receptors acting through binding sites which are distinct from the benzodiazepine binding site. It has activity in a broad range of animal models of epilepsy. Ganaxolone has been shown to be well tolerated in adults and children. In early phase II studies, Ganaxolone has been shown to have activity in adult patients with partial-onset seizures and epileptic children with history of infantile spasms. It is currently undergoing further development in infants with newly diagnosed infantile spasms, in women with catamenial epilepsy, and in adults with refractory partial-onset seizures.
+4. Indication:  Investigated for use/treatment in pediatric indications and seizure disorders.
+DrugId:  10
+1. Name:  Carbamazepine
+2. Groups:  Approved, Investigational
+3. Description:  An anticonvulsant used to control grand mal and psychomotor or focal seizures. Its mode of action is not fully understood, but some of its actions resemble those of phenytoin; although there is little chemical resemblance between the two compounds, their three-dimensional structure is similar. [PubChem]
+4. Indication:  For the treatment of epilepsy and pain associated with true trigeminal neuralgia. 
+DrugId:  11
+1. Name:  Clonazepam
+2. Groups:  Approved, Illicit
+3. Description:  An anticonvulsant used for several types of seizures, including myotonic or atonic seizures, photosensitive epilepsy, and absence seizures, although tolerance may develop. It is seldom effective in generalized tonic-clonic or partial seizures. The mechanism of action appears to involve the enhancement of gamma-aminobutyric acid receptor responses. [PubChem]
+4. Indication:  Clonazepam is used as an anticonvulsant in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic and myoclonic seizures. It can also be used for the treatment of panic disorders. 
+DrugId:  12
+1. Name:  ICA-105665
+2. Groups:  Investigational
+3. Description:  ICA-105665 is a novel small molecule compound for the treatment of epilepsy. It is a novel opener of the KCNQ ion channel which in preclinical studies has demonstrated a broad spectrum of activity in models of epilepsy. In addition, ICA-105665 has also demonstrated activity in certain models of neuropathic pain.
+4. Indication:  Investigated for use/treatment in epilepsy.
+DrugId:  13
+1. Name:  LIC-477
+2. Groups:  Investigational
+3. Description:  LIC-477is indicated to be suitable for the treatment of psychosomatic disturbances, epilepsy, trigeminal neuralgia and cerebral spasticity. 
+4. Indication:  Investigated for use/treatment in bipolar disorders.
+DrugId:  14
+1. Name:  Ethotoin
+2. Groups:  Approved
+3. Description:  Ethotoin is a hydantoin derivative and anticonvulsant. Ethotoin exerts an antiepileptic effect without causing general central nervous system depression. The mechanism of action is probably very similar to that of phenytoin. The latter drug appears to stabilize rather than to raise the normal seizure threshold, and to prevent the spread of seizure activity rather than to abolish the primary focus of seizure discharges. Ethotoin is no longer commonly used. 
+4. Indication:  For the control of tonic-clonic (grand mal) and complex partial (psychomotor) seizures.
+DrugId:  15
+1. Name:  Dimetindene
+2. Groups:  Approved, Investigational
+3. Description:  Dimetindene (Fenistil) is an antihistamine/anticholinergic used orally and locally as an antipruritic.
+4. Indication:  Indicated as symptomatic treatment of allergic reactions: urticaria, allergies of the upper respiratory tract such as hey fever and perennial rhinitis, food and drug allergies; pruritus of various origins, except pruritus due to cholestasis; insect bites. Dimethindene is also indicated for pruritus in eruptive skin diseases such as chicken-pox. Dimethindene can also be used as an adjuvant in eczema and other pruriginous dermatoses of allergic origin. 
+DrugId:  16
+1. Name:  DP-VPA
+2. Groups:  Investigational
+3. Description:  DP-VPA is D-Pharm's proprietary lipid modified version of valproic acid (VPA) that demonstrate that DP-VPA is well-tolerated in patients with resistant epilepsy and has a marked effect on reducing seizure frequency.
+4. Indication:  Investigated for use/treatment in bipolar disorders, epilepsy, and migraine and cluster headaches.
+DrugId:  17
+1. Name:  Seletracetam
+2. Groups:  Investigational
+3. Description:  Seletracetam is a pyrrolidone derivative and with a structural similarity to newer generation antiepileptic drug levetiracetam. It binds to the same target as levetiracetam but with higher affinity and has shown potent seizure suppression in models of acquired and genetic epilepsy with high CNS tolerability. It is predicted to have low drug-drug interactions and inhibition or induction of any major human metabolizing enzymes. Seletracetam was in Phase II clinical trials under the supervision of the U.S. Food and Drug Administration (FDA) investigated as treatment of epilepsy and partial epilepsy however its development had been put on hold in July 2007. As of 2010, its production was further halted due to the investigation of a newer antiepileptic agent, brivaracetam.
+4. Indication:  Investigated for use/treatment in epilepsy.
+DrugId:  18
+1. Name:  Acetazolamide
+2. Groups:  Approved, Vet approved
+3. Description:  One of the carbonic anhydrase inhibitors that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)
+4. Indication:  For adjunctive treatment of: edema due to congestive heart failure; drug-induced edema; centrencephalic epilepsies; chronic simple (open-angle) glaucoma
+DrugId:  19
+1. Name:  N,N-dimethylglycine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Remacemide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in epilepsy, huntington's disease, and parkinson's disease.
+DrugId:  21
+1. Name:  Progabide
+2. Groups:  Approved, Investigational
+3. Description:  Progabide is an analog and prodrug of gamma-aminobutyric acid. It is commonly used in the treatment of epilepsy. It has agonistic activity for both the GABAA and GABAB receptors. Progabide has been investigated for many diseases besides epilepsy, including Parkinson's disease, schizophrenia, clinical depression and anxiety disorder with varying success.
+4. Indication:  Indicated for the treatment of epilepsy.
+DrugId:  22
+1. Name:  Enflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An extremely stable inhalation anesthetic that allows rapid adjustments of anesthesia depth with little change in pulse or respiratory rate. [PubChem]
+4. Indication:  Used for the induction and maintenance of general anaesthesia during surgery and cesarean section and also used for analgesia during vaginal delivery.
+DrugId:  23
+1. Name:  Meprobamate
+2. Groups:  Approved, Illicit
+3. Description:  A carbamate with hypnotic, sedative, and some muscle relaxant properties, although in therapeutic doses reduction of anxiety rather than a direct effect may be responsible for muscle relaxation. Meprobamate has been reported to have anticonvulsant actions against petit mal seizures, but not against grand mal seizures (which may be exacerbated). It is used in the treatment of anxiety disorders, and also for the short-term management of insomnia but has largely been superseded by the benzodiazepines. (From Martindale, The Extra Pharmacopoeia, 30th ed, p603) Meprobamate is a controlled substance in the U.S.
+4. Indication:  For the management of anxiety disorders or for the short-term relief of the symptoms of anxiety.
+DrugId:  24
+1. Name:  Sodium oxybate
+2. Groups:  Approved
+3. Description:  Sodium oxybate (Xyrem) is a central nervous system depressant used for the treatment of cataplexy and extreme daytime sleepiness (EDS) associated with narcolepsy. It is the sodium salt of gamma hydroxybutyric acid (GHB) which is an endogenous compound and a metabolite of the neurotransmitter GABA. The exact mechanism of action for treating EDS and cataplexy is not known but is is hypothesised that its therapeutic effects are due to GABA(B) effects on noradrenergic, dopaminaergic and thalamocorticol neurons. The drug follows non-linear pharmacokinetics. As it has been associated with misuse/abuse it is strictly controlled and all patients and prescribers must enroll in the sodium oxybate REMs program in order to gain access to the medication.
+4. Indication:  For the treatment of cataplexy in narcolepsy and excessive daytime sleepiness (EDS) in narcolepsy.
+DrugId:  25
+1. Name:  Levetiracetam
+2. Groups:  Approved, Investigational
+3. Description:  Levetiracetam is an anticonvulsant medication used to treat epilepsy. Levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity. Levetiracetam binds to the synaptic vesicle protein SV2A, which is thought to be involved in the regulation of vesicle exocytosis. Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice.
+4. Indication:  Used as adjunctive therapy in the treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.

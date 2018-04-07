@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  substance P
+2. Groups:  Investigational
+3. Description:  Homspera is a generic name used by the Company to describe the synthetic peptide Sar9, Met (O2)11-Substance P. Sar9, Met (O2)11-Substance P is an analog of the naturally occurring human neuropeptide Substance P, which can be found throughout the body, including in the airways of humans and many other species. All of the Company's research and development efforts are in early, pre-clinical stages and Homspera, also known as Viprovex and Radilex, has only undergone exploratory studies to evaluate its biological activity in small animals.
+4. Indication:  Investigated for use/treatment in acute respiratory distress syndrome (ARDS) and viral infection.
+DrugId:  2
+1. Name:  Disulfiram
+2. Groups:  Approved
+3. Description:  A carbamate derivative used as an alcohol deterrent. It is a relatively nontoxic substance when administered alone, but markedly alters the intermediary metabolism of alcohol. When alcohol is ingested after administration of disulfiram, blood acetaldehyde concentrations are increased, followed by flushing, systemic vasodilation, respiratory difficulties, nausea, hypotension, and other symptoms (acetaldehyde syndrome). It acts by inhibiting aldehyde dehydrogenase. [PubChem]
+4. Indication:  For the treatment and management of chronic alcoholism
+DrugId:  3
+1. Name:  Pethidine
+2. Groups:  Approved
+3. Description:  A narcotic analgesic that can be used for the relief of most types of moderate to severe pain, including postoperative pain and the pain of labor. Prolonged use may lead to dependence of the morphine type; withdrawal symptoms appear more rapidly than with morphine and are of shorter duration.
+4. Indication:  Used to control moderate to severe pain.
+DrugId:  4
+1. Name:  GTI 2040
+2. Groups:  Investigational
+3. Description:  GTI-2040 is a substance that is being studied as a treatment for cancer. It belongs to the family of drugs called antisense oligonucleotides.
+4. Indication:  Investigated for use/treatment in breast cancer, colorectal cancer, leukemia (myeloid), leukemia (unspecified), myelodysplastic syndrome, prostate cancer, renal cell carcinoma, and solid tumors.
+DrugId:  5
+1. Name:  Captodiame
+2. Groups:  Approved, Investigational
+3. Description:  Captodiame, also known as captodiamine, is an antihistamine which is used as a sedative and anxiolytic. It is a derivative of diphenhydramine. Captodiame has been suggested for use in preventing benzodiazepine withdrawal syndrome.
+4. Indication:  Captodiame is indicated for the treatment of anxiety. 
+DrugId:  6
+1. Name:  AV608
+2. Groups:  Investigational
+3. Description:  AV608 is a NK-1 antagonist. It is developed for the treatment of Social anxiety disorder (SAD), irritable bowel syndrome (IBS) and overactive bladder (OAB).
+4. Indication:  Investigated for use/treatment in anxiety disorders, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  7
+1. Name:  Nicotine
+2. Groups:  Approved
+3. Description:  Nicotine is highly toxic alkaloid. It is the prototypical agonist at nicotinic cholinergic receptors where it dramatically stimulates neurons and ultimately blocks synaptic transmission. Nicotine is also important medically because of its presence in tobacco smoke.
+4. Indication:  For the relief of nicotine withdrawal symptoms and as an aid to smoking cessation.
+DrugId:  8
+1. Name:  Arbaclofen
+2. Groups:  Investigational
+3. Description:  Arbaclofen, or STX209, is the R-enantiomer of baclofen. It is believed to be a selective gamma-amino butyric acid type B receptor agonist, and has been investigated as a treatment for autism spectrum disorder and fragile X syndrome in randomized, double blind, placebo controlled trials. It has also been investigated as a treatment for spasticity due to multiple sclerosis and spinal cord injury. Arbaclofen was investigated as a treatment for gastroesophageal reflux disease (GERD); however, with disappointing results.
+4. Indication:  Investigated in clinical trials as a potential treatment for spasticity in multiple sclerosis, autism spectrum disorder, and social withdrawal in fragile X syndrome.
+DrugId:  9
+1. Name:  Lofexidine
+2. Groups:  Approved, Investigational
+3. Description:  Lofexidine is an alpha2-adrenergic receptor agonist. It can be used as a short acting anti-hypertensive, but is mostly used to help relieve symptoms of heroin or opiate withdrawal in opiate dependency. It is approved in the United Kingdom, but is still undergoing clinical trials in the United States.
+4. Indication:  Investigated for use/treatment in addictions and substance abuse.
+DrugId:  10
+1. Name:  Glutethimide
+2. Groups:  Approved, Illicit
+3. Description:  A hypnotic and sedative. Its use has been largely superseded by other drugs. [PubChem]
+4. Indication:  For the treatment of insomnia.
+DrugId:  11
+1. Name:  Calfactant
+2. Groups:  Approved
+3. Description:  Calfactant is a sterile, non-pyrogenic lung surfactant intended for intratracheal instillation. It is an off-white suspension of an extract of natural surfactant from calf lungs suspended in 0.9% saline. Each milliliter of calfactant contains 35mg of phospholipids (including 26 mg phosphatidylcholine of which 16 mg is disaturated phosphatidylcholine) and 0.65mg of proteins including surfactant-associated proteins B and C.Calfactant is approved for use in the United States of America. It is used to prevent or treat respiratory distress syndrome in premature infants with lung surfactant deficiency. Calfactant has been shown to decrease the incidence of respiratory distress syndrome, mortality due to respiratory distress syndrome, and air leaks associated with respiratory distress syndrome in clinical trials. It adsorbs to the air:fluid interface in the lungs and works to reduce surface tension, in a manner similar to endogenous pulmonary surfactant.
+4. Indication:  Calfactant is indicated for prophylaxis therapy to prevent respiratory distress syndrome (RDS) in premature infants <29 weeks of gestational age with low lung surfactant and at high risk for RDS. Calfactant therapy is also indicated for the treatment of respiratory distress syndrome in infants 72 hours or less of age with RDS confirmed by clinical and radiologic findings and requiring endotracheal intubation.
+DrugId:  12
+1. Name:  Etryptamine
+2. Groups:  Illicit, Investigational, Withdrawn
+3. Description:  In the 1960's, alpha-ethyltryptamine (αET), a non hydrazine reversible monoamine oxidase inhibitor, was developed in the United States by the Upjohn chemical company for use as an antidepressant. αET was an FDA approved antidepressant under the name Monase. However, in 1962, after the discovery of an unacceptable incidence of agranulocytosis, the development of Monase was halted and the drug was withdrawn from potential market use. In 1993, the US Drug Enforcement Administration added αET to Schedule I of its Schedules of Controlled Substances, after an increasing incidence of its use as a recreational drug in the 1980's. Currently, αET is an illegal substance; however, it's activity is still under scientific investigation. αET is a stimulant and hallucinogen, but it is less stimulating and hallucinogenic than alpha-methyltryptamine, a closely related compound. Instead, the effects of αET, a tryptamine derivative, more closely resemble the amphetamine derived drug 3,4-methylenedioxy-N-methylamphetamine (MDMA). Similarly to MDMA, αET has been shown to release serotonin pre-synaptically, as well as lesser amounts of norepinephrine and dopamine. Like MDMA, increases in locomotor activity and mood elevation can be seen post administration.
+4. Indication:  Developed in the 1960's for use as an antidepressant before market withdrawal in 1962. 
+DrugId:  13
+1. Name:  Sapacitabine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in solid tumors, cutaneous t-cell lymphoma, myelodysplastic syndrome, and leukemia (lymphoid).
+DrugId:  14
+1. Name:  Lesopitron
+2. Groups:  Investigational
+3. Description:  Lesopitron is an anxiolytic with pre- and post-synaptic 5-HT1A agonist activity, which is under development by Esteve.
+4. Indication:  Intended for the treatment of anxiety disorders.
+DrugId:  15
+1. Name:  Tofisopam
+2. Groups:  Approved
+3. Description:  Tofisopam (marketed under brand names Emandaxin and Grandaxin) is a 2,3-benzodiazepine drug which is a benzodiazepine derivative. In contrast to classical 1,4-benzodiazepines, the compound does not bind to the benzodiazepine binding site of the gamma-aminobutyric acid receptor and its psychopharmacological profile differs from such compounds. Although Tofisopam is not approved for sale in North America, it is approved for use in various countries worldwide, including parts of Europe. The D-enantiomer (dextofisopam) is currently in phase II trials in the U.S. for the treatment of irritable bowel syndrome.
+4. Indication:  For the treatment of anxiety and alcohol withdrawal.
+DrugId:  16
+1. Name:  Diazepam
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589)
+4. Indication:  Used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome.
+DrugId:  17
+1. Name:  Nalbuphine
+2. Groups:  Approved
+3. Description:  A narcotic used as a pain medication. It appears to be an agonist at kappa opioid receptors and an antagonist or partial agonist at mu opioid receptors. Nalbuphine is the only opioid analgesic that is not a controlled substance in the United States. 
+4. Indication:  For the relief of moderate to severe pain.
+DrugId:  18
+1. Name:  Phentolamine
+2. Groups:  Approved
+3. Description:  A nonselective alpha-adrenergic antagonist. It is used in the treatment of hypertension and hypertensive emergencies, pheochromocytoma, vasospasm of raynaud disease and frostbite, clonidine withdrawal syndrome, impotence, and peripheral vascular disease. [PubChem]
+4. Indication:  Used as an aid for the diagnosis of pheochromocytoma, and may be administered immediately prior to or during pheochromocytomectomy to prevent or control paroxysmal hypertension resulting from anesthesia, stress, or operative manipulation of the tumor. Phentolamine has also been used to treat hypertensive crisis caused by sympathomimetic amines or catecholamine excess by certain foods or drugs in patients taking MAO inhibitors, or by clonidine withdrawal syndrome. Other indications include the prevention of dermal necrosis and sloughing following IV administration or extravasation of norepinephrine, decrease in impedance to left ventricular ejection and the infarct size in patients with MI associated with left ventricular failure, treatment of erectile dysfunction through self-injection of small doses combined with papaverine hydrochloride into the corpus cavernosum, and as an adjunct to the management of cocaine overdose to reverse coronary vasoconstriction following use of oxygen, benzodiazepines,and nitroglycerin. 
+DrugId:  19
+1. Name:  Methadone
+2. Groups:  Approved
+3. Description:  A synthetic opioid that is used as the hydrochloride. It is an opioid analgesic that is primarily a mu-opioid agonist. It has actions and uses similar to those of morphine. It also has a depressant action on the cough center and may be given to control intractable cough associated with terminal lung cancer. Methadone is also used as part of the treatment of dependence on opioid drugs, although prolonged use of methadone itself may result in dependence. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1082-3).In Australia methadone is a Schedule 8 (controlled) drug.
+4. Indication:  For the treatment of dry cough, drug withdrawal syndrome, opioid type drug dependence, and pain.
+DrugId:  20
+1. Name:  Methysergide
+2. Groups:  Approved
+3. Description:  An ergot derivative that is a congener of lysergic acid diethylamide. It antagonizes the effects of serotonin in blood vessels and gastrointestinal smooth muscle, but has few of the properties of other ergot alkaloids. Methysergide is used prophylactically in migraine and other vascular headaches and to antagonize serotonin in the carcinoid syndrome.
+4. Indication:  For the treatment of vascular headache
+DrugId:  21
+1. Name:  Dihydrotachysterol
+2. Groups:  Approved
+3. Description:  A vitamin D that can be regarded as a reduction product of vitamin D2.
+4. Indication:  Used for the prevention and treatment of rickets or osteomalacia, and to manage hypocalcemia associated with hypoparathyroidism or pseudohypoparathyroidism. Also used for the treatment of vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  22
+1. Name:  Tiapride
+2. Groups:  Approved, Investigational
+3. Description:  Tiapride is a drug that selectively blocks D2 and D3 dopamine receptors in the brain.
+4. Indication:  Tiapride is indicated for the treatment of a variety of neurological and psychiatric disorders including dyskinesia, alcohol withdrawal syndrome, negative symptoms of psychosis, and agitation and aggression in the elderly.
+DrugId:  23
+1. Name:  Aminopterin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Aminopterin is an amino derivative of folic acid, which was once used as an antineoplastic agent in the treatment of pediatric leukemia. In the 1950's its production was discontinued in favor of methotrexate, which is less potent but less toxic. Off label, aminopterin has also been used in the treatment of psoriasis. Clinicians need to be aware of the characteristic teratologic effects of aminopterin and methotrexate. 
+4. Indication:  Prior to its withdrawal, aminopterin was initially used in the treatment of childhood leukemia; specifically to induce remissions. Later, aminopterin was used off-label in the United States to treat psoriasis, yielding dramatic lesion clearing. Aminopterin was later supplanted by methotrexate for treating cancer because of its better therapeutic index. Aminopterin (as well as methotrexate) has also been explored for use as an abortifacient. However, their association with severe congenital malformations and teratogenic effects have become known as fetal aminopterin syndrome. 
+DrugId:  24
+1. Name:  Nortriptyline
+2. Groups:  Approved
+3. Description:  Nortriptyline hydrochloride, the N-demethylated active metabolite of amitriptyline, is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, nortriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, nortriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Secondary amine TCAs, such as nortriptyline, are more potent inhibitors of norepinephrine reuptake than tertiary amine TCAs, such as amitriptyline. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. Compared to other TCAs, nortriptyline is less toxic and displays less drug interactions [6]. As a more selective noadrenaline reuptake inhibitor, nortriptyline is less likely associated with the hypertensive ‘cheese reaction' [6]. Nortriptyline exerts less anticholinergic and sedative side effects compared to the tertiary amine TCAs, amitriptyline and clomipramine. Apart from its indication to treat depression, nortriptyline has been investigated in chronic neuropathic pain (unlabeled use), fibromyalgia [4], irritable bowel syndrome (unlabeled use), diabetic neuropathy (unlabeled use) [5], post-traumatic stress disorder (unlabeled use), and migraine prophylaxis (unlabeled use).
+4. Indication:  Primarily indicated for the relief of symptoms of depression.
+DrugId:  25
+1. Name:  Melatonin
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Melatonin is a biogenic amine that is found in animals, plants and microbes. Aaron B. Lerner of Yale University is credited for naming the hormone and for defining its chemical structure in 1958. In mammals, melatonin is produced by the pineal gland. The pineal gland is small endocrine gland, about the size of a rice grain and shaped like a pine cone (hence the name), that is located in the center of the brain (rostro-dorsal to the superior colliculus) but outside the blood-brain barrier. The secretion of melatonin increases in darkness and decreases during exposure to light, thereby regulating the circadian rhythms of several biological functions, including the sleep-wake cycle. In particular, melatonin regulates the sleep-wake cycle by chemically causing drowsiness and lowering the body temperature. Melatonin is also implicated in the regulation of mood, learning and memory, immune activity, dreaming, fertility and reproduction. Melatonin is also an effective antioxidant. Most of the actions of melatonin are mediated through the binding and activation of melatonin receptors. Individuals with autism spectrum disorders (ASD) may have lower than normal levels of melatonin. A 2008 study found that unaffected parents of individuals with ASD also have lower melatonin levels, and that the deficits were associated with low activity of the ASMT gene, which encodes the last enzyme of melatonin synthesis. Reduced melatonin production has also been proposed as a likely factor in the significantly higher cancer rates in night workers.
+4. Indication:  Used orally for jet lag, insomnia, shift-work disorder, circadian rhythm disorders in the blind (evidence for efficacy), and benzodiazepine and nicotine withdrawal. Evidence indicates that melatonin is likely effective for treating circadian rhythm sleep disorders in blind children and adults. It has received FDA orphan drug status as an oral medication for this use. A number of studies have shown that melatonin may be effective for treating sleep-wake cycle disturbances in children and adolescents with mental retardation, autism, and other central nervous system disorders. It appears to decrease the time to fall asleep in children with developmental disabilities, such as cerebral palsy, autism, and mental retardation. It may also improve secondary insomnia associated with various sleep-wake cycle disturbances. Other possible uses for which there is some evidence for include: benzodiazepine withdrawal, cluster headache, delayed sleep phase syndrome (DSPS), primary insomnia, jet lag, nicotine withdrawal, preoperative anxiety and sedation, prostate cancer, solid tumors (when combined with IL-2 therapy in certain cancers), sunburn prevention (topical use), tardive dyskinesia, thrombocytopenia associated with cancer, chemotherapy and other disorders. 

@@ -1,0 +1,35 @@
+DrugId:  1
+1. Name:  Iodide
+2. Groups:  Approved, Investigational
+3. Description:  Iodide has been investigated for the treatment of Goiter, Nodular.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Thyroid, porcine
+2. Groups:  Approved
+3. Description:  Desiccated thyroid or thyroid extract, refers to porcine or bovine thyroid glands, dried and powdered for therapeutic use. In the last few decades, pork alone is the usual source.Desiccated (dried) thyroid is a combination of hormones that are normally produced by your thyroid gland to regulate the body's energy and metabolism. Desiccated thyroid is given when the thyroid does not produce enough of this hormone on its own.Desiccated thyroid treats hypothyroidism (low thyroid hormone). It is also used to treat or prevent goiter (enlarged thyroid gland), and is also given as part of a medical tests for thyroid disorders.This medicine should not be used to treat obesity or weight problems.
+4. Indication:  Replacement or supplemental therapy in hypothyroidism; TSH suppression (in thyroid cancer, nodules, goiters, and enlargement in chronic thyroiditis); diagnostic agent to differentiate suspected hyperthyroidism from euthyroidism.
+DrugId:  3
+1. Name:  Liotrix
+2. Groups:  Approved
+3. Description:  Liotrix is a synthetically derived thyroid hormone replacement preparation. It consists of levothyroxine sodium (thyroxine, T4) and liothyronine sodium (triiodothyronine, T3) in a 4 to 1 ratio by weight. Liotrix was developed when it was believed that serum levels of both T4 and T3 were maintained by direct thyroidal secretion. It is now known that the thyroid gland secretes approximately ten times more T4 than T3 and that 80% of serum T3 is derived from deiodination of T4 in peripheral tissues. Administration of levothyroxine alone is sufficient for maintaining serum T4 and T3 levels in most patients and combination hormone replacement therapy generally offers no therapeutic advantage. In fact, administration of T3 may result in supratherapeutic levels of T3.
+4. Indication:  May be used to treat primary, secondary or tertiary hypothyroidism. May also be used to suppress thyroid stimulating hormone (TSH) secretion in patients with simple (nontoxic) goiter, subacute or chronic lymphocytic thyroiditis multinodular goiter, and in the management of thyroid cancer. May be used in conjunction with other antithyroid agents to treat thyrotoxicosis to prevent goitrogenesis and hypothyroidism. May also be used for differential diagnosis of suspected mild hyperthyroidism or thyroid gland autonomy.
+DrugId:  4
+1. Name:  Minocycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline analog, having a 7-dimethylamino and lacking the 5 methyl and hydroxyl groups, which is effective against tetracycline-resistant staphylococcus infections. [PubChem]
+4. Indication:  For the treatment of infections caused by susceptible strains of microorganisms, such as Rocky Mountain spotted fever, typhus fever and the typhus group, Q fever, rickettsial pox and tick fevers caused by Rickettsiae, upper respiratory tract infections caused by Streptococcus pneumoniae and for the treatment of asymptomatic carriers of Neisseria meningitidis.
+DrugId:  5
+1. Name:  Methimazole
+2. Groups:  Approved
+3. Description:  A thioureylene antithyroid agent that inhibits the formation of thyroid hormones by interfering with the incorporation of iodine into tyrosyl residues of thyroglobulin. This is done by interfering with the oxidation of iodide ion and iodotyrosyl groups through inhibition of the peroxidase enzyme. [PubChem]
+4. Indication:  For the treatment of hyperthyroidism, goiter, Graves disease and psoriasis.
+DrugId:  6
+1. Name:  Iodide I-131
+2. Groups:  Approved, Investigational
+3. Description:  Iodide I-131 (as Sodium iodide I-131) is a radioisotopic drug used for the treatment and palliation of thyroid malignancy. Iodine-131 is notable for causing mutation and death in cells that it penetrates, which is due to its mode of beta decay. As a result of beta decay, approximately 10% of its energy and radiation dose is via gamma radiation, while the other 90% (beta radiation) causes tissue damage without contributing to any ability to see or image the isotope. Low levels of beta radiation are also known for causing cancer as this dose is highly mutagenic. For this reason, less toxic iodine isotopes such as I-123 are more frequently used in nuclear imaging, while I-131 is reserved for its tissue destroying effects. Because the thyroid gland naturally takes up iodine from the body, therapeutic methods using radioisotopes can take advantage of this mechanism for localization of drug to the site of malignancy. Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+4. Indication:  Therapeutic solutions of Sodium Iodide-131 are indicated for the treatment of hyperthyroidism and thyroid carcinomas that take up iodine. Palliative effects may be observed in patients with advanced thyroid malignancy if the metastatic lesions take up iodine. It is also indicated for use in performance of the radioactive iodide (RAI) uptake test to evaluate thyroid function.
+DrugId:  7
+1. Name:  Levothyroxine
+2. Groups:  Approved
+3. Description:  The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (monoiodotyrosine) and the coupling of iodotyrosines (diiodotyrosine) in the thyroglobulin. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form triiodothyronine which exerts a broad spectrum of stimulatory effects on cell metabolism.
+4. Indication:  For use alone or in combination with antithyroid agents to treat hypothyroidism, goiter, chronic lymphocytic thyroiditis, myxedema coma, and stupor.

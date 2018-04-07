@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ethanol
+2. Groups:  Approved
+3. Description:  A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+4. Indication:  For therapeutic neurolysis of nerves or ganglia for the relief of intractable chronic pain in such conditions as inoperable cancer and trigeminal neuralgia (tic douloureux), in patients for whom neurosurgical procedures are contraindicated.
+DrugId:  2
+1. Name:  Triclosan
+2. Groups:  Approved, Investigational
+3. Description:  An aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes. [ChEBI]
+4. Indication:  Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers. It is also used in health care settings in surgical scrubs and personnel hand washes.
+DrugId:  3
+1. Name:  Benzalkonium
+2. Groups:  Approved
+3. Description:  Benzalkonium is a quaternary ammonium compound used as a biocide, a cationic surfactant, and as a phase transfer agent [FDA Label]. Benzalkonium is more commonly contained in consumer products in its salt form, benzalkonium chloride [FDA Label]. This salt is used in a great variety of international pharmaceutical products such as eye, ear, and nasal drops or sprays as an excipient ingredient serving as an antimicrobial preservative [FDA Label]. When used as an ingredient in antiseptic and disinfectant products however, it is an active antimicrobial agent [2].
+4. Indication:  When used as an active ingredient in products like antibacterial, antiseptic, or disinfectant soaps, topical sanitizers, or cleaning agents, benzalkonium is primarily implemented in its salt form, benzalkonium chloride, where it may often be the only active ingredient present and indicated for the primary purpose of topical washing to decrease bacteria on skin [2].Conversely, when implemented as an excipient ingredient in a variety of multidose aqueous nose, eye, or ear products, benzalkonium chloride is being used as the antimicrobial preservative of choice to facilitate effective bactericidal and fungicidal actions to help minimize the growth of unwanted organisms in the multidose containers [FDA Label]. 
+DrugId:  4
+1. Name:  Chloroxylenol
+2. Groups:  Approved
+3. Description:  Chloroxylenol, also known as para-chloro-meta-xylenol (PCMX), is an antiseptic and disinfectant agent used for skin disinfection and cleaning surgical instruments. It is also commonly used in antibacterial soaps, wound-cleansing applications and household antiseptics. The halophenol is shown to be most effective against Gram positive bacteria where it disrupts the cell wall due to its phenolic nature [1]. Chloroxylenol is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system.
+4. Indication:  The predominant medical applications for which chloroxylenol is formally indicated for therapeutic use is as an application to the skin for use in cuts, bites, stings, abrasions, and for use as antiseptic hand cleaner [7].
+DrugId:  5
+1. Name:  Benzethonium
+2. Groups:  Approved
+3. Description:  Benzethonium is a synthetic quaternary ammonium salt with surfactant, antiseptic, and broad spectrum antimicrobial properties. Its salt form, benzethonium chloride, is primarily used as a skin disinfectant at concentrations of 0.1-0.2 %, which are safe and effective concentrations for the compound specified by the U.S. Food and Drug Administration (FDA). It is additionally found in cosmetics and toiletries such as mouthwashes and anti-itch ointments. It is shown to be effective in mediating its antimicrobial action against bacteria, fungi, mold and viruses. There is evidence that benzethonium acts as a spermatocide but may cause vaginal irritation [2]. Benzethonium was identified as a novel cancer-specific compound by cell-based small-molecule screen [1].
+4. Indication:  Indicated as an antiseptic agent. No therapeutic indications for clinical use. 
+DrugId:  6
+1. Name:  Bronopol
+2. Groups:  Approved
+3. Description:  Nitrosating reagent for diethanolamine. Bronopol is approved for use in OTC products in Canada.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  C11-12 isoparaffin
+2. Groups:  Approved
+3. Description:  C11-12 isoparaffin is a mixture of branched chain hydrocarbons with 11C or 12C's in the alkyl chain. It is found in cosmetic and personal care products as solvents or skin conditioning agent.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Isopropyl Alcohol
+2. Groups:  Approved, Investigational
+3. Description:  An isomer of 1-propanol. It is a colorless liquid having disinfectant properties. It is used in the manufacture of acetone and its derivatives and as a solvent. Topically, it is used as an antiseptic. [PubChem]
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Chlorhexidine
+2. Groups:  Approved, Vet approved
+3. Description:  A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque. [PubChem]
+4. Indication:  For reduction of pocket depth in patients with adult periodontitis, used as an adjunct to scaling and root planing procedures. Also for prevention of dental caries, oropharyngeal decontamination in critically ill patients, hand hygiene in health-care personnel, general skin cleanser, and catheter site preparation and care.
+DrugId:  10
+1. Name:  Desoximetasone
+2. Groups:  Approved
+3. Description:  A topical anti-inflammatory glucocorticoid used in dermatoses, skin allergies, psoriasis, etc. [PubChem]
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+DrugId:  11
+1. Name:  LTX-109
+2. Groups:  Investigational
+3. Description:  LTX-109 has been investigated for the treatment of Atopic Dermatitis, Mild Eczema/Dermatoses, and Gram-positive, Skin Infections.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Hydrocortamate
+2. Groups:  Approved
+3. Description:  Hydrocortamate is a synthetic glucocorticoid used for its anti-inflammatory or immunosuppressive properties to treat inflammation due to corticosteroid-responsive dermatoses. Glucocorticoids are a class of steroid hormones characterised by an ability to bind with the cortisol receptor and trigger a variety of important cardiovascular, metabolic, immunologic and homeostatic effects.
+4. Indication:  Used topically as an antiinflammatory in the treatment of steroid-responsive dermatoses
+DrugId:  13
+1. Name:  Clocortolone
+2. Groups:  Approved
+3. Description:  Clocortolone is a medium potency corticosteroid that is often used as a topical cream for the relief of inflammatory oand pruritic (itching) arising from steroid-responsive dermatoses of the scalp.
+4. Indication:  For short-term topical treatment of the inflammatory and pruritic manifestations of moderate to severe corticosteroid-responsive dermatoses of the scalp.
+DrugId:  14
+1. Name:  Halcinonide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Halcinonide is a corticosteroid indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses, and is distributed as a cream and ointment. Halcinonide is marketed under the brand name Halog® by Ranbaxy Laboratories Inc. Research suggests that clobetasol propionate demonstrates superior pharmacologic efficacy in the treatment of psoriasis when compared to halcinonide. 
+4. Indication:  Indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. 
+DrugId:  15
+1. Name:  MDX-018
+2. Groups:  Investigational
+3. Description:  MDX-018, also known as HuMax-Inflam, is a fully human antibody that is directed to IL-8 (interleukin-8) and may have potential application in oncology and inflammation. Trials will initially focus on studies to treat glioblastoma, a cancer of the central nervous system. Other possible indications include chronic obstructive pulmonary disease (COPD) and pustular dermatoses. In pre-clinical studies, HuMax-Inflam has been shown to inhibit tumor growth in tumor models using primary human tumors in immunodeficient mice. HuMax-Inflam was also effective in reducing disease activity in palmoplantar pustulosis patients in a clinical study.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).
+DrugId:  16
+1. Name:  Cocamidopropyl betaine
+2. Groups:  Approved
+3. Description:  Cocamidopropyl betaine is a mixture of closely related organic compounds derived from coconut oil and dimethylaminopropylamine that typically acts as an amphoteric surfactant in cosmetics and personal care products. It is a zwitterionic ammonium compound and fatty acid amide that contains a long hydrocarbon chain and a polar group at each end. Cocamidopropyl betaine also acts as a foam booster in shampoos, emulsifying agent, thickener, antistatic agent and rarely an antiseptic agent [Wikipedia]. Impurities formed during the manufacturing process are thought to increase the prevalence of contact sensitization and mild skin irritations.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Bufexamac
+2. Groups:  Approved, Experimental
+3. Description:  Bufexamac is a non-steroidal anti-inflammatory drug (NSAID) under the market name Paraderm and Parfenac. It is typically administered topically to treat skin irritations and conditions such as eczema and other inflammatory dermatoses. Its main mechanism of action is thought to be through inhibition of cyooxygenase enzyme.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Diflorasone
+2. Groups:  Approved
+3. Description:  Diflorasone is a topical corticosteroid used to treat itching and inflammation of the skin.
+4. Indication:  For relief of the inflammatory and pruritic manifestations of corticosteroid responsive dermatoses.
+DrugId:  19
+1. Name:  Ulobetasol
+2. Groups:  Approved
+3. Description:  Ulobetasol (as ulobetasol propionate) is thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins. It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor arachidonic acid. Arachidonic acid is released from membrane phospholipids by phospholipase A2. It is used for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+DrugId:  20
+1. Name:  Didecyldimethylammonium
+2. Groups:  Approved, Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Colloidal oatmeal
+2. Groups:  Approved, Nutraceutical
+3. Description:  Colloidal oatmeal is produced by grinding fine granules of oatmeal and boiling it to extract the colloidal material. It contains high concentrations of starches and beta-glucan that exhibits water-absorbing properties. Phenols are also contained in colloidal oatmeal, which possess antioxidant and anti-inflammatory activities, as well as UV-absorbing activity. Colloidal oatmeal is a FDA-approved skin protectant that temporarily protects and helps relieve minor skin irritation and itching due to rashes, eczema, poison ivy, oak, sumac, or insect bites. It is available in topical products as a skin soothing agent.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Aloe Polysaccharide
+2. Groups:  Approved, Experimental
+3. Description:  Aloe describes a genus including over 500 species of flowering succulent plants that grow in the Southern peninsula and various islands. Aloe vera is the most common species of Aloe that is cultivated for agricultural and medical purposes. It is a perennial succulent xerophyte with elongated leaves that contain a clear gel. The aloe vera gel is a rich source of polysaccharides, vitamins, minerals, amino acids, anthraquinones, enzymes, lignin, saponins, and salicylic acids. Some of the polysaccharides that are active constituents of aloe vera gel include acemannan, mannose, and cellulosic glucose. While aloe vera has a long history of commercial uses, it is still widely used in cosmetic, food and pharmaceutical products.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Methdilazine
+2. Groups:  Approved
+3. Description:  Methdilazine is a phenothiazine compound with antihistaminic activity. It is used in the treatment of various dermatoses to relieve pruritus.
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions and particularly for the control of pruritic skin disorders
+DrugId:  24
+1. Name:  Dimethicone
+2. Groups:  Approved
+3. Description:  Dimethicone is a silicone oil that is also known as polydimethylsiloxane (PDMS). It has viscoelastic properties. Dimethicone is used as a surfactant, antifoaming agent, carminative in various products such as medical devices, food products, and lubricants. It is used in a number of health and beauty products including hair care products such as shampoo, conditioner, leave-in conditioner, and de-tangling products. On skin, it is also observed to have moisturizing actions [6, 8].A study found that that the 100 % dimethicone product is a safe and highly effective head lice treatment for children and may serve as less toxic and less resistance-prone alternative to pesticide-containing products [3].
+4. Indication:  Dimethicone is a colorless liquid with both cosmetic and therapeutic uses. It is used in topical creams and ointments to help distribute the active ingredients. Dimethicone is used as an anti-foaming agent, a hair and skin conditioner, and in the treatment of head lice and, as an anti-bloating/anti-flatulence agent [2], [7].
+DrugId:  25
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.

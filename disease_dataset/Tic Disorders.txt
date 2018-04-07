@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Methdilazine
+2. Groups:  Approved
+3. Description:  Methdilazine is a phenothiazine compound with antihistaminic activity. It is used in the treatment of various dermatoses to relieve pruritus.
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions and particularly for the control of pruritic skin disorders
+DrugId:  2
+1. Name:  Tetrabenazine
+2. Groups:  Approved, Investigational
+3. Description:  A drug formerly used as an antipsychotic but now used primarily in the symptomatic treatment of various hyperkinetic disorders. It is a monoamine depletor and used as symptomatic treatment of chorea associated with Huntington's disease. FDA approved on August 15, 2008.
+4. Indication:  Treatment of hyperkinetic movement disorders like chorea in Huntington's disease, hemiballismus, senile chorea, Tourette syndrome and other tic disorders, and tardive dyskinesia 
+DrugId:  3
+1. Name:  Ticlopidine
+2. Groups:  Approved
+3. Description:  Ticlopidine is an effective inhibitor of platelet aggregation. It is a prodrug that is metabolised to an active form, which blocks the ADP receptor that is involved in GPIIb/IIIa receptor activation leading to platelet aggregation. Ticlopidine is marketed under the brand name Ticlid and is indicated for patients who cannot take aspirin or in whom aspirin has not worked to prevent a thrombotic stroke. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.
+4. Indication:  Used in patients, who have had a stroke or stroke precursors and who cannot take aspirin or aspirin has not worked, to try to prevent another thrombotic stroke.
+DrugId:  4
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  5
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  6
+1. Name:  Chlorphenesin
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  A centrally acting muscle relaxant. Its mode of action is unknown. Chlorphenesin is not available in the United States.
+4. Indication:  Used, along with rest and physical therapy, to treat injuries and other painful muscular conditions. Investigated for use in trigeminal neuralgia (tic douloureux), a neuropathic disorder characterized by severe facial pain. Was investigated as a modulator of histamine release.
+DrugId:  7
+1. Name:  Azatadine
+2. Groups:  Approved
+3. Description:  Antihistamines such as azatadine appear to compete with histamine for histamine H1- receptor sites on effector cells. The antihistamines antagonize those pharmacological effects of histamine which are mediated through activation of H1- receptor sites and thereby reduce the intensity of allergic reactions and tissue injury response involving histamine release.
+4. Indication:  For the relief of the symptoms of upper respiratory mucosal congestion in perennial and allergic rhinitis, and for the relief of nasal congestion and eustachian t.b. congestion.
+DrugId:  8
+1. Name:  Tripelennamine
+2. Groups:  Approved, Vet approved
+3. Description:  A histamine H1 antagonist with low sedative action but frequent gastrointestinal irritation. It is used to treat asthma; HAY fever; urticaria; and rhinitis; and also in veterinary applications. Tripelennamine is administered by various routes, including topically. [PubChem]
+4. Indication:  Used for the symptomatic relief of hypersensitivity reactions, coughs, and the common cold.
+DrugId:  9
+1. Name:  Alimemazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine derivative that is used as an antipruritic. [PubChem]
+4. Indication:  Used to prevent and relieve allergic conditions which cause pruritus (itching) and urticaria (some allergic skin reactions).
+DrugId:  10
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  11
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  12
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  13
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  14
+1. Name:  ACR325
+2. Groups:  Investigational
+3. Description:  ACR325 is developed for the treatment of Parkinson’s disease and psychoses, including bipolar disorder, for which disease existing therapies have only limited effect and considerable adverse side effects. ACR325 is a dopaminergic stabiliser, which has demonstrated promising results in disease models for motor functions and psychoses.
+4. Indication:  Investigated for use/treatment in affective disorders, bipolar disorders, and psychosis.
+DrugId:  15
+1. Name:  prGCD
+2. Groups:  Investigational
+3. Description:  GCD represents the combination treatment of gemcitabine, carboplatin, and dexamethasone.
+4. Indication:  Investigated for use/treatment in metabolic disease and neurologic disorders.
+DrugId:  16
+1. Name:  SGS518
+2. Groups:  Investigational
+3. Description:  SGS518, a novel antagonist for the 5HT6 subtype of the serotonin receptor, is being developed as a treatment for Cognitive Impairment Associated with Schizophrenia (CIAS).
+4. Indication:  Investigated for use/treatment in neurologic disorders and schizophrenia and schizoaffective disorders.
+DrugId:  17
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  18
+1. Name:  Facinicline
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  19
+1. Name:  VSF-173
+2. Groups:  Investigational
+3. Description:  VSF-173 is an oral small molecule. It is an oral compound that has demonstrated effects on animal sleep/wake patterns and gene expression patterns suggestive of a stimulant effect. It is developed for the treatment of excessive sleepiness. Study shows that VSF-173 possesses a novel mechanism to address disorders of excessive sleepiness.
+4. Indication:  Investigated for use/treatment in sleep disorders.
+DrugId:  20
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  21
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  22
+1. Name:  Fipamezole
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in parkinson's disease and neurologic disorders.
+DrugId:  23
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  XP12B
+2. Groups:  Investigational
+3. Description:  XP12B is being developed by Xanodyne Pharmaceuticals for the treatment of menorrhagia (heavy menstrual bleeding). It was granted Fast Track status for this indication by the FDA in November 2004.
+4. Indication:  Investigated for use/treatment in menstrual disorders.
+DrugId:  25
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).

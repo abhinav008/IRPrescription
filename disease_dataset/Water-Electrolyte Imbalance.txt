@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Methyclothiazide
+2. Groups:  Approved
+3. Description:  A thiazide diuretic with properties similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p825)
+4. Indication:  For use in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension. Also used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy.
+DrugId:  2
+1. Name:  M0002
+2. Groups:  Investigational
+3. Description:  M0002 is an orally-active selective vasopressin antagonist that inhibits water re-absorption from the kidneys. It is a vasopressin 2 antagonist and represents a new class of compounds – aquaretics – that produce profound diuresis without loss of electrolytes. It will be of major benefit to those patients not responding satisfactorily to diuretics alone.
+4. Indication:  Vasopressin regulates renal water resorption through the V2 receptor. Inhibition of vasopressin’s effects on V2 receptors enhances water excretion and increases urinary output. M0002 is a Vasopressin 2 antagonis. It is an electrolyte-sparing aquaretic and causes much lower levels of salt excretion. 
+DrugId:  3
+1. Name:  Triamterene
+2. Groups:  Approved
+3. Description:  A pteridine that is used as a mild diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and the nephrotic syndrome; also in steroid-induced edema, idiopathic edema, and edema due to secondary hyperaldosteronism.
+DrugId:  4
+1. Name:  Gluconic Acid
+2. Groups:  Approved
+3. Description:  Commonly found in salts with sodium and calcium. Gluconic acid or gluconate is used to maintain the cation-anion balance on electrolyte solutions.
+4. Indication:  For use as part of electrolyte supplementation in total parenteral nutrition [FDA Label].
+DrugId:  5
+1. Name:  Amiloride
+2. Groups:  Approved
+3. Description:  A pyrazine compound inhibiting sodium reabsorption through sodium channels in renal epithelial cells. This inhibition creates a negative potential in the luminal membranes of principal cells, located in the distal convoluted tubule and collecting duct. Negative potential reduces secretion of potassium and hydrogen ions. Amiloride is used in conjunction with diuretics to spare potassium loss. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p705)
+4. Indication:  For use as adjunctive treatment with thiazide diuretics or other kaliuretic-diuretic agents in congestive heart failure or hypertension.
+DrugId:  6
+1. Name:  Methazolamide
+2. Groups:  Approved
+3. Description:  A carbonic anhydrase inhibitor that is used as a diuretic and in the treatment of glaucoma. [PubChem]
+4. Indication:  For treatment of chronic open-angle glaucoma and acute angle-closure glaucoma
+DrugId:  7
+1. Name:  Succinic acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  A water-soluble, colorless crystal with an acid taste that is used as a chemical intermediate, in medicine, the manufacture of lacquers, and to make perfume esters. It is also used in foods as a sequestrant, buffer, and a neutralizing agent. (Hawley's Condensed Chemical Dictionary, 12th ed, p1099; McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed, p1851)
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  8
+1. Name:  Sodium acetate
+2. Groups:  Approved
+3. Description:  Sodium Acetate is chemically designated CH3COONa, a hygroscopic powder very soluble in water. Sodium acetate could be used as additives in food, industry, concrete manufacture, heating pads and in buffer solutions. Medically, sodium acetate is important component as an electrolyte replenisher when given intravenously. It is mainly indicated to correct sodium levels in hyponatremic patients. It can be used also in metabolic acidosis and for urine alkalinization.
+4. Indication:  Injection, USP 40 mEq is indicated as a source of sodium, for addition to large volume intravenous fluids to prevent or correct hyponatremia in patients with restricted or no oral intake. It is also useful as an additive for preparing specific intravenous fluid formulas when the needs of the patient cannot be met by standard electrolyte or nutrient solutions. Sodium acetate and other bicarbonate precursors are alkalinising agents, and can be used to correct metabolic acidosis, or for alkalinisation of the urine.
+DrugId:  9
+1. Name:  Bumetanide
+2. Groups:  Approved
+3. Description:  A sulfamyl diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, hepatic and renal disease including the nephrotic syndrome.
+DrugId:  10
+1. Name:  Sodium sulfate
+2. Groups:  Approved, Vet approved
+3. Description:  Sodium Sulfate Anhydrous is the anhydrous, sodium salt form of sulfuric acid. Sodium sulfate anhydrous disassociates in water to provide sodium ions and sulfate ions. Sodium ion is the principal cation of the extracellular fluid and plays a large part in the therapy of fluid and electrolyte disturbances. Sodium sulfate anhydrous is an electrolyte replenisher and is used in isosmotic solutions so that administration does not disturb normal electrolyte balance and does not lead to absorption or excretion of water and ions.
+4. Indication:  indicated for bowel cleansing prior to colonoscopy or barium enema X-ray examination.
+DrugId:  11
+1. Name:  Lipoic Acid
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A vitamin-like antioxidant.
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  12
+1. Name:  Gevokizumab
+2. Groups:  Investigational
+3. Description:  Gevokizumab has been used in trials studying the treatment of Acne Vulgaris, Osteoarthritis, Behcet's Uveitis, Pyoderma Gangrenosum, and Behcet's Disease Uveitis, among others. Gevokizumab acts as a modulator of cytokine imbalance in IL-1 mediated disease states. It has a very high binding affinity of 300fM and blocks the activation of IL-1 receptors.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  14
+1. Name:  Indapamide
+2. Groups:  Approved
+3. Description:  A benzamide-sulfonamide-indole. It is called a thiazide-like diuretic but structure is different enough (lacking the thiazo-ring) so it is not clear that the mechanism is comparable. [PubChem]
+4. Indication:  For the treatment of hypertension, alone or in combination with other antihypertensive drugs, as well as for the treatment of salt and fluid retention associated with congestive heart failure or edema from pregnancy (appropriate only in the management of edema of pathologic origin during pregnancy when clearly needed). Also used for the management of edema as a result of various causes.
+DrugId:  15
+1. Name:  Cyclothiazide
+2. Groups:  Approved
+3. Description:  As a diuretic, cyclothiazide inhibits active chloride reabsorption at the early distal tubule via the Na-Cl cotransporter, resulting in an increase in the excretion of sodium, chloride, and water. Thiazides like cyclothiazide also inhibit sodium ion transport across the renal tubular epithelium through binding to the thiazide sensitive sodium-chloride transporter. This results in an increase in potassium excretion via the sodium-potassium exchange mechanism. The antihypertensive mechanism of cyclothiazide is less well understood although it may be mediated through its action on carbonic anhydrases in the smooth muscle or through its action on the large-conductance calcium-activated potassium (KCa) channel, also found in the smooth muscle. Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+4. Indication:  Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  16
+1. Name:  Magnesium acetate tetrahydrate
+2. Groups:  Approved
+3. Description:  Magnesium acetate tetrahydrate is a hydrated form of anhydrous magnesium acetate salt with the chemical formula of Mg(CH3COO)2 • 4H2O. As a salt form of magnesium, magnesium acetate is one of the bioavailable forms of magnesium and forms a very water soluble compound. Magnesium is an essential element and second most abundant cation in the body that plays a key role in maintaining normal cellular function such as production of ATP and efficient enzyme activity. Magnesium acetate tetrahydrate can be used as an electrolyte supplementation or a reagent in molecular biology experiments.
+4. Indication:  Used as magnesium salf-containing laxatives to prevent constipation. It can bring synergistic effect to restore normal bowel function when using in combination with aluminum salts that induce bowel retention [8]. Magnesium acetate tetrahydrate is used as a source of water and electrolytes when combined with dextrose and other salts to form intravenous infusions. This injection can be used for patients with carbohydrate or magnesium deficiency, insulin hypoglycemia, constipation or hypertension during pregnancy.
+DrugId:  17
+1. Name:  PYY3-36
+2. Groups:  Investigational
+3. Description:  PYY3-36 (Peptide YY) is a naturally occurring hormone that is believed to function as a physiologic inhibitor of food intake. PYY is released into the blood stream from specialized endocrine cells (L-cells) in the gut after a meal and is believed to trigger the feeling of satiety, or fullness. Because PYY is a peptide, initial studies focused on PYY delivery by injection. Utilizing its proprietary drug delivery technology, Nastech developed the nasal spray formulation of PYY as a unique, non-invasive treatment option for obesity.
+4. Indication:  Investigated for use/treatment in obesity.
+DrugId:  18
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  19
+1. Name:  Hydroflumethiazide
+2. Groups:  Approved, Investigational
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p822)
+4. Indication:  Used as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. Also used in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  20
+1. Name:  L-Arginine
+2. Groups:  Approved, Nutraceutical
+3. Description:  An essential amino acid that is physiologically active in the L-form.
+4. Indication:  Used for nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  21
+1. Name:  Aldosterone
+2. Groups:  Experimental, Investigational
+3. Description:  A hormone secreted by the adrenal cortex that regulates electrolyte and water balance by increasing the renal retention of sodium and the excretion of potassium. [PubChem]
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Aluminum hydroxide
+2. Groups:  Approved, Investigational
+3. Description:  Aluminum hydroxide is an inorganic salt used as an antacid. It is a basic compound that acts by neutralizing hydrochloric acid in gastric secretions. Subsequent increases in pH may inhibit the action of pepsin. An increase in bicarbonate ions and prostaglandins may also confer cytoprotective effects.
+4. Indication:  For relief of heartburn and acid indigestion. 
+DrugId:  23
+1. Name:  Tolvaptan
+2. Groups:  Approved
+3. Description:  Tolvaptan is used to treat low blood sodium levels (hyponatremia) associated with various conditions like congestive heart failure, cirrhosis, and syndrome of inappropriate antidiuretic hormones (SIADH). FDA approved on May 19, 2009. 
+4. Indication:  Treatment of symptomatic and resistant to fluid restriction euvolemic or hypervolemic hyponatremia associated with congestive heart failure, SIADH, and cirrhosis. 
+DrugId:  24
+1. Name:  Trichlormethiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with properties similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p830)
+4. Indication:  Used in the treatment of oedema (including that associated with heart failure) and hypertension.
+DrugId:  25
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.

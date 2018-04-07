@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  ACR325
+2. Groups:  Investigational
+3. Description:  ACR325 is developed for the treatment of Parkinson’s disease and psychoses, including bipolar disorder, for which disease existing therapies have only limited effect and considerable adverse side effects. ACR325 is a dopaminergic stabiliser, which has demonstrated promising results in disease models for motor functions and psychoses.
+4. Indication:  Investigated for use/treatment in affective disorders, bipolar disorders, and psychosis.
+DrugId:  2
+1. Name:  Molindone
+2. Groups:  Approved
+3. Description:  An indole derivative effective in schizophrenia and other psychoses and possibly useful in the treatment of the aggressive type of undersocialized conduct disorder. Molindone has much lower affinity for D2 receptors than most antipsychotic agents and has a relatively low affinity for D1 receptors. It has only low to moderate affinity for cholinergic and alpha-adrenergic receptors. Some electrophysiologic data from animals indicate that molindone has certain characteristics that resemble those of clozapine. (From AMA Drug Evaluations Annual, 1994, p283)
+4. Indication:  Molindone is used for the management of the manifestations of psychotic disorders.
+DrugId:  3
+1. Name:  Zuclopenthixol
+2. Groups:  Approved, Investigational
+3. Description:  Zuclopenthixol, also known as Zuclopentixol or Zuclopenthixolum, is an antipsychotic agent. Zuclopenthixol is a thioxanthene-based neuroleptic with therapeutic actions similar to the phenothiazine antipsychotics. It is an antagonist at D1 and D2 dopamine receptors. Major brands of zuclopenthixol are Cisordinol, Acuphase, and Clopixol. This drug is a liquid. This compound belongs to the thioxanthenes. These are organic polycyclic compounds containing a thioxanthene moiety, which is an aromatic tricycle derived from xanthene by replacing the oxygen atom with a sulfur atom. Known drug targets of zuclopenthixol include 5-hydroxytryptamine receptor 2A, D(1B) dopamine receptor, D(2) dopamine receptor, D(1A) dopamine receptor, and alpha-1A adrenergic receptor. It is known that zuclopenthixol is metabolized by Cytochrome P450 2D6. Zuclopenthixol was approved for use in Canada in 2011, but is not approved for use in the United States.
+4. Indication:  Used in the management of acute psychoses such as mania or schizophrenia. However, the use of zuclopenthixol acetate in psychiatric emergencies as an alternative to standard treatments (haloperidol, clotiapine, etc.) should be cautioned, since well executed and documented trials of zuclopenthixol acetate for this use have yet to be conducted. Zuclopenthixol acetate is not intended for long-term use.
+DrugId:  4
+1. Name:  Droperidol
+2. Groups:  Approved, Vet approved
+3. Description:  A butyrophenone with general properties similar to those of haloperidol. It is used in conjunction with an opioid analgesic such as fentanyl to maintain the patient in a calm state of neuroleptanalgesia with indifference to surroundings but still able to cooperate with the surgeon. It is also used as a premedicant, as an antiemetic, and for the control of agitation in acute psychoses. (From Martindale, The Extra Pharmacopoeia, 29th ed, p593)
+4. Indication:  Droperidol is ssed to produce tranquilization and to reduce the incidence of nausea and vomiting in surgical and diagnostic procedures.
+DrugId:  5
+1. Name:  ADX-10061
+2. Groups:  Investigational
+3. Description:  ADX10061 is a potent, selective antagonist of the dopamine D1 receptor. It is developed by Addex Pharmaceuticals for the treatment of nicotine dependence.
+4. Indication:  Investigated for use/treatment in sleep disorders, smoking cessation, and substance abuse.
+DrugId:  6
+1. Name:  Rolapitant
+2. Groups:  Approved, Investigational
+3. Description:  Rolapitant is a potent, highly selective, long-acting Neurokinin-1 (NK-1) receptor antagonist approved for the prevention of delayed chemotherapy-induced nausea and vomiting (CINV) in adults. Delayed-phase CINV typically occurs >24 hours after chemotherapy treatment and is principally mediated by Neurokinin-1 and its ligand Substance P, which is released in the gut following chemotherapy administration. Neurokinin-1 is also known as Tachykinin Receptor 1 (TACR1), Neurokinin 1 Receptor (NK1R), and Substance P Receptor (SPR).By blocking Substance P from interacting with NK-1 receptors in the gut and the central nervous system, rolapitant prevents late-phase CINV. Unlike other available NK-1 receptor antagonists, rolapitant is not an inhibitor of Cytochrome P450 enzyme CYP3A4 and has a long elimination half-life, allowing a single dose to prevent both acute and late-phase CINV during the first 120 hours post-chemotherapy.
+4. Indication:  Rolapitant is indicated in combination with other antiemetic agents in adults for the prevention of delayed nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy, including, but not limited to, highly emetogenic chemotherapy.
+DrugId:  7
+1. Name:  Aprepitant
+2. Groups:  Approved, Investigational
+3. Description:  Aprepitant, an antiemetic, is a substance P/neurokinin 1 (NK1) receptor antagonist which, in combination with other antiemetic agents, is indicated for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of highly emetogenic cancer chemotherapy. Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK1) receptors. Aprepitant has little or no affinity for serotonin (5-HT3), dopamine, and corticosteroid receptors, the targets of existing therapies for chemotherapy-induced nausea and vomiting (CI NV).
+4. Indication:  For the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy, including high-dose cisplatin (in combination with other antiemetic agents).
+DrugId:  8
+1. Name:  Carphenazine
+2. Groups:  Withdrawn
+3. Description:  Carphenazine is an antipsychotic drug, used in hospitalized patients in the management of chronic schizophrenic psychoses.
+4. Indication:  Used in the treatment of acute or chronic schizophrenic reactions in hospitalized patients.
+DrugId:  9
+1. Name:  Triflupromazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine used as an antipsychotic agent and as an antiemetic. [PubChem]
+4. Indication:  Used mainly in the management of psychoses. Also used to control nausea and vomiting.
+DrugId:  10
+1. Name:  Fosaprepitant
+2. Groups:  Approved
+3. Description:  Fosaprepitant is an intravenously administered antiemetic drug. It is a prodrug of Aprepitant. It aids in the prevention of acute and delayed nausea and vomiting associated with chemotherapy treatment.
+4. Indication:  For the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy.
+DrugId:  11
+1. Name:  Amisulpride
+2. Groups:  Approved, Investigational
+3. Description:  Amisulpride (trade name Solian) is an antipsychotic drug sold by Sanofi-Aventis. It is not approved for use in the United States, but is approved for use in Europe and Australia for the treatment of psychoses and schizophrenia. Additionally, it is approved in Italy for the treatment of dysthymia (under the brand name Deniban). Amisulpride is a selective dopamine antagonist.
+4. Indication:  Investigated for use/treatment in schizophrenia and schizoaffective disorders, mania in bipolar disorder, and depression.
+DrugId:  12
+1. Name:  Talampanel
+2. Groups:  Investigational
+3. Description:  Talampanel is a substance that is being studied in the treatment of brain tumors and other brain disorders, such as epilepsy and Parkinson disease. It is a type of AMPA receptor antagonist.
+4. Indication:  For the treatment of epilepsy.
+DrugId:  13
+1. Name:  Pipamperone
+2. Groups:  Approved, Investigational
+3. Description:  Pipamperone is a typical antipsychotic of the butyrophenone family used in the treatment of schizophrenia. It was discovered at Janssen Pharmaceutica in 1961, and entered clinical trials in the United States in 1963 [11, 15].In an effort to improve haloperidol's pharmacological effects, Janssen discovered that pipamperone, an agent whose pharmacological profile was distinct from haloperidol and all other known antipsychotic drugs at this time, had significant anti-tryptamine activity. Some studies suggest pipamperone was the first atypical antipsychotic. Interestingly, when risperidone was created, Janssen suggested it was a more potent version of pipamperone. Synthesized in the year 1984, risperidone’s pharmacological properties were similar to pipamperone’s in that both block more serotonin more potently than dopamine [15].
+4. Indication:  Treatment of chronic psychoses and states of aggressiveness of various origins [12].
+DrugId:  14
+1. Name:  Nedocromil
+2. Groups:  Approved, Investigational
+3. Description:  A pyranoquinolone derivative that inhibits activation of inflammatory cells which are associated with asthma, including eosinophils, neutrophils, macrophages, mast cells, monocytes, and platelets. [PubChem]
+4. Indication:  For the treatment of mild to moderate asthma
+DrugId:  15
+1. Name:  substance P
+2. Groups:  Investigational
+3. Description:  Homspera is a generic name used by the Company to describe the synthetic peptide Sar9, Met (O2)11-Substance P. Sar9, Met (O2)11-Substance P is an analog of the naturally occurring human neuropeptide Substance P, which can be found throughout the body, including in the airways of humans and many other species. All of the Company's research and development efforts are in early, pre-clinical stages and Homspera, also known as Viprovex and Radilex, has only undergone exploratory studies to evaluate its biological activity in small animals.
+4. Indication:  Investigated for use/treatment in acute respiratory distress syndrome (ARDS) and viral infection.
+DrugId:  16
+1. Name:  Cromoglicic acid
+2. Groups:  Approved
+3. Description:  A chromone complex that acts by inhibiting the release of chemical mediators from sensitized mast cells. It is used in the prophylactic treatment of both allergic and exercise-induced asthma, but does not affect an established asthmatic attack.
+4. Indication:  For the management of patients with bronchial asthma. Also used in the treatment of vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  17
+1. Name:  Fluphenazine
+2. Groups:  Approved
+3. Description:  A phenothiazine used in the treatment of psychoses. Its properties and uses are generally similar to those of chlorpromazine. [PubChem]
+4. Indication:  For management of manifestations of psychotic disorders.
+DrugId:  18
+1. Name:  Thioridazine
+2. Groups:  Approved, Withdrawn
+3. Description:  A phenothiazine antipsychotic used in the management of psychoses, including schizophrenia, and in the control of severely disturbed or agitated behavior. It has little antiemetic activity. Thioridazine has a higher incidence of antimuscarinic effects, but a lower incidence of extrapyramidal symptoms, than chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p618).Thioridazine was withdrawn worldwide in 2005 due to it's association with cardiac arrythmias.
+4. Indication:  For the treatment of schizophrenia and generalized anxiety disorder.
+DrugId:  19
+1. Name:  Lurasidone
+2. Groups:  Approved, Investigational
+3. Description:  Lurasidone is an atypical antipsychotic developed by Dainippon Sumitomo Pharma. It was approved by the U.S. Food and Drug Administration (FDA) for treatment of schizophrenia on October 29, 2010 and is currently pending approval for the treatment of bipolar disorder in the United States. (Wikipedia)
+4. Indication:  Treatment of schizophrenia. 
+DrugId:  20
+1. Name:  Glutethimide
+2. Groups:  Approved, Illicit
+3. Description:  A hypnotic and sedative. Its use has been largely superseded by other drugs. [PubChem]
+4. Indication:  For the treatment of insomnia.
+DrugId:  21
+1. Name:  Methoxsalen
+2. Groups:  Approved
+3. Description:  A naturally occurring furocoumarin compound found in several species of plants, including Psoralea corylifolia. It is a photoactive substance that forms DNA adducts in the presence of ultraviolet A irradiation. [PubChem]
+4. Indication:  For the treatment of psoriasis and vitiligo
+DrugId:  22
+1. Name:  Fospropofol
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Fospropofol is a water soluble prodrug and is converted to propofol in the liver. Fospropofol is a short acting hypnotic/sedative/anesthetic agent. Unlike propofol, does not cause injection-site pain as it is unable to activate TRPA1. FDA approved in December 2008.Fospropofol is classified as a Schedule IV controlled substance in the United States' Controlled Substances Act.
+4. Indication:  For monitored anaesthesia care sedation in patients undergoing diagnostic procedures like bronchoscopy and colonscopy or minor surgical procedures like arthroscopy and bunionectomy. 
+DrugId:  23
+1. Name:  Chlorzoxazone
+2. Groups:  Approved
+3. Description:  A centrally acting central muscle relaxant with sedative properties. It is claimed to inhibit muscle spasm by exerting an effect primarily at the level of the spinal cord and subcortical areas of the brain. (From Martindale, The Extra Pharmacopoea, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute painful musculoskeletal conditions.
+DrugId:  24
+1. Name:  Nalbuphine
+2. Groups:  Approved
+3. Description:  A narcotic used as a pain medication. It appears to be an agonist at kappa opioid receptors and an antagonist or partial agonist at mu opioid receptors. Nalbuphine is the only opioid analgesic that is not a controlled substance in the United States. 
+4. Indication:  For the relief of moderate to severe pain.
+DrugId:  25
+1. Name:  Amlexanox
+2. Groups:  Approved, Investigational
+3. Description:  Amlexanox is an antiallergic drug, clinically effective for atopic diseases, especially allergic asthma and rhinitis. Amlexanox as a topical paste is a well tolerated treatment of recurrent aphthous ulcers. Recurrent aphthous ulcer (RAU) is the most prevalent oral mucosal disease in humans, estimated to affect between 5% and 50% of the general population.
+4. Indication:  Used as a paste in the mouth to treat aphthous ulcers (canker sores). 

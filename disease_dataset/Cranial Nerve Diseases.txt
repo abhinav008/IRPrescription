@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  2
+1. Name:  Almotriptan
+2. Groups:  Approved, Investigational
+3. Description:  Almotriptan is a triptan drug for the treatment of migraine headaches. Almotriptan is in a class of medications called selective serotonin receptor agonists. It works by narrowing blood vessels in the brain, stopping pain signals from being sent to the brain, and stopping the release of certain natural substances that cause pain, nausea, and other symptoms of migraine. Almotriptan does not prevent migraine attacks.
+4. Indication:  For the treatment of acute migraine headache in adults
+DrugId:  3
+1. Name:  Ergotamine
+2. Groups:  Approved
+3. Description:  A vasoconstrictor found in ergot of Central Europe. It is an alpha-1 selective adrenergic agonist and is commonly used in the treatment of migraine disorders. [PubChem]
+4. Indication:  For use as therapy to abort or prevent vascular headache, e.g., migraine, migraine variants, or so called "histaminic cephalalgia".
+DrugId:  4
+1. Name:  Naratriptan
+2. Groups:  Approved, Investigational
+3. Description:  Naratriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  5
+1. Name:  TRO19622
+2. Groups:  Investigational
+3. Description:  TRO19622 is a cholesterol-like small molecule that has demonstrated a remarkable neuroprotective profile in a battery of both in vitro and in vivo preclinical models. For example, it has demonstrated the ability to prevent neurodegeneration, enhance nerve function and accelerate neuroregeneration following nerve trauma. 
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  6
+1. Name:  PYM50028
+2. Groups:  Investigational
+3. Description:  Cogane (PYM50028/P58, p59, p63) is a novel non-peptide, orally bioavailable neurotrophic factor inducer that readily reverses free radical neurotoxicity produced by 1-ethyl-4- phenylpyridium (MPP+) in dopaminergic neurones and reverses the decrease of neuronal growth factors and dopamine receptors in the brain. Pre-clinical work with Cogane showed it to be neuroprotective against betya-amyloid and glutamate damage which contributes to Alzheimer's disease and reverses the changes in the area of the brain involved in Parkinson’s disease.P58 is a protein synthesis stimulant acts by restoring levels of proteins that are altered in the ageing brain, reversing the loss of nerve receptors in the ageing brain and potentially allowing for the regrowth of neural connections. P58 therefore provides a totally novel mode of action with potential importance for diseases associated with ageing of the brain. P58 is one of a family of phytochemicals (Cogane) isolated from traditional treatments for the elderly that have previously been shown to offer significant benefit in the treatment of senile dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, parkinson's disease and other neurodegenerative diseases.
+DrugId:  7
+1. Name:  Ciliary neurotrophic factor
+2. Groups:  Investigational
+3. Description:  Ciliary neurotrophic factor (NT-501) is Neurotech's lead product which is in two Phase II/III clinical trials for the treatment of visual loss associated with retinitis pigmentosa and a Phase II trial for the treatment of the dry form of age-related macular degeneration. Neurotech is also evaluating other factors that can be used with its proprietary delivery technology, Encapsulated Cell Technology (ECT), to treat additional retinal diseases.
+4. Indication:  Investigated for use/treatment in eye disorders/infections, macular degeneration, and retinal disorders (unspecified).
+DrugId:  8
+1. Name:  Dilmapimod
+2. Groups:  Investigational
+3. Description:  Dilmapimod has been used in trials studying the treatment and diagnostic of Nerve Trauma, Inflammation, Pain, Neuropathic, Arthritis, Rheumatoid, and Coronary Heart Disease, among others. Dilmapimod (SB-681323) is a p38 MAP-kinase inhibitor that has potential uses in inflammatory conditions such as RA (Rheumatoid Arthritis). Previous p38 MAP-kinase inhibitors have been hindered in development by liver toxicity. Methotrexate (common treatment for RA patients) also has potential liver toxicity.}
+4. Indication:  Dilmapimod has been used in trials studying the treatment and diagnostic of Nerve Trauma, Inflammation, Pain, Neuropathic, Arthritis, Rheumatoid, and Coronary Heart Disease, among others.
+DrugId:  9
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  11
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  12
+1. Name:  Nerve Growth Factor
+2. Groups:  Investigational
+3. Description:  Nerve Growth Factor has been used in trials studying the prevention and treatment of Mental Handicap, Alzheimer's Disease, Traumatic Brain Injury, Cerebral Palsy Children, and Delayed Speech Development, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Rizatriptan
+2. Groups:  Approved
+3. Description:  Rizatriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For treatment of acute migraine attacks with or without aura.
+DrugId:  14
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  15
+1. Name:  Desmopressin
+2. Groups:  Approved
+3. Description:  Desmopressin (dDAVP), a synthetic analogue of 8-arginine vasopressin (ADH), is an antidiuretic peptide drug modified by deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. ADH is an endogenous pituitary hormone that has a crucial role in the control of the water content in the body. Upon release from the stimulation of increased plasma osmolarity or decreased circulating blood volume, ADH mainly acts on the cells of the distal part of the nephron and the collecting tubules in the kidney [6]. The hormone interacts with V1, V2 or V3 receptors with differing signal cascade systems.Desmopressin displays enhanced antidiuretic potency, fewer pressor effects due to V2-selective actions, and a prolonged half-life and duration of action compared to endogenous ADH [2]. It has been employed clinically since 1972 and is available in various formulations including intranasal solution, intravenous solution, oral tablet and oral lyophilisate [3]. Desmopressin is indicated for the treatment of polyuric conditions including primary nocturnal enuresis, nocturia, and diabetes insipidus. It was also newly approved for the treatment of mild classical hemophilia and von Willebrand's disease for minor surgeries. The active ingredient in most formulations is desmopressin acetate.
+4. Indication:  Indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void (intranasal). Indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region (intranasal/parenteral).Indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5% or mild to moderate classic von Willebrand's Disease (Type I) with factor VIII levels greater than 5% during surgical procedures and postoperatively to maintain hemostasis (parenteral).
+DrugId:  16
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  17
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Itopride
+2. Groups:  Investigational
+3. Description:  Itopride is a dopamine D2 antagonist with acetylcholinesterase inhibitory actions.
+4. Indication:  Investigated for use/treatment in gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  19
+1. Name:  Acetylcarnitine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcarnitine is an investigational drug in the United states, Italy, United Kingdom, China, Israel, and Norway, and it is approved in Italy, Portugal, Argentina, Chile, Philippines, Australia, and India. Acetylcarnitine can be synthesized, but it is also naturally found in adequate amounts in healthy humans. In human plasma and tissues, acetylcarnitine is the most predominant acylated ester of carnitine, which is an amino acid derivative that is made in the kidney, liver, and brain from lysine and methionine. The main role of acetylcarnitine is to help transport fatty acids into the mitochondrial matrix where fatty acid metabolism occurs.
+4. Indication:  Acetylcarnitine is not approved for any indication in the United states and Canada, but it is approved and indicated in Italy for cerebrovascular disorders, mental function disorders, peripheral nerve disorders, diabetic neuropathy, and nutritional supplementation; Portugal for mental function disorders; Argentina for cerebral vasculopathy, nutritional supplementation, and peripheral neuropathy; Chile for dementia; Philippines for cerebrovascular disorders and mental function disorders; Australia for nutritional supplementation; and India for nutritional supplementation to increase sperm count. Acetylcarnitine also has several potential therapeutic indications for which it is still being investigated: in Norway, acetylcarnitine is in a phase IV trial for prophylactic treatment of migraines; in Italy acetylcarnitine is in a phase II trial for use in patients with type 2 Diabetes Mellitus, a phase III trial for alleviating fatigue in patients with chronic hepatitis C, and for use in patients with Minimal Hepatic Encephalopathy; in the United States acetylcarnitine is in a phase II trial for the neurodegenerative disorder Progressive Supranuclear Palsy, a phase II and III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy, a phase I and II trial for treating patients in septic shock, a phase II trial for bipolar depression, a phase II trial to reduce oxidative stress in patients with Sickle Cell disease, a phase I and II trial for chronic fatigue syndrome, and a study for preventing nerve damage in HIV patients; in China acetylcarnitine is in a phase III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy; in the United Kingdom acetylcarnitine is being investigated for preventing nerve damage in HIV patients; and in Israel acetylcarnitine is being studied for the treatment of male infertility.
+DrugId:  20
+1. Name:  Afamelanotide
+2. Groups:  Approved, Investigational
+3. Description:  Afamelanotide is an analog of the peptide hormone alpha-melanocyte stimulating hormone (alpha-MSH) that tends to induce skin tanning. It is being developed by the Australian company Clinuvel Pharmaceuticals (previously known as EpiTan). Afamelanotide was approved in Europe in October, 2014 for the treatment of erythropoietic protoporphyria (EPP). Clinuvel now intends to seek approval of afamelanotide in the United States.
+4. Indication:  Investigated for use/treatment in actinic keratosis, keratoses, skin cell studies, and skin infections/disorders.
+DrugId:  21
+1. Name:  Beeswax
+2. Groups:  Approved
+3. Description:  The wax obtained from the honeycomb of the bee. It consists primarily of myricyl palmitate, cerotic acid esters and some high-carbon paraffins. Beeswax is used as a stiffening agent in ointments and creams, and enables water to be incorporated to produce water-in-oil emulsions. It is also used as a coating in the manufacture of modified-release oral preparations
+4. Indication:  Beeswax is also characterized by several therapeutic properties of great interest to us; it is thought to be particularly effective in healing bruises, inflammation and burns. Recently, the interest of researchers has moved even on antimicrobial properties of beeswax although there are still few studies in the literature focused only on the action of beeswax. The few studies showed an antimicrobic effectiveness of beeswax against overall Staphylococcus aureus, Salmonella enterica, Candida albicans and Aspergillus niger. A sterile preparation of white beeswax, hard paraffin, and isopropyl palmitate (Sterile Surgical Bone Wax) is used to control bleeding from damaged bone during surgery. It should not be confused with Aseptic Surgical Wax (BPC 1949), also known as Horsley's Wax , which contained yellow beeswax, olive oil, and phenol in a mercuric chloride solution and was used to control haemorrhage in bone or cranial surgery.
+DrugId:  22
+1. Name:  Nesiritide
+2. Groups:  Approved, Investigational
+3. Description:  Nesiritide is a medication used to treat acutely decompensated congestive heart failure with dyspnea at rest or with minimal exertion (such as talk, eating or bathing). Nesiritide is the recombinant form of the 32 amino acid human B-type natriuretic peptide, which is normally produced by the ventricular myocardium.
+4. Indication:  For the intravenous treatment of patients with acutely decompensated congestive heart failure who have dyspnea at rest or with minimal activity.
+DrugId:  23
+1. Name:  Risedronate
+2. Groups:  Approved, Investigational
+3. Description:  Risedronate is a bisphosphonate used to strengthen bone, treat or prevent osteoporosis, and treat Paget's disease of bone.
+4. Indication:  For the treatment of Paget's disease of the bone (osteitis deformans), postmenopausal and glucocorticoid-induced osteoporosis
+DrugId:  24
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  25
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available

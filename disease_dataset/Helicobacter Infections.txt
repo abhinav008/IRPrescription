@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Urea C-13
+2. Groups:  Approved
+3. Description:  Urea 13C is a urea molecule radiolabelled with the non-radioactive element carbon-13. It is currently used for the Urea Breath Test (UBT) and is available as a rapid diagnostic test (marketed as Pranactin-Citric) for the detection of Helicobacter pylori infections. H pylori is a common stomach bacteria that has been linked to a variety of upper gastrointestinal disorders such as gastritis, gastric and peptic ulcers, stomach cancer, and gastric mucosa-associated lymphoid-tissue (MALT) lymphoma. The UBT is indicated to confirm H. pylori infection and to monitor post-treatment for its eradication. Radiolabelled urea is available in two forms as 13C and 14C. Both forms can be used within the Urea Breath Test, however some may prefer 13C as it is non-radioactive compared to 14C, which may be preferable in pregnant women and children.The Urea Breath Test is based on the ability of the H. pylori enzyme urease to cleave urea into ammonia and carbon dioxide. As the urease enzyme is not present in mammalian cells, the presence of urease (and the products of urea cleavage) in the stomach is evidence that H. pylori bacteria are present. To detect H. pylori, urea labeled with 13C is swallowed by the patient. If gastric urease from H. pylori is present, urea is split to form CO2 and NH3 at the interface between the gastric epithelium and lumen and 13CO2 is absorbed into the blood and exhaled in the breath. Exhaled breath samples can then be collected and measured for the presence of radioactivity.
+4. Indication:  Urea-13C is indicated for use in the qualitative detection of urease associated with Helicobacter pylori in the human stomach and as an aid in the initial diagnosis and post-treatment monitoring of Helicobacter pylori infection in adult patients. The test may be used for monitoring treatment if used at least four (4) weeks following completion of therapy. For these purposes, the system utilizes an Infrared Spectrophotometer for the measurement of the ratio of 13CO2 to 12CO2 in breath samples.
+DrugId:  2
+1. Name:  Ilaprazole
+2. Groups:  Investigational
+3. Description:  Ilaprazole has been investigated in Helicobacter Infections.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Urea C-14
+2. Groups:  Approved
+3. Description:  Urea 14C is a urea molecule radiolabelled with a radioactive carbon-14. It is currently used for the Urea Breath Test (UBT) and is available as a rapid diagnostic test (marketed as PyTest) for the detection of Helicobacter pylori infections. H pylori is a common stomach bacteria that has been linked to a variety of upper gastrointestinal disorders such as gastritis, gastric and peptic ulcers, stomach cancer, and gastric mucosa-associated lymphoid-tissue (MALT) lymphoma. The UBT is indicated to confirm H. pylori infection and to monitor post-treatment for its eradication. Radiolabelled urea is available in two forms as 13C and 14C. Both forms can be used within the Urea Breath Test, however some may prefer 13C as it is non-radioactive compared to 14C, which may be preferable in pregnant women and children.The Urea Breath Test is based on the ability of the H. pylori enzyme urease to cleave urea into ammonia and carbon dioxide. As the urease enzyme is not present in mammalian cells, the presence of urease (and the products of urea cleavage) in the stomach is evidence that H. pylori bacteria are present. To detect H. pylori, urea labeled with 14C is swallowed by the patient. If gastric urease from H. pylori is present, urea is split to form CO2 and NH3 at the interface between the gastric epithelium and lumen and 14CO2 is absorbed into the blood and exhaled in the breath. Exhaled breath samples can then be collected and measured for the presence of radioactivity.
+4. Indication:  14C-urea is intended for use in the detection of gastric urease as an aid in the diagnosis of Helicobacter pylori (H. pylori) infection in the human stomach. The test utilizes a liquid scintillation counter for the measurement of 14CO2 in breath samples.
+DrugId:  4
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  5
+1. Name:  Rifalazil
+2. Groups:  Investigational
+3. Description:  Rifalazil is a derivative of the antibiotic rifamycin. It is being investigated by ActivBiotics for the treatment of various bacterial infections.
+4. Indication:  Investigated for use/treatment in atherosclerosis, bacterial infection, and peripheral vascular disease.
+DrugId:  6
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  7
+1. Name:  Roxithromycin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Roxithromycin is a semi-synthetic macrolide antibiotic. It is very similar in composition, chemical structure and mechanism of action to erythromycin, azithromycin, or clarithromycin. Roxithromycin prevents bacteria from growing, by interfering with their protein synthesis. Roxithromycin binds to the subunit 50S of the bacterial ribosome, and thus inhibits the translocation of peptides. Roxithromycin has similar antimicrobial spectrum as erythromycin, but is more effective against certain gram-negative bacteria, particularly Legionella pneumophila. It can treat respiratory tract, urinary and soft tissue infections. It is not available in the United States, but is available in Australia. 
+4. Indication:  Used to treat respiratory tract, urinary and soft tissue infections.
+DrugId:  8
+1. Name:  Bismuth Subsalicylate
+2. Groups:  Approved, Vet approved
+3. Description:  Bismuth subsalicylate is the active ingredient in the popular medication Pepto-Bismol that is used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract. It is also the main ingredient of Kaopectate. It displays anti-inflammatory action (due to salicylic acid) and also acts as an antacid and mild antibiotic.
+4. Indication:  Used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract.
+DrugId:  9
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  10
+1. Name:  Sofalcone
+2. Groups:  Investigational
+3. Description:  Sofalcone is a mucosal protective agent that has been reported to inhibit growth of Helicobacter pylori. on adherence, production of vacuolating toxin (VT), and induction of interleukin-8 (IL-8) secretion by H. pylori.
+4. Indication:  Investigated for use/treatment in gastroenteritis and ulcers.
+DrugId:  11
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  12
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  14
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  15
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  16
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Ecabet
+2. Groups:  Approved, Investigational
+3. Description:  Ecabet is a prescription eye drop for the treatment of dry eye syndrome. Ecabet represents a new class of molecules that increases the quantity and quality of mucin produced by conjunctival goblet cells and corneal epithelia. Mucin is a glycoprotein component of tear film that lubricates while retarding moisture loss from tear evaporation. Ecabet is currently marketed in Japan as an oral agent for treatment of gastric ulcers and gastritis.
+4. Indication:  For the treatment of reflux oesophagitis and peptic ulcer disease.
+DrugId:  20
+1. Name:  Vibriolysin
+2. Groups:  Investigational
+3. Description:  Vibriolysin is a proteolytic enzyme secreted by the marine microorganism Vibrio proteolyticus. It is a new agent for enzymatic debridement, shown to rapidly and thoroughly hydrolyze burn wound eschar within full-thickness wounds.
+4. Indication:  Investigated for use/treatment in burns and burn infections.
+DrugId:  21
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  23
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  24
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  KB001
+2. Groups:  Investigational
+3. Description:  KB001 is a Humaneered™ PEGylated monoclonal antibody fragment for the treatment of life-threatening Pseudomonas aeruginosa infections, a common problem of cystic fibrosis and mechanically ventilated patients.
+4. Indication:  For the treatment of infections caused by multi-drug resistant Pseudomonas aeruginosa.

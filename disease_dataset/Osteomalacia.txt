@@ -1,0 +1,40 @@
+DrugId:  1
+1. Name:  Cod liver oil
+2. Groups:  Approved, Vet approved
+3. Description:  Cod liver oil is extracted from the liver of cod fish and mainly consists of omega-3 fatty acids, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). Also being a rich source of vitamin A and D, cod liver oil can be taken orally as daily supplements. It is used as an adjunct treatment and preventative therapy of rickets, osteomalacia and osteoporosis while meeting the consumption criteria.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Dihydrotachysterol
+2. Groups:  Approved
+3. Description:  A vitamin D that can be regarded as a reduction product of vitamin D2.
+4. Indication:  Used for the prevention and treatment of rickets or osteomalacia, and to manage hypocalcemia associated with hypoparathyroidism or pseudohypoparathyroidism. Also used for the treatment of vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  3
+1. Name:  Calcidiol
+2. Groups:  Approved, Nutraceutical
+3. Description:  The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  4
+1. Name:  Calcium glubionate
+2. Groups:  Approved
+3. Description:  Calcium glubionate (or glubionate calcium) is a mineral supplement to prevent or treat low blood calcium levels in people who do not get enough calcium from their diets.
+4. Indication:  Calcium glubionate is indicated to treat conditions caused by low calcium levels such as bone loss (osteoporosis), weak bones (osteomalacia/rickets), decreased activity of the parathyroid gland (hypoparathyroidism), and a certain muscle disease (latent tetany). It may also be used in certain patients to make sure they are getting enough calcium (e.g., women who are pregnant, nursing, or postmenopausal, people taking certain medications such as phenytoin, phenobarbital, or prednisone).
+DrugId:  5
+1. Name:  Asfotase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Asfotase Alfa is a first-in-class bone-targeted enzyme replacement therapy designed to address the underlying cause of hypophosphatasia (HPP)—deficient alkaline phosphatase (ALP). Hypophosphatasia is almost always fatal when severe skeletal disease is obvious at birth. By replacing deficient ALP, treatment with Asfotase Alfa aims to improve the elevated enzyme substrate levels and improve the body's ability to mineralize bone, thereby preventing serious skeletal and systemic patient morbidity and premature death. Asfotase alfa was first approved by Pharmaceuticals and Medicals Devices Agency of Japan (PMDA) on July 3, 2015, then approved by the European Medicine Agency (EMA) on August 28, 2015, and was approved by the U.S. Food and Drug Administration (FDA) on October 23, 2015. Asfotase Alfa is marketed under the brand name Strensiq® by Alexion Pharmaceuticals, Inc. The annual average price of Asfotase Alfa treatment is $285,000. 
+4. Indication:  Indicated for the treatment of patients with perinatal/infantile and juvenile onset hypophosphatasia (HPP). 
+DrugId:  6
+1. Name:  Ergocalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Ergocalciferol (Vitamin D2) is a derivative of ergosterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from cholecalciferol in having a double bond between C22 and C23 and a methyl group at C24.
+4. Indication:  For use in the management of hypocalcemia and its clinical manifestations in patients with hypoparathyroidism, as well as for the treatment of familial hypophosphatemia (vitamin D resistant rickets). This drug has also been used in the treatment of nutritional rickets or osteomalacia, vitamin D dependent rickets, rickets or osteomalacia secondary to long-term high dose anticonvulsant therapy, early renal osteodystrophy, osteoporosis (in conjunction with calcium), and hypophosphatemia associated with Fanconi syndrome (with treatment of acidosis).
+DrugId:  7
+1. Name:  Vitamin D
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Vitamin D ultimately comprises a group of lipid-soluble secosteroids responsible for a variety of biological effects, some of which include increasing the intestinal absorption of calcium, magnesium, and phosphate. With reference to human use, there are 2 main forms of vitamin D - vitamin D3 (cholecalciferol) and vitamin D2 (ergocalciferol). When non-specific references are made about 'vitamin d', the references are usually about the use of vitamin D3 and/or D2.Vitamin D3 and D2 require hydroxylation in order to become biologically active in the human body. Since vitamin D can be endogenously synthesized in adequate amounts by most mammals exposed to sufficient quantities of sunlight, vitamin D functions like a hormone on vitamin D receptors to regulate calcium in opposition to parathyroid hormone. Vitamin D plays an essential physiological role in maintaining calcium homeostasis and metabolism. There are several different vitamin D supplements that are given to treat or to prevent osteomalacia and rickets, or to meet the daily criteria of vitamin D consumption.
+4. Indication:  Vitamin D is indicated for use in the treatment of hypoparathyroidism, refractory rickets (also known as vitamin D resistant rickets), and familial hypophosphatemia [FDA Label].
+DrugId:  8
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.

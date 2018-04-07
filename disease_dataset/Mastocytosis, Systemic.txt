@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Midostaurin
+2. Groups:  Approved, Investigational
+3. Description:  Midostaurin (as Rydapt) is a multitarget kinase inhibitor for the treatment for adult patients with newly diagnosed acute myeloid leukemia (AML) who have a specific genetic mutation called FLT3. It was initially characterized as a potential broad-spectrum antineoplastic agent, with activity toward diverse solid and hematopoietic tumors [4]. It was approved on April 28, 2017 and has shown to increase the overall survival rate in patients with AML as an adjunct therapy along with chemotherapeutic agents.
+4. Indication:  Investigated for use/treatment in adult patients with high-risk acute myeloid leukemia (AML) who are FLT3 mutation-positive, agressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN), or mast cell leukemia (MCL). 
+DrugId:  2
+1. Name:  Cromoglicic acid
+2. Groups:  Approved
+3. Description:  A chromone complex that acts by inhibiting the release of chemical mediators from sensitized mast cells. It is used in the prophylactic treatment of both allergic and exercise-induced asthma, but does not affect an established asthmatic attack.
+4. Indication:  For the management of patients with bronchial asthma. Also used in the treatment of vernal keratoconjunctivitis, vernal conjunctivitis, and vernal keratitis.
+DrugId:  3
+1. Name:  Chlorzoxazone
+2. Groups:  Approved
+3. Description:  A centrally acting central muscle relaxant with sedative properties. It is claimed to inhibit muscle spasm by exerting an effect primarily at the level of the spinal cord and subcortical areas of the brain. (From Martindale, The Extra Pharmacopoea, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute painful musculoskeletal conditions.
+DrugId:  4
+1. Name:  Imatinib
+2. Groups:  Approved
+3. Description:  Imatinib is a small molecule kinase inhibitor used to treat certain types of cancer. It is currently marketed by Novartis as Gleevec (USA) or Glivec (Europe/Australia) as its mesylate salt, imatinib mesilate (INN). It is occasionally referred to as CGP57148B or STI571 (especially in older publications). It is used in treating chronic myelogenous leukemia (CML), gastrointestinal stromal tumors (GISTs) and a number of other malignancies.It is the first member of a new class of agents that act by inhibiting particular tyrosine kinase enzymes, instead of non-specifically inhibiting rapidly dividing cells.
+4. Indication:  For the treatment of Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML), Ph+ acute lymphoblastic leukaemia, myelodysplastic/myeloproliferative diseases, aggressive systemic mastocytosis, hypereosinophilic syndrome and/or chronic eosinophilic leukemia (CEL), dermatofibrosarcoma protuberans, and malignant gastrointestinal stromal tumors (GIST).
+DrugId:  5
+1. Name:  Omeprazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and Zollinger-Ellison syndrome. Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+4. Indication:  Omeprazole is indicated for the treatment of duodenal ulcers, benign gastric ulcers, gastroesophageal reflux disease (GERD), heartburn and other symptoms associated with GERD, erosive esophagitis, and long-term treatment of pathological hypersecretory conditions like Zollinger-Ellison syndrome, multiple endocrine adenomas, and systemic mastocytosis. 
+DrugId:  6
+1. Name:  Pristinamycin
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Nilotinib
+2. Groups:  Approved, Investigational
+3. Description:  Nilotinib, also known as AMN107, is a tyrosine kinase inhibitor under investigation as a possible treatment for chronic myelogenous leukemia (CML). In June 2006, a Phase I clinical trial found nilotinib has a relatively favorable safety profile and shows activity in cases of CML resistant to treatment with imatinib (Gleevec®), another tyrosine kinase inhibitor currently used as a first-line treatment. [Wikipedia]
+4. Indication:  For the potential treatment of various leukemias, including chronic myeloid leukemia (CML).
+DrugId:  8
+1. Name:  Sitafloxacin
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Rontalizumab
+2. Groups:  Investigational
+3. Description:  Rontalizumab has been used in trials studying the treatment of Systemic Lupus Erythematosus.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Ruplizumab
+2. Groups:  Investigational
+3. Description:  Ruplizumab is a humanized monoclonal antibody used as an immunosuppressive drug and is a component of Antova.
+4. Indication:  Investigated for use/treatment in thrombocytopenia, systemic lupus erythematosus, transplant (rejection), blood (blood forming organ disorders, unspecified), and multiple sclerosis.
+DrugId:  11
+1. Name:  AT1022
+2. Groups:  Investigational
+3. Description:  AT1022 is a hydromorphone skin patch designed to provide rapid and sustained delivery of a potent opiate for the management of severe pain.AT1022 incorporates PassPort(TM) system, developed to deliver protein and peptide drugs, small-molecule drugs, genes and vaccines across the skin for local and systemic effect.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  12
+1. Name:  Forigerimod
+2. Groups:  Investigational
+3. Description:  Forigerimod is under investigation for the treatment of Lupus Erythematosus, Systemic.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Iclaprim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, obesity, liver disease, kidney disease, and pneumonia.
+DrugId:  14
+1. Name:  Tabalumab
+2. Groups:  Investigational
+3. Description:  Tabalumab has been used in trials studying the treatment of Autoimmune Disease, Rheumatoid Arthritis, Kidney Failure, Chronic, Connective Tissue Disease, and Systemic Lupus Erythematosus, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  PSN357
+2. Groups:  Investigational
+3. Description:  PSN357 is a glycogen phosphorylase inhibitor (GPI), which is designed to rapidly lower blood glucose levels by preventing glycogen breakdown to glucose in the liver.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  16
+1. Name:  Atacicept
+2. Groups:  Investigational
+3. Description:  Atacicept is a recombinant fusion protein combined with the extracellular ligand binding portion of TACI.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, systemic lupus erythematosus, rheumatoid arthritis, multiple myeloma, lymphoma (non-hodgkin's), and leukemia (lymphoid).
+DrugId:  17
+1. Name:  Cortivazol
+2. Groups:  Investigational
+3. Description:  Cortivazol is under investigation in clinical trial NCT00804895 (Cluster Headache Cortivazol Injection (CHCI)).
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Blisibimod
+2. Groups:  Investigational
+3. Description:  Blisibimod has been used in trials studying the treatment of IgA Nephropathy, Microscopic Polyangiitis, Systemic Lupus Erythematosus, and Granulomatosis With Polyangiitis.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Meprednisone
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Motavizumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in viral infection and pediatric indications.
+DrugId:  21
+1. Name:  Sifalimumab
+2. Groups:  Investigational
+3. Description:  Sifalimumab is a fully human monoclonal antibody targeting interferon-alpha. The levels of interferon-alpha are elevated in many patients with active systemic lupus erythematosus (SLE, or lupus) and other autoimmune disorders, and may be associated with disease activity. Sifalimumab may suppress the abnormal immune activity associated with lupus by binding to multiple interferon-alpha subtypes seen in the serum of lupus patients.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Crotalus adamanteus antivenin
+2. Groups:  Approved, Experimental
+3. Description:  Crotalus adamanteus antivenin is derived and purified immunoglobulin fragments obtained from other domestic animals such as sheep previously immunized with Crotalus adamanteus (Eastern Diamondback rattlesnake). The final purified antivenin product is obtained by mixing other different monospecific snake antivenins and isolating the antivenin of interest through fractionation and chromatography techniques. It is intravenously administered to limit systemic toxicity.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Maribavir
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in viral infection, transplantation (organ or tissue), cytomegalovirus (CMV) retinitis, and retinal disorders (unspecified).
+DrugId:  24
+1. Name:  Nemonoxacin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection and pneumonia.
+DrugId:  25
+1. Name:  Flumequine
+2. Groups:  Withdrawn
+3. Description:  Flumequine is a synthetic chemotherapeutic antibiotic of the fluoroquinolone drug class used to treat bacterial infections.
+4. Indication:  Not Available

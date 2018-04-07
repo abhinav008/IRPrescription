@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Tobramycin
+2. Groups:  Approved, Investigational
+3. Description:  An aminoglycoside, broad-spectrum antibiotic produced by Streptomyces tenebrarius. It is effective against gram-negative bacteria, especially the pseudomonas species. It is a 10% component of the antibiotic complex, nebramycin, produced by the same species. [PubChem]
+4. Indication:  For the treatment of pseudomonas aeruginosa lung infections. Also being investigated for use in the treatment of sinus infections.
+DrugId:  2
+1. Name:  Streptomycin
+2. Groups:  Approved, Vet approved
+3. Description:  Streptomycin is an aminoglycoside antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by binding to the 30S ribosomal subunit of susceptible organisms and disrupting the initiation and elongation steps in protein synthesis. It is bactericidal due to effects that are not fully understood.
+4. Indication:  For the treatment of tuberculosis. May also be used in combination with other drugs to treat tularemia (Francisella tularensis), plague (Yersia pestis), severe M. avium complex, brucellosis, and enterococcal endocarditis (e.g. E. faecalis, E. faecium).
+DrugId:  3
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  4
+1. Name:  Benzylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Benzylpenicillin (Penicillin G) is narrow spectrum antibiotic used to treat infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered intravenously or intramuscularly due to poor oral absorption. Penicillin G may also be used in some cases as prophylaxis against susceptible organisms.Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as Streptococcus pneumoniae, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (S. agalactiae), S. viridans, and Enterococcus faecalis. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as Bacillus anthracis, Corynebacterium diphtheriae, and Erysipelothrix rhusiopathiae. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by Neisseria meningitidis and Pasteurella. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+4. Indication:  For use in the treatment of severe infections caused by penicillin G-susceptible microorganisms when rapid and high penicillin levels are required such as in the treatment of septicemia, meningitis, pericarditis, endocarditis and severe pneumonia.
+DrugId:  5
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  6
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  7
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  8
+1. Name:  Evernimicin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection.
+DrugId:  9
+1. Name:  Omiganan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection and rosacea.
+DrugId:  10
+1. Name:  Ethanol
+2. Groups:  Approved
+3. Description:  A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in alcoholic beverages.
+4. Indication:  For therapeutic neurolysis of nerves or ganglia for the relief of intractable chronic pain in such conditions as inoperable cancer and trigeminal neuralgia (tic douloureux), in patients for whom neurosurgical procedures are contraindicated.
+DrugId:  11
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  12
+1. Name:  Neomycin
+2. Groups:  Approved, Vet approved
+3. Description:  A component of neomycin that is produced by Streptomyces fradiae. On hydrolysis it yields neamine and neobiosamine B. (From Merck Index, 11th ed). Neomycin is a bactericidal aminoglycoside antibiotic that binds to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and acceptor tRNA sites and results in the production of non-functional or toxic peptides.
+4. Indication:  Topical uses include treatment for superficial eye infections caused by susceptible bacteria (used in combination with other antiinfectives), treatment of otitis externa caused by susceptible bacteria, treatment or prevention of bacterial infections in skin lesions, and use as a continuous short-term irrigant or rinse to prevent bacteriuria and gram negative rod bacteremia in abacteriuric patients with indwelling catheters. May be used orally to treat hepatic encephalopathy, as a perioperative prophylactic agent, and as an adjunct to fluid and electrolyte replacement in the treatment of diarrhea caused to enteropathogenic E. coli (EPEC). 
+DrugId:  13
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  14
+1. Name:  Streptomyces griseus
+2. Groups:  Approved
+3. Description:  Streptomyces griseus allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Cefacetrile
+2. Groups:  Approved
+3. Description:  A derivative of 7-aminocephalosporanic acid.
+4. Indication:  Cefacetrile is a broad-spectrum first generation cephalosporin antibiotic effective in Gram-positive and Gram-negative bacterial infections.
+DrugId:  16
+1. Name:  Technetium Tc-99m ciprofloxacin
+2. Groups:  Investigational
+3. Description:  99mTc-Ciprofloxacin is a new formulation of ciprofloxacin (INFECTON), being investigated as a radioimaging agent for the potential diagnosis of infection, including fever of unknown origin, osteomyelitis, wound infection, abdominal abscess, pneumonia, appendicitis and tuberculosis. INFECTON combines the widely used antibiotic, ciprofloxacin, with Technetium ((99m)Tc), the most commonly used radioisotope in nuclear medical imaging There is currently controversy around the drug's ability to discriminate between sterile inflammation and bacterial versus nonbacterial infections.
+4. Indication:  Investigated for use/treatment in infectious and parasitic disease (unspecified).
+DrugId:  17
+1. Name:  Pristinamycin
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Bordetella pertussis pertactin antigen
+2. Groups:  Approved
+3. Description:  Bordetella pertussis pertactin antigen is a vaccine for the prophylaxis of whooping cough that contains pertactin, a membrane-associated antigen of Bordetella pertussis [1].
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Cefazolin
+2. Groups:  Approved
+3. Description:  A semisynthetic cephalosporin analog with broad-spectrum antibiotic action due to inhibition of bacterial cell wall synthesis. It attains high serum levels and is excreted quickly via the urine.
+4. Indication:  Mainly used to treat bacterial infections of the skin. It can also be used to treat moderately severe bacterial infections involving the lung, bone, joint, stomach, blood, heart valve, and urinary tract. It is clinically effective against infections caused by staphylococci and streptococci species of Gram positive bacteria. May be used for surgical prophylaxis; if required metronidazole may be added to cover B. fragilis.
+DrugId:  20
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Flucytosine
+2. Groups:  Approved, Investigational
+3. Description:  A fluorinated cytosine analog that is used as an antifungal agent. [PubChem]
+4. Indication:  For the treatment (in combination with amphotericin B) of serious infections caused by susceptible strains of Candida (septicemia, endocarditis and urinary system infections) and/or Cryptococcus (meningitis and pulmonary infections).
+DrugId:  22
+1. Name:  Pentane-1,5-Diamine
+2. Groups:  Experimental
+3. Description:  A foul-smelling diamine formed by bacterial decarboxylation of lysine. [PubChem]
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  24
+1. Name:  Lanopepden
+2. Groups:  Investigational
+3. Description:  Lanopepden has been used in trials studying the treatment of Pneumonia, Infections, Bacterial, Skin Diseases, Infectious, and Skin Infections, Bacterial.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Triclosan
+2. Groups:  Approved, Investigational
+3. Description:  An aromatic ether that is phenol which is substituted at C-5 by a chloro group and at C-2 by a 2,4-dichlorophenoxy group. It is widely used as a preservative and antimicrobial agent in personal care products such as soaps, skin creams, toothpaste and deodorants as well as in household items such as plastic chopping boards, sports equipment and shoes. [ChEBI]
+4. Indication:  Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers. It is also used in health care settings in surgical scrubs and personnel hand washes.

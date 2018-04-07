@@ -1,0 +1,10 @@
+DrugId:  1
+1. Name:  Clomocycline
+2. Groups:  Approved
+3. Description:  Clomocycline is a tetracycline antibiotic.
+4. Indication:  For the treatment and management of Brucellosis, mycoplasma infection, acne vulgaris, chlamydial infection;Chronic bronchitis
+DrugId:  2
+1. Name:  Streptomycin
+2. Groups:  Approved, Vet approved
+3. Description:  Streptomycin is an aminoglycoside antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by binding to the 30S ribosomal subunit of susceptible organisms and disrupting the initiation and elongation steps in protein synthesis. It is bactericidal due to effects that are not fully understood.
+4. Indication:  For the treatment of tuberculosis. May also be used in combination with other drugs to treat tularemia (Francisella tularensis), plague (Yersia pestis), severe M. avium complex, brucellosis, and enterococcal endocarditis (e.g. E. faecalis, E. faecium).

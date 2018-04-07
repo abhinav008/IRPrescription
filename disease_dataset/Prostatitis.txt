@@ -1,0 +1,45 @@
+DrugId:  1
+1. Name:  Sulfamerazine
+2. Groups:  Approved, Vet approved
+3. Description:  A sulfanilamide that is used as an antibacterial agent. [PubChem]
+4. Indication:  A sulfanilamide that is used as an antibacterial agent. It can be used to treat bronchitis, prostatitis and urinary tract infections.
+DrugId:  2
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  3
+1. Name:  Carbenicillin indanyl
+2. Groups:  Approved, Investigational
+3. Description:  Carindacillin (INN), also known as Carbenicillin indanyl (USAN) is a penicillin antibiotic. It is a prodrug of carbenicillin. It is administered orally, as the sodium salt. It is no longer marketed in the United states, but used to be marketed by Pfizer under the brand name Geocillin.
+4. Indication:  For the treatment of acute and chronic infections of the upper and lower urinary tract and in asymptomatic bacteriuria (due to susceptible strains Escherichia coli, Proteus mirabilis, Morganella morganii, Providencia rettgeri, Proteus vulgaris, Pseudomonas, Enterobacter, and Enterococci.). Also indicated in the treatment of prostatitis (due to susceptible strains Escherichia coli Enterococcus (S. faecalis), Proteus mirabilis Enterobacter sp.).
+DrugId:  4
+1. Name:  Flavoxate
+2. Groups:  Approved
+3. Description:  A drug that has been used in various urinary syndromes and as an antispasmodic. Its therapeutic usefulness and its mechanism of action are not clear. It may have local anesthetic activity and direct relaxing effects on smooth muscle as well as some activity as a muscarinic antagonist. [PubChem]
+4. Indication:  For symptomatic relief of dysuria, urgency, nocturia, suprapubic pain, frequency and incontinence as may occur in cystitis, prostatitis, urethritis, urethrocystitis/urethrotrigonitis.
+DrugId:  5
+1. Name:  Temafloxacin
+2. Groups:  Withdrawn
+3. Description:  Temafloxacin is a fluoroquinolone antibiotic drug which was withdrawn from sale in the U.S. shortly after its approval in 1992 because of serious adverse reactions resulting in three deaths. [Wikipedia]
+4. Indication:  For the treatment of lower respiratory tract infections, genital and urinary infections like prostatitis, and skin infections.
+DrugId:  6
+1. Name:  Ciprofloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Ciprofloxacin is a broad-spectrum antimicrobial carboxyfluoroquinoline.The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV, which are required for bacterial DNA replication, transcription, repair, strand supercoiling repair, and recombination.
+4. Indication:  For the treatment of the following infections caused by susceptible organisms: urinary tract infections, acute uncomplicated cystitis, chronic bacterial prostatitis, lower respiratory tract infections, acute sinusitis, skin and skin structure infections, bone and joint infections, complicated intra-abdominal infections (used in combination with metronidazole), infectious diarrhea, typhoid fever (enteric fever), uncomplicated cervical and urethral gonorrhea, and inhalational anthrax (post-exposure).
+DrugId:  7
+1. Name:  Cephalexin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A semisynthetic cephalosporin antibiotic with antimicrobial activity similar to that of cephaloridine or cephalothin, but somewhat less potent. It is effective against both gram-positive and gram-negative organisms.
+4. Indication:  For the treatment of respiratory tract infections caused by Streptococcus pneumoniae and Streptococcus pyogenes; otitis media due to Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, and Moraxella catarrhalis; skin and skin structure infections caused by Staphylococcus aureus and/or Streptococcus pyogenes; bone infections caused by Staphylococcus aureus and/or Proteus mirabilis; genitourinary tract infections, including acute prostatitis, caused by Escherichia coli, Proteus mirabilis, and Klebsiella pneumoniae.
+DrugId:  8
+1. Name:  Trimethoprim
+2. Groups:  Approved, Vet approved
+3. Description:  A pyrimidine inhibitor of dihydrofolate reductase, it is an antibacterial related to pyrimethamine. The interference with folic acid metabolism may cause a depression of hematopoiesis. It is potentiated by sulfonamides and the trimethoprim-sulfamethoxazole combination is the form most often used. It is sometimes used alone as an antimalarial. Trimethoprim resistance has been reported. [PubChem]
+4. Indication:  For the treatment of urinary tract infections, uncomplicated pyelonephritis (with sulfamethoxazole) and mild acute prostatitis. May be used as pericoital (with sulfamethoxazole) or continuous prophylaxis in females with recurrent cystitis. May be used as an alternative to treat asymptomatic bacteriuria during pregnancy (only before the last 6 weeks of pregnancy). Other uses include: alternative agent in respiratory tract infections (otitis, sinusitus, bronchitis and pneumonia), treatment of Pneumocystis jirovecii pneumonia (acute or prophylaxis), Nocardia infections, and traveller's diarrhea.
+DrugId:  9
+1. Name:  Sulfamethoxazole
+2. Groups:  Approved
+3. Description:  A bacteriostatic antibacterial agent that interferes with folic acid synthesis in susceptible bacteria. Its broad spectrum of activity has been limited by the development of resistance. (From Martindale, The Extra Pharmacopoeia, 30th ed, p208)
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.

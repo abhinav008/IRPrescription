@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Seletracetam
+2. Groups:  Investigational
+3. Description:  Seletracetam is a pyrrolidone derivative and with a structural similarity to newer generation antiepileptic drug levetiracetam. It binds to the same target as levetiracetam but with higher affinity and has shown potent seizure suppression in models of acquired and genetic epilepsy with high CNS tolerability. It is predicted to have low drug-drug interactions and inhibition or induction of any major human metabolizing enzymes. Seletracetam was in Phase II clinical trials under the supervision of the U.S. Food and Drug Administration (FDA) investigated as treatment of epilepsy and partial epilepsy however its development had been put on hold in July 2007. As of 2010, its production was further halted due to the investigation of a newer antiepileptic agent, brivaracetam.
+4. Indication:  Investigated for use/treatment in epilepsy.
+DrugId:  2
+1. Name:  Levetiracetam
+2. Groups:  Approved, Investigational
+3. Description:  Levetiracetam is an anticonvulsant medication used to treat epilepsy. Levetiracetam may selectively prevent hypersynchronization of epileptiform burst firing and propagation of seizure activity. Levetiracetam binds to the synaptic vesicle protein SV2A, which is thought to be involved in the regulation of vesicle exocytosis. Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice.
+4. Indication:  Used as adjunctive therapy in the treatment of partial onset seizures in adults and children 4 years of age and older with epilepsy.
+DrugId:  3
+1. Name:  Felbamate
+2. Groups:  Approved
+3. Description:  Felbamate is an anticonvulsant drug used in the treatment of epilepsy. It is used to treat partial seizures (with and without generalization) in adults and partial and generalized seizures associated with Lennox-Gastaut syndrome in children. It has a weak inhibitory effect on GABA receptor binding sites.
+4. Indication:  For use only in those patients who respond inadequately to alternative treatments and whose epilepsy is so severe that a substantial risk of aplastic anemia and/or liver failure is deemed acceptable in light of the benefits conferred by its use.
+DrugId:  4
+1. Name:  Lamotrigine
+2. Groups:  Approved, Investigational
+3. Description:  Lamotrigine is an antiepileptic drug belonging in the phenyltriazine class used in the treatment of epilepsy and bipolar disorder. For epilepsy it is used to treat partial seizures, primary and secondary tonic-clonic seizures, and seizures associated with Lennox-Gastaut syndrome. Lamotrigine also acts as a mood stabilizer. It is the first medication since lithium granted Food and Drug Administration (FDA) approval for the maintenance treatment of bipolar type I. In the US, lamotrigine is available as oral tablets under the market name Lamictal. Chemically unrelated to other anticonvulsants, lamotrigine has relatively few side-effects and does not require blood monitoring. While lamotrigine is primarily indicated for epilepsy and bipolar disorders, there is evidence that it could have some clinical efficacy in some neuropathic pain states. Lamotrigine is also used as an off-label drug in treating other neurologic and psychiatric pathologies like borderline personality disorder [6]. The exact mechanism of action of lamotrigine is not fully elucidated, as it may have multiple cellular actions that contribute to its broad clinical efficacy.
+4. Indication:  Indicated as adjunctive therapy for the following seizure types in patients ≥2 years of age: partial seizures/primary generalized tonic-clonic seizures/generalized seizures of Lennox-Gastaut syndrome [FDA Label].Indicated for conversion to monotherapy in adults (≥16 years of age) with partial seizures who are receiving treatment with carbamazepine, phenytoin, phenobarbital, primidone, or valproate as the single antiepileptic drug (AED)[FDA Label]. Indicated for the maintenance treatment of Bipolar I Disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in adults (≥18 years of age) treated for acute mood episodes with standard therapy [FDA Label].
+DrugId:  5
+1. Name:  Stiripentol
+2. Groups:  Approved
+3. Description:  Stiripentol is an anticonvulsant drug used in the treatment of epilepsy as an adjunct therapy along with Clobazam and Valproic Acid. Unrelated to other anticonvulsants, stitipentol belongs to the group of aromatic allylic alcohols and may potentiate the effect of other antiepileptic drugs (AEDs) due to pharmacokinetic interactions. It elevates the levels of gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter that regulates electrical activity in the central nervous system. Use of stiripentol is approved for infants with Dravet syndrome, or Severe Myoclonic Epilepsy in Infancy (SMEI) that commonly occurs at the first year of life. Stiripentol is not FDA-approved but approved in Canada and European countries as oral tablets marketed as Diacomit.
+4. Indication:  Indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet’s syndrome) whose seizures are not adequately controlled with clobazam and valproate.
+DrugId:  6
+1. Name:  ICA-105665
+2. Groups:  Investigational
+3. Description:  ICA-105665 is a novel small molecule compound for the treatment of epilepsy. It is a novel opener of the KCNQ ion channel which in preclinical studies has demonstrated a broad spectrum of activity in models of epilepsy. In addition, ICA-105665 has also demonstrated activity in certain models of neuropathic pain.
+4. Indication:  Investigated for use/treatment in epilepsy.
+DrugId:  7
+1. Name:  Vigabatrin
+2. Groups:  Approved
+3. Description:  An analogue of gamma-aminobutyric acid, vigabatrin is an irreversible inhibitor of 4-aminobutyrate transaminase, the enzyme responsible for the catabolism of gamma-aminobutyric acid. (From Martindale The Extra Pharmacopoeia, 31st ed). Off-label uses include treatment of cocaine dependence. 
+4. Indication:  For use as an adjunct in treatment resistant epilepsy, refractory complex partial seizures, and secondary generalized seizures. It is also used as monotherapy in infantile spasms in West syndrome.
+DrugId:  8
+1. Name:  Topiramate
+2. Groups:  Approved
+3. Description:  Topiramate (brand name Topamax) is an anticonvulsant drug produced by Ortho-McNeil Neurologics, a division of Johnson & Johnson. It is used to treat epilepsy in both children and adults. In children it is also indicated for treatment of Lennox-Gastaut syndrome (a disorder that causes seizures and developmental delays). It is also Food and Drug Administration (FDA) approved for, and now most frequently prescribed for, the prevention of migraines. [Wikipedia]. A combination product containing phentermine and topiramate extended-release called QSYMIA® is indicated for the management of obesity. On August 2013, an extended released formulation, marketed as Trokendi XR has been approved for the management of partial onset, tonic-clonic, and Lennox-Gastaut Syndrome seizures. 
+4. Indication:  Used for the treatment and control of partial seizures and severe tonic-clonic (grand mal) seizures and also for the prevention of migraine headaches. In children it is also used for treatment of Lennox-Gastaut syndrome. Qsymia® is indicated for the treatment and management of obesity.
+DrugId:  9
+1. Name:  Pregabalin
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Pregabalin is an anticonvulsant drug used for neuropathic pain, epilepsy and generalized anxiety disorder.[4] It presents antihyperalgesic actions by binding to the α2δ subunit of the voltage-dependent calcium channels without presenting antinociceptive actions.[5] Pregabalin is marketed by Pfizer under the trade name Lyrica and Lyrica Cr (extended release).[13] It is considered to have a dependence liability if misused, and is classified as a Schedule V drug in the U.S.[4]
+4. Indication:  Pregabalin is used for the management of neuropathic pain associated with diabetic peripheral neuropathy or spinal cord injury, and postherpetic neuralgia. It is not approved for the management of fibromyalgia or as adjuntive therapy for adult partial onset seizures.[FDA Label] 
+DrugId:  10
+1. Name:  Phenytoin
+2. Groups:  Approved, Vet approved
+3. Description:  An anticonvulsant that is used in a wide variety of seizures. It is also an anti-arrhythmic and a muscle relaxant. The mechanism of therapeutic action is not clear, although several cellular actions have been described including effects on ion channels, active transport, and general membrane stabilization. The mechanism of its muscle relaxant effect appears to involve a reduction in the sensitivity of muscle spindles to stretch. Phenytoin has been proposed for several other therapeutic uses, but its use has been limited by its many adverse effects and interactions with other drugs. [PubChem]
+4. Indication:  For the control of generalized tonic-clonic (grand mal) and complex partial (psychomotor, temporal lobe) seizures and prevention and treatment of seizures occurring during or following neurosurgery.
+DrugId:  11
+1. Name:  Clonazepam
+2. Groups:  Approved, Illicit
+3. Description:  An anticonvulsant used for several types of seizures, including myotonic or atonic seizures, photosensitive epilepsy, and absence seizures, although tolerance may develop. It is seldom effective in generalized tonic-clonic or partial seizures. The mechanism of action appears to involve the enhancement of gamma-aminobutyric acid receptor responses. [PubChem]
+4. Indication:  Clonazepam is used as an anticonvulsant in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic and myoclonic seizures. It can also be used for the treatment of panic disorders. 
+DrugId:  12
+1. Name:  LIC-477
+2. Groups:  Investigational
+3. Description:  LIC-477is indicated to be suitable for the treatment of psychosomatic disturbances, epilepsy, trigeminal neuralgia and cerebral spasticity. 
+4. Indication:  Investigated for use/treatment in bipolar disorders.
+DrugId:  13
+1. Name:  DP-VPA
+2. Groups:  Investigational
+3. Description:  DP-VPA is D-Pharm's proprietary lipid modified version of valproic acid (VPA) that demonstrate that DP-VPA is well-tolerated in patients with resistant epilepsy and has a marked effect on reducing seizure frequency.
+4. Indication:  Investigated for use/treatment in bipolar disorders, epilepsy, and migraine and cluster headaches.
+DrugId:  14
+1. Name:  N,N-dimethylglycine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  MN-305
+2. Groups:  Investigational
+3. Description:  MN-305 is a novel, potent and highly selective serotonin 5-HT1A receptor agonist under development by MediciNova for the treatment of anxiety disorders beginning with Generalized Anxiety Disorder (GAD).
+4. Indication:  Investigated for use/treatment in anxiety disorders, depression, insomnia, and neurologic disorders.
+DrugId:  16
+1. Name:  Remacemide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in epilepsy, huntington's disease, and parkinson's disease.
+DrugId:  17
+1. Name:  Progabide
+2. Groups:  Approved, Investigational
+3. Description:  Progabide is an analog and prodrug of gamma-aminobutyric acid. It is commonly used in the treatment of epilepsy. It has agonistic activity for both the GABAA and GABAB receptors. Progabide has been investigated for many diseases besides epilepsy, including Parkinson's disease, schizophrenia, clinical depression and anxiety disorder with varying success.
+4. Indication:  Indicated for the treatment of epilepsy.
+DrugId:  18
+1. Name:  MK-0777
+2. Groups:  Investigational
+3. Description:  MK-0777 has been used in trials studying the treatment of Schizophrenia, Anxiety Disorder, and Generalized Anxiety Disorder.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Phenacemide
+2. Groups:  Approved
+3. Description:  Phenacemide is used to control certain seizures in the treatment of epilepsy. This medicine acts on the central nervous system (CNS) to reduce the number and severity of seizures.
+4. Indication:  Used to control certain seizures in the treatment of epilepsy.
+DrugId:  20
+1. Name:  Metreleptin
+2. Groups:  Approved
+3. Description:  Metreleptin, a recombinant analog of the human hormone leptin, is an orphan drug used to treat complications of leptin deficiency in people with congenital or acquired lipodystrophy. Affecting less than 500 people worldwide, lipodystrophy is characterized by a lack of adipose tissue, fat deposition in the muscles and liver, and metabolic complications such as hypertriglyceridemia, insulin resistance, diabetes mellitus, and fatty liver disease. These metabolic abnormalities are often aggravated by excessive food intake, which is further aggravated by leptin deficiency, a protein secreted by adipose tissue. Administration of Metreleptin results in improvement of metabolic symptoms including improvements in insulin resistance, reduced HbA1c and fasting glucose, reduced triglycerides, and reductions in food intake. Metreleptin is produced in E. coli and differs from native human leptin by the addition of a methionine residue at its amino terminus. It is administered as a once daily subcutaneous injection. On Feb. 24, 2014, Metreleptin was approved by the FDA for the treatment of complications of leptin deficiency, in addition to diet, in patients with congenital generalized or acquired generalized lipodystrophy. Metreleptin is marketed under the brand Myalept® by Aegerion Pharmaceuticals, Inc.
+4. Indication:  Metreleptin is indicated as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy.
+DrugId:  21
+1. Name:  Bergapten
+2. Groups:  Investigational
+3. Description:  Bergapten is under investigation in clinical trial NCT00533195 (Comparison of UVA1 Phototherapy Versus Photochemotherapy for Patients With Severe Generalized Atopic Dermatitis).
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Ganaxolone
+2. Groups:  Investigational
+3. Description:  Ganaxolone is the 3β-methylated synthetic analog of allopregnanolone; it belongs to a class of compounds referred to as neurosteroids. Ganaxolone is an allosteric modulator of GABAA receptors acting through binding sites which are distinct from the benzodiazepine binding site. It has activity in a broad range of animal models of epilepsy. Ganaxolone has been shown to be well tolerated in adults and children. In early phase II studies, Ganaxolone has been shown to have activity in adult patients with partial-onset seizures and epileptic children with history of infantile spasms. It is currently undergoing further development in infants with newly diagnosed infantile spasms, in women with catamenial epilepsy, and in adults with refractory partial-onset seizures.
+4. Indication:  Investigated for use/treatment in pediatric indications and seizure disorders.
+DrugId:  23
+1. Name:  Imagabalin
+2. Groups:  Investigational
+3. Description:  Imagabalin has been investigated in Generalized Anxiety Disorder.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Mephenytoin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mephenytoin is used for the treatment of refractory partial epilepsy. Mephenytoin is a solid. This compound belongs to the phenylhydantoins. These are heterocyclic aromatic compounds containing an imiazolidinedione moiety substituted by a phenyl group. Mephenytoin is known to target sodium channel protein type 5 subunit alpha. Cytochrome P450 2C19, Cytochrome P450 2C8, Cytochrome P450 2C9, Cytochrome P450 2B6, Cytochrome P450 1A2, and Cytochrome P450 2D6 are known to metabolize mephenytoin. Mephenytoin is a hydantoin-derivative anticonvulsant used to control various partial seizures. Mephenytoin and oxazolidinedione derivatives are associated with higher incidences of blood dyscrasias compared to other anticonvulsants. It is still studied largely because of its interesting hydroxylation polymorphism.
+4. Indication:  For the treatment of refractory partial epilepsy.
+DrugId:  25
+1. Name:  Muscimol
+2. Groups:  Investigational
+3. Description:  Muscimol has been used in trials studying the treatment of Epilepsy and Parkinson's Disease.
+4. Indication:  Not Available

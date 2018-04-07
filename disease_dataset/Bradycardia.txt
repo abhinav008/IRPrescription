@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Penbutolol
+2. Groups:  Approved, Investigational
+3. Description:  Penbutolol is a drug in the beta-blocker class used to treat hypertension. Penbutolol binds both beta-1 and beta-2 adrenergic receptors, rendering it a non-selective beta-blocker. Penbutolol can act as a partial agonist at beta adrenergic receptors, since it is a sympathomimetric drug. Penbutolol also demonstrates high binding affinity to the 5-hydroxytryptamine receptor 1A with antagonistic effects. This binding characteristic of penbutolol is being investigated for its implications in Antidepressant Therapy. Penbutolol is contraindicated in patients with cardiogenic shock, sinus bradycardia, second and third degree atrioventricular conduction block, bronchial asthma, and those with known hypersensitivity.
+4. Indication:  Penbutolol is indicated in the treatment of mild to moderate arterial hypertension. It may be used alone or in combination with other antihypertensive agents, especially thiazide-type diuretics.Penbutolol is contraindicated in patients with cardiogenic shock, sinus bradycardia, second and third degree atrioventricular conduction block, bronchial asthma, and those with known hypersensitivity.
+DrugId:  2
+1. Name:  Levobunolol
+2. Groups:  Approved
+3. Description:  A nonselective beta-adrenoceptor antagonist used in the treatment of glaucoma. [PubChem]
+4. Indication:  For lowering intraocular pressure (IOP) and may be used in patients with chronic open-angle glaucoma or ocular hypertension.
+DrugId:  3
+1. Name:  Carteolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist used as an anti-arrhythmia agent, an anti-angina agent, an antihypertensive agent, and an antiglaucoma agent. [PubChem]
+4. Indication:  For the treatment of intraocular hypertension and chronic open-angle glaucoma
+DrugId:  4
+1. Name:  Guanfacine
+2. Groups:  Approved, Investigational
+3. Description:  A centrally acting antihypertensive agent. The drug lowers both systolic and diastolic blood pressure by activating the central nervous system alpha-2 adrenoreceptors, which results in reduced sympathetic outflow leading to reduced vascular tone. Its adverse reactions include dry mouth, sedation, and constipation. [PubChem]
+4. Indication:  For use alone or in combination with other classes of antihypertensive agents in the management of hypertension. Has also been used for the treatment of attention deficit hyperactivity disorder (ADHD) in pediatric patients.
+DrugId:  5
+1. Name:  Nebivolol
+2. Groups:  Approved, Investigational
+3. Description:  Nebivolol is a highly cardioselective vasodilatory beta1 receptor blocker used in treatment of hypertension. In most countries, this medication is available only by prescription. [Wikipedia]
+4. Indication:  For the treatment of essential hypertension.
+DrugId:  6
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  7
+1. Name:  Betaxolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-1-adrenergic antagonist with no partial agonist activity.
+4. Indication:  For the management of hypertension.
+DrugId:  8
+1. Name:  Acebutolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-adrenergic antagonist with little effect on the bronchial receptors. The drug has stabilizing and quinidine-like effects on cardiac rhythm as well as weak inherent sympathomimetic action.
+4. Indication:  For the management of hypertension and ventricular premature beats in adults.
+DrugId:  9
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  10
+1. Name:  Calcium glubionate
+2. Groups:  Approved
+3. Description:  Calcium glubionate (or glubionate calcium) is a mineral supplement to prevent or treat low blood calcium levels in people who do not get enough calcium from their diets.
+4. Indication:  Calcium glubionate is indicated to treat conditions caused by low calcium levels such as bone loss (osteoporosis), weak bones (osteomalacia/rickets), decreased activity of the parathyroid gland (hypoparathyroidism), and a certain muscle disease (latent tetany). It may also be used in certain patients to make sure they are getting enough calcium (e.g., women who are pregnant, nursing, or postmenopausal, people taking certain medications such as phenytoin, phenobarbital, or prednisone).
+DrugId:  11
+1. Name:  Sotalol
+2. Groups:  Approved
+3. Description:  An adrenergic beta-antagonist that is used in the treatment of life-threatening arrhythmias. [PubChem]
+4. Indication:  For the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm. Also for the treatment of documented life-threatening ventricular arrhythmias.
+DrugId:  12
+1. Name:  Pindolol
+2. Groups:  Approved, Investigational
+3. Description:  A moderately lipophilic beta blocker (adrenergic beta-antagonists). It is non-cardioselective and has intrinsic sympathomimetic actions, but little membrane-stabilizing activity. (From Martindale, The Extra Pharmocopoeia, 30th ed, p638)
+4. Indication:  For the management of hypertension, edema, ventricular tachycardias, and atrial fibrillation.
+DrugId:  13
+1. Name:  Calfactant
+2. Groups:  Approved
+3. Description:  Calfactant is a sterile, non-pyrogenic lung surfactant intended for intratracheal instillation. It is an off-white suspension of an extract of natural surfactant from calf lungs suspended in 0.9% saline. Each milliliter of calfactant contains 35mg of phospholipids (including 26 mg phosphatidylcholine of which 16 mg is disaturated phosphatidylcholine) and 0.65mg of proteins including surfactant-associated proteins B and C.Calfactant is approved for use in the United States of America. It is used to prevent or treat respiratory distress syndrome in premature infants with lung surfactant deficiency. Calfactant has been shown to decrease the incidence of respiratory distress syndrome, mortality due to respiratory distress syndrome, and air leaks associated with respiratory distress syndrome in clinical trials. It adsorbs to the air:fluid interface in the lungs and works to reduce surface tension, in a manner similar to endogenous pulmonary surfactant.
+4. Indication:  Calfactant is indicated for prophylaxis therapy to prevent respiratory distress syndrome (RDS) in premature infants <29 weeks of gestational age with low lung surfactant and at high risk for RDS. Calfactant therapy is also indicated for the treatment of respiratory distress syndrome in infants 72 hours or less of age with RDS confirmed by clinical and radiologic findings and requiring endotracheal intubation.
+DrugId:  14
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  15
+1. Name:  Apraclonidine
+2. Groups:  Approved
+3. Description:  Apraclonidine, also known as iopidine, is a sympathomimetic used in glaucoma therapy. It is an alpha2-adrenergic agonist.
+4. Indication:  For prevention or reduction of intraoperative and postoperative increases in intraocular pressure (IOP) before and after ocular laser surgery when used prophylactically. Also used as a short-term adjunctive therapy in patients with open-angle glaucoma who are on maximally tolerated medical therapy requiring additional IOP reduction.
+DrugId:  16
+1. Name:  Protamine sulfate
+2. Groups:  Approved
+3. Description:  Protamine sulfate is a drug that reverses the anticoagulant effects of heparin by binding to it. It was originally isolated from the sperm of salmon and other species of fish but is now produced primarily through recombinant biotechnology.Protamine sulfate was approved for medical use in the United States in 1969. Protamine sulfate (protamine (protamines) s) occurs as fine white or off-white amorphous or crystalline powder. It is sparingly soluble in water. The pH is between 6 and 7. The cationic hydrogenated protamine at a pH of 6.8 to 7.1 reacts with anionic heparin at a pH of 5.0 to 7.5 to form an inactive complex.
+4. Indication:  Protamine sulfate is usually administered to reverse the large dose of heparin administered during certain surgeries, especially heart surgery. 
+DrugId:  17
+1. Name:  Beractant
+2. Groups:  Approved
+3. Description:  Beractant is a pulmonary surfactant used for the treatment of Respiratory Distress Syndrome (RDS) in premature infants. Considered a natural source of surfactant as it is made from bovine lung extract, beractant contains a mixture of phospholipids, neutral lipids, fatty acids, and surfactant-associated proteins such as SP-B and SP-C. The final composition provides 25 mg/mL phospholipids (including 11.0-15.5 mg/mL disaturated phosphatidylcholine), 0.5-1.75 mg/mL triglycerides, 1.4-3.5 mg/mL free fatty acids, and less than 1.0 mg/mL protein. It is suspended in 0.9% sodium chloride solution, and heat-sterilized. In anticipation of birth, endogenous lung surfactant is produced to lower the surface tension on alveolar surfaces and to stabilize the alveoli against collapse at resting transpulmonary pressures. However, in Respiratory Distress Syndrome, developmental deficiency of surfactant results collapse of the alveoli causing fast breathing, increased heart rate, apoxia, and sometimes death. Administration of lung surfactant remains the cornerstone of therapy in this condition that is currently the leading cause of death in preterm infants. In comparison to synthetic forms of surfacant, natural forms such as Beractant have been found to have a reduced incidence of pneumothorax and reduced mortality.
+4. Indication:  Beractant is indicated for prevention and treatment of Respiratory Distress Syndrome (RDS) in premature infants.
+DrugId:  18
+1. Name:  Poractant alfa
+2. Groups:  Approved
+3. Description:  Poractant alfa is a pulmonary surfactant marketed as Curosurf in the United States and Canada. It is used to treat Respiratory Distress Syndrome (RDS) in premature infants with an endogenous pulmonary surfactant deficiency. Poractant alfa is an extract of natural porcine lung surfactant consisting of 99% polar lipids (mainly phospholipids) and 1% hydrophobic low molecular weight proteins (surfactant associated proteins SP-B and SP-C). The phospholipid content of the extract consists primarily of phosphatidylcholine and dipaImitoylphosphatidylcholine. Poractant alfa is a creamy white suspension of this extract in 0.9% sodium chloride solution. It contains no preservatives.
+4. Indication:  Poractant alfa is indicated for the treatment of Respiratory Distress Syndrome (RDS) in premature infants.
+DrugId:  19
+1. Name:  Ergoloid mesylate
+2. Groups:  Approved
+3. Description:  Ergoloid mesylate is a dihydrogenated ergot (Claviceps purpurea) derivative alkaloid used as a vasodilator agent. Ergoloid Mesylate is the only vasodilator that has shown mild benefits in the treatment of vascular dementia. Ergoloid Mesylate is a mixture of three different ergotamantriones: dihydroergocornine, dihydroergocristine, and dihydroergocryptine. It has been proposed to be a neuroprotective agent. The mechanism of its therapeutic actions is not clear.
+4. Indication:  For use as an adjunct therapy for patients with dementia.
+DrugId:  20
+1. Name:  Erythrityl Tetranitrate
+2. Groups:  Approved, Investigational
+3. Description:  A vasodilator with general properties similar to nitroglycerin. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1020)
+4. Indication:  For the prevention of angina.
+DrugId:  21
+1. Name:  Lucinactant
+2. Groups:  Approved, Investigational
+3. Description:  Lucinactant is a new synthetic peptide-containing surfactant for intratracheal use. It contains sinapultide, a novel, hydrophobic, 21-amino acid peptide (leucine and lysine repeating units, KL4 peptide) designed to mimic human surfactant protein-B (SB-P). More specifically, it mimics the C-terminal amphipathic helical domain of this protein. It also consists of phospholipids (dipalmitoylphosphatidylcholine, DPPC and palmitoyloleoyl phosphatidylglycerol, POPG) and a fatty acid (palmitic acid). It is completely devoid of animal-derived components. FDA approved on March 6, 2012.
+4. Indication:  Intended for the prevention of respiratory distress syndrome (RDS) in premature infants at high risk for RDS. 
+DrugId:  22
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  23
+1. Name:  Dexmedetomidine
+2. Groups:  Approved, Vet approved
+3. Description:  An agonist of receptors, adrenergic alpha-2 that is used in veterinary medicine for its analgesic and sedative properties. It is the racemate of dexmedetomidine. [PubChem]
+4. Indication:  For sedation of initially intubated and mechanically ventilated patients during treatment in an intensive care setting, also used in pain relief; anxiety reduction and analgesia
+DrugId:  24
+1. Name:  Metrizoic acid
+2. Groups:  Approved
+3. Description:  Metrizoic acid is a molecule used as a contrast medium. Owing to its high osmolality, metrizoic acid has a risk of inducing allergic reactions compared to lower osmolar contrast media. Its approval has been discontinued by the FDA. One study in 1976 demonstrated that metrizoic acid, when used for cardiac angiography, was well tolerated. A total of 10, 000 injections were administered to 2,028 patients undergoing angiocardiographic procedures over a three-year period. With two exceptions, all complications occurred during injection of the right coronary artery. Seven cases of ventricular fibrillation, and 5 of significant bradycardia/asystole, were associated with metrizoic acid injection. In general, the drug was well tolerated by patients during cardiac examinations [A32901].
+4. Indication:  For use as a contrast medium [2].
+DrugId:  25
+1. Name:  Lanreotide
+2. Groups:  Approved
+3. Description:  Lanreotide (INN) is a medication used in the management of acromegaly and symptoms caused by neuroendocrine tumors, most notably carcinoid syndrome. It is a long-acting analogue of somatostatin, like octreotide. Its sequence is H-D-2Nal-Cys(1)-Tyr-D-Trp-Lys-Val-Cys(1)-Thr-NH2. Lanreotide (as lanreotide acetate) is manufactured by Ipsen, and marketed under the trade name Somatuline. It is available in several countries, including the United Kingdom, Australia and Canada, and was approved for sale in the United States by the Food and Drug Administration (FDA) on August 30, 2007.
+4. Indication:  Lanreotide is a somatostatin analog approved for treatment of neuroendocrine tumours and acromegaly. (2)

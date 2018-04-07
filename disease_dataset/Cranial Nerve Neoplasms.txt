@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  2
+1. Name:  Almotriptan
+2. Groups:  Approved, Investigational
+3. Description:  Almotriptan is a triptan drug for the treatment of migraine headaches. Almotriptan is in a class of medications called selective serotonin receptor agonists. It works by narrowing blood vessels in the brain, stopping pain signals from being sent to the brain, and stopping the release of certain natural substances that cause pain, nausea, and other symptoms of migraine. Almotriptan does not prevent migraine attacks.
+4. Indication:  For the treatment of acute migraine headache in adults
+DrugId:  3
+1. Name:  Ergotamine
+2. Groups:  Approved
+3. Description:  A vasoconstrictor found in ergot of Central Europe. It is an alpha-1 selective adrenergic agonist and is commonly used in the treatment of migraine disorders. [PubChem]
+4. Indication:  For use as therapy to abort or prevent vascular headache, e.g., migraine, migraine variants, or so called "histaminic cephalalgia".
+DrugId:  4
+1. Name:  Naratriptan
+2. Groups:  Approved, Investigational
+3. Description:  Naratriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  5
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  6
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Enfortumab vedotin
+2. Groups:  Investigational
+3. Description:  Enfortumab vedotin has been used in trials studying the treatment of Tumors, Neoplasms, and Medical Oncology.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  TAK-448
+2. Groups:  Investigational
+3. Description:  TAK-448 has been used in trials studying the treatment of Prostate Cancer, Low Testosterone, Prostatic Neoplasms, and Hypogonadotropic Hypogonadism.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Gentamicin
+2. Groups:  Approved, Vet approved
+3. Description:  A complex of three different closely related aminoglycoside sulfates, Gentamicins C1, C2, and C1a, obtained from Micromonospora purpurea and related species. They are broad-spectrum antibiotics, but may cause ear and kidney damage. They act to inhibit protein synthesis (genetic translation).
+4. Indication:  For treatment of serious infections caused by susceptible strains of the following microorganisms: P. aeruginosa, Proteus species (indole-positive and indole-negative), E. coli, Klebsiella-Enterobactor-Serratia species, Citrobacter species and Staphylococcus species (coagulase-positive and coagulase-negative).
+DrugId:  10
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  11
+1. Name:  Nerve Growth Factor
+2. Groups:  Investigational
+3. Description:  Nerve Growth Factor has been used in trials studying the prevention and treatment of Mental Handicap, Alzheimer's Disease, Traumatic Brain Injury, Cerebral Palsy Children, and Delayed Speech Development, among others.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Rizatriptan
+2. Groups:  Approved
+3. Description:  Rizatriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For treatment of acute migraine attacks with or without aura.
+DrugId:  13
+1. Name:  Kanamycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.
+4. Indication:  For treatment of infections where one or more of the following are the known or suspected pathogens: E. coli, Proteus species (both indole-positive and indole-negative), E. aerogenes, K. pneumoniae, S. marcescens, and Acinetobacter species.
+DrugId:  14
+1. Name:  Patritumab
+2. Groups:  Investigational
+3. Description:  Patritumab has been used in trials studying the treatment of LUNG CANCER, Solid Tumors, Neoplasms by Site, Head and Neck Neoplasms, and Non-small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Desmopressin
+2. Groups:  Approved
+3. Description:  Desmopressin (dDAVP), a synthetic analogue of 8-arginine vasopressin (ADH), is an antidiuretic peptide drug modified by deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. ADH is an endogenous pituitary hormone that has a crucial role in the control of the water content in the body. Upon release from the stimulation of increased plasma osmolarity or decreased circulating blood volume, ADH mainly acts on the cells of the distal part of the nephron and the collecting tubules in the kidney [6]. The hormone interacts with V1, V2 or V3 receptors with differing signal cascade systems.Desmopressin displays enhanced antidiuretic potency, fewer pressor effects due to V2-selective actions, and a prolonged half-life and duration of action compared to endogenous ADH [2]. It has been employed clinically since 1972 and is available in various formulations including intranasal solution, intravenous solution, oral tablet and oral lyophilisate [3]. Desmopressin is indicated for the treatment of polyuric conditions including primary nocturnal enuresis, nocturia, and diabetes insipidus. It was also newly approved for the treatment of mild classical hemophilia and von Willebrand's disease for minor surgeries. The active ingredient in most formulations is desmopressin acetate.
+4. Indication:  Indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void (intranasal). Indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region (intranasal/parenteral).Indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5% or mild to moderate classic von Willebrand's Disease (Type I) with factor VIII levels greater than 5% during surgical procedures and postoperatively to maintain hemostasis (parenteral).
+DrugId:  16
+1. Name:  Lumretuzumab
+2. Groups:  Investigational
+3. Description:  Lumretuzumab has been used in trials studying the treatment of Neoplasms, Breast Cancer, Squamous Non-Small Cell Lung Cancer, and Non-Squamous Non-Small Cell Lung Cancer.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Figitumumab
+2. Groups:  Investigational
+3. Description:  Figitumumab has been used in trials studying the treatment of Sarcoma, Solid Tumor, Breast Cancer, Lung Neoplasms, and Advanced Cancer, among others.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Ganitumab
+2. Groups:  Investigational
+3. Description:  Ganitumab has been used in trials studying the treatment of Colon Cancer, Rectal Cancer, Breast Cancer, Breast Tumors, and Breast Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Amatuximab
+2. Groups:  Investigational
+3. Description:  Amatuximab has been used in trials studying the treatment and basic science of Mesothelioma, Ovarian Cancer, Ovarian Neoplasms, Pancreatic Cancer, and Mesothelioma, Malignant, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  5-fluoro-2'-deoxycytidine
+2. Groups:  Investigational
+3. Description:  5-fluoro-2'-deoxycytidine has been used in trials studying the treatment of Neoplasms, Lung Neoplasms, Breast Neoplasms, Head and Neck Neoplasms, and Urinary Bladder Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Atamestane
+2. Groups:  Investigational
+3. Description:  Atamestane has been used in trials studying the treatment of Breast Cancer, Breast Neoplasms, and Neoplasms, Hormone-Dependent.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  APR-246
+2. Groups:  Investigational
+3. Description:  APR-246 has been used in trials studying the treatment of Prostatic Neoplasms, Hematologic Neoplasms, and Platinum Sensitive Recurrent High-grade Serous Ovarian Cancer With Mutated p53.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Onartuzumab
+2. Groups:  Investigational
+3. Description:  Onartuzumab has been used in trials studying the treatment of Neoplasms, Lung Cancer, Glioblastoma, Gastric Cancer, and Colorectal Cancer, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Duligotuzumab
+2. Groups:  Investigational
+3. Description:  Duligotuzumab has been used in trials studying the treatment of Neoplasms, Colorectal Cancer, Head and Neck Cancer, and Epithelial Tumors, Malignant.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Ascrinvacumab
+2. Groups:  Investigational
+3. Description:  Ascrinvacumab has been used in trials studying the treatment and basic science of Neoplasms, Advanced Solid Tumors, Carcinoma, Hepatocellular, and Malignant Pleural Mesothelioma.
+4. Indication:  Not Available

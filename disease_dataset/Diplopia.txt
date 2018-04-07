@@ -1,0 +1,25 @@
+DrugId:  1
+1. Name:  Ranolazine
+2. Groups:  Approved, Investigational
+3. Description:  Ranolazine is an antianginal medication. On January 31, 2006, ranolazine was approved for use in the United States by the FDA for the treatment of chronic angina. [Wikipedia]
+4. Indication:  For the treatment of chronic angina. It should be used in combination with amlodipine, beta-blockers or nitrates.
+DrugId:  2
+1. Name:  Carisoprodol
+2. Groups:  Approved
+3. Description:  A centrally acting skeletal muscle relaxant whose mechanism of action is not completely understood but may be related to its sedative actions. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute, painful, musculoskeletal conditions.
+DrugId:  3
+1. Name:  Amodiaquine
+2. Groups:  Approved, Investigational
+3. Description:  A 4-aminoquinoquinoline compound with anti-inflammatory properties.
+4. Indication:  For treatment of acute malarial attacks in non-immune subjects.
+DrugId:  4
+1. Name:  Eslicarbazepine acetate
+2. Groups:  Approved
+3. Description:  Eslicarbazepine acetate (ESL) is an anticonvulsant medication approved for use in Europe, the United States and Canada as an adjunctive therapy for partial-onset seizures that are not adequately controlled with conventional therapy. Eslicarbazepine acetate is a prodrug that is rapidly converted to eslicarbazepine, the primary active metabolite in the body. Eslicarbazepine's mechanism of action is not well understood, but it is known that it does exert anticonvulsant activity by inhibiting repeated neuronal firing and stabilizing the inactivated state of voltage-gated sodium channels, thus preventing their return to the activated state during which seizure activity can occur.Eslicarbazepine acetate is marketed as Aptiom in North America and Zebinix or Exalief in Europe. It is available in 200, 400, 600, or 800mg tablets that are taken once daily, with or without food. Eslicarbazepine acetate is associated with numerous side effects including dizziness, drowsiness, nausea, vomiting, diarrhea, headache, aphasia, lack of concentration, psychomotor retardation, speech disturbances, ataxia, depression and hyponatremia. It is recommended that patients taking eslicarbazepine acetate be monitored for suicidality.
+4. Indication:  Eslicarbazepine acetate is indicated as adjunctive therapy in the treatment of partial-onset seizures that are not adequately controlled with conventional therapy in epileptic patients. 
+DrugId:  5
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.

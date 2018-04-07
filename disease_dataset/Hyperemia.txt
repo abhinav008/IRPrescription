@@ -1,0 +1,35 @@
+DrugId:  1
+1. Name:  Tafluprost
+2. Groups:  Approved
+3. Description:  A prostaglandin analogue ester prodrug used topically (as eye drops) to control the progression of glaucoma and in the management of ocular hypertension. Chemically, tafluprost is a fluorinated analog of prostaglandin F2-alpha. Tafluprost was approved for use in the U.S. on February 10, 2012.
+4. Indication:  Tafluprost is indicated for reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+DrugId:  2
+1. Name:  Fluorometholone
+2. Groups:  Approved, Investigational
+3. Description:  A glucocorticoid employed, usually as eye drops, in the treatment of allergic and inflammatory conditions of the eye. It has also been used topically in the treatment of various skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p732)
+4. Indication:  For the ophthalmic treatment of corticosteroid-responsive inflammation of the palpebral and bulbar conjunctiva, cornea and anterior segment of the globe.
+DrugId:  3
+1. Name:  Ripasudil
+2. Groups:  Approved
+3. Description:  Ripasudil, as hydrochloride hydrate (K-115), is a specifc Rho-associated coiled-coil containing protein kinase (ROCK) inhibitor used for the treatment of glaucoma and ocular hypertension. It was first approved for treatment in Japan in September 2014. This medication is available in the form of a 0.4% eye drop solution under the brand name Glanatec. Ripasudil is a well tolerated medication that is used when other drugs have been proven to be non-effective or cannot be administered.
+4. Indication:  Ripasudil has been proven to be effective in the twice daily treatment of glaucoma and ocular hypertension. It is currently in studies to be approved for both diabetic retinopathy and diabetic macular oedema. 
+DrugId:  4
+1. Name:  Hydroxypropyl cellulose
+2. Groups:  Approved
+3. Description:  Hydroxypropyl cellulose is an ether of cellulose where some of the hydroxyl groups of the cellulose have been hydroxypropylated forming -OCH2CH(OH)CH3 groups. Lacrisertis a formulation of hydroxypropyl cellulose that is used for artificial tears. It is used to treat syndromes characterized by insufficient tear production (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes. As a food additive, hydroxypropyl cellulose is used as a thickener and as an emulsion stabilizer.
+4. Indication:  Used to relieve dryness and irritation caused by reduced tear flow that occurs in certain eye diseases (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes.
+DrugId:  5
+1. Name:  Phenylpropanolamine
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  Phenylpropanolamine has been withdrawn in Canada and the United States. In November 2000, the Food and Drug Administration (FDA) issued a public health advisory against the use of the drug.
+4. Indication:  For the treatment of nasal congestion, control of urinary incontinence, priapism and obesity.
+DrugId:  6
+1. Name:  Netarsudil
+2. Groups:  Approved
+3. Description:  A Rho kinase inhibitor with norepinephrine transport inhibitory activity that reduces production of aqueousAs of December 18, 2017 the FDA approved Aerie Pharmaceutical's Rhopressa (netarsudil ophthalmic solution) 0.02% for the indication of reducing elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. Acting as both a rho kinase inhibitor and a norepinephrine transport inhibitor, Netarsudil is a novel glaucoma medication in that it specifically targets the conventional trabecular pathway of aqueous humour outflow to act as an inhibitor to the rho kinase and norepinephrine transporters found there as opposed to affecting protaglandin F2-alpha analog like mechanisms in the unconventional uveoscleral pathway that many other glaucoma medications demonstrate.
+4. Indication:  Netarsudil is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension [FDA Label].
+DrugId:  7
+1. Name:  Oxymetazoline
+2. Groups:  Approved, Investigational
+3. Description:  A direct acting sympathomimetic used as a vasoconstrictor to relieve nasal congestion. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1251)
+4. Indication:  For treatment of nasal congestion and redness associated with minor irritations of the eye

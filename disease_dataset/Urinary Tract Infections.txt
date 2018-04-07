@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Lomefloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Lomefloxacin is a fluoroquinolone antibiotic, used to treat bacterial infections including bronchitis and urinary tract infections. It is also used to prevent urinary tract infections prior to surgery.
+4. Indication:  For the treatment of bacterial infections of the respiratory tract (chronic bronchitis) and urinary tract, and as a pre-operative prophylactic to prevent urinary tract infection caused by: S.pneumoniae, H.influenzae, S.aureus, P.aeruginosa, E. cloacae, P. mirabilis, C. civersus, S. asprphyticus, E.coli, and K.pneumoniae.
+DrugId:  4
+1. Name:  Methenamine
+2. Groups:  Approved, Vet approved
+3. Description:  Methenamine is a heterocyclic organic compound with a cage-like structure similar to adamantane. In salt form it is used for the treatment of urinary tract infection (Example: methenamine hippurate which is the hippuric acid salt of methenamine).
+4. Indication:  For prophylactic or suppressive treatment of frequently recurring urinary tract infections when long-term therapy is considered necessary. This drug is not used to treat infection and should only be used after appropriate eradication of infection with antimicrobial agents.
+DrugId:  5
+1. Name:  Cefonicid
+2. Groups:  Approved, Investigational
+3. Description:  A second-generation cephalosporin administered intravenously or intramuscularly. Its bactericidal action results from inhibition of cell wall synthesis. It is used for urinary tract infections, lower respiratory tract infections, and soft tissue and bone infections. [PubChem]
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms.
+DrugId:  6
+1. Name:  Plazomicin
+2. Groups:  Investigational
+3. Description:  Plazomicin has been used in trials studying the treatment of Acute Pyelonephritis, Complicated Urinary Tract Infection, Acute Pyelonephritis (AP) Due to CRE, Bloodstream Infections (BSI) Due to CRE, and Complicated Urinary Tract Infection (cUTI) Due to CRE, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Loracarbef
+2. Groups:  Investigational, Withdrawn
+3. Description:  Loracarbef is a carbacephem antibiotic sometimes grouped together with the second-generation cephalosporin antibiotics. It is marketed under the trade name Lorabid.
+4. Indication:  Used to treat upper respiratory tract bacterial infections, chronic bronchitis, pneumonia, sinusitis, pharyntitis and tonsillitis, skin absceses, urinary tract infections and pyelonephritis caused by E. coli, S. pyogenes, S. aureus, S. saprphyticus, S. penumoniae, H. influenzae and M. catarrhalis.
+DrugId:  8
+1. Name:  Sulfametopyrazine
+2. Groups:  Approved, Withdrawn
+3. Description:  Long-acting plasma-bound sulfonamide used for respiratory and urinary tract infections and also for malaria. [PubChem]
+4. Indication:  For the treatment of urinary tract infection and chronic bronchitis.
+DrugId:  9
+1. Name:  Pivampicillin
+2. Groups:  Approved
+3. Description:  Pivalate ester analog of ampicillin.
+4. Indication:  or the treatment of respiratory tract infections (including acute bronchitis, acute exacerbations of chronic bronchitis and pneumonia); ear, nose and throat infections; gynecological infections; urinary tract infections (including acute uncomplicated gonococcal urethritis) when caused by non penicillinase-producing susceptible strains of the following organisms: gram-positive organisms, e.g., streptococci, pneumococci and staphylococci; gram-negative organisms, e.g., H. influenzae, N. gonorrhoeae, E. coli, P. mirabilis. 
+DrugId:  10
+1. Name:  Phenazopyridine
+2. Groups:  Approved
+3. Description:  A local anesthetic that has been used in urinary tract disorders. Its use is limited by problems with toxicity (primarily blood disorders) and potential carcinogenicity. [PubChem]
+4. Indication:  For the symptomatic relief of pain, burning, urgency, frequency, and other discomforts arising from irritation of the lower urinary tract mucosa caused by infection, trauma, surgery, endoscopic procedures, or the passage of sounds or catheters.
+DrugId:  11
+1. Name:  Fosfomycin
+2. Groups:  Approved
+3. Description:  An antibiotic produced by Streptomyces fradiae. [PubChem]
+4. Indication:  For the treatment of uncomplicated urinary tract infections (acute cystitis) in women due to susceptible strains of Escherichia coli and Enterococcus faecalis.
+DrugId:  12
+1. Name:  Nitroxoline
+2. Groups:  Approved
+3. Description:  Nitroxoline is a urinary antibacterial agent active against susceptible gram-positive and gram-negative organisms commonly found in urinary tract infections. It is a fluorquinolone that is active against bacterial gyrases.
+4. Indication:  Nitroxoline is an antibiotic agent.
+DrugId:  13
+1. Name:  Acetohydroxamic Acid
+2. Groups:  Approved
+3. Description:  Acetohydroxamic Acid, a synthetic drug derived from hydroxylamine and ethyl acetate, is similar in structure to urea. In the urine, it acts as an antagonist of the bacterial enzyme urease. Acetohydroxamic Acid has no direct antimicrobial action and does not acidify urine directly. It is used, in addition to antibiotics or medical procedures, to treat chronic urea-splitting urinary infections.
+4. Indication:  Used, in addition to antibiotics or medical procedures, to treat chronic urea-splitting urinary infections.
+DrugId:  14
+1. Name:  Sulfadoxine
+2. Groups:  Approved, Investigational
+3. Description:  A long acting sulfonamide that is used, usually in combination with other drugs, for respiratory, urinary tract, and malarial infections. [PubChem]
+4. Indication:  Sulfadoxine is used in combination with pyrimethamine for the treatment or prevention of malaria. It can also be used to treat various infections in livestock as well.Sulfadoxine and pyrimethamine is indicated for the treatment of Plasmodium falciparum malaria in those patients in whom chloroquine resistance is suspected. 
+DrugId:  15
+1. Name:  Sulfadimethoxine
+2. Groups:  Approved, Vet approved
+3. Description:  Sulfadimethoxine is a sulfonamide antibiotic. Sulfadimethoxine is used to treat many infections including treatment of respiratory, urinary tract, enteric, and soft tissue infections. It is most frequently used in veterinary medicine, although it is approved in some countries for use in humans. Sulfadimethoxine inhibits bacterial synthesis of folic acid (pteroylglutamic acid) from para-aminobenzoic acid. Sulfadimethoxine is approved in Russia for use in humans, including children, and has been successfully used there for more than 35 years. It is widely available in Russia as an over-the-counter drug manufactured by a number of Russian pharmaceutical companies.
+4. Indication:  For use in the treatment of infections.
+DrugId:  16
+1. Name:  Ceftolozane
+2. Groups:  Approved, Investigational
+3. Description:  Ceftolozane is a semi-synthetic beta-lactam antibiotic. It was approved by the FDA in January 2015 for use in combination with tazobactam for the treatment of:-Complicated Intra-abdominal Infections, used in combination with metronidazole.-Complicated Urinary Tract Infections, including Pyelonephritis.Ceftolozane/tazobactam is marketed under the brand name Zerbaxa™ by Cubist Pharmaceuticals U.S, which effective January 22, 2015, is now a wholly owned subsidiary of Merck & Co., Inc.
+4. Indication:  -Complicated Intra-abdominal Infections, used in combination with metronidazole.-Complicated Urinary Tract Infections, including Pyelonephritis.
+DrugId:  17
+1. Name:  Avibactam
+2. Groups:  Approved
+3. Description:  Avibactam is a non-β-lactam β-lactamase inhibitor that is available in combination with ceftazidime (Avycaz). This combination was approved by the FDA on February 25, 2015 for the treatment of complicated intra-abdominal infections in combination with metronidazole, and the treatment of complicated urinary tract infections, including pyelonephritis caused by antibiotic resistant-pathogens, including those caused by multi-drug resistant gram-negative bacterial pathogens. As there is limited clinical safety and efficacy data, Avycaz should be reserved for patients over 18 years old who have limited or not alternative treatment options. 
+4. Indication:  AVYCAZ (ceftazidime-avibactam), in combination with metronidazole, is indicated for the treatment of complicated intra-abdominal infections caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Providencia stuartii, Enterobacter cloacae, Klebsiella oxytoca, and Pseudomonas aeruginosa in patients 18 years or older.AVYCAZ is also indicated for the treatment of complicated urinary tract infections including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, Citrobacter koseri, Enterobacter aerogenes, Enterobacter cloacae, Citrobacter freundii, Proteus spp., and Pseudomonas aeruginosa in patients 18 years or older.
+DrugId:  18
+1. Name:  Aztreonam
+2. Groups:  Approved
+3. Description:  A monocyclic beta-lactam antibiotic originally isolated from Chromobacterium violaceum. It is resistant to beta-lactamases and is used in gram-negative infections, especially of the meninges, bladder, and kidneys. It may cause a superinfection with gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of the following infections caused by susceptible gram-negative microorganisms: urinary tract infections, lower respiratory tract infections, septicemia, skin and skin-structure infections, intra-abdominal infections, and gynecologic infections.
+DrugId:  19
+1. Name:  Eravacycline
+2. Groups:  Investigational
+3. Description:  Eravacycline has been used in trials studying the treatment of End Stage Renal Disease, Impaired Hepatic Function, Complicated Intra-abdominal Infection, and Complicated Urinary Tract Infections (cUTI).
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Vaborbactam
+2. Groups:  Approved, Investigational
+3. Description:  Vaborbactam is a cyclic boronic acid pharmacophore β-lactamase inhibitor. It has been used in trials studying the treatment of bacterial infections in subjects with varying degrees of renal insufficiency. In August 2017, a combination antibacterial therapy under the market name Vabomere was approved for the treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of vaborbactam and Meropenem and is intravenously admininstered. Vaborbactam is added to the therapy to reduce the extent of meropenem degradation by inhibiting serine beta-lactamases of microorganisms [FDA Label]. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  Indicated in combination with meropenem for the treatment of patients 18 years of age and older with complicated urinary tract infections (cUTI) including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, and Enterobacter cloacae species complex [FDA Label].
+DrugId:  21
+1. Name:  Pivmecillinam
+2. Groups:  Approved
+3. Description:  Pivmecillinam is a mecillinam prodrug, a pivaloyloxymethyl ester of amdinocillin that is well absorbed orally, but broken down to amdinocillin in the intestinal mucosa. It is active against gram-negative organisms and used as for amdinocillin. [PubChem]
+4. Indication:  Used to treat infections due to mecillinam-sensitive organisms such as urinary tract infections, salmonellosis and typhoid fever.
+DrugId:  22
+1. Name:  Sulfamethazine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A sulfanilamide anti-infective agent. It has a spectrum of antimicrobial action similar to other sulfonamides. [PubChem]
+4. Indication:  For the treatment bacterial infections causing bronchitis, prostatitis and urinary tract infections.
+DrugId:  23
+1. Name:  Bacampicillin
+2. Groups:  Approved, Investigational
+3. Description:  Bacampicillin is a prodrug of ampicillin and is microbiologically inactive. It is absorbed following oral administration. During absorption from the gastrointestinal tract, bacampicillin is hydrolyzed by esterases present in the intestinal wall. It is microbiologically active as ampicillin, and exerts a bactericidal action through the inhibition of the biosynthesis of cell wall mucopeptides. It is used to cure infection of upper and lower respiratory tract; skin and soft tissue; urinary tract and acute uncomplicated gonococcal urethritis etc.
+4. Indication:  For infections at the following sites: upper and lower respiratory tract; skin and soft tissue; urinary tract and acute uncomplicated gonococcal urethritis, when due to sensitive strains of the following organisms: Gram-positive: streptococci (including S. faecalis and S. pneumoniae) and nonpenicillinase-producing staphylococci; Gram-negative: H. influenzae, N. gonorrhoeae, E. coli, P. mirabilis, Salmonellae and Shigellae.
+DrugId:  24
+1. Name:  Sulfisoxazole
+2. Groups:  Approved, Vet approved
+3. Description:  A short-acting sulfonamide antibacterial with activity against a wide range of gram- negative and gram-positive organisms. [PubChem]
+4. Indication:  For the treatment of severe, repeated, or long-lasting urinary tract infections, meningococcal meningitis, acute otitis media, trachoma, inclusion conjunctivitis, nocardiosis, chancroid, toxoplasmosis, malaria and other bacterial infections.
+DrugId:  25
+1. Name:  Enoxacin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum 6-fluoronaphthyridinone antibacterial agent (fluoroquinolones) structurally related to nalidixic acid. [PubChem]
+4. Indication:  For the treatment of adults (≥18 years of age) with the following infections caused by susceptible strains of the designated microorganisms: (1) uncomplicated urethral or cervical gonorrhea due to Neisseria gonorrhoeae, (2) uncomplicated urinary tract infections (cystitis) due to Escherichia coli, Staphylococcus epidermidis, or Staphylococcus saprophyticus, and (3) complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Staphylococcus epidermidis, or Enterobacter cloacae.

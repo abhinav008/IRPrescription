@@ -1,0 +1,55 @@
+DrugId:  1
+1. Name:  Adinazolam
+2. Groups:  Approved
+3. Description:  Adinazolam (Deracyn®) is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative, and antidepressant properties. Adinazolam was developed by Dr. Jackson B. Hester, who was seeking to enhance the antidepressant properties of alprazolam, which he also developed. Adinazolam was never FDA approved and was never available to the public. 
+4. Indication:  For the treatment of anxiety and status epilepticus.
+DrugId:  2
+1. Name:  Midazolam
+2. Groups:  Approved, Illicit
+3. Description:  A short-acting hypnotic-sedative drug with anxiolytic and amnestic properties. It is used in dentistry, cardiac surgery, endoscopic procedures, as preanesthetic medication, and as an adjunct to local anesthesia. The short duration and cardiorespiratory stability makes it useful in poor-risk, elderly, and cardiac patients. It is water-soluble at pH less than 4 and lipid-soluble at physiological pH. [PubChem] Midazolam is a schedule IV drug in the United States.
+4. Indication:  The midazolam injection is indicated for preoperative sedation/anziolysis/amnesia. It is also an agent for sedation/anziolysis/amnesia prior to or during diagnostic, therapeutic, or endoscopic procedures. Midazolam can also be given intravenously for induction of general anaesthesia. 
+DrugId:  3
+1. Name:  Flunitrazepam
+2. Groups:  Approved, Illicit
+3. Description:  A benzodiazepine with pharmacologic actions similar to those of diazepam that can cause anterograde amnesia. Some reports indicate that it is used as a date rape drug and suggest that it may precipitate violent behavior. The United States Government has banned the importation of this drug. [PubChem]
+4. Indication:  For short-term treatment of severe insomnias, that are not responsive to other hypnotics.
+DrugId:  4
+1. Name:  Lorazepam
+2. Groups:  Approved
+3. Description:  A benzodiazepine used as an anti-anxiety agent with few side effects. It also has hypnotic, anticonvulsant, and considerable sedative properties and has been proposed as a preanesthetic agent.
+4. Indication:  For the management of anxiety disorders, and for treatment of status epilepticus.
+DrugId:  5
+1. Name:  Zaleplon
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Zaleplon is a sedative/hypnotic, mainly used for insomnia. It is known as a nonbenzodiazepine hypnotic. Zaleplon interacts with the GABA receptor complex and shares some of the pharmacological properties of the benzodiazepines. Zaleplon is a schedule IV drug in the United States.
+4. Indication:  For the treatment of short-term treatment of insomnia in adults.
+DrugId:  6
+1. Name:  Oxazepam
+2. Groups:  Approved
+3. Description:  Oxazepam is an intermediate-acting benzodiazepine used to treat alcohol withdrawal and anxiety disorders. Oxazepam is also the metabolite of other benzodiazpines.
+4. Indication:  For the treatment of anxiety disorders and alcohol withdrawal. 
+DrugId:  7
+1. Name:  Methyltestosterone
+2. Groups:  Approved
+3. Description:  A synthetic anabolic steroid used for treating men with testosterone deficiency or similar androgen replacement therapies. Also, has antineoplastic properties and so has been used secondarily in women with advanced breast cancer. Methyltestosterone is a schedule III drug in the US.
+4. Indication:  Methyltestosterone is an anabolic steroid hormone used to treat men with a testosterone deficiency. It is also used in women to treat breast cancer, breast pain, swelling due to pregnancy, and with the addition of estrogen it can treat symptoms of menopause.
+DrugId:  8
+1. Name:  Testosterone
+2. Groups:  Approved, Investigational
+3. Description:  Testosterone is a steroid sex hormone found in both men and women. In men, testosterone is produced primarily by the Leydig (interstitial) cells of the testes when stimulated by luteinizing hormone (LH). It functions to stimulate spermatogenesis, promote physical and functional maturation of spermatozoa, maintain accessory organs of the male reproductive tract, support development of secondary sexual characteristics, stimulate growth and metabolism throughout the body and influence brain development by stimulating sexual behaviors and sexual drive. In women, testosterone is produced by the ovaries (25%), adrenals (25%) and via peripheral conversion from androstenedione (50%). Testerone in women functions to maintain libido and general wellbeing. Testosterone exerts a negative feedback mechanism on pituitary release of LH and follicle-stimulating hormone (FSH). Testosterone may be further converted to dihydrotestosterone or estradiol depending on the tissue.
+4. Indication:  To be used as hormone replacement or substitution of diminished or absent endogenous testosterone. Use in males: For management of congenital or acquired hypogonadism, hypogonadism associated with HIV infection, and male climacteric (andopause). Use in females: For palliative treatment of androgen-responsive, advanced, inoperable, metastatis (skeletal) carcinoma of the breast in women who are 1-5 years postmenopausal; testosterone esters may be used in combination with estrogens in the management of moderate to severe vasomotor symptoms associated with menopause in women who do not respond to adequately to estrogen therapy alone.
+DrugId:  9
+1. Name:  Gamma Hydroxybutyric Acid
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  Gamma Hydroxybutyric Acid, commonly abbreviated GHB, is a therapeutic drug which is illegal in multiple countries. It is currently regulated in the US and sold by Jazz Pharmaceuticals under the name Xyrem. However, it is important to note that GHB is a designated Orphan drug (in 1985). Today Xyrem is a Schedule III drug; however GHB remains a Schedule I drug and the illicit use of Xyrem falls under penalties of Schedule I. GHB is a naturally occurring substance found in the central nervous system, wine, beef, small citrus fruits and almost all other living creatures in small amounts. It is used illegally under the street names Juice, Liquid Ecstasy or simply G, either as an intoxicant, or as a date rape drug. Xyrem is a central nervous system depressant that reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy.
+4. Indication:  Used as a general anesthetic, to treat conditions such as insomnia, clinical depression, narcolepsy, and alcoholism, and to improve athletic performance. 
+DrugId:  10
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  11
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  AGS-004
+2. Groups:  Investigational
+3. Description:  AGS-004 is a personalized RNA-loaded dendritic cellbasedimmunotherapy that is designed to stimulate the patient’s immune system to target and destroy the patient’s own unique viral burden. Non-personalized HIV immunotherapies are unable to raise cytotoxic T lymphocytes against HIV antigens, fail to induce T cell memory, and, most importantly, do not provide antiviral protection against the patient's own particular virus. A personalized immunotherapy addresses these issues because it is able to capture private viral mutations, providing a matched, complete immune response for each individual HIV patient. This approach may overcome the weaknesses of other available therapies and therefore could result in a better chance of success for HIV treatment.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  2
+1. Name:  HGTV-43
+2. Groups:  Investigational
+3. Description:  HGTV43 is an anti-sense treatment designed to produce T cells that are genetically resistant to HIV infection. HGTV43 is one of a number of so-called 'gene transfer vectors' developed by the biotechnology company Enzo Biochem, Inc.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  3
+1. Name:  AMD-070
+2. Groups:  Investigational
+3. Description:  AMD-070 is a small molecule drug candidate that belongs to a new investigational class of anti-HIV drugs known as entry (fusion) inhibitors. Currently there is only one FDA-approved entry inhibitor, enfuvirtide (Fuzeon), that is available for the treatment of HIV infection. Several experimental entry inhibitors are now in early stage testing, including AMD-070, which targets the CXCR4 receptor on HIV and prevents the virus from entering and infecting healthy cells. Other entry inhibitors target the CCR5 receptor of HIV.These new agents are widely viewed as next generation anti-HIV drugs with the potential to significantly advance HIV therapeutics.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  4
+1. Name:  VIR201
+2. Groups:  Investigational
+3. Description:  is an experimental therapeutic vaccine currently in clinical trial. The aim of therapeutic vaccines is to augment the body's immune response to HIV and to delay or prevent progression to AIDS.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  5
+1. Name:  PRO-542
+2. Groups:  Investigational
+3. Description:  PRO 542 belongs to a new class of drugs, viral-entry inhibitor, which is intended to prevent HIV from entering and infecting cells. PRO 542 (CD4-immunoglobulin G2) is a tetravalent CD4-immunoglobulin fusion protein that broadly neutralizes primary HIV-1 isolates. 
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, HIV infection, and pediatric indications.
+DrugId:  6
+1. Name:  PA-1050040
+2. Groups:  Investigational
+3. Description:  PA1050040, a second generation HIV-1 maturation inhibitor, is a chemical analog of Bevirimat (BVM). It inhibits virus replication by the same mechanism of action as BVM.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  7
+1. Name:  alpha-Hydroxy glycineamide
+2. Groups:  Investigational
+3. Description:  Alpha-hydroxy glycineamide (αHGA) is the active antiviral metabolite of tri-peptide glycyl-prolyl-glycine-amide (GPG-NH2). αHGA inhibits the replication of HIV-1 in vitro by interfering with the capsid formation. It also has an effect on viral gp160 envelope protein. [3]
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  8
+1. Name:  PPL-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  9
+1. Name:  Calanolide A
+2. Groups:  Investigational
+3. Description:  Calanolide A is a new non-nucleoside reverse transcriptase inhibitor (NNRTI) derived from a plant found in the Malaysian rain forest. A related compound, calanolide B, also has anti-HIV activity. Both drugs are being developed by Sarawak Pharmaceuticals. A preliminary dosing study among HIV-infected individuals showed a significant antiviral effect compared with placebo.
+4. Indication:  For use in combination treatment of HIV infection (AIDS).
+DrugId:  10
+1. Name:  Elvucitabine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in hepatitis (viral, B) and HIV infection.
+DrugId:  11
+1. Name:  RDEA806
+2. Groups:  Investigational
+3. Description:  RDEA806 is a new HIV non-nucleoside reverse transcriptase inhibitor (NNRTI) with a high genetic barrier to resistance and a broad spectrum of activity.
+4. Indication:  For the treatment of HIV-1 infection in combination with appropriate antiretroviral agents when therapy is warranted.
+DrugId:  12
+1. Name:  CCR5 mAb
+2. Groups:  Investigational
+3. Description:  CCR5 mAb is a fully human monoclonal antibody that specifically recognizes and binds the chemokine receptor CCR5, which is known to be a key facilitator of infection with human immunodeficiency virus (HIV-1). It was generated by HGS using the Abgenix XenoMouse technology. 
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  13
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Tipranavir
+2. Groups:  Approved, Investigational
+3. Description:  Tipranavir is a sulfonamide-containing dyhydropyrone and a nonpeptidic protease inhibitor that targets the HIV protease. It is administered with ritonavir in combination therapy to treat HIV infections.
+4. Indication:  For combination antiretroviral treatment of HIV-1 infected adult patients with evidence of viral replication, who are highly treatment-experienced or have HIV-1 strains resistant to multiple protease inhibitors.
+DrugId:  15
+1. Name:  Emtricitabine
+2. Groups:  Approved, Investigational
+3. Description:  Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) for the treatment of HIV infection in adults. Emtricitabine is an analogue of cytidine. The drug works by inhibiting reverse transcriptase, the enzyme that copies HIV RNA into new viral DNA.
+4. Indication:  Indicated, in combination with other antiretroviral agents, for the treatment of HIV-1 infection in adults and for postexposure prophylaxis of HIV infection in health care workers and others exposed occupationally or nonoccupationally via percutaneous injury or mucous membrane or nonintact skin contact with blood, tissues, or other body fluids associated with risk for transmission of the virus.
+DrugId:  16
+1. Name:  Ibalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ibalizumab (also known as ibalizumab-uiyk and formerly known as TNX-355) is a monoclonal antibody that binds to CD4 receptors on the surface of CD4-positive cells, preventing HIV particle entry into the lymphocytes. It is an advanced and current antibody in development for the treatment of HIV/AIDS. It has been developed by Taimed biologics and Theratechnologies [8, 5].This drug was approved in March 2018 for the management of treatment-resistant HIV [5].
+4. Indication:  Indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in highly treatment-experienced adults with multidrug-resistant HIV-1 infection failing their current antiretroviral regimen [FDA Label].The approval of Trogarzo was supported by a clinical trial of 40 treatment-experienced adults with MDR HIV-1 infection who persistently had elevated levels of HIV RNA in their blood despite heavy antiretroviral therapy. The majority of study patients had previously been treated with ≥10 antiretroviral medications [5].
+DrugId:  17
+1. Name:  Enfuvirtide
+2. Groups:  Approved, Investigational
+3. Description:  Enfuvirtide is a 36 residue synthetic peptide that inhibits HIV-1 fusion with CD4 cells. It is an N-terminal acetylated, C-terminal amide. As an HIV fusion inhibitor, it is the first of a novel class of antiretroviral drugs used in combination therapy for the treatment of HIV-1 infection.
+4. Indication:  Enfuvirtide is an antiretroviral drug used in combination therapy for the treatment of HIV-1/AIDS.
+DrugId:  18
+1. Name:  PRO 2000
+2. Groups:  Investigational
+3. Description:  PRO 2000 is an investigational medicine that is not yet approved by the FDA for use outside of clinical trials. It is being studied for the prevention of HIV infection and other sexually transmitted diseases. This medicine does not cure HIV infection or AIDS and is being studied to reduce the risk of passing the virus to other people.
+4. Indication:  Investigated for use/treatment in HIV prevention, prevention of stdis, and vaginal infection.
+DrugId:  19
+1. Name:  Amprenavir
+2. Groups:  Approved, Investigational
+3. Description:  Amprenavir is a protease inhibitor used to treat HIV infection.
+4. Indication:  For the treatment of HIV-1 infection in combination with other antiretroviral agents.
+DrugId:  20
+1. Name:  VGV-1
+2. Groups:  Investigational
+3. Description:  VGV-1 is a potential salvage therapy for treatment of HIV infected people who have failed anti-retroviral therapy.
+4. Indication:  Investigated for use/treatment in HIV infection.
+DrugId:  21
+1. Name:  Bictegravir
+2. Groups:  Approved, Investigational
+3. Description:  Bictegravir is a recently approved investigational drug that has been used in trials studying the treatment of HIV-1 and HIV-2 infection. It has been approved for HIV-1 monotherapy combined with 2 other antiretrovirals in a single tablet.
+4. Indication:  Bictegravir is indicated in the management of HIV-1 infection in patients not previously treated with antiretroviral therapy. Additionally, Bictegravir is indicated in the management of HIV-1 infection in patients who are virologically suppressed (HIV-1 RNA <50 c/mL) on a regular antiretroviral regimen for a minimum of three months without a history of failure in treatment and no known factors associated with the resistance to the individual components of the medication. It is used in combination with tenofovir and emtricitabine [3, 4].
+DrugId:  22
+1. Name:  Elvitegravir
+2. Groups:  Approved
+3. Description:  Elvitegravir is a human immunodeficiency virus type 1 (HIV-1) integrase strand transfer inhibitor (INSTI) used for the treatment of HIV-1 infection in antiretroviral treatment-experienced adults. Because integrase is necessary for viral replication, inhibition prevents the integration of HIV-1 DNA into the host genome and thereby blocks the formation of the HIV-1 provirus and resulting propagation of the viral infection. Although available as a single dose tablet, elvitegravir must be used in combination with an HIV protease inhibitor coadministered with ritonavir and another antiretroviral drug.It was developed by the pharmaceutical company Gilead Sciences, which licensed EVG from Japan Tobacco in March 2008. The drug gained approval by the U.S. Food and Drug Administration on August 27, 2012 for use in adult patients starting HIV treatment for the first time as part of the fixed dose combination known as Stribild. On September 24, 2014 the FDA approved Elvitegravir (tradename Vitekta) as a single pill formulation.
+4. Indication:  Elvitegravir in combination with an HIV protease inhibitor coadministered with ritonavir and with other antiretroviral drug(s) is indicated for the treatment of HIV-1 infection in antiretroviral treatment-experienced adults.
+DrugId:  23
+1. Name:  Saquinavir
+2. Groups:  Approved, Investigational
+3. Description:  An HIV protease inhibitor which acts as an analog of an HIV protease cleavage site. It is a highly specific inhibitor of HIV-1 and HIV-2 proteases. [PubChem]
+4. Indication:  For the treatment of HIV-1 with advanced immunodeficiency together with antiretroviral nucleoside analogues.
+DrugId:  24
+1. Name:  Diethylhomospermine
+2. Groups:  Investigational
+3. Description:  Diethylhomospermine has been used in trials studying the treatment of Diarrhea and HIV Infections.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  KP-1461
+2. Groups:  Investigational
+3. Description:  KP-1461 is a potent, non-chain-terminating, mutagenic deoxyribonucleoside analogue. Designated a DNA covert nucleoside, the drug consists of a modified base that incorporates randomly into HIV and pairs with multiple bases.
+4. Indication:  Investigated for use/treatment in HIV infection.

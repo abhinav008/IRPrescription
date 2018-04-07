@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Miglitol
+2. Groups:  Approved
+3. Description:  Miglitol is an oral anti-diabetic drug that acts by inhibiting the ability of the patient to breakdown complex carbohydrates into glucose. It is primarily used in diabetes mellitus type 2 for establishing greater glycemic control by preventing the digestion of carbohydrates (such as disaccharides, oligosaccharides, and polysaccharides) into monosaccharides which can be absorbed by the body.Miglitol inhibits glycoside hydrolase enzymes called alpha-glucosidases. Since miglitol works by preventing digestion of carbohydrates, it lowers the degree of postprandial hyperglycemia. It must be taken at the start of main meals to have maximal effect. Its effect will depend on the amount of non-monosaccharide carbohydrates in a person's diet.In contrast to acarbose (another alpha-glucosidase inhibitor), miglitol is systemically absorbed; however, it is not metabolized and is excreted by the kidneys.
+4. Indication:  For use as an adjunct to diet to improve glycemic control in patients with non-insulin-dependent diabetes mellitus (NIDDM) whose hyperglycemia cannot be managed with diet alone.
+DrugId:  2
+1. Name:  Tesamorelin
+2. Groups:  Approved, Investigational
+3. Description:  Tesamorelin is a stabilized synthetic peptide analogue of the hypothalamic peptide, Growth Hormone Releasing Hormone (GHRH) indicated for the reduction of excess abdominal fat in HIV-infected patients with lipodystrophy. Lipodystrophy is a metabolic condition characterized by insulin resistance, fat redistribution, and hyperlipidemia associated with antiretroviral therapy for HIV infection.
+4. Indication:  Tesamorelin acetate is a synthetic analogue of human hypothalamic Growth Hormone Releasing Factor (hGRF) indicated to induce and maintain a reduction of excess abdominal fat in HIV-infected patients with lipodystrophy. 
+DrugId:  3
+1. Name:  KRP-104
+2. Groups:  Investigational
+3. Description:  KRP-104 is a compound for the treatment of type 2 diabetes. It is an orally active, dipeptidyl peptidase-IV (DPPIV) inhibitor which lowers blood glucose levels by blocking the degradation of the hormone GLP-1 thereby stimulating glucose-dependent insulin secretion and lowering blood glucose levels without hypoglycemic effects.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  4
+1. Name:  Mifepristone
+2. Groups:  Approved, Investigational
+3. Description:  A progestational and glucocorticoid hormone antagonist. Its inhibition of progesterone induces bleeding during the luteal phase and in early pregnancy by releasing endogenous prostaglandins from the endometrium or decidua. As a glucocorticoid receptor antagonist, the drug has been used to treat hypercortisolism in patients with nonpituitary cushing syndrome [PubChem]. The two marketed forms of mifepristone are Mifeprex® (mifepristone 200mg) and Korlym™ (mifepristone 300mg). Currently under investigation for use in psychotic depression (phase 3 trials). 
+4. Indication:  For the medical termination of intrauterine pregnancy through 49 days' pregnancy. Also indicated to control hyperglycemia secondary to hypercortisolism in adult patients with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and are not candidates for surgery or have had unsuccessful surgery.
+DrugId:  5
+1. Name:  PSN357
+2. Groups:  Investigational
+3. Description:  PSN357 is a glycogen phosphorylase inhibitor (GPI), which is designed to rapidly lower blood glucose levels by preventing glycogen breakdown to glucose in the liver.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  6
+1. Name:  Macimorelin
+2. Groups:  Approved, Investigational
+3. Description:  Macimorelin, a novel and orally active ghrelin mimetic that stimulates GH secretion, is used in the diagnosis of adult GH deficiency (AGHD). More specifically, macimorelin is a peptidomimetic growth hormone secretagogue (GHS) that acts as an agonist of GH secretagogue receptor, or ghrelin receptor (GHS-R1a) to dose-dependently increase GH levels [3]. Growth hormone secretagogues (GHS) represent a new class of pharmacological agents which have the potential to be used in numerous clinical applications. They include treatment for growth retardation in children and cachexia associated with chronic disease such as AIDS and cancer. Growth hormone (GH) is classically linked with linear growth during childhood. In deficiency of this hormone, AGHD is commonly associated with increased fat mass (particularly in the abdominal region), decreased lean body mass, osteopenia, dyslipidemia, insulin resistance, and/or glucose intolerance overtime. In addition, individuals with may be susceptible to cardiovascular complications from altered structures and function [5]. Risk factors of AGHD include a history of childhood-onset GH deficiency or with hypothalamic/pituitary disease, surgery, or irradiation to these areas, head trauma, or evidence of other pituitary hormone deficiencies [3]. While there are various therapies available such as GH replacement therapy, the absence of panhypopituitarism and low serum IGF-I levels with nonspecific clinical symptoms pose challenges to the detection and diagnosis of AGHD. The diagnosis of AGHD requires biochemical confirmation with at least 1 GH stimulation test [3]. Macimorelin is clinically useful since it displays good stability and oral bioavailability with comparable affinity to ghrelin receptor as its endogenous ligand. In clinical studies involving healthy subjects, macimorelin stimulated GH release in a dose-dependent manner with good tolerability [3].Macimorelin, developed by Aeterna Zentaris, was approved by the FDA in December 2017 under the market name Macrilen for oral solution.
+4. Indication:  Indicated for the diagnosis of adult growth hormone deficiency (AGHD) [FDA Label].
+DrugId:  7
+1. Name:  APD668
+2. Groups:  Investigational
+3. Description:  APD668 is a novel, highly potent and orally active glucose-dependent insulinotropic receptor (GDIR) agonist intended to more efficiently stimulate insulin release by beta cells in response to elevated blood glucose levels, and to also avoid hypoglycemia. 
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  8
+1. Name:  Asparaginase Erwinia chrysanthemi
+2. Groups:  Approved, Investigational
+3. Description:  Erwinaze (asparaginase Erwinia chrysanthemi) contains an asparaginase specific enzyme derived from Erwinia chrysanthemi [4]. Specifically, this L-asparaginase is a tetrameric enzyme consisting of four identical subunits, each having a molecular weight of about 35 kDa [4]. The activity of Erwinaze is expressed in terms of International Units. It is an antineoplastic agent and was FDA approved in November 19, 2011 [4].
+4. Indication:  Asparaginase Erwinia chrysanthemi is for the treatment of patients with acute lymphoblastic leukemia (ALL) that have developed a hypersensitivity to E. coli-derivied asparaginase [4]. It is a component of a multi-agent chemotherpeutic regimen [4] for the treatment of the aforementioned disease and is considered second- or third- line treatment in European and American protocols [1]. 
+DrugId:  9
+1. Name:  Sunitinib
+2. Groups:  Approved, Investigational
+3. Description:  Sunitinib is an oral, small-molecule, multi-targeted receptor tyrosine kinase (RTK) inhibitor that was approved by the FDA for the treatment of renal cell carcinoma (RCC) and imatinib-resistant gastrointestinal stromal tumor (GIST) on January 26, 2006. Sunitinib inhibits cellular signaling by targeting multiple RTKs. These include all platelet-derived growth factor receptors (PDGF-R) and vascular endothelial growth factor receptors (VEGF-R). Sunitinib also inhibits KIT (CD117), the RTK that drives the majority of GISTs. In addition, sunitinib inhibits other RTKs including RET, CSF-1R, and flt3.
+4. Indication:  For the treatment of advanced renal cell carcinoma as well as the treatment of gastrointestinal stromal tumor after disease progression on or intolerance to imatinib mesylate.
+DrugId:  10
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  2-deoxy-2-fluoro-α-D-glucose
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  TD-8954
+2. Groups:  Investigational
+3. Description:  TD-8954 has been used in trials studying the treatment of Enteral Feeding Intolerance and Gastrointestinal Motility Disorder.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Beta-D-Glucose
+2. Groups:  Experimental
+3. Description:  A primary source of energy for living organisms. It is naturally occurring and is found in fruits and other parts of plants in its free state. It is used therapeutically in fluid and nutrient replacement.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Fludeoxyglucose F-18
+2. Groups:  Approved, Investigational
+3. Description:  Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical containing no-carrier added radioactive 2-deoxy-2-[18F]fluoro-D-g1ucose, which is used for diagnostic purposes in conjunction with Positron Emission Tomography (PET). It is administered by intravenous injection.
+4. Indication:  The uptake of 18F-FDG by tissues is a marker for the tissue uptake of glucose, which in turn is closely correlated with certain types of tissue metabolism.Fludeoxyglucose F 18 Injection is indicated in positron emission tomography (PET) imaging for assessment of abnormal glucose metabolism to assist in the evaluation of malignancy in patients with known or suspected abnormalities found by other testing modalities, or in patients with an existing diagnoses of cancer. 
+DrugId:  15
+1. Name:  beta-D-glucose 6-phosphate
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Nateglinide
+2. Groups:  Approved, Investigational
+3. Description:  Nateglinide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the meglitinide class of short-acting insulin secretagogues, which act by binding to β cells of the pancreas to stimulate insulin release. Nateglinide is an amino acid derivative that induces an early insulin response to meals decreasing postprandial blood glucose levels. It should only be taken with meals and meal-time doses should be skipped with any skipped meal. Approximately one month of therapy is required before a decrease in fasting blood glucose is seen. Meglitnides may have a neutral effect on weight or cause a slight increase in weight. The average weight gain caused by meglitinides appears to be lower than that caused by sulfonylureas and insulin and appears to occur only in those naïve to oral antidiabetic agents. Due to their mechanism of action, meglitinides may cause hypoglycemia although the risk is thought to be lower than that of sulfonylureas since their action is dependent on the presence of glucose. In addition to reducing postprandial and fasting blood glucose, meglitnides have been shown to decrease glycosylated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Meglitinides appear to be more effective at lowering postprandial blood glucose than metformin, sulfonylureas and thiazolidinediones. Nateglinide is extensively metabolized in the liver and excreted in urine (83%) and feces (10%). The major metabolites possess less activity than the parent compound. One minor metabolite, the isoprene, has the same potency as its parent compound.
+4. Indication:  For the treatment of non-insulin dependent-diabetes mellitus in conjunction with diet and exercise.
+DrugId:  17
+1. Name:  Empagliflozin
+2. Groups:  Approved
+3. Description:  Empagliflozin is a sodium glucose co-transporter-2 (SGLT-2) inhibitor indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes. SGLT2 co-transporters are responsible for reabsorption of glucose from the glomerular filtrate in the kidney. The glucuretic effect resulting from SGLT2 inhibition reduces renal absorption and lowers the renal threshold for glucose, therefore resulting in increased glucose excretion. Additionally, it contributes to reduced hyperglycaemia and also assists weight loss and blood pressure reduction.
+4. Indication:  Empagliflozin is indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes.
+DrugId:  18
+1. Name:  Repaglinide
+2. Groups:  Approved, Investigational
+3. Description:  Repaglinide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the meglitinide class of short-acting insulin secretagogues, which act by binding to β cells of the pancreas to stimulate insulin release. Repaglinide induces an early insulin response to meals decreasing postprandial blood glucose levels. It should only be taken with meals and meal-time doses should be skipped with any skipped meal. Approximately one month of therapy is required before a decrease in fasting blood glucose is seen. Meglitnides may have a neutral effect on weight or cause a slight increase in weight. The average weight gain caused by meglitinides appears to be lower than that caused by sulfonylureas and insulin and appears to occur only in those naïve to oral antidiabetic agents. Due to their mechanism of action, meglitinides may cause hypoglycemia although the risk is thought to be lower than that of sulfonylureas since their action is dependent on the presence of glucose. In addition to reducing postprandial and fasting blood glucose, meglitnides have been shown to decrease glycosylated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Meglitinides appear to be more effective at lowering postprandial blood glucose than metformin, sulfonylureas and thiazolidinediones. Repaglinide is extensively metabolized in the liver and excreted in bile. Repaglinide metabolites do not possess appreciable hypoglycemic activity. Approximately 90% of a single orally administered dose is eliminated in feces and 8% in urine. 
+4. Indication:  As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. 
+DrugId:  19
+1. Name:  Gaxilose
+2. Groups:  Approved, Investigational
+3. Description:  Gaxilose has been used in trials studying the diagnostic of Lactose Intolerance.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Glucose-6-Phosphate
+2. Groups:  Experimental
+3. Description:  An ester of glucose with phosphoric acid, made in the course of glucose metabolism by mammalian and other cells. It is a normal constituent of resting muscle and probably is in constant equilibrium with fructose-6-phosphate. (Stedman, 26th ed)
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  NOX-700
+2. Groups:  Investigational
+3. Description:  NOX-700, an new orally active dithiocarbamate-based nitric oxide (NO) blocking agent that is in development for the treatment of diabetes mellitus (type 2 diabetes). In animal studies, NOX-700 lowered serum glucose, improved glucose tolerance, and reduced the percentage of total glycated hemoglobin. Immunohistochemical studies onpancreatic tissue also showed that NOX-700 therapy effectively preserved islet structure and increased insulin immunoreactivity. It has since been found that oxidative signaling of the redox-sensitive transcription factor, NF-κB, and inhibiting protein glycation are responsible for the drug's therapeutic effects.
+4. Indication:  Investigated for use/treatment in diabetes mellitus (type 2).
+DrugId:  22
+1. Name:  alpha-D-glucose-1-phosphate
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Levoglucose
+2. Groups:  Investigational
+3. Description:  Levoglucose has been used in trials studying the diagnostic of Bowel Cleansing Prior to Colonoscopy.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Alpha-D-Glucose 1,6-Bisphosphate
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Ferric Carboxymaltose
+2. Groups:  Approved
+3. Description:  Ferric Carboxymaltose is an iron replacement product and chemically, an iron carbohydrate complex. FDA approved on July 25, 2013. 
+4. Indication:  Ferric carboxymaltose is a iron replacement product indicated for the treatment of iron deficiency anemia in adult patients who have intolerance to oral iron or have had unsatisfactory response to oral iron or those who have non-dialysis dependent chronic kidney disease. 

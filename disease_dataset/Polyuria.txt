@@ -1,0 +1,35 @@
+DrugId:  1
+1. Name:  Vasopressin
+2. Groups:  Approved
+3. Description:  Antidiuretic hormone, also known as vasopressin, is a nine amino acid peptide secreted from the posterior pituitary. Antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation
+4. Indication:  For the treatment of enuresis, polyuria, diabetes insipidus, polydipsia and oesophageal varices with bleeding
+DrugId:  2
+1. Name:  Desoxycorticosterone Pivalate
+2. Groups:  Experimental, Vet approved
+3. Description:  Desoxycorticosterone Pivalate is a mineralocorticoid hormone and an analog of desoxycorticosterone. It is white, odorless, and stable in air. It is practically insoluble in water, sparingly soluble in acetone, slightly soluble in methanol, ether and vegetable oils. Federal (U.S.A.) law restricts this drug to use by or on the order of a licensed veterinarian.
+4. Indication:  Examined for treatment of adrenocortical insufficiency especially in multiple sclerosis, congenital cerebral palsy, polyarteritis nodosa, and rheumatoid arthritis. Currently only approved in treating cats and dogs for the treatment of Addison's disease.
+DrugId:  3
+1. Name:  Tolvaptan
+2. Groups:  Approved
+3. Description:  Tolvaptan is used to treat low blood sodium levels (hyponatremia) associated with various conditions like congestive heart failure, cirrhosis, and syndrome of inappropriate antidiuretic hormones (SIADH). FDA approved on May 19, 2009. 
+4. Indication:  Treatment of symptomatic and resistant to fluid restriction euvolemic or hypervolemic hyponatremia associated with congestive heart failure, SIADH, and cirrhosis. 
+DrugId:  4
+1. Name:  Alfacalcidol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism. Alfacalcidol is Vitamin D-hormone analog which is activated by the enzyme 25-hydroxylase in the liver for systemic and in osteoblasts for local D-hormone actions. It possesses a unique pattern of pleiotropic effects on, e.g. gut, bone, pararthyroids, muscle and brain. Alfacalcidol is superior to plain vitamin D (cholecalciferol) because the final kidney activation of the latter is regulated by a negative feedback mechanism. (PMID:17438884,17668216)
+4. Indication:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism.
+DrugId:  5
+1. Name:  Desmopressin
+2. Groups:  Approved
+3. Description:  Desmopressin (dDAVP), a synthetic analogue of 8-arginine vasopressin (ADH), is an antidiuretic peptide drug modified by deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. ADH is an endogenous pituitary hormone that has a crucial role in the control of the water content in the body. Upon release from the stimulation of increased plasma osmolarity or decreased circulating blood volume, ADH mainly acts on the cells of the distal part of the nephron and the collecting tubules in the kidney [6]. The hormone interacts with V1, V2 or V3 receptors with differing signal cascade systems.Desmopressin displays enhanced antidiuretic potency, fewer pressor effects due to V2-selective actions, and a prolonged half-life and duration of action compared to endogenous ADH [2]. It has been employed clinically since 1972 and is available in various formulations including intranasal solution, intravenous solution, oral tablet and oral lyophilisate [3]. Desmopressin is indicated for the treatment of polyuric conditions including primary nocturnal enuresis, nocturia, and diabetes insipidus. It was also newly approved for the treatment of mild classical hemophilia and von Willebrand's disease for minor surgeries. The active ingredient in most formulations is desmopressin acetate.
+4. Indication:  Indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void (intranasal). Indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region (intranasal/parenteral).Indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5% or mild to moderate classic von Willebrand's Disease (Type I) with factor VIII levels greater than 5% during surgical procedures and postoperatively to maintain hemostasis (parenteral).
+DrugId:  6
+1. Name:  Calcitriol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Calcitriol or 1,25-dihydroxycholecalciferol (abbreviated 1,25-(OH)2-D3) is the active form of vitamin D found in the body (vitamin D3). Calcitriol is marketed under various trade names including Rocaltrol (Roche), Calcijex (Abbott) and Decostriol (Mibe, Jesalis). It is produced in the kidneys via 25-hydroxyvitamin D-1 α-hydroxylase by conversion from 25-hydroxycholecalciferol (calcidiol). This is stimulated by a decrease in serum calcium, phosphate (PO43−) and parathyroid hormone (PTH) levels. It regulates calcium levels by increasing the absorption of calcium and phosphate from the gastrointestinal tract, increasing calcium and phosphate reabsorption in the kidneys and inhibiting the release of PTH. Calcitriol is also commonly used as a medication in the treatment of hypocalcemia and osteoporosis.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  7
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.

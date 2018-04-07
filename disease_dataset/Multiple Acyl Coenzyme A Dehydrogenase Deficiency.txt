@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Hexanoyl-CoA
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Tetrahydrofolic acid
+2. Groups:  Nutraceutical
+3. Description:  Tetrahydrofolic acid is a folic acid derivative. It is produced from dihydrofolic acid by dihydrofolate reductase. It is converted into 5,10-methylenetetrahydrofolate by serine hydroxymethyltransferase. It is a coenzyme in many reactions, especially in the metabolism of amino acids and nucleic acids. It acts as a donor of a group with one carbon atom. It gets this carbon atom by sequestering formaldehyde produced in other processes.
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  3
+1. Name:  Flavin mononucleotide
+2. Groups:  Approved, Investigational
+3. Description:  A coenzyme for a number of oxidative enzymes including NADH DEHYDROGENASE. It is the principal form in which RIBOFLAVIN is found in cells and tissues.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Pyruvic acid
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  5
+1. Name:  Folic Acid
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (poaceae). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia. [PubChem]
+4. Indication:  For treatment of folic acid deficiency, megaloblastic anemia and in anemias of nutritional supplements, pregnancy, infancy, or childhood.
+DrugId:  6
+1. Name:  Acetoacetyl-CoA
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Oxidized Coenzyme A
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Malonyl-CoA
+2. Groups:  Experimental
+3. Description:  A coenzyme A derivative which plays a key role in the fatty acid synthesis in the cytoplasmic and microsomal systems.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Biotin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A water-soluble, enzyme co-factor present in minute amounts in every living cell. It occurs mainly bound to proteins or polypeptides and is abundant in liver, kidney, pancreas, yeast, and milk. [PubChem]
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  10
+1. Name:  INCB13739
+2. Groups:  Investigational
+3. Description:  INCB13739 is developed as a new treatment for type 2 diabetes.It is an orally available small molecule inhibitor of 11beta-HSD1 (11-beta hydroxysteroid dehydrogenase type 1). 11beta-HSD1 is an enzyme that appears to be critical to the development of type 2 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and diabetes prevention.
+DrugId:  11
+1. Name:  Manitimus
+2. Groups:  Investigational
+3. Description:  FK778, a novel compound with multiple mechanisms of action, is efficacious, well tolerated and safe in kidney transplant patients, potentially offering a breakthrough in immunosuppressive therapy.
+4. Indication:  Investigated for use/treatment in immunosuppressive and transplant (rejection).
+DrugId:  12
+1. Name:  Propanoyl-CoA
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  L-Carnitine
+2. Groups:  Approved, Investigational
+3. Description:  Constituent of striated muscle and liver. It is used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+4. Indication:  For treatment of primary systemic carnitine deficiency, a genetic impairment of normal biosynthesis or utilization of levocarnitine from dietary sources, or for the treatment of secondary carnitine deficiency resulting from an inborn error of metabolism such as glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency. Used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias. Parenteral levocarnitine is indicated for the prevention and treatment of carnitine deficiency in patients with end-stage renal disease.
+DrugId:  14
+1. Name:  Cyanocobalamin
+2. Groups:  Approved, Nutraceutical
+3. Description:  Cyanocobalamin (commonly known as Vitamin B12) is the most chemically complex of all vitamins. Its chemical structure is based on a corrin ring, which, although quite similar to the porphyrin ring found in heme, chlorophyll, and cytochrome, has two of the pyrrole rings directly bonded. The central metal ion in cyanocobalamin is Co (cobalt). Cyanocobalamin (Vitamin B12) is not produced by plants or by animals. The only organisms that have the enzymes required for the synthesis of cyanocobalamin are bacteria and archaea [10].Higher plants do not utilize cyanocobalamin from the soil, and are therefore a poor source of the substance as compared with animal tissues, which are potent in cyanocobalamin [10].Vitamin B12 is naturally found in animal products, including fish, meat, poultry, eggs, milk, and milk products. Vitamin B12 is generally not present in plant foods, but fortified breakfast cereals are a readily available source of vitamin B12 with high bioavailability for vegetarian consumers. Various nutritional yeast products also contain vitamin B12 [12].The main causes of vitamin B12 deficiency include vitamin B12 malabsorption, pernicious anemia, postsurgical malabsorption, and lastly, dietary deficiency. In many cases, however, the cause of deficiency is unknown [12].
+4. Indication:  For treatment of pernicious anemia (due to lack of or inhibition of intrinsic factor) and for prevention and treatment of vitamin B 12 deficiency [12], [15].Values below approximately 170–250 pg/mL (120–180 picomol/L) for adults suggest a vitamin B12 deficiency. Despite this, evidence suggests that serum vitamin B12 concentrations may not accurately reflect intracellular concentrations of the vitamin [12]. It is therefore difficult to diagnose vitamin B12 deficiency.
+DrugId:  15
+1. Name:  SC12267
+2. Groups:  Investigational
+3. Description:  SC12267 is a novel, small molecule agent from the class of DMARDs (disease modifying anti-rheumatic drug) for the therapy of autoimmune diseases such as rheumatoid arthritis or multiple sclerosis. Through highly selective inhibition of pyrimidine biosynthesis, it controls the growth of rapidly proliferating cells, especially of lymphocytes, which are important for the immune response.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and rheumatoid arthritis.
+DrugId:  16
+1. Name:  Cocarboxylase
+2. Groups:  Approved, Experimental
+3. Description:  The coenzyme form of Vitamin B1 present in many animal tissues. It is a required intermediate in the pyruvate dehydrogenase complex and the ketoglutarate dehydrogenase complex.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Pyridoxine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. [PubChem]
+4. Indication:  For the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy.
+DrugId:  18
+1. Name:  Myristoyl-Coa
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Octanoyl-Coenzyme A
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  4-Hydroxyphenacyl Coenzyme A
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Methylmalonyl-Coenzyme A
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  4-Hydroxybenzoyl Coenzyme A
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.
+DrugId:  24
+1. Name:  Coenzyme a Persulfide
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  3-Hydroxybutyryl-Coenzyme A
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clomocycline
+2. Groups:  Approved
+3. Description:  Clomocycline is a tetracycline antibiotic.
+4. Indication:  For the treatment and management of Brucellosis, mycoplasma infection, acne vulgaris, chlamydial infection;Chronic bronchitis
+DrugId:  2
+1. Name:  PRO 2000
+2. Groups:  Investigational
+3. Description:  PRO 2000 is an investigational medicine that is not yet approved by the FDA for use outside of clinical trials. It is being studied for the prevention of HIV infection and other sexually transmitted diseases. This medicine does not cure HIV infection or AIDS and is being studied to reduce the risk of passing the virus to other people.
+4. Indication:  Investigated for use/treatment in HIV prevention, prevention of stdis, and vaginal infection.
+DrugId:  3
+1. Name:  Rifalazil
+2. Groups:  Investigational
+3. Description:  Rifalazil is a derivative of the antibiotic rifamycin. It is being investigated by ActivBiotics for the treatment of various bacterial infections.
+4. Indication:  Investigated for use/treatment in atherosclerosis, bacterial infection, and peripheral vascular disease.
+DrugId:  4
+1. Name:  Lymecycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline with a 7-chloro substitution.
+4. Indication:  For the treatment of infections and to treat acne. It may also be used to treat urinary tract infections, gum disease, and other bacterial infections such as gonorrhea and chlamydia. Lymecycline is also used commonly as a prophylactic treatment for infection by Bacillus anthracis (anthrax). It is also effective against Yersinia pestis and malaria and is also prescribed for the treatment of Lyme disease.
+DrugId:  5
+1. Name:  Sparfloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Sparfloxacin is a fluoroquinolone antibiotic used in the treatment of bacterial infections. Sparfloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription.
+4. Indication:  For the treatment of adults with the following infections caused by susceptible strains microorganisms: community-acquired pneumonia (caused by Chlamydia pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, Moraxella catarrhalis, Mycoplasma pneumoniae, or Streptococcus pneumoniae) and acute bacterial exacerbations of chronic bronchitis (caused by Chlamydia pneumoniae, Enterobacter cloacae, Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Staphylococcus aureus, or Streptococcus pneumoniae).
+DrugId:  6
+1. Name:  Azithromycin
+2. Groups:  Approved
+3. Description:  Azithromycin is a semi-synthetic macrolide antibiotic of the azalide class. Like other macrolide antibiotics, azithromycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit of the bacterial 70S ribosome. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the process of translation. Its effects may be bacteriostatic or bactericidal depending of the organism and the drug concentration. Its long half life, which enables once daily dosing and shorter administration durations, is a property distinct from other macrolides.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions: H. influenzae, M. catarrhalis, S. pneumoniae, C. pneumoniae, M. pneumoniae, S. pyogenes, S. aureus, S. agal
+DrugId:  7
+1. Name:  Erythromycin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Erythromycin is a macrolide antibiotic produced by Saccharopolyspora erythraea (formerly Streptomyces erythraeus). It inhibits bacterial protein synthesis by binding to bacterial 50S ribosomal subunits; binding inhibits peptidyl transferase activity and interferes with translocation of amino acids during translation and assembly of proteins. Erythromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  For use in the treatment of infections caused by susceptible strains of microorganisms in the following diseases: respiratory tract infections (upper and lower) of mild to moderate degree, pertussis (whooping cough), as adjunct to antitoxin in infections due to Corynebacterium diphtheriae, in the treatment of infections due to Corynebacterium minutissimum, intestinal amebiasis caused by Entamoeba histolytica, acute pelvic inflammatory disease caused by Neisseria gonorrhoeae, skin and soft tissue infections of mild to moderate severity caused by Streptococcus pyogenes and Staphylococcus aureus, primary syphilis caused by Treponema pallidum, infections caused by Chlamydia trachomatis, nongonococcal urethritis caused by Ureaplasma urealyticum, and Legionnaires' disease caused by Legionella pneumophila.
+DrugId:  8
+1. Name:  Moxifloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Moxifloxacin is a synthetic fluoroquinolone antibiotic agent. Bayer AG developed the drug (initially called BAY 12-8039) and it is marketed worldwide (as the hydrochloride) under the brand name Avelox (in some countries also Avalox) for oral treatment.
+4. Indication:  For the treatment of sinus and lung infections such as sinusitis, pneumonia, and secondary infections in chronic bronchitis. Also for the treatment of bacterial conjunctivitis (pinkeye).
+DrugId:  9
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  10
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  11
+1. Name:  Roxithromycin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Roxithromycin is a semi-synthetic macrolide antibiotic. It is very similar in composition, chemical structure and mechanism of action to erythromycin, azithromycin, or clarithromycin. Roxithromycin prevents bacteria from growing, by interfering with their protein synthesis. Roxithromycin binds to the subunit 50S of the bacterial ribosome, and thus inhibits the translocation of peptides. Roxithromycin has similar antimicrobial spectrum as erythromycin, but is more effective against certain gram-negative bacteria, particularly Legionella pneumophila. It can treat respiratory tract, urinary and soft tissue infections. It is not available in the United States, but is available in Australia. 
+4. Indication:  Used to treat respiratory tract, urinary and soft tissue infections.
+DrugId:  12
+1. Name:  Trovafloxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Trovafloxacin (sold as Trovan by Pfizer) is a broad spectrum antibiotic that inhibits the uncoiling of supercoiled DNA in various bacteria by blocking the activity of DNA gyrase and topoisomerase IV. It was withdrawn from the market due to the risk of hepatotoxicity. It had better gram-positive bacterial coverage and less gram-negative coverage than the previous fluoroquinolones. [Wikipedia]
+4. Indication:  For treatment of infections caused by susceptible strains of the designated microorganisms in uncomplicated urethral gonorrhea in males and endocervical and rectal gonorrhea in females caused by Neisseria gonorrhoeae as well as non gonoccocal urethritis and cervicitis due to Chlamydia trachomatis.
+DrugId:  13
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  14
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  15
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.
+DrugId:  17
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  18
+1. Name:  Cefilavancin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, and staph bacterial infections.
+DrugId:  19
+1. Name:  SPK-843
+2. Groups:  Investigational
+3. Description:  SPK-843 has been used in trials studying the treatment of Cryptococcosis or Aspergillosis Infections.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Omadacycline
+2. Groups:  Investigational
+3. Description:  Omadacycline has been used in trials studying the treatment of Bacterial Pneumonia, Bacterial Infections, Community-Acquired Infections, and Skin Structures and Soft Tissue Infections. Omadacycline represents a significant advance over the well-known tetracycline family, and has been shown to be highly effective in animal models at treating increasingly problematic, clinically prevalent infections caused by gram-positive bacteria, such as methicillin-resistant Staphylococcus aureus (MRSA), and by gram-negative, atypical and anaerobic bacteria, including those resistant to currently available classes of antibiotics and known to cause diseases such as pneumonias, urinary tract infections, skin diseases and blood-borne infections in both the hospital and community settings.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  ACE393
+2. Groups:  Investigational
+3. Description:  ACE393 is an injectable vaccine designed to combat the bacterium Campylobacter jejuni, one of the greatest causes of bacterial diarrhoeal infections in the developed world.
+4. Indication:  Investigated for use/treatment in diarrhea and infectious and parasitic disease (unspecified).
+DrugId:  23
+1. Name:  Vibriolysin
+2. Groups:  Investigational
+3. Description:  Vibriolysin is a proteolytic enzyme secreted by the marine microorganism Vibrio proteolyticus. It is a new agent for enzymatic debridement, shown to rapidly and thoroughly hydrolyze burn wound eschar within full-thickness wounds.
+4. Indication:  Investigated for use/treatment in burns and burn infections.
+DrugId:  24
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Epetraborole
+2. Groups:  Investigational
+3. Description:  Epetraborole has been used in trials studying the treatment of Infections, Bacterial, Infections, Intestinal, Infections, Urinary Tract, and Community-acquired Infection.
+4. Indication:  Not Available

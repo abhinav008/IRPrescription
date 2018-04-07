@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Radotinib
+2. Groups:  Investigational
+3. Description:  Radotinib is under investigation for the treatment of Leukemia, Myelogenous, Chronic, BCR-ABL Positive.
+4. Indication:  Radotinib is indicated for the treatment of different types of cancer, most notably Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) with resistance or intolerance of other Bcr-Abl tyrosine-kinase inhibitors, such as patients resistant or intolerant to imatinib.
+DrugId:  2
+1. Name:  Dasatinib
+2. Groups:  Approved, Investigational
+3. Description:  Dasatinib is an oral dual BCR/ABL and Src family tyrosine kinase inhibitor approved for use in patients with chronic myelogenous leukemia (CML). The main targets of Dasatinib, are BCRABL, SRC, Ephrins and GFR.
+4. Indication:  For the treatment of adults with chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia with resistance or intolerance to prior therapy. Also indicated for the treatment of adults with Philadelphia chromosome-positive acute lymphoblastic leukemia with resistance or intolerance to prior therapy.
+DrugId:  3
+1. Name:  Bosutinib
+2. Groups:  Approved
+3. Description:  Bosutinib is a Bcr-Abl kinase inhibitor for the treatment of Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML). Compared to other tyrosine kinase inhibitors, it has a more favourable hematologic toxicity profile. FDA approved on September 4, 2012. 
+4. Indication:  Treatment of chronic, accelerated, or blast phase Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) with resistance or intolerance to prior therapy in adult patients. 
+DrugId:  4
+1. Name:  Imatinib
+2. Groups:  Approved
+3. Description:  Imatinib is a small molecule kinase inhibitor used to treat certain types of cancer. It is currently marketed by Novartis as Gleevec (USA) or Glivec (Europe/Australia) as its mesylate salt, imatinib mesilate (INN). It is occasionally referred to as CGP57148B or STI571 (especially in older publications). It is used in treating chronic myelogenous leukemia (CML), gastrointestinal stromal tumors (GISTs) and a number of other malignancies.It is the first member of a new class of agents that act by inhibiting particular tyrosine kinase enzymes, instead of non-specifically inhibiting rapidly dividing cells.
+4. Indication:  For the treatment of Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML), Ph+ acute lymphoblastic leukaemia, myelodysplastic/myeloproliferative diseases, aggressive systemic mastocytosis, hypereosinophilic syndrome and/or chronic eosinophilic leukemia (CEL), dermatofibrosarcoma protuberans, and malignant gastrointestinal stromal tumors (GIST).
+DrugId:  5
+1. Name:  Indirubin
+2. Groups:  Investigational
+3. Description:  Indirubin is under investigation in clinical trial NCT01735864 (Dosage Determination Trial for Indigo Naturalis Extract in Oil Ointment).
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Nilotinib
+2. Groups:  Approved, Investigational
+3. Description:  Nilotinib, also known as AMN107, is a tyrosine kinase inhibitor under investigation as a possible treatment for chronic myelogenous leukemia (CML). In June 2006, a Phase I clinical trial found nilotinib has a relatively favorable safety profile and shows activity in cases of CML resistant to treatment with imatinib (Gleevec®), another tyrosine kinase inhibitor currently used as a first-line treatment. [Wikipedia]
+4. Indication:  For the potential treatment of various leukemias, including chronic myeloid leukemia (CML).
+DrugId:  7
+1. Name:  CMLVAX100
+2. Groups:  Investigational
+3. Description:  CMLVAX100 is a vaccine targeting the BCR-ABL-derived p210 fusion protein which reduces residual disease in some patients with chronic myeloid leukemia. It is developed by Breakthrough Therapeutics and has completed phase I of its clinical trial.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid).
+DrugId:  8
+1. Name:  Omacetaxine mepesuccinate
+2. Groups:  Approved, Investigational
+3. Description:  Omacetaxine mepesuccinate (formerly known as HHT or Homoharringtonine), is a cephalotaxine ester and protein synthesis inhibitor with established clinical activity as a single agent in hematological malignancies. Omacetaxine mepesuccinate is synthesized from cephalotaxine, which is an extract from the leaves of the plant, Cephalotaxus species. In October 2005, omacetaxine mepesuccinate received Orphan Drug designation from the EMEA for the treatment of chronic myeloid leukemia (CML). Then in March 2006, it received Orphan Drug status from the FDA for the treatment of CML. In November 2006, omacetaxine mepesuccinate, for the treatment of CML, was granted Fast Track designation by the FDA. Most recently, in October 2012, omacetaxine mepesuccinate was marketed under the brand name Synribo and FDA approved for patients who are intolerant and/or resistant to two or more tyrosine kinase inhibitors used to treat accelerated or chronic phase CML.
+4. Indication:  Used in patients who are intolerant and/or resistant to two or more tyrosine kinase inhibitors used to treat accelerated or chronic phase CML. 
+DrugId:  9
+1. Name:  XL228
+2. Groups:  Investigational
+3. Description:  XL228 is a novel anticancer compound designed to inhibit the insulin-like growth factor type-1 receptor (IGF1R), Src and Abl tyrosine kinases – targets that play crucial roles in cancer cell proliferation, survival and metastasis.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and leukemia (myeloid).
+DrugId:  10
+1. Name:  Ponatinib
+2. Groups:  Approved, Investigational
+3. Description:  Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.
+4. Indication:  Ponatinib is indicated for the treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia (CML) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy or Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ALL) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy.
+DrugId:  11
+1. Name:  ABL-001
+2. Groups:  Investigational
+3. Description:  ABL001 has been used in trials studying the health services research of Chronic Myelogenous Leukemia and Philadelphia Chromosome-positive Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  BMS-214662
+2. Groups:  Investigational
+3. Description:  BMS-214662 has been used in trials studying the treatment of Childhood Myelodysplastic Syndromes, Refractory Anemia With Excess Blasts, Recurrent Adult Acute Myeloid Leukemia, Relapsing Chronic Myelogenous Leukemia, and Adult Acute Promyelocytic Leukemia (M3), among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Moxetumomab Pasudotox
+2. Groups:  Investigational
+3. Description:  Moxetumomab Pasudotox has been used in trials studying the treatment of Leukemia, Leukemia, Hairy Cell, Non-Hodgkin Lymphoma, Chronic Lymphocytic Leukemia, and Acute Lymphoblastic Leukemia.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Tanespimycin
+2. Groups:  Investigational
+3. Description:  Tanespimycin, manufactured by Conforma Therapeutics is under development as a small molecule inhibitor of heat shock protein 90 (HSP90). It is developed for the treatment of several types of cancer, solid tumors or chronic myelogenous leukemia.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid) and solid tumors.
+DrugId:  16
+1. Name:  Flumatinib
+2. Groups:  Investigational
+3. Description:  Flumatinib has been used in trials studying the treatment of Myelogenous Leukemia, Chronic.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  XL999
+2. Groups:  Investigational
+3. Description:  XL999 has the potential to provide benefit to patients with lung cancer and acute myelogenous leukemia. XL999 is a new chemical entity that inhibits a spectrum of receptor tyrosine kinases (RTKs) with growth promoting and angiogenic properties, including FGFR 1/3, PDGFRα/β, VEGFR2/KDR, KIT, and FLT3. XL999 also inhibits FLT4 and SRC. XL999 has the potential to prevent tumor growth — both directly by a novel effect on tumor cell proliferation and indirectly through inhibition of the host angiogenic response. XL999 induces a cell-cycle block by a mechanism distinct from those previously identified and exhibits broad antitumor activity in xenograft models.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), lung cancer, and solid tumors.
+DrugId:  18
+1. Name:  Cytarabine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)
+4. Indication:  For the treatment of acute non-lymphocytic leukemia, acute lymphocytic leukemia and blast phase of chronic myelocytic leukemia.
+DrugId:  19
+1. Name:  Binetrakin
+2. Groups:  Investigational
+3. Description:  Binetrakin has been used in trials studying the treatment of HIV Infections, Sarcoma, Kaposi, Non-Hodgkin's Lymphoma (NHL), Myelodysplastic Syndrome (MDS), and Leukemia, Acute Myelogenous (AML), among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Interferon Alfa-2a, Recombinant
+2. Groups:  Approved, Investigational
+3. Description:  Interferon a (human leukocyte protein moiety reduced). A type I interferon consisting of 165 amino acid residues with lysine in position 23. This protein is produced by recombinant DNA technology and resembles interferon secreted by leukocytes. It is used extensively as an antiviral or antineoplastic agent. An oral form is being developed by Amarillo Biosciences.
+4. Indication:  For the treatment of chronic hepatitis C, hairy cell leukemia, AIDS-related Kaposi's sarcoma, and chronic myelogenous leukemia. Also for the treatment of oral warts arising from HIV infection.
+DrugId:  21
+1. Name:  Busulfan
+2. Groups:  Approved, Investigational
+3. Description:  Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen. [PubChem]
+4. Indication:  For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.
+DrugId:  22
+1. Name:  MK-8776
+2. Groups:  Investigational
+3. Description:  Sch 900776 has been used in trials studying the treatment of Neoplasms, Hodgkin Disease, Adult Erythroleukemia, Lymphoma, Non-Hodgkin, and Myelogenous Leukemia, Acute, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Milatuzumab
+2. Groups:  Investigational
+3. Description:  Milatuzumab has been used in trials studying the treatment of Lupus Nephritis, Multiple Myeloma (MM), GVHD (Acute or Chronic), Myelodysplastic Syndrome, and Chronic Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Rasburicase
+2. Groups:  Approved, Investigational
+3. Description:  Rasburicase is a recombinant urate-oxidase enzyme produced by a genetically modified Saccharomyces cerevisiae strain. The cDNA coding for rasburicase was cloned from a strain of Aspergillus flavus.
+4. Indication:  For treatment of hyperuricemia, reduces elevated plasma uric acid levels (from chemotherapy)
+DrugId:  25
+1. Name:  Azacitidine
+2. Groups:  Approved, Investigational
+3. Description:  A pyrimidine nucleoside analogue that inhibits DNA methyltransferase, impairing DNA methylation. It is also an antimetabolite of cytidine, incorporated primarily into RNA. Azacytidine has been used as an antineoplastic agent. [PubChem]
+4. Indication:  For treatment of patients with the following French-American-British myelodysplastic syndrome subtypes: refractory anemia or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts, refractory anemia with excess blasts in transformation (now classified as acute myelogenous leukemia with multilineage dysplasia), and chronic myelomonocytic leukemia.

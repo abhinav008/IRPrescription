@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Methysergide
+2. Groups:  Approved
+3. Description:  An ergot derivative that is a congener of lysergic acid diethylamide. It antagonizes the effects of serotonin in blood vessels and gastrointestinal smooth muscle, but has few of the properties of other ergot alkaloids. Methysergide is used prophylactically in migraine and other vascular headaches and to antagonize serotonin in the carcinoid syndrome.
+4. Indication:  For the treatment of vascular headache
+DrugId:  2
+1. Name:  Pegaptanib
+2. Groups:  Approved, Investigational
+3. Description:  Pegaptanib is a polynucleotide aptamer. Pegaptanib specifically binds to VEGF 165, a protein that plays a critical role in angiogenesis (the formation of new blood vessels) and increased permeability (leakage from blood vessels), two of the primary pathological processes responsible for the vision loss associated with neovascular AMD. [Wikipedia]
+4. Indication:  For the treatment of neovascular (wet) age-related macular degeneration.
+DrugId:  3
+1. Name:  Cyproheptadine
+2. Groups:  Approved
+3. Description:  A serotonin antagonist and a histamine H1 blocker used as antipruritic, appetite stimulant, antiallergic, and for the post-gastrectomy dumping syndrome, etc. [PubChem]
+4. Indication:  For treatment of perennial and seasonal allergic rhinitis, vasomotor rhinitis, allergic conjunctivitis due to inhalant allergens and foods, mild uncomplicated allergic skin manifestations of urticaria and angioedema, amelioration of allergic reactions to blood or plasma, cold urticaria, dermatographism, and as therapy for anaphylactic reactions adjunctive to epinephrine.
+DrugId:  4
+1. Name:  Clonidine
+2. Groups:  Approved
+3. Description:  Clonidine, an imidazoline-derivative hypotensive agent is a centrally-acting α2-adrenergic agonist. It crosses the blood-brain barrier and acts in the hypothalamus to induce a decrease in blood pressure. It may also be administered as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone. Clonidine may be used for differential diagnosis of pheochromocytoma in hypertensive patients. Other uses for clonidine include prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD). Clonidine also exhibits some peripheral activity. 
+4. Indication:  May be used as an adjunct in the treatment of hypertension, as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone, for differential diagnosis of pheochromocytoma in hypertensive patients, prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD).
+DrugId:  5
+1. Name:  Metoprolol
+2. Groups:  Approved, Investigational
+3. Description:  Metoprolol is a cardioselective β1-adrenergic blocking agent used for acute myocardial infarction (MI), heart failure, angina pectoris and mild to moderate hypertension. It may also be used for supraventricular and tachyarrhythmias and prophylaxis for migraine headaches. Metoprolol is structurally similar to bisoprolol, acebutolol and atenolol in that it has two substituents in the para position of the benzene ring. The β1-selectivity of these agents is thought to be due in part to the large substituents in the para position. At low doses, metoprolol selectively blocks cardiac β1-adrenergic receptors with little activity against β2-adrenergic receptors of the lungs and vascular smooth muscle. Receptor selectivity decreases with higher doses. Unlike propranolol and pindolol, metoprolol does not exhibit membrane-stabilizing or intrinsic sympathomimetic activity. Membrane-stabilizing effects are only observed at doses much higher than those needed for β-adrenergic blocking activity. Metoprolol possesses a single chiral centre and is administered as a racemic mixture.
+4. Indication:  For the management of acute myocardial infarction, angina pectoris, heart failure and mild to moderate hypertension. May be used to treat supraventricular and tachyarrhythmias and as prophylaxis for migraine headaches.
+DrugId:  6
+1. Name:  Timolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist similar in action to propranolol. The levo-isomer is the more active. Timolol has been proposed as an antihypertensive, antiarrhythmic, antiangina, and antiglaucoma agent. It is also used in the treatment of migraine disorders and tremor. [PubChem]
+4. Indication:  In its oral form it is used to treat high blood pressure and prevent heart attacks, and occasionally to prevent migraine headaches. In its opthalmic form it is used to treat open-angle and occasionally secondary glaucoma.
+DrugId:  7
+1. Name:  Nicorandil
+2. Groups:  Approved, Investigational
+3. Description:  Nicorandil is an orally efficacious vasodilatory drug and antianginal agent marketed in the UK, Australia, most of Europe, India, Philippines, Japan, South Korea, and Taiwan. It is not an approved drug by FDA. It is a niacinamide derivative that induces vasodilation of arterioles and large coronary arteries by activating potassium channels. It is often used for patients with angina who remain symptomatic despite optimal treatment ith other antianginal drugs [10]. Nicorandil is a dual-action potassium channel opener that relaxes vascular smooth muscle through membrane hyperpolarization via increased transmembrane potassium conductance and increased intracellular concentration of cyclic GMP. It is shown to dilate normal and stenotic coronary arteries and reduces both ventricular preload and afterload [A20325].
+4. Indication:  Indicated for the prevention and treatment of chronic stable angina pectoris and reduction in the risk of acute coronary syndromes. 
+DrugId:  8
+1. Name:  Almotriptan
+2. Groups:  Approved, Investigational
+3. Description:  Almotriptan is a triptan drug for the treatment of migraine headaches. Almotriptan is in a class of medications called selective serotonin receptor agonists. It works by narrowing blood vessels in the brain, stopping pain signals from being sent to the brain, and stopping the release of certain natural substances that cause pain, nausea, and other symptoms of migraine. Almotriptan does not prevent migraine attacks.
+4. Indication:  For the treatment of acute migraine headache in adults
+DrugId:  9
+1. Name:  Naratriptan
+2. Groups:  Approved, Investigational
+3. Description:  Naratriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  10
+1. Name:  Follitropin
+2. Groups:  Approved
+3. Description:  Follitropin is a human follicle stimulating hormone (FSH) preparation of recombinant DNA origin, which consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Follitropin beta is produced in genetically engineered Chinese hamster cell lines (CHO). The nomenclature “beta” differentiates it from another recombinant human FSH product that was marketed earlier as follitropin alpha. Follitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF). Numerous physio-chemical tests and bioassays indicate that follitropin beta and follitropin alpha are indistinguishable. However, a more recent study showed there is may be a slight clinical difference, with the alpha form tending towards a higher pregnancy rate and the beta form tending towards a lower pregnancy rate, but with significantly higher estradiol (E2) levels. Structural analysis shows that the amino acid sequence of follitropin beta is identical to that of natural human follicle stimulating hormone (FSH). Further, the ogliosaccharide side chains are very similar, but not completely identical to that of natural FSH. However, these small differences do not affect the bioactivity compared to natural FSH.
+4. Indication:  In women having been diagnosed with primary ovarian failure, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. In men with hypogonadotrophic hypogonadism, it is used to induce spermatogenesis. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+DrugId:  11
+1. Name:  Rizatriptan
+2. Groups:  Approved
+3. Description:  Rizatriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For treatment of acute migraine attacks with or without aura.
+DrugId:  12
+1. Name:  Frovatriptan
+2. Groups:  Approved, Investigational
+3. Description:  Frovatriptan is a triptan drug developed by Vernalis for the treatment of migraine headaches, in particular those associated with menstruation. Frovatriptan causes vasoconstriction of arteries and veins that supply blood to the head.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  13
+1. Name:  Sirna-027
+2. Groups:  Investigational
+3. Description:  Sirna-027 is a chemically modified short interfering RNA(siRNA) targeting Vascular Endothelial Growth Factor Receptor-1(VEGFR-1). VEGFR-1 is a key component of the clinically validated vascular endothelial growth factor (VEGF) pathway. Sirna-027 is developed by Sirna Therapeutics and is under the phase I of clinical trails. It is used to treat Macular degeneration.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  14
+1. Name:  DP-VPA
+2. Groups:  Investigational
+3. Description:  DP-VPA is D-Pharm's proprietary lipid modified version of valproic acid (VPA) that demonstrate that DP-VPA is well-tolerated in patients with resistant epilepsy and has a marked effect on reducing seizure frequency.
+4. Indication:  Investigated for use/treatment in bipolar disorders, epilepsy, and migraine and cluster headaches.
+DrugId:  15
+1. Name:  Dotarizine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in migraine and cluster headaches.
+DrugId:  16
+1. Name:  ADX10059
+2. Groups:  Investigational
+3. Description:  ADX10059 is a metabotropic glutamate receptor 5 (mGluR5) negative allosteric modulator (NAM). The orally available small molecule drug candidate, which is highly specific for mGluR5, was discovered at Addex in 2003. It is developed for the treatment of GERD, migraine and anxiety.
+4. Indication:  Investigated for use/treatment in anxiety disorders, gastroesophageal reflux disease (GERD), and migraine and cluster headaches.
+DrugId:  17
+1. Name:  NXN-188
+2. Groups:  Investigational
+3. Description:  NXN-188 is a first-in-class, dual-action small molecule incorporating both neuronal nitric oxide synthase (nNOS) inhibition and 5-HT agonism that is being developed for the treatment of acute migraine.
+4. Indication:  Investigated for use/treatment in migraine and cluster headaches.
+DrugId:  18
+1. Name:  Sertraline
+2. Groups:  Approved
+3. Description:  Sertraline hydrochloride belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). Despite distinct structural differences between compounds in this class, SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be required before a clinical effect is seen. SSRIs are potent inhibitors of neuronal serotonin reuptake [7]. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute use, SSRIs block serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The overall clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction and headache (see Toxicity section below for a more detailed listing of side effects). Compared to other agents in this class, sertraline may cause greater diarrheal and male sexual dysfunction effects [5]. Sertraline displays a better safety or tolerability profile than other classes of antidepressants [6]. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants or monoamine oxidase inhibitors [7]. Sertraline has shown therapeutic effectiveness as a treatment for major depressive disorder [1], obsessive-compulsive disorder (OCD) [2], panic disorder, post-traumatic stress disorder (PTSD) [3], premenstrual dysphoric disorder (PMDD) [4] and social anxiety disorder (social phobia).
+4. Indication:  For the management of major depressive disorder (MDD), posttraumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (PD) with or without agoraphobia, premenstrual dysphoric disorder (PMDD), and social anxiety disorder (SAD) [FDA Label]. It may be used for premature ejaculation and vascular headaches as off-label indications. 
+DrugId:  19
+1. Name:  CYT997
+2. Groups:  Investigational
+3. Description:  CYT997 is an orally available vascular argeting and cytotoxic agent that has proven effective in animal models of a wide range of tumour types including breast, prostate and colon, as well as some leukemias.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  20
+1. Name:  Teriparatide
+2. Groups:  Approved, Investigational
+3. Description:  Teriparatide (recombinant human parathyroid hormone) is a potent anabolic agent used in the treatment of osteoporosis. It is manufactured and marketed by Eli Lilly and Company.
+4. Indication:  For the treatment of osteoporosis in men and postmenopausal women who are at high risk for having a fracture. Also used to increase bone mass in men with primary or hypogonadal osteoporosis who are at high risk for fracture.
+DrugId:  21
+1. Name:  VLTS-589
+2. Groups:  Investigational
+3. Description:  VLTS-589 consists of plasmid encoding the angiomatrix protein Del-1 in conjunction with poloxamer 188 for the treatment of peripheral vascular disease.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease.
+DrugId:  22
+1. Name:  Edifoligide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, peripheral vascular disease, and kidney disease.
+DrugId:  23
+1. Name:  CNS-5161
+2. Groups:  Investigational
+3. Description:  CNS 5161 is a blocker of the NMDA ion channel and has completed Phase IIa proof of concept clinical trials as a novel compound for the treatment of neuropathic pain.
+4. Indication:  Investigated for use/treatment in migraine and cluster headaches, neuropathy (diabetic), and pain (acute or chronic).
+DrugId:  24
+1. Name:  Mebutamate
+2. Groups:  Approved
+3. Description:  Mebutamate is a sedative and anxiolytic drug with anti-hypertensive (blood pressure lowering) effects. It has effects comparable to those of barbiturates such as secobarbital, but is only around 1/3rd the potency of secobarbital as a sedative. Side effects include dizziness and headaches.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Isometheptene
+2. Groups:  Approved
+3. Description:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.
+4. Indication:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.

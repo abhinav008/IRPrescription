@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Benzyl Benzoate
+2. Groups:  Approved
+3. Description:  Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+4. Indication:  Used to kill lice and the mites responsible for the skin condition scabies.
+DrugId:  2
+1. Name:  Alpha-Linolenic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alpha-linolenic acid (ALA) is a polyunsaturated omega-3 fatty acid. It is a component of many common vegetable oils and is important to human nutrition.
+4. Indication:  For nutritional supplementation and for treating dietary shortage or imbalance.
+DrugId:  3
+1. Name:  Grepafloxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Grepafloxacin is an oral broad-spectrum quinoline antibacterial agent used to treat bacterial infections. Grepafloxacin was withdrawn in the United States due to its side effect of lengthening the QT interval on the electrocardiogram, leading to cardiac events and sudden death. [Wikipedia]
+4. Indication:  For treatment of adults with mild to moderate infections caused by susceptible strains of Haemophilus influenzae, Streptococcus pneumoniae, or Moraxella catarrhalis.
+DrugId:  4
+1. Name:  Mersalyl
+2. Groups:  Approved
+3. Description:  Mersalyl is the sodium salt form of mersalyl acid, a mercurial diuretic. It is an outdated drug, and its approval has been discontinued by the FDA. Mersalyl acid is currently replaced by less toxic non-mercury containing diuretics [4, 6]. The sodium salt of a mercury-containing derivative of salicylamide, was formerly used (often in combination with theophylline) to treat edema, due to its powerful diuretic properties [6]. Interestingly, it has been found to have antiviral properties in mice [13].
+4. Indication:  Elevated blood pressure, edema [6, 14].
+DrugId:  5
+1. Name:  Promethazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals. [PubChem]
+4. Indication:  For the treatment of allergic disorders, and nausea/vomiting.
+DrugId:  6
+1. Name:  Minoxidil
+2. Groups:  Approved, Investigational
+3. Description:  A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure. (From Martindale, The Extra Pharmacopoeia, 30th ed, p371)
+4. Indication:  For the treatment of severe hypertension and in the topical treatment (regrowth) of androgenic alopecia in males and females and stabilisation of hair loss in patients with androgenic alopecia.
+DrugId:  7
+1. Name:  Busulfan
+2. Groups:  Approved, Investigational
+3. Description:  Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen. [PubChem]
+4. Indication:  For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.
+DrugId:  8
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  9
+1. Name:  Picoplatin
+2. Groups:  Investigational
+3. Description:  Picoplatin is a cytotoxic platinum compound in clinical development for the treatment of patients with solid tumors. It causes apoptosis (cell death) by binding to DNA and interfering with DNA replication and transcription.
+4. Indication:  For the treatment of patients with solid tumors.
+DrugId:  10
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  11
+1. Name:  Stannsoporfin
+2. Groups:  Investigational
+3. Description:  Stannsoporfin is a competitive heme oxygenase (HO) inhibitor being developed by InfaCare, a subsidiary of WellSpring Pharmaceuticals, for the prevention of hyperbilirubinemia in infants at risk of developing jaundice.
+4. Indication:  Investigated for use/treatment in liver disease, metabolic disease, and pediatric indications.
+DrugId:  12
+1. Name:  TST10088
+2. Groups:  Investigational
+3. Description:  TST10088 is a recombinant variant of a plant toxin belonging to the family of class II ribosome inactivating proteins. These molecules efficiently kill cells by activating preprogrammed death pathways known as apoptosis. TST10088 has been designed and engineered by Twinstrand to contain a peptide switch that is specifically cleaved by the matrix metalloproteinases which are known to be involved in tumor growth and metastasis. Cleavage of the peptide switch activates the prodrug causing ribosomal inactivation and the death of cancerous cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  13
+1. Name:  Thiamine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Thiamine or thiamin, also known as vitamin B1, is a colorless compound with the chemical formula C12H17N4OS. It is soluble in water and insoluble in alcohol. Thiamine decomposes if heated. Thiamine was first discovered by Umetaro Suzuki in Japan when researching how rice bran cured patients of Beriberi. Thiamine plays a key role in intracellular glucose metabolism and it is thought that thiamine inhibits the effect of glucose and insulin on arterial smooth muscle cell proliferation. Thiamine plays an important role in helping the body convert carbohydrates and fat into energy. It is essential for normal growth and development and helps to maintain proper functioning of the heart and the nervous and digestive systems. Thiamine cannot be stored in the body; however, once absorbed, the vitamin is concentrated in muscle tissue.
+4. Indication:  For the treatment of thiamine and niacin deficiency states, Korsakov's alcoholic psychosis, Wernicke-Korsakov syndrome, delirium, and peripheral neuritis.
+DrugId:  14
+1. Name:  Archexin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  15
+1. Name:  Calcium glubionate
+2. Groups:  Approved
+3. Description:  Calcium glubionate (or glubionate calcium) is a mineral supplement to prevent or treat low blood calcium levels in people who do not get enough calcium from their diets.
+4. Indication:  Calcium glubionate is indicated to treat conditions caused by low calcium levels such as bone loss (osteoporosis), weak bones (osteomalacia/rickets), decreased activity of the parathyroid gland (hypoparathyroidism), and a certain muscle disease (latent tetany). It may also be used in certain patients to make sure they are getting enough calcium (e.g., women who are pregnant, nursing, or postmenopausal, people taking certain medications such as phenytoin, phenobarbital, or prednisone).
+DrugId:  16
+1. Name:  Lidocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic and cardiac depressant used as an antiarrhythmia agent. Its actions are more intense and its effects more prolonged than those of procaine but its duration of action is shorter than that of bupivacaine or prilocaine. [PubChem]
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  17
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  18
+1. Name:  PRLX 93936
+2. Groups:  Investigational
+3. Description:  PRLX 93936 is selectively toxic to cancer cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  19
+1. Name:  Turpentine
+2. Groups:  Approved, Experimental
+3. Description:  Turpentine (also called spirit of turpentine, oil of turpentine, wood turpentine and colloquially turps) is a fluid obtained by the distillation of resin obtained from live trees, mainly pines. It is mainly used as a solvent and as a source of materials for organic synthesis. Turpentine is composed of terpenes, mainly the monoterpenes alpha-pinene and beta-pinene with lesser amounts of carene, camphene, dipentene, and terpinolene.
+4. Indication:  Turpentine has been used experimentally in a bath for the treatment of disseminated sclerosis and sexual dysfunction. It also has been studied for its antibacterial activity and inhibition of osteoclast activity. Turpentine is utilized in experimental models of inflammation to induce a systemic inflammatory immune response in animals.
+DrugId:  20
+1. Name:  Brompheniramine
+2. Groups:  Approved
+3. Description:  Histamine H1 antagonist used in treatment of allergies, rhinitis, and urticaria. [PubChem]
+4. Indication:  For the treatment of the symptoms of the common cold and allergic rhinitis, such as runny nose, itchy eyes, watery eyes, and sneezing.
+DrugId:  21
+1. Name:  Poractant alfa
+2. Groups:  Approved
+3. Description:  Poractant alfa is a pulmonary surfactant marketed as Curosurf in the United States and Canada. It is used to treat Respiratory Distress Syndrome (RDS) in premature infants with an endogenous pulmonary surfactant deficiency. Poractant alfa is an extract of natural porcine lung surfactant consisting of 99% polar lipids (mainly phospholipids) and 1% hydrophobic low molecular weight proteins (surfactant associated proteins SP-B and SP-C). The phospholipid content of the extract consists primarily of phosphatidylcholine and dipaImitoylphosphatidylcholine. Poractant alfa is a creamy white suspension of this extract in 0.9% sodium chloride solution. It contains no preservatives.
+4. Indication:  Poractant alfa is indicated for the treatment of Respiratory Distress Syndrome (RDS) in premature infants.
+DrugId:  22
+1. Name:  XL418
+2. Groups:  Investigational
+3. Description:  XL418 is a novel anticancer compound.
+4. Indication:  Cancer
+DrugId:  23
+1. Name:  Grn163l
+2. Groups:  Investigational
+3. Description:  GRN163L is a novel anti-cancer drug. It has been characterized preclinically and shown to inhibit telomerase in human tumor cells of many cancer types (including lung, breast, prostate, liver, and early stage of human breast cancer), in both cell culture systems and animal models. Study of this drug shows the its potential utility in the treatment of patients with hematologic and solid tumor malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and solid tumors.
+DrugId:  24
+1. Name:  Nivolumab
+2. Groups:  Approved
+3. Description:  Nivolumab is a fully human IgG4 monoclonal antibody that acts as an immunomodulator by blocking ligand activation of programmed cell death 1 (PD-1) receptor on T cells. It is indicated for use in patients with unresectable (cannot be surgically removed) or metastatic melanoma who no longer respond to other drugs. Nivolumab is administered as an intravenous infusion over 60 minutes every 2 weeks.
+4. Indication:  Nivolumab is indicated for the treatment of unresectable or metastatic melanoma for patients who no longer respond to treatment with other drugs. It is intended for use in patients who have been previously treated with ipilimumab and is used for melanoma patients after treatment with ipilimumab and a BRAF inhibitor in patients whose tumors express BRAF V600 gene mutations. Historically there have been very few effective treatments for advanced melanoma, which is why this product was approved under an FDA accelerated program to allow earlier patient access.
+DrugId:  25
+1. Name:  Nafamostat
+2. Groups:  Approved, Investigational
+3. Description:  Nafamostat is a synthetic serine protease inhibitor that is commonly formulated with hydrochloric acid due to its basic properties. It has been used in trials studying the prevention of Liver Transplantation and Postreperfusion Syndrome. The use of nafamostat in Asian countries is approved as an anticoagulant therapy for patients undergoing continuous renal replacement therapy due to acute kidney injury.
+4. Indication:  Used as an anticoagulant in patients with disseminative blood vessel coagulation, hemorrhagic lesions, and hemorrhagic tendencies. It prevents blood clot formation during extracorporeal circulation in patients undergoing continuous renal replacement therapy and extra corporeal membrane oxygenation. 

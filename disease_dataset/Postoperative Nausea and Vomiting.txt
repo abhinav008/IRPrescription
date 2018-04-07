@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Alizapride
+2. Groups:  Approved
+3. Description:  Alizapride is a dopamine antagonist with prokinetic and antiemetic effects used in the treatment of nausea and vomiting, including postoperative nausea and vomiting.
+4. Indication:  Alizapride is used in the treatment of nausea and vomiting, including postoperative nausea and vomiting. 
+DrugId:  2
+1. Name:  Piritramide
+2. Groups:  Approved, Investigational
+3. Description:  Piritramide is under investigation for the treatment of Colon Cancer and Minimal Residual Disease. Piritramide has been investigated for the supportive care of Pain, Postoperative and Postoperative Nausea and Vomiting.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Palonosetron
+2. Groups:  Approved, Investigational
+3. Description:  Palonosetron (INN, trade name Aloxi) is a 5-HT3 antagonist used in the prevention and treatment of chemotherapy-induced nausea and vomiting (CINV). It is the most effective of the 5-HT3 antagonists in controlling delayed CINV nausea and vomiting that appear more than 24 hours after the first dose of a course of chemotherapy and is the only drug of its class approved for this use by the U.S. Food and Drug Administration. As of 2008, it is the most recent 5-HT3 antagonist to enter clinical use.
+4. Indication:  For the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy, as well as prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy. Also used for the prevention of postoperative nausea and vomiting for up to 24 hours post operation.
+DrugId:  4
+1. Name:  Diphenidol
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Diphenidol is an antiemetic agent used in the treatment of vomiting and vertigo. Diphenidol overdose may result in serious toxicity in children.
+4. Indication:  For use in the prevention and symptomatic treatment of peripheral (labyrinthine) vertigo and associated nausea and vomiting that occur in such conditions as Meniere's disease and surgery of the middle and inner ear. Also for the control of nausea and vomiting associated with postoperative states, malignant neoplasms, labyrinthine disturbances, antineoplastic agent therapy, radiation sickness, and infectious diseases.
+DrugId:  5
+1. Name:  Trimethobenzamide
+2. Groups:  Approved, Investigational
+3. Description:  Trimethobenzamide is a novel antiemetic which prevents nausea and vomiting in humans. Its actions are unclear but most likely involves the chemoreceptor trigger zone (CTZ). In dogs pretreated with trimethobenzamide HCl, the emetic response to apomorphine is inhibited, while little or no protection is afforded against emesis induced by intragastric copper sulfate.
+4. Indication:  For the treatment of postoperative nausea and vomiting and for nausea associated with gastroenteritis.
+DrugId:  6
+1. Name:  Dolasetron
+2. Groups:  Approved, Investigational
+3. Description:  Dolasetron is an antinauseant and antiemetic agent indicated for the prevention of nausea and vomiting associated with moderately-emetogenic cancer chemotherapy and for the prevention of postoperative nausea and vomiting. Dolasetron is a highly specific and selective serotonin 5-HT3 receptor antagonist. This drug is not shown to have activity at other known serotonin receptors, and has low affinity for dopamine receptors.
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, including initial and repeat courses of chemotherapy. Also used for the prevention of postoperative nausea and vomiting. This drug can be used intravenously for the treatment of postoperative nausea and vomiting.
+DrugId:  7
+1. Name:  Cyclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist given by mouth or parenterally for the control of postoperative and drug-induced vomiting and in motion sickness. (From Martindale, The Extra Pharmacopoeia, 30th ed, p935)
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness, and vertigo (dizziness caused by other medical problems).
+DrugId:  8
+1. Name:  Tropisetron
+2. Groups:  Approved, Investigational
+3. Description:  Tropisetron is an indole derivative with antiemetic activity. As a selective serotonin receptor antagonist, tropisetron competitively blocks the action of serotonin at 5HT3 receptors, resulting in suppression of chemotherapy-and radiotherapy-induced nausea and vomiting.Tropisetron appears to be well tolerated with the most frequently reported adverse effect being headache. Extrapyramidal side effects are rare upon using tropisetron.
+4. Indication:  For the prevention of nausea and vomiting induced by cytotoxic therapy and postoperative. 
+DrugId:  9
+1. Name:  Ondansetron
+2. Groups:  Approved
+3. Description:  A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, postoperation, and radiation. Also used for the treatment of postoperative nausea and vomiting.
+DrugId:  10
+1. Name:  Piroxicam
+2. Groups:  Approved, Investigational
+3. Description:  A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily. [PubChem]
+4. Indication:  For treatment of osteoarthritis and rheumatoid arthritis.
+DrugId:  11
+1. Name:  Dexibuprofen
+2. Groups:  Approved, Investigational
+3. Description:  Dexibuprofen, S(+)-ibuprofen, is a non-steroidal anti-inflammatory drug (NSAID). It is a pharmacologically effective enantiomer of racemic ibuprofen that differs in physicochemical properties. It is proposed to be more pharmacologically active and tolerable with a better safety profile than ibuprofen due to higher concentration of active S enantiomer. Dexibuprofen has a slower dissolution rate in the simulated gastric and enteric juices compared with the racemic ibuprofen [A19257] and displays improved oral bioavilability [4].*For Metabolism, Enzymes, Carriers, Transporters Sections, refer to Ibuprofen (DB01050)
+4. Indication:  Similar indications as ibuprofen; to be used as a symptomatic treatment for pain and inflammation in rheumatic disease such as osteoarthritis and rheumatoid arthritis, as well as other musculoskeletal disorders. It is also used to reduce oral postoperative pain and alleviate fever.
+DrugId:  12
+1. Name:  Droperidol
+2. Groups:  Approved, Vet approved
+3. Description:  A butyrophenone with general properties similar to those of haloperidol. It is used in conjunction with an opioid analgesic such as fentanyl to maintain the patient in a calm state of neuroleptanalgesia with indifference to surroundings but still able to cooperate with the surgeon. It is also used as a premedicant, as an antiemetic, and for the control of agitation in acute psychoses. (From Martindale, The Extra Pharmacopoeia, 29th ed, p593)
+4. Indication:  Droperidol is ssed to produce tranquilization and to reduce the incidence of nausea and vomiting in surgical and diagnostic procedures.
+DrugId:  13
+1. Name:  Buclizine
+2. Groups:  Approved
+3. Description:  Buclizine is an antihistamine of the piperazine derivative family. [Wikipedia]
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness and vertigo (dizziness caused by other medical problems).
+DrugId:  14
+1. Name:  Mifamurtide
+2. Groups:  Approved, Experimental
+3. Description:  Mifamurtide is an immunomodulator with antitumor activity via activation of macrophages and monocytes. Also called L-MTP-PE, mifamurtide may be a liposomal form of of the active ingredient MTP-PE, which is a synthetic, less pyrogenic, and longer-acting derivative of muramyl dipeptide (MDP). MDP is a motif present in all gram-positive and gram-negative bacterial walls that is recognized by different signalling molecules and activators such as nucleotide-binding and oligomerization domain (NOD)-like receptors (NLRs) and toll-like receptors present in macrophages and monocytes. The overall result of MDP recognition leads to the production of proinflammatory cytokines and promotion of bactericidal and tumoricidal effects [2]. As a liposomal formulation, mifamurtide demonstrates an enhanced tumoricidal effect and improved safety profile [2].Mifamurtide is marketed in Europe as Mepact for intravenous infusion. It is administered as an adjuvant therapy to postoperative combination chemotherapy in pediatric, adolescent or adult patients with high-grade, resectable, non-metastatic osteosarcoma after macroscopically complete surgical resection. In the US, it is currently under investigation that holds orphan drug status for the treatment of osteosarcoma [3].Osteosarcoma is the most common primary malignant bone tumor that usually arises in the metaphyses of long bone in children and adolescents [1]. The standard therapy for osteosarcoma is comprised of macroscopic surgical resection and multi-agent chemotherapy consisting of doxorubicin, cisplatin, high-dose methotrexate with leucovorin rescue, and ifosfamide [1]. While about 90% of patients with newly diagnosed osteosarcoma may achieve complete remission from first-line therapies, the prognosis is still poor for patients with non-metastatic osteosarcoma with lower 5-year event-free survival. In a large, randomized, open-label, multicenter, phase III trial, the treatment of mifamurtide in conjunction with three- or four-drug combination chemotherapy (doxorubicin, cisplatin, and high-dose methotrexate with, or without, ifosfamide) was associated with significant improvement in survival rates and good tolerance [3]. The adverse events (AEs) associated with mifamurtide were generally mild to moderate in severity [4].
+4. Indication:  Indicated in children, adolescents and young adults for the treatment of high-grade, resectable, non-metastatic osteosarcoma after macroscopically complete surgical resection, typically in combination with post-operative multi-agent chemotherapy [5].
+DrugId:  15
+1. Name:  Ketoprofen
+2. Groups:  Approved, Vet approved
+3. Description:  Ketoprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties. 
+4. Indication:  For symptomatic treatment of acute and chronic rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, primary dysmenorrhea and mild to moderate pain associated with musculotendinous trauma (sprains and strains), postoperative (including dental surgery) or postpartum pain.
+DrugId:  16
+1. Name:  Methylscopolamine bromide
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used to study binding characteristics of muscarinic cholinergic receptors. [PubChem]
+4. Indication:  Used as adjunctive therapy for the treatment of peptic ulcer. Also used to treat nausea and vomiting due to motion sickness.
+DrugId:  17
+1. Name:  Ramosetron
+2. Groups:  Approved, Investigational
+3. Description:  Ramosetron is a serotonin 5-HT3 receptor antagonist for the treatment of nausea and vomiting. It is believed to have higher potency and longer antiemetic action than other 1st generation 5-HT3 antagonists such as ondansetron. Ramosetron is also indicated for a treatment of “diarrhea-predominant irritable bowel syndrome in males”. It is only licensed for use in Japan and selected Southeast Asian countries.
+4. Indication:  For the treatment of nausea and vomiting and diarrhea-predominant irritable bowel syndrome in males.
+DrugId:  18
+1. Name:  Apraclonidine
+2. Groups:  Approved
+3. Description:  Apraclonidine, also known as iopidine, is a sympathomimetic used in glaucoma therapy. It is an alpha2-adrenergic agonist.
+4. Indication:  For prevention or reduction of intraoperative and postoperative increases in intraocular pressure (IOP) before and after ocular laser surgery when used prophylactically. Also used as a short-term adjunctive therapy in patients with open-angle glaucoma who are on maximally tolerated medical therapy requiring additional IOP reduction.
+DrugId:  19
+1. Name:  Fosaprepitant
+2. Groups:  Approved
+3. Description:  Fosaprepitant is an intravenously administered antiemetic drug. It is a prodrug of Aprepitant. It aids in the prevention of acute and delayed nausea and vomiting associated with chemotherapy treatment.
+4. Indication:  For the prevention of nausea and vomiting associated with highly emetogenic cancer chemotherapy.
+DrugId:  20
+1. Name:  Dezocine
+2. Groups:  Approved, Investigational
+3. Description:  Dezocine is a partial opiate drug and is used for pain management. Dezocine is a very effective alternative to fentanyl when administered during outpatient laparoscopy, although is associated with an increased incidence of postoperative nausea. 
+4. Indication:  Indicated in the treatment of moderate to severe pain.
+DrugId:  21
+1. Name:  Triflupromazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine used as an antipsychotic agent and as an antiemetic. [PubChem]
+4. Indication:  Used mainly in the management of psychoses. Also used to control nausea and vomiting.
+DrugId:  22
+1. Name:  Lerisetron
+2. Groups:  Investigational
+3. Description:  Lerisetron has been used in trials studying the supportive care of Nausea and Vomiting and Testicular Germ Cell Tumor.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Ipecacuanha
+2. Groups:  Approved, Experimental
+3. Description:  Ipecacuanha was first discovered in Brazil in the 1600s. It is derived from the plant Cephaelis ipecacuanha and is known to releases 5-hydroxytryptamin to induce nausea and vomiting. Although it is not currently used in clinical practice, ipecacuanha was used to treat flux (dysentery).
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Bromopride
+2. Groups:  Approved, Investigational
+3. Description:  Bromopride is a dopamine antagonist with prokinetic properties closely related to metoclopramide, and is widely used as an antiemetic. It is not available in the United States or the United Kingdom.
+4. Indication:  Bromopride in indicated in the treatment of nausea and vomiting, including PONV (post-operative nausea and vomiting), gastroesophageal reflux disease (GERD/GORD), as well as endoscopy preparation and radiographic studies of the GI tract. 
+DrugId:  25
+1. Name:  Guanidine
+2. Groups:  Approved
+3. Description:  A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC. [PubChem]
+4. Indication:  For the reduction of the symptoms of muscle weakness and easy fatigability associated with the myasthenic syndrome of Eaton-Lambert. It is not indicated for treating myasthenia gravis.

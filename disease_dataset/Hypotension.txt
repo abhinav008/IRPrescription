@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pipotiazine
+2. Groups:  Approved, Investigational
+3. Description:  Pipotiazine has actions similar to those of other phenothiazines. Among the different phenothiazine derivatives, it appears to be less sedating and to have a weak propensity for causing hypotension or potentiating the effects of CNS depressants and anesthetics. However, it produces a high incidence of extra pyramidal reactions. It is used for the maintenance treatment of chronic non-agitated schizophrenic patients. Symptoms of overdose include severe extrapyramidal manifestations, hypotension, lethargy and sedation.
+4. Indication:  For the maintenance treatment of chronic non-agitated schizophrenic patients.
+DrugId:  2
+1. Name:  Trimethaphan
+2. Groups:  Approved, Investigational
+3. Description:  A nicotinic antagonist that has been used as a ganglionic blocker in hypertension, as an adjunct to anesthesia, and to induce hypotension during surgery. [PubChem]
+4. Indication:  For the controlled reduction of blood pressure during surgery and in the treatment of hypertensive emergencies.
+DrugId:  3
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  4
+1. Name:  Metaraminol
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic agonist that acts predominantly at alpha adrenergic receptors and also stimulates the release of norepinephrine. It has been used primarily as a vasoconstrictor in the treatment of hypotension. [PubChem]
+4. Indication:  For the treatment and prevention of hypotension due to hemorrhage, spinal anesthesia, and shock associated with brain damage
+DrugId:  5
+1. Name:  Droxidopa
+2. Groups:  Approved, Investigational
+3. Description:  Droxidopa is a precursor of noradrenaline that is used in the treatment of Parkinsonism. It is approved for use in Japan and is currently in trials in the U.S. The racaemic form (dl-threo-3,4-dihydroxyphenylserine) has also been used, and has been investigated in the treatment of orthostatic hypotension. There is a deficit of noradrenaline as well as of dopamine in Parkinson's disease and it has been proposed that this underlies the sudden transient freezing seen usually in advanced disease.Though L-DOPS has been used in Japan and Southeast Asia already for some time, it is also currently in clinical trials at the phase III point in the United States (U.S.), Canada, Australia, and throughout Europe. Provided L-DOPS successfully completes clinical trials, it could be approved for the treatment of neurogenic orthostatic hypotension (NOH) as early as 2011. Additionally, phase II clinical trials for intradialytic hypotension are also underway. Chelsea Therapeutics obtained orphan drug status (ODS) for L-DOPS in the U.S. for NOH, and that of which associated with Parkinson's disease , pure autonomic failure, and multiple system atrophy, and is the pharmaceutical company developing it in that country.
+4. Indication:  For treatment of neurogenic orthostatic hypotension (NOH) associated with various disorders including Multiple System Atrophy, Familial Amyloid Polyneuropathy, hemodialysis induced hypotension and Parkinson's Disease. Also investigated for use/treatment in neurologic disorders, nephropathy, blood (blood forming organ disorders, unspecified), and dizzy/fainting spells.
+DrugId:  6
+1. Name:  Omapatrilat
+2. Groups:  Investigational
+3. Description:  Omapatrilat is an investigational drug that inhibits both neutral endopeptidase (NEP) and angiotensin converting enzyme (ACE). NEP inhibition results in elevated natriuretic peptide levels, promoting natriuresis, diuresis, vasodilation, and reductions in preload and ventricular remodeling. This drug from BMS was not approved by the FDA due to angioedema safety concerns.
+4. Indication:  For the treatment of hypertension.
+DrugId:  7
+1. Name:  Midodrine
+2. Groups:  Approved
+3. Description:  An ethanolamine derivative that is an adrenergic alpha agonist. It is used as a vasoconstrictor agent in the treatment of hypotension. [PubChem]
+4. Indication:  For the treatment of symptomatic orthostatic hypotension (OH).
+DrugId:  8
+1. Name:  Methoxamine
+2. Groups:  Approved, Investigational
+3. Description:  An alpha-adrenergic agonist that causes prolonged peripheral vasoconstriction. It has little if any direct effect on the central nervous system. [PubChem]
+4. Indication:  Indicated for the treatment and management of hypotension.
+DrugId:  9
+1. Name:  Glucarpidase
+2. Groups:  Approved, Investigational
+3. Description:  Glucarpidase is the recombinant form of the Pseudomonas sp. (strain RS-16) enzyme carboxypeptidase G2 that is produced in Escherichia coli. In patients, glucarpidase inactivates methotrexate, and other antifolates, by hydrolyzing glutamate on the carboxyl terminal of these compounds. Therefore since methotrexate is eliminated enzymatically and not by the kidneys, glucarpidase is indicated in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (>1 micromole per liter). Glucarpidase is marketed under the brand name Voraxaze®.
+4. Indication:  Used in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (> 1 micromole per liter).
+DrugId:  10
+1. Name:  N-omega-nitro-L-arginine methyl ester
+2. Groups:  Investigational
+3. Description:  L-NAME has been investigated for the treatment of Hypotension and Spinal Cord Injury.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Dopexamine
+2. Groups:  Approved, Investigational
+3. Description:  Dopexamine has been used in trials studying the diagnostic and treatment of Free Flap, Oral Cancer, Hypotension, Septic Shock, and Head and Neck Cancer.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  13
+1. Name:  Amodiaquine
+2. Groups:  Approved, Investigational
+3. Description:  A 4-aminoquinoquinoline compound with anti-inflammatory properties.
+4. Indication:  For treatment of acute malarial attacks in non-immune subjects.
+DrugId:  14
+1. Name:  Pentamidine
+2. Groups:  Approved, Investigational
+3. Description:  Antiprotozoal agent effective in trypanosomiasis, leishmaniasis, and some fungal infections; used in treatment of pneumocystis pneumonia in HIV-infected patients. It may cause diabetes mellitus, central nervous system damage, and other toxic effects. [PubChem]
+4. Indication:  For the treatment of pneumonia due to Pneumocystis carinii.
+DrugId:  15
+1. Name:  Disulfiram
+2. Groups:  Approved
+3. Description:  A carbamate derivative used as an alcohol deterrent. It is a relatively nontoxic substance when administered alone, but markedly alters the intermediary metabolism of alcohol. When alcohol is ingested after administration of disulfiram, blood acetaldehyde concentrations are increased, followed by flushing, systemic vasodilation, respiratory difficulties, nausea, hypotension, and other symptoms (acetaldehyde syndrome). It acts by inhibiting aldehyde dehydrogenase. [PubChem]
+4. Indication:  For the treatment and management of chronic alcoholism
+DrugId:  16
+1. Name:  Triprolidine
+2. Groups:  Approved
+3. Description:  First generation histamine H1 antagonist used in allergic rhinitis; asthma; and urticaria. It is a component of cough and cold medicines. It may cause drowsiness.
+4. Indication:  For the symptomatic relief of seasonal or perennial allergic rhinitis or nonallergic rhinitis; allergic conjunctivitis; and mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Also used in combination with other agents for the symptomatic relief of symptoms associated with the common cold.
+DrugId:  17
+1. Name:  Pentolinium
+2. Groups:  Approved
+3. Description:  A nicotinic antagonist that has been used as a ganglionic blocking agent in hypertension. [PubChem]
+4. Indication:  Used to produce controlled hypotension during surgical procedures and in hypertensive crises.
+DrugId:  18
+1. Name:  Betaxolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-1-adrenergic antagonist with no partial agonist activity.
+4. Indication:  For the management of hypertension.
+DrugId:  19
+1. Name:  Lofexidine
+2. Groups:  Approved, Investigational
+3. Description:  Lofexidine is an alpha2-adrenergic receptor agonist. It can be used as a short acting anti-hypertensive, but is mostly used to help relieve symptoms of heroin or opiate withdrawal in opiate dependency. It is approved in the United Kingdom, but is still undergoing clinical trials in the United States.
+4. Indication:  Investigated for use/treatment in addictions and substance abuse.
+DrugId:  20
+1. Name:  Nebivolol
+2. Groups:  Approved, Investigational
+3. Description:  Nebivolol is a highly cardioselective vasodilatory beta1 receptor blocker used in treatment of hypertension. In most countries, this medication is available only by prescription. [Wikipedia]
+4. Indication:  For the treatment of essential hypertension.
+DrugId:  21
+1. Name:  Empagliflozin
+2. Groups:  Approved
+3. Description:  Empagliflozin is a sodium glucose co-transporter-2 (SGLT-2) inhibitor indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes. SGLT2 co-transporters are responsible for reabsorption of glucose from the glomerular filtrate in the kidney. The glucuretic effect resulting from SGLT2 inhibition reduces renal absorption and lowers the renal threshold for glucose, therefore resulting in increased glucose excretion. Additionally, it contributes to reduced hyperglycaemia and also assists weight loss and blood pressure reduction.
+4. Indication:  Empagliflozin is indicated as an adjunct to diet and exercise to improve glycemic control in adult patients with type 2 diabetes.
+DrugId:  22
+1. Name:  Prochlorperazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine antipsychotic used principally in the treatment of nausea; vomiting; and vertigo. It is more likely than chlorpromazine to cause extrapyramidal disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p612)
+4. Indication:  For the symptomatic management of psychotic disorders, short term management of nonpsychotic anxiety in patients with generalized anxiety disorder, and for the control of severe nausea and vomiting of various causes.
+DrugId:  23
+1. Name:  Indecainide
+2. Groups:  Approved
+3. Description:  Indecainide is a rarely used antidysrhythmic. Indecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics.
+4. Indication:  For the treatment of life-threatening dysrhythmias and sustained ventricular tachycardia.
+DrugId:  24
+1. Name:  Dosulepin
+2. Groups:  Approved
+3. Description:  Dosulepin (INN, BAN) formerly known as dothiepin (USAN), is a tricyclic antidepressant with anxiolytic properties that is used in several European and South Asian countries, as well as Australia, South Africa, and New Zealand. It is not FDA-approved due to low therpeutic index and significant toxicity in overdose. Dosulepin inhibits the reuptake of biogenic amines, increasing available neurotransmitter levels at the synaptic cleft. The use of dosulepsin is only recommended in patients who are intolerant or unresponsive to alternative antidepressant therapies. Dosulepsin is a thio derivative of Amitriptyline with a similar efficacy to that of Amitriptyline, and also exhibits anticholinergic, antihistamine and central sedative properties [8].Its hydrochloride form is a common active ingredient in different drug formulations.
+4. Indication:  Indicated in the treatment of symptoms of depressive illness, especially where an anti-anxiety effect is required.
+DrugId:  25
+1. Name:  Enalaprilat
+2. Groups:  Approved
+3. Description:  Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume. Enalaprilat was originally created to overcome the limitations of the first ACE inhibitor, captopril, which had numerous side effects and left a metallic taste in the mouth. Removal of the problematic thiol group from captopril resulted in enalaprilat, which was then modified further with an ester to create the orally available pro-drug enalapril.Enalaprilat is poorly orally available and is therefore only available as an intravenous injection for the treatment of hypertension when oral therapy is not possible.
+4. Indication:  Enalaprilat injection is indicated for the treatment of hypertension when oral therapy is not practical.

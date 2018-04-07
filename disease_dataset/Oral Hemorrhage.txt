@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Cabozantinib
+2. Groups:  Approved, Investigational
+3. Description:  Cabozantinib was approved in 2012 and is a non-specific tyrosine kinase inhibitor. It is marketed as Cometriq, which is indicated for the treatment of metastatic medullary thyroid cancer. It's label includes a black box warning of gastrointestinal perforations, fistulas, and hemorrhage. The FDA approved cabozantinib as Cabometyx for patients with advanced renal cell carcinoma in April 2016.
+4. Indication:  For the treatment of metastatic medullary thyroid cancer and for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy.
+DrugId:  2
+1. Name:  Nimodipine
+2. Groups:  Approved, Investigational
+3. Description:  Nimodipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nimodipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Compared to other calcium channel blocking agents, nimodipine exhibits greater effects on cerebral circulation than on peripheral circulation. Nimodipine is used to as an adjunct to improve the neurologic outcome following subarachnoid hemorrhage from ruptured intracranial aneurysm.
+4. Indication:  For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.
+DrugId:  3
+1. Name:  Tranexamic Acid
+2. Groups:  Approved
+3. Description:  Antifibrinolytic hemostatic used in severe hemorrhage. [PubChem]
+4. Indication:  For use in patients with hemophilia for short term use (two to eight days) to reduce or prevent hemorrhage and reduce the need for replacement therapy during and following tooth extraction. It can also be used for excessive bleeding in menstruation, surgery, or trauma cases.
+DrugId:  4
+1. Name:  Metaraminol
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic agonist that acts predominantly at alpha adrenergic receptors and also stimulates the release of norepinephrine. It has been used primarily as a vasoconstrictor in the treatment of hypotension. [PubChem]
+4. Indication:  For the treatment and prevention of hypotension due to hemorrhage, spinal anesthesia, and shock associated with brain damage
+DrugId:  5
+1. Name:  Axitinib
+2. Groups:  Approved, Investigational
+3. Description:  Axitinib is an oral, potent, and selective inhibitor of vascular endothelial growth factor receptors (VEGFR) 1, 2, and 3. Axitinib is marketed under the name Inlyta®, and if one previous systemic therapy for kidney cell cancer has failed, axitinib is indicated.
+4. Indication:  Used in kidney cell cancer and investigated for use/treatment in pancreatic and thyroid cancer.
+DrugId:  6
+1. Name:  Dextran 40
+2. Groups:  Approved
+3. Description:  Dextran 40 is a sterile, nonpyrogenic preparation of low molecular weight dextran (average mol. wt. 40,000) in 5% Dextrose Injection or 0.9% Sodium Chloride Injection. It is administered by intravenous infusion.
+4. Indication:  Dextran 40 is indicated for use in the adjunctive treatment of shock or impending shock due to hemorrhage, burns, surgery or other trauma. Also, indicated for use as a priming fluid, either as a sole prime or as an additive, in pump oxygenators during extracorporeal circulation.Dextran 40 is also indicated for use in prophylaxis of venous thrombosis and pulmonary embolism in patients undergoing procedures known to be associated with a high incidence of thromboembolic complications, such as hip surgery.
+DrugId:  7
+1. Name:  MP4
+2. Groups:  Investigational
+3. Description:  MP4 is a hemoglobin-based oxygen carrier designed to serve as an alternative for blood transfusions. It is free of harmful vasoactivity and provides targeted oxygen delivery to tissues at risk of oxygen deprivation.
+4. Indication:  Investigated for use/treatment in hemorrhage and transfusion.
+DrugId:  8
+1. Name:  Dexibuprofen
+2. Groups:  Approved, Investigational
+3. Description:  Dexibuprofen, S(+)-ibuprofen, is a non-steroidal anti-inflammatory drug (NSAID). It is a pharmacologically effective enantiomer of racemic ibuprofen that differs in physicochemical properties. It is proposed to be more pharmacologically active and tolerable with a better safety profile than ibuprofen due to higher concentration of active S enantiomer. Dexibuprofen has a slower dissolution rate in the simulated gastric and enteric juices compared with the racemic ibuprofen [A19257] and displays improved oral bioavilability [4].*For Metabolism, Enzymes, Carriers, Transporters Sections, refer to Ibuprofen (DB01050)
+4. Indication:  Similar indications as ibuprofen; to be used as a symptomatic treatment for pain and inflammation in rheumatic disease such as osteoarthritis and rheumatoid arthritis, as well as other musculoskeletal disorders. It is also used to reduce oral postoperative pain and alleviate fever.
+DrugId:  9
+1. Name:  Iobenguane
+2. Groups:  Approved, Investigational
+3. Description:  Synthetic guanethidine derivative that locates phaeochromocytomas and neuroblastomas. The radioisotope used can either be iodine-123 for imaging or iodine-131 for destruction of tissues that metabolize noradrenaline. Iodine 123 is a cyclotron-produced radionuclide that decays to Te 123 by electron capture. Images are produced by a I123 MIBG scintigraphy. FDA approved on September 19, 2008.
+4. Indication:  Detection of primary and metastatic pheochromocytoma or neuroblastoma 
+DrugId:  10
+1. Name:  Methylergometrine
+2. Groups:  Approved
+3. Description:  A homolog of ergonovine containing one more CH2 group. (Merck Index, 11th ed)
+4. Indication:  For the prevention and control of excessive bleeding following vaginal childbirth
+DrugId:  11
+1. Name:  Clopidogrel
+2. Groups:  Approved
+3. Description:  Clopidogrel, an antiplatelet agent structurally and pharmacologically similar to ticlopidine, is used to inhibit blood clots in a variety of conditions such as peripheral vascular disease, coronary artery disease, and cerebrovascular disease. Clopidogrel is sold under the name Plavix by Sanofi and Bristol-Myers Squibb. The drug is an irreversible inhibitor of the P2Y12 adenosine diphosphate receptor found on the membranes of platelet cells. Clopidogrel use is associated with several serious adverse drug reactions such as severe neutropenia, various forms of hemorrhage, and cardiovascular edema.
+4. Indication:  For the reduction of atherosclerotic events (myocardial infarction, stroke, and vascular death) in patients with atherosclerosis documented by recent stroke, recent myocardial infarction, or established peripheral arterial disease.
+DrugId:  12
+1. Name:  Dextran
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Dextran is a polysaccharide that differs from others in that its glucose units are joined together 1:6 glucoside links. The main chain of glucose has short branches at frequent intervals which are probably joined by 1:3 and 1:4 glucoside links. The chains can be composed of about 200,000 glucose units.[1] Many bacteria, like Leuconostoc, can synthesize dextran from sucrose, and this activity is used commercially to obtain dextran.[4]
+4. Indication:  Dextran is used as the restoration of blood mass during surgical interventions if there is hypovolemia due to trauma or dehydration. It is as well used after the presence of hemorrhage in cases of blood loss to a level inferior to 15% of the blood mass, if compatibility test cannot be completed or when blood lots need to be tested for pathogen detection. Dextran is also used for the prevention of profound postoperative venous thrombosis.[5]Dextran as well presents ophthalmic applications as solutions or ointments for the temporary relief of xerophthalmia or minor ocular irritations.[6]
+DrugId:  13
+1. Name:  Triflusal
+2. Groups:  Approved, Investigational
+3. Description:  Triflusal is a 2-acetoxy-4-trifluoromethylbenzoic acid and it is an aspirin chemically-related molecule but not a derivative. The benefits of this agent are the lack of action over the arachidonic acid pathway, the driven production of nitric oxide and the increase of cyclic nucleotide concentration on endothelial cells. The latest translates into the expansion of peripheral blood vessels.[11] It is very important as a secondary prevention of ischemic stroke by offering a lower risk of bleeding.[12] It was developed by J. Uriach and Company and even though it is commercialized in different countries it is not approved by the FDA, EMA or HealthCanada.
+4. Indication:  Triflusal is indicated as prophylaxis of thromboembolic disorders.[15] It has been registered in Spain and in other countries of Europe, South America and South Korea for the prevention of Stroke and myocardial infarction.[14]
+DrugId:  14
+1. Name:  Edoxaban
+2. Groups:  Approved
+3. Description:  Edoxaban is a member of the Novel Oral Anti-Coagulants (NOACs) class of drugs, and is a rapidly acting, oral, selective factor Xa inhibitor. By inhibiting factor Xa, a key protein in the coagulation cascade, edoxaban prevents the stepwise amplification of protein factors needed to form blood clots. It is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF) and for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant. Traditionally, warfarin, a vitamin K antagonist, was used for stroke prevention in these individuals but effective use of this drug is limited by it's delayed onset, narrow therapeutic window, need for regular monitoring and INR testing, and numerous drug-drug and drug-food interactions. This has prompted enthusiasm for newer agents such as dabigatran, apixaban, and rivaroxaban for effective clot prevention. In addition to once daily dosing, the benefits over warfarin also include significant reductions in hemorrhagic stroke and GI bleeding, and improved compliance, which is beneficial as many patients will be on lifelong therapy. 
+4. Indication:  Edoxaban is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF). However, it should not be used in patients with creatinine clearance (CrCL) > 95 mL/min because of increased risk of ischemic stroke compared to warfarin at the highest dose studied (60 mg). It is also indicated for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant.
+DrugId:  15
+1. Name:  Melphalan
+2. Groups:  Approved
+3. Description:  An alkylating nitrogen mustard that is used as an antineoplastic in the form of the levo isomer - melphalan, the racemic mixture - merphalan, and the dextro isomer - medphalan; toxic to bone marrow, but little vesicant action; potential carcinogen. [PubChem]
+4. Indication:  For the palliative treatment of multiple myeloma and for the palliation of non-resectable epithelial carcinoma of the ovary. Has also been used alone or as part of various chemotherapeutic regimens as an adjunct to surgery in the treatment of breast cancer, alone or in combination regimens for palliative treatment of locally recurrent or unresectable in-transit metastatic melanoma of the extremities, as well as for the treatment of amyloidosis with prednisone.
+DrugId:  16
+1. Name:  Dinoprostone
+2. Groups:  Approved
+3. Description:  Dinoprostone is a naturally occurring prostaglandin E2 (PGE2). It has important effects in labour. It also stimulates osteoblasts to release factors which stimualtes bone resorption by osteoclasts. As a prescription drug it is used as a vaginal suppository, to prepare the cervix for labour and to induce labour.
+4. Indication:  For the termination of pregnancy during the second trimester (from the 12th through the 20th gestational week as calculated from the first day of the last normal menstrual period), as well as for evacuation of the uterine contents in the management of missed abortion or intrauterine fetal death up to 28 weeks of gestational age as calculated from the first day of the last normal menstrual period. Also used in the management of nonmetastatic gestational trophoblastic disease (benign hydatidiform mole). Other indications include improving the cervical inducibility (cervical "ripening") in pregnant women at or near term with a medical or obstetrical need for labor induction, and the management of postpartum hemorrhage.
+DrugId:  17
+1. Name:  Rivaroxaban
+2. Groups:  Approved
+3. Description:  Rivaroxaban is an anticoagulant and the first orally active direct factor Xa inhibitor. Unlike warfarin, routine lab monitoring of INR is not necessary. However there is no antidote available in the event of a major bleed. Only the 10 mg tablet can be taken without regard to food. The 15 mg and 20 mg tablet should be taken with food. FDA approved on July 1, 2011.
+4. Indication:  Rivaroxaban is indicated for the prevention of venous thromboembolic events (VTE) in patients who have undergone total hips replacements and total knee replacement surgery; prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation; treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE); to reduce risk of recurrent DVT and/or PE. Due to a lack of safety studies, it is not recommended for use in those under 18 years old. Its use is also not recommended in those with severe renal impairment (<30mL/min).
+DrugId:  18
+1. Name:  Perflubron
+2. Groups:  Investigational
+3. Description:  Perflubron (Oxygent) is being developed as an intravascular oxygen carrier designed to augment oxygen delivery in surgical patients.
+4. Indication:  Investigated for use/treatment in cardiac surgery, hemorrhage, and ileus.
+DrugId:  19
+1. Name:  Nicaraven
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cerebrovascular disease (unspecified).
+DrugId:  20
+1. Name:  Misoprostol
+2. Groups:  Approved
+3. Description:  A synthetic analog of natural prostaglandin E1. It produces a dose-related inhibition of gastric acid and pepsin secretion, and enhances mucosal resistance to injury. It is an effective anti-ulcer agent and also has oxytocic properties.
+4. Indication:  Indicated for the treatment of ulceration (duodenal, gastric and NSAID induced) and prophylaxis for NSAID induced ulceration.Misoprostol is also indicated for other uses that are not approved in Canada, including the medical termination of an intrauterine pregnancy used alone or in combination with methotrexate,as well as the induction of labour in a selected population of pregnant women with unfavourable cervices. This indication is avoided in women with prior uterine surgery or cesarean surgery due to an increased risk of possible uterine rupture. Misoprostol is also used for the prevention or treatment of serious postpartum hemorrhage.
+DrugId:  21
+1. Name:  Vorapaxar
+2. Groups:  Approved
+3. Description:  Vorapaxar is a tricyclic himbacine-derived selective inhibitor of protease activated receptor (PAR-1) indicated for reducing the incidence of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or with peripheral arterial disease (PAD). By inhibiting PAR-1, a thrombin receptor expressed on platelets, vorapaxar prevents thrombin-related platelet aggregation.
+4. Indication:  Vorapaxar is indicated for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or peripheral arterial disease (PAD). It is usually co-administered with acetylsalicylic acid (ASA) and/or clopidogrel, and should therefore be administered as an addition to these medications as it has not been studied alone. 
+DrugId:  22
+1. Name:  Moxisylyte
+2. Groups:  Approved, Investigational
+3. Description:  Moxisylyte, denominated as thymoxamine in the UK, is a specific and orally active α1-adrenergic antagonist.[10] According to the WHO, moxisylyte is approved since 1987[9] and in the same year, it acquired the denomination of orphan product by the FDA.[11] This drug was developed by the Japanese company Fujirebio and also by the American company Iolab in the late 80s.
+4. Indication:  By the WHO, moxisylyte is indicated for the symptomatic management of sequelae of cerebral infarction or hemorrhage.[9] The cerebral infarction is characterized by the blockage of the artery either by the formation of a thrombus or an embolus.[3] On the other hand, the FDA classified moxisylyte for the reversal of phenylephrine-induced mydriasis in patients who have narrow anterior angles and are at risk of developing an acute attack of angle-closure glaucoma.[11] Closed-angle glaucoma is caused by the contact between the iris and the trabecular meshwork. This contact will damage the aqueous outflow by the meshwork thus, increasing eye pressure and producing the symptoms of glaucoma.[4] Mydriasis is referred to the dilatation of the pupils and this standard body function is known to be a trigger factor for the development of acute closed-angle glaucoma.This risk is explained by the generation of a pupillary block, which is the contact between the pupillary margins and the lens, thus preventing flow from the aqueous humor to the anterior chamber and followed by an increased pressure gradient.[12] Moxisylyte is also approved in France as the first drug for the treatment of impotence.[5]
+DrugId:  23
+1. Name:  Ticlopidine
+2. Groups:  Approved
+3. Description:  Ticlopidine is an effective inhibitor of platelet aggregation. It is a prodrug that is metabolised to an active form, which blocks the ADP receptor that is involved in GPIIb/IIIa receptor activation leading to platelet aggregation. Ticlopidine is marketed under the brand name Ticlid and is indicated for patients who cannot take aspirin or in whom aspirin has not worked to prevent a thrombotic stroke. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.
+4. Indication:  Used in patients, who have had a stroke or stroke precursors and who cannot take aspirin or aspirin has not worked, to try to prevent another thrombotic stroke.
+DrugId:  24
+1. Name:  VIT-100
+2. Groups:  Investigational
+3. Description:  VIT-100 was developed by ItherX Pharmaceuticals of San Diego. In preclinical studies, companyl has shown that VIT-100 inhibits the growth of cells taken from multiple keloid biopsies as compared to the same keloidal cells treated with a control. It is believed that similar effects would be seen in cells isolated from hypertrophic scars.
+4. Indication:  Investigated for use/treatment in diabetic retinopathy, scar tissue, and vitreous hemorrhage.
+DrugId:  25
+1. Name:  AZX-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in scar tissue.

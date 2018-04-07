@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Terfenadine
+2. Groups:  Approved, Withdrawn
+3. Description:  In the U.S., Terfenadine was superseded by fexofenadine in the 1990s due to the risk of cardiac arrhythmia caused by QT interval prolongation.
+4. Indication:  For the treatment of allergic rhinitis, hay fever, and allergic skin disorders.
+DrugId:  2
+1. Name:  Corticorelin acetate
+2. Groups:  Investigational
+3. Description:  Corticorelin acetate has been investigated for the treatment of Brain Edema and Brain Tumor.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.
+DrugId:  4
+1. Name:  Fludrocortisone
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic mineralocorticoid with anti-inflammatory activity. [PubChem]
+4. Indication:  For partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenogenital syndrome.
+DrugId:  5
+1. Name:  Amantadine
+2. Groups:  Approved
+3. Description:  An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the chemoprophylaxis, prophylaxis, and treatment of signs and symptoms of infection caused by various strains of influenza A virus. Also for the treatment of parkinsonism and drug-induced extrapyramidal reactions.
+DrugId:  6
+1. Name:  Abicipar Pegol
+2. Groups:  Investigational
+3. Description:  Abicipar Pegol has been used in trials studying the treatment of Macular Edema and Macular Degeneration.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Mersalyl
+2. Groups:  Approved
+3. Description:  Mersalyl is the sodium salt form of mersalyl acid, a mercurial diuretic. It is an outdated drug, and its approval has been discontinued by the FDA. Mersalyl acid is currently replaced by less toxic non-mercury containing diuretics [4, 6]. The sodium salt of a mercury-containing derivative of salicylamide, was formerly used (often in combination with theophylline) to treat edema, due to its powerful diuretic properties [6]. Interestingly, it has been found to have antiviral properties in mice [13].
+4. Indication:  Elevated blood pressure, edema [6, 14].
+DrugId:  8
+1. Name:  Cyclothiazide
+2. Groups:  Approved
+3. Description:  As a diuretic, cyclothiazide inhibits active chloride reabsorption at the early distal tubule via the Na-Cl cotransporter, resulting in an increase in the excretion of sodium, chloride, and water. Thiazides like cyclothiazide also inhibit sodium ion transport across the renal tubular epithelium through binding to the thiazide sensitive sodium-chloride transporter. This results in an increase in potassium excretion via the sodium-potassium exchange mechanism. The antihypertensive mechanism of cyclothiazide is less well understood although it may be mediated through its action on carbonic anhydrases in the smooth muscle or through its action on the large-conductance calcium-activated potassium (KCa) channel, also found in the smooth muscle. Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+4. Indication:  Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  9
+1. Name:  Methohexital
+2. Groups:  Approved
+3. Description:  An intravenous anesthetic with a short duration of action that may be used for induction of anesthesia. [PubChem]
+4. Indication:  Methohexital is indicated for use as an intravenous anaesthetic. It has also been commonly used to induce deep sedation.
+DrugId:  10
+1. Name:  Pindolol
+2. Groups:  Approved, Investigational
+3. Description:  A moderately lipophilic beta blocker (adrenergic beta-antagonists). It is non-cardioselective and has intrinsic sympathomimetic actions, but little membrane-stabilizing activity. (From Martindale, The Extra Pharmocopoeia, 30th ed, p638)
+4. Indication:  For the management of hypertension, edema, ventricular tachycardias, and atrial fibrillation.
+DrugId:  11
+1. Name:  Desoxycorticosterone Pivalate
+2. Groups:  Experimental, Vet approved
+3. Description:  Desoxycorticosterone Pivalate is a mineralocorticoid hormone and an analog of desoxycorticosterone. It is white, odorless, and stable in air. It is practically insoluble in water, sparingly soluble in acetone, slightly soluble in methanol, ether and vegetable oils. Federal (U.S.A.) law restricts this drug to use by or on the order of a licensed veterinarian.
+4. Indication:  Examined for treatment of adrenocortical insufficiency especially in multiple sclerosis, congenital cerebral palsy, polyarteritis nodosa, and rheumatoid arthritis. Currently only approved in treating cats and dogs for the treatment of Addison's disease.
+DrugId:  12
+1. Name:  Levomethadyl Acetate
+2. Groups:  Approved, Investigational
+3. Description:  A narcotic analgesic with a long onset and duration of action. It is used mainly in the treatment of narcotic dependence. [PubChem]
+4. Indication:  For the treatment and management of opiate dependence. It is sometimes used to treat severe pain in terminal patients.
+DrugId:  13
+1. Name:  Torasemide
+2. Groups:  Approved
+3. Description:  Torasemide (rINN) or torsemide (USAN) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. It is also used at low doses for the management of hypertension. It is marketed under the brand name Demadex. [Wikipedia]
+4. Indication:  For the treatment of edema associated with congestive heart failure, renal disease, or hepatic disease. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  14
+1. Name:  Lenvatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFRα), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers.Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.
+4. Indication:  Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer.
+DrugId:  15
+1. Name:  Efonidipine
+2. Groups:  Approved, Investigational
+3. Description:  Efonidipine (INN) is a dihydropyridine calcium channel blocker marketed by Shionogi & Co. of Japan. It was launched in 1995, under the brand name Landel. The drug blocks both T-type and L-type calcium channels [1, 2]. It has also been studied in atherosclerosis and acute renal failure [2]. This drug is also known as NZ-105, and several studies have been done on its pharmacokinetics in animals [13].
+4. Indication:  For the treatment of hypertension.
+DrugId:  16
+1. Name:  Iopromide
+2. Groups:  Approved
+3. Description:  Iopromide is a low osmolar, non-ionic X-ray contrast agent for intravascular administration. It functions as a contrast agent by opacifying blood vessels in the path of flow of the contrast agent, permitting radiographic visualization of the internal structures until significant hemodilution occurs.Available as the FDA-approved product Ultravist, iopromide is used in radiographic studies such as intra-arterial digital subtraction angiography (IA-DSA), cerebral and peripheral arteriography, peripheral venography, excretory urography, brain computer tomography (CT), coronary arteriography, left ventriculography, visceral angiography, and aortography. 
+4. Indication:  Iopromide, as the product Iovist, is indicated for use as an X-ray contrast agent in the following procedures:Intra-arterial digital subtraction angiography (IA-DSA) (150 mg I/mL)Cerebral arteriography and peripheral arteriography (300 mg I/mL)Coronary arteriography and left ventriculography, visceral angiography and aortography (370 mg I/mL)Peripheral venography (240 mg I/mL)Excretory urography (300 mg I/mL)Contrast computed tomography (CT) imaging of head and body (300 mg I/mL and 370 mg I/mL) 
+DrugId:  17
+1. Name:  Nortriptyline
+2. Groups:  Approved
+3. Description:  Nortriptyline hydrochloride, the N-demethylated active metabolite of amitriptyline, is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, nortriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, nortriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Secondary amine TCAs, such as nortriptyline, are more potent inhibitors of norepinephrine reuptake than tertiary amine TCAs, such as amitriptyline. TCAs also down-regulate cerebral cortical β-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H1 receptors, α1-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. Compared to other TCAs, nortriptyline is less toxic and displays less drug interactions [6]. As a more selective noadrenaline reuptake inhibitor, nortriptyline is less likely associated with the hypertensive ‘cheese reaction' [6]. Nortriptyline exerts less anticholinergic and sedative side effects compared to the tertiary amine TCAs, amitriptyline and clomipramine. Apart from its indication to treat depression, nortriptyline has been investigated in chronic neuropathic pain (unlabeled use), fibromyalgia [4], irritable bowel syndrome (unlabeled use), diabetic neuropathy (unlabeled use) [5], post-traumatic stress disorder (unlabeled use), and migraine prophylaxis (unlabeled use).
+4. Indication:  Primarily indicated for the relief of symptoms of depression.
+DrugId:  18
+1. Name:  Atenolol
+2. Groups:  Approved
+3. Description:  A cardioselective beta-adrenergic blocker possessing properties and potency similar to propranolol, but without a negative inotropic effect.
+4. Indication:  For the management of hypertention and long-term management of patients with angina pectoris
+DrugId:  19
+1. Name:  Chlorothiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p812)
+4. Indication:  Chlorothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  20
+1. Name:  Ioversol
+2. Groups:  Approved
+3. Description:  Ioversol is an organoiodine compound used as a diagnostic contrast medium. It features both a high iodine content, as well as several hydrophilic groups.
+4. Indication:  Optiray 350 is indicated in adults for peripheral and coronary arteriography and left ventriculography. Optiray 350 is also indicated for contrast enhanced computed tomographic imaging of the head and body, intravenous excretory urography, intravenous digital subtraction angiography and venography. Optiray 350 is indicated in children for angiocardiography.Optiray 320 is indicated in adults for angiography throughout the cardiovascular system. The uses include cerebral, coronary, peripheral, visceral and renal arteriography, venography, aortography, and left ventriculography. Optiray 320 is also indicated for contrast enhanced computed tomographic imaging of the head and body, and intravenous excretory urography.Optiray 320 is indicated in children for angiocardiography, contrast enhanced computed tomographic imaging of the head and body, and intravenous excretory urography.Optiray 300 is indicated for cerebral angiography and peripheral arteriography. Optiray 300 is also indicated for contrast enhanced computed tomographic imaging of the head and body, venography, and intravenous excretory urography.Optiray 240 is indicated for cerebral angiography and venography. Optiray 240 is also indicated for contrast enhanced computed tomographic imaging of the head and body and intravenous excretory urography.
+DrugId:  21
+1. Name:  Propatyl nitrate
+2. Groups:  Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Desmopressin
+2. Groups:  Approved
+3. Description:  Desmopressin (dDAVP), a synthetic analogue of 8-arginine vasopressin (ADH), is an antidiuretic peptide drug modified by deamination of 1-cysteine and substitution of 8-L-arginine by 8-D-arginine. ADH is an endogenous pituitary hormone that has a crucial role in the control of the water content in the body. Upon release from the stimulation of increased plasma osmolarity or decreased circulating blood volume, ADH mainly acts on the cells of the distal part of the nephron and the collecting tubules in the kidney [6]. The hormone interacts with V1, V2 or V3 receptors with differing signal cascade systems.Desmopressin displays enhanced antidiuretic potency, fewer pressor effects due to V2-selective actions, and a prolonged half-life and duration of action compared to endogenous ADH [2]. It has been employed clinically since 1972 and is available in various formulations including intranasal solution, intravenous solution, oral tablet and oral lyophilisate [3]. Desmopressin is indicated for the treatment of polyuric conditions including primary nocturnal enuresis, nocturia, and diabetes insipidus. It was also newly approved for the treatment of mild classical hemophilia and von Willebrand's disease for minor surgeries. The active ingredient in most formulations is desmopressin acetate.
+4. Indication:  Indicated for the treatment of nocturia due to nocturnal polyuria in adults who awaken at least 2 times per night to void (intranasal). Indicated as antidiuretic replacement therapy in the management of central cranial diabetes insipidus and for management of the temporary polyuria and polydipsia following head trauma or surgery in the pituitary region (intranasal/parenteral).Indicated for patients with hemophilia A with factor VIII coagulant activity levels greater than 5% or mild to moderate classic von Willebrand's Disease (Type I) with factor VIII levels greater than 5% during surgical procedures and postoperatively to maintain hemostasis (parenteral).
+DrugId:  23
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  24
+1. Name:  Cinalukast
+2. Groups:  Approved
+3. Description:  Used in the treatment of asthma, cinalukast selectively antagonizes leukotriene D4 (LTD4) at the cysteinyl leukotriene receptor, CysLT1, in the human airway. Cinalukast inhibits the actions of LTD4 at the CysLT1 receptor, preventing airway edema, smooth muscle contraction, and enhanced secretion of thick, viscous mucus.
+4. Indication:  For Protection against second- phase inflamation in exercise-induced bronchoconstriction and Asthma.
+DrugId:  25
+1. Name:  C1-INH
+2. Groups:  Investigational
+3. Description:  C1-INH is human pasteurized C1-inhibitor concentrate to treat patients with hereditary angioedema (HAE), a rare genetic disorder that can lead to painful and sometimes life-threatening attacks of edema (swelling) of the face, airway, abdomen, and extremities.
+4. Indication:  Investigated for use/treatment in angioedema.

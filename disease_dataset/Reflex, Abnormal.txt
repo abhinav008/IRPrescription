@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Trandolapril
+2. Groups:  Approved
+3. Description:  Trandolapril is a non-sulhydryl prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to its biologically active diacid form, trandolaprilat, in the liver. Trandolaprilat inhibits ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Trandolapril may be used to treat mild to moderate hypertension, to improve survival following myocardial infarction in clinically stable patients with left ventricular dysfunction, as an adjunct treatment for congestive heart failure, and to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy. 
+4. Indication:  For the treatment of mild to moderate hypertension, as an adjunct in the treatment of congestive heart failure (CHF), to improve survival following myocardial infarction (MI) in individuals who are hemodynamically stable and demonstrate symptoms of left ventricular systolic dysfunction or signs of CHF within a few days following acute MI, and to slow progression of renal disease in hypertensive patients with diabetes mellitus and microalbuminuria or overt nephropathy. 
+DrugId:  2
+1. Name:  AdPEDF
+2. Groups:  Investigational
+3. Description:  AdPEDF is under development for the treatment of wet age-related macular degeneration (AMD). It has been shown to rapidly elevate the intraocular AdPEDF protein levels in the eye, inhibit abnormal blood vessel growth, and cause abnormal blood vessels to regress while protecting the eye’s photoreceptors.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  3
+1. Name:  Sifalimumab
+2. Groups:  Investigational
+3. Description:  Sifalimumab is a fully human monoclonal antibody targeting interferon-alpha. The levels of interferon-alpha are elevated in many patients with active systemic lupus erythematosus (SLE, or lupus) and other autoimmune disorders, and may be associated with disease activity. Sifalimumab may suppress the abnormal immune activity associated with lupus by binding to multiple interferon-alpha subtypes seen in the serum of lupus patients.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  5
+1. Name:  Gadoteridol
+2. Groups:  Approved, Investigational
+3. Description:  Gadoteridol provides contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies. n MRI, visualization of normal and pathological brain tissue depends in part on variations in the radiofrequency signal intensity that occur with changes in proton density, alteration of the T1, and variation in T2. When placed in a magnetic field, gadoteridol shortens the T1 relaxation time in tissues where it accumulates. Abnormal vascularity or disruption of the blood-brain barrier allows accumulation of gadoteridol in lesions such as neoplasms, abscesses, and subacute infarcts.
+4. Indication:  Gadoteridol is an MRI contrast agent used for contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies.
+DrugId:  6
+1. Name:  Ajmaline
+2. Groups:  Approved, Investigational
+3. Description:  An alkaloid found in the root of Rauwolfia serpentina, among other plant sources. It is a class Ia antiarrhythmic agent that apparently acts by changing the shape and threshold of cardiac action potentials. Ajmaline produces potent sodium channel blocking effects and a very short half-life which makes it a very useful drug for acute intravenous treatments. The drug has been very popular in some countries for the treatment of atrial fibrillation in patients with the Wolff–Parkinson–White syndrome and in well tolerated monomorphic ventricular tachycardias. It has also been used for many years as a drug to challenge the conduction system of the heart in cases of bundle branch block and syncope. In these cases, abnormal prolongation of the HV interval has been taken as a proof for infrahisian conduction defects tributary for permanent pacemaker implantation.
+4. Indication:  For use as an antiarrhythmic agent.
+DrugId:  7
+1. Name:  CYC116
+2. Groups:  Investigational
+3. Description:  CYC116 is a novel anticancer compound with a unique target profile involving both cell cycle and angiogenesis inhibition mechanisms. In preclinical studies, CYC116 has demonstrated antitumor activity in both solid tumors and hematological cancers.Cyclacel's small molecule investigational drug, CYC116, is the third orally-available Cyclacel drug to enter development, which demonstrated anticancer activity with a mechanism consistent with inhibition of Aurora kinase.
+4. Indication:  Advanced solid tumors
+DrugId:  8
+1. Name:  Verteporfin
+2. Groups:  Approved, Investigational
+3. Description:  Verteporfin, otherwise known as benzoporphyrin derivative (trade name Visudyne®), is a medication used as a photosensitizer for photodynamic therapy to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.
+4. Indication:  For the treatment of patients with predominantly classic subfoveal choroidal neovascularization due to age-related macular degeneration, pathologic myopia or presumed ocular histoplasmosis syndrome. Verteporfin can also be used to destroy tumors.
+DrugId:  9
+1. Name:  MPI-674
+2. Groups:  Investigational
+3. Description:  MPI-674 is an aromatase inhibitor (AI) with a well-established, multi-year chronic safety and tolerability profile. AIs are a class of drugs that reduce the amount of estrogen circulating in the body by binding to and inhibiting the enzyme aromatase, which is responsible for converting certain hormones to estrogen. It is developed for the treatment of several serious women’s health conditions including endometrial thinning prior to endometrial ablations in premenopausal women with abnormal uterine bleeding (AUB).
+4. Indication:  Investigated for use/treatment in menstrual disorders.
+DrugId:  10
+1. Name:  Benzonatate
+2. Groups:  Approved
+3. Description:  Benzonatate is a non-narcotic oral antitussive (cough suppressant) drug which works by anesthetizing the tissues of the lungs and pleura responsible for the cough reflex. It is chemically related to other ester anesthetics such as procaine. It has an anesthetic (numbing) action similar to that of benzocaine and "numbs" the stretch sensors in the lungs. It is the stretching of these sensors with breathing that causes the cough. It was approved by the FDA in 1958.
+4. Indication:  For the symptomatic relief of cough. Has also been applied locally in the oral cavity in adults by releasing the drug from the liquid-filled capsules to provide oropharyngeal anesthesia for conscious intubation.
+DrugId:  11
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  12
+1. Name:  Gadoteric acid
+2. Groups:  Approved
+3. Description:  Gadoteric acid is a macrocycle-structured gadolinium-based MRI contrast agent. It is composed of the organic acid DOTA (1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid) used for its chelating properties, and gadolinium (Gd3+). As a paramagnetic molecule, gadoterate develops a magnetic moment when placed in a magnetic field. This magnetic moment enhances the relaxation rates of water protons in its vicinity, leading to an increase in signal intensity (brightness) of tissues. More specifically, it reduces the T1 relaxation time (and to some extent the T2 and T2* relaxation times) in NMR, which is the source of its clinical utility. Increased signal brightness allows it to be used in imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become 'leaky'. Gadoteric acid, as the FDA approved product Dotarem, is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+4. Indication:  Gadoteric acid is indicated for intravenous use with magnetic resonance imaging (MRI) in brain (intracranial), spine and associated tissues in adult and pediatric patients (2 years of age and older) to detect and visualize areas with disruption of the blood brain barrier (BBB) and/or abnormal vascularity.
+DrugId:  13
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  14
+1. Name:  Eperisone
+2. Groups:  Approved, Investigational
+3. Description:  Eperisone is an antispasmodic drug which relaxes both skeletal muscles and vascular smooth muscles, and demonstrates a variety of effects such as reduction of myotonia, improvement of circulation, and suppression of the pain reflex. It is not approved for use in the United States, but is available in other countries like India, South Korea, and Bangladesh.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  KW-7158
+2. Groups:  Investigational
+3. Description:  KW-7158 is a tricyclic compound with a non-cholingergic mechanism of action for the treatment of "urinary urgency," "frequent urination" and "urinary incontinence" associated with bladder overactivity (involuntary abnormal contraction of the bladder). The therapeutic effects of KW-7158 in overactive bladder may be due to the activation of A-type K(+) channels which regulate afferent neuron excitability and firing properties in the dorsal root ganglion neurons.
+4. Indication:  Investigated for use/treatment in urinary incontinence.
+DrugId:  16
+1. Name:  Ruxolitinib
+2. Groups:  Approved
+3. Description:  Ruxolitinib is a janus-associated kinase inhibitor indicated to treat bone marrow cancer, specifically intermediate or high-risk myelofibrosis. FDA approved on November 16, 2011. 
+4. Indication:  Treatment of intermediate or high-risk myelofibrosis, including primary myelofibrosis, post-polycythemia vera (post-PV) myelofibrosis and post-essential thrombocythemia (post-ET) myelofibrosis. [Lexicomp] Myeolofibrosis is the proliferation of abnormal bone marrow stem cells which cause fibrosis (the excessive formation of connective tissue).
+DrugId:  17
+1. Name:  Amibegron
+2. Groups:  Investigational
+3. Description:  Amibegron is an agonist for atypical beta3-adrenoceptors which inhibits intestinal motility.
+4. Indication:  Investigated for use/treatment in depression, irritable bowel syndrome (IBS), and obesity.
+DrugId:  18
+1. Name:  Propericiazine
+2. Groups:  Approved, Investigational
+3. Description:  Propericiazine is a phenothiazine of the piperidine group. It has been shown to reduce pathologic arousal and affective tension in some psychotic patients, while the symptoms of abnormal mental integration are relatively unaffected. It is a sedative phenothiazine with weak antipsychotic properties. It also has adrenolytic, anticholinergic, metabolic and endocrine effects and an action on the extrapyramidal system. It is used as an adjunctive medication in some psychotic patients, for the control of residual prevailing hostility, impulsiveness and aggressiveness. Pericyazine, like other phenothiazines, is presumed to act principally in the subcortical areas, by producing what has been described as a central adrenergic blockade. 
+4. Indication:  For use as adjunctive medication in some psychotic patients. Propericiazine (Pericyazine)is used for the control of residual prevailing hostility, impulsiveness and aggressiveness. 
+DrugId:  19
+1. Name:  Amolimogene
+2. Groups:  Investigational
+3. Description:  Amolimogene is an investigational therapeutic designed to specifically augment the body's defensive response to human papillomavirus (HPV). Amolimogene was biologically engineered as a targeted therapy for the treatment of cervical dysplasia.
+4. Indication:  Intended for the treatment of cervical dysplasia associated with the human papillomavirus (HPV).
+DrugId:  20
+1. Name:  Bevasiranib
+2. Groups:  Investigational
+3. Description:  Bevasiranib is a small interfering RNA (siRNA) targeting vascular endothelial growth factor A (VEGF-A).
+4. Indication:  Investigated for use/treatment in macular degeneration and diabetic retinopathy.
+DrugId:  21
+1. Name:  Benzbromarone
+2. Groups:  Investigational, Withdrawn
+3. Description:  Benzbromarone has been used in trials studying the basic science and treatment of Heart Failure, Hyperuricemia, Chronic Kidney Disease, Abnormal Renal Function, and Gout and Asymptomatic Hyperuricemia.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  AV608
+2. Groups:  Investigational
+3. Description:  AV608 is a NK-1 antagonist. It is developed for the treatment of Social anxiety disorder (SAD), irritable bowel syndrome (IBS) and overactive bladder (OAB).
+4. Indication:  Investigated for use/treatment in anxiety disorders, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  23
+1. Name:  Captodiame
+2. Groups:  Approved, Investigational
+3. Description:  Captodiame, also known as captodiamine, is an antihistamine which is used as a sedative and anxiolytic. It is a derivative of diphenhydramine. Captodiame has been suggested for use in preventing benzodiazepine withdrawal syndrome.
+4. Indication:  Captodiame is indicated for the treatment of anxiety. 
+DrugId:  24
+1. Name:  Mangafodipir
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Mangafodipir is a contrast agent used as a diagnostic tool administered intravenously to enhance contrast in magnetic resonance imaging (MRI) of the liver and pancreas. It consists of two parts, the paramagnetic manganese (II) ions and the chelating agent fodipir (dipyridoxyl diphosphate, DPDP). Manganese absorption into the tissues that makes the normal tissue appear brighter in MRI is limited in abnormal or cancerous tissue. Enhanced contrast by mangafodipir improves visualization and detection of lesions of the liver formed from metastatic disease or hepatocellular carcinomas. The contrast agent is present as mangafodipir trisodium marketed under the name Teslascan. Teslascan has been removed from the Drug Product List by FDA in 2003, and withdrawn from the European market in 2012.
+4. Indication:  Indicated for use as an organ-specific paramagnetic contrast agent developed for imaging of the hepatobiliary system and detecting lesions in liver and pancreas.
+DrugId:  25
+1. Name:  Trimethadione
+2. Groups:  Approved
+3. Description:  An anticonvulsant effective in absence seizures, but generally reserved for refractory cases because of its toxicity. (From AMA Drug Evaluations Annual, 1994, p378)
+4. Indication:  Used in the control of absence (petit mal) seizures that are refractory to treatment with other medications.

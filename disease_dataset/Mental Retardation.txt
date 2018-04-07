@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Menadione
+2. Groups:  Approved, Nutraceutical
+3. Description:  A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. [PubChem]
+4. Indication:  The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.
+DrugId:  2
+1. Name:  Trifluoperazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine with actions similar to chlorpromazine. It is used as an antipsychotic and an antiemetic. [PubChem]
+4. Indication:  For the treatment of anxiety disorders, depressive symptoms secondary to anxiety and agitation.
+DrugId:  3
+1. Name:  Fluphenazine
+2. Groups:  Approved
+3. Description:  A phenothiazine used in the treatment of psychoses. Its properties and uses are generally similar to those of chlorpromazine. [PubChem]
+4. Indication:  For management of manifestations of psychotic disorders.
+DrugId:  4
+1. Name:  Thioridazine
+2. Groups:  Approved, Withdrawn
+3. Description:  A phenothiazine antipsychotic used in the management of psychoses, including schizophrenia, and in the control of severely disturbed or agitated behavior. It has little antiemetic activity. Thioridazine has a higher incidence of antimuscarinic effects, but a lower incidence of extrapyramidal symptoms, than chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p618).Thioridazine was withdrawn worldwide in 2005 due to it's association with cardiac arrythmias.
+4. Indication:  For the treatment of schizophrenia and generalized anxiety disorder.
+DrugId:  5
+1. Name:  Melatonin
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Melatonin is a biogenic amine that is found in animals, plants and microbes. Aaron B. Lerner of Yale University is credited for naming the hormone and for defining its chemical structure in 1958. In mammals, melatonin is produced by the pineal gland. The pineal gland is small endocrine gland, about the size of a rice grain and shaped like a pine cone (hence the name), that is located in the center of the brain (rostro-dorsal to the superior colliculus) but outside the blood-brain barrier. The secretion of melatonin increases in darkness and decreases during exposure to light, thereby regulating the circadian rhythms of several biological functions, including the sleep-wake cycle. In particular, melatonin regulates the sleep-wake cycle by chemically causing drowsiness and lowering the body temperature. Melatonin is also implicated in the regulation of mood, learning and memory, immune activity, dreaming, fertility and reproduction. Melatonin is also an effective antioxidant. Most of the actions of melatonin are mediated through the binding and activation of melatonin receptors. Individuals with autism spectrum disorders (ASD) may have lower than normal levels of melatonin. A 2008 study found that unaffected parents of individuals with ASD also have lower melatonin levels, and that the deficits were associated with low activity of the ASMT gene, which encodes the last enzyme of melatonin synthesis. Reduced melatonin production has also been proposed as a likely factor in the significantly higher cancer rates in night workers.
+4. Indication:  Used orally for jet lag, insomnia, shift-work disorder, circadian rhythm disorders in the blind (evidence for efficacy), and benzodiazepine and nicotine withdrawal. Evidence indicates that melatonin is likely effective for treating circadian rhythm sleep disorders in blind children and adults. It has received FDA orphan drug status as an oral medication for this use. A number of studies have shown that melatonin may be effective for treating sleep-wake cycle disturbances in children and adolescents with mental retardation, autism, and other central nervous system disorders. It appears to decrease the time to fall asleep in children with developmental disabilities, such as cerebral palsy, autism, and mental retardation. It may also improve secondary insomnia associated with various sleep-wake cycle disturbances. Other possible uses for which there is some evidence for include: benzodiazepine withdrawal, cluster headache, delayed sleep phase syndrome (DSPS), primary insomnia, jet lag, nicotine withdrawal, preoperative anxiety and sedation, prostate cancer, solid tumors (when combined with IL-2 therapy in certain cancers), sunburn prevention (topical use), tardive dyskinesia, thrombocytopenia associated with cancer, chemotherapy and other disorders. 
+DrugId:  6
+1. Name:  Sapropterin
+2. Groups:  Approved, Investigational
+3. Description:  Sapropterin (tetrahydrobiopterin or BH4) is a cofactor in the synthesis of nitric oxide. It is also essential in the conversion of phenylalanine to tyrosine by the enzyme phenylalanine-4-hydroxylase; the conversion of tyrosine to L-dopa by the enzyme tyrosine hydroxylase; and conversion of tryptophan to 5-hydroxytryptophan via tryptophan hydroxylase.
+4. Indication:  For the treatment of tetrahydrobiopterin (BH4) deficiency.
+DrugId:  7
+1. Name:  Haloperidol
+2. Groups:  Approved
+3. Description:  A phenyl-piperidinyl-butyrophenone, traditional antipsychotic drug that is used primarily to treat schizophrenia and other psychoses. It is also used for the management of schizoaffective disorder, delusional disorders, ballism, and Tourette syndrome (a drug of choice) and occasionally as adjunctive therapy in mental retardation and the chorea associated with Huntington's disease. It is a potent antiemetic and is used in the treatment of intractable hiccups [5], [7].The efficacy of haloperidol was first established in controlled trials in the 1960s [9].Interestingly, in vivo pharmacogenetic studies have demonstrated that the metabolism of haloperidol may be modulated by genetically determined polymorphic CYP2D6 activity. However, these findings contradict the findings from studies in vitro with human liver microsomes and from drug interaction studies in vivo. Inter-ethnic and pharmacogenetic differences in haloperidol metabolism may possibly explain these observations [3].
+4. Indication:  For the treatment of schizophrenia [10]For the treatment of acute psychosis in acutely agitated schizophrenic patients with moderately severe to very severe symptoms [10]For the treatment of severe behavioral or psychological symptoms of dementia [10]For the treatment of delirium in the pediatric intensive care unit [10]For the treatment of agitation or delirium [10]For agitation† or delirium in adult patients with no underlying psychiatric illness [10]For use as a second-line agent for rescue treatment of chemotherapy-induced nausea/vomiting [10]For the treatment of irritability associated with autistic disorder [10]For the treatment of tics and vocal utterances associated with Tourette's syndrome [10]For the treatment of severe behavioral problems associated with oppositional defiant disorder or other disruptive behavioral disorders, or for the treatment of attention-deficit hyperactivity disorder (ADHD) in pediatric patients who show excessive motor activity with accompanying conduct disorders [10]
+DrugId:  8
+1. Name:  L-Leucine
+2. Groups:  Approved, Nutraceutical
+3. Description:  An essential branched-chain amino acid important for hemoglobin formation. [PubChem]
+4. Indication:  Indicated to assist in the prevention of the breakdown of muscle proteins that sometimes occur after trauma or severe stress.
+DrugId:  9
+1. Name:  L-Valine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A branched-chain essential amino acid that has stimulant activity. It promotes muscle growth and tissue repair. It is a precursor in the penicillin biosynthetic pathway. [PubChem]
+4. Indication:  Promotes mental vigor, muscle coordination, and calm emotions. May also be of use in a minority of patients with hepatic encephalopathy and in some with phenylketonuria.
+DrugId:  10
+1. Name:  Formebolone
+2. Groups:  Experimental, Illicit
+3. Description:  Formebolone, a derivative of androstane [1], is an anabolic androgenic steroid. It is on the list of substances prohibited by the Word Anti-Doping Agency, and is regularly screened for in athletes. It is also classified by the US Drug Enforcement Administration as Schedule III drug in the Controlled Substances Act. It has been used experimentally in the treatment of growth retardation, and has been noted to increase bone mass. [1] Additionally, it has been patented for use in development of novel transdermal delivery systems for enhanced drug delivery.
+4. Indication:  No approve indications. Studied experimentally as a treatment for non-pituitary growth retardation [1].
+DrugId:  11
+1. Name:  L-Isoleucine
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An essential branched-chain aliphatic amino acid found in many proteins. It is an isomer of leucine. It is important in hemoglobin synthesis and regulation of blood sugar and energy levels. [PubChem]
+4. Indication:  The branched-chain amino acids may have antihepatic encephalopathy activity in some. They may also have anticatabolic and antitardive dyskinesia activity.
+DrugId:  12
+1. Name:  Nerve Growth Factor
+2. Groups:  Investigational
+3. Description:  Nerve Growth Factor has been used in trials studying the prevention and treatment of Mental Handicap, Alzheimer's Disease, Traumatic Brain Injury, Cerebral Palsy Children, and Delayed Speech Development, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Propericiazine
+2. Groups:  Approved, Investigational
+3. Description:  Propericiazine is a phenothiazine of the piperidine group. It has been shown to reduce pathologic arousal and affective tension in some psychotic patients, while the symptoms of abnormal mental integration are relatively unaffected. It is a sedative phenothiazine with weak antipsychotic properties. It also has adrenolytic, anticholinergic, metabolic and endocrine effects and an action on the extrapyramidal system. It is used as an adjunctive medication in some psychotic patients, for the control of residual prevailing hostility, impulsiveness and aggressiveness. Pericyazine, like other phenothiazines, is presumed to act principally in the subcortical areas, by producing what has been described as a central adrenergic blockade. 
+4. Indication:  For use as adjunctive medication in some psychotic patients. Propericiazine (Pericyazine)is used for the control of residual prevailing hostility, impulsiveness and aggressiveness. 
+DrugId:  14
+1. Name:  Zanapezil
+2. Groups:  Investigational
+3. Description:  Zanapezil (TAK-147) is a selective acetylcholine (ACh) esterase inhibitor under investigation as a drug for Alzheimer's disease (AD) treatment.
+4. Indication:  For the treatment of dementia in subjects with Alzheimer’s disease.
+DrugId:  15
+1. Name:  Acetylcarnitine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcarnitine is an investigational drug in the United states, Italy, United Kingdom, China, Israel, and Norway, and it is approved in Italy, Portugal, Argentina, Chile, Philippines, Australia, and India. Acetylcarnitine can be synthesized, but it is also naturally found in adequate amounts in healthy humans. In human plasma and tissues, acetylcarnitine is the most predominant acylated ester of carnitine, which is an amino acid derivative that is made in the kidney, liver, and brain from lysine and methionine. The main role of acetylcarnitine is to help transport fatty acids into the mitochondrial matrix where fatty acid metabolism occurs.
+4. Indication:  Acetylcarnitine is not approved for any indication in the United states and Canada, but it is approved and indicated in Italy for cerebrovascular disorders, mental function disorders, peripheral nerve disorders, diabetic neuropathy, and nutritional supplementation; Portugal for mental function disorders; Argentina for cerebral vasculopathy, nutritional supplementation, and peripheral neuropathy; Chile for dementia; Philippines for cerebrovascular disorders and mental function disorders; Australia for nutritional supplementation; and India for nutritional supplementation to increase sperm count. Acetylcarnitine also has several potential therapeutic indications for which it is still being investigated: in Norway, acetylcarnitine is in a phase IV trial for prophylactic treatment of migraines; in Italy acetylcarnitine is in a phase II trial for use in patients with type 2 Diabetes Mellitus, a phase III trial for alleviating fatigue in patients with chronic hepatitis C, and for use in patients with Minimal Hepatic Encephalopathy; in the United States acetylcarnitine is in a phase II trial for the neurodegenerative disorder Progressive Supranuclear Palsy, a phase II and III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy, a phase I and II trial for treating patients in septic shock, a phase II trial for bipolar depression, a phase II trial to reduce oxidative stress in patients with Sickle Cell disease, a phase I and II trial for chronic fatigue syndrome, and a study for preventing nerve damage in HIV patients; in China acetylcarnitine is in a phase III trial for reducing peripheral neuropathy in cancer patients as an adjunct to chemotherapy; in the United Kingdom acetylcarnitine is being investigated for preventing nerve damage in HIV patients; and in Israel acetylcarnitine is being studied for the treatment of male infertility.
+DrugId:  16
+1. Name:  Rauwolfia serpentina root
+2. Groups:  Investigational
+3. Description:  Rauwolfia (Rauwolfia serpentina), also spelled ravolphia, is a medicinal plant in the milkweed family. The root of the plant is ground into a powder or sold in tablets or capsules. It is a compound commonly used in Asian medicine, which includes traditional Ayurvedic medicine native to India. The active ingredients in this drug are alkaloids and about 50 have been identified through various studies, although the primary psychoactive components appear to be reserpine, rescinnamine, and deserpidine [10].This product was approved prior to Jan 1, 1982, but since, has been discontinued due to its propensity for leading to depression [8, 20]. Reserpine is derived from Rauwolfia serpentina, and was commonly used as an antihypertensive agent in the 1950s [12]. Rauwolfia serpentina is also commonly referred to as Sarpaghanda [3]. Interestingly, the hairy root component of this plant has shown a remarkable capacity to regenerate into complete Rauwolfia plants and shows survival and unaltered biosynthetic potential during storage at decreased temperatures. For this reason, various studies into biotechnological applications of this plant have been performed. Multiple studies have been done on their biosynthetic potential and numerous biotechnological methods used to study the production of pharmaceutically important alkaloids [1, 2].
+4. Indication:  Rauwolfia alkaloids are indicated in the treatment of hypertension [6]. Rauwolfia alkaloids have been used for relief of symptoms in agitated psychotic states such as schizophrenia; however, use as antipsychotics and sedatives have been replaced with the use of more effective, safer agents [6].
+DrugId:  17
+1. Name:  Eslicarbazepine acetate
+2. Groups:  Approved
+3. Description:  Eslicarbazepine acetate (ESL) is an anticonvulsant medication approved for use in Europe, the United States and Canada as an adjunctive therapy for partial-onset seizures that are not adequately controlled with conventional therapy. Eslicarbazepine acetate is a prodrug that is rapidly converted to eslicarbazepine, the primary active metabolite in the body. Eslicarbazepine's mechanism of action is not well understood, but it is known that it does exert anticonvulsant activity by inhibiting repeated neuronal firing and stabilizing the inactivated state of voltage-gated sodium channels, thus preventing their return to the activated state during which seizure activity can occur.Eslicarbazepine acetate is marketed as Aptiom in North America and Zebinix or Exalief in Europe. It is available in 200, 400, 600, or 800mg tablets that are taken once daily, with or without food. Eslicarbazepine acetate is associated with numerous side effects including dizziness, drowsiness, nausea, vomiting, diarrhea, headache, aphasia, lack of concentration, psychomotor retardation, speech disturbances, ataxia, depression and hyponatremia. It is recommended that patients taking eslicarbazepine acetate be monitored for suicidality.
+4. Indication:  Eslicarbazepine acetate is indicated as adjunctive therapy in the treatment of partial-onset seizures that are not adequately controlled with conventional therapy in epileptic patients. 
+DrugId:  18
+1. Name:  Bevacizumab
+2. Groups:  Approved, Investigational
+3. Description:  A recombinant humanized monoclonal IgG1 antibody that binds to and inhibits the biologic activity of human vascular endothelial growth factor (VEGF). Bevacizumab contains human framework regions and the complementarity-determining regions of a murine antibody that binds to VEGF. Bevacizumab is produced in a Chinese Hamster Ovary mammalian cell expression system in a nutrient medium containing the antibiotic gentamicin and has a molecular weight of approximately 149 kilodaltons.
+4. Indication:  As part of combination therapy for metastatic colorectal cancer and HER2-negative metastatic breast cancer.
+DrugId:  19
+1. Name:  Aniracetam
+2. Groups:  Experimental
+3. Description:  Compound with anti-depressive properties used as a mental performance enhancer.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Prazepam
+2. Groups:  Approved, Illicit
+3. Description:  Prazepam is a benzodiazepine that is used in the treatment of anxiety disorders. It is a schedule IV drug in the U.S.
+4. Indication:  For the treatment of anxiety disorders.
+DrugId:  21
+1. Name:  Trilostane
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  Trilostane is an inhibitor of 3 beta-hydroxysteroid dehydrogenase used in the treatment of Cushing's syndrome. It was withdrawn from the United States market in April 1994. [Wikipedia]
+4. Indication:  Used in the treatment of Cushing's syndrome. It is normally used in short-term treatment until permanent therapy is possible.
+DrugId:  22
+1. Name:  Triflupromazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine used as an antipsychotic agent and as an antiemetic. [PubChem]
+4. Indication:  Used mainly in the management of psychoses. Also used to control nausea and vomiting.
+DrugId:  23
+1. Name:  Chlorprothixene
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Chlorprothixene is a typical antipsychotic drug of the thioxanthene (tricyclic) class. Chlorprothixene exerts strong blocking effects by blocking the 5-HT2 D1, D2, D3, histamine H1, muscarinic and alpha1 adrenergic receptors.
+4. Indication:  For treatment of psychotic disorders (e.g. schizophrenia) and of acute mania occuring as part of bipolar disorders.
+DrugId:  24
+1. Name:  Macimorelin
+2. Groups:  Approved, Investigational
+3. Description:  Macimorelin, a novel and orally active ghrelin mimetic that stimulates GH secretion, is used in the diagnosis of adult GH deficiency (AGHD). More specifically, macimorelin is a peptidomimetic growth hormone secretagogue (GHS) that acts as an agonist of GH secretagogue receptor, or ghrelin receptor (GHS-R1a) to dose-dependently increase GH levels [3]. Growth hormone secretagogues (GHS) represent a new class of pharmacological agents which have the potential to be used in numerous clinical applications. They include treatment for growth retardation in children and cachexia associated with chronic disease such as AIDS and cancer. Growth hormone (GH) is classically linked with linear growth during childhood. In deficiency of this hormone, AGHD is commonly associated with increased fat mass (particularly in the abdominal region), decreased lean body mass, osteopenia, dyslipidemia, insulin resistance, and/or glucose intolerance overtime. In addition, individuals with may be susceptible to cardiovascular complications from altered structures and function [5]. Risk factors of AGHD include a history of childhood-onset GH deficiency or with hypothalamic/pituitary disease, surgery, or irradiation to these areas, head trauma, or evidence of other pituitary hormone deficiencies [3]. While there are various therapies available such as GH replacement therapy, the absence of panhypopituitarism and low serum IGF-I levels with nonspecific clinical symptoms pose challenges to the detection and diagnosis of AGHD. The diagnosis of AGHD requires biochemical confirmation with at least 1 GH stimulation test [3]. Macimorelin is clinically useful since it displays good stability and oral bioavailability with comparable affinity to ghrelin receptor as its endogenous ligand. In clinical studies involving healthy subjects, macimorelin stimulated GH release in a dose-dependent manner with good tolerability [3].Macimorelin, developed by Aeterna Zentaris, was approved by the FDA in December 2017 under the market name Macrilen for oral solution.
+4. Indication:  Indicated for the diagnosis of adult growth hormone deficiency (AGHD) [FDA Label].
+DrugId:  25
+1. Name:  Fencamfamine
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Fencamfamine (Glucoenergan, Reactivan) is a stimulant which was developed in the 1960s as an appetite suppressant, but was later withdrawn for this application due to problems with dependence and abuse. It is around half the potency of dexamphetamine, and is prescribed at a dose of 10-60mg, although abusers of the drug tend to rapidly develop tolerance and escalate their dose. Reactivan is still rarely used for treating depressive day-time fatigue, lack of concentration and lethargy, particularly in individuals who have chronic medical conditions, as its favourable safety profile makes it the most suitable drug in some cases. [Wikipedia]
+4. Indication:  For the the treatment of depressive fatigue in convalescence and other debilitated states as well as in the treatment of depressive day-time fatigue, lack of concentration and lethargy.

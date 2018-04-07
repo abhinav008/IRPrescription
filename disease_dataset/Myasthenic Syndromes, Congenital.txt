@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  2
+1. Name:  Luspatercept
+2. Groups:  Investigational
+3. Description:  Luspatercept has been used in trials studying the treatment of Anemia, Beta-Thalassemia, Erythrocyte Transfusion, and Myelodysplastic Syndromes.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Eptacog alfa pegol (activated)
+2. Groups:  Investigational
+3. Description:  Eptacog alfa pegol (activated) has been used in trials studying the prevention and treatment of Haemophilia A, Haemophilia B, Congenital Bleeding Disorder, Haemophilia B With Inhibitors, and Haemophilia A With Inhibitors.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Concizumab
+2. Groups:  Investigational
+3. Description:  Concizumab has been used in trials studying the treatment of Haemophilia A and Congenital Bleeding Disorder.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Vatreptacog alfa
+2. Groups:  Investigational
+3. Description:  Vatreptacog Alfa (Activated) has been used in trials studying the treatment of Haemophilia B, Haemophilia A, Congenital Bleeding Disorder, Haemophilia A With Inhibitors, and Haemophilia B With Inhibitors.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Tocofersolan
+2. Groups:  Approved
+3. Description:  Tocofersolan is a polyethylene glycol derivative of α-tocopherol and synthetic water-soluble version of vitamin E. Tocofersolan is an oral treatment of vitamin E deficiency due to digestive malabsorption in pediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis. It was approved by the European Medicines Agency (EMA) in June 2009 under the market name Vedrop. Tocofersolan is also used in cosmetics and pharmaceuticals as an antioxidant.
+4. Indication:  Vedrop is indicated in vitamin E deficiency due to digestive malabsorption in paediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis, from birth (full term newborns) up to 18years of age. [EMA]
+DrugId:  7
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  8
+1. Name:  SJG-136
+2. Groups:  Investigational
+3. Description:  SJG-136 has been used in trials studying the treatment of Recurrent Fallopian Tube Cancer, Secondary Acute Myeloid Leukemia, de Novo Myelodysplastic Syndromes, Recurrent Ovarian Epithelial Cancer, and Secondary Myelodysplastic Syndromes, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Coagulation factor VII human
+2. Groups:  Approved, Investigational
+3. Description:  Coagulation factor VII is human serine protease type enzyme that is involved in the extrinsic coagulation cascade which results in blood clotting.
+4. Indication:  May be administered in cases of uncontrolled bleeding. Factor VII alone can be used in the treatment of congenital hemophilia A or B, acquired hemophilia, congenital factor VII deficiency, and Glanzmann's thrombasthenia. Off label use in the treatment of refractory bleeding after cardiac surgery and warfarin related intracerebral hemorrhage. Brands for human factor VII are currently only in combination with other vitamin K coagulation factors and can be used to reverse vitamin K antagonist activity in patients with acute major bleeds or for urgent surgery/invasive procedures. 
+DrugId:  10
+1. Name:  Sacrosidase
+2. Groups:  Approved
+3. Description:  Sacrosidase is a liquid enzyme preparation from S.cerevisiae used for the treatment of congenital sucrose-isomaltase deficiency (CSID). People with CSID have variable amounts of sucrose-isomaltase enzyme activity and therefore have issues metabolizing dietary disaccharide sucrose causing chronic or intermittent watery diarrhea in infants and children. Treatment options for these patients are limited and usually consists of a lifelong sucrose-free diet; therefore, sacrosidase offers a potential alternative for symptom relief. 
+4. Indication:  For the treatment of congenital sucrose-isomaltase deficiency (CSID).
+DrugId:  11
+1. Name:  SR-123781A
+2. Groups:  Investigational
+3. Description:  SR-123781A is a synthetic hexadecasaccharide Factor IIa and Xa antagonist. It is under investigation by Sanofi-Aventis and Organon for the treatment of thrombosis and acute coronary syndromes (ACS).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  12
+1. Name:  Guanidine
+2. Groups:  Approved
+3. Description:  A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC. [PubChem]
+4. Indication:  For the reduction of the symptoms of muscle weakness and easy fatigability associated with the myasthenic syndrome of Eaton-Lambert. It is not indicated for treating myasthenia gravis.
+DrugId:  13
+1. Name:  Pyroxamide
+2. Groups:  Investigational
+3. Description:  Pyroxamide has been used in trials studying the treatment of Leukemia, Lymphoma, Small Intestine Cancer, Precancerous Condition, and Myelodysplastic Syndromes, among others.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  15
+1. Name:  Omigapil
+2. Groups:  Investigational
+3. Description:  Omigapil has been used in trials studying the treatment of Congenital Muscular Dystrophy.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Canakinumab
+2. Groups:  Approved, Investigational
+3. Description:  Canakinumab is a recombinant, human anti-human-IL-1β monoclonal antibody that belongs to the IgG1/κ isotype subclass. It is expressed in a murine Sp2/0-Ag14 cell line and comprised of two 447- (or 448-) residue heavy chains and two 214-residue light chains, with a molecular mass of 145157 Daltons when deglycosylated. Both heavy chains of canakinumab contain oligosaccharide chains linked to the protein backbone at asparagine 298 (Asn 298). Canakinumab binds to human IL-1β and neutralizes its inflammatory activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1alpha or IL-1 receptor antagonist (IL-1ra). Canakinumab is marketed under the brand name Ilaris and indicated for patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). Clinical trials have established the administration of canakinumab every 2 weeks to be safe and effective, offering a considerable advantage over the existing treatment with the human IL-1 receptor antagonist, anakinra, which must be injected daily and which is often poorly tolerated by patients.
+4. Indication:  Used in patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). 
+DrugId:  17
+1. Name:  Deferiprone
+2. Groups:  Approved
+3. Description:  Deferiprone is an oral iron chelator used as a second line agent in thalassemia syndromes when iron overload from blood transfusions occurs. Thalassemias are a type of hereditary anaemia due a defect in the production of hemoglobin. As a result, erythropoiesis, the production of new red blood cells, is impaired. FDA approved on October 14, 2011. 
+4. Indication:  Deferiprone is indicated in thalassemia syndromes when first line chelation agents are not adequate to treat transfusional iron overload.
+DrugId:  18
+1. Name:  Tavilermide
+2. Groups:  Investigational
+3. Description:  Tavilermide has been investigated for the treatment of Dry Eye Syndromes.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  KAI-1455
+2. Groups:  Investigational
+3. Description:  KAI-1455 is a selective epsilon protein kinase C (εPKC) activator designed to reduce ischemic organ injury during procedures where blood supply may be compromised, such as coronary artery bypass grafting (CABG), congenital cardiac defect repair, and hip replacement and may protect against renal injury associated with contrast media. Several studies have demonstrated that epsilon PKC plays a key role in cytoprotection during periods of ischemia. In preclinical studies, KAI-1455 showed a dramatic reduction in infarct size when delivered prior to the ischemic insult.
+4. Indication:  Investigated for use/treatment in ischemic reperfusion injury.
+DrugId:  20
+1. Name:  Volasertib
+2. Groups:  Investigational
+3. Description:  Volasertib has been used in trials studying the treatment of Leukemia, Neoplasms, Leukemia, Myeloid, Acute, Myelodysplastic Syndromes, and Leukemia, Monocytic, Acute, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  BMS-214662
+2. Groups:  Investigational
+3. Description:  BMS-214662 has been used in trials studying the treatment of Childhood Myelodysplastic Syndromes, Refractory Anemia With Excess Blasts, Recurrent Adult Acute Myeloid Leukemia, Relapsing Chronic Myelogenous Leukemia, and Adult Acute Promyelocytic Leukemia (M3), among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Antihemophilic Factor (Recombinant), PEGylated
+2. Groups:  Approved, Investigational
+3. Description:  Antihemophilic Factor (Recombinant), PEGylated, is a recombinant full-length human coagulation factor VIII (2,332 amino acids with a molecular weight (MW) of 280 kDa) covalently conjugated with at least one molecule of polyethylene glycol (MW 20 kDa). The therapeutic activity of Antihemophilic Factor (Recombinant), PEGylated is a derivative of its parent drug, Antihemophilic Factor (Recombinant). Antihemophilic Factor (Recombinant) is purified from the culture medium using several chromatography columns. The purification process includes immunoaffinity chromatography, in which a monoclonal antibody directed against factor VIII is promoted to selectively isolate the factor VIII from the medium. The production process includes a viral inactivation solvent-detergent treatment step. The Antihemophilic Factor (Recombinant) molecule is then covalently conjugated with the polyethylene glycol, which primarily targets lysine residues [FDA Label].Antihemophilic Factor (Recombinant), PEGylated, was approved by the FDA in November 2015 as the product Adynovate [FDA Label].PEGylation is the covalent attachment of a polyethylene glycol polymer, called PEG, to a drug or protein. It is believed that PEGylation reduces the binding of ADYNOVATE to the LRP1 clearance receptor, allowing for an increased duration of drug circulation in the plasma [6].
+4. Indication:  For the treatment of hemophilia A (congenital factor VIII deficiency) [FDA Label].This medication is a human antihemophilic factor indicated in adolescent and adult patients (12 years and older) with hemophilia A (congenital factor VIII deficiency). It is also used for on-demand treatment and control of bleeding and routine prophylaxis of bleeding episodes. It is not indicated for the treatment of von Willebrand disease [FDA Label].
+DrugId:  23
+1. Name:  Ozagrel
+2. Groups:  Investigational
+3. Description:  Ozagrel has been used in trials studying the treatment of Dry Eye Syndromes.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Hydroxypropyl cellulose
+2. Groups:  Approved
+3. Description:  Hydroxypropyl cellulose is an ether of cellulose where some of the hydroxyl groups of the cellulose have been hydroxypropylated forming -OCH2CH(OH)CH3 groups. Lacrisertis a formulation of hydroxypropyl cellulose that is used for artificial tears. It is used to treat syndromes characterized by insufficient tear production (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes. As a food additive, hydroxypropyl cellulose is used as a thickener and as an emulsion stabilizer.
+4. Indication:  Used to relieve dryness and irritation caused by reduced tear flow that occurs in certain eye diseases (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes.
+DrugId:  25
+1. Name:  Decitabine
+2. Groups:  Approved, Investigational
+3. Description:  Decitabine is indicated for treatment of patients with myelodysplastic syndrome (MDS). It is a chemical analogue of cytidine, a nucleoside present in DNA and RNA. Cells in the presence of Decitabine incorporate it into DNA during replication and RNA during transcription. The incorporation of Decitabine into DNA or RNA inhibits methyltransferase thereby causing demethylation in that sequence. This adversely affects the way that cell regulatory proteins are able to bind to the DNA/RNA substrate.
+4. Indication:  For treatment of patients with myelodysplastic syndromes (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia) and intermediate-1, intermediate-2, and high-risk International Prognostic Scoring System groups (scores ≥0.5).

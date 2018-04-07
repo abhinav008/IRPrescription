@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  T-2000
+2. Groups:  Investigational
+3. Description:  T2000 has been used in trials studying the treatment of Myoclonus and Essential Tremor.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Caprylic alcohol
+2. Groups:  Investigational
+3. Description:  Caprylic alcohol has been used in trials studying the treatment of Essential Tremor.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  ST-101
+2. Groups:  Investigational
+3. Description:  ST101 has been used in trials studying the treatment of Essential Tremor and Alzheimer's Disease.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Eltanolone
+2. Groups:  Investigational
+3. Description:  Eltanolone is under investigation in clinical trial NCT02603926 (Treatment of Fragile-X Associated Tremor/Ataxia Syndrome (FXTAS) With Allopregnanolone).
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Butriptyline
+2. Groups:  Approved
+3. Description:  Butriptyline is a tricyclic antidepressant which has been used in Europe since 1974. It is the isobutyl side chain homologue of amitriptyline.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Ioflupane I-123
+2. Groups:  Approved
+3. Description:  Ioflupane (I-123) is a radiopharmaceutical used to image dopamine neurons and diagnose Parkinsonian syndromes.
+4. Indication:  Ioflupane I-123 is a SPECT (single photon emission computerized tomography) agent used to distinguish between Parkinson’s syndrome tremors and essential tremor. 
+DrugId:  7
+1. Name:  Fenoterol
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic beta-2 agonist that is used as a bronchodilator and tocolytic. [PubChem]
+4. Indication:  Fenoterol is used for the treatment of asthma.
+DrugId:  8
+1. Name:  Acetohydroxamic Acid
+2. Groups:  Approved
+3. Description:  Acetohydroxamic Acid, a synthetic drug derived from hydroxylamine and ethyl acetate, is similar in structure to urea. In the urine, it acts as an antagonist of the bacterial enzyme urease. Acetohydroxamic Acid has no direct antimicrobial action and does not acidify urine directly. It is used, in addition to antibiotics or medical procedures, to treat chronic urea-splitting urinary infections.
+4. Indication:  Used, in addition to antibiotics or medical procedures, to treat chronic urea-splitting urinary infections.
+DrugId:  9
+1. Name:  Procaterol
+2. Groups:  Approved, Investigational
+3. Description:  A long-acting beta-2-adrenergic receptor agonist. It is a potent bronchodilator that may be administered orally or by aerosol inhalation. [PubChem]
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  10
+1. Name:  Brexpiprazole
+2. Groups:  Approved, Investigational
+3. Description:  Brexpiprazole is a novel D2 dopamine and serotonin 1A partial agonist, called serotonin-dopamine activity modulator (SDAM), and a potent antagonist of serotonin 2A receptors, noradrenergic alpha 1B and 2C receptors. Brexpiprazole is approved for the treatment of schizophrenia, and as an adjunctive treatment for major depressive disorder (MDD). Although it failed Phase II clinical trials for ADHD, it has been designed to provide improved efficacy and tolerability (e.g., less akathisia, restlessness and/or insomnia) over established adjunctive treatments for major depressive disorder (MDD).
+4. Indication:  As an adjunctive treatment of major depressive disorder (MDD) and for treatment of schizophrenia. 
+DrugId:  11
+1. Name:  Metyrosine
+2. Groups:  Approved
+3. Description:  An inhibitor of the enzyme tyrosine 3-monooxygenase, and consequently of the synthesis of catecholamines. It is used to control the symptoms of excessive sympathetic stimulation in patients with pheochromocytoma. (Martindale, The Extra Pharmacopoeia, 30th ed)
+4. Indication:  For use in the treatment of patients with pheochromocytoma, for preoperative preparation of patients for surgery, management of patients when surgery is contraindicated, and chronic treatment of patients with malignant pheochromocytoma.
+DrugId:  12
+1. Name:  Benzphetamine
+2. Groups:  Approved, Illicit
+3. Description:  A sympathomimetic agent with properties similar to dextroamphetamine. It is used in the treatment of obesity. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1222)
+4. Indication:  For the management of exogenous obesity as a short term adjunct (a few weeks) in a regimen of weight reduction based on caloric restriction
+DrugId:  13
+1. Name:  Amantadine
+2. Groups:  Approved
+3. Description:  An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the chemoprophylaxis, prophylaxis, and treatment of signs and symptoms of infection caused by various strains of influenza A virus. Also for the treatment of parkinsonism and drug-induced extrapyramidal reactions.
+DrugId:  14
+1. Name:  Lisdexamfetamine
+2. Groups:  Approved, Investigational
+3. Description:  Lisdexamfetamine (L-lysine-d-amphetamine) is a prodrug of the psychostimulant d-amphetamine coupled with the essential amino acid L-lysine. It was developed so that the amphetamine psychostimulant is released and activated more slowly as the prodrug molecule is hydrolyzed consequently cleaving off the amino acid-during the first pass through the intestines and/or the liver. Amphetamines target the trace amine-associated receptor 1 (TAAR1). Amphetamine is also believed to exert its effects by binding to the monoamine transporters (the dopamine transporter or DAT) and increasing extracellular levels of the biogenic amines dopamine, norepinephrine (noradrenaline) and serotonin.
+4. Indication:  For the treatment of Attention Deficit/Hyperactivity Disorder (ADHD) in pediatric populations aged 6 to 12 years.
+DrugId:  15
+1. Name:  Fencamfamine
+2. Groups:  Approved, Illicit, Withdrawn
+3. Description:  Fencamfamine (Glucoenergan, Reactivan) is a stimulant which was developed in the 1960s as an appetite suppressant, but was later withdrawn for this application due to problems with dependence and abuse. It is around half the potency of dexamphetamine, and is prescribed at a dose of 10-60mg, although abusers of the drug tend to rapidly develop tolerance and escalate their dose. Reactivan is still rarely used for treating depressive day-time fatigue, lack of concentration and lethargy, particularly in individuals who have chronic medical conditions, as its favourable safety profile makes it the most suitable drug in some cases. [Wikipedia]
+4. Indication:  For the the treatment of depressive fatigue in convalescence and other debilitated states as well as in the treatment of depressive day-time fatigue, lack of concentration and lethargy.
+DrugId:  16
+1. Name:  Diethylpropion
+2. Groups:  Approved, Illicit
+3. Description:  A appetite depressant considered to produce less central nervous system disturbance than most drugs in this therapeutic category. It is also considered to be among the safest for patients with hypertension. (From AMA Drug Evaluations Annual, 1994, p2290)
+4. Indication:  Used in the management of exogenous obesity as a short-term adjunct (a few weeks) in a regimen of weight reduction based on caloric restriction.
+DrugId:  17
+1. Name:  Mazindol
+2. Groups:  Approved, Investigational
+3. Description:  Mazindol is a tricyclic anorexigenic agent unrelated to and less toxic than amphetamine, but with some similar side effects. It inhibits uptake of catecholamines and blocks the binding of cocaine to the dopamine uptake transporter. Mazindol is only approved in the United States for the treatment of Duchenne muscular dystrophy, and is not marketed or available in the United States for use in the treatment of obesity.
+4. Indication:  Used in short-term (a few weeks) treatment of exogenous obesity in conjunction with a regimen of weight reduction based on caloric restriction, exercise, and behavior modification in patients with a body mass index of 30 kg of body weight per height in meters squared (kg/m2) or in patients with a body mass index of 27 kg/m2 in the presence of risk factors such as hypertension, diabetes, or hyperlipidemia.
+DrugId:  18
+1. Name:  Pirlindole
+2. Groups:  Approved
+3. Description:  Pirlindole is a reversible inhibitor of monoamine oxidase A (RIMA) which was developed and is currently used in Russia as an antidepressant. It is structurally and pharmacologically related to metralindole.Pirlindole is a selective, reversible inhibitor of monoamine oxidase (MAO) subtype A (MAO-A) that is approved in several European and non-European countries for the treatment of major depression. The antidepressant efficacy and safety of pirlindole have been demonstrated in numerous studies and, supported by many years of clinical experience in the treatment of depression. Pirlindole's efficacy and safety have also been shown in the treatment of fibromyalgia.
+4. Indication:  For the treatment of major depression.It is being studied in the treatment of fibromyalgia pain syndrome. One study determined that the effect of pirlindole on sensorimotor performance while driving a motor vehicle shows many similarities to that of placebo. The drug appears to stimulate the central nervous system, rather than exhibit a sedative effect, like many antidepressants. Because of its selective, reversible inhibition of monoamine oxidase (MAO-A) and short half-life, unpleasant "cheese effects" are avoided. This refers to the effects of consuming tyramine-rich foods, such as cheese while medicated with monoamine oxidase inhibitors, leading to severe headaches and hypertension [6]. of The available evidence supports pirlindole as a safe and effective treatment option for the management of depression and fibromyalgia syndrome [5].
+DrugId:  19
+1. Name:  Ropivacaine
+2. Groups:  Approved
+3. Description:  Ropivacaine is a local anaesthetic drug belonging to the amino amide group. The name ropivacaine refers to both the racemate and the marketed S-enantiomer. Ropivacaine hydrochloride is commonly marketed by AstraZeneca under the trade name Naropin.
+4. Indication:  Used in obstetric anesthesia and regional anesthesia for surgery.
+DrugId:  20
+1. Name:  Fenfluramine
+2. Groups:  Approved, Illicit, Investigational, Withdrawn
+3. Description:  Fenfluramine was withdrawn from the U.S. market in 1997 after reports of heart valve disease and pulmonary hypertension, including a condition known as cardiac fibrosis.
+4. Indication:  For the management of exogenous obesity as a short-term (a few weeks) adjunct in a regimen of weight reduction based on caloric restriction.
+DrugId:  21
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  22
+1. Name:  Viloxazine
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Viloxazine is a selective norepinephrine reuptake inhibitor (NRI) that was used in some European countries as an antidepressant drug. It structurally differs from conventional tri- or tetra-cyclic antidepressants and it does not produce sedative anticholinergic or adrenergic effects in man [1]. While displaying amphetamine-like CNS stimulant effects, there is little evidence of drug dependence from viloxazine therapy. Viloxazine hydrochloride is a common active ingredient in drug formulation. It was discovered and brought to market in 1976 by Imperial Chemical Industries and in early 2000's, it was withdrawn from the market.
+4. Indication:  Indicated for the treatment of clinical depression.
+DrugId:  23
+1. Name:  Fenoprofen
+2. Groups:  Approved
+3. Description:  An anti-inflammatory analgesic and antipyretic highly bound to plasma proteins. It is pharmacologically similar to aspirin, but causes less gastrointestinal bleeding. [PubChem]
+4. Indication:  For relief of the signs and symptoms of rheumatoid arthritis and osteoarthritis. Also for the relief of mild to moderate pain.
+DrugId:  24
+1. Name:  Orciprenaline
+2. Groups:  Approved
+3. Description:  A beta-adrenergic agonist used in the treatment of asthma and bronchospasms. [PubChem]
+4. Indication:  For the treatment of bronchospasm, chronic bronchitis, asthma, and emphysema.
+DrugId:  25
+1. Name:  Orphenadrine
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used to treat drug-induced parkinsonism and to relieve pain from muscle spasm. [PubChem]
+4. Indication:  Indicated for the treatment of Parkinson's disease.

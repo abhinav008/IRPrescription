@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sermorelin
+2. Groups:  Approved, Withdrawn
+3. Description:  Sermorelin acetate is the acetate salt of an amidated synthetic 29-amino acid peptide (GRF 1-29 NH 2 ) that corresponds to the amino-terminal segment of the naturally occurring human growth hormone-releasing hormone (GHRH or GRF) consisting of 44 amino acid residues
+4. Indication:  For the treatment of dwarfism, prevention of HIV-induced weight loss
+DrugId:  2
+1. Name:  Somatotropin
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human growth hormone (somatotropin) 191 residues, MW 22.1 kD, synthesized in E. coli
+4. Indication:  For treatment of dwarfism, acromegaly and prevention of HIV-induced weight loss
+DrugId:  3
+1. Name:  AP1081
+2. Groups:  Investigational
+3. Description:  A transdermal gel containing ethinyl estradiol and norelgestromin being investigated by Antares Pharma for use as a female contraceptive.
+4. Indication:  For use as a female contraceptive.
+DrugId:  4
+1. Name:  Corticotropin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Corticotropin (ACTH or adrenocorticotropic hormone) is a polypeptide hormone produced and secreted by the pituitary gland. It is an important player in the hypothalamic-pituitary-adrenal axis.
+4. Indication:  For use as a diagnostic agent in the screening of patients presumed to have adrenocortical insufficiency.
+DrugId:  5
+1. Name:  Somatrem
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  In 1985 somatrem (methionyl-growth hormone) became the first recombinant growth hormone product to be marketed commercially (Protropin by Genentech) [3]. The agent has the same amino acid sequence as human growth hormone except for an extra methionine at the end of the sequence chain to facilitate its manufacturing process [3].Although the first commercially marketed recombinant growth hormone product Protropin was discontinued in 2004 owing to a relative explosion in brand and generic based releases of competing companies' own recombinant growth hormone products and the ensuing competition in product price over the years, many companies now produce and sell various approved formulations of methionyl-growth hormone, including Genetech's own current Nutropin product [3].Despite the ability of almost all contemporary recombinant growth hormones to cause definite and demonstrable increases in growth rate in patients who are administered the drug, the use of these agents continues to be mired in persistent bioethical debate [1]. Such discussion revolves around whether patients' natural disposition of short stature should be considered a medical condition justifying medical treatment with such hormone therapy - especially when these hormone agents have been proven effective at increasing the height of children with or without growth hormone deficiency [1].
+4. Indication:  Somatrem is a recombinant human growth hormone indicated for: (a) treatment of paediatric patients with growth failure due to growth hormone deficiency (GHD), (b) treatment of paediatric patients with growth failure due to idiopathic short stature (ISS), (c) treatment of paediatric patients with growth failure due to Turner syndrome (TS), (d) treatment of paediatric patients with growth failure due to chronic kidney disease (CKD) up to the time of renal transplantation, (e) treatment of adults with childhood-onset GHD, or (f) treatment of adults with adult-onset GHD [FDA Label].
+DrugId:  6
+1. Name:  Vasopressin
+2. Groups:  Approved
+3. Description:  Antidiuretic hormone, also known as vasopressin, is a nine amino acid peptide secreted from the posterior pituitary. Antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation
+4. Indication:  For the treatment of enuresis, polyuria, diabetes insipidus, polydipsia and oesophageal varices with bleeding
+DrugId:  7
+1. Name:  Somatorelin
+2. Groups:  Investigational
+3. Description:  Somatorelin has been used in trials studying the treatment of Aging, Elderly, Sleep Disorders, Hormone Deficiency, and Mild Cognitive Impairment.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Corticorelin
+2. Groups:  Investigational
+3. Description:  Corticotropin-releasing factor is studied in the treatment of brain cancer. It is made naturally by the hypothalamus (a part of the brain) and can also be made in the laboratory. Human corticotropin-releasing factor may help reduce symptoms caused by edema (swelling) of the brain. It is a type of neurohormone, also called hCRF.
+4. Indication:  Investigated for use/treatment in brain cancer and neurologic disorders.
+DrugId:  9
+1. Name:  Lutropin alfa
+2. Groups:  Approved
+3. Description:  Lutropin alfa is a recombinant human luteinizing hormone produced in yeast with 2 subunits, alpha = 92 residues, beta = 121 residues. It is a heterodimeric glycoprotein. Each monomeric unit is a glycoprotein molecule. In females, an acute rise of LH ("LH surge") triggers ovulation and the development of the corpus luteum. In males, it stimulates Leydig cell production of testosterone. Lutropin alfa was the first and only recombinant human form of luteinizing hormone (LH) developed for use in the stimulation of follicular development.
+4. Indication:  For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH <1.2 international units [IU]/L)
+DrugId:  10
+1. Name:  Pegvisomant
+2. Groups:  Approved
+3. Description:  Pegvisomant is a highly selective growth hormone (GH) receptor antagonist. It is used to treat acromegaly. Unlike dopamine or somatostatin analogs (which inhibit growth hormone secretion), this drug actually blocks the hepatic (GH-mediated) production of insulin like growth factor (IGF-1), which is the main mediator of growth hormone activity.
+4. Indication:  Pegvisomant is a growth hormone receptor antagonist used for the treatment of acromegaly.
+DrugId:  11
+1. Name:  Gonadorelin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Gonadorelin is another name for gonadotropin-releasing hormone (GnRH). It is a synthetic decapeptide prepared using solid phase peptide synthesis. GnRH is responsible for the release of follicle stimulating hormone and leutinizing hormone from the anterior pitutitary.
+4. Indication:  For evaluating the functional capacity and response of the gonadotropes of the anterior pituitary also for evaluating residual gonadotropic function of the pituitary following removal of a pituitary tumor by surgery and/or irradiation.
+DrugId:  12
+1. Name:  Metyrapone
+2. Groups:  Approved, Investigational
+3. Description:  An inhibitor of the enzyme steroid 11-beta-monooxygenase. It is used as a test of the feedback hypothalamic-pituitary mechanism in the diagnosis of cushing syndrome. [PubChem]
+4. Indication:  Used as a diagnostic drug for testing hypothalamic-pituitary ACTH function. Occasionally used in Cushing's syndrome.
+DrugId:  13
+1. Name:  Corticorelin ovine triflutate
+2. Groups:  Approved
+3. Description:  Corticorelin, available commercially as corticorelin ovine triflutate (tradename Acthrel), is a synthetic form of the peptide human corticotropin-releasing hormone (hCRH), a potent stimulator of adrenocorticotropic hormone (ACTH) release from the anterior pituitary. Endogenous forms hCRH are involved in the stress response and its main function is stimulation of the pituitary to release ACTH. It is used as a diagnostic agent to evaluate the status of the pituitary-adrenal axis in the differentiation of a pituitary source from an ectopic source of excessive ACTH secretion. It provides a differential diagnosis for Cushing's disease (a pituitary source of ACTH excess) or of ectopic ACTH syndrome (an ectopic source of ACTH excess). If corticorelin injection results in an increase of plasma ACTH and cortisol, the patient is diagnosed with Cushing's disease. However, if corticorelin injection does not result in an increase of plasma ACTH and cortisol, the patient is diagnosed with ectopic ACTH syndrome.
+4. Indication:  Corticorelin is indicated for use in differentiating pituitary and ectopic production of ACTH in patients with ACTH-dependent Cushing's syndrome.
+DrugId:  14
+1. Name:  Danazol
+2. Groups:  Approved
+3. Description:  A synthetic steroid with antigonadotropic and anti-estrogenic activities that acts as an anterior pituitary suppressant by inhibiting the pituitary output of gonadotropins. It possesses some androgenic properties. Danazol has been used in the treatment of endometriosis and some benign breast disorders. [PubChem]
+4. Indication:  For the treatment of endometriosis and fibrocystic breast disease (in patients unresponsive to simple measures). Also used for the prophylactic treatment of all types of hereditary angioedema in males and females.
+DrugId:  15
+1. Name:  Nafarelin
+2. Groups:  Approved
+3. Description:  A potent synthetic agonist of gonadotropin-releasing hormone with 3-(2-naphthyl)-D-alanine substitution at residue 6. Nafarelin has been used in the treatments of central precocious puberty and endometriosis. [PubChem]
+4. Indication:  For treatment of central precocious puberty (true precocious puberty, GnRH-dependent precocious precocity, complete isosexual precocity) in children of both sexes and for the treatment of endometriosis.
+DrugId:  16
+1. Name:  Carbetocin
+2. Groups:  Approved, Investigational
+3. Description:  Carbetocin is a drug used to control postpartum hemorrhage, bleeding after giving birth. It is an analogue of oxytocin, and its action is similar to that of oxytocin -- it causes contraction of the uterus.
+4. Indication:  Used to control postpartum hemorrhage and bleeding after giving birth.
+DrugId:  17
+1. Name:  Tesamorelin
+2. Groups:  Approved, Investigational
+3. Description:  Tesamorelin is a stabilized synthetic peptide analogue of the hypothalamic peptide, Growth Hormone Releasing Hormone (GHRH) indicated for the reduction of excess abdominal fat in HIV-infected patients with lipodystrophy. Lipodystrophy is a metabolic condition characterized by insulin resistance, fat redistribution, and hyperlipidemia associated with antiretroviral therapy for HIV infection.
+4. Indication:  Tesamorelin acetate is a synthetic analogue of human hypothalamic Growth Hormone Releasing Factor (hGRF) indicated to induce and maintain a reduction of excess abdominal fat in HIV-infected patients with lipodystrophy. 
+DrugId:  18
+1. Name:  Setmelanotide
+2. Groups:  Investigational
+3. Description:  Setmelanotide has been investigated for the treatment of Obese and Overweight.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Selepressin
+2. Groups:  Investigational
+3. Description:  Selepressin has been used in trials studying the treatment of Septic Shock.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Dienestrol
+2. Groups:  Approved, Investigational
+3. Description:  Dienestrol is a synthetic, non-steroidal estrogen. It is an estrogen receptor agonist. Estrogens work partly by increasing a normal clear discharge from the vagina and making the vulva and urethra healthy. Using or applying an estrogen relieves or lessens: dryness and soreness in the vagina, itching, redness, or soreness of the vulva. Conditions that are treated with vaginal estrogens include a genital skin condition (vulvar atrophy), inflammation of the vagina (atrophic vaginitis), and inflammation of the urethra (atrophic urethritis).
+4. Indication:  For use in the treatment of atrophic vaginitis and kraurosis vulvae.
+DrugId:  21
+1. Name:  Menotropins
+2. Groups:  Approved
+3. Description:  Menotropins contains follicle stimulating hormone (FSH) and luteinizing hormone (LH) purified from the urine of postmenopausal women. It is used as a fertility medication that is injected either subcutaneously or intramuscularly. It is composed of LH with 2 subunits, alpha = 92 residues, beta = 121 residues and FSH with 2 subunits, alpha = 92 residues, beta=111 residues.
+4. Indication:  For the treatment of female infertility
+DrugId:  22
+1. Name:  Thyrotropin Alfa
+2. Groups:  Approved, Vet approved
+3. Description:  Thyrotropin alfa is a recombinant form of thyroid stimulating hormone used in performing certain tests in patients who have or have had thyroid cancer. It is also used along with a radioactive agent to destroy remaining thyroid tissue in certain patients who have had their thyroid gland removed because of thyroid cancer. It is a heterodimeric glycoprotein comprised of two non-covalently linked subunits, an alpha subunit of 92 amino acid residues containing two N-linked glycosylation sites and a beta subunit of 112 residues containing one N-linked glycosylation site. The alpha subunit is nearly identical to that of human chorionic gonadotropin (hCG), luteinizing hormone (LH), and follicle-stimulating hormone (FSH). The alpha subunit is thought to be the effector region responsible for stimulation of adenylate cyclase (involved the generation of cAMP). The beta subunit (TSHB) is unique to TSH, and therefore determines its receptor specificity. The amino acid sequence of thyrotropin alfa is identical to that of human pituitary thyroid stimulating hormone.
+4. Indication:  For detection of residueal or recurrent thyroid cancer
+DrugId:  23
+1. Name:  Zoptarelin doxorubicin
+2. Groups:  Investigational
+3. Description:  Zoptarelin doxorubicin has been used in trials studying the treatment of Breast Cancer, Ovarian Cancer, Prostate Cancer, Endometrial Cancer, and Urothelial Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Quinestrol
+2. Groups:  Approved
+3. Description:  The 3-cyclopentyl ether of ethinyl estradiol.
+4. Indication:  Used in hormone replacement therapy, treating symptoms of menopause such as hot flashes. Also used to treat breast and prostate cancer.
+DrugId:  25
+1. Name:  Clomifene
+2. Groups:  Approved, Investigational
+3. Description:  A triphenyl ethylene stilbene derivative which is an estrogen agonist or antagonist depending on the target tissue.
+4. Indication:  Used mainly in female infertility due to anovulation (e.g. due to polycystic ovary syndrome) to induce ovulation. 

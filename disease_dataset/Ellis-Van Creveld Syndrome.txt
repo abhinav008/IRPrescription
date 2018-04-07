@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Rizatriptan
+2. Groups:  Approved
+3. Description:  Rizatriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For treatment of acute migraine attacks with or without aura.
+DrugId:  2
+1. Name:  Topiramate
+2. Groups:  Approved
+3. Description:  Topiramate (brand name Topamax) is an anticonvulsant drug produced by Ortho-McNeil Neurologics, a division of Johnson & Johnson. It is used to treat epilepsy in both children and adults. In children it is also indicated for treatment of Lennox-Gastaut syndrome (a disorder that causes seizures and developmental delays). It is also Food and Drug Administration (FDA) approved for, and now most frequently prescribed for, the prevention of migraines. [Wikipedia]. A combination product containing phentermine and topiramate extended-release called QSYMIA® is indicated for the management of obesity. On August 2013, an extended released formulation, marketed as Trokendi XR has been approved for the management of partial onset, tonic-clonic, and Lennox-Gastaut Syndrome seizures. 
+4. Indication:  Used for the treatment and control of partial seizures and severe tonic-clonic (grand mal) seizures and also for the prevention of migraine headaches. In children it is also used for treatment of Lennox-Gastaut syndrome. Qsymia® is indicated for the treatment and management of obesity.
+DrugId:  3
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  4
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  5
+1. Name:  Donepezil
+2. Groups:  Approved
+3. Description:  Donepezil (Aricept), is a centrally acting reversible acetyl cholinesterase inhibitor. Its main therapeutic use is in the treatment of Alzheimer's disease where it is used to increase cortical acetylcholine. Donepezil is postulated to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by acetylcholinesterase. If this proposed mechanism of action is correct, donepezil's effect may lessen as the disease process advances and fewer cholinergic neurons remain functionally intact. Donepezil has been tested in other cognitive disorders including Lewy body dementia and Vascular dementia, but it is not currently approved for these indications. Donepezil has also been studied in patients with Mild Cognitive Impairment, schizophrenia, attention deficit disorder, post-coronary bypass cognitive impairment, cognitive impairment associated with multiple sclerosis, and Down syndrome.
+4. Indication:  For the palliative treatment of mild to moderate dementia of the Alzheimer's type.
+DrugId:  6
+1. Name:  Anastrozole
+2. Groups:  Approved, Investigational
+3. Description:  Anastrozole is a drug indicated in the treatment of breast cancer in post-menopausal women. It is used both in adjuvant therapy (i.e. following surgery) and in metastatic breast cancer. It decreases the amount of estrogens that the body makes. Anastrozole belongs in the class of drugs known as aromatase inhibitors. It inhibits the enzyme aromatase, which is responsible for converting androgens (produced by women in the adrenal glands) to estrogens.
+4. Indication:  For adjuvant treatment of hormone receptor positive breast cancer , as well as hormonal treatment of advanced breast cancer in post-menopausal women. Has also been used to treat pubertal gynecomastia and McCune-Albright syndrome; however, manufacturer states that efficacy for these indications have not been established.
+DrugId:  7
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Omeprazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and Zollinger-Ellison syndrome. Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+4. Indication:  Omeprazole is indicated for the treatment of duodenal ulcers, benign gastric ulcers, gastroesophageal reflux disease (GERD), heartburn and other symptoms associated with GERD, erosive esophagitis, and long-term treatment of pathological hypersecretory conditions like Zollinger-Ellison syndrome, multiple endocrine adenomas, and systemic mastocytosis. 
+DrugId:  10
+1. Name:  Ondansetron
+2. Groups:  Approved
+3. Description:  A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties. [PubChem]
+4. Indication:  For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, postoperation, and radiation. Also used for the treatment of postoperative nausea and vomiting.
+DrugId:  11
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  12
+1. Name:  TC-5231
+2. Groups:  Investigational
+3. Description:  TC-5231 is a small molecule that has been under investigation as an oral treatment for ADHD (Attention Deficit/Hyperactivity Disorder). TC-5231 is mecamylamine hydrochloride, the active ingredient in FDA-approved product, Inversine, but in a lower dose than Inversine. 
+4. Indication:  Investigated for use/treatment in attention deficit/hyperactivity disorder (ADHD), neurologic disorders, and tourette's syndrome.
+DrugId:  13
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  14
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  16
+1. Name:  Glucagon-like peptide II
+2. Groups:  Investigational
+3. Description:  Glucagon-like peptide II is under investigation for the basic science of Short Bowel Syndrome.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Sertraline
+2. Groups:  Approved
+3. Description:  Sertraline hydrochloride belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). Despite distinct structural differences between compounds in this class, SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be required before a clinical effect is seen. SSRIs are potent inhibitors of neuronal serotonin reuptake [7]. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute use, SSRIs block serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The overall clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction and headache (see Toxicity section below for a more detailed listing of side effects). Compared to other agents in this class, sertraline may cause greater diarrheal and male sexual dysfunction effects [5]. Sertraline displays a better safety or tolerability profile than other classes of antidepressants [6]. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants or monoamine oxidase inhibitors [7]. Sertraline has shown therapeutic effectiveness as a treatment for major depressive disorder [1], obsessive-compulsive disorder (OCD) [2], panic disorder, post-traumatic stress disorder (PTSD) [3], premenstrual dysphoric disorder (PMDD) [4] and social anxiety disorder (social phobia).
+4. Indication:  For the management of major depressive disorder (MDD), posttraumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (PD) with or without agoraphobia, premenstrual dysphoric disorder (PMDD), and social anxiety disorder (SAD) [FDA Label]. It may be used for premature ejaculation and vascular headaches as off-label indications. 
+DrugId:  18
+1. Name:  LX1031
+2. Groups:  Investigational
+3. Description:  LX1031 is an orally-dosed drug candidate for irritable bowel syndrome and other gastrointestinal disorders. LX1031 was generated by Lexicon medicinal chemists, and its target was internally identified as a key control point for the regulation of peripheral serotonin levels. LX1031 is designed to act locally in the gastrointestinal tract by reducing the serotonin available for receptor activation, without affecting serotonin levels in the brain or its central nervous system functions.
+4. Indication:  Irritable bowel syndrome (IBS) and other gastrointestinal disorders
+DrugId:  19
+1. Name:  CAM-2029
+2. Groups:  Investigational
+3. Description:  CAM2029 is a new ready-to-use, long-acting octreotide formulation being developed for the long-term treatment of acromegaly, carcinoid syndrome and vasoactive intestinal peptide (VIP)-producing tumours. CAM2029 was found to provide long-acting release of octreotide resulting in a statistically significant suppression of a clinical biomarker insulin-like growth factor 1 (IGF-1) over the target one-month therapeutic period.
+4. Indication:  Investigated for use/treatment in acromegaly and cancer/tumors (unspecified).
+DrugId:  20
+1. Name:  Milatuzumab
+2. Groups:  Investigational
+3. Description:  Milatuzumab has been used in trials studying the treatment of Lupus Nephritis, Multiple Myeloma (MM), GVHD (Acute or Chronic), Myelodysplastic Syndrome, and Chronic Lymphocytic Leukemia, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Calfactant
+2. Groups:  Approved
+3. Description:  Calfactant is a sterile, non-pyrogenic lung surfactant intended for intratracheal instillation. It is an off-white suspension of an extract of natural surfactant from calf lungs suspended in 0.9% saline. Each milliliter of calfactant contains 35mg of phospholipids (including 26 mg phosphatidylcholine of which 16 mg is disaturated phosphatidylcholine) and 0.65mg of proteins including surfactant-associated proteins B and C.Calfactant is approved for use in the United States of America. It is used to prevent or treat respiratory distress syndrome in premature infants with lung surfactant deficiency. Calfactant has been shown to decrease the incidence of respiratory distress syndrome, mortality due to respiratory distress syndrome, and air leaks associated with respiratory distress syndrome in clinical trials. It adsorbs to the air:fluid interface in the lungs and works to reduce surface tension, in a manner similar to endogenous pulmonary surfactant.
+4. Indication:  Calfactant is indicated for prophylaxis therapy to prevent respiratory distress syndrome (RDS) in premature infants <29 weeks of gestational age with low lung surfactant and at high risk for RDS. Calfactant therapy is also indicated for the treatment of respiratory distress syndrome in infants 72 hours or less of age with RDS confirmed by clinical and radiologic findings and requiring endotracheal intubation.
+DrugId:  22
+1. Name:  AT7519
+2. Groups:  Investigational
+3. Description:  AT7519 is a selective inhibitor of certain Cyclin Dependent Kinases (CDKs) leading to tumour regression. It is developed by Astex for the treatment of solid tumours and haematological malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (unspecified), lymphoma (unspecified), myelodysplastic syndrome, and solid tumors.
+DrugId:  23
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  24
+1. Name:  Ghrelin
+2. Groups:  Investigational
+3. Description:  Ghrelin has been investigated for the treatment and basic science of Cancer, Alcoholism, Metabolism, Hypopituitarism, and Frailty Syndrome, among others.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Thymosin beta-4
+2. Groups:  Investigational
+3. Description:  Thymosin Beta 4 has been investigated for the treatment of STEMI, Dry Eye, Diabetes, Pressure Ulcers, and Dry Eye Syndrome, among others.
+4. Indication:  Not Available

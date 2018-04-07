@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  2
+1. Name:  Guanadrel
+2. Groups:  Approved
+3. Description:  Guanadrel is a postganglionic adrenergic blocking agent. Uptake of guanadrel and storage in sympathetic neurons occurs via the norepinephrine pump or transporter.
+4. Indication:  Used to treat and control hypertension.
+DrugId:  3
+1. Name:  Guanfacine
+2. Groups:  Approved, Investigational
+3. Description:  A centrally acting antihypertensive agent. The drug lowers both systolic and diastolic blood pressure by activating the central nervous system alpha-2 adrenoreceptors, which results in reduced sympathetic outflow leading to reduced vascular tone. Its adverse reactions include dry mouth, sedation, and constipation. [PubChem]
+4. Indication:  For use alone or in combination with other classes of antihypertensive agents in the management of hypertension. Has also been used for the treatment of attention deficit hyperactivity disorder (ADHD) in pediatric patients.
+DrugId:  4
+1. Name:  Amibegron
+2. Groups:  Investigational
+3. Description:  Amibegron is an agonist for atypical beta3-adrenoceptors which inhibits intestinal motility.
+4. Indication:  Investigated for use/treatment in depression, irritable bowel syndrome (IBS), and obesity.
+DrugId:  5
+1. Name:  Debrisoquin
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic neuron-blocking drug similar in effects to guanethidine. It is also noteworthy in being a substrate for a polymorphic cytochrome P-450 enzyme. Persons with certain isoforms of this enzyme are unable to properly metabolize this and many other clinically important drugs. They are commonly referred to as having a debrisoquin 4-hydroxylase polymorphism. [PubChem]
+4. Indication:  For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.
+DrugId:  6
+1. Name:  Guanethidine
+2. Groups:  Approved
+3. Description:  An antihypertensive agent that acts by inhibiting selectively transmission in post-ganglionic adrenergic nerves. It is believed to act mainly by preventing the release of norepinephrine at nerve endings and causes depletion of norepinephrine in peripheral sympathetic nerve terminals as well as in tissues. [PubChem]
+4. Indication:  For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.
+DrugId:  7
+1. Name:  Practolol
+2. Groups:  Approved
+3. Description:  A beta-adrenergic antagonist that has been used in the emergency treatment of cardiac arrhythmias. [PubChem]
+4. Indication:  Used in the emergency treatment of cardiac arrhythmias.
+DrugId:  8
+1. Name:  Isometheptene
+2. Groups:  Approved
+3. Description:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.
+4. Indication:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.
+DrugId:  9
+1. Name:  Bethanidine
+2. Groups:  Approved
+3. Description:  A guanidinium antihypertensive agent that acts by blocking adrenergic transmission.
+4. Indication:  For the treatment of hypertension.
+DrugId:  10
+1. Name:  Guanabenz
+2. Groups:  Approved, Investigational
+3. Description:  An alpha-2 selective adrenergic agonist used as an antihypertensive agent. [PubChem]
+4. Indication:  For management of High blood pressure
+DrugId:  11
+1. Name:  Dexmedetomidine
+2. Groups:  Approved, Vet approved
+3. Description:  An agonist of receptors, adrenergic alpha-2 that is used in veterinary medicine for its analgesic and sedative properties. It is the racemate of dexmedetomidine. [PubChem]
+4. Indication:  For sedation of initially intubated and mechanically ventilated patients during treatment in an intensive care setting, also used in pain relief; anxiety reduction and analgesia
+DrugId:  12
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  13
+1. Name:  Bupranolol
+2. Groups:  Approved
+3. Description:  Bupranolol is a non-selective beta blocker without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to "propranolol":http://www.drugbank.ca/drugs/DB00571.
+4. Indication:  Used to manage hypertension and tachycardia. Also used to treat glaucoma.
+DrugId:  14
+1. Name:  Xamoterol
+2. Groups:  Experimental
+3. Description:  Xamoterol is a β1-adrenoceptor partial agonist that has shown to improve systolic and diastolic function in studies with heart failure patients. It modulates the sympathetic control of the heart but has no agonist action on β2-adrenoceptors.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Clonidine
+2. Groups:  Approved
+3. Description:  Clonidine, an imidazoline-derivative hypotensive agent is a centrally-acting α2-adrenergic agonist. It crosses the blood-brain barrier and acts in the hypothalamus to induce a decrease in blood pressure. It may also be administered as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone. Clonidine may be used for differential diagnosis of pheochromocytoma in hypertensive patients. Other uses for clonidine include prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD). Clonidine also exhibits some peripheral activity. 
+4. Indication:  May be used as an adjunct in the treatment of hypertension, as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone, for differential diagnosis of pheochromocytoma in hypertensive patients, prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD).
+DrugId:  16
+1. Name:  Trimethaphan
+2. Groups:  Approved, Investigational
+3. Description:  A nicotinic antagonist that has been used as a ganglionic blocker in hypertension, as an adjunct to anesthesia, and to induce hypotension during surgery. [PubChem]
+4. Indication:  For the controlled reduction of blood pressure during surgery and in the treatment of hypertensive emergencies.
+DrugId:  17
+1. Name:  Pargyline
+2. Groups:  Approved
+3. Description:  A monoamine oxidase inhibitor with antihypertensive properties. [PubChem]
+4. Indication:  For the treatment of moderate to severe hypertension.
+DrugId:  18
+1. Name:  Dopamine
+2. Groups:  Approved
+3. Description:  One of the catecholamine neurotransmitters in the brain. It is derived from tyrosine and is the precursor to norepinephrine and epinephrine. Dopamine is a major transmitter in the extrapyramidal system of the brain, and important in regulating movement. A family of receptors (receptors, dopamine) mediate its action.
+4. Indication:  For the correction of hemodynamic imbalances present in the shock syndrome due to myocardial infarction, trauma, endotoxic septicemia, open-heart surgery, renal failure, and chronic cardiac decompensation as in congestive failure
+DrugId:  19
+1. Name:  Yohimbine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A plant alkaloid with alpha-2-adrenergic blocking activity. Yohimbine has been used as a mydriatic and in the treatment of impotence. It is also alleged to be an aphrodisiac. [PubChem]
+4. Indication:  Indicated as a sympatholytic and mydriatic. Impotence has been successfully treated with yohimbine in male patients with vascular or diabetic origins and psychogenic origins.
+DrugId:  20
+1. Name:  Bretylium
+2. Groups:  Approved
+3. Description:  Bretylium blocks the release of noradrenaline from the peripheral sympathetic nervous system, and is used in emergency medicine, cardiology, and other specialties for the acute management of ventricular tachycardia and ventricular fibrillation. The primary mode of action for bretylium is thought to be inhibition of voltage-gated K(+) channels. Recent evidence has shown that bretylium may also inhibit the Na,K-ATPase by binding to the extracellular K-site.
+4. Indication:  For use in the prophylaxis and therapy of ventricular fibrillation. Also used in the treatment of life-threatening ventricular arrhythmias, such as ventricular tachycardia, that have failed to respond to adequate doses of a first-line antiarrhythmic agent, such as lidocaine.
+DrugId:  21
+1. Name:  Cilnidipine
+2. Groups:  Approved, Investigational
+3. Description:  Cilnidipine is a dihydropyridine calcium antagonist. It was jointly developed by Fuji Viscera Pharmaceutical Company, Japan and Ajinomoto, Japan and approved in 1995. Compared with other calcium antagonists, cilnidipine can act on the N-type calcium channel that existing sympathetic nerve end besides acting on L-type calcium channel that similar to most of the calcium antagonists. Cilnidipine is approved for use in Japan, China, India, Korea and some European countries.[1]
+4. Indication:  Cilnidipine is indicated for the management of hypertension for end-organ protection.[5] It is reported to be useful in elderly patients and in those with diabetes and albuminuria. Cilnidipine has been increasingly used in patients with chronic kidney disease Hypertension is the term used to describe the presence of high blood pressure. The blood pressure is generated by the force of the blood pumped from the heart against the blood vessels. Thus hypertension is caused when there is too much pressure on the blood vessels and this effect can damage the blood vessel.[6]
+DrugId:  22
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  23
+1. Name:  Bevantolol
+2. Groups:  Approved
+3. Description:  Bevantolol is a beta-1 adrenoceptor antagonist that has been shown to be as effective as other beta blockers for the treatment of angina pectoris and hypertension. Mechanism of Action Animal experiments confirm both agonist and antagonist effects on alpha-receptors, in addition to antagonist activity at beta-1 receptors.
+4. Indication:  For the treatment of angina pectoris and hypertension.
+DrugId:  24
+1. Name:  Ephedra
+2. Groups:  Approved, Nutraceutical, Withdrawn
+3. Description:  Ephedra is an alkaloid chemical compound traditionally obtained from the plant Ephedra sinica. The sale of ephedra-containing supplements was banned in the United States in 2004. The drug is still sold in Canada in OTC formulations.
+4. Indication:  Ephedra is widely used by athletes, despite a lack of evidence that it enhances athletic performance. Ephedra has also been used for weight loss.
+DrugId:  25
+1. Name:  Imidafenacin
+2. Groups:  Approved, Investigational
+3. Description:  Imidafenacin is a urinary antispasmodic of the anticholinergic class. It antagonizes mucarinic receptors in the bladder to reduce the frequency of urination in the treatment of overactive bladder. It is marketed in Japan under the tradenames Staybla by Ono Pharmaceutical and Uritos by Kyojin Pharmaceutical.
+4. Indication:  Used in the treatment of overactive bladder [FDA Label].

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Doxapram
+2. Groups:  Approved, Vet approved
+3. Description:  A central respiratory stimulant with a brief duration of action. (From Martindale, The Extra Pharmocopoeia, 30th ed, p1225)
+4. Indication:  For use as a temporary measure in hospitalized patients with acute respiratory insufficiency superimposed on chronic obstructive pulmonary disease.
+DrugId:  2
+1. Name:  AP5280
+2. Groups:  Investigational
+3. Description:  AP5280 is a novel N-(2-hydroxypropyl)methacrylamide (HPMA) copolymer-bound platinum (Pt) therapeutic designed to increase the therapeutic index relative to conventional, small-molecule platinum agents.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  3
+1. Name:  Fasudil
+2. Groups:  Investigational
+3. Description:  Fasudil has been investigated in Carotid Stenosis.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Gallium citrate Ga 67
+2. Groups:  Approved
+3. Description:  Gallium citrate Ga 67 is the citrate salt of the radioisotope gallium Ga 67. Although the mechanism is unknown, gallium Ga 67 concentrates in lysosomes and is bound to a soluble intracellular protein in certain viable primary and metastatic tumors and focal sites of inflammation, allowing scintigraphic localization. Ga-67 scintigraphy (GS) cannot differentiate between tumor and acute inflammation. [NCI Thesaurus]
+4. Indication:  Gallium Citrate Ga 67 Injection may be useful to demonstrate the presence and extent of Hodgkin's disease, lymphoma, and bronchogenic carcinoma. Positive gallium Ga-67 uptake in the absence of prior symptoms warrants follow-up as an indication of a potential disease state. Gallium Citrate Ga 67 Injection may be useful as an aid in detecting some acute inflammatory lesions.
+DrugId:  5
+1. Name:  Almitrine
+2. Groups:  Approved
+3. Description:  A respiratory stimulant that enhances respiration by acting as an agonist of peripheral chemoreceptors located on the carotid bodies. The drug increases arterial oxygen tension while decreasing arterial carbon dioxide tension in patients with chronic obstructive pulmonary disease. It may also prove useful in the treatment of nocturnal oxygen desaturation without impairing the quality of sleep. [PubChem]
+4. Indication:  For the treatment of chronic obstructive pulmonary disease.
+DrugId:  6
+1. Name:  OPC-28326
+2. Groups:  Investigational
+3. Description:  At low doses, OPC 28326 selectively vasodilates the femoral arterial bed due to its inhibitory action at alpha-2-adrenoceptors while having minimal action on systemic blood pressure, heart rate and coronary, carotid, vertebral, renal, and mesenteric blood flows. It is the only clinical compound with this profile. It is currently being investigated in the treatment of peripheral vascular diseases and Raynaud's syndrome.
+4. Indication:  Investigated for use/treatment in peripheral vascular disease and raynaud's disease.
+DrugId:  7
+1. Name:  Durvalumab
+2. Groups:  Approved, Investigational
+3. Description:  Durvalumab is a a human monoclonal antibody that blocks programmed death ligand 1 (PD-L1), or CD 274. In May, 2017 it received FDA approval for previously treated patients with locally advanced or metastatic cancer in the urinary system (as Imfinzi). It is shown to be effective in patients with continued disease progression after the platinum-based chemotherapy. This drug has a relatively tolerable safety profile and its structural modification advantageously prevents the induction of antibody-dependent cytotoxicity (ADCC) or complement-dependent cytotoxicity (CDC) [5].
+4. Indication:  Durvalumab is indicated for patients with urothelial carcinoma, such as urinary bladder, urethra or ureter cancer. Patients with prolonged disease progression due to failed platinum-based chemotherapy such as cisplatin and carboplatin are most likely to benefit from durvalumab treatment. Its clinical effectiveness is especially enhanced in PD-L1-positive patient groups [1]. 
+DrugId:  8
+1. Name:  AG-858
+2. Groups:  Investigational
+3. Description:  AG-858 (autologous heat-shock protein 70 peptide vaccine) isa recombinant cancer vaccine made with tumor-derived heat shock protein 70 (HSP70) peptide complexes. HSP70 associates with antigenic peptides, transporting them into antigen presenting cells (APC) for processing. Tumor-derived HSP70-peptide complexes used in vaccine preparations have been shown to prime tumor immunity and tumor-specific T cells in animal models.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid).
+DrugId:  9
+1. Name:  DOTMP HO-166
+2. Groups:  Investigational
+3. Description:  DOTMP HO-166 is used in skeletal targeted radiotherapy (STR). SRT is designed to be used in combination with high-dose chemotherapy producing a direct therapeutic effect on the tumor sites in the bone plus a general bone-marrow effect to destroy myeloma cells in the bone marrow. It is an experimental therapy that is being developed by NeoRx Corporation.
+4. Indication:  Investigated for use/treatment in multiple myeloma.
+DrugId:  10
+1. Name:  HspE7
+2. Groups:  Investigational
+3. Description:  HspE7 is a recombinant chimeric protein composed of the heat shock protein 65 (Hsp65) from Mycobacterium bovis, and the human papilloma viral (HPV) protein E7. Hsp65, similar to other members of its family of proteins, elicits a strong immune response and may be used to design vaccines against a number of different cancers. E7 protein is involved in carcinogenesis of anal and cervical tumors, and represents a tumor antigen that may be specifically targeted by lymphocytes. It is being developed by StressGen Biotechnologies Corp.
+4. Indication:  Investigated for use/treatment in anal dysplasia, cervical dysplasia/cancer, genital warts, HIV infection, infectious and parasitic disease (unspecified), pediatric indications, warts, and viral infection.
+DrugId:  11
+1. Name:  WF10
+2. Groups:  Approved, Investigational
+3. Description:  WF10 is a chlorite-based, immunomodulating drug is developed by Nuvo Research Inc. Certain preclinical evidence and clinical pilot data suggest that WF10 may be effective in treating certain cancers. The Corporation believes the research to-date demonstrates that WF10 acts on macrophages (a type of white blood cell) by modulating the balance between inflammation and phagocytosis, a state in which the body digests foreign, potentially harmful substances. The Corporation has commenced a Phase II clinical trial in an effort to demonstrate the efficacy of WF10 in combination with Xeloda (capecitabine) in the treatment of pancreatic cancer. The trial is being conducted in Germany at the University of Heidelberg and the National Centre for Tumor Diseases.
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, cancer/tumors (unspecified), HIV infection, and inflammatory disorders (unspecified).
+DrugId:  12
+1. Name:  Eniluracil
+2. Groups:  Investigational
+3. Description:  Eniluracil, which was previously under development by GlaxoSmithKline (GSK), is being developed by Adherex to enhance the therapeutic value and effectiveness of 5-fluorouracil (5-FU), one of the world’s most widely-used oncology agents. 5-FU is widely used in the U.S. and is often first or second line therapy for a variety of cancers including colorectal, breast, gastric, head and neck, ovarian and basal cell cancer of the skin. Eniluracil could improve 5-FU by increasing its effectiveness, reducing its side effects and/or making it orally available. Eniluracil has received Orphan Drug status from the FDA for the treatment of hepatocellular cancer in combination with fluoropyrimidines (including 5-FU).
+4. Indication:  For the treatment of cancer in combination with 5-fluorouracil.
+DrugId:  13
+1. Name:  Aldesleukin
+2. Groups:  Approved
+3. Description:  Aldesleukin, a lymphokine, is produced by recombinant DNA technology using a genetically engineered E. coli strain containing an analog of the human interleukin-2 gene. Genetic engineering techniques were used to modify the human IL-2 gene, and the resulting expression clone encodes a modified human interleukin-2. This recombinant form differs from native interleukin-2 in the following ways: a) Aldesleukin is not glycosylated because it is derived from E. coli; b) the molecule has no N-terminal alanine; the codon for this amino acid was deleted during the genetic engineering procedure; c) the molecule has serine substituted for cysteine at amino acid position 125.
+4. Indication:  For treatment of adults with metastatic renal cell carcinoma.
+DrugId:  14
+1. Name:  Denibulin
+2. Groups:  Investigational
+3. Description:  Denibulin is a novel small molecule Vascular Disrupting Agent under development by MediciNova for treatment of solid tumor cancers.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  15
+1. Name:  Blatella germanica
+2. Groups:  Approved
+3. Description:  German cockroach allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Anastrozole
+2. Groups:  Approved, Investigational
+3. Description:  Anastrozole is a drug indicated in the treatment of breast cancer in post-menopausal women. It is used both in adjuvant therapy (i.e. following surgery) and in metastatic breast cancer. It decreases the amount of estrogens that the body makes. Anastrozole belongs in the class of drugs known as aromatase inhibitors. It inhibits the enzyme aromatase, which is responsible for converting androgens (produced by women in the adrenal glands) to estrogens.
+4. Indication:  For adjuvant treatment of hormone receptor positive breast cancer , as well as hormonal treatment of advanced breast cancer in post-menopausal women. Has also been used to treat pubertal gynecomastia and McCune-Albright syndrome; however, manufacturer states that efficacy for these indications have not been established.
+DrugId:  17
+1. Name:  Solenopsis invicta
+2. Groups:  Approved
+3. Description:  Solenopsis invicta allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Fluciclovine (18F)
+2. Groups:  Approved
+3. Description:  Fluciclovine is a [18F]-tagged synthetic analog of the amino acid L-leucine. It presents excellent diagnostic properties to be used in positron emission tomography (PET) imaging.[2] The structure of fluciclovine allows it to be uptaken by the tumoral cells by its amino acid transporter without incorporating in the metabolism within the body.[3] Fluciclovine was developed by Blue Earth Diagnostics, Ltd. and FDA approved in May 27, 2016.[7]
+4. Indication:  Fluciclovine is indicated as a detection agent for positron emission tomography (PET) in men with suspected prostate cancer recurrence based on elevated blood prostate specific antigen (PSA) levels following prior treatment.[4] The overexpression of L-type amino acid transporters such as LAT1 and LAT3 that mediate the uptake of essential amino acids has been extensively reported as a tumoral mechanism of cell growth.[5]
+DrugId:  19
+1. Name:  ADH-1
+2. Groups:  Investigational
+3. Description:  Adherex's biotechnology compound, ADH-1, targets N-cadherin, a protein present on certain tumor cells and established tumor blood vessels. ADH-1 is currently in clinical development in a combination program with a range of chemotherapeutic agents to investigate the synergistic effects noted in our preclinical models. At the end of 2006, the Company also completed patient enrollment in our single-agent Phase Ib/II and Phase II trials of ADH-1.Cadherins are cell adhesion and cell signaling molecules crucial to the development of tissues, organs and organisms. Agents that target and inhibit cadherin function have the potential to attack the progression of cancer at two distinct points:* Direct targeting of cadherins expressed on cancer cells may disturb cadherin-mediated signaling, leading to apoptosis (death) of cancer cells.* Cadherin inhibitors may exploit the inherent structural weaknesses of the tumor vasculature, causing angiolysis (disruption of blood vessels) and tumor damage.As many tumors become more aggressive, invasive, and malignant, researchers have found that N-cadherin is expressed in greater amounts, making it an important target for developing anti-cancer treatments.Poorly differentiated, highly invasive carcinomas are characterized by over-expression of N-cadherin (as opposed to E-cadherin). This change in primary cadherin expression causes the epithelial cells to lose their tightly adherent, polarized and well-defined shape and become loosely adherent, flattened and migratory. Such cadherin switching promotes properties such as dedifferentiation, local invasion and metastasis, leading to poor prognosis.ADH-1 may have utility in a wide variety of cancers as N-cadherin is overexpressed in a variety of tumors. As tumors progress to become higher grade, invasive and more metastatic, the frequency of N-cadherin expression generally rises.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), melanoma, ovarian cancer, and solid tumors.
+DrugId:  20
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  21
+1. Name:  OXI-4503
+2. Groups:  Investigational
+3. Description:  OXI-4503 is investigated in clinical trials for treating cancer/tumors. OXI-4503 is a solid. OXI-4503 blocks and destroys tumor vasculature, resulting in extensive tumor cell death and necrosis. OXI-4503 (combretastatin A1 di-phosphate / CA1P) is a unique and highly potent, dual-mechanism vascular disrupting agent (VDA). In addition, however, preclinical data demonstrates that OXI-4503 is metabolized by oxidative enzymes (e.g., tyrosinase and peroxidases), which are elevated in many solid tumors and tumor infiltrates, to an orthoquinone chemical species that has direct cytotoxic effects on tumor cells. Preclinical studies have demonstrated that OXI-4503 has (i) single-agent activity against a range of xenograft tumor models; and (ii) synergistic or additive effects when incorporated in various combination regimens with chemotherapy, molecularly-targeted therapies (including tumor-angiogenesis inhibitors), and radiation therapy.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  22
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  23
+1. Name:  Telotristat ethyl
+2. Groups:  Approved, Investigational
+3. Description:  Telotristat only approved oral therapy for carcinoid syndrome diarrhea. Telotristat was approved by the FDA in March, 2017 as Xermelo.
+4. Indication:  As a serotonin synthesis inhibitor, telotristat etiprate, has the potential to reduce serotonin levels and address the key elements of carcinoid syndrome. 
+DrugId:  24
+1. Name:  Cintredekin Besudotox
+2. Groups:  Investigational
+3. Description:  Cintredekin besudotox has been developed as a specific tumor-targeting agent, which is administered by positive-pressure convection-enhanced delivery (CED) directly to brain tissue at risk for residual infiltrating glioblastoma multiforme (GBM) after tumor resection. cintredekin besudotox is made from a human protein, Interleukin 13 (IL13), linked to a bacterial toxin, Pseudomonas exotoxin (PE). The IL13 portion binds to receptors on the tumor.
+4. Indication:  Investigated for use/treatment in brain cancer.
+DrugId:  25
+1. Name:  XL765
+2. Groups:  Investigational
+3. Description:  XL765 is an orally available small molecule that has been shown in preclinical studies to selectively inhibit the activity of phosphoinositide-3 kinase (PI3K) and mammalian target of rapamycin (mTOR). It is being developed by Exelixis, Inc.
+4. Indication:  For the treatment of various forms of cancer.

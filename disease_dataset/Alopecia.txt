@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Tralokinumab
+2. Groups:  Investigational
+3. Description:  Tralokinumab is under investigation for the treatment of Alopecia Areata. Tralokinumab has been investigated for the treatment of Asthma.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Finasteride
+2. Groups:  Approved
+3. Description:  An orally active testosterone 5-alpha-reductase inhibitor. It is used as a surgical alternative for treatment of benign prostatic hyperplasia. [PubChem]
+4. Indication:  For the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate to: Improve symptoms, reduce the risk of acute urinary retention, reduce the risk of the need for surgery including transurethral resection of the prostate. Also used for the stimulation of regrowth of hair in men with mild to moderate androgenetic alopecia (male pattern alopecia, hereditary alopecia, common male baldness).
+DrugId:  3
+1. Name:  Minoxidil
+2. Groups:  Approved, Investigational
+3. Description:  A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure. (From Martindale, The Extra Pharmacopoeia, 30th ed, p371)
+4. Indication:  For the treatment of severe hypertension and in the topical treatment (regrowth) of androgenic alopecia in males and females and stabilisation of hair loss in patients with androgenic alopecia.
+DrugId:  4
+1. Name:  LGD2941
+2. Groups:  Investigational
+3. Description:  LGD2941 is a non-steroidal, selective androgen receptor modulator (SARM) developed jointly by Ligand and TAP.
+4. Indication:  For the treatment and prevention of osteoporosis.
+DrugId:  5
+1. Name:  Pertuzumab
+2. Groups:  Approved
+3. Description:  Pertuzumab is a recombinant humanized monoclonal antibody that targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2). It consists of two heavy chains and two lights chains that have 448 and 214 residues respectively. FDA approved June 8, 2012.
+4. Indication:  Pertuzumab is indicated for use in combination with trastuzumab and docetaxel for the treatment of patients with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease.
+DrugId:  6
+1. Name:  Vismodegib
+2. Groups:  Approved, Investigational
+3. Description:  Vismodegib inhibits the hedgehog signalling pathway and is indicated for treatment of adult basal cell carcinoma. FDA approved on Jan 30, 2012. 
+4. Indication:  Vismodegib is used for treating locally advanced or metastatic basal cell carcinoma in patients whose carcinoma has recurred after surgery, and in patients who are not candidates for surgery or radiation.
+DrugId:  7
+1. Name:  Nitrogen
+2. Groups:  Approved, Vet approved
+3. Description:  Nitrogen is a chemical element with symbol N and atomic number 7. At room temperature, it is a transparent, odorless diatomic gas.Liquid nitrogen is used principally in cryotherapy for removal of diseased skin. Liquid nitrogen helps in removal of skin lesions through necrosis, which results from the freezing and thawing of cells. Cryotherapy usually done in doctors' office. Also, nitrogen is very famous component in fertilizers and energy-stores.
+4. Indication:  Liquid nitrogen is used mainly as a cryogenic agent for the treatment of various benign and malignant skin lesions. 
+DrugId:  8
+1. Name:  Cyclophosphamide
+2. Groups:  Approved, Investigational
+3. Description:  Precursor of an alkylating nitrogen mustard antineoplastic and immunosuppressive agent that must be activated in the liver to form the active aldophosphamide. It has been used in the treatment of lymphoma and leukemia. Its side effect, alopecia, has been used for defleecing sheep. Cyclophosphamide may also cause sterility, birth defects, mutations, and cancer. [PubChem]
+4. Indication:  Cyclophosphamide is indicated for the treatment of malignant lymphomas, multiple myeloma, leukemias, mycosis fungoides (advanced disease), neuroblastoma (disseminated disease), adenocarcinoma of the ovary, retinoblastoma, and carcinoma of the breast. It is also indicated for the treatment of biopsy-proven minimal change nephrotic syndrome in pediatric patients. 
+DrugId:  9
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  10
+1. Name:  Coenzyme M
+2. Groups:  Approved, Investigational
+3. Description:  Coenzyme M (commonly known by it's salt form, Mesna) is a synthetic sulfhydryl (thiol) compound and is used for prophylaxis of Ifosfamide and cyclophosphamide induced hemorrhagic cystitis. [2]
+4. Indication:  Mesna is a uroprotective agent and is used prophylactically to reduce ifosfamide and cyclophosphamide induced hemorrhagic cystitis. (2)
+DrugId:  11
+1. Name:  Tinzaparin
+2. Groups:  Approved
+3. Description:  Tinzaparin is a low molecular weight heparin (LMWH), produced by enzymatic depolymerization of unfractionated heparin from porcine intestinal mucosa. It is a heterogeneous mixture of with an average molecular weight between 5500 and 7500 daltons. Tinzaparin is composed of molecules with and without a special site for high affinity binding to antithrombin III (ATIII). This complex greatly accelerates the inhibition of factor Xa. It is an anticoagulant and considered an antithrombotic. Tinzaparin must be given either subcutaneously or parenterally. LMWHs are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Tinzaparin is used for the prevention of postoperative venous thromboembolism in patients undergoing orthopedic surgery and in patients undergoing general surgery who are at high risk of developing postoperative venous thromboembolism. It is also used for the treatment of deep vein thrombosis and/or pulmonary embolism. It is indicated for use in preventing clot formation in indwelling intravenous lines for hemodialysis.
+DrugId:  12
+1. Name:  Dabrafenib
+2. Groups:  Approved, Investigational
+3. Description:  Dabrafenib mesylate is a reversible ATP-competitive kinase inhibitor and targets the MAPK pathway. FDA approved on May 29, 2013. 
+4. Indication:  Dabrafenib is indicated for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test.
+DrugId:  13
+1. Name:  Etoposide
+2. Groups:  Approved
+3. Description:  A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Etoposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent entry into the mitotic phase of cell division, and lead to cell death. Etoposide acts primarily in the G2 and S phases of the cell cycle. [PubChem]
+4. Indication:  For use in combination with other chemotherapeutic agents in the treatment of refractory testicular tumors and as first line treatment in patients with small cell lung cancer. Also used to treat other malignancies such as lymphoma, non-lymphocytic leukemia, and glioblastoma multiforme.
+DrugId:  14
+1. Name:  Lanreotide
+2. Groups:  Approved
+3. Description:  Lanreotide (INN) is a medication used in the management of acromegaly and symptoms caused by neuroendocrine tumors, most notably carcinoid syndrome. It is a long-acting analogue of somatostatin, like octreotide. Its sequence is H-D-2Nal-Cys(1)-Tyr-D-Trp-Lys-Val-Cys(1)-Thr-NH2. Lanreotide (as lanreotide acetate) is manufactured by Ipsen, and marketed under the trade name Somatuline. It is available in several countries, including the United Kingdom, Australia and Canada, and was approved for sale in the United States by the Food and Drug Administration (FDA) on August 30, 2007.
+4. Indication:  Lanreotide is a somatostatin analog approved for treatment of neuroendocrine tumours and acromegaly. (2)
+DrugId:  15
+1. Name:  Pixantrone
+2. Groups:  Approved, Investigational
+3. Description:  Pixantrone is an aza-anthracenedione and DNA intercalator which inhibits topoisomerase II. It is similar in structure to anthracyclines such as mitoxantrone, but exerts fewer toxic effects on cardiac tissue. [2] The lower cardio-toxic effects of pixantrone may be explained, in part, by its redox inactivity [3]. Pixantrone does not bind iron and promotes the formation of reactive oxygen species to a lesser degree than other anthracyclines. It also inhibits doxorubicinol formation in human myocardium. [3] As a result, it is believed to be less cardiotoxic while still exerting efficacy. Pixantrone was designed to treat relapsed or refractory aggressive non-Hodgkin's lymphoma(NHL) in patients who have failed two prior lines of therapy. [2] For patients suffering from NHL, first line therapies consist of anthracycline containing multi-drug treatments which unfortunately are known to cause irreversible myocardial tissue damage. Patients refractory to treatment, or those who relapse, are discouraged from further anthracycline use due to cumulative cardiotoxicity. Pixantrone dimaleate, administered intravenously, was designed by Cell Therapeutics Incorporated as an alternative second line therapy in refractory or relapsed NHL. It is currently being tested in Phase III trials. [2]Although pixantrone has not yet received FDA approval in the United States, it has been granted conditional marketing approval by the European Union. Conditional approval was granted by the European Medicines Agency after a phase III EXTEND trial of patients with NHL showed that pixantrone was tolerable and that it resulted in significantly higher complete response rate and progression free survival in comparison to other single chemotherapy agents. However, it is notable that the EXTEND trial was stopped early, leaving the statistical significance of the results in question. Based on this uncertainty, in 2009, the FDA ultimately rejected Cell Therapeutic's initial application for accelerated approval for pixantrone use in relapsed or refractory NHL. Another phase III trial, PIX-R, is now ongoing to clarify pixantrones place in therapy. It will compare pixantrone efficacy to that of gemcitabine. [2] 
+4. Indication:  Currently in Phase III investigation for treatment of relapsed or refractory aggressive non-Hodgkin's lymphoma in patients who have failed two prior lines of therapy. Presently, no standard therapy exists for patients with relapsed or refractory NHL. [2] After first line therapy has been initiated, most patients have received their lifetime limit of doxorubicin and further use of anthracyclines may potentially lead to anthracycline-induced congestive heart failure (CHF). Pixantrone is an attractive alternative as a second line agent, due to its lack of cardiac toxicity. [2] The phase III trial, PIX-R, is ongoing and will compare pixantrone multidrug therapy with an equivalent regimen in patients with diffuse large B-cell lymphoma (the most common type of NHL).Previous study results have also suggested the possibility that pixantrone may be safe and effective in doxorubicin naive patients. In myocardial strips which are doxorubicin naive, pixantrone is taken up to a higher degree than in myocardial strips which are doxorubicin exposed, and once absorbed exhibits redox inactivity. [3] Pixantrone dimaleate has also been investigated as a treatment for acute myelogenous leukemia, diffuse large B-cell lymphoma, follicular lymphoma, metastatic breast cancer, low grade small lymphocytic lymphomas and general metastatic cancers. 
+DrugId:  16
+1. Name:  Biotin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A water-soluble, enzyme co-factor present in minute amounts in every living cell. It occurs mainly bound to proteins or polypeptides and is abundant in liver, kidney, pancreas, yeast, and milk. [PubChem]
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance.

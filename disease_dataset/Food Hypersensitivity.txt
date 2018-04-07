@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Carbon Black
+2. Groups:  Investigational
+3. Description:  Carbon Black has been used in trials studying Atopic Hypersensitivity and Hypersensitivity, Immediate.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Coccidioides immitis spherule
+2. Groups:  Approved
+3. Description:  Coccidioides immitis spherule is a skin test antigen indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis.
+4. Indication:  Indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis. Use in 18-64 year old patients. A positive result occurs if 48h after administration if the diameter of the induration is >5mm. 
+DrugId:  3
+1. Name:  Technetium Tc-99m tilmanocept
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m tilmanocept is a radiopharmaceutical diagnostic imaging agent approved by the U.S. Food and Drug Administration (FDA) for the imaging of lymph nodes with or without scintigraphic imaging. It is a macromolecule consisting of multiple units of diethylenetriaminepentaacetic acid (DTPA) and mannose, each covalently attached to a 10 kDa dextran backbone [FDA Label]. DTPA serves as a chelating agent for technetium Tc 99m to bind [FDA Label]. Technetium Tc-99m tilmanocept is used in lymphatic mapping and lymph node localization in breast cancer, melanoma, clinically node-negative squamous cell carcinoma of the oral cavity, and other solid tumors [2, 3]. Detecting sentinel lymph node (SLN) is clinically useful in the prognosis and management of the disease, as it is considered as the first lymph node that receives afferent lymphatic drainage from a primary tumor, and may be used to predict tumour staging and metastasis [3]. However, as nodal micrometastasis in breast cancer may not be associated with significant changes in survival, it is also important to identify clinically node-negative patients [3]. Technetium Tc-99m tilmanocept is a novel CD206 receptor-targeted molecule that selectively binds to mannose receptors expressed on the surface of reticuloendothelial cells in lymph nodes [1]. Due to its relatively small molecular weight and small molecular diameter of 7 nm [1], technetium Tc-99m tilmanocept displays more rapid injection site clearance, high sentinel node extraction, and low distal node accumulation compared to other conventional radiocolloids [3]. It achieves high overall accuracy in detecting SLN [2]. Once reconstituted and labelled, technetium Tc99m tilmanocept is intended to be injected in close proximity to the tumor being diagnosed and employed in preoperative gamma detection imaging in combination with various other techniques, including scintigraphy, SPECT, and SPECT/CT [4]. It may be administered via subcutaneous, intradermal, subareolar, or peritumoral injection, depending on the tutor location and planned injection technique [FDA Label]. It is marketed under the trade name Lymphoseek. Potential application of technetium Tc-99m tilmanocept to other cancers are being investigated [3].
+4. Indication:  Indicated with or without scintigraphic imaging for lymphatic mapping using a handheld gamma counter to locate lymph nodes draining a primary tumor site in patients with solid tumors for which this procedure is a component of intraoperative management [FDA Label].Indicated with or without scintigraphic imaging for guiding sentinel lymph node biopsy using a handheld gamma counter in patients with clinically node negative squamous cell carcinoma of the oral cavity, breast cancer or melanoma [FDA Label]. 
+DrugId:  4
+1. Name:  Cabazitaxel
+2. Groups:  Approved
+3. Description:  Cabazitaxel is an anti-neoplastic used with the steroid medicine prednisone. Cabazitaxel is used to treat people with prostate cancer that has progressed despite treatment with docetaxel. Cabazitaxel is prepared by semi-synthesis with a precursor extracted from yew needles (10-deacetylbaccatin III). It was approved by the U.S. Food and Drug Administration (FDA) on June 17, 2010.
+4. Indication:  For treatment of patients with hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing treatment regimen.
+DrugId:  5
+1. Name:  Invert sugar
+2. Groups:  Approved
+3. Description:  Invert sugar is obtained from sugar cane when this is treated with dilute acid or with the invertase enzyme. It is formed by an equal amount of glucose and fructose. It differentiates from sugar cane in the rotation of the polarized light, which in the case of invert sugar it is to the left (levorotatory).[1] Invert sugar is FDA approved since 1988 as a safe substance (GRAS).
+4. Indication:  Invert sugar presents a large variety of uses. It can be used therapeutically for parenteral hyperalimentation[6] or to be used as an excipient with a known effect.[10] Invert sugar is also approved for its use in food products as a humectant, crystallization modifier, and liquid and nutritive sweetener.[7]
+DrugId:  6
+1. Name:  Coenzyme M
+2. Groups:  Approved, Investigational
+3. Description:  Coenzyme M (commonly known by it's salt form, Mesna) is a synthetic sulfhydryl (thiol) compound and is used for prophylaxis of Ifosfamide and cyclophosphamide induced hemorrhagic cystitis. [2]
+4. Indication:  Mesna is a uroprotective agent and is used prophylactically to reduce ifosfamide and cyclophosphamide induced hemorrhagic cystitis. (2)
+DrugId:  7
+1. Name:  Betrixaban
+2. Groups:  Approved, Investigational
+3. Description:  Betrixaban is a non-vitamin K oral anticoagulant whose action is driven by the competitive and reversible inhibition of the factor Xa [1]. It was selected among all lead compounds due to its low hERG channel affinity while sustaining its factor Xa inhibition capacity [3]. Betrixaban, now developed by Portola Pharmaceuticals Inc., is prescribed as a venous thromboembolism (VTE) prophylactic for adult patients with moderate to severe restricted motility or with other risks for VTE [2]. VTE can be manifested as deep vein thrombosis or pulmonary embolism and it is a leading cause of preventable death in hospitalized patients [4].
+4. Indication:  Betrixaban is indicated for prophylaxis of venous thromboembolism (VTE) in conditions of moderate to severe restricted mobility or in patients that qualify as in risk of VTE. 
+DrugId:  8
+1. Name:  Soybean oil
+2. Groups:  Approved
+3. Description:  Derived from soybeans, soybean oil is a common vegetable oil and a source of polyunsaturated and saturated fatty acids. It is a complex mixture of triglycerides where per 100 g, soybean oil has 16 g of saturated fat, 23 g of monounsaturated fat, and 58 g of polyunsaturated fat. The major component fatty acids are linoleic (48% - 58%), oleic (17% - 30%), palmitic (9% -13%), linolenic (4% - 11%), and stearic (2.5% - 5.0%). It is used as a cooking oil and lipid emulsion for parenteral nutrition in clinical settings. Soybean oil-based lipid emulsion is the only FDA-approved lipid formulation for clinical use.
+4. Indication:  Indicated for parenteral nutrition as a source of calories and essential fatty acids when oral or enteral nutrition is not possible, insufficient, or contraindicated. 
+DrugId:  9
+1. Name:  Xanthan gum
+2. Groups:  Approved
+3. Description:  Xanthan gum is a polysaccharide gum derived from* Xanthomonas campestris* by a pure-culture fermentation process and purified by recovery with isopropyl alcohol. The major constituents include D-glucose, D-mannose, and D-glucuronic acid. Xanthan gum is a direct food additive permitted for direct addition to food for human consumption by the FDA. It is used as a thickening agent and stabilizer in emulsions.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Rye
+2. Groups:  Approved
+3. Description:  Rye allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Iron protein succinylate
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Cherry
+2. Groups:  Approved
+3. Description:  Cherry allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Cultivated mushroom
+2. Groups:  Approved
+3. Description:  Cultivated mushroom allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Orange
+2. Groups:  Approved
+3. Description:  Orange allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Casein
+2. Groups:  Approved
+3. Description:  Casein allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Chicken
+2. Groups:  Approved
+3. Description:  Chicken allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Pecan
+2. Groups:  Approved
+3. Description:  Pecan allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Corn
+2. Groups:  Approved
+3. Description:  Corn allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Abacavir
+2. Groups:  Approved, Investigational
+3. Description:  Abacavir (ABC) is a powerful nucleoside analog reverse transcriptase inhibitor (NRTI) used to treat HIV and AIDS. Chemically, it is a synthetic carbocyclic nucleoside and is the enantiomer with 1S, 4R absolute configuration on the cyclopentene ring. In vivo, abacavir sulfate dissociates to its free base, abacavir.
+4. Indication:  For the treatment of HIV-1 infection, in combination with other antiretroviral agents.
+DrugId:  20
+1. Name:  Safflower oil
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Peanut
+2. Groups:  Approved
+3. Description:  Peanut allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Diphencyprone
+2. Groups:  Investigational
+3. Description:  Diphencyprone has been used in trials studying the treatment and basic science of Melanoma, Ultraviolet Rays, Immunosuppression, Neoplasm Metastasis, and Hypersensitivity, Delayed, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Colestipol
+2. Groups:  Approved
+3. Description:  Highly crosslinked and insoluble basic anion exchange resin used as anticholesteremic. It may also may reduce triglyceride levels. [PubChem]
+4. Indication:  For use, as adjunctive therapy to diet, for the reduction of elevated serum total and LDL-C in patients with primary hypercholesterolemia (elevated LDL-C) who do not respond adequately to diet.
+DrugId:  24
+1. Name:  Moxonidine
+2. Groups:  Approved, Investigational
+3. Description:  Moxonidine is a new-generation centrally acting antihypertensive drug approved for the treatment of mild to moderate essential hypertension. It may have a role when thiazides, beta-blockers, ACE inhibitors and calcium channel blockers are not appropriate or have failed to control blood pressure. In addition, it demonstrates favourable effects on parameters of the insulin resistance syndrome, apparently independent of blood pressure reduction.
+4. Indication:  For the treatment of mild to moderate essential or primary hypertension [7]. Effective as most first-line antihypertensives when used as monotherapy [2].
+DrugId:  25
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma

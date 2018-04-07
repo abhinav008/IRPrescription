@@ -1,0 +1,30 @@
+DrugId:  1
+1. Name:  Fluocinolone
+2. Groups:  Investigational
+3. Description:  Fluocinolone has been used in trials studying the treatment and prevention of Candida Infection, Oral Lichen Planus, Macular Degeneration, and Choroidal Neovascularization.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Verteporfin
+2. Groups:  Approved, Investigational
+3. Description:  Verteporfin, otherwise known as benzoporphyrin derivative (trade name Visudyne®), is a medication used as a photosensitizer for photodynamic therapy to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.
+4. Indication:  For the treatment of patients with predominantly classic subfoveal choroidal neovascularization due to age-related macular degeneration, pathologic myopia or presumed ocular histoplasmosis syndrome. Verteporfin can also be used to destroy tumors.
+DrugId:  3
+1. Name:  TG-100801
+2. Groups:  Investigational
+3. Description:  TG100801 is a topically applied kinase inhibitor in macular degeneration patients. It is administered noninvasivelyas an eye drop and is designed to suppress VEGF mediated leakage and additional kinase targets associated with inflammation, edema, and angiogenesis which are the pathological hallmarks of AMD and other back of the eye diseases including diabetic macular edema and proliferative diabetic retinopathy.
+4. Indication:  Investigated for use/treatment in macular degeneration.
+DrugId:  4
+1. Name:  Pegaptanib
+2. Groups:  Approved, Investigational
+3. Description:  Pegaptanib is a polynucleotide aptamer. Pegaptanib specifically binds to VEGF 165, a protein that plays a critical role in angiogenesis (the formation of new blood vessels) and increased permeability (leakage from blood vessels), two of the primary pathological processes responsible for the vision loss associated with neovascular AMD. [Wikipedia]
+4. Indication:  For the treatment of neovascular (wet) age-related macular degeneration.
+DrugId:  5
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  6
+1. Name:  Aflibercept
+2. Groups:  Approved
+3. Description:  Aflibercept is a recombinant fusion protein that comprises of two main components: the vascular endothelial growth factor (VEGF) binding portions from the extracellular domains of human VEGF receptors 1 and 2 which is then fused to the Fc portion of human IgG1. Structurally, Aflibercept is a dimeric glycoprotein with a protein molecular weight of 96.9 kilo Daltons (kDa). It contains approximately 15% glycosylation to give a total molecular weight of 115 kDa. All five putative N-glycosylation sites on each polypeptide chain predicted by the primary sequence can be occupied with carbohydrate and exhibit some degree of chain heterogeneity, including heterogeneity in terminal sialic acid residues, except at the single unsialylated site associated with the Fc domain. Aflibercept, as an ophthalmic agent, is used in the treatment of macular edema following Central Retinal Vein Occlusion (CRVO) and neovascular Age-Related Macular Degeneration (AMD). Ziv-aflibercept, under the brand name Zaltrap, was developed as an injection for treatment of metastatic colorectal cancer. FDA approved in November 18, 2011 and EMA approved in November 2012.
+4. Indication:  The opthalmic agent is used for the treatment of neovascular (wet) age-related mascular degeneration (AMD) and macular edema following central retinal vein occulsion (CRVO). The systemic injection, known as ziv-aflibercept, in combination with 5-fluorouracil, leucovorin, irinotecan-(FOLFIRI), is for the treatment of metastatic colorectal cancer that is resistant to or progressed following treatment with oxaliplatin. 

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Thallous Chloride
+2. Groups:  Approved
+3. Description:  Thallous chloride (also known as Thallium(I) chloride) is a chemical compound with the formula TlCl. This colourless solid is an intermediate in the isolation of thallium from its ores. Typically, an acidic solution of thallium(I) sulfate is treated with hydrochloric acid to precipitate insoluble thallium(I) chloride. This solid crystallizes in the caesium chloride motif. It is used as a diagnostic radiopharmaceutical. It is used for diagnosis of heart and parathyroid problems. The following are among the possible side effects: Blurred vision, chest pain or discomfort, chills, confusion, cough, difficulty with breathing, difficulty with swallowing, and dizziness.
+4. Indication:  For use as a diagnostic radiopharmaceutical.It is indicated to help diagnose heart disease (eg, coronary artery disease, heart attack). It is also used for the diagnosis of parathyroid problems. 
+DrugId:  2
+1. Name:  Hexylcaine
+2. Groups:  Approved, Withdrawn
+3. Description:  Hexylcaine hydrochloride, also called cyclaine (Merck) or osmocaine, is a short-acting local anesthetic. It acts by inhibiting sodium channel conduction. Overdose can lead to headache, tinnitus, numbness and tingling around the mouth and tongue, convulsions, inability to breathe, and decreased heart function. Hexylcaine has been discontinued in the US market. 
+4. Indication:  Used as a local anesthetic for surface application, infiltration or nerve block
+DrugId:  3
+1. Name:  Fenfluramine
+2. Groups:  Approved, Illicit, Investigational, Withdrawn
+3. Description:  Fenfluramine was withdrawn from the U.S. market in 1997 after reports of heart valve disease and pulmonary hypertension, including a condition known as cardiac fibrosis.
+4. Indication:  For the management of exogenous obesity as a short-term (a few weeks) adjunct in a regimen of weight reduction based on caloric restriction.
+DrugId:  4
+1. Name:  Pirbuterol
+2. Groups:  Approved
+3. Description:  Pirbuterol is a beta-2 adrenergic bronchodilator. In vitro studies and in vivo pharmacologic studies have demonstrated that pirbuterol has a preferential effect on beta-2 Adrenergic receptors compared with isoproterenol. While it is recognized that beta-2 adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta-2 receptors in the human heart, existing in a concentration between 10-50%. The precise function of these receptors has not been established.The pharmacologic effects of beta adrenergic agonist drugs, including pirbuterol, are at least in proof attributable to stimulation through beta adrenergic receptors of intracellular adenyl cyclase, the enzyme which catalyzes the conversion of adenosine triphosphate (AlP) to cyclic-3† ,5†-adenosine monophosphate (c-AMP). Increased c-AMP levels are associated with relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible bronchospasm including asthma.
+DrugId:  5
+1. Name:  Esmolol
+2. Groups:  Approved
+3. Description:  Esmolol (trade name Brevibloc) is a cardioselective beta1 receptor blocker with rapid onset, a very short duration of action, and no significant intrinsic sympathomimetic or membrane stabilizing activity at therapeutic dosages.Esmolol decreases the force and rate of heart contractions by blocking beta-adrenergic receptors of the sympathetic nervous system, which are found in the heart and other organs of the body. Esmolol prevents the action of two naturally occurring substances: epinephrine and norepinephrine.
+4. Indication:  For the rapid control of ventricular rate in patients with atrial fibrillation or atrial flutter in perioperative, postoperative, or other emergent circumstances where short term control of ventricular rate with a short-acting agent is desirable. Also used in noncompensatory sinus tachycardia where the rapid heart rate requires specific intervention.
+DrugId:  6
+1. Name:  Arformoterol
+2. Groups:  Approved, Investigational
+3. Description:  Arformoterol is a bronchodilator. It works by relaxing muscles in the airways to improve breathing. Arformoterol inhalation is used to prevent bronchoconstriction in people with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema. The use of arformoterol is pending revision due to safety concerns in regards to an increased risk of severe exacerbation of asthma symptoms, leading to hospitalization as well as death in some patients using long acting beta agonists for the treatment of asthma.
+4. Indication:  A bronchodilator used for the long term, symptomatic treatment of reversible bronchoconstriction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema. 
+DrugId:  7
+1. Name:  Bupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  A widely used local anesthetic agent. [PubChem]
+4. Indication:  For the production of local or regional anesthesia or analgesia for surgery, for oral surgery procedures, for diagnostic and therapeutic procedures, and for obstetrical procedures.
+DrugId:  8
+1. Name:  Bortezomib
+2. Groups:  Approved, Investigational
+3. Description:  Bortezomib (originally PS-341 and marketed as Velcade by Millennium Pharmaceuticals) is the first therapeutic proteasome inhibitor to be tested in humans. The boron atom within bortezomib catalytically binds the active site of the 26S proteasome with high affinity and specificity, thereby resulting in cell cycle arrest and apoptosis. In normal cells, the proteasome is involved in degradation of ubiquitylated proteins that have been tagged for destruction because they are damaged or unneeded by the cell. However, in cancerous cells, proteasome activity degrades pro-apoptotic proteins such as p53 that would normally result in programmed cell death of the dysfunctional cells. Proteasome inhibitors such as bortezomib interrupt this process, resulting in destruction of cancerous cells. Bortezomib is approved in the U.S. for treating relapsed multiple myeloma and mantle cell lymphoma. In multiple myeloma, complete clinical responses have been obtained in patients with otherwise refractory or rapidly advancing disease.
+4. Indication:  For treatment of multiple myeloma in patients who have not been successfully treated with at least two previous therapies.
+DrugId:  9
+1. Name:  Belinostat
+2. Groups:  Approved, Investigational
+3. Description:  Belinostat is a novel agent that inhibits the enzyme histone deacetylase (HDAC) with a sulfonamide-hydroxamide structure. It was developed as an orphan drug to target hematological malignancies and solid tumors by TopoTarget. The safety and efficacy of belinostat is currently being evaluated for use in combination with traditional front-line therapies for the treatment of PTCL. Intravenous administration of the agent is available as Beleodaq as monotherapy and the dosing regimen involves a 21-day cycle. It was US-approved in July 2014 as a therapeutic agent for relapsed or refractory peripheral T-cell lymphoma.
+4. Indication:  Belinostat is indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL) with manageable safety profile. It is a potential alternative therapy for patients who did not experience adequate response to first-line drugs for PTCL. It can be used in patients with baseline thrombocytopenia [2]. 
+DrugId:  10
+1. Name:  XL844
+2. Groups:  Investigational
+3. Description:  XL844 is investigated for the use and treatment solid tumors. XL844 is a solid. XL844 is a potent inhibitor of the checkpoint kinases CHK1 and CHK2, which induce cell cycle arrest in response to a variety of DNA damaging agents. Known drug targets of XL844 including serine/threonine-protein kinase Chk1 and serine/threonine-protein kinase Chk2.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  11
+1. Name:  DG051
+2. Groups:  Investigational
+3. Description:  DG051 is a novel small-molecule inhibitor of leukotriene A4 hydrolase (LTA4H), the protein made by one of the genes in the leukotriene pathway that has been shown to link to risk of heart attack. DG051 is designed to decrease risk of heart attack by decreasing the production of leukotriene B4 (LTB4), an end product of the leukotriene pathway and a potent promoter of inflammation. 
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  12
+1. Name:  Filanesib
+2. Groups:  Investigational
+3. Description:  Filanesib is a potent Kinesin Spindle Protein (KSP) inhibitor that caused marked tumor regression in preclinical models of human solid tumors and human leukemias, often leading to durable responses.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  13
+1. Name:  Epinephrine
+2. Groups:  Approved, Vet approved
+3. Description:  The active sympathomimetic hormone from the adrenal medulla in most species. It stimulates both the alpha- and beta- adrenergic systems, causes systemic vasoconstriction and gastrointestinal relaxation, stimulates the heart, and dilates bronchi and cerebral vessels. It is used in asthma and cardiac failure and to delay absorption of local anesthetics. [PubChem]
+4. Indication:  Used to treat anaphylaxis and sepsis. Also one of the body's main adrenergic neurotransmitters.
+DrugId:  14
+1. Name:  Atropine
+2. Groups:  Approved, Vet approved
+3. Description:  An alkaloid, originally from Atropa belladonna, but found in other plants, mainly solanaceae. [PubChem]
+4. Indication:  For the treatment of poisoning by susceptible organophosphorous nerve agents having anti-cholinesterase activity (cholinesterase inhibitors) as well as organophosphorous or carbamate insecticides.
+DrugId:  15
+1. Name:  DG031
+2. Groups:  Investigational
+3. Description:  DG031, deCODE genetics's lead compound, is being developed for the prevention of myocardial infarction, or heart attack.
+4. Indication:  Investigated for use/treatment in heart disease and myocardial infarction.
+DrugId:  16
+1. Name:  Benzimate
+2. Groups:  Investigational
+3. Description:  Benzimate is the lead compound selected from a series of compounds known as benzimidazoles. The anti-cancer and anti-viral activity of the benzimidazoles was originally investigated by the Proctor & Gamble Company beginning in the 1990's. It is currently under investigation by AmpliMed and is in phase I of clinical trial.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  17
+1. Name:  AT9283
+2. Groups:  Investigational
+3. Description:  AT9283 is an aurora Kinase inhibitor developed by Astex Therapeutics for the treatment of cancer. It was discovered and developed internally using Astex’s fragment-based drug discovery platform, Pyramid.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), leukemia (myeloid), and solid tumors.
+DrugId:  18
+1. Name:  Vindesine
+2. Groups:  Approved, Investigational
+3. Description:  Vinblastine derivative with antineoplastic activity against cancer. Major side effects are myelosuppression and neurotoxicity. Vindesine is used extensively in chemotherapy protocols (antineoplastic combined chemotherapy protocols). [PubChem]
+4. Indication:  For the treatment of acute leukaemia, malignant lymphoma, Hodgkin's disease, acute erythraemia and acute panmyelosis
+DrugId:  19
+1. Name:  Ivabradine
+2. Groups:  Approved
+3. Description:  Ivabradine is a novel heart rate lowering medicine for the symptomatic management of stable angina pectoralis and symptomatic chronic heart failure. Ivabradine, brand name Corlanor, was approved by the FDA in April 2015 for the treatment of chronic heart failure in patients with an ejection fraction of ≤35%, in sinus rhythm with resting heart rate ≥70 beats per minute, who are not on beta-blockers due to contraindications or already receiving maximum beta-blocker dose. Ivabradine acts by selectively inhibiting the "funny" channel pacemaker current (If) in the sinoatrial node in a dose-dependent fashion, resulting in a lower heart rate and thus more blood to flow to the myocardium. Although non-dihydropyridine calcium channel blockers and beta blockers also effectively lower heart rate, they exhibit adverse events due to their negative ionotropic effects. Therefore, as ivabradine is designed as a "pure" heart rate-lowering drug by selectively acting on the If channels, it may offer a more favorable side effect profile due to its lower likelihood of causing serious adverse effects.
+4. Indication:  Ivabradine's indication by the FDA is to reduce the risk of hospitalization for worsening heart failure in patients with stable, symptomatic chronic heart failure with left ventricular ejection fraction ≤35%, who are in sinus rhythm with resting heart rate ≥70 beats per minute and either are on maximally tolerated doses of beta-blockers or have a contraindication to beta-blocker use. 
+DrugId:  20
+1. Name:  Alferminogene Tadenovec
+2. Groups:  Investigational
+3. Description:  Alferminogene Tadenovec is Cardium’s lead product candidate, is being developed for the potential treatment of myocardial ischemia that gives rise to angina symptoms associated with coronary heart disease. Alferminogene tadenovec represents a new therapeutic class of biologics designed to promote angiogenesis and thereby improve blood flow following a one-time intracoronary administration from a standard cardiac infusion catheter.
+4. Indication:  Investigated for use/treatment in angina, coronary artery disease, and heart disease.
+DrugId:  21
+1. Name:  Glial growth factor 2
+2. Groups:  Investigational
+3. Description:  Glial growth factor 2 has been used in trials studying the treatment of Heart Failure.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  PR-104
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  23
+1. Name:  Tunicamycin
+2. Groups:  Experimental
+3. Description:  Tunicamycin is a mixture of homologous nucleoside antibiotics that inhibits the UDP-HexNAc: polyprenol-P HexNAc-1-P family of enzymes. In eukaryotes, this includes the enzyme GlcNAc phosphotransferase (GPT), which catalyzes the transfer of N-acetylglucosamine-1-phosphate from UDP-N-acetylglucosamine to dolichol phosphate in the first step of glycoprotein synthesis. Tunicamycin blocks N-linked glycosylation (N-glycans) and treatment of cultured human cells with tunicamycin causes cell cycle arrest in G1 phase. It is used as an experimental tool in biology, e.g. to induce unfolded protein response. Tunicamycin is produced by several bacteria, including Streptomyces clavuligerus and Streptomyces lysosuperficus.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Betaxolol
+2. Groups:  Approved, Investigational
+3. Description:  A cardioselective beta-1-adrenergic antagonist with no partial agonist activity.
+4. Indication:  For the management of hypertension.
+DrugId:  25
+1. Name:  rhIGFBP-3
+2. Groups:  Investigational
+3. Description:  rhIGFBP-3 (recombinant human insulin-like growth factor binding protein-3) is Insmed’s proprietary anti-cancer compound that has demonstrated significant decreases in cancerous growth in several models of human. It is developed by Insmed and is currently under phase I of the clinical trail.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).

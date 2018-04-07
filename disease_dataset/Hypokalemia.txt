@@ -1,0 +1,110 @@
+DrugId:  1
+1. Name:  Cicletanine
+2. Groups:  Investigational
+3. Description:  Cicletanine is under investigation for the treatment of Diabetes, Hypokalemia, Hyponatremia, and Arterial Hypertension.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Ethoxzolamide
+2. Groups:  Withdrawn
+3. Description:  A carbonic anhydrase inhibitor used as diuretic and in glaucoma. It may cause hypokalemia. [PubChem]
+4. Indication:  For use in the treatment of duodenal ulcers, as a diuretic, and in the treatment of glaucoma, and may also be useful in the treatment of seizures associated with epilepsy.
+DrugId:  3
+1. Name:  Idarucizumab
+2. Groups:  Approved
+3. Description:  Idarucizumab is a humanized monoclonal antibody fragment (Fab) derived from an immunoglobulin G1 isotype molecule that binds to and inactivates the oral anticoagulant dabigatran, thereby reversing its anticoagulant effect. As a direct acting oral anticoagulant (DOAC), one of the risks associated with the use of dabigatran includes bleeding, espeically when given to patients at increased risk (elderly, chronic kidney disease, concomitant NSAID or warfarin use, etc). Approved under the tradename Praxbind (FDA), idarucizumab is indicated for the emergency treatment of dabigatran-associated bleeding in life-threatening or surgically induced situations. Its use is associated with immediate, complete and sustained reversal of the anticoagulant effects of dabigatran.Idarucizumab protein structure can be viewed below, with disulfide bridges at the following points: H22-H95, H149-H205, H225-L-219, L23-L93, L139-L199.
+4. Indication:  For use in patients treated with Dabigatran when reversal of the anticoagulant effects of dabigatran is needed for emergency surgery/urgent procedures and in life-threatening or uncontrolled bleeding.
+DrugId:  4
+1. Name:  Cyclothiazide
+2. Groups:  Approved
+3. Description:  As a diuretic, cyclothiazide inhibits active chloride reabsorption at the early distal tubule via the Na-Cl cotransporter, resulting in an increase in the excretion of sodium, chloride, and water. Thiazides like cyclothiazide also inhibit sodium ion transport across the renal tubular epithelium through binding to the thiazide sensitive sodium-chloride transporter. This results in an increase in potassium excretion via the sodium-potassium exchange mechanism. The antihypertensive mechanism of cyclothiazide is less well understood although it may be mediated through its action on carbonic anhydrases in the smooth muscle or through its action on the large-conductance calcium-activated potassium (KCa) channel, also found in the smooth muscle. Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+4. Indication:  Cyclothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  5
+1. Name:  Chlorothiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p812)
+4. Indication:  Chlorothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.
+DrugId:  6
+1. Name:  Phenylbutyric acid
+2. Groups:  Approved, Investigational
+3. Description:  A monocarboxylic acid the structure of which is that of butyric acid substituted with a phenyl group at C-4. It is a histone deacetylase inhibitor that displays anticancer activity. It inhibits cell proliferation, invasion and migration and induces apoptosis in glioma cells. It also inhibits protein isoprenylation, depletes plasma glutamine, increases production of foetal haemoglobin through transcriptional activation of the γ-globin gene and affects hPPARγ activation.
+4. Indication:  Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy. 
+DrugId:  7
+1. Name:  Insulin Degludec
+2. Groups:  Approved
+3. Description:  Insulin Degludec is an ultra-long-acting insulin analogue used for glycemic control in Diabetes Mellitus. Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake and by preventing hepatic glucose production. Compared to endogenous insulin, this product has an added hexadecanedioic acid to lysine at the B29 position which allows for the formation of multi-hexamers. When injected subcutaneously, these multi-hexamers form a drug depot store from which monomers are slowly and continuously absorbed into the circulation. As a result, Insulin Degludec has a protracted time action profile due to the delayed absorption from subcutaneous tissue depots into the systemic circulation. Compared to available long-acting analogues such as insulin glargine and insulin detemir, which have a duration of action of 20-24 hours, insulin degludec provides a consistent level of basal insulin over 42 hours with a low peak:trough ratio. Limitations of shorter acting analogues include more frequent dosing and less stable pharmacokinetics, which may negatively impact patient adherence and glucose control, particularly nocturnal control.Insulin Degludec was approved by the FDA in September 2015 as the product Tresiba, for use in providing glycemic control to adults with diabetes mellitus.
+4. Indication:  Insulin degludec is indicated to improve glycemic control in adults with diabetes mellitus.
+DrugId:  8
+1. Name:  Nebivolol
+2. Groups:  Approved, Investigational
+3. Description:  Nebivolol is a highly cardioselective vasodilatory beta1 receptor blocker used in treatment of hypertension. In most countries, this medication is available only by prescription. [Wikipedia]
+4. Indication:  For the treatment of essential hypertension.
+DrugId:  9
+1. Name:  Capreomycin
+2. Groups:  Approved
+3. Description:  Cyclic peptide antibiotic similar to viomycin. It is produced by Streptomyces capreolus. [PubChem]
+4. Indication:  Used in the treatment of tuberculosis in combination with other drugs.
+DrugId:  10
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  11
+1. Name:  Spironolactone
+2. Groups:  Approved
+3. Description:  A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)
+4. Indication:  Used primarily to treat low-renin hypertension, hypokalemia, and Conn's syndrome.
+DrugId:  12
+1. Name:  Indacaterol
+2. Groups:  Approved
+3. Description:  Indacaterol is a novel, ultra-long-acting, rapid onset β(2)-adrenoceptor agonist developed for Novartis for the once-daily management of asthma and chronic obstructive pulmonary disease. It was approved by the European Medicines Agency (EMA) under the trade name Onbrez on November 30, 2009, and by the United States Food and Drug Administration (FDA), under the trade name Arcapta Neohaler, on July 1, 2011. Indacaterol is provided as its maleate salt form. Indacaterol is also a chiral molecule but only the pure R-enantiomer is dispensed.
+4. Indication:  For the long term, once-daily-dosing maintenance of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
+DrugId:  13
+1. Name:  Triamterene
+2. Groups:  Approved
+3. Description:  A pteridine that is used as a mild diuretic. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and the nephrotic syndrome; also in steroid-induced edema, idiopathic edema, and edema due to secondary hyperaldosteronism.
+DrugId:  14
+1. Name:  Formoterol
+2. Groups:  Approved, Investigational
+3. Description:  Formoterol is a long-acting (12 hours) beta2-agonist used in the management of asthma and/or chronic obstructive pulmonary disease (COPD). Inhaled formoterol works like other beta2-agonists, causing bronchodilatation through relaxation of the smooth muscle in the airway so as to treat the exacerbation of asthma.
+4. Indication:  For use as long-term maintenance treatment of asthma in patients 6 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma, who are using optimal corticosteroid treatment and experiencing regular or frequent breakthrough symptoms requiring use of a short-acting bronchodilator. Not indicated for asthma that can be successfully managed with occasional use of an inhaled, short-acting beta2-adrenergic agonist. Also used for the prevention of exercise-induced bronchospasm, as well as long-term treatment of bronchospasm associated with COPD.
+DrugId:  15
+1. Name:  Torasemide
+2. Groups:  Approved
+3. Description:  Torasemide (rINN) or torsemide (USAN) is a pyridine-sulfonylurea type loop diuretic mainly used in the management of edema associated with congestive heart failure. It is also used at low doses for the management of hypertension. It is marketed under the brand name Demadex. [Wikipedia]
+4. Indication:  For the treatment of edema associated with congestive heart failure, renal disease, or hepatic disease. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  16
+1. Name:  Abiraterone
+2. Groups:  Approved
+3. Description:  Abiraterone is a derivative of steroidal progesterone and is an innovative drug that offers clinical benefit to patients with hormone refractory prostate cancer. Abiraterone is administered as an acetate salt prodrug because it has a higher bioavailability and less susceptible to hydrolysis than abiraterone itself. FDA approved on April 28, 2011.
+4. Indication:  Used in combination with prednisone for the treatment of metastatic, castration-resistant prostate cancer. 
+DrugId:  17
+1. Name:  Prussian blue
+2. Groups:  Approved
+3. Description:  Prussian blue is a dark blue synthetic pigment produced by oxidation of ferrous ferrocyanide salts. It contains ferric hexacyanoferrate(II) in a cubic lattice crystal structure. It is insoluble in water but also tends to form a colloid thus can exist in either colloidal or water-soluble form, and an insoluble form. It is orally administered for clinical purposes to be used as an antidote for certain kinds of heavy metal poisoning, such as thallium and radioactive isotopes of caesium. Prussian blue is included in the World Health Organization Model List of Essential Medicines as a specific antidote used in poisonings to provide symptomatic and supportive treatment. It was also administered in individuals exposed to 137-Cs+ during Goiânia accident, one of the worst radioactive contamination incidents that occured in Brazil, 1983.
+4. Indication:  Indicated for treatment of patients with known or suspected internal contamination with radioactive cesium and/or radioactive or non-radioactive thallium to increase their rates of elimination. 
+DrugId:  18
+1. Name:  Potassium
+2. Groups:  Approved, Investigational
+3. Description:  Potassium is the major cation (positive ion) inside animal cells, while sodium is the major cation outside animal cells. The concentration differences of these charged particles causes a difference in electric potential between the inside and outside of cells, known as the membrane potential. The balance between potassium and sodium is maintained by ion pumps in the cell membrane. The cell membrane potential created by potassium and sodium ions allows the cell generate an action potential—a "spike" of electrical discharge. The ability of cells to produce electrical discharge is critical for body functions such as neurotransmission, muscle contraction, and heart function. Potassium is also an essential mineral needed to regulate water balance, blood pressure and levels of acidity.
+4. Indication:  Potassium is used to regulate hypokalemia as a primary condition or secondary to other medical conditions. 
+DrugId:  19
+1. Name:  Potassium Chloride
+2. Groups:  Approved, Withdrawn
+3. Description:  A white crystal or crystalline powder used as an electrolyte replenisher, in the treatment of hypokalemia, in buffer solutions, and in fertilizers and explosives.
+4. Indication:  For use as an electrolyte replenisher and in the treatment of hypokalemia.
+DrugId:  20
+1. Name:  Magnesium hydroxide
+2. Groups:  Approved, Investigational
+3. Description:  Magnesium hydroxide is an inorganic compound with the chemical formula Mg(OH)2. It is naturally found as the mineral brucite. Magnesium hydroxide can be used an antacid or a laxative in either an oral liquid suspension or chewable tablet form.Additionally, magnesium hydroxide has smoke supressing and flame retardant properties and is thus used commercially as a fire retardant.It can also be used topically as an antiperspirant underarm deodorant or for relief of canker sores (aphthous ulcers).
+4. Indication:  Magnesium hydroxide can be used as an antacid or a laxative depending on the administered dose.As an antacid, it is used for the temporary relief of heartburn, upset stomach, sour stomach or acid indigestion.As a laxative, it is used for the relief of occasional constipation by promoting bowel movements for 30 minutes and up to 6 hours.
+DrugId:  21
+1. Name:  Hydrochlorothiazide
+2. Groups:  Approved, Vet approved
+3. Description:  A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It has been used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism. [PubChem]
+4. Indication:  For the treatment of high blood pressure and management of edema.
+DrugId:  22
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.

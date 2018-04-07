@@ -1,0 +1,45 @@
+DrugId:  1
+1. Name:  Zuretinol acetate
+2. Groups:  Investigational
+3. Description:  Zuretinol acetate has been used in trials studying the treatment of Impaired Dark Adaptation, RP (Retinitis Pigmentosa), Retinitis Pigmentosa (RP), and LCA (Leber Congenital Amaurosis).
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  3
+1. Name:  Ciliary neurotrophic factor
+2. Groups:  Investigational
+3. Description:  Ciliary neurotrophic factor (NT-501) is Neurotech's lead product which is in two Phase II/III clinical trials for the treatment of visual loss associated with retinitis pigmentosa and a Phase II trial for the treatment of the dry form of age-related macular degeneration. Neurotech is also evaluating other factors that can be used with its proprietary delivery technology, Encapsulated Cell Technology (ECT), to treat additional retinal diseases.
+4. Indication:  Investigated for use/treatment in eye disorders/infections, macular degeneration, and retinal disorders (unspecified).
+DrugId:  4
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  5
+1. Name:  Cidofovir
+2. Groups:  Approved
+3. Description:  Cidofovir is an injectable antiviral medication for the treatment of cytomegalovirus (CMV) retinitis in patients with AIDS. It suppresses CMV replication by selective inhibition of viral DNA synthesis. [Wikipedia]
+4. Indication:  For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS)
+DrugId:  6
+1. Name:  Foscarnet
+2. Groups:  Approved
+3. Description:  An antiviral agent used in the treatment of cytomegalovirus retinitis. Foscarnet also shows activity against human herpesviruses and HIV. [PubChem]
+4. Indication:  For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS) and for treatment of acyclovir-resistant mucocutaneous HSV infections in immunocompromised patients.
+DrugId:  7
+1. Name:  Maribavir
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in viral infection, transplantation (organ or tissue), cytomegalovirus (CMV) retinitis, and retinal disorders (unspecified).
+DrugId:  8
+1. Name:  Fomivirsen
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Fomivirsen is a antisense 21 mer phosphorothioate oligonucleotide. It is an antiviral agent that was used in the treatment of cytomegalovirus retinitis (CMV) in immunocompromised patients, including those with AIDS. As a complementary nucleotide to the messenger RNA of the major immediate-early region proteins of human cytomegalovirus, it disrupts the replication of the virus through an antisense mechanism [6]. It was discovered at the NIH and was licensed and initially developed by Isis Pharmaceuticals, which subsequently licensed it to Novartis [3]. The drug was withdrawn by the FDA because while there was a high unmet need for drugs to treat CMV when the drug was initially discovered and developed due to the CMV arising in people with AIDS, the development of HAART dramatically reduced the number of cases of CMV. Fomivirsen is marketed under the trade name Vitravene for intravitreal injection and was the first antisense drug to be approved by the Food and Drug Administration (FDA).
+4. Indication:  Indicated for the local treatment of cytomegalovirus (CMV) retinitis in patients with acquired immunodeficiency syndrome (AIDS), when other therapy has been ineffective or is considered unsuitable [FDA Label].
+DrugId:  9
+1. Name:  Ganciclovir
+2. Groups:  Approved, Investigational
+3. Description:  An acyclovir analog that is a potent inhibitor of the Herpesvirus family including cytomegalovirus. Ganciclovir is used to treat complications from AIDS-associated cytomegalovirus infections. [PubChem]
+4. Indication:  For induction and maintenance in the treatment of cytomegalovirus (CMV) retinitis in immunocompromised patients, including patients with acquired immunodeficiency syndrome (AIDS). Also used in the treatment of severe cytomegalovirus (CMV) disease, including CMV pneumonia, CMV gastrointestinal disease, and disseminated CMV infections, in immunocompromised patients.

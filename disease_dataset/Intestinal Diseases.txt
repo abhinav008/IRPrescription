@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Triptolide
+2. Groups:  Investigational
+3. Description:  Triptolide has been used in trials studying the treatment of HIV, Crohn's Disease, Intestinal Diseases, Gastrointestinal Diseases, and Digestive System Diseases, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Anisodamine
+2. Groups:  Investigational
+3. Description:  Anisodamine has been investigated for the treatment of Intestinal Diseases.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Niclosamide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Niclosamide is used for the treatment of most tapeworm infections. Helminths (worms) are multicellular organisms that infect very large numbers of humans and cause a broad range of diseases. Over 1 billion people are infected with intestinal nematodes, and many millions are infected with filarial nematodes, flukes, and tapeworms. They are an even greater problem in domestic animals. 
+4. Indication:  For the treatment of tapeworm and intestinal fluke infections: Taenia saginata (Beef Tapeworm), Taenia solium (Pork Tapeworm), Diphyllobothrium latum (Fish Tapeworm), Fasciolopsis buski (large intestinal fluke). Niclosamide is also used as a molluscicide in the control of schistosomiasis.
+DrugId:  4
+1. Name:  Olsalazine
+2. Groups:  Approved
+3. Description:  Olsalazine is an anti-inflammatory drug used in the treatment of Inflammatory Bowel Disease and Ulcerative Colitis. Olsalazine is a derivative of salicylic acid. Inactive by itself (it is a prodrug), it is converted by the bacteria in the colon to mesalamine. Mesalamine works as an anti-inflammatory agent in treating inflammatory diseases of the intestines.
+4. Indication:  For the treatment of Inflammatory Bowel Disease and Ulcerative Colitis.
+DrugId:  5
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Technetium Tc-99m exametazime
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m exametazime is a radiopharmaceutical sold under the trade name Ceretec, and is used by nuclear medicine physicians for the detection of altered regional cerebral perfusion in stroke and other cerebrovascular diseases. It can also be used for the labelling of leukocytes to localise intra-abdominal infections and inflammatory bowel disease. Exametazime, also known as hexamethylpropyleneamine oxime or HMPAO, acts as a chelating agent for the Tc-99m radioisotope.
+4. Indication:  Technetium Tc99m exametazime scintigraphy (with or without methylene blue stabilization) may be useful as an adjunct in the detection of altered regional cerebral perfusion in stroke. Tc99m exametazime without methylene blue stabilization is indicated for leukocyte labeled scintigraphy as an adjunct in the localization of intra-abdominal infection and inflammatory bowel disease.
+DrugId:  7
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  8
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Sulfasalazine
+2. Groups:  Approved
+3. Description:  A drug that is used in the management of inflammatory bowel diseases. Its activity is generally considered to lie in its metabolic breakdown product, 5-aminosalicylic acid (see mesalamine) released in the colon. (From Martindale, The Extra Pharmacopoeia, 30th ed, p907)
+4. Indication:  For the treatment of Crohn's disease and rheumatoid arthritis as a second-line agent.
+DrugId:  10
+1. Name:  Alfacalcidol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism. Alfacalcidol is Vitamin D-hormone analog which is activated by the enzyme 25-hydroxylase in the liver for systemic and in osteoblasts for local D-hormone actions. It possesses a unique pattern of pleiotropic effects on, e.g. gut, bone, pararthyroids, muscle and brain. Alfacalcidol is superior to plain vitamin D (cholecalciferol) because the final kidney activation of the latter is regulated by a negative feedback mechanism. (PMID:17438884,17668216)
+4. Indication:  Alfacalcidol is an active metabolite of Vitamin D, which performs important functions in regulation of the calcium balance and the bone metabolism.
+DrugId:  11
+1. Name:  Dihydrocodeine
+2. Groups:  Approved, Illicit
+3. Description:  Dihydrocodeine is an opioid analgesic used as an alternative or adjunct to codeine to treat moderate to severe pain, severe dyspnea, and cough. It is semi-synthetic, and was developed in Germany in 1908 during an international search to find a more effective antitussive agent to help reduce the spread of airborne infectious diseases such as tuburculosis. It was marketed in 1911. [Wikipedia]
+4. Indication:  Dihydrocodeine is used for the treatment of moderate to severe pain, including post-operative and dental pain [2]. It can also be used to treat chronic pain [1], breathlessness and coughing. In heroin addicts, dihydrocodeine has been used as a substitute drug, in doses up to 2500mg/day to treat addiction. [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014322/]
+DrugId:  12
+1. Name:  Albendazole
+2. Groups:  Approved, Vet approved
+3. Description:  A benzimidazole broad-spectrum anthelmintic structurally related to mebendazole that is effective against many diseases. (From Martindale, The Extra Pharmacopoeia, 30th ed, p38)
+4. Indication:  For the treatment of parenchymal neurocysticercosis due to active lesions caused by larval forms of the pork tapeworm, Taenia solium and for the treatment of cystic hydatid disease of the liver, lung, and peritoneum, caused by the larval form of the dog tapeworm, Echinococcus granulosus.
+DrugId:  13
+1. Name:  Balsalazide
+2. Groups:  Approved, Investigational
+3. Description:  Balsalazide is an anti-inflammatory drug used in the treatment of Inflammatory Bowel Disease. It is sold under the name "Colazal" in the US and "Colazide" in the UK.The chemical name is (E)-5-[[-4-(2-carboxyethyl) aminocarbonyl] phenyl]azo] -2-hydroxybenzoic acid. It is usually administered as the disodium salt.Balsalazide releases mesalazine, also known as 5-aminosalicylic acid, or 5-ASA, in the large intestine. Its advantage over that drug in the treatment of Ulcerative colitis is believed to be the delivery of the active agent past the small intestine to the large intestine, the active site of ulcerative colitis.
+4. Indication:  For the treatment of mildly to moderately active ulcerative colitis.
+DrugId:  14
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  15
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  16
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  18
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Elsiglutide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in diarrhea and adverse effects (chemotherapy).
+DrugId:  20
+1. Name:  Alkaline Phosphatase
+2. Groups:  Investigational
+3. Description:  Alkaline Phosphatase (AP) is an oral treatment and has a veryfavorable side-effect profile. AP only acts locally in the colon to reduce the continuous inflammation of the colon by endotoxin from Gram-negative bacteria and extracellular ATP in UC patients.
+4. Indication:  Investigated for use/treatment in ulcerative colitis.
+DrugId:  21
+1. Name:  Iopodic acid
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Iopodic acid, also known by the name of ipodate, is classified as a cholecystographic agent formed by a weak organic acid that contains a tri-iodinated benzene ring with iodine at positions 2, 4 and 6.[1] Due to its particular structure, it presents a high degree of lipid solubility and a radiopaque property. It was developed and filed to the FDA by the company BRACCO. This drug was approved on March 15, 1962 but it is nowadays discontinued from the FDA and Health Canada. On September 22, 1981, ipodate was submitted again by the company Schering AG but it is currently under an inactive status.[7]
+4. Indication:  Iopodic acid is available as a cholecystographic agent. This denomination indicates the iopodic acid is a radiopaque substance that can be used to visualize the gallbladder and biliary channels in abdominal X-ray.[8, 4] An abdominal X-ray uses a minimal amount of ionizing radiation to produce pictures of the inside of the abdominal cavity. It is commonly used to evaluate the stomach, liver, intestines, and spleen.[9]Iopodic acid has also been indicated for the treatment of hyperthyroidism such as Graves disease.[2, 3] Hyperthyroidism refers to any condition where there is too much thyroid hormone produced in the body (overactive thyroid). When the overactivity involves the entire thyroid gland, it is known as Grave's disease.[10]
+DrugId:  22
+1. Name:  KB002
+2. Groups:  Investigational
+3. Description:  KB002 is an engineered human IgG1k antibody engineered human. It is developed for the treatment of autoimmune diseases, initially rheumatoid arthritis.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  23
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  24
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  25
+1. Name:  humanized SMART Anti-IL-12 Antibody
+2. Groups:  Investigational
+3. Description:  The humanized anti-IL-12 antibody is an important addition to PDL's already strong pipeline of humanized antibodies being developed for the treatment of autoimmune diseases. SMART Anti-IL-12 Antibody was humanized at PDL from a murine anti-IL-12 antibody that was licensed, together with certain intellectual property related to anti-IL-12 therapy, from Hoffmann-La Roche Inc. IL-12 is a cytokine that may have considerable potential as a target in the therapy of autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and inflammatory disorders (unspecified).

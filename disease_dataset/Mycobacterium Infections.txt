@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Viomycin
+2. Groups:  Approved
+3. Description:  Viomycin is a member of the tuberactinomycin family, a group of nonribosomal peptide antibiotics exhibiting anti-tuberculosis properties. The tuberactinomycin family is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis. Viomycin was the first member of the tuberactinomycins to be isolated and identified and was used to treat TB until it was replaced by the less toxic, but structurally related compound, capreomycin. The tuberactinomycins target bacterial ribosomes, binding RNA and disrupting bacterial protein biosynthesis. It is produced by the actinomycete Streptomyces puniceus, that binds to RNA and inhibits prokaryotic protein synthesis and certain forms of RNA splicing. [Wikipedia]
+4. Indication:  Viomycin is an essential component in the drug cocktail currently used to fight infections of Mycobacterium tuberculosis.
+DrugId:  2
+1. Name:  Amikacin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Amikacin is a semi-synthetic aminoglycoside antibiotic derived from kanamycin A. Similar to other aminoglycosides, amikacin disrupts bacterial protein synthesis by binding to the 30S ribosome of susceptible organisms. Binding interferes with mRNA binding and tRNA acceptor sites leading to the production of non-functional or toxic peptides. Other mechanisms not fully understood may confer the bactericidal effects of amikacin. Amikacin is also nephrotoxic and ototoxic.
+4. Indication:  For short-term treatment of serious infections due to susceptible strains of Gram-negative bacteria, including Pseudomonas species, Escherichia coli, species of indole-positive and indole-negative Proteus, Providencia species, Klebsiella-Enterobacter-Serratia species, and Acinetobacter (Mima-Herellea) species. Amikacin may also be used to treat Mycobacterium avium and Mycobacterium tuberculosis infections.
+DrugId:  3
+1. Name:  Clofazimine
+2. Groups:  Approved, Investigational
+3. Description:  A fat-soluble riminophenazine dye used for the treatment of leprosy. It has been used investigationally in combination with other antimycobacterial drugs to treat Mycobacterium avium infections in AIDS patients. Clofazimine also has a marked anti-inflammatory effect and is given to control the leprosy reaction, erythema nodosum leprosum. (From AMA Drug Evaluations Annual, 1993, p1619)
+4. Indication:  For the treatment of lepromatous leprosy, including dapsone-resistant lepromatous leprosy and lepromatous leprosy complicated by erythema nodosum leprosum.
+DrugId:  4
+1. Name:  Rifabutin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum antibiotic that is being used as prophylaxis against disseminated Mycobacterium avium complex infection in HIV-positive patients. [PubChem]
+4. Indication:  For the prevention of disseminated Mycobacterium avium complex (MAC) disease in patients with advanced HIV infection.
+DrugId:  5
+1. Name:  Rifampicin
+2. Groups:  Approved
+3. Description:  A semisynthetic antibiotic produced from Streptomyces mediterranei. It has a broad antibacterial spectrum, including activity against several forms of Mycobacterium. In susceptible organisms it inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme. It thus suppresses the initiation of RNA synthesis. Rifampin is bactericidal, and acts on both intracellular and extracellular organisms. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p1160)
+4. Indication:  For the treatment of Tuberculosis and Tuberculosis-related mycobacterial infections.
+DrugId:  6
+1. Name:  Dequalinium
+2. Groups:  Approved, Investigational
+3. Description:  Dequalinium is a quaternary ammonium cation that contains two quaternary quinolinium units linked by an N-decylene chain. It is an antiseptic and disinfectant agent with a broad bactericidal and fungicidal activity. It is most commonly available as a dichloride salt but is available as other various salts as well. It is used in wound dressings and mouth infections and may also have antifungal action, but may associate with skin ulceration. Dequalinium chloride is used as an active ingredient in tablets as Fluomizin for vaginal bacterial infections and in topical bacteriostat formulation as Dequadin. It has been studied for use in treatment of malaria and acute promyelocytic leukemia. Its multiple mode of action is thought to reduce the risk of resistance of pathogens.
+4. Indication:  Effective local treatment as vaginal tablets for infections such as fluor vaginalis, bacterial vaginosis, aerobic vaginitis, vulvo-vaginal candidiasis and trichomoniasis. Used as a topical antimicrobial agent. 
+DrugId:  7
+1. Name:  Rifapentine
+2. Groups:  Approved, Investigational
+3. Description:  Rifapentine is an antibiotic drug used in the treatment of tuberculosis. It inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme.
+4. Indication:  For the treatment of pulmonary tuberculosis.
+DrugId:  8
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  9
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  10
+1. Name:  SRP 299
+2. Groups:  Investigational
+3. Description:  SRP 299 is a preparation of killed Mycobacterium vaccae that has been tested in uses related to inhibiting periodontal disease, in treating asthma and in treating eczema, itching and inflammation. Mycobacterium vaccae is a non-pathogenic, saprophytic bacteria whose antigens can be used to induce peripheral immune activation through the activity of regulatory T-cells that surpress inappropriate Th2 activity. A specific subset of serotonergic neurons in the interfascicular part of the dorsal raphe nucleus (DRI) is believed to be involved, based on studies with mice. 
+4. Indication:  Investigated for use/treatment in asthma, atopic dermatitis, and pediatric atopic dermatitis indications.
+DrugId:  11
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 
+DrugId:  12
+1. Name:  Bacillus calmette-guerin substrain connaught live antigen
+2. Groups:  Approved, Investigational
+3. Description:  Bacillus calmette-guerin substrain connaught live antigen is intravesically administered for the treatment and prophylaxis of carcinoma in situ (CIS) of the urinary bladder and for the prophylaxis of primary or recurrent stage Ta and/or T1 papillary tumors following transurethral resection (TUR). The solution contains live, attenuated strain of Mycobacterium bovis. It is prepared from the Connaught strain of Bacillus Calmette and Guérin.
+4. Indication:  Indicated for intravesical use in the treatment and prophylaxis of carcinoma in situ (CIS) of the urinary bladder and for the prophylaxis of primary or recurrent stage Ta and/or T1 papillary tumors following transurethral resection (TUR). 
+DrugId:  13
+1. Name:  Azithromycin
+2. Groups:  Approved
+3. Description:  Azithromycin is a semi-synthetic macrolide antibiotic of the azalide class. Like other macrolide antibiotics, azithromycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit of the bacterial 70S ribosome. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the process of translation. Its effects may be bacteriostatic or bactericidal depending of the organism and the drug concentration. Its long half life, which enables once daily dosing and shorter administration durations, is a property distinct from other macrolides.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions: H. influenzae, M. catarrhalis, S. pneumoniae, C. pneumoniae, M. pneumoniae, S. pyogenes, S. aureus, S. agal
+DrugId:  14
+1. Name:  Bacillus calmette-guerin substrain tice live antigen
+2. Groups:  Approved
+3. Description:  Bacillus calmette-guerin substrain tice live antigen is a vaccine containing attenuated live culture preparation of the Bacillus of Calmette and Guerin (BCG) strain of Mycobacterium bovis for percutaneous use. It is administered to prevent the development of tuberculosis.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  MCC
+2. Groups:  Investigational
+3. Description:  Mycobacterial Cell Wall-DNA Complex (MCC) is formulated from Mycobacterium phlei, a non-pathogenic strain of mycobacteria. MCC has been shown to have immune stimulatory and apoptosis (programmed cell death) activity against cancer cells. The product is a sterile biological composition in a sub-micron suspension. It is produced at the Bioniche manufacturing facility in Pointe-Claire, Quebec.
+4. Indication:  Bladder cancer
+DrugId:  16
+1. Name:  AVAC
+2. Groups:  Investigational
+3. Description:  AVAC is derived from M. vaccae. It has been tested in uses related to asthma and in treating eczema and atopic dermatitis.Mycobacterium vaccae is a non-pathogenic, saprophytic bacteria whose antigens can be used to induce peripheral immune activation through the activity of regulatory T-cells that surpress inappropriate Th2 activity.
+4. Indication:  Investigated for use/treatment in asthma and atopic dermatitis.
+DrugId:  17
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  18
+1. Name:  Nitazoxanide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Nitazoxanide belongs to the class of drugs known as thiazolides. Nitazoxanide (NTZ) is a broad-spectrum anti-infective drug that markedly modulates the survival, growth, and proliferation of a range of extracellular and intracellular protozoa, helminths, anaerobic and microaerophilic bacteria, in addition to viruses. This drug is effective in the treatment of gastrointestinal infections including Cryptosporidium parvum or Giardia lamblia in healthy subjects. It is generally well tolerated. Nitazoxanide is a first-line, standard treatment for illness caused by C. parvum or G. lamblia infection in healthy (not immunosuppressed) adults and children and may also be considered in the treatment of illnesses caused by other protozoa or helminths [2]. Recently, this drug has been studied as a broad-spectrum antiviral agent due to its ability to inhibit the replication of several RNA and DNA viruses [3].
+4. Indication:  For the treatment of diarrhea in adults and children caused by the protozoa Giardia lamblia, and for the treatment of diarrhea in children caused by the protozoan, Cryptosporidium parvum [FDA Label].Nitazoxanide has not been shown to be superior to placebo medication for the management of diarrhea caused by Cryptosporidium parvum in patients with HIV/immunodeficiency [FDA Label]. 
+DrugId:  19
+1. Name:  Lanimostim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in fungal infections.
+DrugId:  20
+1. Name:  Amithiozone
+2. Groups:  Investigational
+3. Description:  Amithiozone has been used in trials studying the treatment of Mycobacterium Avium-intracellulare Infection.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Ethionamide
+2. Groups:  Approved
+3. Description:  A second-line antitubercular agent that inhibits mycolic acid synthesis. It also may be used for treatment of leprosy. (From Smith and Reynard, Textbook of Pharmacology, 1992, p868)
+4. Indication:  For use in the treatment of pulmonary and extrapulmonary tuberculosis when other antitubercular drugs have failed.
+DrugId:  22
+1. Name:  HspE7
+2. Groups:  Investigational
+3. Description:  HspE7 is a recombinant chimeric protein composed of the heat shock protein 65 (Hsp65) from Mycobacterium bovis, and the human papilloma viral (HPV) protein E7. Hsp65, similar to other members of its family of proteins, elicits a strong immune response and may be used to design vaccines against a number of different cancers. E7 protein is involved in carcinogenesis of anal and cervical tumors, and represents a tumor antigen that may be specifically targeted by lymphocytes. It is being developed by StressGen Biotechnologies Corp.
+4. Indication:  Investigated for use/treatment in anal dysplasia, cervical dysplasia/cancer, genital warts, HIV infection, infectious and parasitic disease (unspecified), pediatric indications, warts, and viral infection.
+DrugId:  23
+1. Name:  Suptavumab
+2. Groups:  Investigational
+3. Description:  Suptavumab has been used in trials studying the treatment and basic science of Respiratory Syncytial Virus Infections.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Alvircept Sudotox
+2. Groups:  Investigational
+3. Description:  Alvircept Sudotox has been used in trials studying the treatment of HIV Infections.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Haloprogin
+2. Groups:  Approved, Withdrawn
+3. Description:  Haloprogin is used as a topical ointment or cream in the treatment of Tinea infections. Tinea infections are superficial fungal infections caused by three species of fungi collectively known as dermatophytes (Trichophyton, Microsporum and Epidermophyton). Commonly these infections are named for the body part affected, including tinea corporis (general skin), tinea cruris (groin), and tinea pedis (feet). Haloprogin is a halogenated phenolic ether administered topically for dermotaphytic infections. The mechanism of action is unknown, but it is thought to be via inhibition of oxygen uptake and disruption of yeast membrane structure and function. Haloprogin is no longer available in the United States and has been discontinued. 
+4. Indication:  Used to treat fungal (Tinea) skin infections such as athlete's foot, jock itch, ringworm, and tinea versicolor.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Griseofulvin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An antifungal antibiotic. Griseofulvin may be given by mouth in the treatment of tinea infections. [PubChem]
+4. Indication:  For the treatment of ringworm infections of the skin, hair, and nails, namely: tinea corporis, tinea pedis, tinea cruris, tinea barbae, cradle cap or other conditions caused by Trichophyton or Microsporum fungi.
+DrugId:  2
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  3
+1. Name:  Mersalyl
+2. Groups:  Approved
+3. Description:  Mersalyl is the sodium salt form of mersalyl acid, a mercurial diuretic. It is an outdated drug, and its approval has been discontinued by the FDA. Mersalyl acid is currently replaced by less toxic non-mercury containing diuretics [4, 6]. The sodium salt of a mercury-containing derivative of salicylamide, was formerly used (often in combination with theophylline) to treat edema, due to its powerful diuretic properties [6]. Interestingly, it has been found to have antiviral properties in mice [13].
+4. Indication:  Elevated blood pressure, edema [6, 14].
+DrugId:  4
+1. Name:  Hydrocortamate
+2. Groups:  Approved
+3. Description:  Hydrocortamate is a synthetic glucocorticoid used for its anti-inflammatory or immunosuppressive properties to treat inflammation due to corticosteroid-responsive dermatoses. Glucocorticoids are a class of steroid hormones characterised by an ability to bind with the cortisol receptor and trigger a variety of important cardiovascular, metabolic, immunologic and homeostatic effects.
+4. Indication:  Used topically as an antiinflammatory in the treatment of steroid-responsive dermatoses
+DrugId:  5
+1. Name:  Fluocinonide
+2. Groups:  Approved, Investigational
+3. Description:  A topical glucocorticoid used in the treatment of eczema. [PubChem]
+4. Indication:  A topical anti-inflammatory product for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.
+DrugId:  6
+1. Name:  PEG-Infergen
+2. Groups:  Investigational
+3. Description:  PEGylation is a technology for the chemical attachment of polyethylene glycol (PEG) polymer chains to a broad range of drug substances such as peptides and proteins including antibody fragments; small molecules, and other drugs. Infergen is a bio-engineered type I interferon alpha that is FDA-approved for the treatment of patients with chronic hepatitis C infections.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  7
+1. Name:  AI-128
+2. Groups:  Investigational
+3. Description:  AI-128 is the first human demonstration of sustained release drug administration in the lung. AI-128 consists of slowly dissolving microspheres designed to control where drug particles go in the lung and how quickly they release their drug.
+4. Indication:  Investigated for use/treatment in asthma.
+DrugId:  8
+1. Name:  AI-850
+2. Groups:  Investigational
+3. Description:  AI-850 is a Cremophor(R)-free formulation of paclitaxel, the active ingredient in Taxol(R), a product used to treat a variety of solid tumors.
+4. Indication:  Investigated for use/treatment in breast cancer and solid tumors.
+DrugId:  9
+1. Name:  Betamethasone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)
+4. Indication:  Topical use (cream, lotion and ointment): for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.Topical use (foam): relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses of the scalp.Systemic use: for the treatment of edocrine disorders, rheumatic disorders, collagen diseases, dermatological diseases, allergic states, ophthalmic diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, gastrointestinal diseases, tuberculous meningitis and trichinosis.
+DrugId:  10
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  11
+1. Name:  SGN-15
+2. Groups:  Investigational
+3. Description:  SGN-15 is studied in the treatment of cancer. It combines a monoclonal antibody with the anticancer drug doxorubicin. Monoclonal antibodies are substances that are made in the laboratory and that can locate and bind to cancer cells. Doxorubicin is a type of anthracycline antitumor antibiotic. When it is combined with a monoclonal antibody, it forms a type of drug conjugate. Also called cBR96-doxorubicin immunoconjugate.
+4. Indication:  Investigated for use/treatment in breast cancer, colorectal cancer, and lung cancer.
+DrugId:  12
+1. Name:  JB991
+2. Groups:  Investigational
+3. Description:  JB991 is a cyclopentenone prostaglandin analogue intended for treatment of psoriasis. The drug exerts marked antiproliferative and pro-apoptotic effect in human keratinocytes and fibroblasts in vitro. In addition a closely related cyclopentenone prostaglandin analogue has been shown to exert marked anti-inflammatory effect in vivo in an animal model. The drug will be applied topically on the skin. 
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders and skin infections/disorders.
+DrugId:  13
+1. Name:  SB-559448
+2. Groups:  Investigational
+3. Description:  SB-559448 is a small-molecule drug that mimics the activity of thrombopoietin (TPO), a protein factor that promotes growth and production of blood platelets. This drug is developed by GlaxoSmithKline and used to treat Thrombocytopenia.Thrombocytopenia (decreased platelet count) is a common side effect of many chemotherapies and can lead to uncontrolled bleeding, thus representing a significant problem in the treatment of cancer patients.
+4. Indication:  Investigated for use/treatment in thrombocytopenia.
+DrugId:  14
+1. Name:  ND7001
+2. Groups:  Investigational
+3. Description:  ND7001, a selective PDE2 inhibitor is in clinical trials for the treatment of depression. ND7001 is a solid. Known drug targets of ND7001 including phosphodiesterase 2A, cGMP-stimulated and cGMP-dependent 3',5'-cyclic phosphodiesterase. It is a new type of antidepressant drug with anxiolytic activity. It is the first representative of a new generation of psycho-active compounds potentially devoid of several problems seen with existing treatments.
+4. Indication:  Investigated for use/treatment in anxiety disorders and depression.
+DrugId:  15
+1. Name:  Grn163l
+2. Groups:  Investigational
+3. Description:  GRN163L is a novel anti-cancer drug. It has been characterized preclinically and shown to inhibit telomerase in human tumor cells of many cancer types (including lung, breast, prostate, liver, and early stage of human breast cancer), in both cell culture systems and animal models. Study of this drug shows the its potential utility in the treatment of patients with hematologic and solid tumor malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and solid tumors.
+DrugId:  16
+1. Name:  Lucatumumab
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid), multiple myeloma, and lymphoma (unspecified).
+DrugId:  17
+1. Name:  SOT-107
+2. Groups:  Investigational
+3. Description:  SOT-107 is a drug that is a combination of a protein called transferrin and a poison called diphtheria toxin. This drug treat for a type of brain cancer called a high grade glioma brain tumour. About half of all brain tumours are gliomas. 
+4. Indication:  Investigated for use/treatment in brain cancer.
+DrugId:  18
+1. Name:  Sinecatechins
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Sinecatechins is a botanical drug product for topical use. It is a partially purified fraction of the water extract of green tea leaves from Camellia sinensis, and is a mixture of catechins and other green tea components. Catechins constitute 85 to 95% (by weight) of the total drug substance which includes more than 55% of Epigallocatechin gallate (EGCg), other catechin derivatives such as Epicatechin (EC), Epigallocatechin (EGC), Epicatechin gallate (ECg) and some additional minor catechin derivatives i.e. Gallocatechin gallate (GCg), Gallocatechin (GC), Catechin gallate (Cg), and Catechin (C). In addition to the known catechin components, it also contains gallic acid, caffeine, and theobromine which together constitute about 2.5% of the drug substance. The remaining amount of the drug substance contains undefined botanical constituents derived from green tea leaves.
+4. Indication:  For the topical treatment of external genital and perianal warts (Condylomata acuminata) in immunocompetent patients 18 years and older.
+DrugId:  19
+1. Name:  PM02734
+2. Groups:  Investigational
+3. Description:  PM02734 is a marine derived compound. PM02734 as a new antiproliferative drug demonstrating activity against a broad spectrum of tumor types: breast, colon, pancreas, lung and prostate, among others.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified) and solid tumors.
+DrugId:  20
+1. Name:  Rifamycin
+2. Groups:  Investigational
+3. Description:  Rifamycin has been investigated in Adverse Drug Interactions.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Butyrfentanyl
+2. Groups:  Illicit
+3. Description:  Butyr-fentanyl or butyrylfentanyl (not to be confused with 3-methylfentanyl) is a potent short-acting synthetic opioid analgesic drug. It is an analogue of fentanyl with around one quarter the potency of fentanyl. One of first mentions of this drug can be found in document written by The College on Problem of Drug Dependence, where it is mentioned as N-butyramide fentanyl analog. This document also states that the article describing its clinical effects (analgesic studies, m-, d-, k-Opioid receptor binding and in vitro measures of drug efficacy, antinociceptive and narcotic properties) was published in 1987. It is an agonist at mu opioid receptors.Butyrfentanyl has no current legitimate clinical applications, but anecdotal reports indicate it may occasionally be surfacing on the grey-market as a recreational drug. This compound is a schedule I controlled substance in the USA because it is a positional isomer of 3-Methylfentanyl.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  AT9283
+2. Groups:  Investigational
+3. Description:  AT9283 is an aurora Kinase inhibitor developed by Astex Therapeutics for the treatment of cancer. It was discovered and developed internally using Astex’s fragment-based drug discovery platform, Pyramid.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified), leukemia (myeloid), and solid tumors.
+DrugId:  23
+1. Name:  Tricaprylin
+2. Groups:  Investigational
+3. Description:  Tricaprilin has been used in trials studying the supportive care and treatment of Alzheimer's Disease.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  2,2':6',2''-Terpyridine Platinum(Ii)
+2. Groups:  Experimental
+3. Description:  2,2':6',2''-terpyridine Platinum(Ii) is a solid. Known drug targets of 2,2':6',2''-Terpyridine Platinum(Ii) include truncated transposase and autolysin.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  CX157
+2. Groups:  Investigational
+3. Description:  CX157,3-fluoro-7-(2,2,2,-trifluoroethoxy)phenoxathiin-10,10-dioxide, is a reversible, selective inhibitor of MAO-A designed to have improved oral bioavailability and reduced clearance compared to previous MAO-A inhibitors of this class.
+4. Indication:  Anxiety Disorders I,Depression I

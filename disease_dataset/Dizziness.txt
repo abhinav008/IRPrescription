@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Buclizine
+2. Groups:  Approved
+3. Description:  Buclizine is an antihistamine of the piperazine derivative family. [Wikipedia]
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness and vertigo (dizziness caused by other medical problems).
+DrugId:  2
+1. Name:  Teriparatide
+2. Groups:  Approved, Investigational
+3. Description:  Teriparatide (recombinant human parathyroid hormone) is a potent anabolic agent used in the treatment of osteoporosis. It is manufactured and marketed by Eli Lilly and Company.
+4. Indication:  For the treatment of osteoporosis in men and postmenopausal women who are at high risk for having a fracture. Also used to increase bone mass in men with primary or hypogonadal osteoporosis who are at high risk for fracture.
+DrugId:  3
+1. Name:  Cyclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist given by mouth or parenterally for the control of postoperative and drug-induced vomiting and in motion sickness. (From Martindale, The Extra Pharmacopoeia, 30th ed, p935)
+4. Indication:  For prevention and treatment of nausea, vomiting, and dizziness associated with motion sickness, and vertigo (dizziness caused by other medical problems).
+DrugId:  4
+1. Name:  Omapatrilat
+2. Groups:  Investigational
+3. Description:  Omapatrilat is an investigational drug that inhibits both neutral endopeptidase (NEP) and angiotensin converting enzyme (ACE). NEP inhibition results in elevated natriuretic peptide levels, promoting natriuresis, diuresis, vasodilation, and reductions in preload and ventricular remodeling. This drug from BMS was not approved by the FDA due to angioedema safety concerns.
+4. Indication:  For the treatment of hypertension.
+DrugId:  5
+1. Name:  Ferric Carboxymaltose
+2. Groups:  Approved
+3. Description:  Ferric Carboxymaltose is an iron replacement product and chemically, an iron carbohydrate complex. FDA approved on July 25, 2013. 
+4. Indication:  Ferric carboxymaltose is a iron replacement product indicated for the treatment of iron deficiency anemia in adult patients who have intolerance to oral iron or have had unsatisfactory response to oral iron or those who have non-dialysis dependent chronic kidney disease. 
+DrugId:  6
+1. Name:  Mebutamate
+2. Groups:  Approved
+3. Description:  Mebutamate is a sedative and anxiolytic drug with anti-hypertensive (blood pressure lowering) effects. It has effects comparable to those of barbiturates such as secobarbital, but is only around 1/3rd the potency of secobarbital as a sedative. Side effects include dizziness and headaches.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Butriptyline
+2. Groups:  Approved
+3. Description:  Butriptyline is a tricyclic antidepressant which has been used in Europe since 1974. It is the isobutyl side chain homologue of amitriptyline.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Ginkgo biloba
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  The extract of the Ginkgo leaves contains flavonoid glycosides and terpenoids (ginkgolides, bilobalides) and has been used pharmaceutically for hundreds of years. It has many alleged nootropic properties, and is mainly used as memory and concentration enhancer, and anti-vertigo agent. Ginkgo extract seems to have three effects on the human body: it improves blood flow (including microcirculation in small capillaries) to most tissues and organs; it protects against oxidative cell damage from free radicals; and it blocks many of the effects of PAF (platelet aggregation, blood clotting) that have been related to the development of a number of cardiovascular, renal, respiratory and CNS (Central Nervous System) disorders.
+4. Indication:  Appears to be effective in: alleviating age-related memory impairment in some elderly people with mild to moderate age-related memory or cognitive impairment; improving cognitive function in healthy young to middle-aged people; improving symptoms of Alzheimer's, vascular or mixed dementia; improving damage to the visual field in patients with normal tension glaucoma; decreasing the number of painful attacks in patients with Raynaud's syndrome; and may improve symptoms of vertigo and dizziness in some patients. 
+DrugId:  9
+1. Name:  Meclizine
+2. Groups:  Approved
+3. Description:  A histamine H1 antagonist used in the treatment of motion sickness, vertigo, and nausea during pregnancy and radiation sickness. [PubChem]
+4. Indication:  For the prevention and treatment of nausea, vomiting, or dizziness associated with motion sickness.
+DrugId:  10
+1. Name:  Pranlukast
+2. Groups:  Approved, Investigational
+3. Description:  Pranlukast is a cysteinyl leukotriene receptor-1 antagonist. It antagonizes or reduces bronchospasm caused, principally in asthmatics, by an allergic reaction to accidentally or inadvertently encountered allergens.
+4. Indication:  Used as an adjunct to the standard therapy of inhaled steroids with inhaled long- and/or short-acting beta-agonists. 
+DrugId:  11
+1. Name:  Pemoline
+2. Groups:  Illicit, Investigational, Withdrawn
+3. Description:  In 2005, the Food and Drug Administration (FDA) withdrew approval for pemoline. In March 2005, Abbott Laboratories (Cylert marketer) had discontinued the production of Cylert arguing economic reasons.
+4. Indication:  For treatment of Attention Deficit Hyperactivity Disorder (ADHD)
+DrugId:  12
+1. Name:  Trimethadione
+2. Groups:  Approved
+3. Description:  An anticonvulsant effective in absence seizures, but generally reserved for refractory cases because of its toxicity. (From AMA Drug Evaluations Annual, 1994, p378)
+4. Indication:  Used in the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+DrugId:  13
+1. Name:  Metolazone
+2. Groups:  Approved
+3. Description:  A quinazoline-sulfonamide that is considered a thiazide-like diuretic which is long-acting so useful in chronic renal failure. It also tends to lower blood pressure and increase potassium loss. [PubChem]
+4. Indication:  For the treatment of hypertension, alone or in combination with other antihypertensive drugs of a different class.
+DrugId:  14
+1. Name:  Fludiazepam
+2. Groups:  Approved, Illicit
+3. Description:  Fludiazepam is a drug which is a benzodiazepine derivative. It possesses anxiolytic, anticonvulsant, sedative and skeletal muscle relaxant properties. It is a scheduled drug in the U.S., but is approved for use in Japan.
+4. Indication:  Used for the short-term treatment of anxiety disorders.
+DrugId:  15
+1. Name:  Gabapentin Enacarbil
+2. Groups:  Approved, Investigational
+3. Description:  Gabapentin enacarbil is marketed under the name Horizant. It is a prodrug of gabapentin, and indicated in adults for the treatment of Restless Legs Syndrome (RLS) and postherpetic neuralgia (PHN).
+4. Indication:  For the treatment of adult Restless Legs Syndrome (RLS) and postherpetic neuralgia (PHN).
+DrugId:  16
+1. Name:  Masoprocol
+2. Groups:  Approved, Investigational
+3. Description:  A potent lipoxygenase inhibitor that interferes with arachidonic acid metabolism. The compound also inhibits formyltetrahydrofolate synthetase, carboxylesterase, and cyclooxygenase to a lesser extent. It also serves as an antioxidant in fats and oils. [PubChem]
+4. Indication:  Used for the treatment of actinic keratoses (precancerous skin growths that can become malignant if left untreated).
+DrugId:  17
+1. Name:  Metaxalone
+2. Groups:  Approved
+3. Description:  Metaxalone (marketed by King Pharmaceuticals under the brand name Skelaxin®) is a muscle relaxant used to relax muscles and relieve pain caused by strains, sprains, and other musculoskeletal conditions. Its exact mechanism of action is not known, but it may be due to general central nervous system depression. It is considered to be a moderately strong muscle relaxant, with relatively low incidence of side effects. Skelaxin comes in an 800 mg scored tablet. It previously came in both 400 mg and 800 mg tablets. The 400 mg tablet has been discontinued. Possible side effects include nausea, vomiting, drowsiness and CNS side effects such as dizziness, headache, and irritability.
+4. Indication:  For the treatment of painful peripheral musculoskeletal conditions and spasticity from upper motor neuron syndromes.
+DrugId:  18
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  19
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  20
+1. Name:  Choline magnesium trisalicylate
+2. Groups:  Approved
+3. Description:  Choline magnesium trisalicylate is a non-acetylated salicylate used widely as a nonsteroidal anti-inflammatory drug. Trisalicylate significantly reduces methotrexate renal clearance, displacing methotrexate from protein, increasing the fraction unbound by 28% [1, 2].
+4. Indication:  Choline magnesium trisalicylate is used to reduce pain and inflammation caused by conditions such as arthritis. This medication is also used to treat fever in adults.
+DrugId:  21
+1. Name:  Lesopitron
+2. Groups:  Investigational
+3. Description:  Lesopitron is an anxiolytic with pre- and post-synaptic 5-HT1A agonist activity, which is under development by Esteve.
+4. Indication:  Intended for the treatment of anxiety disorders.
+DrugId:  22
+1. Name:  Cycloserine
+2. Groups:  Approved
+3. Description:  Antibiotic substance produced by Streptomyces garyphalus. [PubChem]
+4. Indication:  Used in combination with up to 5 other drugs as a treatment for Mycobacterium avium complex (MAC) and is also used to treat tuberculosis (TB).
+DrugId:  23
+1. Name:  Paramethadione
+2. Groups:  Approved
+3. Description:  Paramethadione is an anticonvulsant in the oxazolidinedione class. It is associated with fetal trimethadione syndrome, which is also known as paramethadione syndrome.
+4. Indication:  Used for the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+DrugId:  24
+1. Name:  Deserpidine
+2. Groups:  Approved
+3. Description:  Deserpidine is an ester alkaloid drug isolated from Rauwolfia canescens (family Apocynaceae) with antipsychotic and antihypertensive properties that has been used for the control of high blood pressure and for the relief of psychotic behavior.
+4. Indication:  For the treatment of hypertension.
+DrugId:  25
+1. Name:  Quinethazone
+2. Groups:  Approved
+3. Description:  Quinethazone (INN, brand name Hydromox) is a thiazide diuretic used to treat hypertension. Common side effects include dizziness, dry mouth, nausea, and low potassium levels.
+4. Indication:  Used to treat hypertension.

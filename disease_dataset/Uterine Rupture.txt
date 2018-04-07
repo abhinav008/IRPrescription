@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  2
+1. Name:  Gemeprost
+2. Groups:  Approved, Withdrawn
+3. Description:  Gemeprost is a prostaglandin E1 (PGE1) analog and antiprogestogen used for preoperative dilation of the cervix before surgical abortion. It is available as vaginal suppositories and also used in combination with the antiprogestin and mifepristone for termination of 1st- and 2nd-trimester pregnancy [1]. It is not FDA-approved but available in Japan marketed as Preglandin.
+4. Indication:  Indicated for the softening and dilatation of the cervix uteri prior to transcervical, intrauterine operative procedures in the first trimester of pregnancy or facilitating therapeutic termination of pregnancy in patients in the second trimester of gestation.
+DrugId:  3
+1. Name:  Carboprost Tromethamine
+2. Groups:  Approved
+3. Description:  A nonsteroidal abortifacient agent that is effective in both the first and second trimesters of pregnancy. [PubChem]
+4. Indication:  For aborting pregnancy between the 13th and 20th weeks of gestation as calculated from the first day of the last normal menstrual period and in the following conditions related to second trimester abortion: 1. Failure of expulsion of the fetus during the course of treatment by another method; 2. Premature rupture of membranes in intrauterine methods with loss of drug and insufficient or absent uterine activity; 3. Requirement of a repeat intrauterine instillation of drug for expulsion of the fetus; 4. Inadvertent or spontaneous rupture of membranes in the presence of a previable fetus and absence of adequate activity for expulsion. Also for the treatment of postpartum hemorrhage due to uterine atony which has not responded to conventional methods of management.
+DrugId:  4
+1. Name:  Misoprostol
+2. Groups:  Approved
+3. Description:  A synthetic analog of natural prostaglandin E1. It produces a dose-related inhibition of gastric acid and pepsin secretion, and enhances mucosal resistance to injury. It is an effective anti-ulcer agent and also has oxytocic properties.
+4. Indication:  Indicated for the treatment of ulceration (duodenal, gastric and NSAID induced) and prophylaxis for NSAID induced ulceration.Misoprostol is also indicated for other uses that are not approved in Canada, including the medical termination of an intrauterine pregnancy used alone or in combination with methotrexate,as well as the induction of labour in a selected population of pregnant women with unfavourable cervices. This indication is avoided in women with prior uterine surgery or cesarean surgery due to an increased risk of possible uterine rupture. Misoprostol is also used for the prevention or treatment of serious postpartum hemorrhage.
+DrugId:  5
+1. Name:  Proellex
+2. Groups:  Investigational
+3. Description:  Proellex is an orally-available, selective progesterone receptor modulator, is in development to alleviate symptoms associated with both uterine fibroids and endometriosis.
+4. Indication:  For the treatment of uterine fibroids and endometriosis.
+DrugId:  6
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  7
+1. Name:  Ergonovine
+2. Groups:  Approved
+3. Description:  An ergot alkaloid with uterine and vascular smooth muscle contractile properties.
+4. Indication:  Used to treat postpartum haemorrhage and postabortion haemorrhage in patients with uterine atony. 
+DrugId:  8
+1. Name:  CHF 4227
+2. Groups:  Investigational
+3. Description:  CHF 4227 is a new selective estrogen receptor modulator (SERM). The compound has a high receptor affinity and has shown promising efficacy in the prevention of bone loss in animal models of osteoporosis. Additionally, the compound has shown no uterotrophic activity suggesting a potential therapeutic advantage over drugs normally used in postmenopausal therapy.
+4. Indication:  Investigated for use/treatment in osteoporosis.
+DrugId:  9
+1. Name:  Elagolix
+2. Groups:  Investigational
+3. Description:  Elagolix has been used in trials studying the basic science and treatment of Endometriosis, Folliculogenesis, Uterine Fibroids, Heavy Uterine Bleeding, and Heavy Menstrual Bleeding.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  MPI-674
+2. Groups:  Investigational
+3. Description:  MPI-674 is an aromatase inhibitor (AI) with a well-established, multi-year chronic safety and tolerability profile. AIs are a class of drugs that reduce the amount of estrogen circulating in the body by binding to and inhibiting the enzyme aromatase, which is responsible for converting certain hormones to estrogen. It is developed for the treatment of several serious women’s health conditions including endometrial thinning prior to endometrial ablations in premenopausal women with abnormal uterine bleeding (AUB).
+4. Indication:  Investigated for use/treatment in menstrual disorders.
+DrugId:  11
+1. Name:  Menotropins
+2. Groups:  Approved
+3. Description:  Menotropins contains follicle stimulating hormone (FSH) and luteinizing hormone (LH) purified from the urine of postmenopausal women. It is used as a fertility medication that is injected either subcutaneously or intramuscularly. It is composed of LH with 2 subunits, alpha = 92 residues, beta = 121 residues and FSH with 2 subunits, alpha = 92 residues, beta=111 residues.
+4. Indication:  For the treatment of female infertility
+DrugId:  12
+1. Name:  Varespladib methyl
+2. Groups:  Investigational
+3. Description:  Varespladib methyl has been investigated for the treatment of Acute Coronary Syndrome. Studies showed that Varespladib methyl treatment resulted in significant positive changes on lipoproteins and inflammation.
+4. Indication:  Investigated for use/treatment in atherosclerosis and coronary artery disease.
+DrugId:  13
+1. Name:  Asoprisnil
+2. Groups:  Investigational
+3. Description:  Asoprisnil (J867) is a selective progesterone receptor modulator. It can be used to treat progesterone sensitive myomata.
+4. Indication:  Investigated for use/treatment in uterine fibroids.
+DrugId:  14
+1. Name:  Choriogonadotropin alfa
+2. Groups:  Approved
+3. Description:  Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.
+4. Indication:  For the treatment of female infertility
+DrugId:  15
+1. Name:  Ritodrine
+2. Groups:  Approved, Investigational
+3. Description:  Adrenergic beta-agonist used to control premature labor. [PubChem]
+4. Indication:  For the treatment and prophylaxis of premature labour
+DrugId:  16
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  17
+1. Name:  Arzoxifene
+2. Groups:  Approved, Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in breast cancer, osteoporosis, and endometrial cancer.
+DrugId:  18
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  19
+1. Name:  Relugolix
+2. Groups:  Investigational
+3. Description:  Relugolix has been used in trials studying the treatment of Endometriosis, Prostate Cancer, Uterine Fibroids, and Androgen Deprivation Treatment-naïve Nonmetastatic Prostate Cancer.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Leuprolide
+2. Groups:  Approved, Investigational
+3. Description:  Leuprolide belongs to the general class of drugs known as hormones or hormone antagonists. It is a synthetic 9 residue peptide analog of gonadotropin releasing hormone. Leuprolide is used to treat advanced prostate cancer. It is also used to treat uterine fibroids and endometriosis. Leuprolide is also under investigation for possible use in the treatment of mild to moderate Alzheimer's disease.
+4. Indication:  For treatment of prostate cancer, endometriosis, uterine fibroids and premature puberty
+DrugId:  21
+1. Name:  Isoxsuprine
+2. Groups:  Approved, Withdrawn
+3. Description:  A beta-adrenergic agonist that causes direct relaxation of uterine and vascular smooth muscle. Its vasodilating actions are greater on the arteries supplying skeletal muscle than on those supplying skin. It is used in the treatment of peripheral vascular disease and in premature labor.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Pipendoxifene
+2. Groups:  Investigational
+3. Description:  ER modulator, ERA-923(Pipendoxifene) is a estrogen receptor modulator being evaluated for the treatment of breast cancer. Pipendoxifene is a new 2-phenyl indole selective estrogen receptor modulators (SERM )that exhibits an excellent preclinical pharmacological profile and was selected for further development as a treatment for metastatic breast cancer.
+4. Indication:  Investigated for use/treatment in breast cancer.
+DrugId:  23
+1. Name:  Terbutaline
+2. Groups:  Approved
+3. Description:  A selective beta-2 adrenergic agonist used as a bronchodilator and tocolytic. [PubChem]
+4. Indication:  For the prevention and reversal of bronchospasm in patients 12 years of age and older with reversible, obstructive airway disease, as well as symptomatic management of reversible bronchospasm associated with bronchitis and emphysema. Also used acute IV and sub-Q therapy in selected women to inhibit uterine contractions in preterm labor (tocolysis) and prolong gestation when beneficial.
+DrugId:  24
+1. Name:  Progesterone
+2. Groups:  Approved, Vet approved
+3. Description:  The major progestational steroid that is secreted primarily by the corpus luteum and the placenta. Progesterone acts on the uterus, the mammary glands, and the brain. It is required in embryo implantation, pregnancy maintenance, and the development of mammary tissue for milk production. Progesterone, converted from pregnenolone, also serves as an intermediate in the biosynthesis of gonadal steroid hormones and adrenal corticosteroids.
+4. Indication:  For progesterone supplementation or replacement as part of an Assisted Reproductive Technology (ART) treatment for infertile women with progesterone deficiency and for the treatment of secondary amenorrhea. Also used for the reduction of the incidence of endometrial hyperplasia and the attendant risk of endometrial carcinoma in postmenopausal women receiving estrogen replacement therapy, as well as treatment of abnormal uterine bleeding due to hormonal imbalance in the absence of organic pathology such as fibroids or uterine cancer.
+DrugId:  25
+1. Name:  Sufugolix
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in endometriosis and uterine fibroids.

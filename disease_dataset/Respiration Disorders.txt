@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Isopropamide
+2. Groups:  Approved, Vet approved
+3. Description:  Isopropamide iodide is a long-acting quaternary anticholinergic drug. It is used in the treatment of peptic ulcer and other gastrointestinal disorders marked by hyperacidity and hypermotility.
+4. Indication:  For the treatment of a wide range of gastrointestinal disorders, including such conditions as peptic ulcer, gastritis, hyperchlorhydria, functional diarrhea, irritable or spastic colon, pyloroduodenal irritability, pylorospasm, acute nonspecific gastroenteritis, biliary dyskinesia and chronic cholelithiasis, duodenitis, gastrointestinal spasm; it may also be used to treat genitourinary spasm.
+DrugId:  2
+1. Name:  Prazepam
+2. Groups:  Approved, Illicit
+3. Description:  Prazepam is a benzodiazepine that is used in the treatment of anxiety disorders. It is a schedule IV drug in the U.S.
+4. Indication:  For the treatment of anxiety disorders.
+DrugId:  3
+1. Name:  Hexachlorophene
+2. Groups:  Approved, Withdrawn
+3. Description:  A chlorinated bisphenol antiseptic with a bacteriostatic action against Gram-positive organisms, but much less effective against Gram-negative organisms. It is mainly used in soaps and creams and is an ingredient of various preparations used for skin disorders. (From Martindale, The Extra Pharmacopoeia, 30th ed, p797)
+4. Indication:  For use as a surgical scrub and a bacteriostatic skin cleanser. It may also be used to control an outbreak of gram-positive infection where other infection control procedures have been unsuccessful.
+DrugId:  4
+1. Name:  Ketoconazole
+2. Groups:  Approved, Investigational
+3. Description:  Broad spectrum antifungal agent used for long periods at high doses, especially in immunosuppressed patients. It is a racemate consisting of equimolar amounts of (2R,4S)- and (2S,4R)-ketoconazole with the chiral centers on the acetal ring.
+4. Indication:  For the treatment of the following systemic fungal infections: candidiasis, chronic mucocutaneous candidiasis, oral thrush, candiduria, blastomycosis, coccidioidomycosis, histoplasmosis, chromomycosis, and paracoccidioidomycosis.
+DrugId:  5
+1. Name:  Oxygen
+2. Groups:  Approved, Vet approved
+3. Description:  Oxygen is a chemical element with symbol O and atomic number 8. Uptake of oxygen from the air is the essential purpose of respiration, so oxygen supplementation is used in medicine. Treatment not only increases oxygen levels in the patient's blood, but has the secondary effect of decreasing resistance to blood flow in many types of diseased lungs, easing work load on the heart. Oxygen therapy is used to treat emphysema, pneumonia, some heart disorders (congestive heart failure), some disorders that cause increased pulmonary artery pressure, and any disease that impairs the body's ability to take up and use gaseous oxygen. Higher level of oxygen than ambient air (hyperoxia) can be introduced under normobaric or hyperbaric conditions.
+4. Indication:  Oxygen therapy in clinical settings is used across diverse specialties, including various types of anoxia, hypoxia or dyspnea and any other disease states and conditions that reduce the efficiency of gas exchange and oxygen consumption such as respiratory illnesses, trauma, poisonings and drug overdoses. Oxygen therapy tries to achieve hyperoxia [6] to reduce the extent of hypoxia-induced tissue damage and malfunction. 
+DrugId:  6
+1. Name:  Econazole
+2. Groups:  Approved
+3. Description:  A broad spectrum antimycotic with some action against Gram positive bacteria. It is used topically in dermatomycoses also orally and parenterally. [PubChem]
+4. Indication:  For topical application in the treatment of tinea pedis, tinea cruris, and tinea corporis caused by Trichophyton rubrum, Trichophyton mentagrophytes, Trichophyton tonsurans, Microsporum canis, Microsporum audouini, Microsporum gypseum, and Epidermophyton floccosum, in the treatment of cutaneous candidiasis, and in the treatment of tinea versicolor.
+DrugId:  7
+1. Name:  Xanthinol
+2. Groups:  Approved, Withdrawn
+3. Description:  Xanthinol is a very potent water-soluble derivative of niacin that can be found in diet supplements. It is also known as xanthinol nicotinate. [6] Xaninthol is known to be a potent vasodilator that can easily pass through the cell membrane and once inside the cell it causes an increase in glucose metabolism resulting in an increased energy. [7] It was approved as a drug in 1998 in Canada and nowadays its status is cancelled post marketing.
+4. Indication:  Xanthinol is primarily used in diet supplements to increase the brain metabolism of glucose and obtain ATP. Xanthinol is also used as an agent to reduced cholesterol as it is a vasodilator.[7] Its action allows having an elevated rate of blood flow in the brain which helps improve memory function, concentration and awareness.[6] Thus, due to his actions, xanthinol is indicated to improve cerebrovascular and peripheral vascular disorders as well as hyperlipidaemias.[8]
+DrugId:  8
+1. Name:  Fluconazole
+2. Groups:  Approved, Investigational
+3. Description:  Triazole antifungal agent that is used to treat oropharyngeal candidiasis and cryptococcal meningitis in AIDS. [PubChem]
+4. Indication:  For the treatment of fungal infections.
+DrugId:  9
+1. Name:  Diazepam
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589)
+4. Indication:  Used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome.
+DrugId:  10
+1. Name:  Phenobarbital
+2. Groups:  Approved, Investigational
+3. Description:  A barbituric acid derivative that acts as a nonselective central nervous system depressant. It promotes binding to inhibitory gamma-aminobutyric acid subtype receptors, and modulates chloride currents through receptor channels. It also inhibits glutamate induced depolarizations. [PubChem]
+4. Indication:  For the treatment of all types of seizures except absence seizures.
+DrugId:  11
+1. Name:  Calcium carbimide
+2. Groups:  Approved, Withdrawn
+3. Description:  Calcium carbimide, sold as the citrate salt, is an alcohol-sensitizing agent. Its effects are similar to the drug disulfiram (Antabuse) in that it interferes with the normal metabolism of alcohol by preventing the breakdown of the metabolic product acetaldehyde. Calcium carbimide was conceived as an alternative for the treatment of alcoholism with a reduced side effect profile either when it is consumed accompanied by alcohol or without it.[1] This drug was developed by Lederle Cyanamid Canada Inc and approved for marketing in Canada in 1959. The current status of calcium carbimide is cancelled post marketing.[8]
+4. Indication:  Calcium carbimide has not been approved by the FDA but the intended indication is for the treatment of alcoholism.[6] This medication was marketed in Canada, United Kingdom and Europe under the trade name of Temposil for the sole use of alcoholism treatment.[9]
+DrugId:  12
+1. Name:  Sumatriptan
+2. Groups:  Approved, Investigational
+3. Description:  A serotonin agonist that acts selectively at 5HT1 receptors. It is used in the treatment of migraine disorders. A transdermal patch version of sumatriptan is currently in phase I trials in the U.S. under the code name NP101 (NuPathe).
+4. Indication:  For the treatment of migraine attacks with or without aura.
+DrugId:  13
+1. Name:  Acetylcysteine
+2. Groups:  Approved, Investigational
+3. Description:  Acetylcysteine (also known as N-acetylcysteine or N-acetyl-L-cysteine or NAC) is primarily used as a mucolytic agent and in the management of acetaminophen poisoning. It is a derivative of cysteine with an acetyl group attached to the amino group of cysteine. NAC is essentially a prodrug that is converted to cysteine (in the intestine by the enzyme aminoacylase 1) and absorbed in the intestine into the blood stream. Cysteine is a key constituent to glutathione and hence administration of acetylcysteine replenishes glutathione stores. Acetylcysteine can also be used as a general antioxidant which can help mitigate symptoms for a variety of diseases exacerbated by reactive oxygen species (ROS). For instance, acetylcysteine is commonly used in individuals with renal impairment to prevent the precipitation of acute renal failure. Acetylcysteine has been shown to have efficacy in treating mild to moderate traumatic brain injury including ischemic brain injury, particularly in reducing neuronal losses, and also reducing cognitive and neurological symptoms when administered promptly after injury. N-acetylcysteine is now widely used in the treatment of HIV, and it has reported efficacy in chronic obstructive pulmonary disease and contrast-induced nephropathy. Acetylcysteine is also being successfully used to treat a variety of neuropsychiatric and neurodegenerative disorders including cocaine, cannabis, and smoking addictions, Alzheimer's and Parkinson's diseases, autism, compulsive and grooming disorders, schizophrenia, depression, and bipolar disorder. Recent data also shows that N-acetylcysteine inhibits muscle fatigue and can be used to enhance performance in endurance events and in exercise and endurance training.Acetylcysteine is also undergoing clinical trials as RK-0202, an oral rinse for the prevention and treatment of mucositis. It is comprised of acetylcysteine in a polymer matrix.
+4. Indication:  Acetylcysteine is used mainly as a mucolytic and in the management of paracetamol (acetaminophen) overdose.
+DrugId:  14
+1. Name:  Tioconazole
+2. Groups:  Approved
+3. Description:  Tioconazole is an antifungal medication of the Imidazole class used to treat infections caused by a fungus or yeast. Tioconazole topical (skin) preparations are also available for ringworm, jock itch, athlete's foot, and tinea versicolor or "sun fungus". Tioconazole interacts with 14-alpha demethylase, a cytochrome P-450 enzyme that converts lanosterol to ergosterol, an essential component of the yeast membrane. In this way, tioconazole inhibits ergosterol synthesis, resulting in increased cellular permeability.
+4. Indication:  For the local treatment of vulvovaginal candidiasis (moniliasis).
+DrugId:  15
+1. Name:  Itraconazole
+2. Groups:  Approved, Investigational
+3. Description:  One of the triazole antifungal agents that inhibits cytochrome P-450-dependent enzymes resulting in impairment of ergosterol synthesis. It has been used against histoplasmosis, blastomycosis, cryptococcal meningitis & aspergillosis. [PubChem]
+4. Indication:  For the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients: pulmonary and extrapulmonary blastomycosis, histoplasmosis, aspergillosis, and onychomycosis.
+DrugId:  16
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  17
+1. Name:  Ranitidine
+2. Groups:  Approved
+3. Description:  A non-imidazole blocker of those histamine receptors that mediate gastric secretion (H2 receptors). It is used to treat gastrointestinal ulcers. [PubChem]
+4. Indication:  Used in the treatment of peptic ulcer disease (PUD), dyspepsia, stress ulcer prophylaxis, and gastroesophageal reflux disease (GERD).
+DrugId:  18
+1. Name:  Nicotine
+2. Groups:  Approved
+3. Description:  Nicotine is highly toxic alkaloid. It is the prototypical agonist at nicotinic cholinergic receptors where it dramatically stimulates neurons and ultimately blocks synaptic transmission. Nicotine is also important medically because of its presence in tobacco smoke.
+4. Indication:  For the relief of nicotine withdrawal symptoms and as an aid to smoking cessation.
+DrugId:  19
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  20
+1. Name:  Almitrine
+2. Groups:  Approved
+3. Description:  A respiratory stimulant that enhances respiration by acting as an agonist of peripheral chemoreceptors located on the carotid bodies. The drug increases arterial oxygen tension while decreasing arterial carbon dioxide tension in patients with chronic obstructive pulmonary disease. It may also prove useful in the treatment of nocturnal oxygen desaturation without impairing the quality of sleep. [PubChem]
+4. Indication:  For the treatment of chronic obstructive pulmonary disease.
+DrugId:  21
+1. Name:  Miconazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An imidazole antifungal agent that is used topically and by intravenous infusion. [PubChem]
+4. Indication:  For topical application in the treatment of tinea pedis (athlete’s foot), tinea cruris, and tinea corporis caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum, in the treatment of cutaneous candidiasis (moniliasis), and in the treatment of tinea versicolor.
+DrugId:  22
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  23
+1. Name:  Medical air
+2. Groups:  Approved, Vet approved
+3. Description:  Medical air is supplied by a special air compressor to patient care areas using clean outside air.
+4. Indication:  For use as a source of clean air [FDA Label].
+DrugId:  24
+1. Name:  Clotrimazole
+2. Groups:  Approved, Vet approved
+3. Description:  An imidazole derivative with a broad spectrum of antimycotic activity. It inhibits biosynthesis of the sterol ergostol, an important component of fungal cell membranes. Its action leads to increased membrane permeability and apparent disruption of enzyme systems bound to the membrane. [PubChem]
+4. Indication:  For the local treatment of oropharyngeal candidiasis and vaginal yeast infections, also used in fungal infections of the skin such as ringworm, athlete's foot, and jock itch.
+DrugId:  25
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.

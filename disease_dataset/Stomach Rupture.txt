@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Bismuth Subsalicylate
+2. Groups:  Approved, Vet approved
+3. Description:  Bismuth subsalicylate is the active ingredient in the popular medication Pepto-Bismol that is used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract. It is also the main ingredient of Kaopectate. It displays anti-inflammatory action (due to salicylic acid) and also acts as an antacid and mild antibiotic.
+4. Indication:  Used to treat nausea, heartburn, indigestion, upset stomach, diarrhea, and other temporary discomforts of the stomach and gastrointestinal tract.
+DrugId:  2
+1. Name:  Misoprostol
+2. Groups:  Approved
+3. Description:  A synthetic analog of natural prostaglandin E1. It produces a dose-related inhibition of gastric acid and pepsin secretion, and enhances mucosal resistance to injury. It is an effective anti-ulcer agent and also has oxytocic properties.
+4. Indication:  Indicated for the treatment of ulceration (duodenal, gastric and NSAID induced) and prophylaxis for NSAID induced ulceration.Misoprostol is also indicated for other uses that are not approved in Canada, including the medical termination of an intrauterine pregnancy used alone or in combination with methotrexate,as well as the induction of labour in a selected population of pregnant women with unfavourable cervices. This indication is avoided in women with prior uterine surgery or cesarean surgery due to an increased risk of possible uterine rupture. Misoprostol is also used for the prevention or treatment of serious postpartum hemorrhage.
+DrugId:  3
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  4
+1. Name:  Indusatumab vedotin
+2. Groups:  Investigational
+3. Description:  Indusatumab vedotin has been used in trials studying the treatment of Pancreatic Adenocarcinoma, Adenocarcinoma of the Stomach, Recurrent Gastric Adenocarcinoma, Metastatic Gastric Adenocarcinoma, and Advanced Gastrointestinal Carcinoma, among others.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Pegamotecan
+2. Groups:  Investigational
+3. Description:  Pegamotecan has been used in trials studying the treatment of Cancer of Stomach, Sarcoma, Soft Tissue, and Gastroesophageal Cancer.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Magnesium carbonate
+2. Groups:  Approved, Investigational
+3. Description:  Magnesium carbonate, also known as magnesite, is a common over the counter remedy for heartburn and upset stomach caused by overproduction of acid in the stomach [FDA Label].
+4. Indication:  Used as an over the counter antacid [5].
+DrugId:  7
+1. Name:  Pepsin
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Pepsin is a peptide hydrolase produced in the stomach that breaks down proteins into smaller peptides. When hydrochloric acid mixes with the zymogen pepsinogen that is released by the chief cells in the stomach wall, the acidic environment promotes the autocatalytic cleavage of pepsinogen to form the activated form of pepsin. Pepsin is an aspartic protease that uses a catalytic aspartate in its active site and is most effective in cleaving peptide bonds between hydrophobic and preferably aromatic amino acids. Pepsin used as a food ingredient in commercial application is extracted from hog stomach. It is used in pharmaceutical applications to prepare and purify antibody fragments.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Menotropins
+2. Groups:  Approved
+3. Description:  Menotropins contains follicle stimulating hormone (FSH) and luteinizing hormone (LH) purified from the urine of postmenopausal women. It is used as a fertility medication that is injected either subcutaneously or intramuscularly. It is composed of LH with 2 subunits, alpha = 92 residues, beta = 121 residues and FSH with 2 subunits, alpha = 92 residues, beta=111 residues.
+4. Indication:  For the treatment of female infertility
+DrugId:  9
+1. Name:  Secretin
+2. Groups:  Approved, Investigational
+3. Description:  This drug is the synthetic form of natural secretin. It is prepared using solid phase peptide synthesis. Secretin is a peptide hormone produced in the S cells of the duodenum. Its main effect is to regulate the pH of the small intestine’s contents through the control of gastric acid secretion and buffering with bicarbonate. It was the first hormone to be discovered.
+4. Indication:  For diagnosis of pancreatic exocrine dysfunction and gastrinoma
+DrugId:  10
+1. Name:  Varespladib methyl
+2. Groups:  Investigational
+3. Description:  Varespladib methyl has been investigated for the treatment of Acute Coronary Syndrome. Studies showed that Varespladib methyl treatment resulted in significant positive changes on lipoproteins and inflammation.
+4. Indication:  Investigated for use/treatment in atherosclerosis and coronary artery disease.
+DrugId:  11
+1. Name:  Choriogonadotropin alfa
+2. Groups:  Approved
+3. Description:  Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.
+4. Indication:  For the treatment of female infertility
+DrugId:  12
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  13
+1. Name:  Sizofiran
+2. Groups:  Investigational
+3. Description:  A beta-D-glucan obtained from the Aphyllophoral fungus Schizophyllum commune. It is used as an immunoadjuvant in the treatment of neoplasms, especially tumors found in the stomach. Sizofiran has been used in trials studying the treatment of Cervical Cancer.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Urea C-14
+2. Groups:  Approved
+3. Description:  Urea 14C is a urea molecule radiolabelled with a radioactive carbon-14. It is currently used for the Urea Breath Test (UBT) and is available as a rapid diagnostic test (marketed as PyTest) for the detection of Helicobacter pylori infections. H pylori is a common stomach bacteria that has been linked to a variety of upper gastrointestinal disorders such as gastritis, gastric and peptic ulcers, stomach cancer, and gastric mucosa-associated lymphoid-tissue (MALT) lymphoma. The UBT is indicated to confirm H. pylori infection and to monitor post-treatment for its eradication. Radiolabelled urea is available in two forms as 13C and 14C. Both forms can be used within the Urea Breath Test, however some may prefer 13C as it is non-radioactive compared to 14C, which may be preferable in pregnant women and children.The Urea Breath Test is based on the ability of the H. pylori enzyme urease to cleave urea into ammonia and carbon dioxide. As the urease enzyme is not present in mammalian cells, the presence of urease (and the products of urea cleavage) in the stomach is evidence that H. pylori bacteria are present. To detect H. pylori, urea labeled with 14C is swallowed by the patient. If gastric urease from H. pylori is present, urea is split to form CO2 and NH3 at the interface between the gastric epithelium and lumen and 14CO2 is absorbed into the blood and exhaled in the breath. Exhaled breath samples can then be collected and measured for the presence of radioactivity.
+4. Indication:  14C-urea is intended for use in the detection of gastric urease as an aid in the diagnosis of Helicobacter pylori (H. pylori) infection in the human stomach. The test utilizes a liquid scintillation counter for the measurement of 14CO2 in breath samples.
+DrugId:  15
+1. Name:  Magnesium oxide
+2. Groups:  Approved
+3. Description:  Magnesium oxide is an inorganic compound that occurs in nature as the mineral periclase. In aqueous media combines quickly with water to form magnesium hydroxide. It is used as an antacid and mild laxative and has many nonmedicinal uses. [PubChem]
+4. Indication:  Magnesium hydroxide is used as a laxative to relieve occasional constipation (irregularity) and as an antacid to relieve indigestion, sour stomach, and heartburn.
+DrugId:  16
+1. Name:  Celiprolol
+2. Groups:  Approved, Investigational
+3. Description:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. It has a unique pharmacology: it is a selective β1 receptor antagonist, but a β2 receptor partial agonist. It is also a weak α2 receptor antagonist. In 2010 a clinical trial has suggested a use for this medication in the prevention of vascular complications of a rare inherited disease called vascular Ehlers–Danlos syndrome. This study demonstrated decreased incidence of arterial rupture or dissection (a specific type of arterial rupture in which the layers of the vessel separate prior to complete failure of the artery wall). Celiprolol is not approved for use by the FDA in the treatment of vascular Ehlers–Danlos syndrome.
+4. Indication:  Celiprolol is indicated for the management of mild to moderate hypertension and effort-induced angina pectoris. 
+DrugId:  17
+1. Name:  Methantheline
+2. Groups:  Approved, Investigational
+3. Description:  Methantheline is a synthetic antispasmodic. Antispasmodics are used to relieve cramps or spasms of the stomach, intestines, and bladder. Methantheline is used to treat intestine or stomach ulcers (peptic ulcer disease), intestine problems (irritable bowel syndrome), pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, or urinary problems (reflex neurogenic bladder in children).
+4. Indication:  For the treatment of peptic ulcer disease, irritable bowel syndrome, pancreatitis, gastritis, biliary dyskinesia, pylorosplasm, and reflex neurogenic bladder in children.
+DrugId:  18
+1. Name:  G17DT
+2. Groups:  Investigational
+3. Description:  G17DT is a vaccine that neutralises gastrin-17, a hormone required for the growth of a number of cancers of the gastrointestinal tract. It is in phase III trials for advanced pancreatic cancer as a monotherapy and in combination with gemcitabine. It is also in a phase II/III trial for advanced stomach cancer in combination with 5-fluorouracil and cisplatin and in a late phase II trial for advanced colorectal cancer in combination with irinotecan.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  19
+1. Name:  Sucralfate
+2. Groups:  Approved
+3. Description:  A basic aluminum complex of sulfated sucrose. [PubChem]
+4. Indication:  For the short-term treatment (up to 8 weeks) of active duodenal ulcer, as well as maintenance therapy for duodenal ulcer patients at reduced dosage (1 gram twice a day) after healing of acute ulcers. Also used for the short-term treatment of gastric ulcer.
+DrugId:  20
+1. Name:  Ragweed pollen extract
+2. Groups:  Approved, Investigational
+3. Description:  Ragweed pollen extract has been developed by Curalogic. The company has initiated a phase III trial with its product for oral immunotherapy of ragweed allergy. While traditional disease-modifying immunotherapeutics are administered by subcutaneous injection, Curalogic has developed a more convenient orally administered drug.
+4. Indication:  Investigated for use/treatment in allergic reaction.
+DrugId:  21
+1. Name:  HZT-501
+2. Groups:  Investigational
+3. Description:  HZT-501 is under investigation by Horizon Therapeutics, Inc., a privately held biopharmaceutical company. It has entered Phase 3 clinical trials in March 2007 for reduction of the risk of development of ibuprofen-associated upper gastrointestinal (i.e., gastric and/or duodenal) ulcers. HZT-501 is a combination product including ibuprofen and the acid reducing agent famotidine.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  22
+1. Name:  Gastric intrinsic factor
+2. Groups:  Approved, Experimental
+3. Description:  Intrinsic factor (IF), also known as gastric intrinsic factor (GIF), is a glycoprotein produced by the parietal cells of the stomach that is necessary for the absorption of vitamin B12 (cobalamin) later on in the small intestine. When vitamin B12 is provided in combination with intrinsic factor, intrinsic factor reduces protease degradation and increases absorption of Vitamin B12.Intrinsic factor is not currently available in any FDA or Health Canada approved products. However, it is currently in the marketed (but unapproved) product Hematogen in combination with cyanocobalamin (synthetic Vitamin B12), ferrous fumarate, and ascorbic acid for the treatment of anemias responsive to oral iron therapy. 
+4. Indication:  Intrinsic factor is not currently available in any FDA or Health Canada approved products. However, it is currently in the marketed (but unapproved) product Hematogen in combination with cyanocobalamin (synthetic Vitamin B12), ferrous fumarate, and ascorbic acid for the treatment of anemias responsive to oral iron therapy. 
+DrugId:  23
+1. Name:  Urea C-13
+2. Groups:  Approved
+3. Description:  Urea 13C is a urea molecule radiolabelled with the non-radioactive element carbon-13. It is currently used for the Urea Breath Test (UBT) and is available as a rapid diagnostic test (marketed as Pranactin-Citric) for the detection of Helicobacter pylori infections. H pylori is a common stomach bacteria that has been linked to a variety of upper gastrointestinal disorders such as gastritis, gastric and peptic ulcers, stomach cancer, and gastric mucosa-associated lymphoid-tissue (MALT) lymphoma. The UBT is indicated to confirm H. pylori infection and to monitor post-treatment for its eradication. Radiolabelled urea is available in two forms as 13C and 14C. Both forms can be used within the Urea Breath Test, however some may prefer 13C as it is non-radioactive compared to 14C, which may be preferable in pregnant women and children.The Urea Breath Test is based on the ability of the H. pylori enzyme urease to cleave urea into ammonia and carbon dioxide. As the urease enzyme is not present in mammalian cells, the presence of urease (and the products of urea cleavage) in the stomach is evidence that H. pylori bacteria are present. To detect H. pylori, urea labeled with 13C is swallowed by the patient. If gastric urease from H. pylori is present, urea is split to form CO2 and NH3 at the interface between the gastric epithelium and lumen and 13CO2 is absorbed into the blood and exhaled in the breath. Exhaled breath samples can then be collected and measured for the presence of radioactivity.
+4. Indication:  Urea-13C is indicated for use in the qualitative detection of urease associated with Helicobacter pylori in the human stomach and as an aid in the initial diagnosis and post-treatment monitoring of Helicobacter pylori infection in adult patients. The test may be used for monitoring treatment if used at least four (4) weeks following completion of therapy. For these purposes, the system utilizes an Infrared Spectrophotometer for the measurement of the ratio of 13CO2 to 12CO2 in breath samples.
+DrugId:  24
+1. Name:  Human secretin
+2. Groups:  Approved
+3. Description:  Human secretin is a gastrointestinal peptide hormone that regulates secretions in the stomach, pancreas, and liver. The hormone is produced from the enterochromaffin cells in the duodenum in response to the duodenal content with the pH less than 4.5 [5]. The main action of secretin is to stimulate the pancreas to secrete pancreatic juice for pH regulation in the small intestines. Secretin is also responsible in body fluid homeostasis [4] and bile production. Although it is a gastrointestinal hormone, secretin is also considered as a neuropeptide hormone since it is also expressed in the central nervous system [3].Purified synthetic human secretin, also referred to as RG1068, is available as an intravenous injection under the market name ChiRhoStim ® in the U.S.. It contains an amino acid sequence identical to the naturally occurring hormone consisting of 27 amino acids [FDA Label] that supports α-helical formation [3]. The carboxyl-terminal amino acid, valine, is amidated. Synthetic human secretin displays equivalent biological activity and properties as naturally-occurring secretin [1]. It is indicated for the stimulation of the pancreatic and gastric secretions to aid in the diagnosis of pancreatic exocrine dysfunction and the diagnosis of gastrinoma, and facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP).
+4. Indication:  Indicated for the stimulation of:pancreatic secretions, including bicarbonate, to aid in the diagnosis of pancreatic exocrine dysfunction [FDA Label].gastrin secretion to aid in the diagnosis of gastrinoma [FDA Label].pancreatic secretions to facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP) [FDA Label].
+DrugId:  25
+1. Name:  Ginger
+2. Groups:  Approved
+3. Description:  Ginger allergenic extract is used in allergenic testing.
+4. Indication:  Not Available

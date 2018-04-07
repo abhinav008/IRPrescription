@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ranibizumab
+2. Groups:  Approved
+3. Description:  Ranibizumab is a recombinant humanized IgG1 kappa isotype monoclonal antibody fragment designed for intraocular use. Ranibizumab binds to and inhibits the biologic activity of human vascular endothelial growth factor A (VEGF-A). Ranibizumab has a molecular weight of approximately 48 kilodaltons and is produced by an E. coli expression system in a nutrient medium containing the antibiotic tetracycline (tetracycline is not detectable in the final product). Ranibizumab is marketed under the name Lucentis®. It is indicated for the treatment of macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+4. Indication:  For the treatment of patients with macular edema after retinal vein occlusion, age-related macular degeneration (wet), and diabetic macular edema.
+DrugId:  2
+1. Name:  Aflibercept
+2. Groups:  Approved
+3. Description:  Aflibercept is a recombinant fusion protein that comprises of two main components: the vascular endothelial growth factor (VEGF) binding portions from the extracellular domains of human VEGF receptors 1 and 2 which is then fused to the Fc portion of human IgG1. Structurally, Aflibercept is a dimeric glycoprotein with a protein molecular weight of 96.9 kilo Daltons (kDa). It contains approximately 15% glycosylation to give a total molecular weight of 115 kDa. All five putative N-glycosylation sites on each polypeptide chain predicted by the primary sequence can be occupied with carbohydrate and exhibit some degree of chain heterogeneity, including heterogeneity in terminal sialic acid residues, except at the single unsialylated site associated with the Fc domain. Aflibercept, as an ophthalmic agent, is used in the treatment of macular edema following Central Retinal Vein Occlusion (CRVO) and neovascular Age-Related Macular Degeneration (AMD). Ziv-aflibercept, under the brand name Zaltrap, was developed as an injection for treatment of metastatic colorectal cancer. FDA approved in November 18, 2011 and EMA approved in November 2012.
+4. Indication:  The opthalmic agent is used for the treatment of neovascular (wet) age-related mascular degeneration (AMD) and macular edema following central retinal vein occulsion (CRVO). The systemic injection, known as ziv-aflibercept, in combination with 5-fluorouracil, leucovorin, irinotecan-(FOLFIRI), is for the treatment of metastatic colorectal cancer that is resistant to or progressed following treatment with oxaliplatin. 
+DrugId:  3
+1. Name:  Ethanolamine Oleate
+2. Groups:  Approved
+3. Description:  Ethanolamine Oleate is a mild sclerosing agent. It is composed of ethanolamine, a basic substance, which when combined with oleic acid forms a clear, straw to pale yellow colored, deliquescent oleate.
+4. Indication:  For the treatment of patients with esophageal varices that have recently bled, to prevent rebleeding.
+DrugId:  4
+1. Name:  Streptokinase
+2. Groups:  Approved, Investigational
+3. Description:  Streptokinase, is a sterile, purified preparation of a bacterial protein elaborated by group C (beta) -hemolytic streptococci.
+4. Indication:  For the treatment of acute evolving transmural myocardial infarction, pulmonary embolism, deep vein thrombosis, arterial thrombosis or emolism and occlusion of arteriovenous cannulae
+DrugId:  5
+1. Name:  Verteporfin
+2. Groups:  Approved, Investigational
+3. Description:  Verteporfin, otherwise known as benzoporphyrin derivative (trade name Visudyne®), is a medication used as a photosensitizer for photodynamic therapy to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.
+4. Indication:  For the treatment of patients with predominantly classic subfoveal choroidal neovascularization due to age-related macular degeneration, pathologic myopia or presumed ocular histoplasmosis syndrome. Verteporfin can also be used to destroy tumors.
+DrugId:  6
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  7
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  8
+1. Name:  Ancrod
+2. Groups:  Approved, Investigational
+3. Description:  Ancrod (current brand name: Viprinex) is a defibrinogenating agent derived from the venom of the Malayan pit viper. The defribrinogenation of blood results in an anticoagulant effect. Currently, Viprinex®/ancrod is not approved or marketed in any country, but is being investigated as a stroke treatment in worldwide clinical trials. In January 2005, the U.S. FDA granted a 'fast-track status' for investigation of ancrod use in patients suffering from acute ischemic stroke, a life threatening condition caused by the blockage of blood vessels supplying blood and oxygen to portions of the brain, for which phase III trials are currently being conducted.
+4. Indication:  For the treatment of established deep vein thrombosis; central retinal and branch vein thrombosis; priapism; pulmonary hypertension of embolic origin; embolism after insertion of prosthetic cardiac valves; rethrombosis after thrombolytic therapy and rethrombosis after vascular surgery. It is also indicated for the prevention of deep venous thrombosis after repair of the fractured neck of a femur.
+DrugId:  9
+1. Name:  Warfarin
+2. Groups:  Approved
+3. Description:  Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.
+4. Indication:  For the treatment of retinal vascular occlusion, pulmonary embolism, cardiomyopathy, atrial fibrillation and flutter, cerebral embolism, transient cerebral ischaemia, arterial embolism and thrombosis.
+DrugId:  10
+1. Name:  99mTc-glucarate
+2. Groups:  Investigational
+3. Description:  99mTc-glucarate(GLA) is an agent for non-invasive detection of breast tumours.
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  11
+1. Name:  Inclacumab
+2. Groups:  Investigational
+3. Description:  Inclacumab has been used in trials studying the treatment and prevention of Myocardial Infarction, Peripheral Arterial Disease (PAD), and Coronary Heart Disease, Graft Occlusion, Vascular.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Fondaparinux
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux is under investigation for the treatment of Superficial Vein Thrombosis. Fondaparinux has been investigated for the treatment and prevention of Thromboembolism, Pulmonary Embolism, Thrombosis, Venous, Deep Vein Thrombosis, and Fibrillation, Atrial, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Alfimeprase
+2. Groups:  Investigational
+3. Description:  Alfimeprase is a recombinant analog of fibrolase. Fibrolase is a zinc-containing metalloproteinase isolated from the venom of the southern copperhead snake (Agkistrodon contortrix contortrix). It is a small protein that contains 203 residues (Randolph et al. 1992). Alfimeprase is being developed by Nuvelo.
+4. Indication:  Alfimeprase is being evaluated as a potential treatment for acute ischemic stroke, catheter occlusion (CO) and acute peripheral arterial occlusion (PAO).
+DrugId:  14
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  15
+1. Name:  VIT-100
+2. Groups:  Investigational
+3. Description:  VIT-100 was developed by ItherX Pharmaceuticals of San Diego. In preclinical studies, companyl has shown that VIT-100 inhibits the growth of cells taken from multiple keloid biopsies as compared to the same keloidal cells treated with a control. It is believed that similar effects would be seen in cells isolated from hypertrophic scars.
+4. Indication:  Investigated for use/treatment in diabetic retinopathy, scar tissue, and vitreous hemorrhage.
+DrugId:  16
+1. Name:  Certoparin
+2. Groups:  Approved, Investigational
+3. Description:  Certoparin is a low molecular weight heparin, primarily active against factor Xa. Like other low molecular weight heparins, it is used to prevent deep venous thrombosis.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  17
+1. Name:  Isopentyl 2-cyanoacrylate
+2. Groups:  Investigational
+3. Description:  Isoamyl 2 Cyanoacrylate is under investigation in clinical trial NCT02698644 (Hysteroscopic Tubal Occlusion With the Use of Iso Amyl-2-cyanoacrylate).
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Parnaparin
+2. Groups:  Approved, Investigational
+3. Description:  Parnaparin is an antithrombotic and belongs to the group of low molecular weight heparins.
+4. Indication:  Used in the prevention and treatment of venous thromboembolism (deep vein thrombosis and pulmonary embolism) and in the treatment of myocardial infarction.
+DrugId:  19
+1. Name:  Ciliary neurotrophic factor
+2. Groups:  Investigational
+3. Description:  Ciliary neurotrophic factor (NT-501) is Neurotech's lead product which is in two Phase II/III clinical trials for the treatment of visual loss associated with retinitis pigmentosa and a Phase II trial for the treatment of the dry form of age-related macular degeneration. Neurotech is also evaluating other factors that can be used with its proprietary delivery technology, Encapsulated Cell Technology (ECT), to treat additional retinal diseases.
+4. Indication:  Investigated for use/treatment in eye disorders/infections, macular degeneration, and retinal disorders (unspecified).
+DrugId:  20
+1. Name:  Isoquercetin
+2. Groups:  Investigational
+3. Description:  Isoquercetin has been used in trials studying the treatment of Kidney Cancer, Renal cell carcinoma, Advanced Renal Cell Carcinoma, Thromboembolism of Vein in Pancreatic Cancer, and Thromboembolism of Vein VTE in Colorectal Cancer, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Voretigene Neparvovec
+2. Groups:  Approved
+3. Description:  Voretigene Neparvovec-rzyl (VN-rzyl) is an adeno-associated virus vector-based gene therapy.[6] An adeno-associated virus is a small virus that infects humans and other primates. It is not pathogenic and it causes a very mild immune response. This type of virus is vastly used as vectors for gene therapy because they can infect dividing and quiescent cell integrating just the carried genes into the host genome without fully integrating into the genome.[1] An advantage of this adeno-associated virus is the high predictability, unlike retrovirus, as they associate with a specific region of the human cellular genome localized in the chromosome 19. When used in genetic therapy, this virus is modified for the elimination of its negligible integrative capacity by the removal of rep and cap and the insertion of the desired gene with its promoter between the inverted terminal repeats.[2] VN-rzyl was developed by Spark Therapeutics Inc. and FDA approved on December 19, 2017.[7]
+4. Indication:  VN-rzyl is indicated for the treatment of children and adult patients with confirmed biallelic RPE65 mutation-associated retinal dystrophy. The administration of VN-rzyl is conditioned to the physician determination of the presence of viable retinal cells.[FDA Label] The RPE65 represents the LCA2 form of the Leber's congenital amaurosis (LCA). LCA is a group of inherited conditionts that involves retinal degeneration and severe vision loss in early childhood leading to total blindness by 30-40 years old. The LCA2 form is associated with a mutation that interferes with the isomerohydrolase activity of the retinal pigment epithelium. The isomerohydrolase activity transforms the trans-retinyl esters to 11-cis-retinal which is the natural ligand and chromophore of the opsins of rod and cones photoreceptors. In the presence of RPE65 mutations, the opsins cannot capture light or transduce it into electrical responses to initiate vision.[3]
+DrugId:  22
+1. Name:  Reviparin
+2. Groups:  Approved, Investigational
+3. Description:  Reviparin is a low molecular weight heparin which seems to have a better safety profile than unfractionated heparin.[1] It is prepared from porcine intestinal mucosa by nitrous acid depolymerization. Reviparin has a molecular weight of 3.9 kDa.[2] It was developed by Abbott laboratories and in 2009, reviparin presented an orphan drug designation by the FDA.[3]
+4. Indication:  By the FDA, reviparin is indicated for the treatment of deep vein which may lead to pulmonary embolism in pediatric patients. It is also indicated for the long-term treatment of acute deep vein thrombosis with or without pulmonary embolism in pregnant patients.[3]
+DrugId:  23
+1. Name:  Lemuteporfin
+2. Groups:  Investigational
+3. Description:  Lemuteporfin, under development by QLT Incorporated, is a benzoporphyrin-derived chlorin-like photosensitizer. It is intended for the treatment of beign prostatic hyperplasia.
+4. Indication:  Intended for the treatment of benign prostatic hyperplasia and prostrate disorders.
+DrugId:  24
+1. Name:  Sodium Tetradecyl Sulfate
+2. Groups:  Approved, Investigational
+3. Description:  An anionic surface-active agent used for its wetting properties in industry and used in medicine as an irritant and sclerosing agent for hemorrhoids and varicose veins.
+4. Indication:  For the treatment of small uncomplicated varicose veins of the lower extremities that show simple dilation with competent valves.
+DrugId:  25
+1. Name:  Maribavir
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in viral infection, transplantation (organ or tissue), cytomegalovirus (CMV) retinitis, and retinal disorders (unspecified).

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Asparaginase Escherichia coli
+2. Groups:  Approved, Investigational
+3. Description:  Asparaginase derived from Escherichia coli (L-asparagine amidohydrolase, EC 3.5.1.1) is an enzyme responsible for the metabolism of L-asparagine, by catalyzing L-asparagine into L-aspartic acid and ammonia. It also facilitates the production of oxaloacetate which is needed for general cellular metabolism. Asparaginase from E. coli has clinically shown to exhibit antitumor actions in models of leukaemias [1, 2]. L-asparaginase of E. coli is marketed under several different trade names, including Elspar, for the treatment of acute lymphoblastic leukemia (ALL) as part of a multi-agent chemotherapeutic regimen. It is available as intramuscular or intravenous injections. Therapeutic L-asparaginase from E. coli works by depleting the levels of non-essential amino acid, asparagine, in lymphoblastic leukemic cells thus promoting apoptotic cell death [3]. For patients who develop hypersensitivity to E. coli-derived formulations of L-asparaginase, the use of PEGylated or non-PEGylated Asparaginase Erwinia chrysanthemi is recommended [3].
+4. Indication:  Indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of patients with acute lymphoblastic leukemia (ALL) [FDA Label].
+DrugId:  2
+1. Name:  ABT-869
+2. Groups:  Investigational
+3. Description:  ABT-869 is a small molecule vascular endothelial growth factor (VEGF) receptor-based kinase inhibitor that is designed to suppress tumor growth by preventing the formation of new blood vessels that supply the tumor with oxygen and nutrients and by inhibiting key angiogenic signaling pathways. ABT-869 is intended for the treatment of hematologic malignancies and the solid tumors.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid), myelodysplastic syndrome, and solid tumors.
+DrugId:  3
+1. Name:  Gemtuzumab ozogamicin
+2. Groups:  Approved, Investigational
+3. Description:  Gemtuzumab ozogamicin is a recombinant humanized IgG4 kappa antibody which is conjugated with calicheamicin derivative, a cytotoxic antitumor antibiotic isolated from fermentation of Micromonospora echinospora ssp. calichensis. Gemtuzumab ozogamicin has approximately 50% of the antibody loaded with 4-6 moles calicheamicin per mole of antibody [FDA Label]. The antibody is specifically directed against the CD33 antigen present on leukemic myeloblasts in most patients with acute myeloid leukemia (AML). By binding to the CD33 antigen on tumors, the cytotoxic agent blocks the growth of cancerous cells and causes cell death. Marketing approval of gemtuzumab ozogamicin was granted on May 17, 2000 by FDA as a treatment for patients with CD33-positive AML in first relapse who are 60 years of age or older and who are not considered candidates for cytotoxic chemotherapy [1]. However, it was voluntarily withdrawn from the market in 2010 due to safety concerns, increased patient deaths and insufficient evidence of clinical benefit during confirmatory trials [5]. On September 1 2017, gemtuzumab ozogamicin was again approved for the treatment of adults with newly diagnosed CD33-positive acute myeloid leukemia but with a lower dosing regimen and a different schedule in combination with chemotherapy or on its own [5]. It is also indicated for the treatment of patients aged 2 years and older with CD33-positive AML who have experienced a relapse or who have not responded to initial treatment (refractory) [5].
+4. Indication:  Indicated for the treatment of patients with CD33 positive acute myeloid leukemia in first relapse who are 60 years of age or older and who are not considered candidates for other cytotoxic chemotherapy. Indicated for the treatment of patients aged 2 years and older with CD33-positive AML who have experienced a relapse or who have not responded to initial treatment (refractory). 
+DrugId:  4
+1. Name:  Alemtuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized monoclonal antibody specific to lymphocyte antigens. It is a recombinant DNA-derived humanized monoclonal antibody (Campath-1H) that is directed against the 21-28 kD cell surface glycoprotein,CD52. The Campath-1H antibody is an IgG1 kappa with human variable framework and constant regions, and complementarity-determining regions from a murine (rat) monoclonal antibody (Campath-1G). Campath is produced in mammalian cell (Chinese hamster ovary) suspension culture in a medium containing neomycin.
+4. Indication:  Alemtuzumab (Campath) is a monoclonal antibody therapy used for treatment of B-cell chronic lymphocytic leukemia.
+DrugId:  5
+1. Name:  AVR118
+2. Groups:  Investigational
+3. Description:  AVR118 represents a new type of biopolymer chemistry that also possesses novel immunomodulator activity. This non-toxic peptide-nucleic acid, which to date has shown no indication of human toxicity, appears to stimulate the proinflammatory responses required to combat viral infections such as AIDS and human papilloma virus and to dampen aberrant autoimmune-type inflammatory responses. AVR118 is being studied for the promise shown in its ability to mitigate the toxic side effects of other drugs (including those used to treat HIV infection and chemotherapeutic drugs employed in the treatment of cancers); for its ability to stimulate the immune system to attack tumor cells (especially those cancer cells that have been damaged by chemotherapeutic agents) and for its ability to treat cachexia (wasting) in patients with AIDS or cancer.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  7
+1. Name:  Ingenol Mebutate
+2. Groups:  Approved
+3. Description:  Ingenol mebutate was approved by the FDA in January 2012, and it is marketed under the name Picato®. Picato gel is indicated for the topical treatment of actinic keratosis. Before approval, ingenol mebutate was called PEP005 as an investigational drug. PEP005 is a selective small molecule activator of protein kinase C (PKC) extracted from the plant Euphorbia peplus, whose sap has been used as a traditional medicine for the treatment of skin conditions including warts and cancer. PEP005 also has potent anti-leukemic effects, inducing apoptosis in myeloid leukemia cell lines and primary AML cells at nanomolar concentrations. 
+4. Indication:  For the topical treatment of actinic keratosis.
+DrugId:  8
+1. Name:  Hexylcaine
+2. Groups:  Approved, Withdrawn
+3. Description:  Hexylcaine hydrochloride, also called cyclaine (Merck) or osmocaine, is a short-acting local anesthetic. It acts by inhibiting sodium channel conduction. Overdose can lead to headache, tinnitus, numbness and tingling around the mouth and tongue, convulsions, inability to breathe, and decreased heart function. Hexylcaine has been discontinued in the US market. 
+4. Indication:  Used as a local anesthetic for surface application, infiltration or nerve block
+DrugId:  9
+1. Name:  Mepivacaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic that is chemically related to bupivacaine but pharmacologically related to lidocaine. It is indicated for infiltration, nerve block, and epidural anesthesia. Mepivacaine is effective topically only in large doses and therefore should not be used by this route. (From AMA Drug Evaluations, 1994, p168)
+4. Indication:  For production of local or regional analgesia and anesthesia by local infiltration, peripheral nerve block techniques, and central neural techniques including epidural and caudal blocks.
+DrugId:  10
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  11
+1. Name:  Tosedostat
+2. Groups:  Investigational
+3. Description:  Tosedostat has been used in trials studying the treatment and supportive care of AML, Leukemia, Pancreas Cancer, Multiple Myeloma, and Pancreatic Cancer, among others.Tosedostat is an inhibitor of the M1 family of aminopeptidases, in particular PuSA, and LTA4 hydrolase. It has demonstrated anti-tumour activity in a number of models of cancer, both as a single agent and in synergy with cytotoxic agents such as carboplatin and paclitaxel. It entered the clinical trial in patients with haematological malignancies.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Imiquimod
+2. Groups:  Approved, Investigational
+3. Description:  Imiquimod is an immune response modifier that acts as a toll-like receptor 7 agonist. Imiquimod is commonly used topically to treat warts on the skin of the genital and anal areas. Imiquimod does not cure warts, and new warts may appear during treatment. Imiquimod does not fight the viruses that cause warts directly, however, it does help to relieve and control wart production. Miquimod is also used to treat a skin condition of the face and scalp called actinic keratoses and certain types of skin cancer called superficial basal cell carcinoma.
+4. Indication:  For the topical treatment of clinically typical, nonhyperkeratotic, nonhypertrophic actinic keratoses on the face or scalp in immunocompetent adults. Also indicated for the treatment of external genital and perianal warts/condyloma acuminata in individuals 12 years old and above.
+DrugId:  13
+1. Name:  Dilmapimod
+2. Groups:  Investigational
+3. Description:  Dilmapimod has been used in trials studying the treatment and diagnostic of Nerve Trauma, Inflammation, Pain, Neuropathic, Arthritis, Rheumatoid, and Coronary Heart Disease, among others. Dilmapimod (SB-681323) is a p38 MAP-kinase inhibitor that has potential uses in inflammatory conditions such as RA (Rheumatoid Arthritis). Previous p38 MAP-kinase inhibitors have been hindered in development by liver toxicity. Methotrexate (common treatment for RA patients) also has potential liver toxicity.}
+4. Indication:  Dilmapimod has been used in trials studying the treatment and diagnostic of Nerve Trauma, Inflammation, Pain, Neuropathic, Arthritis, Rheumatoid, and Coronary Heart Disease, among others.
+DrugId:  14
+1. Name:  Dasatinib
+2. Groups:  Approved, Investigational
+3. Description:  Dasatinib is an oral dual BCR/ABL and Src family tyrosine kinase inhibitor approved for use in patients with chronic myelogenous leukemia (CML). The main targets of Dasatinib, are BCRABL, SRC, Ephrins and GFR.
+4. Indication:  For the treatment of adults with chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia with resistance or intolerance to prior therapy. Also indicated for the treatment of adults with Philadelphia chromosome-positive acute lymphoblastic leukemia with resistance or intolerance to prior therapy.
+DrugId:  15
+1. Name:  Asparaginase Erwinia chrysanthemi
+2. Groups:  Approved, Investigational
+3. Description:  Erwinaze (asparaginase Erwinia chrysanthemi) contains an asparaginase specific enzyme derived from Erwinia chrysanthemi [4]. Specifically, this L-asparaginase is a tetrameric enzyme consisting of four identical subunits, each having a molecular weight of about 35 kDa [4]. The activity of Erwinaze is expressed in terms of International Units. It is an antineoplastic agent and was FDA approved in November 19, 2011 [4].
+4. Indication:  Asparaginase Erwinia chrysanthemi is for the treatment of patients with acute lymphoblastic leukemia (ALL) that have developed a hypersensitivity to E. coli-derivied asparaginase [4]. It is a component of a multi-agent chemotherpeutic regimen [4] for the treatment of the aforementioned disease and is considered second- or third- line treatment in European and American protocols [1]. 
+DrugId:  16
+1. Name:  Rimexolone
+2. Groups:  Approved
+3. Description:  Rimexolone is a glucocorticoid steroid used to treat inflammation in the eye. It is marketed as a 1% eye drop solution under the trade name Vexol
+4. Indication:  For the treatment of postoperative inflammation following ocular surgery and in the treatment of anterior uveitis.
+DrugId:  17
+1. Name:  CRx-119
+2. Groups:  Investigational
+3. Description:  CRx-119 is a novel synergistic combination drug candidate discovered using the CombinatoRx combination High Throughput Screening (cHTS(TM)) technology with potential therapeutic use in a broad range of immuno-inflammatory conditions. CRx-119 is a combination of a low dose of the steroid prednisolone, 3mg, and amoxapine.
+4. Indication:  Investigated for use/treatment in periodontal disease and rheumatoid arthritis.
+DrugId:  18
+1. Name:  Levobupivacaine
+2. Groups:  Approved, Investigational
+3. Description:  Levobupivacaine is an amino-amide local anaesthetic drug belonging to the family of n-alkylsubstitutedpipecoloxylidide. It is the S-enantiomer of bupivacaine. Levobupivacaine hydrochloride is commonly marketed by AstraZeneca under the trade name Chirocaine. Compared to bupivacaine, levobupivacaine is associated with less vasodilation and has a longer duration of action. It is approximately 13 per cent less potent (by molarity) than racemic bupivacaine.Levobupivacaine is indicated for local anaesthesia including infiltration, nerve block, ophthalmic, epidural and intrathecal anaesthesia in adults; and infiltration analgesia in children. Adverse drug reactions (ADRs) are rare when it is administered correctly. Most ADRs relate to administration technique (resulting in systemic exposure) or pharmacological effects of anesthesia, however allergic reactions can rarely occur. [Wikipedia]
+4. Indication:  For the production of local or regional anesthesia for surgery and obstetrics, and for post-operative pain management
+DrugId:  19
+1. Name:  Nelarabine
+2. Groups:  Approved, Investigational
+3. Description:  Nelarabine is a chemotherapy drug used in T-cell acute lymphoblastic leukemia. Nelarabine is a purine nucleoside analog converted to its corresponding arabinosylguanine nucleotide triphosphate (araGTP), resulting in inhibition of DNA synthesis and cytotoxicity.
+4. Indication:  For the treatment of pediatric and adult patients with acute T-cell lymphoblastic leukemia and T-cell lymphoblastic lymphoma whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens.
+DrugId:  20
+1. Name:  Tretinoin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Tretinoin, also known as all-trans-retinoic acid (ATRA), is a naturally occurring derivative of vitamin A (retinol). Retinoids such as tretinoin are important regulators of cell reproduction, proliferation, and differentiation and are used to treat acne and photodamaged skin and to manage keratinization disorders such as ichthyosis and keratosis follicularis. Tretinoin also represents the class of anticancer drugs called differentiating agents and is used in the treatment of acute promyelocytic leukemia (APL).
+4. Indication:  For the the induction of remission in patients with acute promyelocytic leukemia (APL), French-American-British (FAB) classification M3 (including the M3 variant); For the topical treatment of acne vulgaris, flat warts and other skin conditions (psoriasis, ichthyosis congenita, icthyosis vulgaris, lamellar icthyosis, keratosis palmaris et plantaris, epidermolytic hyperkeratosis, senile comedones, senile keratosis, keratosis follicularis (Darier's disease), and basal cell carcinomas.); For palliative therapy to improve fine wrinkling, mottled hyperpigmentation, roughness associated with photodamage.
+DrugId:  21
+1. Name:  Procaine
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A local anesthetic of the ester type that has a slow onset and a short duration of action. It is mainly used for infiltration anesthesia, peripheral nerve block, and spinal block. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1016). Procaine has also been investigated as an oral entry inhibitor in treatment-experienced HIV patients [2].
+4. Indication:  Used as a local anesthetic primarily in oral surgery
+DrugId:  22
+1. Name:  Bortezomib
+2. Groups:  Approved, Investigational
+3. Description:  Bortezomib (originally PS-341 and marketed as Velcade by Millennium Pharmaceuticals) is the first therapeutic proteasome inhibitor to be tested in humans. The boron atom within bortezomib catalytically binds the active site of the 26S proteasome with high affinity and specificity, thereby resulting in cell cycle arrest and apoptosis. In normal cells, the proteasome is involved in degradation of ubiquitylated proteins that have been tagged for destruction because they are damaged or unneeded by the cell. However, in cancerous cells, proteasome activity degrades pro-apoptotic proteins such as p53 that would normally result in programmed cell death of the dysfunctional cells. Proteasome inhibitors such as bortezomib interrupt this process, resulting in destruction of cancerous cells. Bortezomib is approved in the U.S. for treating relapsed multiple myeloma and mantle cell lymphoma. In multiple myeloma, complete clinical responses have been obtained in patients with otherwise refractory or rapidly advancing disease.
+4. Indication:  For treatment of multiple myeloma in patients who have not been successfully treated with at least two previous therapies.
+DrugId:  23
+1. Name:  Cladribine
+2. Groups:  Approved, Investigational
+3. Description:  An antineoplastic agent used in the treatment of lymphoproliferative diseases including hairy-cell leukemia. [PubChem]
+4. Indication:  For the treatment of active hairy cell leukemia (leukemic reticuloendotheliosis) as defined by clinically significant anemia, neutropenia, thrombocytopenia, or disease-related symptoms. Also used as an alternative agent for the treatment of chronic lymphocytic leukemia (CLL), low-grade non-Hodgkin's lymphoma, and cutaneous T-cell lymphoma.
+DrugId:  24
+1. Name:  Ciclesonide
+2. Groups:  Approved, Investigational
+3. Description:  Ciclesonide is a glucocorticoid used to treat obstructive airway diseases. It is marketed under the brand name Alvesco.
+4. Indication:  For the treatment of nasal symptoms associated with seasonal and perennial allergic rhinitis in adults and adolescents 12 years of age and older.
+DrugId:  25
+1. Name:  Piperaquine
+2. Groups:  Approved, Investigational
+3. Description:  Piperaquine is an antimalarial agent first synthesized in the 1960's and used throughout China [1]. Its use declined in the 1980's as piperaquine resistant strains of Plasmodium falciparum appeared and artemisinin derivatives became available. It has come back into use in combination with the artemisinin derivative Artenimol as part of the combination product Eurartesim [FDA Label]. Eurartesim was first authorized for market by the European Medicines Agency in October 2011.
+4. Indication:  For the treatment of uncomplicated Plasmodium falciparum infection in adults, children, and infants aged 6 months and up weighing over 5 kg [FDA Label]. Used in combination with Artenimol.

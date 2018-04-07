@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ibalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ibalizumab (also known as ibalizumab-uiyk and formerly known as TNX-355) is a monoclonal antibody that binds to CD4 receptors on the surface of CD4-positive cells, preventing HIV particle entry into the lymphocytes. It is an advanced and current antibody in development for the treatment of HIV/AIDS. It has been developed by Taimed biologics and Theratechnologies [8, 5].This drug was approved in March 2018 for the management of treatment-resistant HIV [5].
+4. Indication:  Indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in highly treatment-experienced adults with multidrug-resistant HIV-1 infection failing their current antiretroviral regimen [FDA Label].The approval of Trogarzo was supported by a clinical trial of 40 treatment-experienced adults with MDR HIV-1 infection who persistently had elevated levels of HIV RNA in their blood despite heavy antiretroviral therapy. The majority of study patients had previously been treated with ≥10 antiretroviral medications [5].
+DrugId:  2
+1. Name:  Immune Globulin Human
+2. Groups:  Approved, Investigational
+3. Description:  Intravenous immunoglobulin (IVIg) is a mixture of IgG1 and other antibodies derived from healthy human plasma via Cohn fractionation. The purification process includes cold alcohol fractionation, polyethylene glycol precipitation, and ion exchange chromatography. IVIg contains the same distribution of IgG antibody subclasses as is found in the general human population. IgG subclasses are fully represented in the following proportions: 70.3% IgG1, 24.7% IgG2, 3.1% IgG3, and 1.9% IgG4. IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders.
+4. Indication:  IVIg is used in the treatment of immunodeficiencies, as well as autoimmune and inflammatory disorders. These indications includes idiopathic thrombocytopenic purpura, Kawasaki disease, hypogammaglobulinemia, B cell chronic lymphocytic leukemia, bone marrow transplant complications, Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy (CIDP), multiple sclerosis, rheumatoid arthritis, myesthenia gravis, Wiskott–Aldrich syndrome and inflammatory skin diseases.
+DrugId:  3
+1. Name:  WF10
+2. Groups:  Approved, Investigational
+3. Description:  WF10 is a chlorite-based, immunomodulating drug is developed by Nuvo Research Inc. Certain preclinical evidence and clinical pilot data suggest that WF10 may be effective in treating certain cancers. The Corporation believes the research to-date demonstrates that WF10 acts on macrophages (a type of white blood cell) by modulating the balance between inflammation and phagocytosis, a state in which the body digests foreign, potentially harmful substances. The Corporation has commenced a Phase II clinical trial in an effort to demonstrate the efficacy of WF10 in combination with Xeloda (capecitabine) in the treatment of pancreatic cancer. The trial is being conducted in Germany at the University of Heidelberg and the National Centre for Tumor Diseases.
+4. Indication:  Investigated for use/treatment in acquired immune deficiency syndrome (AIDS) and aids-related infections, cancer/tumors (unspecified), HIV infection, and inflammatory disorders (unspecified).
+DrugId:  4
+1. Name:  Elafin
+2. Groups:  Investigational
+3. Description:  Elafin is a human protein that is produced naturally in the skin, lung and breast, protecting the respective tissue from destruction by the immune system. Elafin’s ability to block the activity of destructive enzymes that are involved in inflammatory reactions makes it a highly promising active compound for the treatment of inflammatory lung diseases or severe reperfusion injuries occurring after heart attacks, serious injuries and organ transplantation. The excellent tolerability of Elafin in human subjects was demonstrated in a Phase I clinical single dose escalating study.
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified).
+DrugId:  5
+1. Name:  T487
+2. Groups:  Investigational
+3. Description:  T487 is a small molecule chemokine receptor antagonist to correct or modify immune system responses. It binds selectively and potently to CXCR3. The formulation is administered orally and has anti-inflammatory effects in conditions such as rheumatoid arthritis, inflammatory bowel disease and psoriasis.
+4. Indication:  Investigated for use/treatment in inflammatory disorderssuch as rheumatoid arthritis, inflammatory bowel disease and psoriasis.
+DrugId:  6
+1. Name:  Etravirine
+2. Groups:  Approved
+3. Description:  Etravirine is an antiretroviral agent more specifically classified as a Non-Nucleoside Reverse Transcriptase Inhibitor(NNRTI). Etraverine is used clinically for the treatment of human immunodeficiency virus type 1 (HIV-1) infection.On January 18, 2007, the FDA granted accelerated approved for the use of etravirine 100mg tablets in the treatment of adult HIV-1 infection documented to be resistant to therapy with other NNRTIs and antiretroviral agents. On March 26, 2012, approval was extended for use in treatment-experienced pediatric patients 6 to 18 years of age, weighing at least 16 kg. Etravarine must always be used in combination with other antiretroviral drugs. Etravirine exerts its effects via direct inhibition of the reverse transcriptase enzyme of human immunodeficiency virus type 1 (HIV-1), and consequently blocks DNA-dependent and RNA-dependent polymerase activity. Etravirine does not inhibit human DNA polymerase alpha, beta or gamma. Common side effects of use include mild to moderate rash within the first 6 weeks of therapy, nausea, diarrhea and peripheral neuropathy. Patients are advised to immediately contact their healthcare provider if a rash develops. In 2009, postmarketing case reports of Stevens-Johnson Syndrome, toxic epidermal necrolysis, erythema multiforme, and other hypersensitivity reactions lead to a revision of etravirine's "Warnings and Precautions," as well as notification of health care providers. In 2013, reports of Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barrésyndrome) in the setting of immune reconstitution, as well as more in depth information about the development of rashes in patients taking etravirine, lead to a modification of etravirine's monograph.
+4. Indication:  Indicated as an adjunct therapy in the treatment of adult HIV-1 infections resistant to therapy with other NNRTIs and antiretroviral agents. 
+DrugId:  7
+1. Name:  Tetanus Immune Globulin
+2. Groups:  Approved
+3. Description:  Tetanus Immune Globulin is manufactured from human plasma [FDA Label]. It contains antibodies against tetanus toxoid and is primarily used as prophylaxis against tetanus in wounded patients.
+4. Indication:  For use as prophylaxis against tetanus in patients who are injured and have incomplete of uncertain immunization statu [FDA Label]. May also be used in the treatment of active tetanus.
+DrugId:  8
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  9
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  10
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  11
+1. Name:  Human rabies virus immune globulin
+2. Groups:  Approved
+3. Description:  IMOGAM Rabies Pasteurized is indicated for post-exposure prophylaxis in persons suspected of exposure to rabies, who have not previously received a complete immunization regimen with a cell culture produced rabies vaccine.Persons previously vaccinated with other types of rabies vaccines in whom adequate antibody levels have not been demonstrated should receive full post-exposure prophylaxis with RIG and a cell culture-produced rabies vaccine.IMOGAM Rabies Pasteurized should be administered promptly after exposure, in conjunction with rabies vaccine. If IMOGAM Rabies Pasteurized is not administered as recommended at the initiation of the post-exposure rabies vaccine series, it can be administered up to eight days following the first dose of the rabies vaccine. Since rabies vaccine-induced antibody begins to appear within one week, there is no value in administering rabies immune globulin more than eight days after rabies vaccination has begun.Recommendations for passive and/or active immunization after exposure to an animal suspected of having rabies have been outlined by the National Advisory Committee on Immunization (NACI), the Advisory Committee on Immunization Practices (ACIP), and the World Health Organization (WHO).
+4. Indication:  For use in prophylaxis against rabies virus in patients who have been exposed to the virus and are immunocompromised or have not previously recieved the rabies vaccine [FDA Label].
+DrugId:  12
+1. Name:  EGS21
+2. Groups:  Investigational
+3. Description:  EGS21(TM) is a beta-D-glucosylceramide (GC) compound. It is a potential therapeutic for treating immune mediated disorders. GC is a glycolipid that has been shown by Enzo scientists and collaborators to act as an anti-inflammatory agent in animal model systems, and therefore is being evaluated as an important candidate drug in the treatment of various immune mediated diseases, such as Crohn's disease, hepatitis, non-alcoholic steatohepatitis (NASH) or fatty liver and HIV.
+4. Indication:  Investigated for use/treatment in crohn's disease, hepatitis (unspecified), and liver disease.
+DrugId:  13
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  14
+1. Name:  Pembrolizumab
+2. Groups:  Approved
+3. Description:  Pembrolizumab is a humanized monoclonal antibody that blocks the interaction between PD-1 and its ligands, PD-L1 and PD-L2. It is used for the treatment of several types of cancer such as, Melanoma, Non-Small Cell Lung Cancer and Head and Neck Cancer.Due to its success in clinical trials, pembrolizumab was approved early to allow quick patient access and was given breakthrough therapy and orphan drug designation. Pembrolizumab (as Keytruda) was approved by the U.S. Food and Drug Administration to treat advanced cases of the most common type of lung malignancy, non-small cell lung cancer on Oct. 2, 2015. Keytruda was additionally approved for the treatment of Classical Hodgkin Lymphoma (cHL) in March, 2017.
+4. Indication:  Pembrolizumab is a programmed death receptor-1 (PD-1)-blocking antibody indicated for the treatment of: patients with unresectable or metastatic melanoma. patients with metastatic NSCLC whose tumors have high PD-L1 expression [(Tumor Proportion Score (TPS) ≥50%)] as determined by an FDA-approved test, with no EGFR or ALK genomic tumor aberrations, and no prior systemic chemotherapy treatment for metastatic NSCLC. patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test, with disease progression on or after platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA. patients with recurrent or metastatic HNSCC with disease progression on or after platinum-containing chemotherapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials. 
+DrugId:  15
+1. Name:  Fosdevirine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  16
+1. Name:  VP025
+2. Groups:  Investigational
+3. Description:  VP025, a novel drug formulation based on phospholipid microparticles incorporating phosphatidylglycerol, can inhibit neuroinflammation. VP025 may inhibit immune system activation and protect motoneurons from injury. It also shows the ability to reduce inflammation across the blood-brain barrier and improve correlates of memory and learning function. It is being developed to target the chronic inflammation within the central nervous system that is associated with a number of neurological diseases, including Alzheimer’s disease, Parkinson’s disease, and amyotrophic lateral sclerosis (Lou Gehrig’s disease). It is considered to be a systemic anti-inflammatory and neuroprotective agent.
+4. Indication:  Investigated for use/treatment in alzheimer's disease and inflammatory disorders (unspecified).
+DrugId:  17
+1. Name:  Flurandrenolide
+2. Groups:  Approved
+3. Description:  A corticosteroid used topically in the treatment of various skin disorders. It is usually employed as a cream or an ointment, and is also used as a polyethylene tape with an adhesive. (From Martindale, The Extra Pharmacopoeia, 30th ed, p733)
+4. Indication:  For relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses, particularly dry, scaling localized lesions
+DrugId:  18
+1. Name:  CYT007-TNFQb
+2. Groups:  Investigational
+3. Description:  CYT007-TNFQb is an active immunization therapy that aims atproviding a novel treatment to people suffering from RA or psoriasis. The vaccine should allow for administration of lowamounts of drug to individual patients (in the microgram range) and for convenient dosing schedules.
+4. Indication:  Investigated for use/treatment in psoriasis and psoriatic disorders.
+DrugId:  19
+1. Name:  CCX282
+2. Groups:  Investigational
+3. Description:  CCX282, is a novel, orally active anti-inflammatory agent that targets a chemokine receptor protein implicated in both Crohn's disease and ulcerative colitis, the two principal forms of IBD.
+4. Indication:  Investigated for use/treatment in crohn's disease, inflammatory bowel disease, and ulcerative colitis.
+DrugId:  20
+1. Name:  Calcitonin gene-related peptide
+2. Groups:  Investigational
+3. Description:  A 37-amino acid peptide derived from the calcitonin gene. It occurs as a result of alternative processing of mRNA from the calcitonin gene. The neuropeptide is widely distributed in the brain, gut, perivascular nerves, and other tissue. The peptide produces multiple biological effects and has both circulatory and neurotransmitter modes of action. In particular, it is a potent endogenous vasodilator.As a potential drug, it has demonstrated in preclinical studies a profile that could make it an ideal anti-asthmatic drug candidate with bronchodilatory, bronchoprotecting and anti-inflammatory properties.
+4. Indication:  Investigated for use/treatment in myocardial infarction, heart disease, and asthma.
+DrugId:  21
+1. Name:  Guselkumab
+2. Groups:  Approved, Investigational
+3. Description:  Guselkumab is a human immunoglobulin G1 lambda (IgG1λ) monoclonal antibody that selectively blocks interleukin-23. IL-23 is an inflammatory cytokine that activates the CD4+ T-helper (Th17) cell pathway to mediate the inflammatory cascade that induces psoriatic plaque formation [2]. In clinical trials, guselkumab demonstrated improved skin clearance and symptomatic improvements in dermatological manifestations of psoriasis. Developed by Janssen, the subcutenous injection form of guselkumab was approved in July 2017 under the market name Tremfya for the treatment of adult patients with moderate-to-severe plaque psoriasis.
+4. Indication:  Indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
+DrugId:  22
+1. Name:  Evening primrose oil
+2. Groups:  Approved, Investigational
+3. Description:  Evening primrose oil is extracted fromthe seeds of Oenothera biennis, a plant native to eastern and central North America. It contains about 7-10% of gamma-linolenic acid (GLA), which is involved in the synthesis of prostaglandin. Evening primrose oil is used in skin disorders such as eczema, psoriasis, and acne for temporary symptomatic relief. It is also used in temporary pain management for conditions such as rheumatoid arthritis, osteoporosis, Raynaud’s syndrome, and multiple sclerosis. It is also used in chronic fatigue, asthma, hyperactivity in children, gastrointestinal disorders including ulcerative colitis, irritable bowel syndrome, and peptic ulcer disease. Uses of evening primrose oil in women for premenstrual syndrome (PMS), breast pain, endometriosis, and symptoms of menopause such as hot flashes are reported.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Catumaxomab
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Catumaxumab is a trifunctional monoclonal antibody developed for use in cancer treatment. It has affinity for T-cells, accessory immune cells, and cancer cells. Catumaxumab was initially authorized for market by the European Medicines Agency in April 2009 for the treatment of malignant ascites [3]. Its market authorization was withdrawn in the EU in June 2017 at the manufacturer's request due to the company's insolvency. Catumaxumab was approved for market in Canada in May 2012 for the same condition [FDA Label]. It is currently available under the brand name Removab.
+4. Indication:  For use in the management of malignant ascites tumours via intraperitoneal infusion where standard therapy is not available or feasible [FDA Label].
+DrugId:  24
+1. Name:  Dexamethasone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anti-inflammatory 9-fluoro-glucocorticoid. [PubChem]
+4. Indication:  Injection: for the treatment of endocrine disorders, rheumatic D=disorders, collagen diseases, dermatologic diseases, allergic statesc, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, cerebral edema.Ophthalmic ointment and solution: for the treatment of steroid responsive inflammatory conditions of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe.Ophthalmic solution only: for the treatment of steroid responsive inflammatory conditions of the external auditory meatusTopic cream: for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatosesOral aerosol: for the treatment of bronchial asthma and related corticosteroid responsive bronchospastic states intractable to adequate trial of conventional therapyIntranasal aerosol: for the treatment of allergic ot inflammatory nasal conditions, and nasal polyps
+DrugId:  25
+1. Name:  Prednisolone
+2. Groups:  Approved, Vet approved
+3. Description:  A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states. [PubChem]
+4. Indication:  For the treatment of primary or secondary adrenocortical insufficiency, such as congenital adrenal hyperplasia, thyroiditis. Also used to treat psoriatic arthritis, rheumatoid arthritis, ankylosing spondylitis, bursitis, acute gouty arthritis and epicondylitis. Also indicated for treatment of systemic lupus erythematosus, pemphigus and acute rhematic carditis. Can be used in the treatment of leukemias, lymphomas, thrombocytopenia purpura and autoimmune hemolytic anemia. Can be used to treat celiac disease, insulin resistance, ulcerative colitis and liver disorders.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Benzyl Benzoate
+2. Groups:  Approved
+3. Description:  Benzyl benzoate is one of the older preparations used to treat scabies. Scabies is a skin infection caused by the mite sarcoptes scabiei. It is characterised by severe itching (particularly at night), red spots, and may lead to a secondary infection. Benzyl benzoate is lethal to this mite and so is useful in the treatment of scabies. It is also used to treat lice infestation of the head and body. Benzyl benzoate is not the treatment of choice for scabies due to its irritant properties.
+4. Indication:  Used to kill lice and the mites responsible for the skin condition scabies.
+DrugId:  2
+1. Name:  Alpha-Linolenic Acid
+2. Groups:  Approved, Nutraceutical
+3. Description:  Alpha-linolenic acid (ALA) is a polyunsaturated omega-3 fatty acid. It is a component of many common vegetable oils and is important to human nutrition.
+4. Indication:  For nutritional supplementation and for treating dietary shortage or imbalance.
+DrugId:  3
+1. Name:  Grepafloxacin
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Grepafloxacin is an oral broad-spectrum quinoline antibacterial agent used to treat bacterial infections. Grepafloxacin was withdrawn in the United States due to its side effect of lengthening the QT interval on the electrocardiogram, leading to cardiac events and sudden death. [Wikipedia]
+4. Indication:  For treatment of adults with mild to moderate infections caused by susceptible strains of Haemophilus influenzae, Streptococcus pneumoniae, or Moraxella catarrhalis.
+DrugId:  4
+1. Name:  Mersalyl
+2. Groups:  Approved
+3. Description:  Mersalyl is the sodium salt form of mersalyl acid, a mercurial diuretic. It is an outdated drug, and its approval has been discontinued by the FDA. Mersalyl acid is currently replaced by less toxic non-mercury containing diuretics [4, 6]. The sodium salt of a mercury-containing derivative of salicylamide, was formerly used (often in combination with theophylline) to treat edema, due to its powerful diuretic properties [6]. Interestingly, it has been found to have antiviral properties in mice [13].
+4. Indication:  Elevated blood pressure, edema [6, 14].
+DrugId:  5
+1. Name:  Promethazine
+2. Groups:  Approved, Investigational
+3. Description:  A phenothiazine derivative with histamine H1-blocking, antimuscarinic, and sedative properties. It is used as an antiallergic, in pruritus, for motion sickness and sedation, and also in animals. [PubChem]
+4. Indication:  For the treatment of allergic disorders, and nausea/vomiting.
+DrugId:  6
+1. Name:  Minoxidil
+2. Groups:  Approved, Investigational
+3. Description:  A potent direct-acting peripheral vasodilator (vasodilator agents) that reduces peripheral resistance and produces a fall in blood pressure. (From Martindale, The Extra Pharmacopoeia, 30th ed, p371)
+4. Indication:  For the treatment of severe hypertension and in the topical treatment (regrowth) of androgenic alopecia in males and females and stabilisation of hair loss in patients with androgenic alopecia.
+DrugId:  7
+1. Name:  Busulfan
+2. Groups:  Approved, Investigational
+3. Description:  Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen. [PubChem]
+4. Indication:  For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.
+DrugId:  8
+1. Name:  Picoplatin
+2. Groups:  Investigational
+3. Description:  Picoplatin is a cytotoxic platinum compound in clinical development for the treatment of patients with solid tumors. It causes apoptosis (cell death) by binding to DNA and interfering with DNA replication and transcription.
+4. Indication:  For the treatment of patients with solid tumors.
+DrugId:  9
+1. Name:  Olive oil
+2. Groups:  Approved
+3. Description:  Oil extracted from olives [1]. Consists primarily of the glycerides of the fatty acids linoleic, oleic and palmitic. Used as a source of fatty acids in total parenteral nutrition and as an additive in some cosmetic products [FDA Label].
+4. Indication:  For use in adults as a source of calories and fatty acids in total parenteral nutrition [FDA Label]. Sometimes used as an additive in cosmetic products.
+DrugId:  10
+1. Name:  TST10088
+2. Groups:  Investigational
+3. Description:  TST10088 is a recombinant variant of a plant toxin belonging to the family of class II ribosome inactivating proteins. These molecules efficiently kill cells by activating preprogrammed death pathways known as apoptosis. TST10088 has been designed and engineered by Twinstrand to contain a peptide switch that is specifically cleaved by the matrix metalloproteinases which are known to be involved in tumor growth and metastasis. Cleavage of the peptide switch activates the prodrug causing ribosomal inactivation and the death of cancerous cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  11
+1. Name:  Archexin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  12
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  13
+1. Name:  PRLX 93936
+2. Groups:  Investigational
+3. Description:  PRLX 93936 is selectively toxic to cancer cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  14
+1. Name:  NTx-265
+2. Groups:  Investigational
+3. Description:  NTx-265 is a combination of two currently marketed large molecules designed to stimulate the growth and differentiation of neural stem cells in adults who have suffered a stroke – the second leading cause of death worldwide. In May 2006, biotechnology company Stem Cell Therapeutics started a Phase IIa study of NTx-265. It is also investigating use of the compound for neurodegenerative disorders, such as Huntington’s disease and Alzheimer’s disease.
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  15
+1. Name:  EHT 0202
+2. Groups:  Investigational
+3. Description:  EHT 0202 is developed to treat neurodegenerative disorders by ExonHit Therapeutics.
+4. Indication:  Investigated for use/treatment in alzheimer's disease and neurologic disorders.
+DrugId:  16
+1. Name:  XL418
+2. Groups:  Investigational
+3. Description:  XL418 is a novel anticancer compound.
+4. Indication:  Cancer
+DrugId:  17
+1. Name:  Grn163l
+2. Groups:  Investigational
+3. Description:  GRN163L is a novel anti-cancer drug. It has been characterized preclinically and shown to inhibit telomerase in human tumor cells of many cancer types (including lung, breast, prostate, liver, and early stage of human breast cancer), in both cell culture systems and animal models. Study of this drug shows the its potential utility in the treatment of patients with hematologic and solid tumor malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and solid tumors.
+DrugId:  18
+1. Name:  Nivolumab
+2. Groups:  Approved
+3. Description:  Nivolumab is a fully human IgG4 monoclonal antibody that acts as an immunomodulator by blocking ligand activation of programmed cell death 1 (PD-1) receptor on T cells. It is indicated for use in patients with unresectable (cannot be surgically removed) or metastatic melanoma who no longer respond to other drugs. Nivolumab is administered as an intravenous infusion over 60 minutes every 2 weeks.
+4. Indication:  Nivolumab is indicated for the treatment of unresectable or metastatic melanoma for patients who no longer respond to treatment with other drugs. It is intended for use in patients who have been previously treated with ipilimumab and is used for melanoma patients after treatment with ipilimumab and a BRAF inhibitor in patients whose tumors express BRAF V600 gene mutations. Historically there have been very few effective treatments for advanced melanoma, which is why this product was approved under an FDA accelerated program to allow earlier patient access.
+DrugId:  19
+1. Name:  Nafamostat
+2. Groups:  Approved, Investigational
+3. Description:  Nafamostat is a synthetic serine protease inhibitor that is commonly formulated with hydrochloric acid due to its basic properties. It has been used in trials studying the prevention of Liver Transplantation and Postreperfusion Syndrome. The use of nafamostat in Asian countries is approved as an anticoagulant therapy for patients undergoing continuous renal replacement therapy due to acute kidney injury.
+4. Indication:  Used as an anticoagulant in patients with disseminative blood vessel coagulation, hemorrhagic lesions, and hemorrhagic tendencies. It prevents blood clot formation during extracorporeal circulation in patients undergoing continuous renal replacement therapy and extra corporeal membrane oxygenation. 
+DrugId:  20
+1. Name:  Hydroxychloroquine
+2. Groups:  Approved
+3. Description:  A chemotherapeutic agent that acts against erythrocytic forms of malarial parasites.
+4. Indication:  For the suppressive treatment and treatment of acute attacks of malaria due to Plasmodium vivax, P. malariae, P. ovale, and susceptible strains of P. falciparum. It is also indicated for the treatment of discoid and systemic lupus erythematosus, and rheumatoid arthritis.
+DrugId:  21
+1. Name:  Bardoxolone
+2. Groups:  Investigational
+3. Description:  Bardoxolone has been used in trials studying the treatment of LYMPHOMA and Solid Tumors. It is a synthetic triterpenoid and a highly potent activator of redox-sensitive signaling pathways that induce programmed cell death (apoptosis) in cancer cells that are under high levels of intrinsic oxidative stress. In contrast, Bardoxolone in normal cells induces protective antioxidant/anti-inflammatory responses.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  AX200
+2. Groups:  Investigational
+3. Description:  AX200, which has been developed for the treatment of stroke, is the most advanced drug candidate and is halfway through the process of gaining clinical approval. The expression of the endogenous AX200 protein in the brain is increased after brain damage. Thus, if this drug administered in the acute phase of stroke, the brain’s own protective action is supported. And this is where the double neurotherapeutic approach is most beneficial: AX200 stops neuronal cell death in the acute phase of stroke, while stimulating simultaneously the regeneration of nervous tissue through the induction of neuro- and arteriogenesis and supporting the reorganisation of the nervous system.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and strokes.
+DrugId:  23
+1. Name:  RAV12
+2. Groups:  Investigational
+3. Description:  RAV12 is investigated for use/treatment in solid tumors. RAV12 is a solid. RAV12 is a chimeric antibody that recognizes RAAG12, an N-linked carbohydrate antigen found on gastric, colon, pancreatic, prostate, ovarian, breast, and kidney cancer cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  24
+1. Name:  Obiltoxaximab
+2. Groups:  Approved
+3. Description:  Obiltoxaximab, an affinity-enhanced monoclonal antibody (Mab), is used for prevention and treatment of infection and death caused by anthrax toxin. Obiltoxaximab is a chimeric IgG1 kappa monoclonal antibody (mAb) that binds the PA component of B. anthracis toxin. It has an approximate molecular weight of 148 kDa.
+4. Indication:  Investigated for use/treatment in anthrax exposure, bacterial infection, crohn's disease, and graft versus host disease.
+DrugId:  25
+1. Name:  1D09C3
+2. Groups:  Investigational
+3. Description:  1D09C3, a monoclonal antibody against lymphoid cancers, is an anti-MHC (major histocompatibility complex) class II monoclonal antibody. The antibody was isolated in collaboration with MorphoSys from its HuCAL(R) library of human antibodies. 1D09C3 binds to certain cell surface receptors, selectively killing activated, proliferating MHC class II-positive tumor cells, which include those in B-cell and T-cell lymphomas. 1D09C3 has been shown to induce programmed cell death and does not require a functioning immune system for its cell-killing effect.
+4. Indication:  Intended for the treatment of various forms of cancer.

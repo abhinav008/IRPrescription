@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Patent Blue V
+2. Groups:  Approved
+3. Description:  Patent Blue V is a dark bluish synthetic triphenylmethane dye used as a food colouring. In Canada, it is an approved diagnostic agent used for marking 1) lymphatic vessels and arterial territories, and 2) sentinel lymph node prior to biopsy in patients with operable breast cancer and clinicallynegative lymph nodes in combination with a radiotracer.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Isosulfan blue
+2. Groups:  Approved
+3. Description:  Not Available
+4. Indication:  Isosulfan Blue is a synthetic visual lymphatic imaging agent. Isosulfan blue upon subcutaneous administration, delineates the lymphatic vessels draining the region of injection. It is an adjunct to lymphography in: primary and secondary lymphedema of the extremities; chyluria, chylous ascites or chylothorax; lymph node involvement by primary or secondary neoplasm; lymph node response to therapeutic modalities. 
+DrugId:  3
+1. Name:  Technetium Tc-99m tilmanocept
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m tilmanocept is a radiopharmaceutical diagnostic imaging agent approved by the U.S. Food and Drug Administration (FDA) for the imaging of lymph nodes with or without scintigraphic imaging. It is a macromolecule consisting of multiple units of diethylenetriaminepentaacetic acid (DTPA) and mannose, each covalently attached to a 10 kDa dextran backbone [FDA Label]. DTPA serves as a chelating agent for technetium Tc 99m to bind [FDA Label]. Technetium Tc-99m tilmanocept is used in lymphatic mapping and lymph node localization in breast cancer, melanoma, clinically node-negative squamous cell carcinoma of the oral cavity, and other solid tumors [2, 3]. Detecting sentinel lymph node (SLN) is clinically useful in the prognosis and management of the disease, as it is considered as the first lymph node that receives afferent lymphatic drainage from a primary tumor, and may be used to predict tumour staging and metastasis [3]. However, as nodal micrometastasis in breast cancer may not be associated with significant changes in survival, it is also important to identify clinically node-negative patients [3]. Technetium Tc-99m tilmanocept is a novel CD206 receptor-targeted molecule that selectively binds to mannose receptors expressed on the surface of reticuloendothelial cells in lymph nodes [1]. Due to its relatively small molecular weight and small molecular diameter of 7 nm [1], technetium Tc-99m tilmanocept displays more rapid injection site clearance, high sentinel node extraction, and low distal node accumulation compared to other conventional radiocolloids [3]. It achieves high overall accuracy in detecting SLN [2]. Once reconstituted and labelled, technetium Tc99m tilmanocept is intended to be injected in close proximity to the tumor being diagnosed and employed in preoperative gamma detection imaging in combination with various other techniques, including scintigraphy, SPECT, and SPECT/CT [4]. It may be administered via subcutaneous, intradermal, subareolar, or peritumoral injection, depending on the tutor location and planned injection technique [FDA Label]. It is marketed under the trade name Lymphoseek. Potential application of technetium Tc-99m tilmanocept to other cancers are being investigated [3].
+4. Indication:  Indicated with or without scintigraphic imaging for lymphatic mapping using a handheld gamma counter to locate lymph nodes draining a primary tumor site in patients with solid tumors for which this procedure is a component of intraoperative management [FDA Label].Indicated with or without scintigraphic imaging for guiding sentinel lymph node biopsy using a handheld gamma counter in patients with clinically node negative squamous cell carcinoma of the oral cavity, breast cancer or melanoma [FDA Label]. 
+DrugId:  4
+1. Name:  Technetium Tc-99m sulfur colloid
+2. Groups:  Approved, Investigational
+3. Description:  Technetium 99m sulfur colloid is a radiopharmaceutical diagnostic agent used in the evaluation of various conditions including lymph node metastases in breast cancer, detection of shunt patency, imaging of reticuloendothelial cells for assessment of liver function, and studies of esophageal transit and gastroesophageal reflux. Following injection or oral administration, single photon emission computer tomography (SPECT) imaging is performed using a gamma camera to detect technetium-99m decay. This is possible as Technetium-99m decays by isomeric transition to technetium-99 through the release of a gamma ray. Depending on site of administration and intended usage, Technetium 99m sulfur colloid enters the capillaries and is transported to the lymph nodes (subcutaneous injection), mixes with peritoneal fluid (intraperitoneal injection), is taken up by reticulocytes (intravenous injection), or enters the gastroesphageal tract (oral administration).
+4. Indication:  Technetium 99m sulfur colloid is indicated as a diagnostic agent in adults for the following tests: localization of lymph nodes draining a primary tumor in patients with breast cancer or malignant melanoma; and evaluation of peritoneo-venous (LeVeen) shunt patency. It is indicated in both adult and pediatric patients for: imaging areas of functioning reticuloendothelial cells in the liver, spleen and bone marrow; and studies of esophageal transit and gastroesophageal reflux, and detection of pulmonary aspiration of gastric contents.
+DrugId:  5
+1. Name:  Foscarnet
+2. Groups:  Approved
+3. Description:  An antiviral agent used in the treatment of cytomegalovirus retinitis. Foscarnet also shows activity against human herpesviruses and HIV. [PubChem]
+4. Indication:  For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS) and for treatment of acyclovir-resistant mucocutaneous HSV infections in immunocompromised patients.
+DrugId:  6
+1. Name:  Regadenoson
+2. Groups:  Approved, Investigational
+3. Description:  Regadenoson is an A2A adenosine receptor agonist that causes coronary vasodilation and used for myocardial perfusion imagining. Manufactured by Astellas and FDA approved April 10, 2008. 
+4. Indication:  Diagnostic agent for radionuclide myocardial perfusion imaging (MPI) 
+DrugId:  7
+1. Name:  Doxorubicin
+2. Groups:  Approved, Investigational
+3. Description:  Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius. Doxorubicin binds to nucleic acids, presumably by specific intercalation of the planar anthracycline nucleus with the DNA double helix.
+4. Indication:  Doxorubicin is used to produce regression in disseminated neoplastic conditions like acute lymphoblastic leukemia, acute myeloblastic leukemia, Wilms’ tumor, neuroblastoma, soft tissue and bone sarcomas, breast carcinoma, ovarian carcinoma, transitional cell bladder carcinoma, thyroid carcinoma, gastric carcinoma, Hodgkin’s disease, malignant lymphoma and bronchogenic carcinoma in which the small cell histologic type is the most responsive compared to other cell types. Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.
+DrugId:  8
+1. Name:  AV608
+2. Groups:  Investigational
+3. Description:  AV608 is a NK-1 antagonist. It is developed for the treatment of Social anxiety disorder (SAD), irritable bowel syndrome (IBS) and overactive bladder (OAB).
+4. Indication:  Investigated for use/treatment in anxiety disorders, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  9
+1. Name:  Methyl cellulose
+2. Groups:  Approved
+3. Description:  Methyl cellulose is a stabiliser, thickener and emulsifier for foodstuffs Different kinds of methyl cellulose can be prepared depending on the number of hydroxyl groups substituted. Cellulose is a polymer consisting of numerous linked glucose molecules, each of which exposes three hydroxyl groups. The Degree of Substitution (DS) of a given form of methyl cellulose is defined as the average number of substituted hydroxyl groups per glucose. The theoretical maximum is thus a DS of 3.0, however more typical values are 1.3 2.6. Methyl cellulose (or methylcellulose) is a chemical compound derived from cellulose. It is a hydrophilic white powder in pure form and dissolves in cold (but not in hot) water, forming a clear viscous solution or gel. It is sold under a variety of trade names and is used as a thickener and emulsifier in various food and cosmetic products, and also as a treatment of constipation. Like cellulose, it is not digestible, not toxic, and not allergenic. Methyl cellulose belongs to the family of Dihexoses. These are disaccharides containing two hexose carbohydrates.
+4. Indication:  Clinical:Artificial tears and saliva: Solutions containing methyl cellulose or similar cellulose derivatives are used as substitute for tears or saliva if the natural production of these fluids is disturbed.Nutritional supplement capsules : Methyl cellulose is used in the manufacture of capsules in nutritional supplements, its edible and nontoxic properties provide a vegetarian alternative to the use of gelatin.Treatment of constipation : When eaten, methyl cellulose is not absorbed by the intestines but passes through the digestive tract undisturbed. It attracts large amounts of water into the colon, producing a softer and bulkier stool. It is used to treat constipation, diverticulosis, hemorrhoids and irritable bowel syndrome. It should be taken with sufficient amounts of fluid to prevent dehydration.Cell culture/virology :Methyl cellulose is also used in cell culture to study viral replication. It is dissolved in the same nutrient-containing medium in which cells are normally grown. A single layer of cells are grown on a flat surface, then infected with a virus for a short time. The strength of the viral sample used will determine how many cells get infected during this time. The thick methyl cellulose medium is then added on top of the cells in place of normal liquid medium. As the viruses replicate in the infected cells, they are able to spread between cells whose membrances touch each other, but are trapped when they enter the methyl cellulose. Only cells closely neighboring an infected cell will become infected and die. This leaves small regions of dead cells called plaques in a larger background of living uninfected cells. The number of plaques formed is determined by the strength of the original sample.Bacterial and Protozoal motility inhibitor: Aqueous methyl cellulose solutions have been used to slow bacterial and protozoal cell motility for closer inspection. Changing the amount of methyl cellulose in solution permits the adjustment of the solution's viscosity.Stem cell differentiation : Methyl cellulose is used in the most common approaches to quantify multiple or single lineage-committed hematopoietic progenitors, called colony-forming cells (CFCs) or colony-forming units (CFUs), in combination with culture supplements that promote their proliferation and differentiation, and allow the clonal progeny of a single progenitor cell to stay together and thus form a colony of more mature cells.
+DrugId:  10
+1. Name:  Axicabtagene ciloleucel
+2. Groups:  Approved
+3. Description:  Axicabtagene ciloleucel is a chimeric antigen receptor (CAR) T cell therapy for the treatment of Diffuse large B-cell lymphoma (DLBCL), which is a type of a non-Hodgkin lymphoma (NHL). It is the second cell-based gene therapy that is FDA-approved but the first in the treatment of large B-cell lymphoma in adult patients. Uniquely, axicabtagene ciloleucel utilizes each patient’s own immune system where each dose of the drug consists of the patient's genetically modified T-cells that were previously collected. The modified version of the T-cell expresses a new gene that targets and kills the lymphoma cells and is infused back into the patient. Diffuse large B-cell lymphoma (DLBCL) is the most common type of NHL in adults that mostly originates from the lymph nodes but can initiate outside of the lymphatic system. Lymphoma cells appear to be much larger in size than normal lymphocytes. In a multicenter clinical trial, the patients who were treated with axicabtagene ciloleucel achieved the complete remission rate of 51%. Developed by Kite Pharma, Inc., it was approved on October 18th, 2017 by the FDA as an intravenously infused anticancer therapy and is marketed under the brand name Yescarta.
+4. Indication:  Indicated for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, primary mediastinal large B-cell lymphoma, high grade B-cell lymphoma, and DLBCL arising from follicular lymphoma. 
+DrugId:  11
+1. Name:  Tecadenoson
+2. Groups:  Investigational
+3. Description:  Tecadenoson is a novel selective A1 adenosine receptor agonist that is currently being evaluated for the conversion of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm. It is being developed by CV Therapeutics, Inc.
+4. Indication:  Investigated for use/treatment in arrhythmia and atrial fibrillation.
+DrugId:  12
+1. Name:  Palifermin
+2. Groups:  Approved
+3. Description:  Palifermin is a recombinant human keratinocyte growth factor (KGF). It is 140 residues long, and is produced using E. coli.
+4. Indication:  For treatment of oral mucositis associated with chemotherapy and radiation therapy.
+DrugId:  13
+1. Name:  AG-858
+2. Groups:  Investigational
+3. Description:  AG-858 (autologous heat-shock protein 70 peptide vaccine) isa recombinant cancer vaccine made with tumor-derived heat shock protein 70 (HSP70) peptide complexes. HSP70 associates with antigenic peptides, transporting them into antigen presenting cells (APC) for processing. Tumor-derived HSP70-peptide complexes used in vaccine preparations have been shown to prime tumor immunity and tumor-specific T cells in animal models.
+4. Indication:  Investigated for use/treatment in leukemia (myeloid).
+DrugId:  14
+1. Name:  Adenosine
+2. Groups:  Approved, Investigational
+3. Description:  A nucleoside that is composed of adenine and d-ribose. Adenosine or adenosine derivatives play many important biological roles in addition to being components of DNA and RNA. Adenosine itself is a neurotransmitter.
+4. Indication:  Used as an initial treatment for the termination of paroxysmal supraventricular tachycardia (PVST), including that associated with accessory bypass tracts, and is a drug of choice for terminating stable, narrow-complex supraventricular tachycardias (SVT). Also used as an adjunct to thallous chloride TI 201 myocardial perfusion scintigraphy (thallium stress test) in patients who are unable to exercise adequately, as well as an adjunct to vagal maneuvers and clinical assessment to establish a specific diagnosis of undefined, stable, narrow-complex SVT.
+DrugId:  15
+1. Name:  Inosine pranobex
+2. Groups:  Approved
+3. Description:  Inosine pranobex (Isoprinosine or Methisoprinol) is a combination of inosine, acetamidobenzoic acid, and dimethylaminoisopropanol used as an antiviral drug.
+4. Indication:  Inosine pranobex is also indicated for mucocutaneous infections due to herpes simplex virus (type 1 and type II) and for treatment of genital warts as adjunctive therapy to podophyllin or carbon dioxide laser. 
+DrugId:  16
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  17
+1. Name:  Mibefradil
+2. Groups:  Investigational, Withdrawn
+3. Description:  Mibefradil was withdrawn from the market in 1998 because of potentially harmful interactions with other drugs.
+4. Indication:  For the treatment of angina and high blood pressure.
+DrugId:  18
+1. Name:  Efonidipine
+2. Groups:  Approved, Investigational
+3. Description:  Efonidipine (INN) is a dihydropyridine calcium channel blocker marketed by Shionogi & Co. of Japan. It was launched in 1995, under the brand name Landel. The drug blocks both T-type and L-type calcium channels [1, 2]. It has also been studied in atherosclerosis and acute renal failure [2]. This drug is also known as NZ-105, and several studies have been done on its pharmacokinetics in animals [13].
+4. Indication:  For the treatment of hypertension.
+DrugId:  19
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Tuberculin Purified Protein Derivative
+2. Groups:  Approved
+3. Description:  Tuberculin Purified Protein Derivative (PPD) is a sterile aqueous solution of a purified protein fraction for intradermal administration as an aid in the diagnosis of tuberculosis. The diagnostic test is commonly referred to as the Mantoux test which serves to minimize the risk of transmission of infection with Mycobacterium tuberculosis through early diagnosis and appropriate therapeutic intervention. The purified protein fraction is isolated from culture media filtrates of a human strain of Mycobacterium tuberculosis. It is included in the World Health Organization's List of Essential Medicines.
+4. Indication:  Indicated as a diagnostic agent in Mantoux Test used to detect infection with Mycobacterium tuberculosis. 
+DrugId:  21
+1. Name:  Famciclovir
+2. Groups:  Approved, Investigational
+3. Description:  Famciclovir is a guanine analogue antiviral drug used for the treatment of various herpes virus infections, most commonly for herpes zoster (shingles). It is a prodrug form of penciclovir with improved oral bioavailability. Famciclovir is marketed under the trade name Famvir (Novartis).
+4. Indication:  For the treatment of acute herpes zoster (shingles). Also for the treatment or suppression of recurrent genital herpes in immunocompetent patients and treatment of recurrent mucocutaneous herpes simplex infections in HIV infected patients.
+DrugId:  22
+1. Name:  Atezolizumab
+2. Groups:  Approved, Investigational
+3. Description:  Atezolizumab is an Fc-engineered, humanized, monoclonal antibody that binds to Programmed Death Ligand 1 (PD-L1) and blocks its interactions with the receptors B7.1 (also known as CD80) and Programmed Death 1 (PD-1). The binding of PD-L1 to PD-1 or B7.1 on activated T cells causes an inhibitory signal to suppress their production in the lymph nodes, thereby preventing immune responses to events such as pregnancy or autoimmune disease. This pathway is also utilized by cancer cells to evade the immune system through evasion of anti-tumor T-cell response. Furthermore, over-expression of PD-L1 and PD-1 has been linked to increased tumour aggressiveness and poorer prognosis. Currently the only antibody against PD-L1 and available as the product Tecentriq (FDA), atezolizumab is indicated for the treatment of locally advanced or metastatic urothelial carcinoma. 
+4. Indication:  For the treatment of patients with locally advanced or metastatic urothelial carcinoma who: 1) have disease progression during or following platinum-containing chemotherapy, and 2) have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
+DrugId:  23
+1. Name:  Disopyramide
+2. Groups:  Approved
+3. Description:  A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.
+4. Indication:  For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.
+DrugId:  24
+1. Name:  Acetyldigitoxin
+2. Groups:  Approved
+3. Description:  Cardioactive derivative of lanatoside A or of digitoxin used for fast digitalization in congestive heart failure.
+4. Indication:  Used for fast digitalization in congestive heart failure.
+DrugId:  25
+1. Name:  Glycopyrronium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Glycopyrronium (as the bromide salt glycopyrrolate) is a synthetic anticholinergic agent with a quaternary ammonium structure. A muscarinic competitive antagonist used as an antispasmodic, in some disorders of the gastrointestinal tract, and to reduce salivation with some anesthetics. In October 2015, glycopyrrolate was approved by the FDA for use as a standalone treatment for Chronic obstructive pulmonary disease (COPD), as Seebri Neohaler.
+4. Indication:  For use as a preoperative antimuscarinic to reduce salivary, tracheobronchial, and pharyngeal secretions, to reduce the volume and free acidity of gastric secretions and to block cardiac vagal inhibitory reflexes during induction of anesthesia and intubation. Also used to treat chronic obstructive pulmonary disease (COPD).

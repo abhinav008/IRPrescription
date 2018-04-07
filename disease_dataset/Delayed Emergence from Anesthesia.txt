@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Methohexital
+2. Groups:  Approved
+3. Description:  An intravenous anesthetic with a short duration of action that may be used for induction of anesthesia. [PubChem]
+4. Indication:  Methohexital is indicated for use as an intravenous anaesthetic. It has also been commonly used to induce deep sedation.
+DrugId:  2
+1. Name:  Coccidioides immitis spherule
+2. Groups:  Approved
+3. Description:  Coccidioides immitis spherule is a skin test antigen indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis.
+4. Indication:  Indicated to detect delayed-type hypersensitivity to Coccidioides immitis in individuals with a history of pulmonary coccidioidomycosis. Use in 18-64 year old patients. A positive result occurs if 48h after administration if the diameter of the induration is >5mm. 
+DrugId:  3
+1. Name:  Indalpine
+2. Groups:  Investigational, Withdrawn
+3. Description:  Indalpine was one of the first selective serotonin reuptake inhibitors to reach the American market. It was initially marketed by Pharmuka. However, after the emergence of widespread concern regarding adverse effects caused by SSRIs, and reported hematological effects caused by Indalpine, it was abruptly withdrawn from the US market.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Thiopental
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the induction of general anesthesia or for the production of complete anesthesia of short duration. It is also used for hypnosis and for the control of convulsive states. It has been used in neurosurgical patients to reduce increased intracranial pressure. It does not produce any excitation but has poor analgesic and muscle relaxant properties. Small doses have been shown to be anti-analgesic and lower the pain threshold. (From Martindale, The Extra Pharmacopoeia, 30th ed, p920)
+4. Indication:  For use as the sole anesthetic agent for brief (15 minute) procedures, for induction of anesthesia prior to administration of other anesthetic agents, to supplement regional anesthesia, to provide hypnosis during balanced anesthesia with other agents for analgesia or muscle relaxation, for the control of convulsive states during or following inhalation anesthesia or local anesthesia, in neurosurgical patients with increased intracranial pressure, and for narcoanalysis and narcosynthesis in psychiatric disorders.
+DrugId:  5
+1. Name:  Crofelemer
+2. Groups:  Approved
+3. Description:  Crofelemer, previously known as the investigational drug SP-303, is a novel proanthocyanidin purified from the bark latex of the Amazonian Croton tree Croton lechleri. It is marketed under the brand name Fulyzaq and indicated for the symptomatic treatment of non-infectious diarrhea in adult patients with HIV/AIDS who are taking antiretroviral therapy.
+4. Indication:  For the symptomatic treatment of non-infectious diarrhea in adult patients with HIV/AIDS who are taking antiretroviral therapy.
+DrugId:  6
+1. Name:  Methoxyflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An inhalation anesthetic. Currently, methoxyflurane is rarely used for surgical, obstetric, or dental anesthesia. If so employed, it should be administered with nitrous oxide to achieve a relatively light level of anesthesia, and a neuromuscular blocking agent given concurrently to obtain the desired degree of muscular relaxation. (From AMA Drug Evaluations Annual, 1994, p180)
+4. Indication:  For use in the induction and maintenance of general anesthesia
+DrugId:  7
+1. Name:  Thiamylal
+2. Groups:  Approved, Vet approved
+3. Description:  A barbiturate that is administered intravenously for the production of complete anesthesia of short duration, for the induction of general anesthesia, or for inducing a hypnotic state. (From Martindale, The Extra Pharmacopoeia, 30th ed, p919)
+4. Indication:  Used for the production of complete anaesthesia of short duration, for the induction of general anaesthesia, and for inducing a hypnotic state.
+DrugId:  8
+1. Name:  Isoflurane
+2. Groups:  Approved, Vet approved
+3. Description:  A stable, non-explosive inhalation anesthetic, relatively free from significant side effects.
+4. Indication:  For induction and maintenance of general anesthesia.
+DrugId:  9
+1. Name:  Propofol
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Propofol is an intravenous anaesthetic agent used for induction and maintenance of general anaesthesia. IV administration of propfol is used to induce unconsciousness after which anaesthesia may be maintained using a combination of medications. Recovery from propofol-induced anaesthesia is generally rapid and associated with less frequent side effects (e.g. drowsiness, nausea, vomiting) than with thiopental, methohexital, and etomidate. Propofol may be used prior to diagnostic procedures requiring anaesthesia, in the management of refractory status epilepticus, and for induction and/or maintenance of anaesthesia prior to and during surgeries.
+4. Indication:  Used for induction and/or maintenance of anaesthesia and for management of refractory status epilepticus. 
+DrugId:  10
+1. Name:  Enflurane
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An extremely stable inhalation anesthetic that allows rapid adjustments of anesthesia depth with little change in pulse or respiratory rate. [PubChem]
+4. Indication:  Used for the induction and maintenance of general anaesthesia during surgery and cesarean section and also used for analgesia during vaginal delivery.
+DrugId:  11
+1. Name:  Halothane
+2. Groups:  Approved, Vet approved
+3. Description:  A nonflammable, halogenated, hydrocarbon anesthetic that provides relatively rapid induction with little or no excitement. Analgesia may not be adequate. nitrous oxide is often given concomitantly. Because halothane may not produce sufficient muscle relaxation, supplemental neuromuscular blocking agents may be required. (From AMA Drug Evaluations Annual, 1994, p178)
+4. Indication:  For the induction and maintenance of general anesthesia
+DrugId:  12
+1. Name:  Diclofenac
+2. Groups:  Approved, Vet approved
+3. Description:  A non-steroidal anti-inflammatory agent (NSAID) with antipyretic and analgesic actions. It is primarily available as the sodium salt. [PubChem]
+4. Indication:  For the acute and chronic treatment of signs and symptoms of osteoarthritis and rheumatoid arthritis.
+DrugId:  13
+1. Name:  Doxacurium chloride
+2. Groups:  Approved
+3. Description:  Doxacurium chloride is a long-acting, nondepolarizing skeletal muscle relaxant for intravenous administration.
+4. Indication:  Used to provide skeletal muscle relaxation as an adjunct to general anesthesia, for endotracheal intubation or to facilitate mechanical ventilation.
+DrugId:  14
+1. Name:  Mephentermine
+2. Groups:  Approved
+3. Description:  A sympathomimetic agent with mainly indirect effects on adrenergic receptors. It is used to maintain blood pressure in hypotensive states, for example, following spinal anesthesia. Although the central stimulant effects of mephentermine are much less than those of amphetamine, its use may lead to amphetamine-type dependence. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1248)
+4. Indication:  Used to maintain blood pressure in hypotensive states.
+DrugId:  15
+1. Name:  Cinchocaine
+2. Groups:  Approved, Vet approved
+3. Description:  A local anesthetic of the amide type now generally used for surface anesthesia. It is one of the most potent and toxic of the long-acting local anesthetics and its parenteral use is restricted to spinal anesthesia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1006)
+4. Indication:  For production of local or regional anesthesia by infiltration techniques such as percutaneous injection and intravenous regional anesthesia by peripheral nerve block techniques such as brachial plexus and intercostal and by central neural techniques such as lumbar and caudal epidural blocks.
+DrugId:  16
+1. Name:  Colistimethate
+2. Groups:  Approved, Vet approved
+3. Description:  Colistimethate is an antibiotic that has been shown to have bactericidal activity against aerobic gram-negative microorganisms. Colistimethate is particularly indicated when the infection is caused by sensitive strains of Pseudomonas aeruginosa. 
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  17
+1. Name:  Rifapentine
+2. Groups:  Approved, Investigational
+3. Description:  Rifapentine is an antibiotic drug used in the treatment of tuberculosis. It inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme.
+4. Indication:  For the treatment of pulmonary tuberculosis.
+DrugId:  18
+1. Name:  Colistin
+2. Groups:  Approved
+3. Description:  Cyclic polypeptide antibiotic from Bacillus colistinus. It is composed of Polymyxins E1 and E2 (or Colistins A, B, and C) which act as detergents on cell membranes. Colistin is less toxic than Polymyxin B, but otherwise similar; the methanesulfonate is used orally.
+4. Indication:  For the treatment of acute or chronic infections due to sensitive strains of certain gram-negative bacilli, particularly Pseudomonas aeruginosa.
+DrugId:  19
+1. Name:  Ephedrine
+2. Groups:  Approved
+3. Description:  An alpha- and beta-adrenergic agonist that may also enhance release of norepinephrine. It has been used in the treatment of several disorders including asthma, heart failure, rhinitis, and urinary incontinence, and for its central nervous system stimulatory effects in the treatment of narcolepsy and depression. It has become less extensively used with the advent of more selective agonists.
+4. Indication:  Ephedrine commonly used as a stimulant, appetite suppressant, concentration aid, decongestant, and to treat hypotension associated with anaesthesia.
+DrugId:  20
+1. Name:  Tetracaine
+2. Groups:  Approved, Vet approved
+3. Description:  Tetracaine is an ester local anaesthetic currently available in combination with lidocaine as a cream and patch.
+4. Indication:  The combination lidocaine and tetracaine patch is indicated for local dermal analgesia for superficial dermatological procedures and superficial venous access. The combination lidocaine and tetracaine cream is intended to provide topical local analgesia for superficial dermatological procedures.
+DrugId:  21
+1. Name:  Etomidate
+2. Groups:  Approved
+3. Description:  Imidazole derivative anesthetic and hypnotic with little effect on blood gases, ventilation, or the cardiovascular system. It has been proposed as an induction anesthetic. [PubChem]
+4. Indication:  Used in the induction of general anesthesia.
+DrugId:  22
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  23
+1. Name:  Misoprostol
+2. Groups:  Approved
+3. Description:  A synthetic analog of natural prostaglandin E1. It produces a dose-related inhibition of gastric acid and pepsin secretion, and enhances mucosal resistance to injury. It is an effective anti-ulcer agent and also has oxytocic properties.
+4. Indication:  Indicated for the treatment of ulceration (duodenal, gastric and NSAID induced) and prophylaxis for NSAID induced ulceration.Misoprostol is also indicated for other uses that are not approved in Canada, including the medical termination of an intrauterine pregnancy used alone or in combination with methotrexate,as well as the induction of labour in a selected population of pregnant women with unfavourable cervices. This indication is avoided in women with prior uterine surgery or cesarean surgery due to an increased risk of possible uterine rupture. Misoprostol is also used for the prevention or treatment of serious postpartum hemorrhage.
+DrugId:  24
+1. Name:  Pibrentasvir
+2. Groups:  Approved, Investigational
+3. Description:  Pibrentasvir is a direct acting antiviral agent and Hepatitis C virus (HCV) NS5A inhibitor that targets the the viral RNA replication and viron assembly. In combination with Glecaprevir, pibrentastiv is a useful therapy for patients who experienced therapeutic failure from other NS5A inhibitors. In cell cultures, the emergence of amino acid substitutions at known NS5A inhibitor resistance-associated positions in HCV genotype 1a, 2a or 3a replicons led to reduced susceptibility and resistance to pibrentasvir [FDA Label]. These resistance-associated amino acid substitutions included Q30D/deletion, Y93D/H/N or H58D +Y93H in genotype 1a replicons, F28S + M31I or P29S + K30G in genotype 2a replicons, and Y93H in genotype 3a replicons. Individual NS5A amino acid substitutions that reduced susceptibility to pibrentasvir include M28G or Q30D in a genotype 1a replicon and P32-deletion in a genotype 1b replicon [FDA Label]. Pibrentasvir is available as an oral combination therapy with Glecaprevir under the brand name Mavyret. This fixed-dose combination therapy was FDA-approved in August 2017 to treat adults with chronic hepatitis C virus (HCV) genotypes 1-6 without cirrhosis (liver disease) or with mild cirrhosis, including patients with moderate to severe kidney disease and those who are on dialysis [3]. Mavyret is also indicated for HCV genotype 1-infected patients who have been previously treated with regimens either containing an NS5A inhibitor or an NS3/4A protease inhibitor, but not both [3]. Hepatitis C viral infection often leads to decreased liver function and subsequent liver failure, causing a significantly negative impact on the patients' quality of life. The ultimate goal of the combination treatment is to achieve sustained virologic response (SVR) and cure the patients from the infection. In clinical trials, this combination therapy achieved SVR12 rate, or undetectable Hepatitis C for twelve or more weeks after the end of treatment, of ≥93% across genotypes 1a, 2a, 3a, 4, 5 and 6 [FDA Label].
+4. Indication:  Indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype 1, 2, 3, 4, 5 or 6 infection without cirrhosis or with compensated cirrhosis (Child-PughA). MAVYRET is also indicated for the treatment of adult patients with HCV genotype 1 infection, who previously have been treated with a regimen containing an HCV NS5A inhibitoror an NS3/4A protease inhibitor (PI), but not both [FDA Label]. 
+DrugId:  25
+1. Name:  Metaraminol
+2. Groups:  Approved, Investigational
+3. Description:  An adrenergic agonist that acts predominantly at alpha adrenergic receptors and also stimulates the release of norepinephrine. It has been used primarily as a vasoconstrictor in the treatment of hypotension. [PubChem]
+4. Indication:  For the treatment and prevention of hypotension due to hemorrhage, spinal anesthesia, and shock associated with brain damage

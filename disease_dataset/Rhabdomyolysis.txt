@@ -1,0 +1,80 @@
+DrugId:  1
+1. Name:  Cerivastatin
+2. Groups:  Approved, Withdrawn
+3. Description:  On August 8, 2001 the U.S. Food and Drug Administration (FDA) announced that Bayer Pharmaceutical Division voluntarily withdrew Baycol from the U.S. market, due to reports of fatal Rhabdomyolysis, a severe adverse reaction from this cholesterol-lowering (lipid-lowering) product. It has also been withdrawn from the Canadian market.
+4. Indication:  Used as an adjunct to diet for the reduction of elevated total and LDL cholesterol levels in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb) when the response to dietary restriction of saturated fat and cholesterol and other non-pharmacological measures alone has been inadequate.
+DrugId:  2
+1. Name:  Sonidegib
+2. Groups:  Approved, Investigational
+3. Description:  Sonidegib is a Hedgehog signaling pathway inhibitor (via smoothened antagonism) developed as an anticancer agent by Novartis. It was approved by the FDA for treating basal cell carcinoma in July 2015 and is awaiting approval in the EU.
+4. Indication:  Sonidegib is approved for use in the US and EU for treatment of adults with locally advanced basal cell carcinoma (BCC) that has recurred post surgery or radiation therapy. It is also approved for adult patients with BCC who are not eligible for surgery or radiation therapy. (2)
+DrugId:  3
+1. Name:  Lisdexamfetamine
+2. Groups:  Approved, Investigational
+3. Description:  Lisdexamfetamine (L-lysine-d-amphetamine) is a prodrug of the psychostimulant d-amphetamine coupled with the essential amino acid L-lysine. It was developed so that the amphetamine psychostimulant is released and activated more slowly as the prodrug molecule is hydrolyzed consequently cleaving off the amino acid-during the first pass through the intestines and/or the liver. Amphetamines target the trace amine-associated receptor 1 (TAAR1). Amphetamine is also believed to exert its effects by binding to the monoamine transporters (the dopamine transporter or DAT) and increasing extracellular levels of the biogenic amines dopamine, norepinephrine (noradrenaline) and serotonin.
+4. Indication:  For the treatment of Attention Deficit/Hyperactivity Disorder (ADHD) in pediatric populations aged 6 to 12 years.
+DrugId:  4
+1. Name:  Mevastatin
+2. Groups:  Experimental
+3. Description:  Mevastatin or compactin is a cholesterol-lowering agent isolated from Penicillium citinium. It was the first discovered agent belonging to the class of cholesterol-lowering medications known as statins. During a search for antibiotic compounds produced by fungi in 1971, Akira Endo at Sankyo Co. (Japan) discovered a class of compounds that appeared to lower plasma cholesterol levels. Two years later, the research group isolated a compound structurally similar to hydroxymethylglutarate (HMG) that inhibited the incorporation of acetate. The compound was proposed to bind to the reductase enzyme and was named compactin. Mevastatin is a competitive inhibitor of HMG-Coenzyme A (HMG-CoA) reductase with a binding affinity 10,000 times greater than the HMG-CoA substrate itself. Mevastatin is a pro-drug that is activated by in vivo hydrolysis of the lactone ring. It has served as one of the lead compounds for the development of the synthetic compounds used today.
+4. Indication:  Not used therapeutically due to its many side effects. 
+DrugId:  5
+1. Name:  Cocaine
+2. Groups:  Approved, Illicit
+3. Description:  An alkaloid ester extracted from the leaves of plants including coca. It is a local anesthetic and vasoconstrictor and is clinically used for that purpose, particularly in the eye, ear, nose, and throat. It also has powerful central nervous system effects similar to the amphetamines and is a drug of abuse. Cocaine, like amphetamines, acts by multiple mechanisms on brain catecholaminergic neurons; the mechanism of its reinforcing effects is thought to involve inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the introduction of local (topical) anesthesia of accessible mucous membranes of the oral, laryngeal and nasal cavities.
+DrugId:  6
+1. Name:  Ioversol
+2. Groups:  Approved
+3. Description:  Ioversol is an organoiodine compound used as a diagnostic contrast medium. It features both a high iodine content, as well as several hydrophilic groups.
+4. Indication:  Optiray 350 is indicated in adults for peripheral and coronary arteriography and left ventriculography. Optiray 350 is also indicated for contrast enhanced computed tomographic imaging of the head and body, intravenous excretory urography, intravenous digital subtraction angiography and venography. Optiray 350 is indicated in children for angiocardiography.Optiray 320 is indicated in adults for angiography throughout the cardiovascular system. The uses include cerebral, coronary, peripheral, visceral and renal arteriography, venography, aortography, and left ventriculography. Optiray 320 is also indicated for contrast enhanced computed tomographic imaging of the head and body, and intravenous excretory urography.Optiray 320 is indicated in children for angiocardiography, contrast enhanced computed tomographic imaging of the head and body, and intravenous excretory urography.Optiray 300 is indicated for cerebral angiography and peripheral arteriography. Optiray 300 is also indicated for contrast enhanced computed tomographic imaging of the head and body, venography, and intravenous excretory urography.Optiray 240 is indicated for cerebral angiography and venography. Optiray 240 is also indicated for contrast enhanced computed tomographic imaging of the head and body and intravenous excretory urography.
+DrugId:  7
+1. Name:  Pravastatin
+2. Groups:  Approved
+3. Description:  Pravastatin is a cholesterol-lowering agent that belongs to a class of medications known as statins. It was derived from microbial transformation of mevastatin, the first statin discovered. It is a ring-opened dihydroxyacid with a 6’-hydroxyl group that does not require in vivo activation. Pravastatin is one of the lower potency statins; however, its increased hydrophilicity is thought to confer advantages such as minimal penetration through lipophilic membranes of peripheral cells, increased selectivity for hepatic tissues, and a reduction in side effects compared with lovastatin and simvastatin.
+4. Indication:  For the treatment of hypercholesterolemia and to reduce the risk of cardiovascular disease. 
+DrugId:  8
+1. Name:  Fluvastatin
+2. Groups:  Approved
+3. Description:  Fluvastatin is an antilipemic agent that competitively inhibits hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. HMG-CoA reductase catalyzes the conversion of HMG-CoA to mevalonic acid, the rate-limiting step in cholesterol biosynthesis. Fluvastatin belongs to a class of medications called statins and is used to reduce plasma cholesterol levels and prevent cardiovascular disease. It is also the first entirely synthetic HMG-CoA reductase inhibitor and is structurally distinct from the fungal derivatives of this therapeutic class. Fluvastatin is a racemate comprising equimolar amounts of (3R,5S)- and (3S,5R)-fluvastatin.
+4. Indication:  To be used as an adjunct to dietary therapy to prevent cardiovascular events. May be used as secondary prevention in patients with coronary heart disease (CHD) to reduce the risk of requiring coronary revascularization procedures, for reducing progression of coronary atherosclerosis in hypercholesterolemic patients with CHD, and for the treatment of primary hypercholesterolemia and mixed dyslidipidemia. 
+DrugId:  9
+1. Name:  Iopromide
+2. Groups:  Approved
+3. Description:  Iopromide is a low osmolar, non-ionic X-ray contrast agent for intravascular administration. It functions as a contrast agent by opacifying blood vessels in the path of flow of the contrast agent, permitting radiographic visualization of the internal structures until significant hemodilution occurs.Available as the FDA-approved product Ultravist, iopromide is used in radiographic studies such as intra-arterial digital subtraction angiography (IA-DSA), cerebral and peripheral arteriography, peripheral venography, excretory urography, brain computer tomography (CT), coronary arteriography, left ventriculography, visceral angiography, and aortography. 
+4. Indication:  Iopromide, as the product Iovist, is indicated for use as an X-ray contrast agent in the following procedures:Intra-arterial digital subtraction angiography (IA-DSA) (150 mg I/mL)Cerebral arteriography and peripheral arteriography (300 mg I/mL)Coronary arteriography and left ventriculography, visceral angiography and aortography (370 mg I/mL)Peripheral venography (240 mg I/mL)Excretory urography (300 mg I/mL)Contrast computed tomography (CT) imaging of head and body (300 mg I/mL and 370 mg I/mL) 
+DrugId:  10
+1. Name:  Methamphetamine
+2. Groups:  Approved, Illicit
+3. Description:  Methamphetamine is a psychostimulant and sympathomimetic drug. It is a member of the amphetamine group of sympathomimetic amines. Methamphetamine can induce effects such as euphoria, increased alertness and energy, and enhanced self-esteem. It is a scheduled drug in most countries due to its high potential for addiction and abuse.
+4. Indication:  For the treatment of Attention Deficit Disorder with Hyperactivity (ADHD) and exogenous obesity.
+DrugId:  11
+1. Name:  Fenofibric acid
+2. Groups:  Approved
+3. Description:  Fenofibrate is a third generation fibric acid derivative that is predominantly administered as monotherapy to decrease elevated low-density lipoprotein cholesterol, total cholesterol, triglycerides, apolipoprotein B and alternatively to increase high-density lipoprotein cholesterol in patients diagnosed with primary hyperlipidemia or mixed dyslipidemia and to reduce triglycerides in patients with severe hypertriglyceridemia [FDA Label]. Fenofibrate however is generally extremely lipophilic, largely insoluble in water, and poorly absorbed [1]. As the primary active metabolite of fenofibrate however, various hydrophilic salt formulations of fenofibric acid have since been developed, resulting in therapeutic agents that demonstrate far greater solubility, absorption throughout the gastrointestinal tract, bioavailability, and capability to be administered irrespective of patient food intake [FDA Label].
+4. Indication:  For use as an adjunctive therapy to diet to: (a) reduce triglyceride levels in adult patients with severe hypertriglyceridemia, and (b) reduce elevated total cholesterol, low-density-lipoprotein (LDL-C), triglycerides, and apolipoprotein B, and to increase high-density-lipoprotein (HDL-C) in adult patients with primary hypercholesterolemia or mixed dyslipidemia (Fredrickson Types IIa and IIb). [FDA Label]
+DrugId:  12
+1. Name:  Entacapone
+2. Groups:  Approved, Investigational
+3. Description:  Entacapone is a selective, reversible catechol-O-methyl transferase (COMT) inhibitor for the treatment of Parkinson's disease. It is a member of the class of nitrocatechols. When administered concomittantly with levodopa and a decarboxylase inhibitor (e.g., carbidopa), increased and more sustained plasma levodopa concentrations are reached as compared to the administration of levodopa and a decarboxylase inhibitor.
+4. Indication:  Used as an adjunct to levodopa / carbidopa in the symptomatic treatment of patients with idiopathic Parkinson's Disease who experience the signs and symptoms of end-of-dose "wearing-off".
+DrugId:  13
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  14
+1. Name:  Rosuvastatin
+2. Groups:  Approved
+3. Description:  Rosuvastatin is an antilipemic agent that competitively inhibits hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. HMG-CoA reducuase catalyzes the conversion of HMG-CoA to mevalonic acid, the rate-limiting step in cholesterol biosynthesis. Rosuvastatin belongs to a class of medications called statins and is used to reduce plasma cholesterol levels and prevent cardiovascular disease.
+4. Indication:  Used as an adjunct to dietary therapy to treat primary hyperlipidemia (heterozygous familial and nonfamilial), mixed dyslipidemia and hypertriglyceridemia. Also indicated for homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering therapies or when other such therapies are not available. Furthermore, it is used to slow the progression of atherosclerosis and for primary prevention of cardiovascular disease. 
+DrugId:  15
+1. Name:  Atorvastatin
+2. Groups:  Approved
+3. Description:  Atorvastatin (Lipitor) is a member of the drug class known as statins. It is used for lowering cholesterol. Atorvastatin is a competitive inhibitor of hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase, the rate-determining enzyme in cholesterol biosynthesis via the mevalonate pathway. HMG-CoA reductase catalyzes the conversion of HMG-CoA to mevalonate. Atorvastatin acts primarily in the liver. Decreased hepatic cholesterol levels increases hepatic uptake of cholesterol and reduces plasma cholesterol levels.
+4. Indication:  May be used as primary prevention in individuals with multiple risk factors for coronary heart disease (CHD) and as secondary prevention in individuals with CHD to reduce the risk of myocardial infarction (MI), stroke, angina, and revascularization procedures. May be used to reduce the risk of cardiovascular events in patients with acute coronary syndrome (ACS). May be used in the treatment of primary hypercholesterolemia and mixed dyslipidemia, homozygous familial hypercholesterolemia, primary dysbetalipoproteinemia, and/or hypertriglyeridemia as an adjunct to dietary therapy to decrease serum total and low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (apoB), and triglyceride concentrations, while increasing high-density lipoprotein cholesterol (HDL-C) levels.
+DrugId:  16
+1. Name:  Dextroamphetamine
+2. Groups:  Approved, Illicit
+3. Description:  Dextroamphetamine is the dextrorotary stereoisomer of the amphetamine molecule, which can take two different forms. It is a slightly polar, weak base and is lipophilic.
+4. Indication:  Used to treat attention deficit hyperactivity disorder (ADHD).

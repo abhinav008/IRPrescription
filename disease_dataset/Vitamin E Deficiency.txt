@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Vitamin E
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A generic descriptor for all tocopherols and tocotrienols that exhibit alpha-tocopherol activity. By virtue of the phenolic hydrogen on the 2H-1-benzopyran-6-ol nucleus, these compounds exhibit varying degree of antioxidant activity, depending on the site and number of methyl groups and the type of isoprenoids.
+4. Indication:  Vitamin E, known for its antioxidant activities, is protective against cardiovascular disease and some forms of cancer and has also demonstrated immune-enhancing effects. It may be of limited benefit in some with asthma and rheumatoid arthritis. It may be helpful in some neurological diseases including Alzheimer's, some eye disorders including cataracts, and diabetes and premenstrual syndrome. It may also help protect skin from ultraviolet irradiation although claims that it reverses skin aging, enhances male fertility and exercise performance are poorly supported. It may help relieve some muscle cramps.
+DrugId:  2
+1. Name:  Tocofersolan
+2. Groups:  Approved
+3. Description:  Tocofersolan is a polyethylene glycol derivative of α-tocopherol and synthetic water-soluble version of vitamin E. Tocofersolan is an oral treatment of vitamin E deficiency due to digestive malabsorption in pediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis. It was approved by the European Medicines Agency (EMA) in June 2009 under the market name Vedrop. Tocofersolan is also used in cosmetics and pharmaceuticals as an antioxidant.
+4. Indication:  Vedrop is indicated in vitamin E deficiency due to digestive malabsorption in paediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis, from birth (full term newborns) up to 18years of age. [EMA]
+DrugId:  3
+1. Name:  Vitamin C
+2. Groups:  Approved, Nutraceutical
+3. Description:  A six carbon compound related to glucose. It is found naturally in citrus fruits and many vegetables. Ascorbic acid is an essential nutrient in human diets, and necessary to maintain connective tissue and bone. Its biologically active form, vitamin C, functions as a reducing agent and coenzyme in several metabolic pathways. Vitamin C is considered an antioxidant.
+4. Indication:  Used to treat vitamin C deficiency, scurvy, delayed wound and bone healing, urine acidification, and in general as an antioxidant. It has also been suggested to be an effective antiviral agent.
+DrugId:  4
+1. Name:  Pyridoxine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. [PubChem]
+4. Indication:  For the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy.
+DrugId:  5
+1. Name:  Riboflavin
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Nutritional factor found in milk, eggs, malted barley, liver, kidney, heart, and leafy vegetables. The richest natural source is yeast. It occurs in the free form only in the retina of the eye, in whey, and in urine; its principal forms in tissues and cells are as flavin mononucleotide and flavin-adenine dinucleotide.
+4. Indication:  For the treatment of ariboflavinosis (vitamin B2 deficiency).
+DrugId:  6
+1. Name:  Cyanocobalamin
+2. Groups:  Approved, Nutraceutical
+3. Description:  Cyanocobalamin (commonly known as Vitamin B12) is the most chemically complex of all vitamins. Its chemical structure is based on a corrin ring, which, although quite similar to the porphyrin ring found in heme, chlorophyll, and cytochrome, has two of the pyrrole rings directly bonded. The central metal ion in cyanocobalamin is Co (cobalt). Cyanocobalamin (Vitamin B12) is not produced by plants or by animals. The only organisms that have the enzymes required for the synthesis of cyanocobalamin are bacteria and archaea [10].Higher plants do not utilize cyanocobalamin from the soil, and are therefore a poor source of the substance as compared with animal tissues, which are potent in cyanocobalamin [10].Vitamin B12 is naturally found in animal products, including fish, meat, poultry, eggs, milk, and milk products. Vitamin B12 is generally not present in plant foods, but fortified breakfast cereals are a readily available source of vitamin B12 with high bioavailability for vegetarian consumers. Various nutritional yeast products also contain vitamin B12 [12].The main causes of vitamin B12 deficiency include vitamin B12 malabsorption, pernicious anemia, postsurgical malabsorption, and lastly, dietary deficiency. In many cases, however, the cause of deficiency is unknown [12].
+4. Indication:  For treatment of pernicious anemia (due to lack of or inhibition of intrinsic factor) and for prevention and treatment of vitamin B 12 deficiency [12], [15].Values below approximately 170–250 pg/mL (120–180 picomol/L) for adults suggest a vitamin B12 deficiency. Despite this, evidence suggests that serum vitamin B12 concentrations may not accurately reflect intracellular concentrations of the vitamin [12]. It is therefore difficult to diagnose vitamin B12 deficiency.
+DrugId:  7
+1. Name:  Folic Acid
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (poaceae). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia. [PubChem]
+4. Indication:  For treatment of folic acid deficiency, megaloblastic anemia and in anemias of nutritional supplements, pregnancy, infancy, or childhood.
+DrugId:  8
+1. Name:  Biotin
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  A water-soluble, enzyme co-factor present in minute amounts in every living cell. It occurs mainly bound to proteins or polypeptides and is abundant in liver, kidney, pancreas, yeast, and milk. [PubChem]
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance.
+DrugId:  9
+1. Name:  Vitamin A
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Retinol and derivatives of retinol that play an essential role in metabolic functioning of the retina, the growth of and differentiation of epithelial tissue, the growth of bone, reproduction, and the immune response. Dietary vitamin A is derived from a variety of carotenoids found in plants. It is enriched in the liver, egg yolks, and the fat component of dairy products. [PubChem]
+4. Indication:  For the treatment of vitamin A deficiency.
+DrugId:  10
+1. Name:  Thiamine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Thiamine or thiamin, also known as vitamin B1, is a colorless compound with the chemical formula C12H17N4OS. It is soluble in water and insoluble in alcohol. Thiamine decomposes if heated. Thiamine was first discovered by Umetaro Suzuki in Japan when researching how rice bran cured patients of Beriberi. Thiamine plays a key role in intracellular glucose metabolism and it is thought that thiamine inhibits the effect of glucose and insulin on arterial smooth muscle cell proliferation. Thiamine plays an important role in helping the body convert carbohydrates and fat into energy. It is essential for normal growth and development and helps to maintain proper functioning of the heart and the nervous and digestive systems. Thiamine cannot be stored in the body; however, once absorbed, the vitamin is concentrated in muscle tissue.
+4. Indication:  For the treatment of thiamine and niacin deficiency states, Korsakov's alcoholic psychosis, Wernicke-Korsakov syndrome, delirium, and peripheral neuritis.
+DrugId:  11
+1. Name:  Cobamamide
+2. Groups:  Approved
+3. Description:  Cobamamide is one of the active forms of vitamin B12 that is also known as adenosylcobalamin or dibencozide. This drug is available as a nutritional supplement to prevent vitamin B12 deficiency.Vitamin B12 is a collective term for these variously substituted corrinoids. The principal biochemical participants are two coenzyme forms of Vitamin B12 that are produced and activated in two separate cellular compartments: methylcobalamin in the cytosol and adenosylcobalamin in the mitochondria [7].Vitamin B12 (cyancobalamin, Cbl) has two active co-enzyme forms, methylcobalamin (MeCbl) and adenosylcobalamin (AdCbl). There has been a shift in the treatment of vitamin B12 deficiency such that MeCbl is being extensively used and promoted. This exists despite the fact that both MeCbl and AdCbl are necessary for life and have vastly different metabolic fates and functions. MeCbl is mainly involved along with folate in hematopoiesis and the growth of the brain during childhood. Deficiency of AdCbl disturbs the carbohydrate, fat and amino-acid metabolism, and therefore interferes with the formation of myelin. It is therefore important to treat vitamin B12 deficiency with a combination of MeCbl and AdCbl or hydroxocobalamin or cobalamin [8].Vitamin B12 has important physiological roles including DNA synthesis, myelin formation in the nervous system, red blood cell formation, as well as fatty acid and amino acid metabolism [2]. Please refer to the entry Cyanocobalamin for more information on this entry.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Copper
+2. Groups:  Approved, Investigational
+3. Description:  Copper is a transition metal and a trace element in the body. It is important to the function of many enzymes including cytochrome c oxidase, monoamine oxidase and superoxide dismutase [FDA Label]. Copper is commonly used in contraceptive intrauterine devices (IUD) [5].
+4. Indication:  For use in the supplementation of total parenteral nutrition and in contraception with intrauterine devices [FDA Label] [5].
+DrugId:  13
+1. Name:  Iron
+2. Groups:  Approved
+3. Description:  A metallic element found in certain minerals, in nearly all soils, and in mineral waters. It is an essential constituent of hemoglobin, cytochrome, and other components of respiratory enzyme systems. Its chief functions are in the transport of oxygen to tissue (hemoglobin) and in cellular oxidation mechanisms. Depletion of iron stores may result in iron-deficiency anemia. Iron is used to build up the blood in anemia.
+4. Indication:  Used in preventing and treating iron-deficiency anemia.
+DrugId:  14
+1. Name:  Zinc
+2. Groups:  Approved, Investigational
+3. Description:  A metallic element of atomic number 30 and atomic weight 65.38. It is a necessary trace element in the diet, forming an essential part of many enzymes, and playing an important role in protein synthesis and in cell division. Zinc deficiency is associated with anemia, short stature, hypogonadism, impaired wound healing, and geophagia. It is known by the symbol Zn.Interestingly recent review articles have already demonstrated the important role of zinc in the pathophysiology and treatment of affective disorders, plus discussed the potential value of zinc as a marker of these diseases [7].
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Phylloquinone
+2. Groups:  Approved, Investigational
+3. Description:  Phylloquinone is often called vitamin K1. It is a fat-soluble vitamin that is stable to air and moisture but decomposes in sunlight. It is found naturally in a wide variety of green plants. Phylloquinone is also an antidote for coumatetralyl. Vitamin K is needed for the posttranslational modification of certain proteins, mostly required for blood coagulation.
+4. Indication:  For the treatment of haemorrhagic conditions in infants, antidote for coumarin anticoagulants in hypoprothrombinaemia.
+DrugId:  16
+1. Name:  Nicotinamide
+2. Groups:  Approved, Investigational
+3. Description:  An important compound functioning as a component of the coenzyme NAD. Its primary significance is in the prevention and/or cure of blacktongue and pellagra. Most animals cannot manufacture this compound in amounts sufficient to prevent nutritional deficiency and it therefore must be supplemented through dietary intake. [PubChem]
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Manganese
+2. Groups:  Approved, Nutraceutical
+3. Description:  Manganese is a transition metal with a molar mass of 54.94g/mol. Manganese is considered critical for human health, and plays important roles in development, metabolism, and the antioxidant system. That said, excessive manganese intake is associated with manganism, a neurodegenerative disorder that causes dopaminergic neuronal death and parkinsonian-like symptoms.
+4. Indication:  Indicated for use as a supplement to intravenous solutions given for Total Parenteral Nutrition (TPN). Administration helps to maintain plasma levels and to prevent depletion of endogenous stores and subsequent deficiency symptoms.
+DrugId:  18
+1. Name:  Vitamin D
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Vitamin D ultimately comprises a group of lipid-soluble secosteroids responsible for a variety of biological effects, some of which include increasing the intestinal absorption of calcium, magnesium, and phosphate. With reference to human use, there are 2 main forms of vitamin D - vitamin D3 (cholecalciferol) and vitamin D2 (ergocalciferol). When non-specific references are made about 'vitamin d', the references are usually about the use of vitamin D3 and/or D2.Vitamin D3 and D2 require hydroxylation in order to become biologically active in the human body. Since vitamin D can be endogenously synthesized in adequate amounts by most mammals exposed to sufficient quantities of sunlight, vitamin D functions like a hormone on vitamin D receptors to regulate calcium in opposition to parathyroid hormone. Vitamin D plays an essential physiological role in maintaining calcium homeostasis and metabolism. There are several different vitamin D supplements that are given to treat or to prevent osteomalacia and rickets, or to meet the daily criteria of vitamin D consumption.
+4. Indication:  Vitamin D is indicated for use in the treatment of hypoparathyroidism, refractory rickets (also known as vitamin D resistant rickets), and familial hypophosphatemia [FDA Label].
+DrugId:  19
+1. Name:  Calcidiol
+2. Groups:  Approved, Nutraceutical
+3. Description:  The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  20
+1. Name:  Menadione
+2. Groups:  Approved, Nutraceutical
+3. Description:  A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. [PubChem]
+4. Indication:  The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.
+DrugId:  21
+1. Name:  Prothrombin
+2. Groups:  Approved
+3. Description:  Prothrombin Complex Concentrate (Human), is indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients receiving vitamin K antagonist therapy. Prothrombin is administered as part of a cocktail containing several coagulation factors.
+DrugId:  22
+1. Name:  Hydroxocobalamin
+2. Groups:  Approved
+3. Description:  Hydroxocobalamin, also known as vitamin B12a and hydroxycobalamin, is an injectable form of vitamin B 12 that has been used therapeutically to treat vitamin B 12 deficiency. Other uses include cyanide poisoning, Leber's optic atrophy, and toxic amblyopia.
+4. Indication:  For treatment of pernicious anemia and the prevention and treatment of vitamin B12 deficiency arising from alcoholism, malabsorption, tapeworm infestation, celiac, hyperthyroidism, hepatic-biliary tract disease, persistent diarrhea, ileal resection, pancreatic cancer, renal disease, prolonged stress, vegan diets, macrobiotic diets or other restrictive diets. Also for the treatment of known or suspected cyanide poisoning.
+DrugId:  23
+1. Name:  Kappadione
+2. Groups:  Approved
+3. Description:  Kappadione is a Vitamin K derivative (chemically, it is menadiol sodium diphosphate), previously approved by FDA prior to 1982 and marketed by Lilly Marketing for this drug has been discontinued and is not available in North America [3]. It has been found to have carcinogenic potential in mammalian cells as well as cytotoxic properties [4]. Studies involving the active metabolite of this formulation, menadione, showed oocyte toxicity in a study of mice [4].
+4. Indication:  Anticoagulant-induced prothrombin deficiency caused by coumadin or indanedione derivatives,prophylaxis and therapy of hemorrhagic disease of the newborn, hypoprothrombinemia due to antibacterial therapy,hypoprothrombinemia secondary to factors limiting absorption or synthesis of vitamin K (for example, obstructive jaundice, biliary fistula, sprue, ulcerative colitis, celiac disease, intestinal resection, cystic fibrosis of the pancreas, and regional enteritis, other drug-induced hypoprothrombinemia where it is definitely shown that the result is due to interference with vitamin K metabolism) [5, 6].
+DrugId:  24
+1. Name:  S-8184
+2. Groups:  Investigational
+3. Description:  S8184 is a cremophor free, vitamin E based paclitaxel emulsion incorporating a p glycoprotein inhibitor and particle size based tumor targeting designed to reduce toxicity, allow bolus dosing in 15 minutes, and potentially increase efficacy.
+4. Indication:  Ovarian cancer or primary peritoneal carcinoma
+DrugId:  25
+1. Name:  Cholecalciferol
+2. Groups:  Approved, Nutraceutical
+3. Description:  Derivative of 7-dehydroxycholesterol formed by ultraviolet rays breaking of the C9-C10 bond. It differs from ergocalciferol in having a single bond between C22 and C23 and lacking a methyl group at C24.
+4. Indication:  For the treatment of vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.

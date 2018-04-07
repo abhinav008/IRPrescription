@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  C1-INH
+2. Groups:  Investigational
+3. Description:  C1-INH is human pasteurized C1-inhibitor concentrate to treat patients with hereditary angioedema (HAE), a rare genetic disorder that can lead to painful and sometimes life-threatening attacks of edema (swelling) of the face, airway, abdomen, and extremities.
+4. Indication:  Investigated for use/treatment in angioedema.
+DrugId:  2
+1. Name:  Stanozolol
+2. Groups:  Approved, Vet approved
+3. Description:  Stanozolol is a synthetic anabolic steroid with therapeutic uses in treating hereditary angioedema. Stanozolol is derived from testosterone, and has been abused by several high profile professional athletes. 
+4. Indication:  Stanozolol is a synthetic anabolic steroid with therapeutic uses in treating C1-inhibitor deficient hereditary angioedema. C1-inhibitor is a protease that inhibits the complement system (part of the innate immune system), a biochemical chain of reactions which assists the body in removing pathogens from the body. Stanozolol may help control attacks of hereditary angioedema. Stanozolol can be administered orally or intramuscularly. 
+DrugId:  3
+1. Name:  Ecallantide
+2. Groups:  Approved, Investigational
+3. Description:  Ecallantide is a potent and selective human plasma kallikrein inhibitor that is indicated for the symptomatic treatment of hereditary angioedema. Ecallantide is a recombinant 60-amino-acid protein produced in Pichia pastoris yeast cells that contains three intramolecular disulfide bonds [FDA Label]. It was discovered by phage display technology [4]. It shares sequence similarities with the naturally occurring human protein tissue-factor pathway inhibitor (TFPI), which is also known lipoprotein-associated coagulation inhibitor (LACI) [5]. The amino acid sequence of two compounds differ by seven amino acids [5]. Ecallantide works by blocking kallikrein to participate in the kallikrein-kinin system, which is a complex proteolytic cascade that initiates inflammatory and coagulation pathways [FDA Label]. The protease plasma kallikerin facilitates the conversion of kininogen to bradykinin, which is a pro-inflammatory vasodilator that increases vascular permeability and induces pain [1]. Hereditary angioedema is a rare autosomal dominant disorder with mutations to C1-esterase-inhibitor (C1-INH) located on Chromosome 11q, resulting in substantially lower levels of C4 and C1-INH activity [FDA Label]. The disorder is associated with recurrent attacks of severe swelling and is thought to be caused by unregulated activity of kallikrein and excessive bradykinin production [FDA Label]. By reversibly binding to plasma kallikrein, ecallantide displays a rapid on-rate and a slow off-rate that results in high affinity inhibition in the picomolar range [5]. Ecallantide is marketed by FDA and EMA under the trade name Kalbitor for subcutaneous injection. Apart from its FDA and EMA indication, ecallantide has been used off label in the management of nonhistaminergic angioedema, not due to HAE [4].
+4. Indication:  Indicated for the symptomatic treatment of acute attacks of hereditary angioedema (HAE) in patients 12 years of age and older [FDA Label].
+DrugId:  4
+1. Name:  Avoralstat
+2. Groups:  Investigational
+3. Description:  Avoralstat has been used in trials studying the prevention of HAE and Hereditary Angioedema.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Conestat alfa
+2. Groups:  Approved, Investigational
+3. Description:  C1 Esterase Inhibitor (Recombinant) is a recombinant analogue of endogenous complement component-1 esterase inhibitor (rhC1INH), purified from the milk of transgenic rabbits. The primary function of endogenous C1INH is to regulate the activation of the complement and contact system pathways. It does this through inhibition of several target proteases within these pathways including activated C1s, kallikrein, factor XIIa and factor XIa. C1 esterase inhibitor has also been shown to inhibit the action of thrombin within the coagulation pathway, and tPA and plasmin within the fibrinolytic pathway. Deficiency of C1-inhibitor permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin. Additionally, C4 and C2 cleavage goes unchecked, resulting in auto-activation of the complement system. Down-stream effects of the lack of enzyme inhibition by C1 esterase inhibitor results in swelling due to leakage of fluid from blood vessels into connective tissue and consequently the presentation of hereditary angioedema (HAE). Marketed as the product Ruconest (FDA), this drug is indicated for the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults. Intravenous replacement of C1 esterase inhibitor results in reversal of acute symptoms of HAE.
+4. Indication:  For the treatment of acute attacks of hereditary angioedema (HAE) due to C1 esterase inhibitor deficiency in adults.
+DrugId:  6
+1. Name:  Human C1-esterase inhibitor
+2. Groups:  Approved
+3. Description:  C1 Esterase Inhibitor (Human) is composed of purified endogenous complement component-1 esterase inhibitor (hC1INH) isolated from human plasma. The primary function of endogenous C1INH is to regulate the activation of the complement and contact system pathways. It does this through inhibition of several target proteases within these pathways including activated C1s, kallikrein, factor XIIa and factor XIa. C1 esterase inhibitor has also been shown to inhibit the action of thrombin within the coagulation pathway, and tPA and plasmin within the fibrinolytic pathway. Deficiency of C1-inhibitor permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin. Additionally, C4 and C2 cleavage goes unchecked, resulting in auto-activation of the complement system. Down-stream effects of the lack of enzyme inhibition by C1 esterase inhibitor results in swelling due to leakage of fluid from blood vessels into connective tissue and consequently the presentation of hereditary angioedema (HAE). Marketed as the product Cyrinze (FDA), this drug is indicated for routine prophylaxis against angioedema attacks in adolescent and adult patients with Hereditary Angioedema (HAE), a human genetic disorder caused by a shortage of C1 inhibitor activity that results in an overreaction of the immune system. The disease is characterized by acute attacks of painful and in some cases fatal swelling of several soft tissues (edema), which may last up to five days when untreated.In June 2017 the FDA approved a formulation of human C1-esterase inhibitor for subcutaneous administration under the tradename Haegarda.
+4. Indication:  For routine prophylaxis against angioedema attacks in adolescent and adult patients with Hereditary Angioedema (HAE).
+DrugId:  7
+1. Name:  Nandrolone decanoate
+2. Groups:  Approved, Illicit
+3. Description:  C18 steroid with androgenic and anabolic properties. It is generally prepared from alkyl ethers of estradiol to resemble testosterone but less one carbon at the 19 position. It is a schedule III drug in the U.S.
+4. Indication:  For the treatment of refractory deficient red cell production anemias, breast carcinoma, hereditary angioedema, antithrombin III deficiency, fibrinogen excess, growth failure and Turner's syndrome. It is also indicated in the prophylaxis of hereditary angioedema.
+DrugId:  8
+1. Name:  Omapatrilat
+2. Groups:  Investigational
+3. Description:  Omapatrilat is an investigational drug that inhibits both neutral endopeptidase (NEP) and angiotensin converting enzyme (ACE). NEP inhibition results in elevated natriuretic peptide levels, promoting natriuresis, diuresis, vasodilation, and reductions in preload and ventricular remodeling. This drug from BMS was not approved by the FDA due to angioedema safety concerns.
+4. Indication:  For the treatment of hypertension.
+DrugId:  9
+1. Name:  Icatibant
+2. Groups:  Approved, Investigational
+3. Description:  Icatibant (Firazyr) is a synthetic peptidomimetic drug consisting of ten amino acids, and acts as an effective and specific antagonist of bradykinin B2 receptors. It has been approved in the EU for use in hereditary angioedema, and is under investigation for a number of other conditions in which bradykinin is thought to play a significant role. Icatibant currently has orphan drug status in the United States and FDA approved on August 25, 2011. 
+4. Indication:  Approved for use in acute attacks of hereditary angioedema (HAE). Investigated for use/treatment in angioedema, liver disease, and burns and burn infections.
+DrugId:  10
+1. Name:  Danazol
+2. Groups:  Approved
+3. Description:  A synthetic steroid with antigonadotropic and anti-estrogenic activities that acts as an anterior pituitary suppressant by inhibiting the pituitary output of gonadotropins. It possesses some androgenic properties. Danazol has been used in the treatment of endometriosis and some benign breast disorders. [PubChem]
+4. Indication:  For the treatment of endometriosis and fibrocystic breast disease (in patients unresponsive to simple measures). Also used for the prophylactic treatment of all types of hereditary angioedema in males and females.
+DrugId:  11
+1. Name:  Enalaprilat
+2. Groups:  Approved
+3. Description:  Enalaprilat is the active metabolite of the orally available pro-drug, enalapril. Used in the treatment of hypertension, enalapril is an ACE inhibitor that prevents Angiotensin Converting Enzyme (ACE) from transforming angiotensin I into angiotensin II. As angiotensin II is responsible for vasoconstriction and sodium reabsorption in the proximal tubule of the kidney, down-regulation of this protein results in reduced blood pressure and blood fluid volume. Enalaprilat was originally created to overcome the limitations of the first ACE inhibitor, captopril, which had numerous side effects and left a metallic taste in the mouth. Removal of the problematic thiol group from captopril resulted in enalaprilat, which was then modified further with an ester to create the orally available pro-drug enalapril.Enalaprilat is poorly orally available and is therefore only available as an intravenous injection for the treatment of hypertension when oral therapy is not possible.
+4. Indication:  Enalaprilat injection is indicated for the treatment of hypertension when oral therapy is not practical.
+DrugId:  12
+1. Name:  Tranexamic Acid
+2. Groups:  Approved
+3. Description:  Antifibrinolytic hemostatic used in severe hemorrhage. [PubChem]
+4. Indication:  For use in patients with hemophilia for short term use (two to eight days) to reduce or prevent hemorrhage and reduce the need for replacement therapy during and following tooth extraction. It can also be used for excessive bleeding in menstruation, surgery, or trauma cases.
+DrugId:  13
+1. Name:  Nandrolone phenpropionate
+2. Groups:  Approved, Illicit, Investigational
+3. Description:  C18 steroid with androgenic and anabolic properties. It is generally prepared from alkyl ethers of estradiol to resemble testosterone but less one carbon at the 19 position. It is a schedule III drug in the U.S.
+4. Indication:  For the treatment of refractory deficient red cell production anemias, breast carcinoma, hereditary angioedema, antithrombin III deficiency, fibrinogen excess, growth failure and Turner's syndrome. It is also indicated in the prophylaxis of hereditary angioedema.
+DrugId:  14
+1. Name:  Benznidazole
+2. Groups:  Approved, Investigational
+3. Description:  Benznidazole was granted accelerated approval for the treatment of Chagas disease in children 2-12 years of age by the FDA on August 29, 2017 [9]. It is the first treatment made available in the United States for Chagas disease.
+4. Indication:  For use in the treatment of Chagas disease in children 2-12 years of age [9].
+DrugId:  15
+1. Name:  Cyproheptadine
+2. Groups:  Approved
+3. Description:  A serotonin antagonist and a histamine H1 blocker used as antipruritic, appetite stimulant, antiallergic, and for the post-gastrectomy dumping syndrome, etc. [PubChem]
+4. Indication:  For treatment of perennial and seasonal allergic rhinitis, vasomotor rhinitis, allergic conjunctivitis due to inhalant allergens and foods, mild uncomplicated allergic skin manifestations of urticaria and angioedema, amelioration of allergic reactions to blood or plasma, cold urticaria, dermatographism, and as therapy for anaphylactic reactions adjunctive to epinephrine.
+DrugId:  16
+1. Name:  Clemastine
+2. Groups:  Approved, Investigational
+3. Description:  An ethanolamine-derivative, first generation histamine H1 antagonist used in hay fever, rhinitis, allergic skin conditions, and pruritus. It causes drowsiness.
+4. Indication:  For the relief of symptoms associated with allergic rhinitis such as sneezing, rhinorrhea, pruritus and acrimation. Also for the management of mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Used as self-medication for temporary relief of symptoms associated with the common cold.
+DrugId:  17
+1. Name:  Technetium Tc-99m sestamibi
+2. Groups:  Approved, Investigational
+3. Description:  Technetium Tc-99m sestamibi (commonly sestamibi) is a pharmaceutical agent used in nuclear medicine imaging. The drug is a coordination complex consisting of the radioisotope technetium-99m bound to six (sesta=6) methoxyisobutylisonitrile (MIBI) ligands. Following intravenous injection of the drug, Technetium Tc-99m sestamibi is taken up by the myocardium, parathyroid, and/or breast tissue. The mechanism by which sestamibi localizes to these tissues has not been established. Single photon emission computed tomography (SPECT) is then performed to detect the gamma ray emmitted by the decay of Technetium-99m to Technetium-99.Currently available within a preparation kit for injection, Technetium Tc 99m Sestamibi is indicated for: 1) detecting coronary artery disease by localizing myocardial ischemia (reversible defects) and infarction (non-reversible defects); and 2) evaluating myocardial function and developing information for use in patient management decisions.
+4. Indication:  Technetium Tc 99m Sestamibi is indicated for: 1) detecting coronary artery disease by localizing myocardial ischemia (reversible defects) and infarction (non-reversible defects); and 2) evaluating myocardial function and developing information for use in patient management decisions.
+DrugId:  18
+1. Name:  Triprolidine
+2. Groups:  Approved
+3. Description:  First generation histamine H1 antagonist used in allergic rhinitis; asthma; and urticaria. It is a component of cough and cold medicines. It may cause drowsiness.
+4. Indication:  For the symptomatic relief of seasonal or perennial allergic rhinitis or nonallergic rhinitis; allergic conjunctivitis; and mild, uncomplicated allergic skin manifestations of urticaria and angioedema. Also used in combination with other agents for the symptomatic relief of symptoms associated with the common cold.
+DrugId:  19
+1. Name:  Carbinoxamine
+2. Groups:  Approved
+3. Description:  Carbinoxamine is a first generation antihistamine that competes with free histamine for binding at HA-receptor sites. This antagonizes the effects of histamine on HA-receptors, leading to a reduction of the negative symptoms brought on by histamine HA-receptor binding. The product label for carbinoxamine as an over the counter cough and cold medicine is being modified to state "do not use" in children under 4 years of age in order to prevent and reduce misuse, as many unapproved carbinoxamine-containing preparations contained inappropriate labeling, which promoted unapproved uses (including management of congestion, cough, the common cold, and the use in children under 2 years of age), which can potentially cause serious health risks.
+4. Indication:  For symptomatic relief of seasonal and perennial allergic rhinitis and vasomotor rhinitis, as well as allergic conjunctivitis caused by foods and inhaled allergens. Also for the relief of allergic reactions to blood or plasma, and the symptomatic management of mild, uncomplicated allergic skin manifestations of urticaria and angioedema.
+DrugId:  20
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  21
+1. Name:  Lumefantrine
+2. Groups:  Approved
+3. Description:  Lumefantrine is an antimalarial agent used to treat acute uncomplicated malaria. It is administered in combination with artemether for improved efficacy. This combination therapy exerts its effects against the erythrocytic stages of Plasmodium spp. and may be used to treat infections caused by P. falciparum and unidentified Plasmodium species, including infections acquired in chloroquine-resistant areas.
+4. Indication:  Lumefantrine and artemether combination therapy is indicated for the treatment of acute uncomplicated malaria caused by Plasmodium falciparum, including malaria acquired in chloroquine-resistant areas. May also be used to treat uncomplicated malaria when the Plasmodium species has not been identified. Indicated for use in adults and children greater than 5 kg. 
+DrugId:  22
+1. Name:  Dexchlorpheniramine maleate
+2. Groups:  Approved
+3. Description:  Dexchlorpheniramine is the S-enantiomer of chlorpheniramine which is a 1st generation anti-histamine. Dexchlorpheniramine has more pharmacological activity than the R and so is more potent than the racemic mixture.
+4. Indication:  Dexchlorpheniramine can be used in the treatment of perennial and seasonal allergic rhinitis, vasomotor rhiniti, allergic conjunctivitis due to inhalant allergens and foods, mild uncomplicated allergic skin manifestations of urticaria and angioedema, amelioration of allergic reactions to blood or plasma, and dermographism.
+DrugId:  23
+1. Name:  Azithromycin
+2. Groups:  Approved
+3. Description:  Azithromycin is a semi-synthetic macrolide antibiotic of the azalide class. Like other macrolide antibiotics, azithromycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit of the bacterial 70S ribosome. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the process of translation. Its effects may be bacteriostatic or bactericidal depending of the organism and the drug concentration. Its long half life, which enables once daily dosing and shorter administration durations, is a property distinct from other macrolides.
+4. Indication:  For the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions: H. influenzae, M. catarrhalis, S. pneumoniae, C. pneumoniae, M. pneumoniae, S. pyogenes, S. aureus, S. agal
+DrugId:  24
+1. Name:  Captopril
+2. Groups:  Approved
+3. Description:  Captopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Captopril may be used in the treatment of hypertension. 
+4. Indication:  For the treatment of essential or renovascular hypertension (usually administered with other drugs, particularly thiazide diuretics). May be used to treat congestive heart failure in combination with other drugs (e.g. cardiac glycosides, diuretics, β-adrenergic blockers). May improve survival in patients with left ventricular dysfunction following myocardial infarction. May be used to treat nephropathy, including diabetic nephropathy. 
+DrugId:  25
+1. Name:  Morniflumate
+2. Groups:  Approved
+3. Description:  Morniflumate is a non-steroidal anti-inflammatory drug with antipyretic properties. It is the morpholinoethyl ester of niflumic acid [8]. In one study, post morniflumate ingestion, physical examination and clinical symptoms of those with bronchitis showed improvement [1].
+4. Indication:  Morniflumate is indicated for the treatment of inflammatory conditions affecting the airways, ENT system, urogenital tract and bone and joint systems in adults. In Italy, morniflumate is also indicated for the treatment of pain associated with ear, nose, throat (ENT) and gastrointestinal inflammatory conditions in children. Morniflumate is a well established NSAID that has been in use for over three decades in Italy (particularly for the treatment of upper respiratory tract infections in children), France, Belgium, Austria, Switzerland, Spain and Portugal; it has a generally favorable tolerability profile.

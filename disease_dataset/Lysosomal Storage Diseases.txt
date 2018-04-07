@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  2
+1. Name:  Elosulfase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Elosulfase alfa is a synthetic version of the enzyme N-acetylgalactosamine-6-sulfatase. It was approved by the FDA in 2014 for the treatment of Morquio syndrome. Elosulfase alfa was developed by BioMarin Pharmaceutical Inc. and is marketed under the brand Vimizim™. The recommended dose is 2 mg per kg given intravenously over a minimum range of 3.5 to 4.5 hours, based on infusion volume, once every week.
+4. Indication:  Vimizim is a hydrolytic lysosomal glycosaminoglycan (GAG)-specific enzyme indicated for patients with Mucopolysaccharidosis type IVA (MPS IVA; Morquio A syndrome). 
+DrugId:  3
+1. Name:  Cerliponase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Cerliponase alfa is an enzyme replacement treatment for a specific form of Batten disease. It was the first FDA-approved treatment to slow loss of walking ability (ambulation) in symptomatic pediatric patients 3 years of age and older with late infantile neuronal ceroid lipofuscinosis type 2 (CLN2), also known as tripeptidyl peptidase-1 (TPP1) deficiency. Intraventricular administration of the drug allows significant uptake into the brain. Cerliponase alfa was approved in April, 2017 (as Brineura).
+4. Indication:  Cerliponase alfa is a treatment for late infantile neuronal ceroid lipofuscinosis type 2 (CLN2) disease to decelerate the progressive motor function decline in patients 3 years of age and older. CLN2 disease is a form of Batten disease, a rare inherited neurodegenerative disorder and is associated with seizures, ataxia, rapid loss of language and motor functions, blindness, and early death [4]. It is caused by the lack the lysosomal enzyme tripeptidyl peptidase-1 (TPP1) and subsequent accumulation of lysosomal storage materials normally metabolized by this enzyme in the central nervous system.
+DrugId:  4
+1. Name:  Alglucosidase alfa
+2. Groups:  Approved
+3. Description:  Aglucosidase alfa consists of the human enzyme acid alpha-glucosidase (GAA) which is essential for the degradation of glygogen to glucose in lysosomes. It is encoded by the most predominant of nine observed haplotypes of this gene. Aglucosidase alfa is produced by recombinant DNA technology in a Chinese hamster ovary cell line. Alglucosidase alfa degrades glycogen by catalyzing the hydrolysis of a-1,4- and a-1,6- glycosidic linkages of lysosomal glycogen. Structurally, Alglucosidase alfa is a glycoprotein with a calculated mass of 98,008 daltons for the 883 residue mature polypeptide chain, and a total mass of approximately 109,000 daltons, including carbohydrates. It is used for the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.
+4. Indication:  For the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.
+DrugId:  5
+1. Name:  AT2220
+2. Groups:  Investigational
+3. Description:  AT2220 is an experimental, oral therapy for the treatment of Pompe disease and belongs to a class of molecules known as pharmacological chaperones. It is a small molecule designed to act as a pharmacological chaperone that specifically binds, stabilizes, and facilitates the proper folding and trafficking of α-glucosidase (GAA). GAA to the lysosome, where it can perform its normal function. AT2220 has been shown to increase GAA activity in cell lines derived from Pompe patients and in transfected cells expressing misfolded forms of GAA.
+4. Indication:  Pompe disease, also known as glycogen storage disease type II or acid maltase deficiency, is a relatively rare neuromuscular and lysosomal storage disorder caused by inherited genetic mutations in a key enzyme called α-glucosidase (Gaa).
+DrugId:  6
+1. Name:  Galsulfase
+2. Groups:  Approved, Investigational
+3. Description:  Galsufase is a variant form of the polymorphic human enzyme N-acetylgalactosamine 4-sulfatase of recombinant DNA origin. Galsulfase is a glycoprotein with a molecular weight of approximately 56 kD. The recombinant protein is comprised of 495 amino acids and contains six asparagine-linked glycosylation sites, four of which carry a bis mannose-6-phosphate manose7 oligosaccharide for specific cellular recognition. Post-translational modification of Cys53 produces the catalytic amino acid residue Ca-formylglycine, which is required for enzyme activity and is conserved in all members of the sulfatase enzyme family.
+4. Indication:  For the treatment of adults and children with Mucopolysaccharidosis VI.
+DrugId:  7
+1. Name:  Vestronidase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Vestronidase alfa, or vestronidase alfa-vjbk, is a recombinant human lysosomal beta glucuronidase that is a purified enzyme produced by recombinant DNA technology in a Chinese hamster ovary cell line. The enzyme is a homotetramer consisted of 4 monomers with 629 amino acids, and holds the same amino acid sequence as human beta-glucuronidase (GUS) [FDA Label]. Vestronidase alfa is an enzyme replacement therapy for the treatment of mucopolysaccharidosis type VII (MPS VII), also known as Sly syndrome, which is an inherited, rare genetic metabolic condition that targets a small subset of population. MPS VII is a progressive condition that affects most tissues and organs due to the lack of a lysosomal enzyme called beta-glucuronidase, leading to buildup of toxic metabolites. The disorder is initiated with skeletal abnormalities, including short stature, along with other pathological conditions including enlarged liver and spleen, heart valve abnormalities, and narrowed airways which can lead to lung infections and trouble breathing. Last two conditions are leading causes of fatalities in patients with MPS VII. Some affected individuals do not survive infancy, while others may live into adolescence or adulthood and patients may experience developmental delay and progressive intellectual disability [FDA Label]. In clinical trials, vestronidase alfa treatment demonstrated improvement and stabilization in motor symptoms by increasing the patients' ability to walk longer distances in comparison to treatment with placebo . Few patients also experienced improved pulmonary function. Vestronidase alfa was FDA-approved on November 17th, 2017 under the trade name Mepsevii as an intravenous infusion for the treatment of pediatric and adult patients.
+4. Indication:  Indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome).
+DrugId:  8
+1. Name:  Laronidase
+2. Groups:  Approved
+3. Description:  Human recombinant alpha-L-iduronidase, 628 residues (mature form), produced by recombinant DNAtechnology in a Chinese hamster ovary cell line. Laronidase is a glycoprotein with a molecular weight of approximately 83 kD. The predicted amino acid sequence of the recombinant form, as well as the nucleotide sequence that encodes it, are identical to a polymorphic form of human a-L-iduronidase. It contains 6 N-linked oligosaccharide modification sites.
+4. Indication:  For the treatment of mucopolysaccharidosis
+DrugId:  9
+1. Name:  Velaglucerase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Velaglucerase alfa is a gene-activated human recombinant glucocerebrosidase used for the treatment of Type 1 Gaucher disease, caused by a deficiency of the lysosomal enzyme glucocerebrosidase. Additionally, Velaglucerase alfa has also been investigated for use in Type 3 Gaucher disease. 
+4. Indication:  Velaglucerase alfa is a hydrolytic lysosomal glucocerebroside-specific enzyme indicated for long-term enzyme replacement therapy for pediatric and adult patients with type 1 Gaucher disease.
+DrugId:  10
+1. Name:  Nesiritide
+2. Groups:  Approved, Investigational
+3. Description:  Nesiritide is a medication used to treat acutely decompensated congestive heart failure with dyspnea at rest or with minimal exertion (such as talk, eating or bathing). Nesiritide is the recombinant form of the 32 amino acid human B-type natriuretic peptide, which is normally produced by the ventricular myocardium.
+4. Indication:  For the intravenous treatment of patients with acutely decompensated congestive heart failure who have dyspnea at rest or with minimal activity.
+DrugId:  11
+1. Name:  Phosphocreatine
+2. Groups:  Nutraceutical
+3. Description:  Phosphocreatine - or creatine phosphate - is the phosphorylated form of creatine. It is primarily found endogenously in the skeletal muscles of vertebrates where it serves a critical role as a rapidly acting energy buffer for muscle cell actions like contractions via its ability to regenerate adenosine triphosphate (ATP) from adenosine diphosphate (ADP).
+4. Indication:  Phosphocreatine is a naturally occuring substance that is found predominantly in the skeletal muscles of vertebrates. Its primary utility within the body is to serve in the maintanence and recycling of adenosine triphosphate (ATP) for muscular activity like contractions.Given this utility of phosphocreatine to recycle ATP, the most plausible therapeutic potentials for its use involve conditions caused by energy shortage or by increased energy requirements - such as in ischemic stroke and other cerebrovascular diseases. It is important to note however that relatively little clinical research has been done to significantly further the evidence for any such indications, although it is administered intravenously for cardiovascular conditions in some countries.Additionally, because phosphocreatine is not regulated as a controlled substance it is taken as a supplement by some professional athletes as a means to perhaps increase short bursts of muscle strength or energy for professional athletics. 
+DrugId:  12
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Triheptanoin
+2. Groups:  Investigational
+3. Description:  Triheptanoin is under investigation for the treatment of Glycogen Storage Disease Type V and Alternating Hemiplegia of Childhood. Triheptanoin has been investigated for the treatment of Adult Polyglucosan Body Disease, Glycogen Storage Disease Type IV, and Glycogen Brancher Enzyme Deficiency.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Cortisone acetate
+2. Groups:  Approved, Investigational
+3. Description:  Cortisone acetate is a steroid hormone that has both glucocoriticoid and mineral corticoid activities. Corticosteroids are used to provide relief for inflamed areas of the body. They lessen swelling, redness, itching, and allergic reactions. They are often used as part of the treatment for a number of different diseases, such as severe allergies or skin problems, asthma, or arthritis. Endogenous glucocorticoids and some synthetic corticoids have high affinity to the protein transcortin (also called CBG, corticosteroid-binding protein), whereas all of them bind albumin. Glucocorticoids also bind to the cytosolic glucocorticoid receptor.
+4. Indication:  For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many immune and allergic disorders.
+DrugId:  15
+1. Name:  Idursulfase
+2. Groups:  Approved
+3. Description:  Idursulfase is a purified form of human iduronate-2-sulfatase, a lysosomal enzyme. Idursulfase is produced by recombinant DNA technology in a human cell line. Idursulfase is an enzyme that hydrolyzes the 2-sulfate esters of terminal iduronate sulfate residues from the glycosaminoglycans dermatan sulfate and heparan sulfate in the lysosomes of various cell types. Idursulfase is a 525-amino acid glycoprotein with a molecular weight of approximately 76 kilodaltons. The enzyme contains eight asparagine-linked glycosylation sites occupied by complex oligosaccharide structures. The enzyme activity of idursulfase is dependent on the post-translational modification of a specific cysteine to formylglycine.
+4. Indication:  For the treatment of Hunter syndrome in adults and children ages 5 and older.
+DrugId:  16
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  17
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  19
+1. Name:  Taliglucerase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Taliglucerase alfa is the recombinant active form of the human lysosomal enzyme, β-glucocerebrosidase. It was approved in 2012 and is marketed under the name Elelyso for use in patients with type 1 Gaucher's disease.
+4. Indication:  For the treatment of adult Type 1 Gaucher disease. 
+DrugId:  20
+1. Name:  Guanadrel
+2. Groups:  Approved
+3. Description:  Guanadrel is a postganglionic adrenergic blocking agent. Uptake of guanadrel and storage in sympathetic neurons occurs via the norepinephrine pump or transporter.
+4. Indication:  Used to treat and control hypertension.
+DrugId:  21
+1. Name:  Butylamine
+2. Groups:  Experimental
+3. Description:  Butylamine is an organic compound, specifically, an amine. This colourless liquid is one of the four isomeric amines of butane, the others being sec-butylamine, tert-butylamine and isobutylamine. At standard temperature and pressure, n-butylamine is a liquid having the fishy, ammonia-like odor common to amines. The liquid acquires a yellow colour upon storage in air. It is soluble in all organic solvents. [Wikipedia]
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Calcium
+2. Groups:  Approved, Nutraceutical
+3. Description:  Calcium plays a vital role in the anatomy, physiology and biochemistry of organisms and of the cell, particularly in signal transduction pathways. The skeleton acts as a major mineral storage site for the element and releases Ca2+ ions into the bloodstream under controlled conditions. Circulating calcium is either in the free, ionized form or bound to blood proteins such as serum albumin. Although calcium flow to and from the bone is neutral, about 5 mmol is turned over a day. Bone serves as an important storage point for calcium, as it contains 99% of the total body calcium. Low calcium intake may also be a risk factor in the development of osteoporosis. The best-absorbed form of calcium from a pill is a calcium salt like carbonate or phosphate. Calcium gluconate and calcium lactate are absorbed well by pregnant women. Seniors absorb calcium lactate, gluconate and citrate better unless they take their calcium supplement with a full breakfast.
+4. Indication:  Calcium plays a vital role in the anatomy, physiology and biochemistry of organisms and of the cell, particularly in signal transduction pathways. It is vital in cell signaling, muscular contractions, bone health, and signalling cascades.
+DrugId:  23
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  24
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  25
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available

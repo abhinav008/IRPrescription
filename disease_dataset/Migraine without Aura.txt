@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Almotriptan
+2. Groups:  Approved, Investigational
+3. Description:  Almotriptan is a triptan drug for the treatment of migraine headaches. Almotriptan is in a class of medications called selective serotonin receptor agonists. It works by narrowing blood vessels in the brain, stopping pain signals from being sent to the brain, and stopping the release of certain natural substances that cause pain, nausea, and other symptoms of migraine. Almotriptan does not prevent migraine attacks.
+4. Indication:  For the treatment of acute migraine headache in adults
+DrugId:  2
+1. Name:  Dihydroergotamine
+2. Groups:  Approved, Investigational
+3. Description:  A 9,10alpha-dihydro derivative of ergotamine. It is used as a vasoconstrictor, specifically for the therapy of migraine disorders.
+4. Indication:  For the acute treatment of migraine headaches with or without aura and the acute treatment of cluster headache episodes.
+DrugId:  3
+1. Name:  Eletriptan
+2. Groups:  Approved, Investigational
+3. Description:  Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches. [Wikipedia]
+4. Indication:  For the acute treatment of migraine with or without aura in adults.
+DrugId:  4
+1. Name:  Naratriptan
+2. Groups:  Approved, Investigational
+3. Description:  Naratriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  5
+1. Name:  Frovatriptan
+2. Groups:  Approved, Investigational
+3. Description:  Frovatriptan is a triptan drug developed by Vernalis for the treatment of migraine headaches, in particular those associated with menstruation. Frovatriptan causes vasoconstriction of arteries and veins that supply blood to the head.
+4. Indication:  For the acute treatment of migraine attacks with or without aura in adults.
+DrugId:  6
+1. Name:  Rizatriptan
+2. Groups:  Approved
+3. Description:  Rizatriptan is a triptan drug used for the treatment of migraine headaches. It is a selective 5-hydroxytryptamine1 receptor subtype agonist.
+4. Indication:  For treatment of acute migraine attacks with or without aura.
+DrugId:  7
+1. Name:  Sumatriptan
+2. Groups:  Approved, Investigational
+3. Description:  A serotonin agonist that acts selectively at 5HT1 receptors. It is used in the treatment of migraine disorders. A transdermal patch version of sumatriptan is currently in phase I trials in the U.S. under the code name NP101 (NuPathe).
+4. Indication:  For the treatment of migraine attacks with or without aura.
+DrugId:  8
+1. Name:  NXN-188
+2. Groups:  Investigational
+3. Description:  NXN-188 is a first-in-class, dual-action small molecule incorporating both neuronal nitric oxide synthase (nNOS) inhibition and 5-HT agonism that is being developed for the treatment of acute migraine.
+4. Indication:  Investigated for use/treatment in migraine and cluster headaches.
+DrugId:  9
+1. Name:  Zolmitriptan
+2. Groups:  Approved, Investigational
+3. Description:  Zolmitriptan is a synthetic tryptamine derivative and appears as a white powder that is readily soluble in water. [Wikipedia]
+4. Indication:  For the acute treatment of adult migraine with or without auras.
+DrugId:  10
+1. Name:  ADX10059
+2. Groups:  Investigational
+3. Description:  ADX10059 is a metabotropic glutamate receptor 5 (mGluR5) negative allosteric modulator (NAM). The orally available small molecule drug candidate, which is highly specific for mGluR5, was discovered at Addex in 2003. It is developed for the treatment of GERD, migraine and anxiety.
+4. Indication:  Investigated for use/treatment in anxiety disorders, gastroesophageal reflux disease (GERD), and migraine and cluster headaches.
+DrugId:  11
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  12
+1. Name:  L-Tryptophan
+2. Groups:  Approved, Nutraceutical, Withdrawn
+3. Description:  An essential amino acid that is necessary for normal growth in infants and for nitrogen balance in adults. It is a precursor of indole alkaloids in plants. It is a precursor of serotonin (hence its use as an antidepressant and sleep aid). It can be a precursor to niacin, albeit inefficiently, in mammals.
+4. Indication:  Tryptophan may be useful in increasing serotonin production, promoting healthy sleep, managing depression by enhancing mental and emotional well-being, managing pain tolerance, and managing weight.
+DrugId:  13
+1. Name:  Rofecoxib
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Rofecoxib is used for the treatment of osteoarthritis, rheumatoid arthritis, acute pain in adults, and primary dysmenorrhea, as well as acute treatment of migraine attacks with or without auras. Rofecoxib is a solid. This compound belongs to the stilbenes. These are organic compounds containing a 1,2-diphenylethylene moiety. Stilbenes (C6-C2-C6 ) are derived from the common phenylpropene (C6-C3) skeleton building block. The introduction of one or more hydroxyl groups to a phenyl ring lead to stilbenoids. Rofecoxib has a half-life of 17 hours and its mean oral bioavailability at therapeutically recommended doses of 125, 25, and 50 mg is approximately 93%. The proteins that rofecoxib target include elastin and prostaglandin G/H synthase 2. Cytochrome P450 1A2, Cytochrome P450 3A4, Cytochrome P450 2C9, Cytochrome P450 2C8, and Prostaglandin G/H synthase 1 are known to metabolize rofecoxib. On September 30, 2004, Merck voluntarily withdrew rofecoxib from the market because of concerns about increased risk of heart attack and stroke associated with long-term, high-dosage use.
+4. Indication:  For the treatment of osteoarthritis, rheumatoid arthritis, acute pain in adults, and primary dysmenorrhea, as well as acute treatment of migraine attacks with or without auras.
+DrugId:  14
+1. Name:  Telcagepant
+2. Groups:  Investigational
+3. Description:  Telcagepant has been investigated for the treatment of Migraine. It is an antagonist of the receptor for calcitonin gene-related peptide (CGRP), a primary neuropeptide involved in the pathophysiology of migraine. CGRP and its receptors are found in areas of the central and peripheral nervous system that are important for the transmission of migraine pain. During migraine attacks, CGRP activates these receptors and facilitates the transmission of pain impulses.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Olcegepant
+2. Groups:  Investigational
+3. Description:  Boehringer Ingelheim Pharmaceuticals’ olcegepant (BIBN 4096) is a selective Calcitonin Gene-Related Peptide (CGRP) antagonist, a new class of drugs in development for the treatment of acute migraine attacks. Olcegepant is undergoing phase II trials in Europe and the US, with preliminary results suggesting that CGRP antagonists may represent a potential new approach to the treatment of migraine.
+4. Indication:  For the treatment of migraine headaches.
+DrugId:  16
+1. Name:  Lithium
+2. Groups:  Approved
+3. Description:  Lithium was used during the 19th century to treat gout. Lithium salts such as lithium carbonate (Li2CO3), lithium citrate, and lithium orotate are mood stabilizers. They are used in the treatment of bipolar disorder, since unlike most other mood altering drugs, they counteract both mania and depression. Lithium can also be used to augment other antidepressant drugs. It is also sometimes prescribed as a preventive treatment for migraine disease and cluster headaches. The active principle in these salts is the lithium ion Li+, which having a smaller diameter, can easily displace K+ and Na+ and even Ca+2, in spite of its greater charge, occupying their sites in several critical neuronal enzymes and neurotransmitter receptors.
+4. Indication:  Lithium is used as a mood stabilizer, and is used for treatment of depression and mania. It is often used in bipolar disorder treatment.
+DrugId:  17
+1. Name:  Caffeine
+2. Groups:  Approved
+3. Description:  A methylxanthine naturally occurring in some beverages and also used as a pharmacological agent. Caffeine's most notable pharmacological effect is as a central nervous system stimulant, increasing alertness and producing agitation. It also relaxes smooth muscle, stimulates cardiac muscle, stimulates diuresis, and appears to be useful in the treatment of some types of headache. Several cellular actions of caffeine have been observed, but it is not entirely clear how each contributes to its pharmacological profile. Among the most important are inhibition of cyclic nucleotide phosphodiesterases, antagonism of adenosine receptors, and modulation of intracellular calcium handling.
+4. Indication:  For management of fatigue, orthostatic hypotension, and for the short term treatment of apnea of prematurity in infants.
+DrugId:  18
+1. Name:  GW-274150
+2. Groups:  Investigational
+3. Description:  GW274150 has been used in trials studying the treatment and prevention of Asthma, Migraine, Migraine Disorders, and Arthritis, Rheumatoid.
+4. Indication:  Not Available
+DrugId:  19
+1. Name:  Lasmiditan
+2. Groups:  Investigational
+3. Description:  Lasmiditan has been used in trials studying the basic science and treatment of Migraine, Pharmacokinetics, Migraine Disorders, and Bioavailability Under Fed and Fasted Conditions.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.
+DrugId:  21
+1. Name:  MK-3207
+2. Groups:  Investigational
+3. Description:  Mk3207 has been used in trials studying the treatment of Migraine and Migraine Disorders.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  DP-VPA
+2. Groups:  Investigational
+3. Description:  DP-VPA is D-Pharm's proprietary lipid modified version of valproic acid (VPA) that demonstrate that DP-VPA is well-tolerated in patients with resistant epilepsy and has a marked effect on reducing seizure frequency.
+4. Indication:  Investigated for use/treatment in bipolar disorders, epilepsy, and migraine and cluster headaches.
+DrugId:  23
+1. Name:  Dotarizine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in migraine and cluster headaches.
+DrugId:  24
+1. Name:  Rimegepant
+2. Groups:  Investigational
+3. Description:  Rimegepant has been investigated for the treatment of Migraine.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  LY-2300559
+2. Groups:  Investigational
+3. Description:  Ly2300559 has been used in trials studying the prevention of Migraine Headache.
+4. Indication:  Not Available

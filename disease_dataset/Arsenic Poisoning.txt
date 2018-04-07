@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Dimercaprol
+2. Groups:  Approved
+3. Description:  Dimercaprol is a traditional chelating agent developed by British biochemists at Oxford University during World War II. It was developed as an experimental antidote against the arsenic-based poison gas Lewisite. It has been used clinically since 1949 in arsenic, cadmium and mercury poisoning. In addition, it has in the past been used for the treatment of Wilson's disease, a genetic disorder in which the body tends to retain copper. Dimercaprol is a potentially toxic drug, and its use may be accompanied by multiple side effects.
+4. Indication:  For the treatment of arsenic, gold and mercury poisoning. Indicated in acute lead poisoning when used concomitantly with edetate calcium disodium (DB00974).
+DrugId:  2
+1. Name:  Succimer
+2. Groups:  Approved
+3. Description:  A mercaptodicarboxylic acid used as an antidote to heavy metal poisoning because it forms strong chelates with them. [PubChem]
+4. Indication:  For the treatment of lead poisoning in pediatric patients with blood lead levels above 45 µg/dL. May also be used to treat mercury or arsenic poisoning.
+DrugId:  3
+1. Name:  Arsenous acid
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Arsenic trioxide
+2. Groups:  Approved, Investigational
+3. Description:  Arsenic trioxide is a chemotheraputic agent of idiopathic function used to treat leukemia that is unresponsive to first line agents. It is suspected that arsenic trisulfide induces cancer cells to undergo apoptosis. Due to the toxic nature of arsenic, this drug carries significant health risks. The enzyme thioredoxin reductase has recently been identified as a target for arsenic trioxide.
+4. Indication:  For induction of remission and consolidation in patients with acute promyelocytic leukemia (APL), and whose APL is characterized by the presence of the t(15;17) translocation or PML/RAR-alpha gene expression
+DrugId:  5
+1. Name:  Edetic Acid
+2. Groups:  Approved, Vet approved
+3. Description:  A chelating agent (chelating agents) that sequesters a variety of polyvalent cations. It is used in pharmaceutical manufacturing and as a food additive. [PubChem]
+4. Indication:  For the reduction of blood levels and depot stores of lead in lead poisoning (acute and chronic) and lead encephalopathy, in both pediatric populations and adults.
+DrugId:  6
+1. Name:  Activated charcoal
+2. Groups:  Approved
+3. Description:  Activated charcoal, or activated carbon, is an amorphous form of carbon prepared from incomplete combustion of carbonaceous organic matter. It is activated by an oxidizing gas flow at high temperature passed over its surface to make a fine network of pores, producing a material with large surface area and high affinity for various substances. It is used as a gastric decontaminant and emergency medication to treat poisonings following excessive oral ingestion of certain medications or poisons by absorbing most drugs and toxins. However its effects is rendered poor on some compounds including strong acids or bases, methanol and substances with limited absorptive capacity (including iron, lithium, arsenic). It works by binding to the poison in the gastric contents in a reversible fashion thus may be adminstered together with a cathartic to reduce the small intestine transit time. The clinical applications of activated charcoal occured in the early 1800's. While this management for acute poisoning is considered fairly invasive, it is on the World Health Organization's List of Essential Medicines that includes the most important medications needed in a basic health system.
+4. Indication:  Used as a antidote to treat poisonings following excessive oral ingestion of certain medications or poisons. 
+DrugId:  7
+1. Name:  S-(Dimethylarsenic)Cysteine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Thiarsahydroxy-Cysteine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Thiarsa Dihydroxy Cysteine
+2. Groups:  Experimental
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Darinaparsin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in blood (blood forming organ disorders, unspecified), cancer/tumors (unspecified), solid tumors, multiple myeloma, and liver cancer.
+DrugId:  11
+1. Name:  Melarsoprol
+2. Groups:  Investigational
+3. Description:  Melarsoprol is under investigation in clinical trial NCT00330148 (Randomized Clinical Trial of Three Drug Combinations for Late-Stage Gambiense Human African Trypanosomiasis).
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Emeramide
+2. Groups:  Investigational
+3. Description:  Emeramide has been used in trials studying the treatment of Mercury Poisoning.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Arsthinol
+2. Groups:  Approved
+3. Description:  Arsthinol (INN) is an antiprotozoal agent. It was synthesized for the first time in 1949 by Ernst A.H. Friedheim by complexation of acetarsol with 2,3-dimercaptopropanol (British anti-Lewisite) and has been demonstrated to be effective against amoebiasis and yaws. It was marketed few years latter by Endo Products (Balarsen, Tablets, 0.1 g). Among trivalent organoarsenicals, arthinol was considered as very well tolerated. Recently, it was studied for its anticancer activity. [Wikipedia]
+4. Indication:  Antiprotozoal agent effective against amoebiasis and yaws.
+DrugId:  14
+1. Name:  Fomepizole
+2. Groups:  Approved, Vet approved
+3. Description:  Fomepizole is used as an antidote in confirmed or suspected methanol or ethylene glycol poisoning. Fomepizole is a competitive inhibitor of alcohol dehydrogenase, the enzyme that catalyzes the initial steps in the metabolism of ethylene glycol and methanol to their toxic metabolites.
+4. Indication:  Antizol is indicated as an antidote for ethylene glycol (such as antifreeze) or methanol poisoning, or for use in suspected ethylene glycol or methanol ingestion, either alone or in combination with hemodialysis
+DrugId:  15
+1. Name:  Thiabendazole
+2. Groups:  Approved, Vet approved
+3. Description:  2-Substituted benzimidazole first introduced in 1962. It is active against a variety of nematodes and is the drug of choice for strongyloidiasis. It has CNS side effects and hepatototoxic potential. (From Smith and Reynard, Textbook of Pharmacology, 1992, p919)
+4. Indication:  For the treatment of strongyloidiasis (threadworm), cutaneous larva migrans (creeping eruption), visceral larva migrans, and trichinosis.
+DrugId:  16
+1. Name:  Picrotoxin
+2. Groups:  Experimental
+3. Description:  A noncompetitive antagonist at GABA-A receptors and thus a convulsant. Picrotoxin blocks the gamma-aminobutyric acid-activated chloride ionophore. Although it is most often used as a research tool, it has been used as a CNS stimulant and an antidote in poisoning by CNS depressants, especially the barbiturates. [PubChem]
+4. Indication:  Used internally for relieving respiratory distress. Also for use as an antidote in poisoning by CNS depressants, especially barbiturates.
+DrugId:  17
+1. Name:  Thiosulfuric acid
+2. Groups:  Approved, Investigational
+3. Description:  Thiosulfuric acid (as sodium thiosulfate) has the chemical name thiosulfuric acid, disodium salt, pentahydrate. The chemical formula is Na2S2O3•5H2O and the molecular weight is 248.17. Sodium Thiosulfate Injection is a cyanide antidote which contains one 50 mL glass vial containing a 25% solution of Sodium Thiosulfate Injection.It has been indicated as antidote for cyanide poisoning. It is also used as adjunct agent for patients taking cisplatin chemotherapy. Beside the above indications, sodium thiosulfate could be used as ingredient in the following: agricultural chemicals (non-pesticidal), fillers, intermediates, laboratory chemicals, oxidizing/reducing agents, process regulators, processing aids, and solids separation agents.
+4. Indication:  Antidote: Sodium thiosulfate is indicated to counteract or neutralize actions of poisons, e.g. cyanide poisoning.Antineoplastic adjunct: 
+DrugId:  18
+1. Name:  Amyl Nitrite
+2. Groups:  Approved
+3. Description:  Amyl Nitrite is an antihypertensive medicine. Amyl nitrite is employed medically to treat heart diseases such as angina and to treat cyanide poisoning. Like other alkyl nitrites, amyl nitrite is bioactive in mammals, being a vasodilator which is the basis of its use as a prescription medicine. As an inhalant, it also has psychoactive effect which has led to illegal drug use.
+4. Indication:  For the rapid relief of angina pectoris.
+DrugId:  19
+1. Name:  Mercurochrome
+2. Groups:  Experimental
+3. Description:  Mercurochrome is a trade name of merbromin. It is an organomercuric disodium salt compound and a fluorescein that is available in many countries, except Switzerland, France, Germany, and the United States where the drug was withdrawn from market due to the possibility of mercury poisoning. It is commonly used as a topical first-aid antiseptic agent.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Talbutal
+2. Groups:  Approved, Illicit
+3. Description:  Talbutal, also called 5-allyl-5-sec-butylbarbituric acid, is a barbiturate with a short to intermediate duration of action. Talbutal is a schedule III drug in the U.S.
+4. Indication:  For use as a sedative and hypnotic.
+DrugId:  21
+1. Name:  Nitrous acid
+2. Groups:  Approved, Investigational
+3. Description:  Nitrous acid (as sodium nitrite) is used as part of an intravenous mixture with sodium thiosulfate to treat cyanide poisoning. It is on the World Health Organization's List of Essential Medicines, a list of the most important medications needed in a basic health system. There is also research to investigate its applicability towards treatments for heart attacks, brain aneurysms, pulmonary hypertension in infants, and Pseudomonas aeruginosa infections.
+4. Indication:  For sequential use with sodium thiosulfate for the treatment of acute cyanide poisoning that is judged to be life-threatening [FDA Label].
+DrugId:  22
+1. Name:  Silibinin A
+2. Groups:  Experimental, Investigational
+3. Description:  Silibinin is the major active constituent of silymarin, a standardized extract of the milk thistle seeds, containing a mixture of flavonolignans consisting of silibinin, isosilibinin, silicristin, silidianin and others. Silibinin itself is mixture of two diastereomers, silybin A and silybin B, in approximately equimolar ratio. Both in vitro and animal research suggest that silibinin has hepatoprotective (antihepatotoxic) properties that protect liver cells against toxins. Silibinin has also demonstrated in vitro anti-cancer effects against human prostate adenocarcinoma cells, estrogen-dependent and -independent human breast carcinoma cells, human ectocervical carcinoma cells, human colon cancer cells, and both small and nonsmall human lung carcinoma cells.
+4. Indication:  Currently being tested as a treatment of severe intoxications with hepatotoxic substances, such as death cap (Amanita phalloides) poisoning.
+DrugId:  23
+1. Name:  Pralidoxime
+2. Groups:  Approved, Vet approved
+3. Description:  Pralidoxime is an antidote to organophosphate pesticides and chemicals. Organophosphates bind to the esteratic site of acetylcholinesterase, which results initially in reversible inactivation of the enzyme. If given within 24 hours,after organophosphate exposure, pralidoxime reactivates the enzyme cholinesterase by cleaving the phosphate-ester bond formed between the organophosphate and acetylcholinesterase.
+4. Indication:  For the treatment of poisoning due to those pesticides and chemicals of the organophosphate class which have anticholinesterase activity and in the control of overdosage by anticholinesterase drugs used in the treatment of myasthenia gravis.
+DrugId:  24
+1. Name:  Tofisopam
+2. Groups:  Approved
+3. Description:  Tofisopam (marketed under brand names Emandaxin and Grandaxin) is a 2,3-benzodiazepine drug which is a benzodiazepine derivative. In contrast to classical 1,4-benzodiazepines, the compound does not bind to the benzodiazepine binding site of the gamma-aminobutyric acid receptor and its psychopharmacological profile differs from such compounds. Although Tofisopam is not approved for sale in North America, it is approved for use in various countries worldwide, including parts of Europe. The D-enantiomer (dextofisopam) is currently in phase II trials in the U.S. for the treatment of irritable bowel syndrome.
+4. Indication:  For the treatment of anxiety and alcohol withdrawal.
+DrugId:  25
+1. Name:  Bufotenine
+2. Groups:  Experimental, Illicit
+3. Description:  A hallucinogenic serotonin analog found in frog or toad skins, mushrooms, higher plants, and mammals, especially in the brains, plasma, and urine of schizophrenics. Bufotenin has been used as a tool in CNS studies and misused as a psychedelic.
+4. Indication:  Not Available

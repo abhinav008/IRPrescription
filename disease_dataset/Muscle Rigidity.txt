@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Baclofen
+2. Groups:  Approved
+3. Description:  Baclofen is a gamma-amino-butyric acid (GABA) derivative used as a skeletal muscle relaxant. Baclofen stimulates GABA-B receptors leading to decreased frequency and amplitude of muscle spasms. It is especially useful in treating muscle spasticity associated with spinal cord injury. It appears to act primarily at the spinal cord level by inhibiting spinal polysynaptic afferent pathways and, to a lesser extent, monosynaptic afferent pathways. 
+4. Indication:  For the alleviation of signs and symptoms of spasticity resulting from multiple sclerosis, particularly for the relief of flexor spasms and concomitant pain, clonus, and muscular rigidity.
+DrugId:  2
+1. Name:  Orphenadrine
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used to treat drug-induced parkinsonism and to relieve pain from muscle spasm. [PubChem]
+4. Indication:  Indicated for the treatment of Parkinson's disease.
+DrugId:  3
+1. Name:  Alprostadil
+2. Groups:  Approved, Investigational
+3. Description:  Alprostadil is produced endogenously and causes vasodilation by means of a direct effect on vascular and ductus arteriosus (DA) smooth muscle, preventing or reversing the functional closure of the DA that occurs shortly after birth. This results in increased pulmonary or systemic blood flow in infants. In infants, it is used for palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. In adults, it is used for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+4. Indication:  For palliative, not definitive, therapy to temporarily maintain the patency of the ductus arteriosus until corrective or palliative surgery can be performed in neonates who have congenital heart defects and who depend upon the patent ductus for survival. Also for the treatment of erectile dysfunction due to neurogenic, vasculogenic, psychogenic, or mixed etiology.
+DrugId:  4
+1. Name:  Trimipramine
+2. Groups:  Approved
+3. Description:  Tricyclic antidepressant similar to imipramine, but with more antihistaminic and sedative properties. [PubChem]
+4. Indication:  For the treatment of depression and depression accompanied by anxiety, agitation or sleep disturbance
+DrugId:  5
+1. Name:  Pergolide
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  Pergolide is a long-acting dopamine agonist approved in 1982 for the treatment of Parkinson’s Disease. It is an ergot derivative that acts on the dopamine D2 and D3, alpha2- and alpha1-adrenergic, and 5-hydroxytryptamine (5-HT) receptors. It was indicated as adjunct therapy with levodopa/carbidopa in the symptomatic treatment of parkinsonian syndrome. It was later found that pergolide increased the risk of cardiac valvulopathy. The drug was withdrawn from the US market in March 2007 and from the Canadian market in August 2007.
+4. Indication:  Indicated as adjunctive treatment to levodopa/carbidopa in the management of the signs and symptoms of Parkinson's disease. It was withdrawn from the US and Canadian markets in 2007 due to an increased risk of cardiac valvulopathy. 
+DrugId:  6
+1. Name:  Cabergoline
+2. Groups:  Approved
+3. Description:  Cabergoline, an ergot derivative, is a long-acting dopamine agonist and prolactin inhibitor. It is used to treat hyperprolactinemic disorders and Parkinsonian Syndrome. Cabergoline possesses potent agonist activity on dopamine D2 receptors. 
+4. Indication:  For the treatment of hyperprolactinemic disorders, either idiopathic or due to prolactinoma (prolactin-secreting adenomas). May also be used to manage symptoms of Parkinsonian Syndrome as monotherapy during initial symptomatic management or as an adjunct to levodopa therapy during advanced stages of disease. 
+DrugId:  7
+1. Name:  Moclobemide
+2. Groups:  Approved, Investigational
+3. Description:  A reversible monoamine oxidase inhibitor (MAOI) selective for isoform A (RIMA) used to treat major depressive disorder. Most meta-analyses and most studies indicate that in the acute management of depression, moclobemide is more efficacious than placebo medication and similarly efficacious as tricyclic antidepressants (TCA) or selective serotonin reuptake inhibitors (SSRIs). Due to negligible anticholinergic and antihistaminic actions, moclobemide has been better tolerated than tri- or heterocyclic antidepressants [A3901].
+4. Indication:  For the treatment of major depressive disorder and bipolar disorder [1].
+DrugId:  8
+1. Name:  Bromocriptine
+2. Groups:  Approved, Investigational
+3. Description:  Bromocriptine mesylate is a semisynthetic ergot alkaloid derivative with potent dopaminergic activity. It is indicated for the management of signs and symptoms of Parkinsonian Syndrome. Bromocriptine also inhibits prolactin secretion and may be used to treat dysfunctions associated with hyperprolactinemia. It also causes sustained suppression of somatotropin (growth hormone) secretion in some patients with acromegaly. Bromocriptine has been associated with pulmonary fibrosis. 
+4. Indication:  For the treatment of galactorrhea due to hyperprolactinemia, prolactin-dependent menstrual disorders and infertility, prolactin-secreting adenomas, prolactin-dependent male hypogonadism, as adjunct therapy to surgery or radiotherapy for acromegaly or as monotherapy is special cases, as monotherapy in early Parksinsonian Syndrome or as an adjunct with levodopa in advanced cases with motor complications. Bromocriptine has also been used off-label to treat restless legs syndrome and neuroleptic malignant syndrome.
+DrugId:  9
+1. Name:  Methocarbamol
+2. Groups:  Approved, Vet approved
+3. Description:  A centrally acting muscle relaxant whose mode of action has not been established. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1206)
+4. Indication:  For use as an adjunct to rest, physical therapy, and other measures for the relief of discomforts associated with acute, painful musculoskeletal conditions.
+DrugId:  10
+1. Name:  L-aminocarnityl-succinyl-leucyl-argininal-diethylacetal
+2. Groups:  Investigational
+3. Description:  C-101, also called Myodur, is developed for the treatment of Duchenne’s muscular dystrophy (DMD) which is a morbid genetic disease that can lead to death in late adolescence due to accelerated skeletal muscle breakdown. C-101 includes a carnitine carrier molecule and a leupeptin analogue, a known calpain inhibitor. Calpain is the primary protease that degrades skeletal muscle.
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  11
+1. Name:  Alverine
+2. Groups:  Approved, Investigational
+3. Description:  Alverine is a smooth muscle relaxant. Smooth muscle is a type of muscle that is not under voluntary control; it is the muscle present in places such as the gut and uterus. Alverine acts directly on the muscle in the gut, causing it to relax. This prevents the muscle spasms which occur in the gut in conditions such as irritable bowel syndrome and diverticular disease. It is used to relieve cramps or spasms of the stomach and intestines. It is also useful in treating irritable bowel syndrome (IBS) and similar conditions. It can also be used to help relieve period pain. Alverine is formulated as the citrate salt (5982-87-6).
+4. Indication:  Used to relieve cramps or spasms of the stomach and intestines. It is also useful in treating irritable bowel syndrome (IBS) and similar conditions. It can also be used to help relieve period pain. Alverine citrate is also under investigation to increase the cytotoxic effects of the proteasome inhibitor MG132 on breast cancer cells. 
+DrugId:  12
+1. Name:  Atracurium
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  MYO-029
+2. Groups:  Investigational
+3. Description:  MYO-029 is a human anti-GDF-8 monoclonal antibody, which is being developed to treat muscle-wasting diseases including muscular dystrophy and age-related sarcopenia. 
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  14
+1. Name:  Cyclobenzaprine
+2. Groups:  Approved
+3. Description:  Cyclobenzaprine is a skeletal muscle relaxant and a central nervous system (CNS) depressant. Cyclobenzaprine acts on the locus coeruleus where it results in increased norepinephrine release, potentially through the gamma fibers which innervate and inhibit the alpha motor neurons in the ventral horn of the spinal cord. It is structurally similar to Amitriptyline, differing by only one double bond.
+4. Indication:  For use as an adjunct to rest and physical therapy for relief of muscle spasm associated with acute, painful musculoskeletal conditions.
+DrugId:  15
+1. Name:  Alfentanil
+2. Groups:  Approved, Illicit
+3. Description:  A short-acting opioid anesthetic and analgesic derivative of fentanyl. It produces an early peak analgesic effect and fast recovery of consciousness. Alfentanil is effective as an anesthetic during surgery, for supplementation of analgesia during surgical procedures, and as an analgesic for critically ill patients. [PubChem]
+4. Indication:  For the management of postoperative pain and the maintenance of general anesthesia.
+DrugId:  16
+1. Name:  Decamethonium
+2. Groups:  Approved
+3. Description:  Decamethonium is a short acting depolarizing muscle relaxant or neuromuscular blocking agent, and is used in anesthesia to induce paralysis. It is similar to acetylcholine and acts as a partial agonist of the nicotinic acetylcholine receptor.
+4. Indication:  For use as a skeletal muscle relaxant
+DrugId:  17
+1. Name:  Hexafluronium
+2. Groups:  Approved
+3. Description:  Hexafluronium bromide is a neuromuscular blocking agent used in anesthesiology to prolong and potentiate the skeletal muscle relaxing action of suxamethonium during surgery. It is known to bind and block the activity of plasma cholinesterases.
+4. Indication:  Used as an adjunct with succinylcholine (or suxamethonium chloride) to prolong muscle relaxation and to prevent succinylcholine-induced muscle fasciculations.
+DrugId:  18
+1. Name:  Dantrolene
+2. Groups:  Approved, Investigational
+3. Description:  Chemically, dantrolene is a hydantoin derivative, but does not exhibit antiepileptic activity like other hydantoin derivates such as phenytoin.
+4. Indication:  For use, along with appropriate supportive measures, for the management of the fulminant hypermetabolism of skeletal muscle characteristic of malignant hyperthermia crises in patients of all ages. Also used preoperatively, and sometimes postoperatively, to prevent or attenuate the development of clinical and laboratory signs of malignant hyperthermia in individuals judged to be malignant hyperthermia susceptible.
+DrugId:  19
+1. Name:  AZX-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in scar tissue.
+DrugId:  20
+1. Name:  Maprotiline
+2. Groups:  Approved, Investigational
+3. Description:  Maprotiline is a tetracyclic antidepressant with similar pharmacological properties to tricyclic antidepressants (TCAs). Similar to TCAs, maprotiline inhibits neuronal norepinephrine reuptake, possesses some anticholinergic activity, and does not affect monoamine oxidase activity. It differs from TCAs in that it does not appear to block serotonin reuptake. Maprotiline may be used to treat depressive affective disorders, including dysthymic disorder (depressive neurosis) and major depressive disorder. Maprotiline is effective at reducing symptoms of anxiety associated with depression. 
+4. Indication:  For treatment of depression, including the depressed phase of bipolar depression, psychotic depression, and involutional melancholia, and may also be helpful in treating certain patients suffering severe depressive neurosis.
+DrugId:  21
+1. Name:  Gallamine Triethiodide
+2. Groups:  Approved
+3. Description:  A synthetic nondepolarizing blocking drug. The actions of gallamine triethiodide are similar to those of tubocurarine, but this agent blocks the cardiac vagus and may cause sinus tachycardia and, occasionally, hypertension and increased cardiac output. It should be used cautiously in patients at risk from increased heart rate but may be preferred for patients with bradycardia. (From AMA Drug Evaluations Annual, 1992, p198)
+4. Indication:  For use as adjuncts to anesthesia to induce skeletal muscle relaxation and to facilitate the management of patients undergoing mechanical ventilation
+DrugId:  22
+1. Name:  Carisoprodol
+2. Groups:  Approved
+3. Description:  A centrally acting skeletal muscle relaxant whose mechanism of action is not completely understood but may be related to its sedative actions. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute, painful, musculoskeletal conditions.
+DrugId:  23
+1. Name:  R450
+2. Groups:  Investigational
+3. Description:  R450 is an alpha 1 antagonist that acts to tighten the muscle tone in the bladder. It is being considered for treatment of stress-related urinary incontinence. Phase IIa data for the drug show it reduced the number of incontinent episodes compared to placebo with minimal cardiovascular effects.
+4. Indication:  Investigated for use/treatment in urinary incontinence.
+DrugId:  24
+1. Name:  ALKS 27
+2. Groups:  Investigational
+3. Description:  ALKS 27 is an inhaled formulation of trospium chloride for the treatment of chronic obstructive pulmonary disease (COPD). Study showed that ALKS 27 was well-tolerated over a wide dose range, with no dose-limited effects observed.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  25
+1. Name:  Ligandrol
+2. Groups:  Investigational
+3. Description:  Ligandrol is an investigational selective androgen receptor modulator (SARM) for treatment of conditions such as muscle wasting and osteoporosis.
+4. Indication:  Not Available

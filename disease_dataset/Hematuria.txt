@@ -1,0 +1,65 @@
+DrugId:  1
+1. Name:  Phosphoric acid
+2. Groups:  Approved
+3. Description:  Phosphoric Acid is a colorless, odorless phosphorus-containing inorganic acid. Phosphoric acid is a sequestering agent which binds many divalent cations, including Fe++, Cu++, Ca++, and Mg++.
+4. Indication:  Phosphoric acid is used in dentistry and orthodontics as an etching solution, to clean and roughen the surfaces of teeth where dental appliances or fillings will be placed.
+DrugId:  2
+1. Name:  Canfosfamide
+2. Groups:  Investigational
+3. Description:  Canfosfamide is an active agent in chemotherapy-resistant ovarian cancer.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  3
+1. Name:  Ferric pyrophosphate
+2. Groups:  Experimental
+3. Description:  Ferric pyrophosphate is an iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate.[1] It presents an increasing interest as this insoluble form can be milder in the gastrointestinal tract and present higher bioavailability.[10]
+4. Indication:  Ferric pyrophosphate is intended to be indicated for the treatment of iron loss or iron deficiency as a formulation with a milder gastrointestinal effect.[9, 10] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  4
+1. Name:  Sodium aurothiomalate
+2. Groups:  Approved, Investigational
+3. Description:  Sodium aurothiomalate is a gold compound that is used for its immunosuppressive anti-rheumatic effects. Gold Sodium Thiomalate is supplied as a solution for intramuscular injection containing 50 mg of Gold Sodium Thiomalate per mL. It is most effective in active progressive rheumatoid arthritis and of little or no value in the presence of extensive deformities or in the treatment of other forms of arthritis.
+4. Indication:  As anti-inflammatory agent for the treatment of arthritis. Disease-modifying antirheumatic drug, DMARD.
+DrugId:  5
+1. Name:  Ferric pyrophosphate citrate
+2. Groups:  Approved, Investigational
+3. Description:  Ferric pyrophosphate citrate is a soluble iron replacement product. Free iron presents several side effects as it can catalyze free radical formation and lipid peroxidation as well as the presence of interactions of iron in plasma. The ferric ion is strongly complexed by pyrophosphate and citrate.[1] FPC is categorized in Japan as a second class OTC drug.[6] This category is given to drugs with ingredients that in rare cases may cause health problems requiring hospitalization or worst.[7] It is also FDA approved since 2015.[FDA Label]
+4. Indication:  Ferric pyrophosphate citrate is indicated for the treatment of iron loss or iron deficiency to maintain hemoglobin and to reduce the prescribed dose of erythropoiesis-stimulating agent (ESA) required to maintain desired hemoglobin levels.[8] Iron deficiency appears when the dietary intake does not meet the body's requirement or when there is chronic external blood loss. During acute blood loss, body iron stores are sufficient for accelerated erythropoiesis and restoration of iron homeostasis. But when the altered homeostasis remains for weeks to months then some supplement is needed. Some causes of iron deficiency include ectoparasitism, endoparasitism, hematuria, epistaxis, hemorrhagic skin, coagulopathy, thrombocytopenia, thrombocytopathia and gastrointestinal hemorrhage.[2]
+DrugId:  6
+1. Name:  Phylloquinone
+2. Groups:  Approved, Investigational
+3. Description:  Phylloquinone is often called vitamin K1. It is a fat-soluble vitamin that is stable to air and moisture but decomposes in sunlight. It is found naturally in a wide variety of green plants. Phylloquinone is also an antidote for coumatetralyl. Vitamin K is needed for the posttranslational modification of certain proteins, mostly required for blood coagulation.
+4. Indication:  For the treatment of haemorrhagic conditions in infants, antidote for coumarin anticoagulants in hypoprothrombinaemia.
+DrugId:  7
+1. Name:  Enzalutamide
+2. Groups:  Approved
+3. Description:  Enzalutamide is an androgen receptor inhibitor for the treatment of castration-resistant prostate cancer. FDA approved on August 31, 2012.
+4. Indication:  Enzalutamide is indicated for the treatment of patients with metastatic castration-resistant prostate cancer who have previously received docetaxel.
+DrugId:  8
+1. Name:  Nafcillin
+2. Groups:  Approved, Investigational
+3. Description:  A semi-synthetic antibiotic related to penicillin, Naficillin is a narrow-spectrum beta-lactam antibiotic drug. It is a beta-lactamase-resistant penicillin that is indicated for the treatment of Staphylococcal infections caused by strains that are resistant to other penicillins, except those caused by MRSA. It may be used as a first-line therapy in Methicillin-Sensitive Staphylococcus aureus infections [1].
+4. Indication:  Indicated in the treatment of infections caused by penicillinase-producing staphylococci which have demonstrated susceptibility to the drug. 
+DrugId:  9
+1. Name:  Phenprocoumon
+2. Groups:  Approved, Investigational
+3. Description:  Coumarin derivative that acts as a long acting oral anticoagulant. [PubChem]
+4. Indication:  Used for the prevention and treatment of thromboembolic disease including venous thrombosis, thromboembolism, and pulmonary embolism as well as for the prevention of ischemic stroke in patients with atrial fibrillation (AF).
+DrugId:  10
+1. Name:  Latamoxef
+2. Groups:  Approved, Investigational
+3. Description:  Broad- spectrum beta-lactam antibiotic similar in structure to the cephalosporins except for the substitution of an oxaazabicyclo moiety for the thiaazabicyclo moiety of certain cephalosporins. It has been proposed especially for the meningitides because it passes the blood-brain barrier and for anaerobic infections. [PubChem]
+4. Indication:  Latamoxef is an oxacephem antibiotic usually grouped with the cephalosporins. It is used to treat bacterial infections. Latamoxef is primarily indicated in conditions like Bone and joint infection, GI infections, Gynecological infections, Meningitis, Respiratory tract infections, Septicaemia, Skin infections, Soft tissue infections, UTI. 
+DrugId:  11
+1. Name:  Colchicine
+2. Groups:  Approved
+3. Description:  A major alkaloid from Colchicum autumnale L. and found also in other Colchicum species. Its primary therapeutic use is in the treatment of gout, but it has been used also in the therapy of familial Mediterranean fever (periodic disease). [PubChem]
+4. Indication:  For treatment and relief of pain in attacks of acute gouty arthritis.
+DrugId:  12
+1. Name:  Triptorelin
+2. Groups:  Approved, Vet approved
+3. Description:  Triptorelin is a synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH). Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion. After chronic, continuous administration, this agent effects sustained decreases in LH and FSH production and testicular and ovarian steroidogenesis. Serum testosterone concentrations may fall to levels typically observed in surgically castrated men.
+4. Indication:  Triptorelin is indicated for the palliative treatment of advanced prostate cancer.
+DrugId:  13
+1. Name:  Amoxicillin
+2. Groups:  Approved, Vet approved
+3. Description:  A broad-spectrum semisynthetic antibiotic similar to ampicillin except that its resistance to gastric acid permits higher serum levels with oral administration. Amoxicillin is commonly prescribed with clauvanic acid (a beta lactamase inhibitor) as it is susceptible to beta-lacatamase degradation.
+4. Indication:  For the treatment of infections of the ear, nose, and throat, the genitourinary tract, the skin and skin structure, and the lower respiratory tract due to susceptible (only b-lactamase-negative) strains of Streptococcus spp. (a- and b-hemolytic strains only), S. pneumoniae, Staphylococcus spp., H. influenzae, E. coli, P. mirabilis, or E. faecalis. Also for the treatment of acute, uncomplicated gonorrhea (ano-genital and urethral infections) due to N. gonorrhoeae (males and females).

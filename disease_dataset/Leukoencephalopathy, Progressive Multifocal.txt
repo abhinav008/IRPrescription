@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Obinutuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Obinutuzumab is a humanized monoclonal antibody used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia. It was approved by the FDA in November 2013 and is marketed under the brand name Gazyva. There is a black box warning of fatal Hepatitis B Virus (HBV) reactivation and fatal Progressive Multifocal Leukoencephalopathy (PML).
+4. Indication:  Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
+DrugId:  2
+1. Name:  Brentuximab vedotin
+2. Groups:  Approved, Investigational
+3. Description:  Brentuximab vedotin, also known as Adcetris®, is an antibody-drug conjugate that combines an anti-CD30 antibody with the drug monomethyl auristatin E (MMAE). It is an anti-neoplastic agent used in the treatment of Hodgkin's lymphoma and systemic anaplastic large cell lymphoma. Brentuximab vedotin was initially approved in 2011. In January 2012, the drug label was revised with a boxed warning of a condition known as progressive multifocal leukoencephalopathy and death due to opportunistic JC virus infection post treatment [5]. The U.S. Food and Drug Administration approved Adcetris in March 2018 to treat adult patients with previously untreated stage III or IV classical Hodgkin lymphoma (cHL) in combination with chemotherapy [5].Adcetris has also been previously approved by the FDA to treat Hodgkin's lymphoma after relapse, Hodgkin's lymphoma after stem cell transplantation when a patient has a high risk of relapse or progression, systemic anaplastic large cell lymphoma (ALCL) after the failure of other treatment regimens, and primary cutaneous ALCL after failure of other treatment regimens [5].Lymphoma is a malignancy that begins in the lymphatic system, which helps to combat infection and disease. Lymphoma may begin anywhere in the body and can spread to nearby lymph nodes. The two main types of lymphoma are Hodgkin lymphoma (also called Hodgkin disease) and non-Hodgkin lymphoma. Most individuals with Hodgkin's lymphoma have the classical type. In this type of lymphoma, large, abnormal lymphocytes (a type of white blood cell) are found in the lymph nodes called Reed-Sternberg cells. With early diagnosis and intervention, patients with Hodgkin lymphoma normally experience long-term remission [5].The ECHELON-1 study results demonstrated superior efficacy of the drug combined with a chemotherapy regimen when it is compared to the previous standard of care. Importantly, removing the drug bleomycin, a highly toxic agent, was completely removed from the regimen. This demonstrates meaningful progress in treatment for patients affected by this disease [6].
+4. Indication:  Seattle Genetics Announced FDA Approval of ADCETRIS® (Brentuximab Vedotin) in combination with chemotherapy for adults with previously untreated stage III or IV Classical Hodgkin Lymphoma in March 2018 [5, 6].Hodgkin lymphoma after failure of autologous stem cell transplant (ASCT) or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not ASCT candidates [FDA Label], [5].Systemic anaplastic large cell lymphoma after failure of at least one prior multi-agent chemotherapy regimen [FDA Label].
+DrugId:  3
+1. Name:  Natalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized IgG4k monoclonal antibody produced in murine myeloma cells. Natalizumab contains human framework regions and the complementarity-determining regions of a murine antibody that binds to a4-integrin. Natalizumab was voluntarily withdrawn from U.S. market because of risk of Progressive multifocal leukoencephalopathy (PML). It was returned to market July, 2006.
+4. Indication:  For treatment of multiple sclerosis.
+DrugId:  4
+1. Name:  Vedolizumab
+2. Groups:  Approved
+3. Description:  Vedolizumab is a recombinant humanized IgG1 monoclonal antibody directed against the human lymphocyte α4β7 integrin, a key mediator of gastrointestinal inflammation. It is used in the treatment of moderate to severe active ulcerative colitis and Crohn's disease for patients who have had an inadequate response with, lost response to, or were intolerant to inhibitors of tumor necrosis factor-alpha (TNF-alpha) or other conventional therapies. By blocking its primary target, α4β7 integrin, vedolizumab reduces inflammation in the gut. Vedolizumab is administered by IV infusion over a period of 30 minutes; after the first dose, it is given again at two and six weeks and then every 8 weeks thereafter.
+4. Indication:  Vedolizumab is indicated for adult patients with moderately to severely active UC or CD who have had an inadequate response with, lost response to, or were intolerant to a tumor necrosis factor (TNF) blocker or immunomodulator; or had an inadequate response with, were intolerant to, or demonstrated dependence on corticosteroids. 
+DrugId:  5
+1. Name:  Carmofur
+2. Groups:  Withdrawn
+3. Description:  Carmofur is a derivative of fluorouracil, and is an antineoplastic agent that has been used in the treatment of breast and colorectal cancer. Carmofur has been known to induce leukoencephalopathy.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  IDD-3
+2. Groups:  Investigational
+3. Description:  IDD-3 is a therapeutic specific immunostimulant developed by IDM Pharma in partnership with sanofi-aventis. It consists of mature dendritic cells loaded with lysates from melanoma tumor cell lines. It includes Dendritophages that are dendritic cells, a type of specialized immune cells derived from the patient's own white blood cells. 
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  7
+1. Name:  NBI-6024
+2. Groups:  Investigational
+3. Description:  NBI-6024 is an altered peptide ligand that is designed to cause an immune response which result in preservation of beta-cell function and endogenous insulin production. 
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 1 and pediatric indications.
+DrugId:  8
+1. Name:  MYO-029
+2. Groups:  Investigational
+3. Description:  MYO-029 is a human anti-GDF-8 monoclonal antibody, which is being developed to treat muscle-wasting diseases including muscular dystrophy and age-related sarcopenia. 
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  9
+1. Name:  Ramucirumab
+2. Groups:  Approved, Investigational
+3. Description:  Ramucirumab is a human monoclonal antibody (IgG1) against vascular endothelial growth factor receptor 2 (VEGFR2), a type II trans-membrane tyrosine kinase receptor expressed on endothelial cells. By binding to VEGFR2, ramucirumab prevents binding of its ligands (VEGF-A, VEGF-C, and VEGF-D), thereby preventing VEGF-stimulated receptor phosphorylation and downstream ligand-induced proliferation, permeability, and migration of human endothelial cells. VEGFR stimulation also mediates downstream signalling required for angiogenesis and is postulated to be heavily involved in cancer progression, making it a highly likely drug target. In contrast to other agents directed against VEGFR-2, ramucirumab binds a specific epitope on the extracellular domain of VEGFR-2, thereby blocking all VEGF ligands from binding to it. Ramucirumab is indicated for us in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+4. Indication:  For use in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+DrugId:  10
+1. Name:  Lancovutide
+2. Groups:  Investigational
+3. Description:  Lancovutide, a peptide antibiotic, is in clinical development for the treatment of cystic fibrosis. Duramycin is a 19-amino-acid tetracyclic peptide produced by Streptoverticillium cinnamoneus and is closely related to cinnamycin (Ro09-0198). It belongs to the lantibiotics. Lantibiotics are bacteriocins that are characterized by the presence of a high proportion of unusual amino acids.
+4. Indication:  Investigated for use/treatment in cystic fibrosis and eye disorders/infections.
+DrugId:  11
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  12
+1. Name:  Mitoxantrone
+2. Groups:  Approved, Investigational
+3. Description:  An anthracenedione-derived antineoplastic agent. [PubChem]
+4. Indication:  For the treatment of secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis
+DrugId:  13
+1. Name:  Davunetide
+2. Groups:  Investigational
+3. Description:  Davunetide has been used in trials studying the treatment of Progressive Nonfluent Aphasia, Progressive Supranuclear Palsy, Predicted Tauopathies, Including, Corticobasal Degeneration Syndrome, and Frontotemporal Dementia With Parkinsonism Linked to Chromosome 17.Davunetide is the first drug to improve memory performance by impacting the mechanisms that lead to physical damage in the brain caused by neurofibrillary tangles, one of the two established pathological hallmarks that are common to amnestic mild cognitive impairment (aMCI) and Alzheimer's disease (AD). Davunetide is derived from a naturally occurring neuroprotective brain protein known as activity dependent neuroprotective protein.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Cerliponase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Cerliponase alfa is an enzyme replacement treatment for a specific form of Batten disease. It was the first FDA-approved treatment to slow loss of walking ability (ambulation) in symptomatic pediatric patients 3 years of age and older with late infantile neuronal ceroid lipofuscinosis type 2 (CLN2), also known as tripeptidyl peptidase-1 (TPP1) deficiency. Intraventricular administration of the drug allows significant uptake into the brain. Cerliponase alfa was approved in April, 2017 (as Brineura).
+4. Indication:  Cerliponase alfa is a treatment for late infantile neuronal ceroid lipofuscinosis type 2 (CLN2) disease to decelerate the progressive motor function decline in patients 3 years of age and older. CLN2 disease is a form of Batten disease, a rare inherited neurodegenerative disorder and is associated with seizures, ataxia, rapid loss of language and motor functions, blindness, and early death [4]. It is caused by the lack the lysosomal enzyme tripeptidyl peptidase-1 (TPP1) and subsequent accumulation of lysosomal storage materials normally metabolized by this enzyme in the central nervous system.
+DrugId:  15
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  16
+1. Name:  Crenolanib
+2. Groups:  Investigational
+3. Description:  Crenolanib is under investigation for the treatment of Diffuse Intrinsic Pontine Glioma and Progressive or Refractory High-Grade Glioma.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Ocrelizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ocrelizumab is a CD20-directed cytolytic antibody indicated for the treatment of patients with relapsing or primary progressive forms of multiple sclerosis. It is a second-generation recombinant humanized monoclonal IgG1 antibody that selectively targets the B lymphocytes that express the CD20 antigen. As a humanized molecule, ocrelizumab is expected to be less immunogenic with repeated infusions which improves the benefit-to-risk profile for patients with relapsing or progressive forms of MS. Multiple sclerosis (MS) is a chronic, inflammatory, autoimmune disease of the central nervous system that leads to neurological disabilities and significantly reduced quality of life [5]. Most patients with MS experience episodes of relapses with worsening function, followed by recovery periods, or remissions. Primary progressive multiple sclerosis (PPMS) accounts for 10-15% of the overall population of patients with MS, and involves gradual worsening of neurologic disability from symptom onset, often without early relapses or remissions [4].Developed by Genentech/Roche, ocrelizumab was approved by the FDA in March 2017 under the market name Ocrevustm for intravenous injection. It was later approved by Health Canada (as Ocrevus) in August 2017, making the drug the first available treatment for PPMS in both U.S. and Canada. In clinical trials of patients with relapsing forms of MS, treatment with ocrelizumab resulted in reduced relapse rates and reduced worsening of disability compared to interferon beta-1a [5]. In phase 3 clinical trials of patients with PPMS, treatment with ocrelizumab demonstrated lower rates of clinical and MRI progression than placebo [4].
+4. Indication:  Indicated for the treatment of adult patients with relapsing or primary progressive forms of multiple sclerosis [FDA Label].
+DrugId:  18
+1. Name:  Estramustine
+2. Groups:  Approved, Investigational
+3. Description:  A nitrogen mustard linked to estradiol, usually as phosphate; used to treat prostatic neoplasms; also has radiation protective properties. [PubChem]
+4. Indication:  For the palliative treatment of patients with metastatic and/or progressive carcinoma of the prostate
+DrugId:  19
+1. Name:  Alglucosidase alfa
+2. Groups:  Approved
+3. Description:  Aglucosidase alfa consists of the human enzyme acid alpha-glucosidase (GAA) which is essential for the degradation of glygogen to glucose in lysosomes. It is encoded by the most predominant of nine observed haplotypes of this gene. Aglucosidase alfa is produced by recombinant DNA technology in a Chinese hamster ovary cell line. Alglucosidase alfa degrades glycogen by catalyzing the hydrolysis of a-1,4- and a-1,6- glycosidic linkages of lysosomal glycogen. Structurally, Alglucosidase alfa is a glycoprotein with a calculated mass of 98,008 daltons for the 883 residue mature polypeptide chain, and a total mass of approximately 109,000 daltons, including carbohydrates. It is used for the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.
+4. Indication:  For the treatment of Pompe disease (GAA deficiency) in infants and pediatric patients.
+DrugId:  20
+1. Name:  Tideglusib
+2. Groups:  Investigational, Withdrawn
+3. Description:  Tideglusib is under the investigation for the development of treatments for Alzheimer's disease and for progressive supranuclear palsy. It is reported to be a potent anti-inflammatory and neuroprotective that is a non-ATP competitive inhibitor of glycogen synthase kinase 3 (GSK-3).[1] Tideglusib is being developed by the Spanish pharmaceutic company Zeltia group and its current status is withdrawn for the treatment of Alzheimer's disease as of 2012.
+4. Indication:  Tideglusib was initially formulated for the treatment of Alzheimer and progressive supranuclear palsy.[1] The raising interest for the use of tideglusib comes from the significant upregulation of GSK-3 in the brain in patients with Alzheimer disease. Its function as a degradant of β-catenin, was also important, as it prevents the transcription of cell survival genes. All these factors have directed current research towards this kinase as a potential target.[3] Alzheimer disease is the most prevalent form of dementia. The most accepted hypothesis to explain this disease is related to the presence of amyloid β, which triggers a cascade that will alter the Tau protein and provoke synaptic dysfunction and neuronal death.[4] GSK-3 importance in the tissue repair pathway has also pointed out a novel application for tideglusib. Thus, it is also under the research for the natural repair treatment of deep caries lesions.[2] 
+DrugId:  21
+1. Name:  Vestronidase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Vestronidase alfa, or vestronidase alfa-vjbk, is a recombinant human lysosomal beta glucuronidase that is a purified enzyme produced by recombinant DNA technology in a Chinese hamster ovary cell line. The enzyme is a homotetramer consisted of 4 monomers with 629 amino acids, and holds the same amino acid sequence as human beta-glucuronidase (GUS) [FDA Label]. Vestronidase alfa is an enzyme replacement therapy for the treatment of mucopolysaccharidosis type VII (MPS VII), also known as Sly syndrome, which is an inherited, rare genetic metabolic condition that targets a small subset of population. MPS VII is a progressive condition that affects most tissues and organs due to the lack of a lysosomal enzyme called beta-glucuronidase, leading to buildup of toxic metabolites. The disorder is initiated with skeletal abnormalities, including short stature, along with other pathological conditions including enlarged liver and spleen, heart valve abnormalities, and narrowed airways which can lead to lung infections and trouble breathing. Last two conditions are leading causes of fatalities in patients with MPS VII. Some affected individuals do not survive infancy, while others may live into adolescence or adulthood and patients may experience developmental delay and progressive intellectual disability [FDA Label]. In clinical trials, vestronidase alfa treatment demonstrated improvement and stabilization in motor symptoms by increasing the patients' ability to walk longer distances in comparison to treatment with placebo . Few patients also experienced improved pulmonary function. Vestronidase alfa was FDA-approved on November 17th, 2017 under the trade name Mepsevii as an intravenous infusion for the treatment of pediatric and adult patients.
+4. Indication:  Indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome).
+DrugId:  22
+1. Name:  Ibudilast
+2. Groups:  Approved, Investigational
+3. Description:  Ibudilast is an anti-inflammatory and neuroprotective oral agent which shows an excellent safety profile at 60 mg/day and provides significantly prolonged time-to-first relapse and attenuated brain volume shrinkage in patients with relapsing-remitting (RR) and/or secondary progressive (SP) multiple sclerosis (MS). Ibudilast is currently in development in the U.S. (codes: AV-411 or MN-166), but is approved for use as an antiinflammatory in Japan.
+4. Indication:  For the treatment of multiple sclerosis, asthma, and cerebrovascular disease.
+DrugId:  23
+1. Name:  Miglustat
+2. Groups:  Approved
+3. Description:  Miglustat is a drug used to treat Gaucher disease. It inhibits the enzyme glucosylceramide synthase, an essential enzyme for the synthesis of most glycosphingolipids. It is only used for patients who cannot be treated with enzyme replacement therapy with imiglucerase. Miglustat is marketed under the trade name Zavesca. Miglustat is now the first and only approved therapy for patients with Niemann-Pick disease type C (NP-C). It has recently been approved for treatment of progressive neurological symptoms in adult and pediatric patients in the European Union, Brazil, and South Korea. Miglustat was first developed as an anti-HIV agent in the 1990s. However, clinical experience with miglustat showed that therapeutic levels of the drug could not be achieved in patients without a high incidence of adverse effect.
+4. Indication:  For the treatment of adult patients with mild to moderate type 1 (nonneuropathic) Gaucher's disease for whom enzyme replacement therapy is not a therapeutic option (e.g. due to constraints such as allergy, hypersensitivity, or poor venous access). Now approved in some countries for the treatment of progressive neurological symptoms in adult and pediatric patients with Niemann-Pick disease type C (NP-C). 
+DrugId:  24
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  25
+1. Name:  Metaxalone
+2. Groups:  Approved
+3. Description:  Metaxalone (marketed by King Pharmaceuticals under the brand name Skelaxin®) is a muscle relaxant used to relax muscles and relieve pain caused by strains, sprains, and other musculoskeletal conditions. Its exact mechanism of action is not known, but it may be due to general central nervous system depression. It is considered to be a moderately strong muscle relaxant, with relatively low incidence of side effects. Skelaxin comes in an 800 mg scored tablet. It previously came in both 400 mg and 800 mg tablets. The 400 mg tablet has been discontinued. Possible side effects include nausea, vomiting, drowsiness and CNS side effects such as dizziness, headache, and irritability.
+4. Indication:  For the treatment of painful peripheral musculoskeletal conditions and spasticity from upper motor neuron syndromes.

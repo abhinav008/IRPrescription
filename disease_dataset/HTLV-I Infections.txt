@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ertapenem
+2. Groups:  Approved, Investigational
+3. Description:  Ertapenem is a carbapenem antibiotic marketed by Merck as Invanz®. It is structurally very similar to meropenem in that it possess a 1-beta-methyl group. [Wikipedia]
+4. Indication:  For the treatment the following moderate to severe infections caused by susceptible isolates of the designated microorganisms: (1) complicated intra-abdominal infections due to Escherichia coli, Clostridium clostridioforme, Eubacterium lentum, Peptostreptococcus species, Bacteroides fragilis, Bacteroides distasonis, Bacteroides ovatus, Bacteroides thetaiotaomicron, or Bacteroides uniformis, (2) complicated skin and skin structure infections, including diabetic foot infections without osteomyelitis due to Staphylococcus aureus (methicillin susceptible isolates only), Streptococcus agalactiae, Streptococcus pyogenes, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Bacteroides fragilis, Peptostreptococcus species, Porphyromonas asaccharolytica, or Prevotella bivia, (3) community acquired pneumonia due to Streptococcus pneumoniae (penicillin susceptible isolates only) including cases with concurrent bacteremia, Haemophilus influenzae (beta-lactamase negative isolates only), or Moraxella catarrhalis, (4) complicated urinary tract infections including pyelonephritis due to Escherichia coli, including cases with concurrent bacteremia, or Klebsiella pneumoniae, (5) acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections due to Streptococcus agalactiae, Escherichia coli, Bacteroides fragilis, Porphyromonas asaccharolytica, Peptostreptococcus species, or Prevotella bivia.
+DrugId:  2
+1. Name:  Loracarbef
+2. Groups:  Investigational, Withdrawn
+3. Description:  Loracarbef is a carbacephem antibiotic sometimes grouped together with the second-generation cephalosporin antibiotics. It is marketed under the trade name Lorabid.
+4. Indication:  Used to treat upper respiratory tract bacterial infections, chronic bronchitis, pneumonia, sinusitis, pharyntitis and tonsillitis, skin absceses, urinary tract infections and pyelonephritis caused by E. coli, S. pyogenes, S. aureus, S. saprphyticus, S. penumoniae, H. influenzae and M. catarrhalis.
+DrugId:  3
+1. Name:  REP8839
+2. Groups:  Investigational
+3. Description:  REP8839 is a novel methionyl-tRNA synthetase (MetS) inhibitor being developed by Replidyne (GlaxoSmithKline licensed REP8839 to Replidyne in June of 2003).
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms (Staphylococcus aureus, including methicillin-resistant S. aureus (MRSA), and Streptococcus pyogenes).
+DrugId:  4
+1. Name:  Phenoxymethylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Phenoxymethylpenicillin (Penicillin V) is narrow spectrum antibiotic used to treat mild to moderate infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered orally. Penicillin V may also be used in some cases as prophylaxis against susceptible organisms.Natural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as Streptococcus pneumoniae, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (S. agalactiae), S. viridans, and Enterococcus faecalis. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as Bacillus anthracis, Corynebacterium diphtheriae, and Erysipelothrix rhusiopathiae. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by Neisseria meningitidis and Pasteurella. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.
+4. Indication:  For the treatment of mild to moderately severe infections (e.g. dental infection, infections in the heart, middle ear infections, rheumatic fever, scarlet fever, skin infections, upper and lower respiratory tract infections) due to microorganisms.
+DrugId:  5
+1. Name:  P113D
+2. Groups:  Investigational
+3. Description:  P113D is a novel 12 amino-acid antimicrobial peptide drug derived from histatins, which are compounds found naturally in human saliva. It is being pursued as a potential treatment for cystic fibrosis by Demegen, Inc.
+4. Indication:  For the potential treatment of cystic fibrosis and bacterial infections.
+DrugId:  6
+1. Name:  Tigecycline
+2. Groups:  Approved
+3. Description:  Tigecycline is a glycylcycline antibiotic developed and marketed by Wyeth under the brand name Tygacil. It was given a U.S. Food and Drug Administration (FDA) fast-track approval and was approved on June 17, 2005. It was developed in response to the growing prevalence of antibiotic resistance in bacteria such as Staphylococcus aureus.
+4. Indication:  For the treatment of infections caused by susceptible strains of the designated microorganisms in the following conditions: Complicated skin and skin structure infections caused by Escherichia coli, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible and -resistant isolates), Streptococcus agalactiae, Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Streptococcus pyogenes and Bacteroides fragilis. Complicated intra-abdominal infections caused by Citrobacter freundii, Enterobacter cloacae, Escherichia coli, Klebsiella oxytoca, Klebsiella pneumoniae, Enterococcus faecalis (vancomycin-susceptible isolates only), Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus anginosus grp. (includes S. anginosus, S. intermedius, and S. constellatus), Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides vulgatus, Clostridium perfringens, and Peptostreptococcus micros.
+DrugId:  7
+1. Name:  Meropenem
+2. Groups:  Approved, Investigational
+3. Description:  Meropenem is a broad-spectrum carbapenem antibiotic. It is active against Gram-positive and Gram-negative bacteria. Meropenem exerts its action by penetrating bacterial cells readily and interfering with the synthesis of vital cell wall components, which leads to cell death.In August 2017, a combination antibacterial therapy under the market name vabomere was approved for treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of meropenem and Vaborbactam and is intravenously admininstered. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  For use as single agent therapy for the treatment of the following infections when caused by susceptible isolates of the designated microorganisms: complicated skin and skin structure infections due to Staphylococcus aureus (b-lactamase and non-b-lactamase producing, methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (excluding vancomycin-resistant isolates), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis and Peptostreptococcus species; complicated appendicitis and peritonitis caused by viridans group streptococci, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Bacteroides fragilis, B. thetaiotaomicron, and Peptostreptococcus species. Also for use in the treatment of bacterial meningitis caused by Streptococcus pneumoniae, Haemophilus influenzae (b-lactamase and non-b-lactamase-producing isolates), and Neisseria meningitidis.
+DrugId:  8
+1. Name:  Dirithromycin
+2. Groups:  Approved, Investigational
+3. Description:  Dirithromycin is a macrolide glycopeptide antibiotic. It is used to treat many different types of bacterial infections, such as bronchitis, pneumonia, tonsillitis, and even skin infections.
+4. Indication:  For the treatment of the following mild-to-moderate infections caused by susceptible strains of microorganisms: acute bacterial exacerbations of chronic bronchitis, secondary bacterial infection of acute bronchitis, community-acquired pneumonia, pharyngitis/tonsilitis, and uncomplicated skin and skin structure infections.
+DrugId:  9
+1. Name:  Lomefloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Lomefloxacin is a fluoroquinolone antibiotic, used to treat bacterial infections including bronchitis and urinary tract infections. It is also used to prevent urinary tract infections prior to surgery.
+4. Indication:  For the treatment of bacterial infections of the respiratory tract (chronic bronchitis) and urinary tract, and as a pre-operative prophylactic to prevent urinary tract infection caused by: S.pneumoniae, H.influenzae, S.aureus, P.aeruginosa, E. cloacae, P. mirabilis, C. civersus, S. asprphyticus, E.coli, and K.pneumoniae.
+DrugId:  10
+1. Name:  Cephalexin
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A semisynthetic cephalosporin antibiotic with antimicrobial activity similar to that of cephaloridine or cephalothin, but somewhat less potent. It is effective against both gram-positive and gram-negative organisms.
+4. Indication:  For the treatment of respiratory tract infections caused by Streptococcus pneumoniae and Streptococcus pyogenes; otitis media due to Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, and Moraxella catarrhalis; skin and skin structure infections caused by Staphylococcus aureus and/or Streptococcus pyogenes; bone infections caused by Staphylococcus aureus and/or Proteus mirabilis; genitourinary tract infections, including acute prostatitis, caused by Escherichia coli, Proteus mirabilis, and Klebsiella pneumoniae.
+DrugId:  11
+1. Name:  Sertaconazole
+2. Groups:  Approved, Investigational
+3. Description:  Sertaconazole nitrate is an antifungal medication of the imidazole class. It is available as a cream to treat skin infections such as athlete's foot. [Wikipedia]
+4. Indication:  For the topical treatment of interdigital tinea pedis in immunocompetent patients 12 years of age and older, caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum.
+DrugId:  12
+1. Name:  Enoxacin
+2. Groups:  Approved, Investigational
+3. Description:  A broad-spectrum 6-fluoronaphthyridinone antibacterial agent (fluoroquinolones) structurally related to nalidixic acid. [PubChem]
+4. Indication:  For the treatment of adults (≥18 years of age) with the following infections caused by susceptible strains of the designated microorganisms: (1) uncomplicated urethral or cervical gonorrhea due to Neisseria gonorrhoeae, (2) uncomplicated urinary tract infections (cystitis) due to Escherichia coli, Staphylococcus epidermidis, or Staphylococcus saprophyticus, and (3) complicated urinary tract infections due to Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis, Pseudomonas aeruginosa, Staphylococcus epidermidis, or Enterobacter cloacae.
+DrugId:  13
+1. Name:  Oxiconazole
+2. Groups:  Approved
+3. Description:  Oxiconazole nitrate (U.S.: Oxistat, Canada: Oxizole) is an antifungal medication typically administered in a cream or lotion to treat skin infections such as athlete's foot, jock itch and ringworm. [Wikipedia]
+4. Indication:  For treatment of dermal fungal infection.
+DrugId:  14
+1. Name:  Mezlocillin
+2. Groups:  Approved, Investigational
+3. Description:  Semisynthetic ampicillin-derived acylureido penicillin. It has been proposed for infections with certain anaerobes and may be useful in inner ear, bile, and CNS infections. [PubChem]
+4. Indication:  Used to treat serious gram–negative infections of the lungs, urinary tract, and skin.
+DrugId:  15
+1. Name:  Carbenicillin
+2. Groups:  Approved, Investigational
+3. Description:  Broad-spectrum semisynthetic penicillin derivative used parenterally. It is susceptible to gastric juice and penicillinase and may damage platelet function. [PubChem]
+4. Indication:  For the treatment of acute and chronic infections of the upper and lower urinary tract and in asymptomatic bacteriuria due to susceptible strains of bacteria.
+DrugId:  16
+1. Name:  Butoconazole
+2. Groups:  Approved
+3. Description:  Butoconazole is an imidazole antifungal used in gynecology.
+4. Indication:  For the local treatment of vulvovaginal candidiasis (infections caused by Candida)
+DrugId:  17
+1. Name:  Lincomycin
+2. Groups:  Approved, Vet approved
+3. Description:  An antibiotic produced by Streptomyces lincolnensis var. lincolnensis. It has been used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+4. Indication:  Lincomycin is an antibiotic used in the treatment of staphylococcal, streptococcal, and Bacteroides fragilis infections.
+DrugId:  18
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  19
+1. Name:  Moxifloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Moxifloxacin is a synthetic fluoroquinolone antibiotic agent. Bayer AG developed the drug (initially called BAY 12-8039) and it is marketed worldwide (as the hydrochloride) under the brand name Avelox (in some countries also Avalox) for oral treatment.
+4. Indication:  For the treatment of sinus and lung infections such as sinusitis, pneumonia, and secondary infections in chronic bronchitis. Also for the treatment of bacterial conjunctivitis (pinkeye).
+DrugId:  20
+1. Name:  Netilmicin
+2. Groups:  Approved, Investigational
+3. Description:  Netilmicin is a semisynthetic 1-N-ethyl derivative of sisomycin, an aminoglycoside antibiotic with action similar to gentamicin, but less ear and kidney toxicity. Netilmicin inhibits protein synthesis in susceptible organisms by binding to the bacterial 30S ribosomal subunit and interfering with mRNA binding and the acceptor tRNA site. The bactericidal effect of netilmiicin is not fully understood.
+4. Indication:  For the treatment of bacteremia, septicaemia, respiratory tract infections, skin and soft-tissue infection, burns, wounds, and peri-operative infections caused by susceptible strains.
+DrugId:  21
+1. Name:  Teicoplanin
+2. Groups:  Approved, Investigational
+3. Description:  Teicoplanin is a glycopeptide antibiotic. It is a mixture of several compounds, five major (named teicoplanin A2-1 through A2-5) and four minor (named teicoplanin RS-1 through RS-4). All teicoplanins share a same glycopeptide core, termed teicoplanin A3-1, a fused ring structure to which two carbohydrates (mannose and N-acetylglucosamine) are attached. The major and minor components also contain a third carbohydrate moiety, β-D-glucosamine, and differ only by the length and conformation of a side chain attached to it.
+4. Indication:  For the treatment of bacterial infections caused by susceptible microorganisms.
+DrugId:  22
+1. Name:  Temafloxacin
+2. Groups:  Withdrawn
+3. Description:  Temafloxacin is a fluoroquinolone antibiotic drug which was withdrawn from sale in the U.S. shortly after its approval in 1992 because of serious adverse reactions resulting in three deaths. [Wikipedia]
+4. Indication:  For the treatment of lower respiratory tract infections, genital and urinary infections like prostatitis, and skin infections.
+DrugId:  23
+1. Name:  Cefaclor
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibiotic derivative of cephalexin.
+4. Indication:  For the treatment of certain infections caused by bacteria such as pneumonia and ear, lung, skin, throat, and urinary tract infections.
+DrugId:  24
+1. Name:  Cefuroxime
+2. Groups:  Approved
+3. Description:  Broad-spectrum cephalosporin antibiotic resistant to beta-lactamase. It has been proposed for infections with gram-negative and gram-positive organisms, gonorrhea, and haemophilus. [PubChem]
+4. Indication:  For the treatment of many different types of bacterial infections such as bronchitis, sinusitis, tonsillitis, ear infections, skin infections, gonorrhea, and urinary tract infections.
+DrugId:  25
+1. Name:  Ceftazidime
+2. Groups:  Approved
+3. Description:  Semisynthetic, broad-spectrum antibacterial derived from cephaloridine and used especially for Pseudomonas and other gram-negative infections in debilitated patients.
+4. Indication:  For the treatment of patients with infections caused by susceptible strains of organisms in the following diseases: lower respiratory tract infections,skin and skin structure infections, urinary tract infections, bacterial septicemia, bone and joint infections, gynecologic infections, intra abdominal infections (including peritonitis), and central nervous system infections (including meningitis).

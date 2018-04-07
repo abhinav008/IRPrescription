@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  2
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 
+DrugId:  3
+1. Name:  NX-1207
+2. Groups:  Investigational
+3. Description:  NX-1207 is an investigational new drug for BPH, whose chemical entity and mechanism of action remain undisclosed. Nymox Pharmaceutical Corporation recently completed studies of NX-1207 for treatment of benign prostatic hyperplasia (BPH).
+4. Indication:  Investigated for use/treatment in benign prostatic hyperplasia.
+DrugId:  4
+1. Name:  Topsalysin
+2. Groups:  Investigational
+3. Description:  Topsalysin is being developed for the treatment of localized prostate cancer and also benign prostatic hyperplasia. Topsalysin is delivered locally to the prostate under ultrasound guidance.
+4. Indication:  Investigated for use/treatment in benign prostatic hyperplasia, cancer/tumors (unspecified), prostate cancer, prostate disorders, and solid tumors.
+DrugId:  5
+1. Name:  Talaporfin
+2. Groups:  Investigational
+3. Description:  Talaporfin has been investigated for the treatment of Port-Wine Stain and Benign Prostatic Hyperplasia.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Lemuteporfin
+2. Groups:  Investigational
+3. Description:  Lemuteporfin, under development by QLT Incorporated, is a benzoporphyrin-derived chlorin-like photosensitizer. It is intended for the treatment of beign prostatic hyperplasia.
+4. Indication:  Intended for the treatment of benign prostatic hyperplasia and prostrate disorders.
+DrugId:  7
+1. Name:  Elocalcitol
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in benign prostatic hyperplasia, urinary incontinence, prostate disorders, and infertility.
+DrugId:  8
+1. Name:  Silodosin
+2. Groups:  Approved
+3. Description:  Silodosin is an α1-adrenoceptor antagonist that is selective for the prostate. Silodosin is for symptomatic treatment of benign prostatic hyperplasia. FDA approved Oct 9, 2008.
+4. Indication:  Treatment for symptomatic relief of benign prostatic hyperplasia 
+DrugId:  9
+1. Name:  ATX-101
+2. Groups:  Investigational
+3. Description:  ATX-101 (medical), sodium deoxycholate for subcutaneous injection, is being evaluated as a treatment for the reduction of localized fat deposits. This includes treatment of superficial lipomas (benign tumors of soft tissue composed of mature fat cells), fat deposits in the submental region of the face/neck, and localized fat deposits in other parts of the body. Deoxycholic acid is a naturally occurring bile acid produced by the liver as one of several end products of cholesterol metabolism. As a naturally occurring component of the human body, deoxycholate is considered a ‘biocompatible’ detergent that solubilizes fat in the small intestine. ATX-101 demonstrates a relative selectivity for fat over other tissues.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  10
+1. Name:  Enrasentan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in congestive heart failure, chronic obstructive pulmonary disease (COPD), and benign prostatic hyperplasia.
+DrugId:  11
+1. Name:  Erteberel
+2. Groups:  Experimental, Investigational
+3. Description:  Erteberel is an estrogen receptor beta agonist that has been used in trials studying the treatment of Benign Prostatic Hyperplasia.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Ozarelix
+2. Groups:  Investigational
+3. Description:  Ozarelix has been used in trials studying the treatment of Prostate Cancer, Benign Prostatic Hypertrophy, and Benign Prostatic Hyperplasia (BPH).
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  PEG-uricase
+2. Groups:  Investigational
+3. Description:  PEG-uricase, a polyethylene glycol ("PEG") conjugate of recombinant porcine uricase (urate oxidase), which breaks down the uric acid deposits is being studied in Phase III clinical trials for the treatment of severe, treatment-refractory gout in the United States in 2006.
+4. Indication:  Investigated for use/treatment in hyperuricemia.
+DrugId:  14
+1. Name:  Finasteride
+2. Groups:  Approved
+3. Description:  An orally active testosterone 5-alpha-reductase inhibitor. It is used as a surgical alternative for treatment of benign prostatic hyperplasia. [PubChem]
+4. Indication:  For the treatment of symptomatic benign prostatic hyperplasia (BPH) in men with an enlarged prostate to: Improve symptoms, reduce the risk of acute urinary retention, reduce the risk of the need for surgery including transurethral resection of the prostate. Also used for the stimulation of regrowth of hair in men with mild to moderate androgenetic alopecia (male pattern alopecia, hereditary alopecia, common male baldness).
+DrugId:  15
+1. Name:  ADH-1
+2. Groups:  Investigational
+3. Description:  Adherex's biotechnology compound, ADH-1, targets N-cadherin, a protein present on certain tumor cells and established tumor blood vessels. ADH-1 is currently in clinical development in a combination program with a range of chemotherapeutic agents to investigate the synergistic effects noted in our preclinical models. At the end of 2006, the Company also completed patient enrollment in our single-agent Phase Ib/II and Phase II trials of ADH-1.Cadherins are cell adhesion and cell signaling molecules crucial to the development of tissues, organs and organisms. Agents that target and inhibit cadherin function have the potential to attack the progression of cancer at two distinct points:* Direct targeting of cadherins expressed on cancer cells may disturb cadherin-mediated signaling, leading to apoptosis (death) of cancer cells.* Cadherin inhibitors may exploit the inherent structural weaknesses of the tumor vasculature, causing angiolysis (disruption of blood vessels) and tumor damage.As many tumors become more aggressive, invasive, and malignant, researchers have found that N-cadherin is expressed in greater amounts, making it an important target for developing anti-cancer treatments.Poorly differentiated, highly invasive carcinomas are characterized by over-expression of N-cadherin (as opposed to E-cadherin). This change in primary cadherin expression causes the epithelial cells to lose their tightly adherent, polarized and well-defined shape and become loosely adherent, flattened and migratory. Such cadherin switching promotes properties such as dedifferentiation, local invasion and metastasis, leading to poor prognosis.ADH-1 may have utility in a wide variety of cancers as N-cadherin is overexpressed in a variety of tumors. As tumors progress to become higher grade, invasive and more metastatic, the frequency of N-cadherin expression generally rises.
+4. Indication:  Investigated for use/treatment in breast cancer, cancer/tumors (unspecified), melanoma, ovarian cancer, and solid tumors.
+DrugId:  16
+1. Name:  Thymalfasin
+2. Groups:  Approved, Investigational
+3. Description:  Thymalfasin is a chemically synthesized version of thymosin alpha 1 that is identical to human thymosin alpha 1. Thymosin alpha 1 is an acetylated polypeptide. Thymosin alpha 1 is now approved in 35 developing countries for the treatment of Hepatitis B and C. It is also used to boost the immune response in the treatment of other diseases.
+4. Indication:  Indicated as an adjuvant for influenza vaccine in elderly patients and as an adjuvant for both influenza and hepatitis B vaccines in chronic hemodialysis patients who failed to achieve adequate antibody titers from previous immunization.
+DrugId:  17
+1. Name:  Alfuzosin
+2. Groups:  Approved, Investigational
+3. Description:  Alfuzosin (INN, provided as the hydrochloride salt) is an alpha-adrenergic blocker used to treat benign prostatic hyperplasia (BPH). It works by relaxing the muscles in the prostate and bladder neck, making it easier to urinate. [Wikipedia]
+4. Indication:  For the reduction of urinary obstruction and relief of associated manifestations (eg. sensation of incomplete bladder emptying or straining, urgency, interrupted or weak stream) in patients with symptomatic beningn prostatic hyperplasia.
+DrugId:  18
+1. Name:  Roxatidine acetate
+2. Groups:  Approved, Investigational
+3. Description:  Roxatidine acetate is a specific and competitive H2 receptor antagonist. It is currently approved in South Africa under the tradename Roxit.
+4. Indication:  For the treatment of disorders of the upper gastro-intestinal region that are due to an excess of hydrochloric acid in the gastric juice, i.e. duodenal ulcers, benign gastric ulcers. Also for prophylaxis of recurrent gastric and duodenal ulcers
+DrugId:  19
+1. Name:  Lymecycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline with a 7-chloro substitution.
+4. Indication:  For the treatment of infections and to treat acne. It may also be used to treat urinary tract infections, gum disease, and other bacterial infections such as gonorrhea and chlamydia. Lymecycline is also used commonly as a prophylactic treatment for infection by Bacillus anthracis (anthrax). It is also effective against Yersinia pestis and malaria and is also prescribed for the treatment of Lyme disease.
+DrugId:  20
+1. Name:  Prazosin
+2. Groups:  Approved
+3. Description:  Prazosin is a selective α-1-adrenergic receptor antagonist used to treat hypertension. It has also been used to decrease urinary obstruction and relieve symptoms associated with symptomatic benign prostatic hyperplasia. α1-Receptors mediate contraction and hypertrophic growth of smooth muscle cells. Antagonism of these receptors leads to smooth muscle relaxation in the peripheral vasculature and prostate gland. Prazosin has also been used in conjunction with cardiac glycosides and diuretics in the management of severe congestive heart failure. It has also been used alone or in combination with β-blockers in the preoperative management of signs and symptoms of pheochromocytoma. 
+4. Indication:  For treatment of hypertension, symptomatic benign prostatic hyperplasia, and severe congestive heart failure. May also be used alone or in combination with β-blockers in the preoperative management of signs and symptoms of pheochromocytoma. 
+DrugId:  21
+1. Name:  Tamsulosin
+2. Groups:  Approved, Investigational
+3. Description:  Tamsulosin is a selective antagonist at alpha-1A and alpha-1B-adrenoceptors in the prostate, prostatic capsule, prostatic urethra, and bladder neck. At least three discrete alpha1-adrenoceptor subtypes have been identified: alpha-1A, alpha-1B and alpha-1D; their distribution differs between human organs and tissue. Approximately 70% of the alpha1-receptors in human prostate are of the alpha-1A subtype. Blockage of these receptors causes relaxation of smooth muscles in the bladder neck and prostate.
+4. Indication:  Used in the treatment of signs and symptoms of benign prostatic hyperplasia (reduction in urinary obstruction and relief of associated manifestations such as hesitancy, terminal dribbling of urine, interrupted or weak stream...etc.)
+DrugId:  22
+1. Name:  Terazosin
+2. Groups:  Approved
+3. Description:  Terazosin is a selective alpha1-antagonist used for treatment of symptoms of benign prostatic hyperplasia (BPH). It also acts to lower blood pressure, so it is a drug of choice for men with hypertension and prostate enlargement. It works by blocking the action of adrenaline on smooth muscle of the bladder and the blood vessel walls.
+4. Indication:  For the treatment of symptomatic BPH and mild to moderate hypertension.
+DrugId:  23
+1. Name:  Doxazosin
+2. Groups:  Approved
+3. Description:  Doxazosin is a quinazoline-derivative that selectively antagonizes postsynaptic α1-adrenergic receptors. It may be used to mild to moderate hypertension and in the management of symptomatic benign prostatic hyperplasia (BPH). α1-Receptors mediate contraction and hypertrophic growth of smooth muscle cells. Antagonism of these receptors leads to smooth muscle relaxation in the peripheral vasculature and prostate gland.
+4. Indication:  For treatment and management of mild to moderate hypertension and urinary obstruction symptoms caused by BPH.
+DrugId:  24
+1. Name:  Lonidamine
+2. Groups:  Investigational
+3. Description:  Lonidamine (LND) is a drug that interferes with energy metabolism of cancer cells, principally inhibiting aerobic glycolytic activity, by its effect on mitochondrially-bound hexokinase (HK). In such way LND could impair energy-requiring processes, as recovery from potentially lethal damage, induced by radiation treatment and by some cytotoxic drugs.
+4. Indication:  Investigated for use/treatment in benign prostatic hyperplasia, prostate disorders, and cancer/tumors (unspecified).
+DrugId:  25
+1. Name:  Nitrogen
+2. Groups:  Approved, Vet approved
+3. Description:  Nitrogen is a chemical element with symbol N and atomic number 7. At room temperature, it is a transparent, odorless diatomic gas.Liquid nitrogen is used principally in cryotherapy for removal of diseased skin. Liquid nitrogen helps in removal of skin lesions through necrosis, which results from the freezing and thawing of cells. Cryotherapy usually done in doctors' office. Also, nitrogen is very famous component in fertilizers and energy-stores.
+4. Indication:  Liquid nitrogen is used mainly as a cryogenic agent for the treatment of various benign and malignant skin lesions. 

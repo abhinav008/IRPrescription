@@ -1,0 +1,85 @@
+DrugId:  1
+1. Name:  Ozanezumab
+2. Groups:  Investigational
+3. Description:  Ozanezumab has been used in trials studying the treatment of Multiple Sclerosis, Amyotrophic Lateral Sclerosis, and Multiple Sclerosis, Relapsing-Remitting.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  MK-0812
+2. Groups:  Investigational
+3. Description:  MK0812 has been used in trials studying the treatment of Relapsing-Remitting Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  GSK-2018682
+2. Groups:  Investigational
+3. Description:  GSK2018682 has been investigated for the treatment of Multiple Sclerosis, Relapsing-Remitting.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Peginterferon beta-1a
+2. Groups:  Approved
+3. Description:  Peginterferon beta-1a is an interferon beta-1a to which a single, linear 20,000 dalton (Da) methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (PEG) molecule is covalently attached to the alpha amino group of the N-terminal amino acid residue. The amino acid sequence of the recombinant interferon beta-1a is identical to that of the human interferon beta counterpart. Although it's mechanism of action is unknown, peginterferon beta-1a is indicated for use in relapsing forms of Multiple Sclerosis (MS).Interferon beta was the first drug to alter the course of MS, however multiple side effects and the need for weekly subcutaneous injection make it difficult to use. Interferon beta was subsequently PEGylated (covalently attached to polyethylene glycol) to extend its duration of action to every 14 days. It is currently available as peginterferon beta-1a as the FDA-approved product Plegridy.
+4. Indication:  For the treatment of patients with relapsing forms of multiple sclerosis.
+DrugId:  5
+1. Name:  Mitoxantrone
+2. Groups:  Approved, Investigational
+3. Description:  An anthracenedione-derived antineoplastic agent. [PubChem]
+4. Indication:  For the treatment of secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis
+DrugId:  6
+1. Name:  BMS-214662
+2. Groups:  Investigational
+3. Description:  BMS-214662 has been used in trials studying the treatment of Childhood Myelodysplastic Syndromes, Refractory Anemia With Excess Blasts, Recurrent Adult Acute Myeloid Leukemia, Relapsing Chronic Myelogenous Leukemia, and Adult Acute Promyelocytic Leukemia (M3), among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Ocrelizumab
+2. Groups:  Approved, Investigational
+3. Description:  Ocrelizumab is a CD20-directed cytolytic antibody indicated for the treatment of patients with relapsing or primary progressive forms of multiple sclerosis. It is a second-generation recombinant humanized monoclonal IgG1 antibody that selectively targets the B lymphocytes that express the CD20 antigen. As a humanized molecule, ocrelizumab is expected to be less immunogenic with repeated infusions which improves the benefit-to-risk profile for patients with relapsing or progressive forms of MS. Multiple sclerosis (MS) is a chronic, inflammatory, autoimmune disease of the central nervous system that leads to neurological disabilities and significantly reduced quality of life [5]. Most patients with MS experience episodes of relapses with worsening function, followed by recovery periods, or remissions. Primary progressive multiple sclerosis (PPMS) accounts for 10-15% of the overall population of patients with MS, and involves gradual worsening of neurologic disability from symptom onset, often without early relapses or remissions [4].Developed by Genentech/Roche, ocrelizumab was approved by the FDA in March 2017 under the market name Ocrevustm for intravenous injection. It was later approved by Health Canada (as Ocrevus) in August 2017, making the drug the first available treatment for PPMS in both U.S. and Canada. In clinical trials of patients with relapsing forms of MS, treatment with ocrelizumab resulted in reduced relapse rates and reduced worsening of disability compared to interferon beta-1a [5]. In phase 3 clinical trials of patients with PPMS, treatment with ocrelizumab demonstrated lower rates of clinical and MRI progression than placebo [4].
+4. Indication:  Indicated for the treatment of adult patients with relapsing or primary progressive forms of multiple sclerosis [FDA Label].
+DrugId:  8
+1. Name:  Ozanimod
+2. Groups:  Investigational
+3. Description:  Ozanimod has been used in trials studying the treatment of Crohn's Disease, Ulcerative Colitis, Multiple Sclerosis, and Relapsing Multiple Sclerosis.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Glatiramer Acetate
+2. Groups:  Approved, Investigational
+3. Description:  Glatiramer acetate consists of the acetate salts of synthetic polypeptides, containing four naturally occurring amino acids: L-glutamic acid, L-alanine, L-tyrosine, and L-lysine with an average molar fraction of 0.141, 0.427, 0.095, and 0.338, respectively. The average molecular weight of glatiramer acetate is 5,000-9,000 daltons. It is an immunomodulator, licensed in much of the world for reduced frequency of relapses in relapsing-remitting multiple sclerosis.
+4. Indication:  For reduction of the frequency of relapses in patients with Relapsing-Remitting Multiple Sclerosis.
+DrugId:  10
+1. Name:  Teriflunomide
+2. Groups:  Approved
+3. Description:  Teriflunomide is the active metabolite of leflunomide, and it acts as an immunomodulatory agent by inhibiting pyrimidine synthesis. It is marketed under the name Aubagio® and is indicated for the treatment of multiple sclerosis, specifically relapsing forms. The FDA label states an important warning about the risk of hepatoxicity and teratogenicity for patients using teriflunomide.
+4. Indication:  Used in the treatment of relapsing forms of multiple sclerosis (MS).
+DrugId:  11
+1. Name:  Interferon beta-1b
+2. Groups:  Approved
+3. Description:  Human interferon beta (165 residues), cysteine 17 is substituted with serine. Produced in E. coli, no carbohydrates, MW=18.5kD
+4. Indication:  Interferon beta-1b is a drug used for the treatment of relapsing/remitting multiple sclerosis. It has been shown to slow the advance of the disease as well as to decrease the frequency of attacks.
+DrugId:  12
+1. Name:  Ibudilast
+2. Groups:  Approved, Investigational
+3. Description:  Ibudilast is an anti-inflammatory and neuroprotective oral agent which shows an excellent safety profile at 60 mg/day and provides significantly prolonged time-to-first relapse and attenuated brain volume shrinkage in patients with relapsing-remitting (RR) and/or secondary progressive (SP) multiple sclerosis (MS). Ibudilast is currently in development in the U.S. (codes: AV-411 or MN-166), but is approved for use as an antiinflammatory in Japan.
+4. Indication:  For the treatment of multiple sclerosis, asthma, and cerebrovascular disease.
+DrugId:  13
+1. Name:  Fingolimod
+2. Groups:  Approved, Investigational
+3. Description:  Fingolimod is a sphingosine 1-phosphate receptor modulator indicated and approved for the treatment of relapsing-remitting multiple sclerosis. 
+4. Indication:  Fingolimod is a sphingosine 1-phosphate receptor modulator indicated for the treatment of patients with relapsing forms of multiple sclerosis to reduce the frequency of clinical exacerbations and to delay the accumulation of physical disability.
+DrugId:  14
+1. Name:  Dimethyl fumarate
+2. Groups:  Approved, Investigational
+3. Description:  Dimethyl fumarate is an anti-inflammatory. It is indicated for multiple sclerosis patients with relapsing forms and is also being investigated for the treatment of psoriasis. The mechanism of action of dimethyl fumarate in multiple sclerosis is not well understood. It is thought to involve dimethyl fumarate degradation to its active metabolite monomethyl fumarate (MMF) then MMF up-regulates the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway that is activated in response to oxidative stress. Dimethyl fumarate is marketed under the brand name Tecfidera.
+4. Indication:  Used in multiple sclerosis patients with relapsing forms.
+DrugId:  15
+1. Name:  Interferon beta-1a
+2. Groups:  Approved, Investigational
+3. Description:  Human interferon beta (166 residues), glycosylated, MW=22.5kD. It is produced by mammalian cells (Chinese Hamster Ovary cells) into which the human interferon beta gene has been introduced. The amino acid sequence is identical to that of natural human interferon beta.
+4. Indication:  For treatment of relapsing/remitting multiple sclerosis, also for condyloma acuminatum
+DrugId:  16
+1. Name:  Demeclocycline
+2. Groups:  Approved
+3. Description:  A tetracycline analog having a 7-chloro and a 6-methyl. Because it is excreted more slowly than tetracycline, it maintains effective blood levels for longer periods of time. [PubChem]
+4. Indication:  Used primarily to treat Lyme disease, acne, and bronchitis. Also indicated (but rarely used) to treat urinary tract infections, gum disease, malaria, and other bacterial infections such as gonorrhea and chlamydia. One of its other registered uses is the treatment of hyponatremia (low blood sodium concentration) due to the syndrome of inappropriate antidiuretic hormone (SIADH) where fluid restriction alone has been ineffective. 
+DrugId:  17
+1. Name:  Simeprevir
+2. Groups:  Approved
+3. Description:  Simeprevir is a hepatitis C virus (HCV) NS3/4A protease inhibitor indicated in patient's with HCV genotype 1 for the treatment of chronic hepatitis C virus (HCV) infection. HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [7]. Like all NS3/4A inhibitors, simeprevir is a serine protease inhibitor in similarity to Boceprevir and Telaprevir but is classified as a second generation protease inhibitor. This class of antiviral drugs were the first direct acting antivirals approved but are associated with lower cure rates than newer drugs. Broad use of simeprevir occurred when it was used in combination with a newer drug, Sofosbuvir. Inhibiting HCV NS3/4A protease in a potent and highly specific manner, simeprevir is a direct-acting antiviral agent against the hepatitis C virus. Since the viral protease NS3/4A complex is essential for cleaving the HCV encoded polyprotein into individual viral proteins facilitating replication [4], the drug blocks the viral replication process. It is shown to display synergistic effects with interferon-α and HCV NS5B inhibitor, and additive effects with ribavirin in HCV replicon cells [2]. Unlike first generation serine protease inhibitors, simprevir has a sightly different resistance profile where limited therapeutic efficacy of the drug is observed with NS3 Q80K polymorphic variants and simeprevir-specific amino acid position of 168 also results in higher treatment failure rates [3]. The observed prevalence of the N3 Q80K polymorphism was 30% in subjects infected with HCV genotype 1a and 0.5% in subjects infected with HCV genotype 1b [3]. According to 2017 American Association for the Study of Liver Diseases (AASLD) and 2015 consensus guidelines from the Canadian Association for the Study of the Liver (CASL), simeprevir can be used as first-line or second-line threapies for treatment-naïve patients as adjunct to sofosbuvir treatment for genotype 1 or PEG-Interferon/ribavirin combination therapy for genotype 1 or 4. The combination therapy of simeprevir and other antiviral agents are initiated in HCV-positive patients with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [6].Simeprevir was approved by the FDA in November 2014 and is marketed under the brand name Olysio as oral tablets. Administered once daily with food, 150mg simeprevir capsule is used in combination with Sofosbuvir in patients with HCV genotype 1 without cirrhosis for 12 week duration. In patients with HCV genotype 1 with compensated cirrhosis, the treatment is directed for 24 week duration. Sustained virologic response 12 weeks after planned end of treatment (SVR12) was achieved in 170/176 (97%) subjects without cirrhosis treated with 12 weeks simeprevir in combination with sofosbuvir (FDA Label). The overall SVR12 was 88% (44/50) in treatment-naïve patients with cirrhosis [7].Simeprevir is also used in treatment of HCV genotype 4 patients with or without cirrhosis and is taken with Peginterferon alfa-2a and Ribavirin; this triple therapy allows shortening treatment duration from 48 weeks or longer to 12 or 24 weeks [3] depending on prior response status and presence of HIV-1 co-infection. Prior to initiation of treatment with Peginterferon alfa-2a and Ribavirin, screening for the presence of virus with the NS3 Q80K polymorphism is strongly recommended and if detected, alternative treatment should be considered instead to prevent therapeutic failure. The SVR12 was 83% (29/35) in treatment-naïve patients and 86% (19/22) in relapsing patients.
+4. Indication:  Indicated for the treatment of adults with chronic hepatitis C virus (HCV) infection: typically in combination with sofosbuvir in patients with HCV genotype 1 without cirrhosis or with compensated cirrhosis and in combination with peginterferon alfa (Peg-IFN-alfa) and ribavirin (RBV) in patients with HCV genotype 1 or 4 without cirrhosis or with compensated cirrhosis. Resistance: Reduced susceptibility to simeprevir was most commonly associated with the viral NS3 Q80K polymorphism. Amino acid substitutions at NS3 positions S122, R155 and/or D168 are also shown to reduce susceptibility to simeprevir in genotype 1a/b patients. 

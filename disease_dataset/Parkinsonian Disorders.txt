@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Preladenant
+2. Groups:  Investigational
+3. Description:  Preladenant has been used in trials studying the treatment of Brain Diseases, Parkinson Disease, Movement Disorders, Antipsychotic Agents, and Parkinsonian Disorders, among others.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Talampanel
+2. Groups:  Investigational
+3. Description:  Talampanel is a substance that is being studied in the treatment of brain tumors and other brain disorders, such as epilepsy and Parkinson disease. It is a type of AMPA receptor antagonist.
+4. Indication:  For the treatment of epilepsy.
+DrugId:  3
+1. Name:  Trihexyphenidyl
+2. Groups:  Approved
+3. Description:  One of the centrally acting muscarinic antagonists used for treatment of parkinsonian disorders and drug-induced extrapyramidal movement disorders and as an antispasmodic. [PubChem]
+4. Indication:  Indicated for the treatment of parkinson's disease and extrapyramidal reactions caused by drugs.
+DrugId:  4
+1. Name:  Cabergoline
+2. Groups:  Approved
+3. Description:  Cabergoline, an ergot derivative, is a long-acting dopamine agonist and prolactin inhibitor. It is used to treat hyperprolactinemic disorders and Parkinsonian Syndrome. Cabergoline possesses potent agonist activity on dopamine D2 receptors. 
+4. Indication:  For the treatment of hyperprolactinemic disorders, either idiopathic or due to prolactinoma (prolactin-secreting adenomas). May also be used to manage symptoms of Parkinsonian Syndrome as monotherapy during initial symptomatic management or as an adjunct to levodopa therapy during advanced stages of disease. 
+DrugId:  5
+1. Name:  Pergolide
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  Pergolide is a long-acting dopamine agonist approved in 1982 for the treatment of Parkinson’s Disease. It is an ergot derivative that acts on the dopamine D2 and D3, alpha2- and alpha1-adrenergic, and 5-hydroxytryptamine (5-HT) receptors. It was indicated as adjunct therapy with levodopa/carbidopa in the symptomatic treatment of parkinsonian syndrome. It was later found that pergolide increased the risk of cardiac valvulopathy. The drug was withdrawn from the US market in March 2007 and from the Canadian market in August 2007.
+4. Indication:  Indicated as adjunctive treatment to levodopa/carbidopa in the management of the signs and symptoms of Parkinson's disease. It was withdrawn from the US and Canadian markets in 2007 due to an increased risk of cardiac valvulopathy. 
+DrugId:  6
+1. Name:  Orphenadrine
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used to treat drug-induced parkinsonism and to relieve pain from muscle spasm. [PubChem]
+4. Indication:  Indicated for the treatment of Parkinson's disease.
+DrugId:  7
+1. Name:  Altropane
+2. Groups:  Investigational
+3. Description:  Boston Life Sciences (BLS) is developing Altropane as a potential radio-imaging agent to be used with single photon emission tomography (SPECT), for the early diagnosis of Parkinson's disease (PD) and attention deficit hyperactivity disorder (ADHD).
+4. Indication:  Investigated for use/treatment in attention deficit/hyperactivity disorder (ADHD), parkinson's disease, and pediatric indications.
+DrugId:  8
+1. Name:  Bromocriptine
+2. Groups:  Approved, Investigational
+3. Description:  Bromocriptine mesylate is a semisynthetic ergot alkaloid derivative with potent dopaminergic activity. It is indicated for the management of signs and symptoms of Parkinsonian Syndrome. Bromocriptine also inhibits prolactin secretion and may be used to treat dysfunctions associated with hyperprolactinemia. It also causes sustained suppression of somatotropin (growth hormone) secretion in some patients with acromegaly. Bromocriptine has been associated with pulmonary fibrosis. 
+4. Indication:  For the treatment of galactorrhea due to hyperprolactinemia, prolactin-dependent menstrual disorders and infertility, prolactin-secreting adenomas, prolactin-dependent male hypogonadism, as adjunct therapy to surgery or radiotherapy for acromegaly or as monotherapy is special cases, as monotherapy in early Parksinsonian Syndrome or as an adjunct with levodopa in advanced cases with motor complications. Bromocriptine has also been used off-label to treat restless legs syndrome and neuroleptic malignant syndrome.
+DrugId:  9
+1. Name:  Atipamezole
+2. Groups:  Investigational, Vet approved
+3. Description:  Atipamezole is a synthetic α2 adrenergic receptor antagonist, indicated for the reversal of the sedative and analgesic effects of dexmedetomidine and medetomidine in dogs. It has also been researched in humans as a potential anti-Parkinsonian drug.
+4. Indication:  For the reversal of the sedative and analgesic effects of dexmedetomidine and medetomidine in dogs.
+DrugId:  10
+1. Name:  Desmethylprodine
+2. Groups:  Experimental, Illicit
+3. Description:  Desmethylprodine, a derivative of meperidine, is an opioid analgesic with the potency of morphine. It has been listed as a Schedule I controlled drug in the United States, and thus is not used clinically. It is known to be a designer drug, synthesized in 1977, for the purpose of recreational use. Illicit manufacturing has occurred.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Levodopa
+2. Groups:  Approved
+3. Description:  The naturally occurring form of dihydroxyphenylalanine and the immediate precursor of dopamine. Unlike dopamine itself, it can be taken orally and crosses the blood-brain barrier. It is rapidly taken up by dopaminergic neurons and converted to dopamine. It is used for the treatment of parkinsonian disorders and is usually given with agents that inhibit its conversion to dopamine outside of the central nervous system.
+4. Indication:  For the treatment of idiopathic Parkinson's disease (Paralysis Agitans), postencephalitic parkinsonism, symptomatic parkinsonism which may follow injury to the nervous system by carbon monoxide intoxication, and manganese intoxication.
+DrugId:  12
+1. Name:  Ilodecakin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in inflammatory disorders (unspecified), crohn's disease, and rheumatoid arthritis.
+DrugId:  13
+1. Name:  Ioflupane I-123
+2. Groups:  Approved
+3. Description:  Ioflupane (I-123) is a radiopharmaceutical used to image dopamine neurons and diagnose Parkinsonian syndromes.
+4. Indication:  Ioflupane I-123 is a SPECT (single photon emission computerized tomography) agent used to distinguish between Parkinson’s syndrome tremors and essential tremor. 
+DrugId:  14
+1. Name:  GW 597599
+2. Groups:  Investigational
+3. Description:  GW 597599, a neurokinin-1 (NK1) receptor antagonist is currently in phase II trials for chemotherapy-induced vomiting; functional dyspepsia; depression and anxiety.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy), anxiety disorders, depression, and gastrointestinal diseases and disorders (miscellaneous).
+DrugId:  15
+1. Name:  LX6171
+2. Groups:  Investigational
+3. Description:  LX6171 is an oral drug candidate that was generated by Lexicon medicinal chemists and is being developed to treat disorders characterized by cognitive impairment, such as Alzheimer's disease, schizophrenia or vascular dementia.
+4. Indication:  Investigated for use/treatment in alzheimer's disease, attention deficit/hyperactivity disorder (ADHD), dementia, neurologic disorders, and schizophrenia and schizoaffective disorders.
+DrugId:  16
+1. Name:  Mito-4509
+2. Groups:  Investigational
+3. Description:  Mito-4509 is a non-feminizing estrogen analog that could affect mitochondrial metabolic pathways. It is used to treat Parkinson's Disease, Alzheimer's Disease, Retinal Disorders and other neurologic Disorders. 
+4. Indication:  Investigated for use/treatment in alzheimer's disease, neurologic disorders, parkinson's disease, and retinal disorders (unspecified).
+DrugId:  17
+1. Name:  Sotirimod
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in actinic keratosis and skin infections/disorders.
+DrugId:  18
+1. Name:  ABT-560
+2. Groups:  Investigational
+3. Description:  ABT-560 is a neuronal nicotinic receptor (NNR) modulator, which has shown promise in preclinical models relevant for the treatment of cognitive deficits.
+4. Indication:  Investigated for use/treatment in neurologic disorders.
+DrugId:  19
+1. Name:  Col-118
+2. Groups:  Investigational
+3. Description:  COL-118, a topical compound based on the SansRosa technology, for the treatment of redness associated with rosacea and other skin disorders. It is a believed to reduce erythema by constricting enlarged blood vessels in facial tissue. Col-118 is a unique formulation and presentation of Brimonidine, which is a selective alpha-2 adrenergic receptor agonist.
+4. Indication:  Investigated for use/treatment in skin infections/disorders.
+DrugId:  20
+1. Name:  LU-31130
+2. Groups:  Investigational
+3. Description:  LU-31130 is a rapid acting therapy developed by H. Lundbeck A/S to treat Psychosis, Schizophrenia and Schizoaffective Disorders. It acts at the Dopamine D4 receptors in the cortex and has low affinity for D2 receptors, adrenoceptors, muscarinic and histaminergic receptors.It provides anti-psychotic characteristic and a low incidence of extrapyramidal and cardiovascular side effects. 
+4. Indication:  Investigated for use/treatment in psychosis and schizophrenia and schizoaffective disorders.
+DrugId:  21
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  22
+1. Name:  RPI-78M
+2. Groups:  Investigational
+3. Description:  RPI-78M is being developed for the treatment of multiple sclerosis (MS). Other neurological disorders that may be served by RPI-78M include myasthenia gravis (MG), muscular dystrophy (MD) and amyotrophic lateral sclerosis (ALS).
+4. Indication:  Investigated for use/treatment in multiple sclerosis, neurologic disorders, and pain (acute or chronic).
+DrugId:  23
+1. Name:  Opebacan
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in crohn's disease, congenital anomaly (unspecified), cardiovascular disorders, pediatric indications, and burns and burn infections.
+DrugId:  24
+1. Name:  Tolcapone
+2. Groups:  Approved, Withdrawn
+3. Description:  Tolcapone is a drug that inhibits the enzyme catechol-O-methyl transferase (COMT). It is used in the treatment of Parkinson's disease as an adjunct to levodopa/carbidopa medication. It is a yellow, odorless, non-hygroscopic, crystalline compound. Tolcapone is associated with a risk of hepatotoxicity. [Wikipedia]
+4. Indication:  Used as an adjunct to levodopa/carbidopa therapy for the symptomatic treatment of Parkinson's Disease. This drug is generally reserved for patients with parkinsonian syndrome receiving levodopa/carbidopa who are experiencing symptom fluctuations and are not responding adequately to or are not candidates for other adjunctive therapies.
+DrugId:  25
+1. Name:  Somavaratan
+2. Groups:  Investigational
+3. Description:  Somavaratan has been used in trials studying the treatment of Growth Disorders and Adult Growth Hormone Deficiency.
+4. Indication:  Not Available

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  PRO 2000
+2. Groups:  Investigational
+3. Description:  PRO 2000 is an investigational medicine that is not yet approved by the FDA for use outside of clinical trials. It is being studied for the prevention of HIV infection and other sexually transmitted diseases. This medicine does not cure HIV infection or AIDS and is being studied to reduce the risk of passing the virus to other people.
+4. Indication:  Investigated for use/treatment in HIV prevention, prevention of stdis, and vaginal infection.
+DrugId:  2
+1. Name:  Povidone-iodine
+2. Groups:  Approved
+3. Description:  Povidone-iodine is a stable chemical complex of polyvinylpyrrolidone (povidone, PVP) and elemental iodine. It contains from 9.0% to 12.0% available iodine, calculated on a dry basis. This unique complex was discovered in 1955 at the Industrial Toxicology Laboratories in Philadelphia by H. A. Shelanski and M. V. Shelanski. They carried out tests in vitro to demonstrate anti-bacterial activity, and found that the complex was less toxic in mice than tincture of iodine. Human clinical trials showed the product to be superior to other iodine formulations. Povidone-iodine was immediately marketed, and has since become the universally preferred iodine antiseptic.
+4. Indication:  For topical application in the treatment and prevention of infection in wounds.
+DrugId:  3
+1. Name:  Interleukin-10
+2. Groups:  Investigational
+3. Description:  Interleukin-10 has been used in trials studying the prevention and treatment of Vasculitis, Pancreatitis, Bile Duct Diseases, Pancreatic Diseases, and Gallbladder Diseases, among others.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  NVS antibody
+2. Groups:  Investigational
+3. Description:  This drug has been developed using Medarex's UltiMAb Human Antibody Development System to treat autoimmune diseases.
+4. Indication:  Investigated for use/treatment in autoimmune diseases and rheumatoid arthritis.
+DrugId:  5
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Nonoxynol-9
+2. Groups:  Approved, Withdrawn
+3. Description:  Nonoxynol-9 (N-9) is a typical surfactant used as a vaginal spermicide. Spermicides are locally acting non-hormonal contraceptives. When present in the vagina during intercourse, they immobilize/inactivate/damage and/or kill sperms without eliciting systemic effects. N-9 has been in use for more than 30 years as an over-the-counter (OTC) drug in creams, gels, foams and condom lubricants. It is the most commonly used spermicidal contraceptive in the UK and the USA. In several European countries, spermicides are no longer on the market.
+4. Indication:  Nonoxynol 9 is a surfactant spermicide used for contraception in spermicidal creams, jellies, foams, gel, and lubricants. It is also used in conjuction with other methods of contraception, including condoms, cervical caps and diaphragms.
+DrugId:  7
+1. Name:  Terconazole
+2. Groups:  Approved
+3. Description:  Terconazole is an anti-fungal medication, primarily used to treat vaginal fungal infections. [Wikipedia]
+4. Indication:  For the treatment of candidiasis (a yeast-like fungal infection) of the vulva and vagina.
+DrugId:  8
+1. Name:  Miconazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An imidazole antifungal agent that is used topically and by intravenous infusion. [PubChem]
+4. Indication:  For topical application in the treatment of tinea pedis (athlete’s foot), tinea cruris, and tinea corporis caused by Trichophyton rubrum, Trichophyton mentagrophytes, and Epidermophyton floccosum, in the treatment of cutaneous candidiasis (moniliasis), and in the treatment of tinea versicolor.
+DrugId:  9
+1. Name:  Butoconazole
+2. Groups:  Approved
+3. Description:  Butoconazole is an imidazole antifungal used in gynecology.
+4. Indication:  For the local treatment of vulvovaginal candidiasis (infections caused by Candida)
+DrugId:  10
+1. Name:  Clotrimazole
+2. Groups:  Approved, Vet approved
+3. Description:  An imidazole derivative with a broad spectrum of antimycotic activity. It inhibits biosynthesis of the sterol ergostol, an important component of fungal cell membranes. Its action leads to increased membrane permeability and apparent disruption of enzyme systems bound to the membrane. [PubChem]
+4. Indication:  For the local treatment of oropharyngeal candidiasis and vaginal yeast infections, also used in fungal infections of the skin such as ringworm, athlete's foot, and jock itch.
+DrugId:  11
+1. Name:  PN0621
+2. Groups:  Investigational
+3. Description:  PN0621 is an anti-TNF, domain antibody (dAb) based therapeutic. It targets tumour necrosis factor (TNF) to treat auto-immune inflammatory diseases such as rheumatoid arthritis. It is being developed by Peptech.
+4. Indication:  Intended for the treatment of auto-immune diseases such as rheumatoid arthritis, psoriasis and Crohn's disease.
+DrugId:  12
+1. Name:  Lexaptepid Pegol
+2. Groups:  Investigational
+3. Description:  Lexaptepid Pegol has been used in trials studying the treatment of Anemia, Inflammation, Chronic Diseases, End Stage Renal Disease, and Anemia of Chronic Disease.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  C31G
+2. Groups:  Investigational
+3. Description:  C31G is a potent broad spectrum antimicrobial agent, effective against gram positive and gram negative bacteria, yeast and fungi.C31G, vaginal gel is developed by Biosyn Inc. and has commenced enrollment in a phase III pivotal clinical trial for the reduction of sexual transmission of human immunodeficiency virus (HIV).
+4. Indication:  Investigated for use/treatment in contraception, HIV infection, and prevention of stdis.
+DrugId:  14
+1. Name:  TRX1
+2. Groups:  Investigational
+3. Description:  TRX1 is a humanized antibody that binds to the CD4 receptor found on a subset of T cells. TRX1 is being developed for the potential treatment of autoimmune diseases in collaboration with Genentech, Inc. TolerRx is currently conducting a Phase I clinical study of TRX1 in the United Kingdom.
+4. Indication:  Investigated for use/treatment in autoimmune diseases.
+DrugId:  15
+1. Name:  Dequalinium
+2. Groups:  Approved, Investigational
+3. Description:  Dequalinium is a quaternary ammonium cation that contains two quaternary quinolinium units linked by an N-decylene chain. It is an antiseptic and disinfectant agent with a broad bactericidal and fungicidal activity. It is most commonly available as a dichloride salt but is available as other various salts as well. It is used in wound dressings and mouth infections and may also have antifungal action, but may associate with skin ulceration. Dequalinium chloride is used as an active ingredient in tablets as Fluomizin for vaginal bacterial infections and in topical bacteriostat formulation as Dequadin. It has been studied for use in treatment of malaria and acute promyelocytic leukemia. Its multiple mode of action is thought to reduce the risk of resistance of pathogens.
+4. Indication:  Effective local treatment as vaginal tablets for infections such as fluor vaginalis, bacterial vaginosis, aerobic vaginitis, vulvo-vaginal candidiasis and trichomoniasis. Used as a topical antimicrobial agent. 
+DrugId:  16
+1. Name:  Boric acid
+2. Groups:  Approved
+3. Description:  Boric acid is a weak monobasic Lewis acid of boron with the chemical formula H3BO3 that is often used as an antiseptic, insecticide, flame retardant, neutron absorber, preservative, pH buffer or precursor to other chemical compounds [Wikipedia]. Boric acid is added in food products and can also be found in antiseptic products. It also exhibits antibacterial activity against infections such as bacterial vaginosis and candidiasis.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Estrogens, esterified
+2. Groups:  Approved
+3. Description:  Esterified estrogens contain a mixture of estrogenic substances; the principle component is estrone. Preparations contain 75% to 85% sodium estrone sulfate and 6% to 15% sodium equilin sulfate such that the total is not <90%. Esterified estrogens are a man-made mixture of estrogens that are used to treat symptoms of menopause such as hot flashes, vaginal dryness, vaginal burning or irritation, or other hormonal changes in the vagina. It is being also for the prevention and treatment of osteoporosis.
+4. Indication:  Esterified estrogens are indicated to replace estrogen in women with ovarian failure or other conditions that cause a lack of natural estrogen in the body.It is also indicated for the treatment of symptoms of breast cancer in both men and women. In men it can be used for the treatment of advanced prostate cancer.It is also indicated for the treatment of menopausal symptoms. 
+DrugId:  18
+1. Name:  R1295
+2. Groups:  Investigational
+3. Description:  R1295 is an integrin antagonist currently in clinical trials for the treatment of rheumatoid arthritis. Integrins are associated to the pathology seen in some of the autoimmune diseases such as rheumatoid arthritis. 
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  19
+1. Name:  Polihexanide
+2. Groups:  Approved, Investigational
+3. Description:  Polihexanide has been used in trials studying the treatment, prevention, and supportive care of Caries, Neoplasm, Skin Diseases, Nail Diseases, and Dental Plaque, among others.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  LX-2931
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis, inflammatory disorders (unspecified), and autoimmune diseases.
+DrugId:  21
+1. Name:  Ospemifene
+2. Groups:  Approved, Investigational
+3. Description:  Ospemifene is a new selective non-hormonal estrogen receptor modulator (SERM) that is used for the treatment of moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause. FDA approved on February 26, 2013. 
+4. Indication:  Ospemifene is used for the treatment of moderate to dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause.
+DrugId:  22
+1. Name:  Synthetic Conjugated Estrogens, B
+2. Groups:  Approved
+3. Description:  Synthetic conjugated estrogens, B tablets contain a blend of ten synthetic estrogenic substances. The estrogenic substances are: sodium estrone sulfate, sodium equilin sulfate, sodium 17α-dihydroequilin sulfate, sodium 17α-estradiol sulfate, sodium 17β­ dihydroequilin sulfate, sodium 17α-dihydroequilenin sulfate, sodium 17β-dihydroequilenin sulfate, sodium equilenin sulfate, sodium 17β-estradiol sulfate, and sodium Δ8,9-dehydroestrone sulfate. This blend of ten estrogen derivatives are plant-derived forms of endogenous estrogens and contain many of the same compounds as the Conjugated Equine Estrogens (CEEs), although they are not considered to be equivalent. Available as the product Cenestin (FDA), this combination of plant-derived estrogenic compounds is indicated for the treatment of moderate to severe vasomotor symptoms, vulvovaginal atrophy, vaginal dryness, and paint with intercourse associated with menopause. All estrogen products mimic the effects of endogenous estrogens in the body which are responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Estrogens act by binding to estrogen receptors on a wide variety of tissues in the body and modulating the pituitary secretion of the gonadotropins, luteinizing hormone (LH) and follicle stimulating hormone (FSH) through a negative feedback mechanism. Prior to menopause, the primary source of estrogen is the ovarian follicle, which secretes 70-500 micrograms of estradiol daily, depending on the phase of the menstrual cycle. However, once a woman stops ovulating there is a sharp decline in the production of progesterone and estradiol by the ovaries and a consequent fluctuation in LH and FSH due to a lack of feedback control. This shift in hormone production is largely responsible for many of the symptoms experienced during and after menopause and includes hot flashes and other vasomotor symptoms, painful intercourse, vaginal dryness, and vulvovaginal atrophy. These symptoms are able to be reduced by replacing many of the hormones lost during and following menopause with synthetic or naturally occurring forms, in a therapy known as Hormone Replacement Therapy (HRT).Pharmacologic estrogen products are available in a variety of formats. Although many of them contain several compounds in common (such as the estrogen derivatives sodium estrone sulfate and sodium equilin sulfate), they vary by their original source (such as horse-, human-, or plant-derived), and the remaining mixture of estrogenic derivatives. Conjugated Equine Estrogens (CEEs) are derived from the urine of pregnant mares and contain a blend of at least 10 estrogen derivatives. Marketed under the brand name Premarin, CEEs are the most frequently used form of conjugated estrogens. There is currently no generic form of CEEs available as a detailed analytical characterization of the active ingredients or of their estrogenic activity is not available at this time. Conjugated estrogens are also available in a plant-derived synthetic form that replicates the naturally occurring, horse-derived forms. Available as either "Synthetic Conjugated Estrogens, A" containing 9 estrogen derivatives (available as Cenestin) or as "Synthetic Conjugated Estrogens, B" containing 10 estrogen derivatives (available as Enjuvia), these products are isolated as precursors from yam or soy plants and then chemically modified to mimic the products available in their naturally occurring form. 
+4. Indication:  For the treatment of moderate to severe vasomotor symptoms due to menopause and for the treatment of moderate to severe vaginal dryness, pain with intercourse, and symptoms of vulvar and vaginal atrophy due to menopause.
+DrugId:  23
+1. Name:  KB002
+2. Groups:  Investigational
+3. Description:  KB002 is an engineered human IgG1k antibody engineered human. It is developed for the treatment of autoimmune diseases, initially rheumatoid arthritis.
+4. Indication:  Investigated for use/treatment in rheumatoid arthritis.
+DrugId:  24
+1. Name:  PDE4
+2. Groups:  Investigational
+3. Description:  Merck has developed a selective PDE4 inhibitor for the treatment of inflammatory diseases, such as asthma and chronic obstructive pulmonary disease. Whereas the potential therapeutic utility of PDE4 inhibition has been demonstrated in various preclinical animal models (e.g., in rheumatoid arthritis and multiple sclerosis), clinical evaluation has been restricted by dose-limiting side effects, mainly nausea and emesis.
+4. Indication:  Investigated for use/treatment in asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  25
+1. Name:  Latiglutenase
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in gastrointestinal diseases and disorders (miscellaneous) and autoimmune diseases such as celiac disease.

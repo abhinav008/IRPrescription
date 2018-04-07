@@ -1,0 +1,55 @@
+DrugId:  1
+1. Name:  Ipilimumab
+2. Groups:  Approved
+3. Description:  Ipilimumab, a recombinant human monoclonal antibody (IgG1 kappa immunoglobin), is an antineoplastic agent developed by Bristol-Myers Squibb and Medarex for the treatment of unresectable or metastatic melanoma in adults. Ipilimumab received FDA approved on March 25, 2011. In October 2015, the FDA approved expanded the indications for Ipilimumab, allowing it to be used to reduce the risk of the deadly skin cancer returning after surgery.
+4. Indication:  Ipilimumab is indicated for the treatment of unresectable or metastatic melanoma in adults. It is also used to reduce the risk of the deadly skin cancer returning after surgery.
+DrugId:  2
+1. Name:  Maxy-G34
+2. Groups:  Investigational
+3. Description:  MAXY-G34 is a pegylated variant of human granulocyte-colony stimulating factor (G-CSF). This variant contains multiple non-naturally occurring lysines that have been introduced into alpha helixes of wild type human G-CSF as PEGylation sites, and from which multiple undesired, naturally occurring lysines have been removed as compared to wild type human G-CSF to avoid PEGylation of such sites. Specifically, the amino acid sequence of MAXY-G34 differs from that of human wild type G-CSF at residues 16, 34, 40, 105 and 159. This was accomplished by removing the three lysine residues at positions 16, 34 and 40, and replacing them with arginine, and substituting two new lysine residues at positions 105 and 159. MAXY-G34 is pegylated with 5 kd mPEG SPA (succinimidyl propionate) groups at 3 amino acid residues, including PEG groups attached at the amino terminal end of the protein and at two internal lysine residues, while Neulasta has a single 20 Kd PEG group attached at the N terminal end of the wild type G-CSF protein. It is being developed by Maxygen, Inc. for the treatment of chemotherapy-induced neutropenia.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy) and neutropenics.
+DrugId:  3
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.
+DrugId:  4
+1. Name:  Pegfilgrastim
+2. Groups:  Approved
+3. Description:  PEGylated (at N terminus) form of human G-CSF (Granulocyte colony stimulating factor), 175 residues, produced from E. coli via bacterial fermentation.
+4. Indication:  Increases leukocyte production, for treatment in non-myeloid cancer, neutropenia and bone marrow transplant.
+DrugId:  5
+1. Name:  Benzathine benzylpenicillin
+2. Groups:  Approved, Vet approved
+3. Description:  Benzathine benzylpenicillin is a form of penicillin also known as benzathine penicillin. It is an B-lactam antibiotic useful for the treatment of a number of bacterial infections. These include This includes; syphilis, necrotizing enterocolitis, diphtheria, gas gangrene, leptospirosis, cellulitis, pneumonia, strep throat and tetanus.Side effects include diarrhea, seizures, and allergic reactions including anaphylaxis. Benzathine benzylpenicllin is considered long acting B-lactam antibiotic.
+4. Indication:  For the treatment of several infections include: acute glomerulonephritis, respiratory tract infections, rheumatic fever and chorea, rheumatic heart disease, rheumatic heart disease, syphilis and other venereal diseases.
+DrugId:  6
+1. Name:  Ceftaroline fosamil
+2. Groups:  Approved, Investigational
+3. Description:  Ceftaroline fosamil is a cephalosporin antibacterial indicated for the treatment of the following infections caused by designated susceptible bacteria:Acute bacterial skin and skin structure infections.Community-acquired bacterial pneumonia.
+4. Indication:  Ceftaroline fosamil is indicated for the treatment of patients with the following infections caused by susceptible isolates of the designated microorganisms.
+DrugId:  7
+1. Name:  Lymecycline
+2. Groups:  Approved, Investigational
+3. Description:  A tetracycline with a 7-chloro substitution.
+4. Indication:  For the treatment of infections and to treat acne. It may also be used to treat urinary tract infections, gum disease, and other bacterial infections such as gonorrhea and chlamydia. Lymecycline is also used commonly as a prophylactic treatment for infection by Bacillus anthracis (anthrax). It is also effective against Yersinia pestis and malaria and is also prescribed for the treatment of Lyme disease.
+DrugId:  8
+1. Name:  Cefepime
+2. Groups:  Approved, Investigational
+3. Description:  Cefepime is a fourth-generation cephalosporin antibiotic developed in 1994. Cefepime has an extended spectrum of activity against Gram-positive and Gram-negative bacteria, with greater activity against both Gram-negative and Gram-positive organisms than third-generation agents. Cefepime is usually reserved to treat severe nosocomial pneumonia, infections caused by multi-resistant microorganisms (e.g. Pseudomonas aeruginosa) and empirical treatment of febrile neutropenia.
+4. Indication:  For the treatment of pneumonia (moderate to severe) caused by Streptococcus pneumoniae, including cases associated with concurrent bacteremia, Pseudomonas aeruginosa, Klebsiella pneumoniae, or Enterobacter species. Also for empiric treatment of febrile neutropenic patients and uncomplicated and complicated urinary tract infections (including pyelonephritis) caused by Escherichia coli or Klebsiella pneumoniae, when the infection is severe, or caused by Escherichia coli, Klebsiella pneumoniae, or Proteus mirabilis, when the infection is mild to moderate, including cases associated with concurrent bacteremia with these microorganisms. Also for the treatment of uncomplicated skin and skin structure infections caused by Staphylococcus aureus (methicillin-susceptible strains only) or Streptococcus pyogenes and complicated intra-abdominal infections (used in combination with metronidazole) caused by Escherichia coli, viridans group streptococci, Pseudomonas aeruginosa, Klebsiella pneumoniae, Enterobacter species, or Bacteroides fragilis.
+DrugId:  9
+1. Name:  Filgrastim
+2. Groups:  Approved
+3. Description:  Filgrastim is a recombinant, non-pegylated human granulocyte colony stimulating factor (G-CSF) analogue manufactured by recombinant DNA technology using a strain of E. coli. It is marketed as the brand name Neupogen by Amgen. Chemically, it consists of 175 amino acid residues. The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis, except for the addition of an N-terminal methionine necessary for expression in E coli. Tbo-filgrastim, which is marketed by Sicor Biotech and FDA approved on August 29, 2012, contains the same active ingredient as Neupogen and is biologically similar, but it is formulated to be short-acting. On March 6, 2015, the FDA approved the biosimilar Zarxio (filgrastim-sndz) and is indicated for use in the same conditions as Neupogen. Zarxio is marketed by Sandoz.
+4. Indication:  Filgrastim is used in patients with acute myeloid leukemia receiving induction or consolidation chemotherapy. It is also used in cancer patients receiving bone marrow transplant. In general, filgrastim increases neutrophil counts in order to decrease the risk of infection or duration of neutropenia in the aforementioned patient populations. Infection and neutropenia are adverse events associated with chemotherapy. Furthermore, filgrastim is also indicated for patients with severe chronic neutropenia. It mobilizes hematopoietic progenitor cells into the peripheral blood for collection by leukapheresis to allow for a more rapid engraftment. Tbo-filgrastim has a narrower indication profile than Neupogen - it is a leukocyte growth factor indicated for the reduction in the duration of severe neutropenia in patients with non-myeloid malignancies.
+DrugId:  10
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  11
+1. Name:  Doxycycline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A synthetic tetracycline derivative with similar antimicrobial activity. Animal studies suggest that it may cause less tooth staining than other tetracyclines. It is used in some areas for the treatment of chloroquine-resistant falciparum malaria (malaria, falciparum).
+4. Indication:  Doxycycline is indicated for use in respiratory tract infections caused by Mycoplasma pneumoniae, Haemophilus influenzae, Streptococcus pneumoniae, Legionella spp., or Klebsiella spp. It is also used for prophylaxis of malaria. Doxycycline is indicated for a variety of bacterial infections, from Mycobacterium fortuitum and M. marinum, to susceptible E. coli and Brucella spp. It can be used as an alternative to treating plague, tetanus, Campylobacter fetus 

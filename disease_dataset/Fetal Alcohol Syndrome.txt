@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  2
+1. Name:  Paramethadione
+2. Groups:  Approved
+3. Description:  Paramethadione is an anticonvulsant in the oxazolidinedione class. It is associated with fetal trimethadione syndrome, which is also known as paramethadione syndrome.
+4. Indication:  Used for the control of absence (petit mal) seizures that are refractory to treatment with other medications.
+DrugId:  3
+1. Name:  Prasterone sulfate
+2. Groups:  Investigational
+3. Description:  DHEA sulfate is the major steroid of the fetal adrenal. DHEA-S is the principal adrenal androgen and is secreted together with cortisol under the control of ACTH and prolactin. DHEA-S is elevated with hyperprolactinemia.
+4. Indication:  Investigated for use/treatment in asthma and burns and burn infections.
+DrugId:  4
+1. Name:  LJP 1082
+2. Groups:  Investigational
+3. Description:  LJP 1082 is a Toleragen that is designed to shut down the B cells that produce antibodies to ß2 GP1. LJP 1082 is undergoing trial for for the treatment of stroke, deep-vein thrombosis and other conditions associated with antibody-mediated thrombosis. Antibody-mediated thrombosis, also called antiphospholipid syndrome (APS), is a blood clotting disorder. Patients with high levels of anticardiolipin antibodies (ACA) have an increased risk of stroke, heart attack, deep vein thrombosis, and recurrent fetal loss. The target of the LJP 1082's clot-promoting antibodies is a small region on a key blood protein called beta 2-glycoprotein I. To date, our scientists have shown that approximately 90% of patients studied with antibody-mediated thrombosis have antibodies that bind to this region.
+4. Indication:  Investigated for use/treatment in autoimmune diseases, strokes, and thrombosis.
+DrugId:  5
+1. Name:  Vancomycin
+2. Groups:  Approved
+3. Description:  Antibacterial obtained from Streptomyces orientalis. It is a glycopeptide related to ristocetin that inhibits bacterial cell wall assembly and is toxic to kidneys and the inner ear.As of January 29 2018, CutisPharma's Firvanq is the only FDA approved vancomycin oral liquid treatment option available for the the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [LP1196]. Such an oral liquid formulation is expected to make Clostridium difficile associated diarrhea therapy more accessible in comparison to previously available specialty compounding products [LP1196].
+4. Indication:  A variety of dosage forms (for example, oral, injections, etc.) exist for the treatment of serious or severe infections caused by susceptible strains of methicillin-resistant (beta-lactam-resistant) staphylococci [FDA Label].Additionally, a unique FDA approved oral liquid treatment is also available and indicated for the treatment of Clostridium difficile associated diarrhea and enterocolitis caused by Staphylococcus aureus, including methicillin-resistant strains [9].
+DrugId:  6
+1. Name:  Dichloroisoproterenol
+2. Groups:  Investigational
+3. Description:  Dichloroisoproterenol has been used in trials studying the treatment and basic science of Insulin Resistance and Polycystic Ovary Syndrome.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Betulinic Acid
+2. Groups:  Investigational
+3. Description:  Betulinic Acid has been used in trials studying the treatment of Dysplastic Nevus Syndrome.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Aminopterin
+2. Groups:  Investigational, Withdrawn
+3. Description:  Aminopterin is an amino derivative of folic acid, which was once used as an antineoplastic agent in the treatment of pediatric leukemia. In the 1950's its production was discontinued in favor of methotrexate, which is less potent but less toxic. Off label, aminopterin has also been used in the treatment of psoriasis. Clinicians need to be aware of the characteristic teratologic effects of aminopterin and methotrexate. 
+4. Indication:  Prior to its withdrawal, aminopterin was initially used in the treatment of childhood leukemia; specifically to induce remissions. Later, aminopterin was used off-label in the United States to treat psoriasis, yielding dramatic lesion clearing. Aminopterin was later supplanted by methotrexate for treating cancer because of its better therapeutic index. Aminopterin (as well as methotrexate) has also been explored for use as an abortifacient. However, their association with severe congenital malformations and teratogenic effects have become known as fetal aminopterin syndrome. 
+DrugId:  9
+1. Name:  Pembrolizumab
+2. Groups:  Approved
+3. Description:  Pembrolizumab is a humanized monoclonal antibody that blocks the interaction between PD-1 and its ligands, PD-L1 and PD-L2. It is used for the treatment of several types of cancer such as, Melanoma, Non-Small Cell Lung Cancer and Head and Neck Cancer.Due to its success in clinical trials, pembrolizumab was approved early to allow quick patient access and was given breakthrough therapy and orphan drug designation. Pembrolizumab (as Keytruda) was approved by the U.S. Food and Drug Administration to treat advanced cases of the most common type of lung malignancy, non-small cell lung cancer on Oct. 2, 2015. Keytruda was additionally approved for the treatment of Classical Hodgkin Lymphoma (cHL) in March, 2017.
+4. Indication:  Pembrolizumab is a programmed death receptor-1 (PD-1)-blocking antibody indicated for the treatment of: patients with unresectable or metastatic melanoma. patients with metastatic NSCLC whose tumors have high PD-L1 expression [(Tumor Proportion Score (TPS) ≥50%)] as determined by an FDA-approved test, with no EGFR or ALK genomic tumor aberrations, and no prior systemic chemotherapy treatment for metastatic NSCLC. patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test, with disease progression on or after platinum-containing chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA. patients with recurrent or metastatic HNSCC with disease progression on or after platinum-containing chemotherapy. This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials. 
+DrugId:  10
+1. Name:  Solabegron
+2. Groups:  Investigational
+3. Description:  Solabegron (GW-427,353) is a drug which acts as a selective agonist for the β3 adrenergic receptor. It is being developed for the treatment of overactive bladder and irritable bowel syndrome.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2, irritable bowel syndrome (IBS), and urinary incontinence.
+DrugId:  11
+1. Name:  Trimetrexate
+2. Groups:  Approved, Investigational
+3. Description:  A nonclassical folic acid inhibitor through its inhibition of the enzyme dihydrofolate reductase. It is being tested for efficacy as an antineoplastic agent and as an antiparasitic agent against pneumocystis pneumonia in AIDS patients. Myelosuppression is its dose-limiting toxic effect.
+4. Indication:  For use, with concurrent leucovorin administration (leucovorin protection), as an alternative therapy for the treatment of moderate-to-severe Pneumocystis carinii pneumonia (PCP) in immunocompromised patients, including patients with the acquired immunodeficiency syndrome (AIDS). Also used to treat several types of cancer including colon cancer.
+DrugId:  12
+1. Name:  Miltefosine
+2. Groups:  Approved, Investigational
+3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  13
+1. Name:  Vatiquinone
+2. Groups:  Investigational
+3. Description:  Vatiquinone has been investigated for the treatment and prevention of Retinopathy, Rett Syndrome, Genetic Disease, Noise-induced Hearing Loss, and Methylmalonic Aciduria and Homocystinuria,Cblc Type.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  AQX-1125
+2. Groups:  Investigational
+3. Description:  AQX-1125 has been used in trials studying the treatment of COPD, Atopic Dermatitis, Interstitial Cystitis, and Bladder Pain Syndrome.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Amdoxovir
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in HIV infection and acquired immune deficiency syndrome (AIDS) and aids-related infections.
+DrugId:  16
+1. Name:  scyllo-inositol
+2. Groups:  Investigational
+3. Description:  An isomer of glucose that has traditionally been considered to be a B vitamin although it has an uncertain status as a vitamin and a deficiency syndrome has not been identified in man. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1379) Inositol phospholipids are important in signal transduction. Scyllitol has been investigated for the treatment of Alzheimer Disease.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Trilostane
+2. Groups:  Approved, Investigational, Vet approved, Withdrawn
+3. Description:  Trilostane is an inhibitor of 3 beta-hydroxysteroid dehydrogenase used in the treatment of Cushing's syndrome. It was withdrawn from the United States market in April 1994. [Wikipedia]
+4. Indication:  Used in the treatment of Cushing's syndrome. It is normally used in short-term treatment until permanent therapy is possible.
+DrugId:  18
+1. Name:  Chloral hydrate
+2. Groups:  Approved, Illicit, Investigational, Vet approved
+3. Description:  A hypnotic and sedative used in the treatment of insomnia. The safety margin is too narrow for chloral hydrate to be used as a general anesthetic in humans, but it is commonly used for that purpose in animal experiments. It is no longer considered useful as an anti-anxiety medication.
+4. Indication:  Mainly used as a hyponotic in the treatment of insomnia; however, it is only effective as a hypnotic for short-term use. May be used as a routine sedative preoperatively to decrease anxiety and cause sedation and/or sleep with respiration depression or cough reflex. 
+DrugId:  19
+1. Name:  Amibegron
+2. Groups:  Investigational
+3. Description:  Amibegron is an agonist for atypical beta3-adrenoceptors which inhibits intestinal motility.
+4. Indication:  Investigated for use/treatment in depression, irritable bowel syndrome (IBS), and obesity.
+DrugId:  20
+1. Name:  Calcipotriol
+2. Groups:  Approved
+3. Description:  Calcipotriol (INN) or calcipotriene (USAN) is a sythetic derivative of calcitriol or Vitamin D.
+4. Indication:  For the treatment of moderate plaque psoriasis in adults.
+DrugId:  21
+1. Name:  Aramchol
+2. Groups:  Investigational
+3. Description:  Aramchol has been used in trials studying the treatment of HIV, Gallstones, Fatty Liver, Metabolic Syndrome, and Nonalcoholic Steatohepatitis, among others.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Eltanolone
+2. Groups:  Investigational
+3. Description:  Eltanolone is under investigation in clinical trial NCT02603926 (Treatment of Fragile-X Associated Tremor/Ataxia Syndrome (FXTAS) With Allopregnanolone).
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Birinapant
+2. Groups:  Investigational
+3. Description:  Birinapant has been investigated for the treatment of Myelodysplastic Syndrome (MDS) and Chronic Myelomonocytic Leukemia (CMML).
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Dinoprost Tromethamine
+2. Groups:  Approved, Vet approved
+3. Description:  The tromethamine (THAM) salt of the naturally occurring prostaglandin F2 alpha, dinoprost tromethamine occurs as a white to off-white, very hygroscopic, crystalline powder. Dinoprost tromethamine may also be known as dinoprost trometamol, PGF2 alpha THAM, or prostaglandin F2 alpha tromethamine.
+4. Indication:  Used for aborting second-trimester pregnancy (between the twelfth to eighteenth week of gestation) and in incomplete abortion or for therapeutic abortion in cases of intrauterine fetal death and congenital abnormalities incompatible with life. Also used at low-doses for medically indicated induction of labor at term. Also injected intra-arterially for use as a vasodilator to assist in angiography.
+DrugId:  25
+1. Name:  Omacetaxine mepesuccinate
+2. Groups:  Approved, Investigational
+3. Description:  Omacetaxine mepesuccinate (formerly known as HHT or Homoharringtonine), is a cephalotaxine ester and protein synthesis inhibitor with established clinical activity as a single agent in hematological malignancies. Omacetaxine mepesuccinate is synthesized from cephalotaxine, which is an extract from the leaves of the plant, Cephalotaxus species. In October 2005, omacetaxine mepesuccinate received Orphan Drug designation from the EMEA for the treatment of chronic myeloid leukemia (CML). Then in March 2006, it received Orphan Drug status from the FDA for the treatment of CML. In November 2006, omacetaxine mepesuccinate, for the treatment of CML, was granted Fast Track designation by the FDA. Most recently, in October 2012, omacetaxine mepesuccinate was marketed under the brand name Synribo and FDA approved for patients who are intolerant and/or resistant to two or more tyrosine kinase inhibitors used to treat accelerated or chronic phase CML.
+4. Indication:  Used in patients who are intolerant and/or resistant to two or more tyrosine kinase inhibitors used to treat accelerated or chronic phase CML. 

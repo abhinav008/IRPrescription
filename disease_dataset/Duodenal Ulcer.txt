@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Gefarnate
+2. Groups:  Investigational
+3. Description:  Gefarnate has been investigated for the treatment and prevention of Stomach Ulcer, Duodenal Ulcer, and Cardio-cerebrovascular Disease.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Sucralfate
+2. Groups:  Approved
+3. Description:  A basic aluminum complex of sulfated sucrose. [PubChem]
+4. Indication:  For the short-term treatment (up to 8 weeks) of active duodenal ulcer, as well as maintenance therapy for duodenal ulcer patients at reduced dosage (1 gram twice a day) after healing of acute ulcers. Also used for the short-term treatment of gastric ulcer.
+DrugId:  3
+1. Name:  Pirenzepine
+2. Groups:  Approved
+3. Description:  An antimuscarinic agent that inhibits gastric secretion at lower doses than are required to affect gastrointestinal motility, salivary, central nervous system, cardiovascular, ocular, and urinary function. It promotes the healing of duodenal ulcers and due to its cytoprotective action is beneficial in the prevention of duodenal ulcer recurrence. It also potentiates the effect of other antiulcer agents such as cimetidine and ranitidine. It is generally well tolerated by patients. [PubChem]
+4. Indication:  For the treatment of peptic ulcer, gastric ulcer, and duodenal ulcer.
+DrugId:  4
+1. Name:  Nizatidine
+2. Groups:  Approved
+3. Description:  A histamine H2 receptor antagonist with low toxicity that inhibits gastric acid secretion. The drug is used for the treatment of duodenal ulcers. [PubChem]
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, active benign gastric ulcer, and active duodenal ulcer.
+DrugId:  5
+1. Name:  Bismuth Subcitrate
+2. Groups:  Approved, Investigational
+3. Description:  A bismuth compound used for peptic ulcer and gastro-oesophageal reflux disease (GORD).
+4. Indication:  For the treatment of peptic ulcer and gastro-oesophageal reflux disease (GORD).Treatment of inflammatory and erosive-ulcerous diseases of gastric and duodenal mucosa: gastritis, ulcer disease of the stomach and duodenum, functional non-ulcerous dyspepsia, erosive duodenitis, post-operative inflammatory and erosive changes – anastomositis, peptic ulcer of anastomosis
+DrugId:  6
+1. Name:  Roxatidine acetate
+2. Groups:  Approved, Investigational
+3. Description:  Roxatidine acetate is a specific and competitive H2 receptor antagonist. It is currently approved in South Africa under the tradename Roxit.
+4. Indication:  For the treatment of disorders of the upper gastro-intestinal region that are due to an excess of hydrochloric acid in the gastric juice, i.e. duodenal ulcers, benign gastric ulcers. Also for prophylaxis of recurrent gastric and duodenal ulcers
+DrugId:  7
+1. Name:  Homatropine Methylbromide
+2. Groups:  Approved
+3. Description:  Homatropine methylbromide is a quaternary ammonium muscarinic acetylcholine receptor antagonist belonging to the group of medicines called anti-muscarinics. Homatropine is used to treat duodenal or stomach ulcers or intestine problems. It can be used together with antacids or other medicine in the treatment of peptic ulcer. It may also be used to prevent nausea, vomiting, and motion sickness.
+4. Indication:  Used in conjunction with antacids or histamine H2-receptor antagonists in the treatment of peptic ulcers, gastric ulcers and duodenal ulcers, to reduce further gastric acid secretion and delay gastric emptying.
+DrugId:  8
+1. Name:  Oxyphenonium
+2. Groups:  Approved
+3. Description:  A quaternary ammonium anticholinergic agent with peripheral side effects similar to those of atropine. It is used as an adjunct in the treatment of gastric and duodenal ulcer, and to relieve visceral spasms. The drug has also been used in the form of eye drops for mydriatic effect. [PubChem]
+4. Indication:  For the treatment of visceral spasms
+DrugId:  9
+1. Name:  Cisapride
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  In many countries (including Canada) cisapride has been either withdrawn or has had its indications limited due to reports about long QT syndrome due to cisapride, which predisposes to arrhythmias. The FDA issued a warning letter regarding this risk to health care professionals and patients.
+4. Indication:  For the symptomatic treatment of adult patients with nocturnal heartburn due to gastroesophageal reflux disease.
+DrugId:  10
+1. Name:  Esomeprazole
+2. Groups:  Approved, Investigational
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and zollinger-ellison syndrome. The drug inhibits the H(+)-K(+)-ATPase (H(+)-K(+)-exchanging ATPase) in the proton pump of gastric parietal cells. [PubChem]
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.
+DrugId:  11
+1. Name:  Lansoprazole
+2. Groups:  Approved, Investigational
+3. Description:  Lansoprazole is a proton pump inhibitor which prevents the stomach from producing acid. It is manufactured by TAP Pharmaceutical Products. Lansoprazole has been marketed for many years and is one of several PPI's available.
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.
+DrugId:  12
+1. Name:  Cimetidine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine congener, it competitively inhibits histamine binding to histamine H2 receptors. Cimetidine has a range of pharmacological actions. It inhibits gastric acid secretion, as well as pepsin and gastrins output. It also blocks the activity of cytochrome P-450 which might explain proposals for use in neoadjuvant therapy. [PubChem]
+4. Indication:  For the treatment and the management of acid-reflux disorders (GERD), peptic ulcer disease, heartburn, and acid indigestion.
+DrugId:  13
+1. Name:  Famotidine
+2. Groups:  Approved
+3. Description:  A competitive histamine H2-receptor antagonist. Its main pharmacodynamic effect is the inhibition of gastric secretion. [PubChem]
+4. Indication:  For the treatment of peptic ulcer disease (PUD) and gastroesophageal reflux disease (GERD).
+DrugId:  14
+1. Name:  Misoprostol
+2. Groups:  Approved
+3. Description:  A synthetic analog of natural prostaglandin E1. It produces a dose-related inhibition of gastric acid and pepsin secretion, and enhances mucosal resistance to injury. It is an effective anti-ulcer agent and also has oxytocic properties.
+4. Indication:  Indicated for the treatment of ulceration (duodenal, gastric and NSAID induced) and prophylaxis for NSAID induced ulceration.Misoprostol is also indicated for other uses that are not approved in Canada, including the medical termination of an intrauterine pregnancy used alone or in combination with methotrexate,as well as the induction of labour in a selected population of pregnant women with unfavourable cervices. This indication is avoided in women with prior uterine surgery or cesarean surgery due to an increased risk of possible uterine rupture. Misoprostol is also used for the prevention or treatment of serious postpartum hemorrhage.
+DrugId:  15
+1. Name:  Telbermin
+2. Groups:  Investigational
+3. Description:  Telbermin has been used in trials studying the treatment of Foot Ulcer, Foot Ulcer, Diabetic, and Amyotrophic Lateral Sclerosis.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Metronidazole
+2. Groups:  Approved
+3. Description:  A nitroimidazole used to treat amebiasis; vaginitis; trichomonas infections; giardiasis; anaerobic bacteria; and treponemal infections. It has also been proposed as a radiation sensitizer for hypoxic cells. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985, p133), this substance may reasonably be anticipated to be a carcinogen (Merck, 11th ed).
+4. Indication:  For the treatment of anaerobic infections and mixed infections, surgical prophylaxis requiring anaerobic coverage, Clostridium difficile-associated diarrhea and colitis, Helicobacter pylori infection and duodenal ulcer disease, bacterial vaginosis, Giardia lamblia gastro-enteritis, amebiasis caused by Entamoeba histolytica, acne rosacea (topical treatment), and Trichomonas infections.
+DrugId:  17
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  18
+1. Name:  Dopamine
+2. Groups:  Approved
+3. Description:  One of the catecholamine neurotransmitters in the brain. It is derived from tyrosine and is the precursor to norepinephrine and epinephrine. Dopamine is a major transmitter in the extrapyramidal system of the brain, and important in regulating movement. A family of receptors (receptors, dopamine) mediate its action.
+4. Indication:  For the correction of hemodynamic imbalances present in the shock syndrome due to myocardial infarction, trauma, endotoxic septicemia, open-heart surgery, renal failure, and chronic cardiac decompensation as in congestive failure
+DrugId:  19
+1. Name:  Omeprazole
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and Zollinger-Ellison syndrome. Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+4. Indication:  Omeprazole is indicated for the treatment of duodenal ulcers, benign gastric ulcers, gastroesophageal reflux disease (GERD), heartburn and other symptoms associated with GERD, erosive esophagitis, and long-term treatment of pathological hypersecretory conditions like Zollinger-Ellison syndrome, multiple endocrine adenomas, and systemic mastocytosis. 
+DrugId:  20
+1. Name:  Varlilumab
+2. Groups:  Investigational
+3. Description:  Varlilumab has been used in trials studying the treatment of MELANOMA, Skin Ulcer, Burkett's Lymphoma, Mantle cell lymphoma, and Any T-cell Malignancy, among others.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  HZT-501
+2. Groups:  Investigational
+3. Description:  HZT-501 is under investigation by Horizon Therapeutics, Inc., a privately held biopharmaceutical company. It has entered Phase 3 clinical trials in March 2007 for reduction of the risk of development of ibuprofen-associated upper gastrointestinal (i.e., gastric and/or duodenal) ulcers. HZT-501 is a combination product including ibuprofen and the acid reducing agent famotidine.
+4. Indication:  Investigated for use/treatment in pain (acute or chronic).
+DrugId:  22
+1. Name:  Lafutidine
+2. Groups:  Investigational
+3. Description:  Lafutidine has been investigated in Peptic Ulcer, Community-acquired Pneumonia, and Gastroesophageal Reflux Disease (GERD).
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Carbenoxolone
+2. Groups:  Experimental
+3. Description:  An agent derived from licorice root. It is used for the treatment of digestive tract ulcers, especially in the stomach. Antidiuretic side effects are frequent, but otherwise the drug is low in toxicity. [PubChem]
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Isopropamide
+2. Groups:  Approved, Vet approved
+3. Description:  Isopropamide iodide is a long-acting quaternary anticholinergic drug. It is used in the treatment of peptic ulcer and other gastrointestinal disorders marked by hyperacidity and hypermotility.
+4. Indication:  For the treatment of a wide range of gastrointestinal disorders, including such conditions as peptic ulcer, gastritis, hyperchlorhydria, functional diarrhea, irritable or spastic colon, pyloroduodenal irritability, pylorospasm, acute nonspecific gastroenteritis, biliary dyskinesia and chronic cholelithiasis, duodenitis, gastrointestinal spasm; it may also be used to treat genitourinary spasm.
+DrugId:  25
+1. Name:  Metiamide
+2. Groups:  Experimental
+3. Description:  Metiamide is a histamine H2-receptor antagonist developed from another H2 antagonist, burimamide. It was an intermediate compound in the development of the successful anti-ulcer drug cimetidine.
+4. Indication:  Potential in the treatment and the management of acid-reflux disorders (GERD), peptic ulcer disease, heartburn, and acid indigestion.

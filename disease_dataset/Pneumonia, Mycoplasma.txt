@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Dirithromycin
+2. Groups:  Approved, Investigational
+3. Description:  Dirithromycin is a macrolide glycopeptide antibiotic. It is used to treat many different types of bacterial infections, such as bronchitis, pneumonia, tonsillitis, and even skin infections.
+4. Indication:  For the treatment of the following mild-to-moderate infections caused by susceptible strains of microorganisms: acute bacterial exacerbations of chronic bronchitis, secondary bacterial infection of acute bronchitis, community-acquired pneumonia, pharyngitis/tonsilitis, and uncomplicated skin and skin structure infections.
+DrugId:  2
+1. Name:  Telithromycin
+2. Groups:  Approved
+3. Description:  Telithromycin, a semi-synthetic erythromycin derivative, belongs to a new chemical class of antibiotics called ketolides. Ketolides have been recently added to the macrolide-lincosamide-streptogramin class of antibiotics. Similar to the macrolide antibiotics, telithromycin prevents bacterial growth by interfering with bacterial protein synthesis. Telithromycin binds to the 50S subunit of the 70S bacterial ribosome and blocks further peptide elongation. Binding occurs simultaneously at to two domains of 23S RNA of the 50S ribosomal subunit, domain II and V, where older macrolides bind only to one. It is used to treat mild to moderate respiratory infections.
+4. Indication:  For the treatment of Pneumococcal infection, acute sinusitis, acute bacterial tonsillitis, acute bronchitis and bronchiolitis, lower respiratory tract infection and lobar (pneumococcal) pneumonia.
+DrugId:  3
+1. Name:  Tifacogin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in sepsis and septicemia and pneumonia.
+DrugId:  4
+1. Name:  Sparfloxacin
+2. Groups:  Approved, Investigational
+3. Description:  Sparfloxacin is a fluoroquinolone antibiotic used in the treatment of bacterial infections. Sparfloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription.
+4. Indication:  For the treatment of adults with the following infections caused by susceptible strains microorganisms: community-acquired pneumonia (caused by Chlamydia pneumoniae, Haemophilus influenzae, Haemophilus parainfluenzae, Moraxella catarrhalis, Mycoplasma pneumoniae, or Streptococcus pneumoniae) and acute bacterial exacerbations of chronic bronchitis (caused by Chlamydia pneumoniae, Enterobacter cloacae, Haemophilus influenzae, Haemophilus parainfluenzae, Klebsiella pneumoniae, Moraxella catarrhalis, Staphylococcus aureus, or Streptococcus pneumoniae).
+DrugId:  5
+1. Name:  BG-777
+2. Groups:  Investigational
+3. Description:  BG-777 is an immunomodulator with proven efficacy against viral and bacterial infections in preclinical studies.
+4. Indication:  Investigated for use/treatment in cytomegalovirus (CMV) retinitis, HIV infection, influenza, and pneumonia.
+DrugId:  6
+1. Name:  Pafuramidine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in pneumonia, trypanosomiasis, malaria, HIV infection, and infectious and parasitic disease (unspecified).
+DrugId:  7
+1. Name:  Streptococcus pneumoniae type 4 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 4 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 4 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Streptococcus pneumoniae type 6b capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 6b capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 6b of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Streptococcus pneumoniae type 7f capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 7f capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 7f of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Streptococcus pneumoniae type 8 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 8 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 8 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Streptococcus pneumoniae type 11a capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 11a capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 11a of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Streptococcus pneumoniae type 17f capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 17f capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 17f of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Streptococcus pneumoniae type 18c capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 18c capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 18c of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  14
+1. Name:  Streptococcus pneumoniae type 20 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 20 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 20 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Methyl isocyanate
+2. Groups:  Investigational
+3. Description:  Methyl isocyanate has been investigated for the treatment of Nosocomial Pneumonia.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Cytomegalovirus immunoglobulin
+2. Groups:  Approved, Experimental
+3. Description:  Cytomegalovirus immunoglobulin is obtained from pooled adult human plasma selected for high titers of antibody for Cytomegalovirus (CMV). It contains purified immunoglobulin G (IgG) antibodies directed against Cytomegalovirus (CMV). CMV is a virus that causes infections in humans, and diseases such as glandular fever and pneumonia. Cytomegalovirus immunoglobulin is targeted to attenuate or reduce the incidence of serious CMV disease.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Clomocycline
+2. Groups:  Approved
+3. Description:  Clomocycline is a tetracycline antibiotic.
+4. Indication:  For the treatment and management of Brucellosis, mycoplasma infection, acne vulgaris, chlamydial infection;Chronic bronchitis
+DrugId:  18
+1. Name:  Iclaprim
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in bacterial infection, skin infections/disorders, obesity, liver disease, kidney disease, and pneumonia.
+DrugId:  19
+1. Name:  Streptococcus pneumoniae type 1 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 1 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 1 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Streptococcus pneumoniae type 5 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 5 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 5 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Streptococcus pneumoniae type 9n capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 9n capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 9n of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Streptococcus pneumoniae type 9v capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 9v capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 9v of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Streptococcus pneumoniae type 10a capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 10a capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 10a of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Streptococcus pneumoniae type 14 capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 14 capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 14 of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Streptococcus pneumoniae type 19a capsular polysaccharide antigen
+2. Groups:  Approved
+3. Description:  Streptococcus pneumoniae type 19a capsular polysaccharide antigen is a vaccine that contains highly purified capsular polysaccharides from the invasive pneumococcal type 19a of Streptococcus pneumoniae. It is an active immunization for intramuscular or subcutaneous injection against pneumococcal disease such as pneumococcal pneumonia and pneumococcal bacteremia.
+4. Indication:  Not Available

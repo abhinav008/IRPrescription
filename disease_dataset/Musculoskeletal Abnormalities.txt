@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  ARX201
+2. Groups:  Investigational
+3. Description:  ARX201 (PEG-ahGH) is a recombinant form of human growth hormone that has been modified using Ambrx’s patented ReCODE™ technology to achieve precise spatial positioning of the site of polyethylene glycol (PEG) attachment to human growth hormone, by biosynthetic incorporation of a chemically unique amino acid (ahGH). ARX201 has improved pharmacological properties, which should allow less frequent administration than the daily dosing regimen of currently available growth hormones.
+4. Indication:  Investigated for use/treatment in growth hormone deficiencies/abnormalities.
+DrugId:  2
+1. Name:  Metaxalone
+2. Groups:  Approved
+3. Description:  Metaxalone (marketed by King Pharmaceuticals under the brand name Skelaxin®) is a muscle relaxant used to relax muscles and relieve pain caused by strains, sprains, and other musculoskeletal conditions. Its exact mechanism of action is not known, but it may be due to general central nervous system depression. It is considered to be a moderately strong muscle relaxant, with relatively low incidence of side effects. Skelaxin comes in an 800 mg scored tablet. It previously came in both 400 mg and 800 mg tablets. The 400 mg tablet has been discontinued. Possible side effects include nausea, vomiting, drowsiness and CNS side effects such as dizziness, headache, and irritability.
+4. Indication:  For the treatment of painful peripheral musculoskeletal conditions and spasticity from upper motor neuron syndromes.
+DrugId:  3
+1. Name:  Fispemifene
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in male hormonal deficiencies/abnormalities.
+DrugId:  4
+1. Name:  Flufenamic Acid
+2. Groups:  Experimental
+3. Description:  An anthranilic acid derivative with analgesic, anti-inflammatory, and antipyretic properties. It is used in musculoskeletal and joint disorders and administered by mouth and topically. (From Martindale, The Extra Pharmacopoeia, 30th ed, p16)
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  1alpha,24S-Dihydroxyvitamin D2
+2. Groups:  Investigational
+3. Description:  LR-103 is a naturally occurring D-hormone that is produced by the kidneys from vitamin D. LR-103 is one of the D-hormones produced from Hectorol. It is developed for the treatment of secondary hyperparathyroidism in patients with chronic kidney disease (CKD). Studies have shown LR-103 has the same potency as calcitriol, but much lower toxicity.
+4. Indication:  Investigated for use/treatment in parathyroid disorders.
+DrugId:  6
+1. Name:  Chlorzoxazone
+2. Groups:  Approved
+3. Description:  A centrally acting central muscle relaxant with sedative properties. It is claimed to inhibit muscle spasm by exerting an effect primarily at the level of the spinal cord and subcortical areas of the brain. (From Martindale, The Extra Pharmacopoea, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute painful musculoskeletal conditions.
+DrugId:  7
+1. Name:  Methylmalonic Acid
+2. Groups:  Experimental
+3. Description:  A malonic acid derivative which is a vital intermediate in the metabolism of fat and protein. Abnormalities in methylmalonic acid metabolism lead to methylmalonic aciduria. This metabolic disease is attributed to a block in the enzymatic conversion of methylmalonyl CoA to succinyl CoA. [PubChem]
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Olaratumab
+2. Groups:  Approved, Investigational
+3. Description:  Olaratumab (IMC-3G3) is a fully human IgG1 monoclonal antibody with antitumor activity that selectively binds the external domain of human platelet-derived growth factor receptor (PDGFR)-α with high affinity and blocks ligand binding. It is composed of two heavy chain molecule fragments and 2 light chain fragments. Studies show that the treatment of olaratumab in combination with doxorubicin resulted in significant reduction of cancer cell proliferation and tumor growth. Olaratumab was granted accelerated approval (as Lartruvo) as initial therapy to treat adults with certain types of soft tissue sarcoma (STS) in October, 2016.
+4. Indication:  Olaratumab is indicated, in combination with doxorubicin, for the treatment of adult patients with advanced or mestastatic soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery.
+DrugId:  9
+1. Name:  Carisoprodol
+2. Groups:  Approved
+3. Description:  A centrally acting skeletal muscle relaxant whose mechanism of action is not completely understood but may be related to its sedative actions. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1202)
+4. Indication:  For the relief of discomfort associated with acute, painful, musculoskeletal conditions.
+DrugId:  10
+1. Name:  Gadoteridol
+2. Groups:  Approved, Investigational
+3. Description:  Gadoteridol provides contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies. n MRI, visualization of normal and pathological brain tissue depends in part on variations in the radiofrequency signal intensity that occur with changes in proton density, alteration of the T1, and variation in T2. When placed in a magnetic field, gadoteridol shortens the T1 relaxation time in tissues where it accumulates. Abnormal vascularity or disruption of the blood-brain barrier allows accumulation of gadoteridol in lesions such as neoplasms, abscesses, and subacute infarcts.
+4. Indication:  Gadoteridol is an MRI contrast agent used for contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies.
+DrugId:  11
+1. Name:  Denosumab
+2. Groups:  Approved
+3. Description:  Denosumab is a novel, fully human IgG2 monoclonal antibody specific to receptor activator of nuclear factor kappa-B ligand (RANKL), suppresses bone resorption markers in patients with a variety of metastatic tumors and is being investigated in multiple clinical trials for the prevention and treatment of bone metastases. Chemically, it consists of 2 heavy and 2 light chains. Each light chain consists of 215 amino acids. Each heavy chain consists of 448 amino acids with 4 intramolecular disulfides. FDA approved on June 1, 2010. 
+4. Indication:  Prolia is indicated for the treatment of postmenopausal women with osteoporosis at high risk for fracture. It reduces the incidence of vertebral, nonvertebral, and hip fractures. Prolia is also indicated as a treatment to increase bone mass in women at high risk for fracture receiving adjuvant aromatase inhibitor therapy for breast cancer. It can also be used in men with osteoporosis at high risk for fracture or in men receiving androgen deprivation therapy for nonmetastatic prostate cancer to increase bone mass. Xgeva is indicated for the prevention of skeletal-related events in patients with bone metastases from solid tumors.
+DrugId:  12
+1. Name:  Droxicam
+2. Groups:  Withdrawn
+3. Description:  Droxicam is a non-steroidal anti-inflammatory drug of the oxicam class. A prodrug of Piroxicam, it is used for the relief of pain and inflammation in musculoskeletal disorders such as rheumatoid arthritis and osteoarthritis.
+4. Indication:  Droxicam is an NSAID previously used for the treatment of inflammation and rheumatoid arthritis [4].
+DrugId:  13
+1. Name:  Methocarbamol
+2. Groups:  Approved, Vet approved
+3. Description:  A centrally acting muscle relaxant whose mode of action has not been established. It is used as an adjunct in the symptomatic treatment of musculoskeletal conditions associated with painful muscle spasm. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1206)
+4. Indication:  For use as an adjunct to rest, physical therapy, and other measures for the relief of discomforts associated with acute, painful musculoskeletal conditions.
+DrugId:  14
+1. Name:  PYM50018
+2. Groups:  Investigational
+3. Description:  PYM50018 is a patented, orally active, neuroprotective and neuroregenerative compound. It is developed for the treatment of amyotrophic lateral sclerosis (ALS, also known as Lou Gehrig's disease). In pre-clinical models, PYM50018 has been observed to protect against neuronal damage, increase neurite outgrowth, reverse oxidative damage and reverse neuronal apoptosis in vitro. When administered orally to a transgenic pre-clinical model of ALS, PYM50018 delays the loss of muscle strength and extends survival time.
+4. Indication:  Investigated for use/treatment in amyotrophic lateral sclerosis (ALS).
+DrugId:  15
+1. Name:  Piroxicam
+2. Groups:  Approved, Investigational
+3. Description:  A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily. [PubChem]
+4. Indication:  For treatment of osteoarthritis and rheumatoid arthritis.
+DrugId:  16
+1. Name:  Dexketoprofen
+2. Groups:  Approved, Investigational
+3. Description:  Dexketoprofen is a non-steroidal anti-inflammatory drug. It is available in the various countries in Europe, Asia and Latin America. It has analgesic, antipyretic and anti-inflammatory properties [2].
+4. Indication:  For short-term treatment of mild to moderate pain, including dysmenorrhoea, musculoskeletal pain and toothache [6]. 
+DrugId:  17
+1. Name:  Vestronidase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Vestronidase alfa, or vestronidase alfa-vjbk, is a recombinant human lysosomal beta glucuronidase that is a purified enzyme produced by recombinant DNA technology in a Chinese hamster ovary cell line. The enzyme is a homotetramer consisted of 4 monomers with 629 amino acids, and holds the same amino acid sequence as human beta-glucuronidase (GUS) [FDA Label]. Vestronidase alfa is an enzyme replacement therapy for the treatment of mucopolysaccharidosis type VII (MPS VII), also known as Sly syndrome, which is an inherited, rare genetic metabolic condition that targets a small subset of population. MPS VII is a progressive condition that affects most tissues and organs due to the lack of a lysosomal enzyme called beta-glucuronidase, leading to buildup of toxic metabolites. The disorder is initiated with skeletal abnormalities, including short stature, along with other pathological conditions including enlarged liver and spleen, heart valve abnormalities, and narrowed airways which can lead to lung infections and trouble breathing. Last two conditions are leading causes of fatalities in patients with MPS VII. Some affected individuals do not survive infancy, while others may live into adolescence or adulthood and patients may experience developmental delay and progressive intellectual disability [FDA Label]. In clinical trials, vestronidase alfa treatment demonstrated improvement and stabilization in motor symptoms by increasing the patients' ability to walk longer distances in comparison to treatment with placebo . Few patients also experienced improved pulmonary function. Vestronidase alfa was FDA-approved on November 17th, 2017 under the trade name Mepsevii as an intravenous infusion for the treatment of pediatric and adult patients.
+4. Indication:  Indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome).
+DrugId:  18
+1. Name:  Orphenadrine
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used to treat drug-induced parkinsonism and to relieve pain from muscle spasm. [PubChem]
+4. Indication:  Indicated for the treatment of Parkinson's disease.
+DrugId:  19
+1. Name:  Loxoprofen
+2. Groups:  Approved, Investigational
+3. Description:  Loxoprofen (INN) is a non-steroidal anti-inflammatory drug in the propionic acid derivatives group, which also includes ibuprofen and naproxen, among others. It is marketed in Brazil, Mexico and Japan by Sankyo as its sodium salt, loxoprofen sodium, under the trade name Loxonin, Argentina as Oxeno and in India as Loxomac. It is available in these countries for oral administration, and a transdermal preparation was approved for sale in Japan in January 2006.
+4. Indication:  Loxoprofen is non-steroidal anti-inflammatory medication (NSAID) indicated for pain and inflammation related to musculoskeletal and joint disorders [3]. In addition to its effects on pain, it is an antipyretic and anti-inflammatory medication [4].
+DrugId:  20
+1. Name:  Guanidine
+2. Groups:  Approved
+3. Description:  A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC. [PubChem]
+4. Indication:  For the reduction of the symptoms of muscle weakness and easy fatigability associated with the myasthenic syndrome of Eaton-Lambert. It is not indicated for treating myasthenia gravis.
+DrugId:  21
+1. Name:  Trestolone
+2. Groups:  Investigational
+3. Description:  Trestolone (7α-methyl-19-nortestosterone) is a synthetic androgen developed by the Population Council as a potential candidate drug for use in hormonal male contraceptive methods. In males, regular administration of sufficient quantities of trestolone induces a state of temporary infertility.
+4. Indication:  Investigated for use/treatment in contraception and male hormonal deficiencies/abnormalities.
+DrugId:  22
+1. Name:  Angiotensin 1-7
+2. Groups:  Investigational
+3. Description:  TXA127 has been investigated for the treatment of Miscellaneous Peripheral Blood Cell Abnormalities.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Radotinib
+2. Groups:  Investigational
+3. Description:  Radotinib is under investigation for the treatment of Leukemia, Myelogenous, Chronic, BCR-ABL Positive.
+4. Indication:  Radotinib is indicated for the treatment of different types of cancer, most notably Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) with resistance or intolerance of other Bcr-Abl tyrosine-kinase inhibitors, such as patients resistant or intolerant to imatinib.
+DrugId:  24
+1. Name:  Encainide
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  All drug products containing encainide hydrochloride. Encainide hydrochloride, formerly marketed as Enkaid capsules, was associated with increased death rates in patients who had asymptomatic heart rhythm abnormalities after a recent heart attack. The manufacturer of Enkaid capsules voluntarily withdrew the product from the US market on December 16, 1991.
+4. Indication:  Encainide is a class Ic antiarrhythmic agent which was used for management of irregular heartbeats, such as atrial fibrillation, atrial flutter, ventricular tachycardia, and ventricular fibrillation. 
+DrugId:  25
+1. Name:  Rolitetracycline
+2. Groups:  Approved
+3. Description:  A pyrrolidinylmethyl tetracycline. [PubChem]
+4. Indication:  Rolitetracycline is a broad-spectrum antibiotic used in cases needing high concentrations or when oral administration is impractical.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  MK-7145
+2. Groups:  Investigational
+3. Description:  MK-7145 has been used in trials studying the treatment of Hypertension and Renal Insufficiency.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Gosogliptin
+2. Groups:  Investigational
+3. Description:  Gosogliptin has been used in trials studying the treatment of Renal Insufficiency, Chronic.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Omarigliptin
+2. Groups:  Investigational
+3. Description:  Omarigliptin has been used in trials studying the treatment of Type 2 Diabetes Mellitus and Chronic Renal Insufficiency.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Tonapofylline
+2. Groups:  Investigational
+3. Description:  Tonapofylline has been used in trials studying the treatment of Heart Failure, Renal Insufficiency, and Congestive Heart Failure.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Sarpogrelate
+2. Groups:  Investigational
+3. Description:  Sarpogrelate has been investigated for the treatment of Diabetes Mellitus, Diabetic Nephropathy, Coronary Artery Disease, and Renal Insufficiency, Chronic.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Mirodenafil
+2. Groups:  Investigational
+3. Description:  Mirodenafil has been used in trials studying the treatment and supportive care of Kidney Diseases, Urologic Diseases, Renal Insufficiency, Erectile Dysfunction, and Male Erectile Dysfunction.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Guanidine
+2. Groups:  Approved
+3. Description:  A strong organic base existing primarily as guanidium ions at physiological pH. It is found in the urine as a normal product of protein metabolism. It is also used in laboratory research as a protein denaturant. (From Martindale, the Extra Pharmacopoeia, 30th ed and Merck Index, 12th ed) It is also used in the treatment of myasthenia and as a fluorescent probe in HPLC. [PubChem]
+4. Indication:  For the reduction of the symptoms of muscle weakness and easy fatigability associated with the myasthenic syndrome of Eaton-Lambert. It is not indicated for treating myasthenia gravis.
+DrugId:  8
+1. Name:  Sevelamer
+2. Groups:  Approved
+3. Description:  Sevelamer is a phosphate binding drug used to prevent hyperphosphataemia in patients with chronic renal failure. When taken with meals, sevelamer binds to dietary phosphate and prevents its absorption. It is marketed by Genzyme under the trade name Renagel.
+4. Indication:  For the control of serum phosphorus in patients with Chronic Kidney Disease (CKD) on hemodialysis.
+DrugId:  9
+1. Name:  Fludrocortisone
+2. Groups:  Approved, Investigational
+3. Description:  A synthetic mineralocorticoid with anti-inflammatory activity. [PubChem]
+4. Indication:  For partial replacement therapy for primary and secondary adrenocortical insufficiency in Addison's disease and for the treatment of salt-losing adrenogenital syndrome.
+DrugId:  10
+1. Name:  Desoxycorticosterone Pivalate
+2. Groups:  Experimental, Vet approved
+3. Description:  Desoxycorticosterone Pivalate is a mineralocorticoid hormone and an analog of desoxycorticosterone. It is white, odorless, and stable in air. It is practically insoluble in water, sparingly soluble in acetone, slightly soluble in methanol, ether and vegetable oils. Federal (U.S.A.) law restricts this drug to use by or on the order of a licensed veterinarian.
+4. Indication:  Examined for treatment of adrenocortical insufficiency especially in multiple sclerosis, congenital cerebral palsy, polyarteritis nodosa, and rheumatoid arthritis. Currently only approved in treating cats and dogs for the treatment of Addison's disease.
+DrugId:  11
+1. Name:  Amantadine
+2. Groups:  Approved
+3. Description:  An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake. [PubChem]
+4. Indication:  For the chemoprophylaxis, prophylaxis, and treatment of signs and symptoms of infection caused by various strains of influenza A virus. Also for the treatment of parkinsonism and drug-induced extrapyramidal reactions.
+DrugId:  12
+1. Name:  Gadofosveset trisodium
+2. Groups:  Approved
+3. Description:  Gadofosveset trisodium is an intravenous contrast agent used with magnetic resonance angiography(MRA), which is a non-invasive way of imaging blood vessels. The agent allows for the vascular system to be imaged more clearly by the MRA. In this way, gadofosveset trisodium is used to help diagnose certain disorders of the heart and blood vessels.
+4. Indication:  Gadofosveset trisodium is indicated for use as a contrast agent in magnetic resonance angiography (MRA) to evaluate aortoiliac occlusive disease (AIOD) in adults with known or suspected peripheral vascular disease.
+DrugId:  13
+1. Name:  Vaborbactam
+2. Groups:  Approved, Investigational
+3. Description:  Vaborbactam is a cyclic boronic acid pharmacophore β-lactamase inhibitor. It has been used in trials studying the treatment of bacterial infections in subjects with varying degrees of renal insufficiency. In August 2017, a combination antibacterial therapy under the market name Vabomere was approved for the treatment of adult patients with complicated urinary tract infections (cUTI). Vabomere consists of vaborbactam and Meropenem and is intravenously admininstered. Vaborbactam is added to the therapy to reduce the extent of meropenem degradation by inhibiting serine beta-lactamases of microorganisms [FDA Label]. The treatment aims to resolve infection-related symptoms and achieve negative urine culture, where the infections are proven or strongly suspected to be caused by susceptible bacteria.
+4. Indication:  Indicated in combination with meropenem for the treatment of patients 18 years of age and older with complicated urinary tract infections (cUTI) including pyelonephritis caused by the following susceptible microorganisms: Escherichia coli, Klebsiella pneumoniae, and Enterobacter cloacae species complex [FDA Label].
+DrugId:  14
+1. Name:  Nivolumab
+2. Groups:  Approved
+3. Description:  Nivolumab is a fully human IgG4 monoclonal antibody that acts as an immunomodulator by blocking ligand activation of programmed cell death 1 (PD-1) receptor on T cells. It is indicated for use in patients with unresectable (cannot be surgically removed) or metastatic melanoma who no longer respond to other drugs. Nivolumab is administered as an intravenous infusion over 60 minutes every 2 weeks.
+4. Indication:  Nivolumab is indicated for the treatment of unresectable or metastatic melanoma for patients who no longer respond to treatment with other drugs. It is intended for use in patients who have been previously treated with ipilimumab and is used for melanoma patients after treatment with ipilimumab and a BRAF inhibitor in patients whose tumors express BRAF V600 gene mutations. Historically there have been very few effective treatments for advanced melanoma, which is why this product was approved under an FDA accelerated program to allow earlier patient access.
+DrugId:  15
+1. Name:  Calcium Acetate
+2. Groups:  Approved, Investigational
+3. Description:  The chemical compound calcium acetate is the calcium salt of acetic acid. An older name is acetate of lime. The anhydrous form is very hygroscopic, therefore the monohydrate is the common form. [Wikipedia]
+4. Indication:  Calcium acetate is one of a number of calcium salts used to treat hyperphosphatemia (too much phosphate in the blood) in patients with kidney disease.
+DrugId:  16
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  17
+1. Name:  Dexibuprofen
+2. Groups:  Approved, Investigational
+3. Description:  Dexibuprofen, S(+)-ibuprofen, is a non-steroidal anti-inflammatory drug (NSAID). It is a pharmacologically effective enantiomer of racemic ibuprofen that differs in physicochemical properties. It is proposed to be more pharmacologically active and tolerable with a better safety profile than ibuprofen due to higher concentration of active S enantiomer. Dexibuprofen has a slower dissolution rate in the simulated gastric and enteric juices compared with the racemic ibuprofen [A19257] and displays improved oral bioavilability [4].*For Metabolism, Enzymes, Carriers, Transporters Sections, refer to Ibuprofen (DB01050)
+4. Indication:  Similar indications as ibuprofen; to be used as a symptomatic treatment for pain and inflammation in rheumatic disease such as osteoarthritis and rheumatoid arthritis, as well as other musculoskeletal disorders. It is also used to reduce oral postoperative pain and alleviate fever.
+DrugId:  18
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.
+DrugId:  19
+1. Name:  Burlulipase
+2. Groups:  Investigational
+3. Description:  Burlulipase has been used in trials studying the treatment of Lung Diseases, Cystic Fibrosis, Pancreatic Insufficiency, Digestive System Diseases, and Respiratory Tract Diseases.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  Calcidiol
+2. Groups:  Approved, Nutraceutical
+3. Description:  The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.
+4. Indication:  Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.
+DrugId:  21
+1. Name:  Acemetacin
+2. Groups:  Approved, Experimental, Investigational
+3. Description:  Acemetacin is a carboxymethyl ester of indometacin. It is a potent non-steroidal anti-inflammatory drug, derived from the indol-3-acetic acid, whose activity is thought to be mainly through its active metabolite indomethacin.[1] In clinical trials, acemetacin exhibits a better gastric tolerability compared to its active metabolite indometacin.[6] It was developed by E. Merck and Company in Germany as an attempt to provide a safer drug but other than the amelioration on the gastrointestinal effects, the metabolism of acetamicin led to the formation of indomethacin and it kept the same side effects.[7]
+4. Indication:  Acemetacin is not FDA, Canada or EMA approved, but in the countries where it is marketed it is indicated for the symptomatic treatment of pain and swelling in acute inflammation of the joints in rheumathoid arthritis, osteoarthritis, low back pain and post-surgical pain.[11] It is also indicated for the treatment of chronic inflammation of the joints in presence of rheumatoid arthritis, treatment of ankylosing spondylitis, treatment of irritation in the joints and spinal column caused by degenerative disorders, treatment of inflammatory soft-tissue rheumatism syndrome and painful swelling and inflammation caused by injury.[10, 12]
+DrugId:  22
+1. Name:  Rifapentine
+2. Groups:  Approved, Investigational
+3. Description:  Rifapentine is an antibiotic drug used in the treatment of tuberculosis. It inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme.
+4. Indication:  For the treatment of pulmonary tuberculosis.
+DrugId:  23
+1. Name:  Furosemide
+2. Groups:  Approved, Vet approved
+3. Description:  A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for edema and chronic renal insufficiency. [PubChem]
+4. Indication:  For the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Also for the treatment of hypertension alone or in combination with other antihypertensive agents.
+DrugId:  24
+1. Name:  Iobenguane
+2. Groups:  Approved, Investigational
+3. Description:  Synthetic guanethidine derivative that locates phaeochromocytomas and neuroblastomas. The radioisotope used can either be iodine-123 for imaging or iodine-131 for destruction of tissues that metabolize noradrenaline. Iodine 123 is a cyclotron-produced radionuclide that decays to Te 123 by electron capture. Images are produced by a I123 MIBG scintigraphy. FDA approved on September 19, 2008.
+4. Indication:  Detection of primary and metastatic pheochromocytoma or neuroblastoma 
+DrugId:  25
+1. Name:  Conivaptan
+2. Groups:  Approved, Investigational
+3. Description:  Conivaptan is a non-peptide inhibitor of antidiuretic hormone (vasopressin). It was approved in 2004 for hyponatremia (low blood sodium levels) caused by syndrome of inappropriate antidiuretic hormone (SIADH). Conivaptan inhibits both isotypes of the vasopressin receptor (V1a and V2).
+4. Indication:  For the treatment of euvolemic or hypervolemic hyponatremia (e.g. the syndrome of inappropriate secretion of antidiuretic hormone, or in the setting of hypothyroidism, adrenal insufficiency, pulmonary disorders, etc.) in hospitalized patients.

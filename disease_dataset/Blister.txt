@@ -1,0 +1,45 @@
+DrugId:  1
+1. Name:  Salmeterol
+2. Groups:  Approved
+3. Description:  Salmeterol is a long-acting beta2-adrenergic receptor agonist drug that is currently prescribed for the treatment of asthma and chronic obstructive pulmonary disease COPD.
+4. Indication:  For the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+DrugId:  2
+1. Name:  Beclomethasone dipropionate
+2. Groups:  Approved, Investigational
+3. Description:  Beclomethasone dipropionate is a prodrug of the free form, beclomethasone (beclomethasone-17-monopropionate). An anti-inflammatory, synthetic corticosteroid, it is used topically as an anti-inflammatory agent and in aerosol form for the treatment of asthma and allergic rhinitis (seasonal and perennial). Beclometasone dipropionate is also being investigated for oral treatment in mild-to-moderate Crohn's disease of ileal or ileal-right colonic localisation and for "topical" use mild-to-moderate graft versus host disease. It is marketed under several brand names such as Qnasl (US) and Rivanase AQ (Canada).
+4. Indication:  Used in the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older, and in treating symptoms for allergic rhinitis (seasonal or perennial) in patients 12 years of age and older. Also being investigated for oral treatment in mild-to-moderate Crohn's disease of ileal or ileal-right colonic localisation and for "topical" use mild-to-moderate graft versus host disease.
+DrugId:  3
+1. Name:  Salbutamol
+2. Groups:  Approved, Vet approved
+3. Description:  Salbutamol is a short-acting, selective beta2-adrenergic receptor agonist used in the treatment of asthma and COPD. It is 29 times more selective for beta2 receptors than beta1 receptors giving it higher specificity for pulmonary beta receptors versus beta1-adrenergic receptors located in the heart. Salbutamol is formulated as a racemic mixture of the R- and S-isomers. The R-isomer has 150 times greater affinity for the beta2-receptor than the S-isomer and the S-isomer has been associated with toxicity. This lead to the development of levalbuterol, the single R-isomer of salbutamol. However, the high cost of levalbuterol compared to salbutamol has deterred wide-spread use of this enantiomerically pure version of the drug. Salbutamol is generally used for acute episodes of bronchospasm caused by bronchial asthma, chronic bronchitis and other chronic bronchopulmonary disorders such as chronic obstructive pulmonary disorder (COPD). It is also used prophylactically for exercise-induced asthma.
+4. Indication:  For symptomatic relief and prevention of bronchospasm due to bronchial asthma, chronic bronchitis, and other chronic bronchopulmonary disorders such as COPD. 
+DrugId:  4
+1. Name:  Allantoin
+2. Groups:  Approved
+3. Description:  Allantoin is a substance that is endogenous to the human body and also found as a normal component of human diets [FDA Label]. In healthy human volunteers, the mean plasma concentration of allantoin is about 2-3 mg/l. During exercise, the plasma allantoin concentration rapidly increases about two fold and remains elevated [FDA Label]. In human muscle, urate is oxidized to allantoin during such exercise [FDA Label]. The concentration of allantoin in muscles increases from a resting value of about 5000 ug/kg to about 16000 ug/kg immediately after short-term exhaustive cycling exercise [FDA Label]. More specifically, allantoin is a diureide of glyoxylic acid that is produced from uric acid. It is a major metabolic intermediate in most organisms. Allantoin is found in OTC cosmetic products and other commercial products such as oral hygiene products, in shampoos, lipsticks, anti-acne products, sun care products, and clarifying lotions [4]. Allantoin has also demonstrated to ameliorate the wound healing process in some studies [1].
+4. Indication:  Allantoin is commonly applied in a variety of topical vehicles or applications such as cosmetic creams, toothpastes, mouthwashes, shampoos, lipsticks, anti-acne products, and lotions [4] for the purpose of moisturizing skin, enhancing the smoothness of skin, stimulating the healing of wounds, and soothing irritated skin [4].
+DrugId:  5
+1. Name:  Petrolatum
+2. Groups:  Approved, Investigational
+3. Description:  A colloidal system of semisolid hydrocarbons obtained from petroleum. It is used as an ointment base, topical protectant, and lubricant.
+4. Indication:  For use as an over the counter skin protectant [FDA Label]. Commonly used to treat diaper rash and chapped lips [FDA Label] [1].
+DrugId:  6
+1. Name:  Diphenhydramine
+2. Groups:  Approved, Investigational
+3. Description:  A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects.
+4. Indication:  For the treatment of symptoms associated with Vertigo/Meniere's disease, nausea and vomiting, motion sickness and insect bite.
+DrugId:  7
+1. Name:  Benzalkonium
+2. Groups:  Approved
+3. Description:  Benzalkonium is a quaternary ammonium compound used as a biocide, a cationic surfactant, and as a phase transfer agent [FDA Label]. Benzalkonium is more commonly contained in consumer products in its salt form, benzalkonium chloride [FDA Label]. This salt is used in a great variety of international pharmaceutical products such as eye, ear, and nasal drops or sprays as an excipient ingredient serving as an antimicrobial preservative [FDA Label]. When used as an ingredient in antiseptic and disinfectant products however, it is an active antimicrobial agent [2].
+4. Indication:  When used as an active ingredient in products like antibacterial, antiseptic, or disinfectant soaps, topical sanitizers, or cleaning agents, benzalkonium is primarily implemented in its salt form, benzalkonium chloride, where it may often be the only active ingredient present and indicated for the primary purpose of topical washing to decrease bacteria on skin [2].Conversely, when implemented as an excipient ingredient in a variety of multidose aqueous nose, eye, or ear products, benzalkonium chloride is being used as the antimicrobial preservative of choice to facilitate effective bactericidal and fungicidal actions to help minimize the growth of unwanted organisms in the multidose containers [FDA Label]. 
+DrugId:  8
+1. Name:  Menthol
+2. Groups:  Approved
+3. Description:  Menthol is a covalent organic compound made synthetically or obtained from peppermint or other mint oils. It is a waxy, crystalline substance, clear or white in color, which is solid at room temperature and melts slightly above. The main form of menthol occurring in nature is (-)-menthol, which is assigned the (1R,2S,5R) configuration. Menthol has local anesthetic and counterirritant qualities, and it is widely used to relieve minor throat irritation.
+4. Indication:  Used to treat occasional minor irritation, pain, sore mouth, and sore throat as well as cough associated with a cold or inhaled irritants.
+DrugId:  9
+1. Name:  Glycerin
+2. Groups:  Approved, Investigational
+3. Description:  A trihydroxy sugar alcohol that is an intermediate in carbohydrate and lipid metabolism.
+4. Indication:  It is used as a solvent, emollient, pharmaceutical agent, and sweetening agent.

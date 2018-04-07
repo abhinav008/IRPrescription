@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  St. John's Wort
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  Not Available
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Cenderitide
+2. Groups:  Investigational
+3. Description:  Cenderitide is under investigation for the treatment of ST Elevation (STEMI) Myocardial Infarction of Anterior Wall.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Hyperforin
+2. Groups:  Nutraceutical
+3. Description:  Hyperforin is a phytochemical produced by some of the members of the plant genus Hypericum, notably Hypericum perforatum (St John's wort).
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  ST-101
+2. Groups:  Investigational
+3. Description:  ST101 has been used in trials studying the treatment of Essential Tremor and Alzheimer's Disease.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Istaroxime
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in heart disease.
+DrugId:  6
+1. Name:  BQ-123
+2. Groups:  Investigational
+3. Description:  BQ-123 has been investigated for the basic science and treatment of Coronary Artery Disease, Aorto-coronary Bypass Grafting, and ST-Elevation Myocardial Infarction.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Miltefosine
+2. Groups:  Approved, Investigational
+3. Description:  Miltefosine is a broad spectrum antimicrobial, anti-leishmanial, phospholipid drug that was originally developed in the 1980s as an anti-cancer agent. It is currently the only recognized oral agent used to treat visceral, cutaneous, and mucosal forms of leishmaniasis, a neglected tropical disease. It can be administered topically or orally and is only indicated in patients aged 12 years or older. The CDC has also recommended it as a first line treatment for free-living amebae (FLA) infections such as primary amebic meningoencephalitis and granulomatous amebic encephalitis.
+4. Indication:  For the treatment of mucosal (caused by Leishmania braziliensis), cutaneous (caused by L. braziliensis, L. guyanensis, and L. panamensis), and visceral leishmaniasis (caused by L. donovani). In comparing Leishmania drug susceptibility, it has been found that L. donovani is the most susceptible to miltefosine while L. major is the least susceptible. Off-label use includes treatment of free-living amebae (FLA) infections (unlabeled use; CDC, 2013). 
+DrugId:  8
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  9
+1. Name:  Tobramycin
+2. Groups:  Approved, Investigational
+3. Description:  An aminoglycoside, broad-spectrum antibiotic produced by Streptomyces tenebrarius. It is effective against gram-negative bacteria, especially the pseudomonas species. It is a 10% component of the antibiotic complex, nebramycin, produced by the same species. [PubChem]
+4. Indication:  For the treatment of pseudomonas aeruginosa lung infections. Also being investigated for use in the treatment of sinus infections.
+DrugId:  10
+1. Name:  Salicylic acid
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A compound obtained from the bark of the white willow and wintergreen leaves, and also prepared synthetically. It has bacteriostatic, fungicidal, and keratolytic actions. Its salts, the salicylates, are used as analgesics.
+4. Indication:  Key additive in many skin-care products for the treatment of acne, psoriasis, callouses, corns, keratosis pilaris and warts.
+DrugId:  11
+1. Name:  Clarithromycin
+2. Groups:  Approved
+3. Description:  Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.
+4. Indication:  An alternative medication for the treatment of acute otitis media caused by H. influenzae, M. catarrhalis, or S. pneumoniae in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible Streptococcus pyogenes, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by Toxoplasma gondii (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of α-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for Mycobacterium avium complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).
+DrugId:  12
+1. Name:  Prasugrel
+2. Groups:  Approved
+3. Description:  Prasugrel, a thienopyridine derivative, is a platelet activation and aggregation inhibitor structurally and pharmacologically related to clopidogrel and ticlopidine. Similar to clopidogrel, prasugrel is a prodrug that requires enzymatic transformation in the liver to its active metabolite, R-138727. R-138727 irreversibly binds to P2Y12 type ADP receptors on platelets thus preventing activation of the GPIIb/IIIa receptor complex. As a result, inhibition of ADP-mediated platelet activation and aggregation occurs. Prasugrel was developed by Daiichi Sankyo Co. and is currently marketed in the United States and Canada in cooperation with Eli Lilly and Company for acute coronary syndromes planned for percutaneous coronary intervention (PCI). FDA approved in 2009. 
+4. Indication:  Indicated in combination with acetylsalicylic acid (ASA) to prevent atherothrombotic events in patients with acute coronary syndrome (ACS) who are to be managed with percutaneous coronary intervention (PCI). May be used in patients with unstable angina (UA), non-ST elevation myocardial infarction (NSTEMI), ST-elevation myocardial infarction (STEMI) who are to be managed with PCI. Prasugrel is not recommended in patients 75 years of age or greater, those that weigh<60kg, and patients with a history of stroke or transient ischemic attack due to increased risk of fatal and intracranial bleeding. 
+DrugId:  13
+1. Name:  Ticagrelor
+2. Groups:  Approved
+3. Description:  Ticagrelor (trade name Brilinta in the US, Brilique and Possia in the EU) is a platelet aggregation inhibitor produced by AstraZeneca. Unlike clopidogrel, ticagrelor is not a prodrug and does not require metabolic activation. The drug was approved for use in the European Union by the European Commission on December 3, 2010. The drug was approved by the US Food and Drug Administration on July 20, 2011.
+4. Indication:  For the prevention of thrombotic events (for example stroke or heart attack) in patients with acute coronary syndrome or myocardial infarction with ST elevation.
+DrugId:  14
+1. Name:  Cangrelor
+2. Groups:  Approved
+3. Description:  Cangrelor is an intravenous, direct-acting, reversible P2Y12 inhibitor for patients undergoing percutaneous coronary intervention (PCI) who have not been yet treated by oral P2Y12 inhibitors. An advantage Cangrelor provides over oral P2Y12 inhibitors (such as prasugrel, ticagrelor, and clopidogrel) is that it is an active drug not requiring metabolic conversion therefore providing a rapid onset and offset of action. Cangrelor was approved by the FDA in June 2015 for intravenous application.
+4. Indication:  For use as an adjunct to percutaneous coronary intervention (PCI) for reducing the risk of periprocedural myocardial infarction (MI), repeat coronary revascularization, and stent thrombosis (ST) in patients in who have not been treated with a P2Y12 platelet inhibitor and are not being given a glycoprotein IIb/IIIa inhibitor.
+DrugId:  15
+1. Name:  Fondaparinux sodium
+2. Groups:  Approved, Investigational
+3. Description:  Fondaparinux (Arixtra) is a synthetic pentasaccharide anticoagulant. Apart from the O-methyl group at the reducing end of the molecule, the identity and sequence of the five monomeric sugar units contained in fondaparinux is identical to a sequence of five monomeric sugar units that can be isolated after either chemical or enzymatic cleavage of the polymeric glycosaminoglycan heparin and heparan sulfate (HS). This monomeric sequence in heparin and HS is thought to form the high affinity binding site for the natural anti-coagulant factor, antithrombin III (ATIII). Binding of heparin/HS to ATIII has been shown to increase the anti-coagulant activity of antithrombin III 1000-fold. Fondaparinux potentiates the neutralizing action of ATIII on activated Factor X 300-fold. Fondaparinux may be used: to prevent venous thromboembolism in patients who have undergone orthopedic surgery of the lower limbs (e.g. hip fracture, hip replacement and knee surgery); to prevent VTE in patients undergoing abdominal surgery who are are at high risk of thromboembolic complications; in the treatment of deep vein thrombosis (DVT) and pumonary embolism (PE); in the management of unstable angina (UA) and non-ST segment elevation myocardial infarction (NSTEMI); and in the management of ST segment elevation myocardial infarction (STEMI).
+4. Indication:  Approved for: (1) prophylaxis of VTE for up to one month post surgery in patients undergoing orthopedic surgery of the lower limbs such as hip fracture, hip replacement and knee surgery; (2) prophylaxis of VTE patients undergoing abdominal surgery who are at high risk of thromboembolic complications (e.g. patients undergoing abdominal cancer surgery); (3) treatment of acute DVT and PE; (4) management of UA and NSTEMI for the prevention of death and subsequent myocardial infarction (MI); and (5) management of STEMI for the prevention of death and myocardial reinfarction in patients who are managed with thrombolytics or who are initially to receive no form of reperfusion therapy. Fondaparinux should not be used as the sole anticoagulant during percutaneous coronary intervention (PCI) due to an increased risk of guiding catheter thrombosis. 
+DrugId:  16
+1. Name:  Acetylsalicylic acid
+2. Groups:  Approved, Vet approved
+3. Description:  The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Acetylsalicylic acid also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)
+4. Indication:  For use in the temporary relief of various forms of pain, inflammation associated with various conditions (including rheumatoid arthritis, juvenile rheumatoid arthritis, systemic lupus erythematosus, osteoarthritis, and ankylosing spondylitis), and is also used to reduce the risk of death and/or nonfatal myocardial infarction in patients with a previous infarction or unstable angina pectoris.
+DrugId:  17
+1. Name:  Selenium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Selenium is a trace metal in the human body particularly important as a component of glutathione peroxidase, an important enzyme in the prevention of cellular damage by free radicals and reactive oxygen species [FDA Label]
+4. Indication:  For the supplementation of total parenteral nutrition to prevent hyposelenemia [FDA Label].
+DrugId:  18
+1. Name:  Bivalirudin
+2. Groups:  Approved, Investigational
+3. Description:  Bivalirudin is a synthetic 20 residue peptide (thrombin inhibitor) which reversibly inhibits thrombin. Once bound to the active site, thrombin cannot activate fibrinogen into fibrin, the crucial step in the formation of thrombus. It is administered intravenously. Because it can cause blood stagnation, it is important to monitor changes in hematocrit, activated partial thromboplastin time, international normalized ratio and blood pressure.
+4. Indication:  For treatment of heparin-induced thrombocytopenia and for the prevention of thrombosis. Bivalirudin is indicated for use in patients undergoing percutaneous coronary intervention (PCI), in patients at moderate to high risk acute coronary syndromes due to unstable angina or non-ST segment elevation in whom a PCI is planned.
+DrugId:  19
+1. Name:  Dexamethasone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  An anti-inflammatory 9-fluoro-glucocorticoid. [PubChem]
+4. Indication:  Injection: for the treatment of endocrine disorders, rheumatic D=disorders, collagen diseases, dermatologic diseases, allergic statesc, ophthalmic diseases, gastrointestinal diseases, respiratory diseases, hematologic disorders, neoplastic diseases, edematous states, cerebral edema.Ophthalmic ointment and solution: for the treatment of steroid responsive inflammatory conditions of the palpebral and bulbar conjunctiva, cornea, and anterior segment of the globe.Ophthalmic solution only: for the treatment of steroid responsive inflammatory conditions of the external auditory meatusTopic cream: for relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatosesOral aerosol: for the treatment of bronchial asthma and related corticosteroid responsive bronchospastic states intractable to adequate trial of conventional therapyIntranasal aerosol: for the treatment of allergic ot inflammatory nasal conditions, and nasal polyps
+DrugId:  20
+1. Name:  Heparin
+2. Groups:  Approved, Investigational
+3. Description:  Unfractionated heparin (UH) is a heterogenous preparation of anionic, sulfated glycosaminoglycan polymers with weights ranging from 3000 to 30,000 Da. It is a naturally occurring anticoagulant released from mast cells. It binds reversibly to antithrombin III (ATIII) and greatly accelerates the rate at which ATIII inactivates coagulation enzymes thrombin (factor IIa) and factor Xa. UH is different from low molecular weight heparin (LMWH) in the following ways: the average molecular weight of LMWH is about 4.5 kDa whereas it is 15 kDa for UH; UH requires continuous infusions; activated partial prothrombin time (aPTT) monitoring is required when using UH; and UH has a higher risk of bleeding and higher risk of osteoporosis in long term use. Unfractionated heparin is more specific than LMWH for thrombin. Furthermore, the effects of UH can typically be reversed by using protamine sulfate.
+4. Indication:  Unfractionated heparin is indicated for prophylaxis and treatment of venous thrombosis and its extension, prevention of post-operative deep venous thrombosis and pulmonary embolism and prevention of clotting in arterial and cardiac surgery. In cardiology, it is used to prevent embolisms in patients with atrial fibrillation and as an adjunct antithrombin therapy in patients with unstable angina and/or non-Q wave myocardial infarctions (i.e. non-ST elevated acute coronary artery syndrome) who are on platelet glycoprotein (IIb/IIIa) receptor inhibitors. Additionally, it is used to prevent clotting during dialysis and surgical procedures, maintain the patency of intravenous injection devices and prevent in vitro coagulation of blood transfusions and in blood samples drawn for laboratory values.
+DrugId:  21
+1. Name:  Titanium dioxide
+2. Groups:  Approved
+3. Description:  Titanium dioxide, also known as titanium(IV) oxide or titania, is the naturally occurring oxide of titanium, chemical formula TiO2. When used as a pigment, it is called titanium white, Pigment White 6 (PW6), or CI 77891. Generally it is sourced from ilmenite, rutile and anatase.
+4. Indication:  In the pharmaceutical industry, titanium dioxide is used in most sunscreens to block UVA and UVB rays, similar to zinc oxide. It is also commonly used as pigment for pharmaceutical products such as gelatin capsules, tablet coatings and syrups.
+DrugId:  22
+1. Name:  Acetaminophen
+2. Groups:  Approved
+3. Description:  Acetaminophen, also known as paracetamol, is commonly used for its analgesic and antipyretic effects. Its therapeutic effects are similar to salicylates, but it lacks anti-inflammatory, antiplatelet, and gastric ulcerative effects.
+4. Indication:  For temporary relief of fever, minor aches, and pains.
+DrugId:  23
+1. Name:  Octinoxate
+2. Groups:  Approved, Investigational
+3. Description:  Octinoxate is a cinnamate ester and common ingredient in sunscreen and other skin care products to minimize DNA photodamage. It was originally developed in 1950's as an organic UV-B filter that absorbs UV-B rays from sun. It is often combined with nanoparticles or other water-resistant liposomes in formulations to increase the localization at the epidermis and decrease the risk of percutaneous absorption. Its use in pharmaceutical and cosmetic formulations is approved by FDA.
+4. Indication:  As an active ingredient in sunscreens and lip balms. Used for protection against damaging effects of sun rays. 
+DrugId:  24
+1. Name:  Zinc oxide
+2. Groups:  Approved
+3. Description:  Zinc oxide is an inorganic compound with the formula ZnO. ZnO is a white powder that is insoluble in water, and it is widely used as an additive in numerous materials and products including rubbers, plastics, ceramics, glass, cement, lubricants, paints, ointments, adhesives, sealants, pigments, foods, batteries, ferrites, fire retardants, and first-aid tapes. It occurs naturally as the mineral zincite, but most zinc oxide is produced synthetically. It is also widely used to treat a variety of other skin conditions, in products such as baby powder and barrier creams to treat diaper rashes, calamine cream, anti-dandruff shampoos, and antiseptic ointments.
+4. Indication:  For adjunctive treatment of diaper dermatitis. Also, it can be used to treat minor skin irritations (eg, cuts, burns, and scrapes, poison ivy).Zinc oxide can be used in ointments, creams, and lotions to protect against sunburn and other damage to the skin caused by ultraviolet light.
+DrugId:  25
+1. Name:  Octisalate
+2. Groups:  Approved
+3. Description:  Also known as Ethylhexyl Salicylate. Octyl salicylate is an oil soluble chemical sunscreen agent that absorbs UVB radiation. It does not protect against UVA.Octyl salicylate is used to augment the UVB protection in a sunscreen. Salicylates are weak UVB absorbers and they are generally used in combination with other UV filters. Octyl salicylate appears to have a good safety profile.It covers wavelength in the range 295-315 nm, peak at 307-310 nm. It is an ester of salicylic acid and 2-ethylhexanol. The salicylate portion of the molecule absorbs ultraviolet light, protecting skin from the harmful effects of exposure to sunlight. The ethylhexanol portion is a fatty alcohol, adding emollient and oil-like (water resistant) properties
+4. Indication:  Ingredient in sunscreens for protection against damage effects of sun light, provides protection from sunburns, aging and skin cancer. 

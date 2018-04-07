@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Picoplatin
+2. Groups:  Investigational
+3. Description:  Picoplatin is a cytotoxic platinum compound in clinical development for the treatment of patients with solid tumors. It causes apoptosis (cell death) by binding to DNA and interfering with DNA replication and transcription.
+4. Indication:  For the treatment of patients with solid tumors.
+DrugId:  2
+1. Name:  TST10088
+2. Groups:  Investigational
+3. Description:  TST10088 is a recombinant variant of a plant toxin belonging to the family of class II ribosome inactivating proteins. These molecules efficiently kill cells by activating preprogrammed death pathways known as apoptosis. TST10088 has been designed and engineered by Twinstrand to contain a peptide switch that is specifically cleaved by the matrix metalloproteinases which are known to be involved in tumor growth and metastasis. Cleavage of the peptide switch activates the prodrug causing ribosomal inactivation and the death of cancerous cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  3
+1. Name:  Archexin
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  4
+1. Name:  PRLX 93936
+2. Groups:  Investigational
+3. Description:  PRLX 93936 is selectively toxic to cancer cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  5
+1. Name:  RAF-265
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in melanoma.
+DrugId:  6
+1. Name:  XL418
+2. Groups:  Investigational
+3. Description:  XL418 is a novel anticancer compound.
+4. Indication:  Cancer
+DrugId:  7
+1. Name:  NTx-265
+2. Groups:  Investigational
+3. Description:  NTx-265 is a combination of two currently marketed large molecules designed to stimulate the growth and differentiation of neural stem cells in adults who have suffered a stroke – the second leading cause of death worldwide. In May 2006, biotechnology company Stem Cell Therapeutics started a Phase IIa study of NTx-265. It is also investigating use of the compound for neurodegenerative disorders, such as Huntington’s disease and Alzheimer’s disease.
+4. Indication:  Investigated for use/treatment in strokes.
+DrugId:  8
+1. Name:  EHT 0202
+2. Groups:  Investigational
+3. Description:  EHT 0202 is developed to treat neurodegenerative disorders by ExonHit Therapeutics.
+4. Indication:  Investigated for use/treatment in alzheimer's disease and neurologic disorders.
+DrugId:  9
+1. Name:  AX200
+2. Groups:  Investigational
+3. Description:  AX200, which has been developed for the treatment of stroke, is the most advanced drug candidate and is halfway through the process of gaining clinical approval. The expression of the endogenous AX200 protein in the brain is increased after brain damage. Thus, if this drug administered in the acute phase of stroke, the brain’s own protective action is supported. And this is where the double neurotherapeutic approach is most beneficial: AX200 stops neuronal cell death in the acute phase of stroke, while stimulating simultaneously the regeneration of nervous tissue through the induction of neuro- and arteriogenesis and supporting the reorganisation of the nervous system.
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and strokes.
+DrugId:  10
+1. Name:  1D09C3
+2. Groups:  Investigational
+3. Description:  1D09C3, a monoclonal antibody against lymphoid cancers, is an anti-MHC (major histocompatibility complex) class II monoclonal antibody. The antibody was isolated in collaboration with MorphoSys from its HuCAL(R) library of human antibodies. 1D09C3 binds to certain cell surface receptors, selectively killing activated, proliferating MHC class II-positive tumor cells, which include those in B-cell and T-cell lymphomas. 1D09C3 has been shown to induce programmed cell death and does not require a functioning immune system for its cell-killing effect.
+4. Indication:  Intended for the treatment of various forms of cancer.
+DrugId:  11
+1. Name:  RAV12
+2. Groups:  Investigational
+3. Description:  RAV12 is investigated for use/treatment in solid tumors. RAV12 is a solid. RAV12 is a chimeric antibody that recognizes RAAG12, an N-linked carbohydrate antigen found on gastric, colon, pancreatic, prostate, ovarian, breast, and kidney cancer cells.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  12
+1. Name:  Obiltoxaximab
+2. Groups:  Approved
+3. Description:  Obiltoxaximab, an affinity-enhanced monoclonal antibody (Mab), is used for prevention and treatment of infection and death caused by anthrax toxin. Obiltoxaximab is a chimeric IgG1 kappa monoclonal antibody (mAb) that binds the PA component of B. anthracis toxin. It has an approximate molecular weight of 148 kDa.
+4. Indication:  Investigated for use/treatment in anthrax exposure, bacterial infection, crohn's disease, and graft versus host disease.
+DrugId:  13
+1. Name:  Grn163l
+2. Groups:  Investigational
+3. Description:  GRN163L is a novel anti-cancer drug. It has been characterized preclinically and shown to inhibit telomerase in human tumor cells of many cancer types (including lung, breast, prostate, liver, and early stage of human breast cancer), in both cell culture systems and animal models. Study of this drug shows the its potential utility in the treatment of patients with hematologic and solid tumor malignancies.
+4. Indication:  Investigated for use/treatment in leukemia (lymphoid) and solid tumors.
+DrugId:  14
+1. Name:  Nivolumab
+2. Groups:  Approved
+3. Description:  Nivolumab is a fully human IgG4 monoclonal antibody that acts as an immunomodulator by blocking ligand activation of programmed cell death 1 (PD-1) receptor on T cells. It is indicated for use in patients with unresectable (cannot be surgically removed) or metastatic melanoma who no longer respond to other drugs. Nivolumab is administered as an intravenous infusion over 60 minutes every 2 weeks.
+4. Indication:  Nivolumab is indicated for the treatment of unresectable or metastatic melanoma for patients who no longer respond to treatment with other drugs. It is intended for use in patients who have been previously treated with ipilimumab and is used for melanoma patients after treatment with ipilimumab and a BRAF inhibitor in patients whose tumors express BRAF V600 gene mutations. Historically there have been very few effective treatments for advanced melanoma, which is why this product was approved under an FDA accelerated program to allow earlier patient access.
+DrugId:  15
+1. Name:  Bardoxolone
+2. Groups:  Investigational
+3. Description:  Bardoxolone has been used in trials studying the treatment of LYMPHOMA and Solid Tumors. It is a synthetic triterpenoid and a highly potent activator of redox-sensitive signaling pathways that induce programmed cell death (apoptosis) in cancer cells that are under high levels of intrinsic oxidative stress. In contrast, Bardoxolone in normal cells induces protective antioxidant/anti-inflammatory responses.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  OXI-4503
+2. Groups:  Investigational
+3. Description:  OXI-4503 is investigated in clinical trials for treating cancer/tumors. OXI-4503 is a solid. OXI-4503 blocks and destroys tumor vasculature, resulting in extensive tumor cell death and necrosis. OXI-4503 (combretastatin A1 di-phosphate / CA1P) is a unique and highly potent, dual-mechanism vascular disrupting agent (VDA). In addition, however, preclinical data demonstrates that OXI-4503 is metabolized by oxidative enzymes (e.g., tyrosinase and peroxidases), which are elevated in many solid tumors and tumor infiltrates, to an orthoquinone chemical species that has direct cytotoxic effects on tumor cells. Preclinical studies have demonstrated that OXI-4503 has (i) single-agent activity against a range of xenograft tumor models; and (ii) synergistic or additive effects when incorporated in various combination regimens with chemotherapy, molecularly-targeted therapies (including tumor-angiogenesis inhibitors), and radiation therapy.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  17
+1. Name:  Atezolizumab
+2. Groups:  Approved, Investigational
+3. Description:  Atezolizumab is an Fc-engineered, humanized, monoclonal antibody that binds to Programmed Death Ligand 1 (PD-L1) and blocks its interactions with the receptors B7.1 (also known as CD80) and Programmed Death 1 (PD-1). The binding of PD-L1 to PD-1 or B7.1 on activated T cells causes an inhibitory signal to suppress their production in the lymph nodes, thereby preventing immune responses to events such as pregnancy or autoimmune disease. This pathway is also utilized by cancer cells to evade the immune system through evasion of anti-tumor T-cell response. Furthermore, over-expression of PD-L1 and PD-1 has been linked to increased tumour aggressiveness and poorer prognosis. Currently the only antibody against PD-L1 and available as the product Tecentriq (FDA), atezolizumab is indicated for the treatment of locally advanced or metastatic urothelial carcinoma. 
+4. Indication:  For the treatment of patients with locally advanced or metastatic urothelial carcinoma who: 1) have disease progression during or following platinum-containing chemotherapy, and 2) have disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
+DrugId:  18
+1. Name:  Ingenol Mebutate
+2. Groups:  Approved
+3. Description:  Ingenol mebutate was approved by the FDA in January 2012, and it is marketed under the name Picato®. Picato gel is indicated for the topical treatment of actinic keratosis. Before approval, ingenol mebutate was called PEP005 as an investigational drug. PEP005 is a selective small molecule activator of protein kinase C (PKC) extracted from the plant Euphorbia peplus, whose sap has been used as a traditional medicine for the treatment of skin conditions including warts and cancer. PEP005 also has potent anti-leukemic effects, inducing apoptosis in myeloid leukemia cell lines and primary AML cells at nanomolar concentrations. 
+4. Indication:  For the topical treatment of actinic keratosis.
+DrugId:  19
+1. Name:  Molybdenum Cofactor
+2. Groups:  Experimental
+3. Description:  Absence of molybdenum cofactor leads to accumulation of toxic levels of sulphite and neurological damage usually leading to death within months of birth, due to the lack of active sulfite oxidase.
+4. Indication:  Not Available
+DrugId:  20
+1. Name:  CYC116
+2. Groups:  Investigational
+3. Description:  CYC116 is a novel anticancer compound with a unique target profile involving both cell cycle and angiogenesis inhibition mechanisms. In preclinical studies, CYC116 has demonstrated antitumor activity in both solid tumors and hematological cancers.Cyclacel's small molecule investigational drug, CYC116, is the third orally-available Cyclacel drug to enter development, which demonstrated anticancer activity with a mechanism consistent with inhibition of Aurora kinase.
+4. Indication:  Advanced solid tumors
+DrugId:  21
+1. Name:  AE-941
+2. Groups:  Investigational
+3. Description:  AE-941 is a naturally occurring anti-angiogenic compound, extracted from cartilage, with multiple anti-angiogenic mechanisms of action that provide broad therapeutic potential for a number of diseases. It is currently in international Phase III trials for renal cell carcinoma and non-small-cell lung cancer.
+4. Indication:  Investigated for use/treatment in kidney cancer, lung cancer, macular degeneration, multiple myeloma, prostate cancer, and psoriasis and psoriatic disorders.
+DrugId:  22
+1. Name:  MCC
+2. Groups:  Investigational
+3. Description:  Mycobacterial Cell Wall-DNA Complex (MCC) is formulated from Mycobacterium phlei, a non-pathogenic strain of mycobacteria. MCC has been shown to have immune stimulatory and apoptosis (programmed cell death) activity against cancer cells. The product is a sterile biological composition in a sub-micron suspension. It is produced at the Bioniche manufacturing facility in Pointe-Claire, Quebec.
+4. Indication:  Bladder cancer
+DrugId:  23
+1. Name:  HGS-TR2J
+2. Groups:  Investigational
+3. Description:  HGS-TR2J is a novel agonistic human monoclonal antibody to TRAIL Receptor 2, in patients with advanced solid malignancies. It is developed by Human Genome Sciences, Inc and is under Phase I of clinical trial.
+4. Indication:  Investigated for use/treatment in solid tumors.
+DrugId:  24
+1. Name:  CT-011
+2. Groups:  Investigational
+3. Description:  CT-011 is a humanized monoclonal antibody directed against a B7 family-associated protein, in patients with advanced haematological malignancies. It is directed against human PD-1 (programmed cell death 1; PDCD1), with immunomodulating and antitumor activities.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  25
+1. Name:  IMC-1C11
+2. Groups:  Investigational
+3. Description:  IMC-1C11 is an anti-angiogenesis agent. It is a chimeric anti-kinase insert domain-containing receptor (KDR) antibody that blocks VEGFR-KDR interaction and inhibits VEGFR-induced endothelial cell proliferation. IMC-1C11 is used for treatment of patients with liver metastases from colorectal carcinoma.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).

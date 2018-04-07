@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Copper
+2. Groups:  Approved, Investigational
+3. Description:  Copper is a transition metal and a trace element in the body. It is important to the function of many enzymes including cytochrome c oxidase, monoamine oxidase and superoxide dismutase [FDA Label]. Copper is commonly used in contraceptive intrauterine devices (IUD) [5].
+4. Indication:  For use in the supplementation of total parenteral nutrition and in contraception with intrauterine devices [FDA Label] [5].
+DrugId:  2
+1. Name:  Flavin adenine dinucleotide
+2. Groups:  Approved
+3. Description:  A condensation product of riboflavin and adenosine diphosphate. The coenzyme of various aerobic dehydrogenases, e.g., D-amino acid oxidase and L-amino acid oxidase. (Lehninger, Principles of Biochemistry, 1982, p972)Flavin adenine dinucleotide is approved for use in Japan under the trade name Adeflavin as an ophthalmic treatment for vitamin B2 deficiency.
+4. Indication:  Used to treat eye diseases caused by vitamin B2 deficiency, such as keratitis and blepharitis.
+DrugId:  3
+1. Name:  Selegiline
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A selective, irreversible inhibitor of Type B monoamine oxidase. It is used in newly diagnosed patients with Parkinson's disease. It may slow progression of the clinical disease and delay the requirement for levodopa therapy. It also may be given with levodopa upon onset of disability. (From AMA Drug Evaluations Annual, 1994, p385) The compound without isomeric designation is Deprenyl.
+4. Indication:  Monotherapy for initial treatment of Parkinson's disease, as well as an adjunct therapy in patients with a decreased response to levodopa/carbadopa. Also used for the palliative treatment of mild to moderate Alzheimer's disease and at higher doses, for the treatment of depression.
+DrugId:  4
+1. Name:  Topiroxostat
+2. Groups:  Approved, Investigational
+3. Description:  Topiroxostat is a selective xanthine oxidase inhibitor developed for treatment and management of hyperuricemia and gout. Xanthine oxidase, or xanthine oxidoreductase (XOR), regulates purine metabolism, and inhibition of the enzyme results in efficacious reduction of serum urate levels. Xanthine oxidase inhibitors are classified into two groups; purine analogs such as Allopurinol and Oxypurinol, and non-purine agents which includes topiroxostat. While Allopurinol is considered a first-line therapy in treating hyperuricemic conditions, it is often associated with side effects and ineffective in reducing uric acid levels under recommended dosing regimens. Renal complications are major comorbidities that limit the Allopurinol therapy as dose reductions are recommended. Topiroxostat and its metabolites are shown to be unaffected by renal complications, thus may be effective in patients with chronic kidney diseases [2]. Approved for therapeutic use in Japan since 2013, topiroxostat is marketed under the name Topiloric and Uriadec and is orally administered twice daily.
+4. Indication:  Indicated for the treatment of gout and hyperurcemia in Japan.
+DrugId:  5
+1. Name:  Ammonium molybdate
+2. Groups:  Approved
+3. Description:  Ammonium molybdate is a source of molybdenum that exists in several hydrate forms. It is intravenously administered as an additive to solutions for Total Parenteral Nutrition (TPN). Molybdenum is an essential element that is present in enzymes including xanthine oxidase, sulfite oxidase, and aldehyde oxidase.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Cupric Chloride
+2. Groups:  Approved, Investigational
+3. Description:  Cupric chloride, for injection, is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN).
+4. Indication:  For use as a supplement to intravenous solutions given for total parenteral nutrition (TPN).
+DrugId:  7
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Tranylcypromine
+2. Groups:  Approved, Investigational
+3. Description:  A propylamine formed from the cyclization of the side chain of amphetamine. This monoamine oxidase inhibitor is effective in the treatment of major depression, dysthymic disorder, and atypical depression. It also is useful in panic and phobic disorders (From AMA Drug Evaluations Annual, 1994, p311). Tranylcypromine is a racemate comprising equal amounts of (1R,2S)- and (1S,2R)-2-phenylcyclopropan-1-amine with the chiral centers both located on the cylopropane ring. An irreversible monoamine oxidase inhibitor that is used as an antidepressant (INN tranylcypromine).
+4. Indication:  For the treatment of major depressive episode without melancholia.
+DrugId:  9
+1. Name:  Phenelzine
+2. Groups:  Approved
+3. Description:  Phenelzine, with the formula β-phenylethylhydrazine, is a monoamine oxidase inhibiting antidepressant that is effective in the treatment of panic disorder and social anxiety disorder.[3] It was developed by Parke Davis and originally FDA approved on June 9th, 1961. It is currently approved under prescription by the name of Nardil.
+4. Indication:  Phenelzine is indicated for the treatment of nonendogenous, neurotic or atypical depression for patients that do not tolerate other forms of therapy.[12] Atypical depression has a high prevalence rate, starts in early life, tends to last longer, is more likely to occur in people with bipolar disorder, has a high comorbidity with anxiety disorder and carries more risk of suicidal behavior. It is important to specify the atypical feature to predict the clinical course of depression and hence generate the best treatment and service. The featuring symptoms of the atypical feature include mood reactivity, two or more of this symptoms: 1) increased appetite, 2) increased sleep, 3) leaden paralysis and 4) interpersonal rejection sensitivity and should not have melancholic or catatonic features of depression.[4]Neurotic depression is a depression of an emotionally unstable person. It is a secondary condition to major personality disorder, neuroses and drug use disorders. Likewise, a primary depression with a family history of depression spectrum disease would fit in this category.[5]A nonendogenous depression is characterized by a disturbance in mood and general outlook. The physical symptoms tend to be less severe and it often occurs in response to stressful life events that keep occurring over a large period of time generating a continuous stress in the daily living.[6]
+DrugId:  10
+1. Name:  Idelalisib
+2. Groups:  Approved
+3. Description:  Idelalisib is a phosphoinositide 3-kinase inhibitor indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies. More specifically, idelalisib targets P110δ, the delta isoform of the enzyme phosphatidylinositol-4,5-bisphosphate 3-kinase, also known as PI-3K. The PI-3Ks are a family of enzymes involved in cellular functions such as cell growth, proliferation, differentiation, motility, survival and intracellular trafficking, which in turn are involved in cancer. In contrast to the other class IA PI3Ks p110α and p110β, p110δ is principally expressed in leukocytes (white blood cells) and is important for the function of T cells, B cell, mast cells and neutrophils. By inhibiting this enzyme, idelalisib induces apoptosis of malignant cells and inhibits several cell signaling pathways, including B-cell receptor (BCR) signaling and C-X-C chemokine receptors type 5 and type 4 signalling, which are involved in trafficking and homing of B-cells to the lymph nodes and bone marrow. Treatment of lymphoma cells with idelalisib has been shown to result in inhibition of chemotaxis and adhesion, and reduced cell viability.
+4. Indication:  Idelalisib is indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies.
+DrugId:  11
+1. Name:  Lesinurad
+2. Groups:  Approved, Investigational
+3. Description:  Lesinurad is an oral uric acid transporter 1 (URAT1) inhibitor indicated for the treatment of hyperuricemia associated with gout. It reduces serum uric acid concentration through the inhibition of URAT1, an enzyme responsible for reuptake of uric acid from the renal tubule, and OAT4, another uric acid transporter associated with diuretic-induced hyperuricemia.Marketed as the product Zurampic, it is indicated for use in combination with a xanthine oxidase inhibitor for the treatment of hyperuricemia associated with gout inpatients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone. In August 2017, a combination oral therapy consisting of lesinurad and Allopurinol was FDA-approved under the brand name Duzallo indicated for the treatment of gout-related hyperuricemia in patients with uncontrolled gout.
+4. Indication:  For use, in combination with a xanthine oxidase inhibitor, for the treatment of hyperuricemia associated with gout in patients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone.
+DrugId:  12
+1. Name:  Glucose Oxidase
+2. Groups:  Investigational
+3. Description:  Glucose Oxidase has been investigated for the treatment of Upper Respiratory Tract Infections.
+4. Indication:  Not Available
+DrugId:  13
+1. Name:  Moclobemide
+2. Groups:  Approved, Investigational
+3. Description:  A reversible monoamine oxidase inhibitor (MAOI) selective for isoform A (RIMA) used to treat major depressive disorder. Most meta-analyses and most studies indicate that in the acute management of depression, moclobemide is more efficacious than placebo medication and similarly efficacious as tricyclic antidepressants (TCA) or selective serotonin reuptake inhibitors (SSRIs). Due to negligible anticholinergic and antihistaminic actions, moclobemide has been better tolerated than tri- or heterocyclic antidepressants [A3901].
+4. Indication:  For the treatment of major depressive disorder and bipolar disorder [1].
+DrugId:  14
+1. Name:  Menadione
+2. Groups:  Approved, Nutraceutical
+3. Description:  A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. [PubChem]
+4. Indication:  The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.
+DrugId:  15
+1. Name:  Furazolidone
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A nitrofuran derivative with antiprotozoal and antibacterial activity. Furazolidone binds bacterial DNA which leads to the gradual inhibition of monoamine oxidase. (From Martindale, The Extra Pharmacopoeia, 30th ed, p514)
+4. Indication:  For the specific and symptomatic treatment of bacterial or protozoal diarrhea and enteritis caused by susceptible organisms.
+DrugId:  16
+1. Name:  Febuxostat
+2. Groups:  Approved
+3. Description:  Febuxostat is a xanathine oxidase (XO) inhibitor indicated in patients with gout suffering from hyperuricemia and is used in its chronic management. Febuxostat is not recommended for the treatment of asymptomatic hyperuricemia. Febuxostat is marketed under the trade name Uloric by Takeda Pharmaceuticals America, Inc., and was approved by the FDA in February 2009.
+4. Indication:  For the treatment of hyperuricemia in patients with gout.
+DrugId:  17
+1. Name:  Taliglucerase Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Taliglucerase alfa is the recombinant active form of the human lysosomal enzyme, β-glucocerebrosidase. It was approved in 2012 and is marketed under the name Elelyso for use in patients with type 1 Gaucher's disease.
+4. Indication:  For the treatment of adult Type 1 Gaucher disease. 
+DrugId:  18
+1. Name:  Thiosulfuric acid
+2. Groups:  Approved, Investigational
+3. Description:  Thiosulfuric acid (as sodium thiosulfate) has the chemical name thiosulfuric acid, disodium salt, pentahydrate. The chemical formula is Na2S2O3•5H2O and the molecular weight is 248.17. Sodium Thiosulfate Injection is a cyanide antidote which contains one 50 mL glass vial containing a 25% solution of Sodium Thiosulfate Injection.It has been indicated as antidote for cyanide poisoning. It is also used as adjunct agent for patients taking cisplatin chemotherapy. Beside the above indications, sodium thiosulfate could be used as ingredient in the following: agricultural chemicals (non-pesticidal), fillers, intermediates, laboratory chemicals, oxidizing/reducing agents, process regulators, processing aids, and solids separation agents.
+4. Indication:  Antidote: Sodium thiosulfate is indicated to counteract or neutralize actions of poisons, e.g. cyanide poisoning.Antineoplastic adjunct: 
+DrugId:  19
+1. Name:  Rasagiline
+2. Groups:  Approved
+3. Description:  Rasagiline is an irreversible inhibitor of monoamine oxidase and is used as a monotherapy in early Parkinson's disease or as an adjunct therapy in more advanced cases.
+4. Indication:  For the treatment of the signs and symptoms of idiopathic Parkinsons disease as initial monotherapy and as adjunct therapy to levodopa.
+DrugId:  20
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  21
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  22
+1. Name:  Citalopram
+2. Groups:  Approved
+3. Description:  Citalopram belongs to a class of antidepressant agents known as selective serotonin-reuptake inhibitors (SSRIs). In spite of structural differences between compounds in this class, the SSRIs possess similar pharmacological activity. As with other antidepressant agents, several weeks of therapy may be indicated before a clinical effect is noticed. SSRIs are potent inhibitors of serotonin reuptake in the neurons. They have little to no effect on norepinephrine or dopamine reuptake and do not antagonize α- or β-adrenergic, dopamine D2 or histamine H1 receptors. During acute usage, SSRIs inhibit serotonin reuptake and increase serotonin stimulation of somatodendritic 5-HT1A and terminal autoreceptors. Chronic use leads to desensitization of somatodendritic 5-HT1A and terminal autoreceptors. The general clinical effect of increased mood and decreased anxiety is thought to be due to adaptive changes in neuronal function that leads to enhanced serotonergic neurotransmission. Side effects include dry mouth, nausea, dizziness, drowsiness, sexual dysfunction, and headache. Side effects generally occur within the first two weeks of therapy and are usually less severe and frequent than those observed with tricyclic antidepressants. Citalopram is approved for treatment of depression. Unlabeled indications include mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [5].
+4. Indication:  For the treatment of depression. Off-label indications include: treatment of mild dementia-associated agitation in nonpsychotic patients, smoking cessation, ethanol abuse, obsessive-compulsive disorder (OCD) in children, and diabetic neuropathy [FDA Label]. 
+DrugId:  23
+1. Name:  L-Carnitine
+2. Groups:  Approved, Investigational
+3. Description:  Constituent of striated muscle and liver. It is used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+4. Indication:  For treatment of primary systemic carnitine deficiency, a genetic impairment of normal biosynthesis or utilization of levocarnitine from dietary sources, or for the treatment of secondary carnitine deficiency resulting from an inborn error of metabolism such as glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency. Used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias. Parenteral levocarnitine is indicated for the prevention and treatment of carnitine deficiency in patients with end-stage renal disease.
+DrugId:  24
+1. Name:  Phenylpropanolamine
+2. Groups:  Approved, Vet approved, Withdrawn
+3. Description:  Phenylpropanolamine has been withdrawn in Canada and the United States. In November 2000, the Food and Drug Administration (FDA) issued a public health advisory against the use of the drug.
+4. Indication:  For the treatment of nasal congestion, control of urinary incontinence, priapism and obesity.
+DrugId:  25
+1. Name:  Factor IX Complex (Human)
+2. Groups:  Approved, Investigational
+3. Description:  Factor IX Complex is a sterile, lyophilized concentrate composed of a number of Vitamin K-dependent clotting factors found in functioning human plasma. Also known as prothrombin complex concentrate, products containing this complex often include Factor IX (antihemophilic factor B), Factor II (prothrombin), Factor X (Stuart-Prower Factor), and low levels of Factor VII (proconvertin) derived from human plasma. Many commercially available products also contain low levels of other antithrombotic proteins. For example, Kcentra (FDA) also contains the antithrombotic proteins C and S, while Bebulin VH (FDA) contains heparin. Coagulation factors are purified from pooled human plasma and subsequently sterilized and treated. Although Factor IX Complex products contain many different coagulation components, Factor IX is the lead component for potency and efficacy, particularly when used for the treatment of bleeding associated with Hemophilia B (Factor IX deficiency). As the product Kcentra, Factor IX Complex is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients experiencing acute major bleeding or requiring rapid reversal of therapy.
+4. Indication:  Factor IX Complex is indicated for the prevention and control of hemorrhagic episodes in hemophilia B patients. It is also indicated for the urgent reversal of acquired coagulation factor deficiency induced by Vitamin K antagonist (VKA, e.g., warfarin) therapy in adult patients with acute major bleeding or who require rapid reversal of therapy. 

@@ -1,0 +1,55 @@
+DrugId:  1
+1. Name:  Metyrosine
+2. Groups:  Approved
+3. Description:  An inhibitor of the enzyme tyrosine 3-monooxygenase, and consequently of the synthesis of catecholamines. It is used to control the symptoms of excessive sympathetic stimulation in patients with pheochromocytoma. (Martindale, The Extra Pharmacopoeia, 30th ed)
+4. Indication:  For use in the treatment of patients with pheochromocytoma, for preoperative preparation of patients for surgery, management of patients when surgery is contraindicated, and chronic treatment of patients with malignant pheochromocytoma.
+DrugId:  2
+1. Name:  Clonidine
+2. Groups:  Approved
+3. Description:  Clonidine, an imidazoline-derivative hypotensive agent is a centrally-acting α2-adrenergic agonist. It crosses the blood-brain barrier and acts in the hypothalamus to induce a decrease in blood pressure. It may also be administered as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone. Clonidine may be used for differential diagnosis of pheochromocytoma in hypertensive patients. Other uses for clonidine include prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD). Clonidine also exhibits some peripheral activity. 
+4. Indication:  May be used as an adjunct in the treatment of hypertension, as an epidural infusion as an adjunct treatment in the management of severe cancer pain that is not relieved by opiate analgesics alone, for differential diagnosis of pheochromocytoma in hypertensive patients, prophylaxis of vascular migraine headaches, treatment of severe dysmenorrhea, management of vasomotor symptoms associated with menopause, rapid detoxification in the management of opiate withdrawal, treatment of alcohol withdrawal used in conjunction with benzodiazepines, management of nicotine dependence, topical use to reduce intraocular pressure in the treatment of open-angle and secondary glaucoma and hemorrhagic glaucoma associated with hypertension, and in the treatment of attention-deficit hyperactivity disorder (ADHD).
+DrugId:  3
+1. Name:  Phentolamine
+2. Groups:  Approved
+3. Description:  A nonselective alpha-adrenergic antagonist. It is used in the treatment of hypertension and hypertensive emergencies, pheochromocytoma, vasospasm of raynaud disease and frostbite, clonidine withdrawal syndrome, impotence, and peripheral vascular disease. [PubChem]
+4. Indication:  Used as an aid for the diagnosis of pheochromocytoma, and may be administered immediately prior to or during pheochromocytomectomy to prevent or control paroxysmal hypertension resulting from anesthesia, stress, or operative manipulation of the tumor. Phentolamine has also been used to treat hypertensive crisis caused by sympathomimetic amines or catecholamine excess by certain foods or drugs in patients taking MAO inhibitors, or by clonidine withdrawal syndrome. Other indications include the prevention of dermal necrosis and sloughing following IV administration or extravasation of norepinephrine, decrease in impedance to left ventricular ejection and the infarct size in patients with MI associated with left ventricular failure, treatment of erectile dysfunction through self-injection of small doses combined with papaverine hydrochloride into the corpus cavernosum, and as an adjunct to the management of cocaine overdose to reverse coronary vasoconstriction following use of oxygen, benzodiazepines,and nitroglycerin. 
+DrugId:  4
+1. Name:  Guaiacol
+2. Groups:  Approved
+3. Description:  Guaiacol is an agent thought to have disinfectant properties and used as an expectorant. Guaiacol is a phenolic natural product first isolated from Guaiac resin and the oxidation of lignin. Guaiacol is also present in wood smoke, as a product of pyrolysis of lignin. Guaiacol has been found in the urine of patients with neuroblastoma and pheochromocytoma.
+4. Indication:  It is used medicinally as an expectorant, antiseptic, and local anesthetic. Guaiacol is used in traditional dental pulp sedation, and has the property of inducing cell proliferation; guaiacol is a potent scavenger of reactive oxygen radicals and its radical scavenging activity may be associated with its effect on cell proliferation. 
+DrugId:  5
+1. Name:  Iobenguane sulfate I-123
+2. Groups:  Approved, Investigational
+3. Description:  Iobenguane sulfate I-123 is a radiopharmaceutical used in gamma-scintigraphy of adrenergically inervated tissues [FDA Label].
+4. Indication:  For use in the diagnostic imaging of adrenergically inervated tissues for the purposes of detecting metastatic pheochromocytoma or neuroblastoma [FDA Label]. Also used to assess the sympathetic inervation of the myocardium via determination of the heart to mediastinum ratio of radioactivity in patients with New York Heart Association class II or III heart failure.
+DrugId:  6
+1. Name:  Phenoxybenzamine
+2. Groups:  Approved
+3. Description:  An alpha-adrenergic antagonist with long duration of action. It has been used to treat hypertension and as a peripheral vasodilator. [PubChem]
+4. Indication:  For the treatment of phaeochromocytoma (malignant), benign prostatic hypertrophy and malignant essential hypertension.
+DrugId:  7
+1. Name:  Prazosin
+2. Groups:  Approved
+3. Description:  Prazosin is a selective α-1-adrenergic receptor antagonist used to treat hypertension. It has also been used to decrease urinary obstruction and relieve symptoms associated with symptomatic benign prostatic hyperplasia. α1-Receptors mediate contraction and hypertrophic growth of smooth muscle cells. Antagonism of these receptors leads to smooth muscle relaxation in the peripheral vasculature and prostate gland. Prazosin has also been used in conjunction with cardiac glycosides and diuretics in the management of severe congestive heart failure. It has also been used alone or in combination with β-blockers in the preoperative management of signs and symptoms of pheochromocytoma. 
+4. Indication:  For treatment of hypertension, symptomatic benign prostatic hyperplasia, and severe congestive heart failure. May also be used alone or in combination with β-blockers in the preoperative management of signs and symptoms of pheochromocytoma. 
+DrugId:  8
+1. Name:  Propranolol
+2. Groups:  Approved, Investigational
+3. Description:  A widely used non-cardioselective beta-adrenergic antagonist. Propranolol is used in the treatment or prevention of many disorders including acute myocardial infarction, arrhythmias, angina pectoris, hypertension, hypertensive emergencies, hyperthyroidism, migraine, pheochromocytoma, menopause, and anxiety. [PubChem]
+4. Indication:  For the prophylaxis of migraine.
+DrugId:  9
+1. Name:  Iobenguane
+2. Groups:  Approved, Investigational
+3. Description:  Synthetic guanethidine derivative that locates phaeochromocytomas and neuroblastomas. The radioisotope used can either be iodine-123 for imaging or iodine-131 for destruction of tissues that metabolize noradrenaline. Iodine 123 is a cyclotron-produced radionuclide that decays to Te 123 by electron capture. Images are produced by a I123 MIBG scintigraphy. FDA approved on September 19, 2008.
+4. Indication:  Detection of primary and metastatic pheochromocytoma or neuroblastoma 
+DrugId:  10
+1. Name:  Labetalol
+2. Groups:  Approved
+3. Description:  Blocker of both alpha- and beta-adrenergic receptors that is used as an antihypertensive. [PubChem]
+4. Indication:  For the management of hypertension (alone or in combination with other classes of antihypertensive agents), as well as chronic stable angina pectoris and sympathetic overactivity syndrome associated with severe tetanus. Labetalol is used parenterally for immediate reduction in blood pressure in severe hypertension or in hypertensive crises when considered an emergency, for the control of blood pressure in patients with pheochromocytoma and pregnant women with preeclampsia, and to produce controlled hypotension during anesthesia to reduce bleeding resulting from surgical procedures.
+DrugId:  11
+1. Name:  Ertugliflozin
+2. Groups:  Approved, Investigational
+3. Description:  Ertugliflozin belongs to the class of potent and selective inhibitors of the sodium-dependent glucose cotransporters (SGLT), more specifically the type 2 which is responsible for about 90% of the glucose reabsorption from glomerulus.[1] This drug was developed under the collaboration of Merck and Pfizer. It was FDA approved as monotherapy and in combination with sitagliptin or metformin hydrochloride on December 22, 2017.[6]
+4. Indication:  Ertugliflozin as a monotherapy is indicated to improve the glycemic control in adult patients with type 2 diabetes.[FDA Label] Ertugliflozin, in combination with metformin hydrochloride, is indicated to improve glycemic control in patients with diabetes type 2 who are not controlled on a regimen of ertugliflozin or metformin or in patients who are already treated with both ertugliflozin and metformin.[7] The administration of ertugliflozin in combination with sitagliptin is indicated to improve glycemic control in adult patients with type 2 diabetes when treatment with ertugliflozin and sitagliptin is appropriate.[8] It is pointed out that the use of ertugliflozin has to be an adjunct therapy to the use of diet and exercise.The type 2 diabetes mellitus is characterized by insulin resistance in muscle and liver, which results in the elevation of glucose levels in blood, or by presence of insulin deficiency. The insulin resistance is related to genetic factors, obesity, sedentary lifestyle or/and aging. This increase in the blood glucose can cause severe damage to kidney, eyes and vascular system.[2]

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Tezosentan
+2. Groups:  Investigational
+3. Description:  Tezosentan is an intravenous endothelin receptor A/B antagonist. It acts as a vasodilator and was designed as a therapy for patients with acute heart failure. Recent studies have shown however, that tezosentan does not improve dyspnea or reduce the risk of fatal or nonfatal cardiovascular events.
+4. Indication:  Investigated for use/treatment in congestive heart failure, liver disease, and heart disease.
+DrugId:  2
+1. Name:  Tolvaptan
+2. Groups:  Approved
+3. Description:  Tolvaptan is used to treat low blood sodium levels (hyponatremia) associated with various conditions like congestive heart failure, cirrhosis, and syndrome of inappropriate antidiuretic hormones (SIADH). FDA approved on May 19, 2009. 
+4. Indication:  Treatment of symptomatic and resistant to fluid restriction euvolemic or hypervolemic hyponatremia associated with congestive heart failure, SIADH, and cirrhosis. 
+DrugId:  3
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  4
+1. Name:  Dalteparin
+2. Groups:  Approved
+3. Description:  Dalteparin, a low molecular weight heparin (LMWH) prepared by nitrous acid degradation of unfractionated heparin of porcine intestinal mucosa origin, is an anticoagulant. It is composed of strongly acidic sulphated polysaccharide chains with an average molecular weight of 5000 and about 90% of the material within the range of 2000-9000. LMWHs have a more predictable response, a greater bioavailability, and a longer anti-Xa half life than unfractionated heparin. Dalteparin can also be safely used in most pregnant women. Low molecular weight heparins are less effective at inactivating factor IIa due to their shorter length compared to unfractionated heparin.
+4. Indication:  Dalteparin is used as a prophylaxis for deep-vein thrombosis and pulmonary embolisms in patients undergoing general surgery (e.g., abdominal, gynecologic, urologic), and in patients with acute medical conditions (e.g. cancer, bed rest, heart failure, severe lung disease). It is also used in patients who have severely restricted mobility, which poses a risk for thromboembolic complications. Dalteparin is also used concomitantly with aspirin and/or other therapy (e.g., nitrates, β-adrenergic blockers, clopidogrel, platelet glycoprotein [GP] IIb/IIIa-receptor inhibitors) to reduce the risk of acute cardiac ischemic events. The patients who undergo this treatment combination have unstable angina or non-ST-segment elevation/non-Q-wave myocardial infarction (i.e., non-ST-segment elevation acute coronary syndromes).It is also used in the prevention of clotting during hemodialysis and hemofiltration in connection with acute renal failure or chronic renal insufficiency.
+DrugId:  5
+1. Name:  Nitisinone
+2. Groups:  Approved, Investigational
+3. Description:  Nitisinone is a synthetic reversible inhibitor of 4-hydroxyphenylpyruvate dioxygenase. It is used in the treatment of hereditary tyrosinemia type 1. It is sold under the brand name Orfadin.
+4. Indication:  Used as an adjunct to dietary restriction of tyrosine and phenylalanine in the treatment of hereditary tyrosinemia type 1.
+DrugId:  6
+1. Name:  Etacrynic acid
+2. Groups:  Approved, Investigational
+3. Description:  A compound that inhibits symport of sodium, potassium, and chloride primarily in the ascending limb of Henle, but also in the proximal and distal tubules. This pharmacological action results in excretion of these ions, increased urinary output, and reduction in extracellular fluid. This compound has been classified as a loop or high ceiling diuretic.
+4. Indication:  For the treatment of high blood pressure and edema caused by diseases like congestive heart failure, liver failure, and kidney failure.
+DrugId:  7
+1. Name:  Molsidomine
+2. Groups:  Approved, Investigational
+3. Description:  Molsidomine is an orally active, long-acting vasodilator, which belongs to the class of medications known as syndnones.Interestingly, it is being studied as being a preventive measure in cerebral infarction [1].
+4. Indication:  The indications for use of molsidomine include ischemic heart disease, angina, chronic heart failure, and pulmonary hypertension [9, 10].
+DrugId:  8
+1. Name:  Stavudine
+2. Groups:  Approved, Investigational
+3. Description:  A dideoxynucleoside analog that inhibits reverse transcriptase and has in vitro activity against HIV. [PubChem]
+4. Indication:  For the treatment of human immunovirus (HIV) infections.
+DrugId:  9
+1. Name:  Nefazodone
+2. Groups:  Approved, Withdrawn
+3. Description:  Nefazodone hydrochloride (trade name Serzone) is an antidepressant drug marketed by Bristol-Myers Squibb. Its sale was discontinued in 2003 in some countries, due to the small possibility of hepatic (liver) injury, which could lead to the need for a liver transplant, or even death. The incidence of severe liver damage is approximately 1 in 250,000 to 300,000 patient-years. On May 20, 2004, Bristol-Myers Squibb discontinued the sale of Serzone in the United States.
+4. Indication:  For the treatment of depression.
+DrugId:  10
+1. Name:  Mecasermin
+2. Groups:  Approved, Investigational
+3. Description:  Mecasermin contains recombinant-DNA-engineered human insulin-like growth factor-1 (rhIGF-1). IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesized in bacteria (E. coli) that have been modified by the addition of the gene for human IGF-1.
+4. Indication:  For the long-term treatment of growth failure in pediatric patients with Primary IGFD or with GH gene deletion who have developed neutralizing antibodies to GH. It is not indicated to treat Secondary IGFD resulting from GH deficiency, malnutrition, hypothyroidism or other causes; it is not a substitute for GH therapy.
+DrugId:  11
+1. Name:  Ivabradine
+2. Groups:  Approved
+3. Description:  Ivabradine is a novel heart rate lowering medicine for the symptomatic management of stable angina pectoralis and symptomatic chronic heart failure. Ivabradine, brand name Corlanor, was approved by the FDA in April 2015 for the treatment of chronic heart failure in patients with an ejection fraction of ≤35%, in sinus rhythm with resting heart rate ≥70 beats per minute, who are not on beta-blockers due to contraindications or already receiving maximum beta-blocker dose. Ivabradine acts by selectively inhibiting the "funny" channel pacemaker current (If) in the sinoatrial node in a dose-dependent fashion, resulting in a lower heart rate and thus more blood to flow to the myocardium. Although non-dihydropyridine calcium channel blockers and beta blockers also effectively lower heart rate, they exhibit adverse events due to their negative ionotropic effects. Therefore, as ivabradine is designed as a "pure" heart rate-lowering drug by selectively acting on the If channels, it may offer a more favorable side effect profile due to its lower likelihood of causing serious adverse effects.
+4. Indication:  Ivabradine's indication by the FDA is to reduce the risk of hospitalization for worsening heart failure in patients with stable, symptomatic chronic heart failure with left ventricular ejection fraction ≤35%, who are in sinus rhythm with resting heart rate ≥70 beats per minute and either are on maximally tolerated doses of beta-blockers or have a contraindication to beta-blocker use. 
+DrugId:  12
+1. Name:  Sitaxentan
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Sitaxentan is a medication for the treatment of pulmonary arterial hypertension (PAH). It was marketed as Thelin by Encysive Pharmaceuticals until Pfizer purchased Encysive in February 2008. In 2010, Pfizer voluntarily removed sitaxentan from the market due to concerns about liver toxicity.
+4. Indication:  Investigated for use/treatment in pulmonary hypertension, connective tissue diseases, hypertension, and congestive heart failure.
+DrugId:  13
+1. Name:  Estrogens, esterified
+2. Groups:  Approved
+3. Description:  Esterified estrogens contain a mixture of estrogenic substances; the principle component is estrone. Preparations contain 75% to 85% sodium estrone sulfate and 6% to 15% sodium equilin sulfate such that the total is not <90%. Esterified estrogens are a man-made mixture of estrogens that are used to treat symptoms of menopause such as hot flashes, vaginal dryness, vaginal burning or irritation, or other hormonal changes in the vagina. It is being also for the prevention and treatment of osteoporosis.
+4. Indication:  Esterified estrogens are indicated to replace estrogen in women with ovarian failure or other conditions that cause a lack of natural estrogen in the body.It is also indicated for the treatment of symptoms of breast cancer in both men and women. In men it can be used for the treatment of advanced prostate cancer.It is also indicated for the treatment of menopausal symptoms. 
+DrugId:  14
+1. Name:  Defibrotide
+2. Groups:  Approved, Investigational
+3. Description:  Defibrotide is the sodium salt of a mixture of single-stranded oligodeoxyribonucleotides derived from porcine mucosal DNA. It has been shown to have antithrombotic, anti-inflammatory and anti-ischemic properties (but without associated significant systemic anticoagulant effects). It is marketed under the brand names Dasovas (FM), Noravid, and Prociclide in a variety of countries. In the USA it is was approved in March, 2016 as Defitelio.
+4. Indication:  Defibrotide is used to treat or prevent a failure of normal blood flow (occlusive venous disease, OVD) in the liver of patients who have had bone marrow transplants or received certain drugs such as oral estrogens, mercaptopurine, and many others.
+DrugId:  15
+1. Name:  Technetium Tc-99m disofenin
+2. Groups:  Approved
+3. Description:  Technetium Tc-99m disofenin is a radiopharmaceutical agent used in hepatobiliary imaging for diagnostic purposes. It is well suited for both planar and single photon tomographic scintigraphy to quantitatively measure the function of liver, gallbladder and bile ducts and detect any anatomical changes in the hepatobliary system. It is available as an intravenous injection in a preparation kit under the name Hepatolite. Technetium Tc-99m is a metastable nuclear isomer and disofenin is an iminodiacetic acid derivative with no known pharmacologic actions at the doses recommended. However disofenin is the most commonly used iminodiacetic acid since it has a high liver to renal extraction and its hepatic uptake is not as highly dependent on serum bilirubin levels (a competitive inhibitor for liver uptake) as are other tracers from the iminodiacetic acid.
+4. Indication:  Technetium Tc99m Disofenin is indicated as a hepatobiliary imaging agent. Hepatolite is indicated in the diagnosis of acute cholecystitis as well as to rule out the occurrence of acute cholecystitis in suspected patients with right upper quadrant pain, fever, jaundice, right upper quadrant tenderness and mass or rebound tenderness, but not limited to these signs and symptoms.
+DrugId:  16
+1. Name:  Digitoxin
+2. Groups:  Approved, Investigational
+3. Description:  A cardiac glycoside sometimes used in place of digoxin. It has a longer half-life than digoxin; toxic effects, which are similar to those of digoxin, are longer lasting. (From Martindale, The Extra Pharmacopoeia, 30th ed, p665)
+4. Indication:  For the treatment and management of congestive cardiac insufficiency, arrhythmias and heart failure.
+DrugId:  17
+1. Name:  Allergenic extract- beef liver
+2. Groups:  Approved
+3. Description:  Beef liver allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Pibrentasvir
+2. Groups:  Approved, Investigational
+3. Description:  Pibrentasvir is a direct acting antiviral agent and Hepatitis C virus (HCV) NS5A inhibitor that targets the the viral RNA replication and viron assembly. In combination with Glecaprevir, pibrentastiv is a useful therapy for patients who experienced therapeutic failure from other NS5A inhibitors. In cell cultures, the emergence of amino acid substitutions at known NS5A inhibitor resistance-associated positions in HCV genotype 1a, 2a or 3a replicons led to reduced susceptibility and resistance to pibrentasvir [FDA Label]. These resistance-associated amino acid substitutions included Q30D/deletion, Y93D/H/N or H58D +Y93H in genotype 1a replicons, F28S + M31I or P29S + K30G in genotype 2a replicons, and Y93H in genotype 3a replicons. Individual NS5A amino acid substitutions that reduced susceptibility to pibrentasvir include M28G or Q30D in a genotype 1a replicon and P32-deletion in a genotype 1b replicon [FDA Label]. Pibrentasvir is available as an oral combination therapy with Glecaprevir under the brand name Mavyret. This fixed-dose combination therapy was FDA-approved in August 2017 to treat adults with chronic hepatitis C virus (HCV) genotypes 1-6 without cirrhosis (liver disease) or with mild cirrhosis, including patients with moderate to severe kidney disease and those who are on dialysis [3]. Mavyret is also indicated for HCV genotype 1-infected patients who have been previously treated with regimens either containing an NS5A inhibitor or an NS3/4A protease inhibitor, but not both [3]. Hepatitis C viral infection often leads to decreased liver function and subsequent liver failure, causing a significantly negative impact on the patients' quality of life. The ultimate goal of the combination treatment is to achieve sustained virologic response (SVR) and cure the patients from the infection. In clinical trials, this combination therapy achieved SVR12 rate, or undetectable Hepatitis C for twelve or more weeks after the end of treatment, of ≥93% across genotypes 1a, 2a, 3a, 4, 5 and 6 [FDA Label].
+4. Indication:  Indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype 1, 2, 3, 4, 5 or 6 infection without cirrhosis or with compensated cirrhosis (Child-PughA). MAVYRET is also indicated for the treatment of adult patients with HCV genotype 1 infection, who previously have been treated with a regimen containing an HCV NS5A inhibitoror an NS3/4A protease inhibitor (PI), but not both [FDA Label]. 
+DrugId:  19
+1. Name:  Rasagiline
+2. Groups:  Approved
+3. Description:  Rasagiline is an irreversible inhibitor of monoamine oxidase and is used as a monotherapy in early Parkinson's disease or as an adjunct therapy in more advanced cases.
+4. Indication:  For the treatment of the signs and symptoms of idiopathic Parkinsons disease as initial monotherapy and as adjunct therapy to levodopa.
+DrugId:  20
+1. Name:  Urofollitropin
+2. Groups:  Approved, Vet approved
+3. Description:  Urofollitropin is a purified form of follicle-stimulating hormone (FSH) that is manufactured by extraction from human urine and then purified. It consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Urofollitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Urofollitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+4. Indication:  For treatment of female infertility
+DrugId:  21
+1. Name:  Obinutuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Obinutuzumab is a humanized monoclonal antibody used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia. It was approved by the FDA in November 2013 and is marketed under the brand name Gazyva. There is a black box warning of fatal Hepatitis B Virus (HBV) reactivation and fatal Progressive Multifocal Leukoencephalopathy (PML).
+4. Indication:  Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
+DrugId:  22
+1. Name:  Guanethidine
+2. Groups:  Approved
+3. Description:  An antihypertensive agent that acts by inhibiting selectively transmission in post-ganglionic adrenergic nerves. It is believed to act mainly by preventing the release of norepinephrine at nerve endings and causes depletion of norepinephrine in peripheral sympathetic nerve terminals as well as in tissues. [PubChem]
+4. Indication:  For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.
+DrugId:  23
+1. Name:  Proguanil
+2. Groups:  Approved
+3. Description:  Proguanil is a prophylactic antimalarial drug, which works by stopping the malaria parasite, Plasmodium falciparum and Plasmodium vivax, from reproducing once it is in the red blood cells. It does this by inhibiting the enzyme, dihydrofolate reductase, which is involved in the reproduction of the parasite.
+4. Indication:  For the causal prevention and suppression of malaria caused by susceptible strains of P. falciparum and other species of Plasmodium found in some geographical areas of the world.
+DrugId:  24
+1. Name:  Nadolol
+2. Groups:  Approved
+3. Description:  A non-selective beta-adrenergic antagonist with a long half-life, used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension. Nadolol is also used for migraine disorders and for tremor. [PubChem]
+4. Indication:  Used in cardiovascular disease to treat arrhythmias, angina pectoris, and hypertension.
+DrugId:  25
+1. Name:  Iodipamide
+2. Groups:  Approved
+3. Description:  Iodipamide is a water-soluble radiographic contrast media for cholecystography and intravenous cholangiography.
+4. Indication:  Iodipamide is used as a contrast agent for cholecystography and intravenous cholangiography.

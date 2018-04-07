@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  MYO-029
+2. Groups:  Investigational
+3. Description:  MYO-029 is a human anti-GDF-8 monoclonal antibody, which is being developed to treat muscle-wasting diseases including muscular dystrophy and age-related sarcopenia. 
+4. Indication:  Investigated for use/treatment in muscular dystrophy.
+DrugId:  2
+1. Name:  ALKS 27
+2. Groups:  Investigational
+3. Description:  ALKS 27 is an inhaled formulation of trospium chloride for the treatment of chronic obstructive pulmonary disease (COPD). Study showed that ALKS 27 was well-tolerated over a wide dose range, with no dose-limited effects observed.
+4. Indication:  Investigated for use/treatment in chronic obstructive pulmonary disease (COPD).
+DrugId:  3
+1. Name:  AZX-100
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in scar tissue.
+DrugId:  4
+1. Name:  Gadoteridol
+2. Groups:  Approved, Investigational
+3. Description:  Gadoteridol provides contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies. n MRI, visualization of normal and pathological brain tissue depends in part on variations in the radiofrequency signal intensity that occur with changes in proton density, alteration of the T1, and variation in T2. When placed in a magnetic field, gadoteridol shortens the T1 relaxation time in tissues where it accumulates. Abnormal vascularity or disruption of the blood-brain barrier allows accumulation of gadoteridol in lesions such as neoplasms, abscesses, and subacute infarcts.
+4. Indication:  Gadoteridol is an MRI contrast agent used for contrast enhancement of the brain, spine and surrounding tissues resulting in improved visualization (compared with unenhanced MRI) of lesions with abnormal vascularity or those thought to cause a disruption of the normal blood brain barrier. Gadoteridol can also be used for whole body contrast enhanced MRI including the head, neck, liver, breast, musculoskeletal system and soft tissue pathologies.
+DrugId:  5
+1. Name:  Calcitonin gene-related peptide
+2. Groups:  Investigational
+3. Description:  A 37-amino acid peptide derived from the calcitonin gene. It occurs as a result of alternative processing of mRNA from the calcitonin gene. The neuropeptide is widely distributed in the brain, gut, perivascular nerves, and other tissue. The peptide produces multiple biological effects and has both circulatory and neurotransmitter modes of action. In particular, it is a potent endogenous vasodilator.As a potential drug, it has demonstrated in preclinical studies a profile that could make it an ideal anti-asthmatic drug candidate with bronchodilatory, bronchoprotecting and anti-inflammatory properties.
+4. Indication:  Investigated for use/treatment in myocardial infarction, heart disease, and asthma.
+DrugId:  6
+1. Name:  BCG vaccine
+2. Groups:  Investigational
+3. Description:  BCG vaccine has been investigated for the treatment of Neoplasms, Bladder Cancer, Neoplasms by Site, Urologic Diseases, and Urologic Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Dantrolene
+2. Groups:  Approved, Investigational
+3. Description:  Chemically, dantrolene is a hydantoin derivative, but does not exhibit antiepileptic activity like other hydantoin derivates such as phenytoin.
+4. Indication:  For use, along with appropriate supportive measures, for the management of the fulminant hypermetabolism of skeletal muscle characteristic of malignant hyperthermia crises in patients of all ages. Also used preoperatively, and sometimes postoperatively, to prevent or attenuate the development of clinical and laboratory signs of malignant hyperthermia in individuals judged to be malignant hyperthermia susceptible.
+DrugId:  8
+1. Name:  Tolperisone
+2. Groups:  Approved, Investigational
+3. Description:  Tolperisone is an oral, centrally acting muscle relaxant. Its precise mechanism is not completely understood, though it blocks sodium and calcium channels. It possesses a high affinity for nervous system tissue, reaching highest concentrations in brain stem, spinal cord and peripheral nerves. Based on existing clinical data, Tolperisone is not sedating and does not interact with alcohol.
+4. Indication:  Investigated for use/treatment in neurologic disorders, spinal cord injuries, muscle spasm, back pain, and multiple sclerosis.
+DrugId:  9
+1. Name:  Capromab pendetide
+2. Groups:  Approved
+3. Description:  Capromab is a Murine IgG1 monoclonal 7E11-C5.3 antibody that recognizes prostate specific membrane antigen (PSMA – also known as glutamate carboxypeptidase 2) from prostate cancer cells and normal prostate tissue. It is linked to pendetide, a derivative of DTPA. Pendetide acts as a chelating agent for the radionuclide indium-111. Capromab is used to image the extent of prostate cancer.
+4. Indication:  For diagnosis of prostate cancer and detection of intra-pelvic metastases.
+DrugId:  10
+1. Name:  Enfortumab vedotin
+2. Groups:  Investigational
+3. Description:  Enfortumab vedotin has been used in trials studying the treatment of Tumors, Neoplasms, and Medical Oncology.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  EG004
+2. Groups:  Investigational
+3. Description:  EG004 is a novel product consisting of a local delivery device and a gene-based medicine, being developed to prevent the blocking of veins and arteries that frequently occurs after vascular surgery. The initial target market is haemodialysis graft access surgery, a procedure in which patients whose kidneys have failed have a plastic tube grafted between blood vessels generally in their forearm so that their blood can be regularly filtered using a dialysis machine. EG004 has completed a Phase II trial, this being the first part of the Phase II/III study for which it has received approval from the US Recombinant DNA Advisory Committee (RAC).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders and kidney disease.
+DrugId:  12
+1. Name:  Tetanus Immune Globulin
+2. Groups:  Approved
+3. Description:  Tetanus Immune Globulin is manufactured from human plasma [FDA Label]. It contains antibodies against tetanus toxoid and is primarily used as prophylaxis against tetanus in wounded patients.
+4. Indication:  For use as prophylaxis against tetanus in patients who are injured and have incomplete of uncertain immunization statu [FDA Label]. May also be used in the treatment of active tetanus.
+DrugId:  13
+1. Name:  Sonidegib
+2. Groups:  Approved, Investigational
+3. Description:  Sonidegib is a Hedgehog signaling pathway inhibitor (via smoothened antagonism) developed as an anticancer agent by Novartis. It was approved by the FDA for treating basal cell carcinoma in July 2015 and is awaiting approval in the EU.
+4. Indication:  Sonidegib is approved for use in the US and EU for treatment of adults with locally advanced basal cell carcinoma (BCC) that has recurred post surgery or radiation therapy. It is also approved for adult patients with BCC who are not eligible for surgery or radiation therapy. (2)
+DrugId:  14
+1. Name:  Patritumab
+2. Groups:  Investigational
+3. Description:  Patritumab has been used in trials studying the treatment of LUNG CANCER, Solid Tumors, Neoplasms by Site, Head and Neck Neoplasms, and Non-small Cell Lung Cancer, among others.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  TAK-448
+2. Groups:  Investigational
+3. Description:  TAK-448 has been used in trials studying the treatment of Prostate Cancer, Low Testosterone, Prostatic Neoplasms, and Hypogonadotropic Hypogonadism.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Clevidipine
+2. Groups:  Approved, Investigational
+3. Description:  Clevidipine is a dihydropyridine L-type calcium channel blocker that is selective for vascular smooth muscle and is indicated for blood pressure reduction when oral therapy is not an option. 
+4. Indication:  For the treatment of hypertension.
+DrugId:  17
+1. Name:  Gadodiamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadodiamide is a gadolinium based contrast agent used in MR imaging procedures to assist in the visualization of blood vessels. It is commonly marketed under the trade name Omniscan.
+4. Indication:  For intravenous use in MRI to visualize lesions with abnormal vascularity (or those thought to cause abnormalities in the blood-brain barrier) in the brain (intracranial lesions), spine, and associated tissues.
+DrugId:  18
+1. Name:  Gadoversetamide
+2. Groups:  Approved, Investigational
+3. Description:  Gadoversetamide is a gadolinium compound used as a contrast agent in magnetic resonance imaging (MRI), particularly imaging of the brain, spine and liver. It is marketed under the trade name OptiMARK.
+4. Indication:  Gadoversetamide is an MRI contrast agent used for MRI diagnostic procedures to provide increased enhancement and visualization of lesions of the brain, spine and liver, including tumors.
+DrugId:  19
+1. Name:  Lercanidipine
+2. Groups:  Approved, Investigational
+3. Description:  Lercanidipine is a calcium channel blocker of the dihydropyridine class.It is sold under various commercial names including Zanidip.
+4. Indication:  For the treatment of Hypertension, management of angina pectoris and Raynaud's syndrome
+DrugId:  20
+1. Name:  GW-501516
+2. Groups:  Investigational
+3. Description:  GW-501516 is a peroxisome proliferator-activator receptor-delta agonist for the potential treatment of dyslipidemia. GW-501516 has been investigated for the treatment of Obesity, Lipid Disorders, and Cardiovascular Disease.
+4. Indication:  Investigated for use/treatment in hyperlipidemia.
+DrugId:  21
+1. Name:  Gadopentetate dimeglumine
+2. Groups:  Approved
+3. Description:  A complex of gadolinium with a chelating agent, diethylenetriamine penta-acetic acid (DTPA see pentetic acid), that is given to enhance the image in cranial and spinal MRIs. (From Martindale, The Extra Pharmacopoeia, 30th ed, p706)
+4. Indication:  For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart).
+DrugId:  22
+1. Name:  Defibrotide
+2. Groups:  Approved, Investigational
+3. Description:  Defibrotide is the sodium salt of a mixture of single-stranded oligodeoxyribonucleotides derived from porcine mucosal DNA. It has been shown to have antithrombotic, anti-inflammatory and anti-ischemic properties (but without associated significant systemic anticoagulant effects). It is marketed under the brand names Dasovas (FM), Noravid, and Prociclide in a variety of countries. In the USA it is was approved in March, 2016 as Defitelio.
+4. Indication:  Defibrotide is used to treat or prevent a failure of normal blood flow (occlusive venous disease, OVD) in the liver of patients who have had bone marrow transplants or received certain drugs such as oral estrogens, mercaptopurine, and many others.
+DrugId:  23
+1. Name:  Nitrendipine
+2. Groups:  Approved, Investigational
+3. Description:  A calcium channel blocker with marked vasodilator action. It is an effective antihypertensive agent and differs from other calcium channel blockers in that it does not reduce glomerular filtration rate and is mildly natriuretic, rather than sodium retentive. [PubChem]
+4. Indication:  For the treatment of mild to moderate hypertension
+DrugId:  24
+1. Name:  5-fluoro-2'-deoxycytidine
+2. Groups:  Investigational
+3. Description:  5-fluoro-2'-deoxycytidine has been used in trials studying the treatment of Neoplasms, Lung Neoplasms, Breast Neoplasms, Head and Neck Neoplasms, and Urinary Bladder Neoplasms, among others.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Nisoldipine
+2. Groups:  Approved
+3. Description:  Nisoldipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nisoldipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Nisoldipine may be used in alone or in combination with other agents in the management of hypertension. 
+4. Indication:  For the treatment of hypertension. It may be used alone or in combination with other antihypertensive agents.

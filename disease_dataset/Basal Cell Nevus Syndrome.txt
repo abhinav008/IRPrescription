@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Betulinic Acid
+2. Groups:  Investigational
+3. Description:  Betulinic Acid has been used in trials studying the treatment of Dysplastic Nevus Syndrome.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  NVP-LEQ-506
+2. Groups:  Investigational
+3. Description:  LEQ506 has been used in trials studying the treatment of Advanced Solid Tumors, Recurrent or Refractory Medulloblastoma, and Locally Advanced or Metastatic Basal Cell Carcinoma.
+4. Indication:  Not Available
+DrugId:  3
+1. Name:  Imiquimod
+2. Groups:  Approved, Investigational
+3. Description:  Imiquimod is an immune response modifier that acts as a toll-like receptor 7 agonist. Imiquimod is commonly used topically to treat warts on the skin of the genital and anal areas. Imiquimod does not cure warts, and new warts may appear during treatment. Imiquimod does not fight the viruses that cause warts directly, however, it does help to relieve and control wart production. Miquimod is also used to treat a skin condition of the face and scalp called actinic keratoses and certain types of skin cancer called superficial basal cell carcinoma.
+4. Indication:  For the topical treatment of clinically typical, nonhyperkeratotic, nonhypertrophic actinic keratoses on the face or scalp in immunocompetent adults. Also indicated for the treatment of external genital and perianal warts/condyloma acuminata in individuals 12 years old and above.
+DrugId:  4
+1. Name:  Vismodegib
+2. Groups:  Approved, Investigational
+3. Description:  Vismodegib inhibits the hedgehog signalling pathway and is indicated for treatment of adult basal cell carcinoma. FDA approved on Jan 30, 2012. 
+4. Indication:  Vismodegib is used for treating locally advanced or metastatic basal cell carcinoma in patients whose carcinoma has recurred after surgery, and in patients who are not candidates for surgery or radiation.
+DrugId:  5
+1. Name:  Fomivirsen
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Fomivirsen is a antisense 21 mer phosphorothioate oligonucleotide. It is an antiviral agent that was used in the treatment of cytomegalovirus retinitis (CMV) in immunocompromised patients, including those with AIDS. As a complementary nucleotide to the messenger RNA of the major immediate-early region proteins of human cytomegalovirus, it disrupts the replication of the virus through an antisense mechanism [6]. It was discovered at the NIH and was licensed and initially developed by Isis Pharmaceuticals, which subsequently licensed it to Novartis [3]. The drug was withdrawn by the FDA because while there was a high unmet need for drugs to treat CMV when the drug was initially discovered and developed due to the CMV arising in people with AIDS, the development of HAART dramatically reduced the number of cases of CMV. Fomivirsen is marketed under the trade name Vitravene for intravitreal injection and was the first antisense drug to be approved by the Food and Drug Administration (FDA).
+4. Indication:  Indicated for the local treatment of cytomegalovirus (CMV) retinitis in patients with acquired immunodeficiency syndrome (AIDS), when other therapy has been ineffective or is considered unsuitable [FDA Label].
+DrugId:  6
+1. Name:  Lansoprazole
+2. Groups:  Approved, Investigational
+3. Description:  Lansoprazole is a proton pump inhibitor which prevents the stomach from producing acid. It is manufactured by TAP Pharmaceutical Products. Lansoprazole has been marketed for many years and is one of several PPI's available.
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.
+DrugId:  7
+1. Name:  Esomeprazole
+2. Groups:  Approved, Investigational
+3. Description:  A highly effective inhibitor of gastric acid secretion used in the therapy of stomach ulcers and zollinger-ellison syndrome. The drug inhibits the H(+)-K(+)-ATPase (H(+)-K(+)-exchanging ATPase) in the proton pump of gastric parietal cells. [PubChem]
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.
+DrugId:  8
+1. Name:  Rabeprazole
+2. Groups:  Approved, Investigational
+3. Description:  Rabeprazole is an antiulcer drug in the class of proton pump inhibitors. It is a prodrug - in the acid environment of the parietal cells it turns into active sulphenamide form. Rabeprazole inhibits the H+, K+ATPase of the coating gastric cells and dose-dependent oppresses basal and stimulated gastric acid secretion.
+4. Indication:  For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.
+DrugId:  9
+1. Name:  Betazole
+2. Groups:  Approved
+3. Description:  A histamine H2 agonist used clinically to test gastric secretory function. [PubChem]
+4. Indication:  For use clinically to test gastric secretory function.
+DrugId:  10
+1. Name:  Insulin Lispro
+2. Groups:  Approved
+3. Description:  Insulin lispro is a recombinant human insulin analogue produced in a specialized laboratory strain of Escherischia coli. Plasmid DNA transfected into the bacteria encodes for an analogue of human insulin that has a lysine at residuce B28 and proline at B29; these residues are reversed in endogenous human insulin. Reversal of these amino acid residues produces a rapid-acting insulin analogue. FDA approved on 1996.
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus. To be used in conjunction with an intermediate or long-acting insulin except when used in a continuous insulin infusion pump. 
+DrugId:  11
+1. Name:  Insulin Glargine
+2. Groups:  Approved
+3. Description:  Insulin glargine is produced by recombinant DNA technology using a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism. It is an analogue of human insulin made by replacing the asparagine residue at position A21 of the A-chain with glycine and adding two arginines to the C-terminus (positions B31 and 32) of the B-chain. The resulting protein is soluble at pH 4 and forms microprecipitates at physiological pH 7.4. Small amounts of insulin glargine are slowly released from microprecipitates giving the drug a long duration of action (up to 24 hours) and no pronounced peak concentration. 
+4. Indication:  For the treatment of Type 1 or 2 diabetes mellitus in patients over 17 years old who require a long-acting (basal) insulin for the control of hyperglycemia. May be used in pediatric patients with Type 1 diabetes mellitus who require a long-acting (basal) insulin for glycemic control. 
+DrugId:  12
+1. Name:  Sonidegib
+2. Groups:  Approved, Investigational
+3. Description:  Sonidegib is a Hedgehog signaling pathway inhibitor (via smoothened antagonism) developed as an anticancer agent by Novartis. It was approved by the FDA for treating basal cell carcinoma in July 2015 and is awaiting approval in the EU.
+4. Indication:  Sonidegib is approved for use in the US and EU for treatment of adults with locally advanced basal cell carcinoma (BCC) that has recurred post surgery or radiation therapy. It is also approved for adult patients with BCC who are not eligible for surgery or radiation therapy. (2)
+DrugId:  13
+1. Name:  Eniluracil
+2. Groups:  Investigational
+3. Description:  Eniluracil, which was previously under development by GlaxoSmithKline (GSK), is being developed by Adherex to enhance the therapeutic value and effectiveness of 5-fluorouracil (5-FU), one of the world’s most widely-used oncology agents. 5-FU is widely used in the U.S. and is often first or second line therapy for a variety of cancers including colorectal, breast, gastric, head and neck, ovarian and basal cell cancer of the skin. Eniluracil could improve 5-FU by increasing its effectiveness, reducing its side effects and/or making it orally available. Eniluracil has received Orphan Drug status from the FDA for the treatment of hepatocellular cancer in combination with fluoropyrimidines (including 5-FU).
+4. Indication:  For the treatment of cancer in combination with 5-fluorouracil.
+DrugId:  14
+1. Name:  Idursulfase
+2. Groups:  Approved
+3. Description:  Idursulfase is a purified form of human iduronate-2-sulfatase, a lysosomal enzyme. Idursulfase is produced by recombinant DNA technology in a human cell line. Idursulfase is an enzyme that hydrolyzes the 2-sulfate esters of terminal iduronate sulfate residues from the glycosaminoglycans dermatan sulfate and heparan sulfate in the lysosomes of various cell types. Idursulfase is a 525-amino acid glycoprotein with a molecular weight of approximately 76 kilodaltons. The enzyme contains eight asparagine-linked glycosylation sites occupied by complex oligosaccharide structures. The enzyme activity of idursulfase is dependent on the post-translational modification of a specific cysteine to formylglycine.
+4. Indication:  For the treatment of Hunter syndrome in adults and children ages 5 and older.
+DrugId:  15
+1. Name:  Molgramostim
+2. Groups:  Investigational
+3. Description:  Molgramostim has been used in trials studying the treatment of Bronchiectasis, Cystic Fibrosis, Pulmonary Alveolar Proteinosis, Acute Respiratory Distress Syndrome, and Autoimmune Pulmonary Alveolar Proteinosis.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Metiamide
+2. Groups:  Experimental
+3. Description:  Metiamide is a histamine H2-receptor antagonist developed from another H2 antagonist, burimamide. It was an intermediate compound in the development of the successful anti-ulcer drug cimetidine.
+4. Indication:  Potential in the treatment and the management of acid-reflux disorders (GERD), peptic ulcer disease, heartburn, and acid indigestion.
+DrugId:  17
+1. Name:  GTI 2040
+2. Groups:  Investigational
+3. Description:  GTI-2040 is a substance that is being studied as a treatment for cancer. It belongs to the family of drugs called antisense oligonucleotides.
+4. Indication:  Investigated for use/treatment in breast cancer, colorectal cancer, leukemia (myeloid), leukemia (unspecified), myelodysplastic syndrome, prostate cancer, renal cell carcinoma, and solid tumors.
+DrugId:  18
+1. Name:  Insulin Detemir
+2. Groups:  Approved
+3. Description:  Insulin detemir is a long-acting human insulin analogue used to maintain basal levels of insulin in diabetic individuals. It is produced using recombinant DNA technology in yeast cells. This insulin analogue has a 14-C fatty acid, myristic acid, bound to the lysine amino acid at position B29. The myristoyl side chain increases self-association and albumin binding. This along with slow systemic absorption from the injection site prolongs distribution of the hormone into tissues and results in a long duration of action. Novo Nordisk markets insulin detemir under the trade name Levemir.
+4. Indication:  For the treatment of type 1 or 2 diabetes mellitus. May be used in combination with oral anti-diabetic agents in type 2 diabetic patients who are not in adequate metabolic control with oral anti-diabetic agents alone. 
+DrugId:  19
+1. Name:  Brentuximab vedotin
+2. Groups:  Approved, Investigational
+3. Description:  Brentuximab vedotin, also known as Adcetris®, is an antibody-drug conjugate that combines an anti-CD30 antibody with the drug monomethyl auristatin E (MMAE). It is an anti-neoplastic agent used in the treatment of Hodgkin's lymphoma and systemic anaplastic large cell lymphoma. Brentuximab vedotin was initially approved in 2011. In January 2012, the drug label was revised with a boxed warning of a condition known as progressive multifocal leukoencephalopathy and death due to opportunistic JC virus infection post treatment [5]. The U.S. Food and Drug Administration approved Adcetris in March 2018 to treat adult patients with previously untreated stage III or IV classical Hodgkin lymphoma (cHL) in combination with chemotherapy [5].Adcetris has also been previously approved by the FDA to treat Hodgkin's lymphoma after relapse, Hodgkin's lymphoma after stem cell transplantation when a patient has a high risk of relapse or progression, systemic anaplastic large cell lymphoma (ALCL) after the failure of other treatment regimens, and primary cutaneous ALCL after failure of other treatment regimens [5].Lymphoma is a malignancy that begins in the lymphatic system, which helps to combat infection and disease. Lymphoma may begin anywhere in the body and can spread to nearby lymph nodes. The two main types of lymphoma are Hodgkin lymphoma (also called Hodgkin disease) and non-Hodgkin lymphoma. Most individuals with Hodgkin's lymphoma have the classical type. In this type of lymphoma, large, abnormal lymphocytes (a type of white blood cell) are found in the lymph nodes called Reed-Sternberg cells. With early diagnosis and intervention, patients with Hodgkin lymphoma normally experience long-term remission [5].The ECHELON-1 study results demonstrated superior efficacy of the drug combined with a chemotherapy regimen when it is compared to the previous standard of care. Importantly, removing the drug bleomycin, a highly toxic agent, was completely removed from the regimen. This demonstrates meaningful progress in treatment for patients affected by this disease [6].
+4. Indication:  Seattle Genetics Announced FDA Approval of ADCETRIS® (Brentuximab Vedotin) in combination with chemotherapy for adults with previously untreated stage III or IV Classical Hodgkin Lymphoma in March 2018 [5, 6].Hodgkin lymphoma after failure of autologous stem cell transplant (ASCT) or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not ASCT candidates [FDA Label], [5].Systemic anaplastic large cell lymphoma after failure of at least one prior multi-agent chemotherapy regimen [FDA Label].
+DrugId:  20
+1. Name:  Lifitegrast
+2. Groups:  Approved
+3. Description:  Lifitegrast is a FDA approved drug for the treatment of keratoconjunctivitis sicca (dry eye syndrome). It is a tetrahydroisoquinoline derivative and lymphocyte function-associated antigen-1 ( LFA-1) antagonist that was discovered through the rational design process. The ophthalmic solution was approved in July, 2016 under the trade name Xiidra. It has shown to protect the corneal surface and alleviate the symptoms of dry eye syndrome with fast onset of action and well tolerated profile in both local and systemic setting [2].
+4. Indication:  For the treatment of signs and symptoms of keratoconjunctivitis sicca (dry eye syndrome).
+DrugId:  21
+1. Name:  Isometheptene
+2. Groups:  Approved
+3. Description:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.
+4. Indication:  Isometheptene is a sympathomimetic drug which causes vasoconstriction. It is used for treating migraines and tension headaches.
+DrugId:  22
+1. Name:  Fluorouracil
+2. Groups:  Approved
+3. Description:  A pyrimidine analog that is an antineoplastic antimetabolite. It interferes with DNA synthesis by blocking the thymidylate synthetase conversion of deoxyuridylic acid to thymidylic acid. [PubChem]
+4. Indication:  For the topical treatment of multiple actinic or solar keratoses. In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Fluorouracil injection is indicated in the palliative management of some types of cancer, including colon, esophageal, gastric, rectum, breast, biliary tract, stomach, head and neck, cervical, pancreas, renal cell, and carcinoid.
+DrugId:  23
+1. Name:  Tetrabenazine
+2. Groups:  Approved, Investigational
+3. Description:  A drug formerly used as an antipsychotic but now used primarily in the symptomatic treatment of various hyperkinetic disorders. It is a monoamine depletor and used as symptomatic treatment of chorea associated with Huntington's disease. FDA approved on August 15, 2008.
+4. Indication:  Treatment of hyperkinetic movement disorders like chorea in Huntington's disease, hemiballismus, senile chorea, Tourette syndrome and other tic disorders, and tardive dyskinesia 
+DrugId:  24
+1. Name:  Orphenadrine
+2. Groups:  Approved
+3. Description:  A muscarinic antagonist used to treat drug-induced parkinsonism and to relieve pain from muscle spasm. [PubChem]
+4. Indication:  Indicated for the treatment of Parkinson's disease.
+DrugId:  25
+1. Name:  Sapacitabine
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in solid tumors, cutaneous t-cell lymphoma, myelodysplastic syndrome, and leukemia (lymphoid).

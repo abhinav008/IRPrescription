@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  L-Cysteine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A thiol-containing non-essential amino acid that is oxidized to form cystine.
+4. Indication:  For the prevention of liver damage and kidney damage associated with overdoses of acetaminophen
+DrugId:  2
+1. Name:  Hydroxocobalamin
+2. Groups:  Approved
+3. Description:  Hydroxocobalamin, also known as vitamin B12a and hydroxycobalamin, is an injectable form of vitamin B 12 that has been used therapeutically to treat vitamin B 12 deficiency. Other uses include cyanide poisoning, Leber's optic atrophy, and toxic amblyopia.
+4. Indication:  For treatment of pernicious anemia and the prevention and treatment of vitamin B12 deficiency arising from alcoholism, malabsorption, tapeworm infestation, celiac, hyperthyroidism, hepatic-biliary tract disease, persistent diarrhea, ileal resection, pancreatic cancer, renal disease, prolonged stress, vegan diets, macrobiotic diets or other restrictive diets. Also for the treatment of known or suspected cyanide poisoning.
+DrugId:  3
+1. Name:  Luspatercept
+2. Groups:  Investigational
+3. Description:  Luspatercept has been used in trials studying the treatment of Anemia, Beta-Thalassemia, Erythrocyte Transfusion, and Myelodysplastic Syndromes.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Tocofersolan
+2. Groups:  Approved
+3. Description:  Tocofersolan is a polyethylene glycol derivative of α-tocopherol and synthetic water-soluble version of vitamin E. Tocofersolan is an oral treatment of vitamin E deficiency due to digestive malabsorption in pediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis. It was approved by the European Medicines Agency (EMA) in June 2009 under the market name Vedrop. Tocofersolan is also used in cosmetics and pharmaceuticals as an antioxidant.
+4. Indication:  Vedrop is indicated in vitamin E deficiency due to digestive malabsorption in paediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis, from birth (full term newborns) up to 18years of age. [EMA]
+DrugId:  5
+1. Name:  Pancrelipase
+2. Groups:  Approved, Investigational
+3. Description:  Pancrelipase is an enzyme mixture isolated from porcine or bovine pancreas, sometimes called pancreatin. It contains 3 enzymes: amylase, lipase, and a protease (chymotrypsin). Pancrelipase is marketed under several brand names such as Ultresa™ and Viokace™.
+4. Indication:  For treatment of exocrine pancreatic insufficiency in cystic fibrosis (Ultresa™), chronic pancreatitis (Viokace™ in combination with a proton pump inhibitor), and pancreatectomy (Viokace™ in combination with a proton pump inhibitor). 
+DrugId:  6
+1. Name:  Egaptivon pegol
+2. Groups:  Investigational
+3. Description:  ARC1779 is a therapeutic aptamer antagonist of the A1 domain of von Willebrand Factor (vWF), the ligand for receptor glycoprotein 1b on platelets. ARC1779 is being developed as a novel antithrombotic agent for use in patients with acute coronary syndromes. ARC1779 is a therapeutic oligonucleotide ("aptamer") which blocks the binding of the A1 domain of vWF to the platelet GPIb receptor, and thereby modulates platelet adhesion, activation, and aggregation under the high shear conditions of coronary arterial stenosis and plaque rupture.
+4. Indication:  Platelet aggregation, thrombosis and acute coronary syndromes
+DrugId:  7
+1. Name:  SJG-136
+2. Groups:  Investigational
+3. Description:  SJG-136 has been used in trials studying the treatment of Recurrent Fallopian Tube Cancer, Secondary Acute Myeloid Leukemia, de Novo Myelodysplastic Syndromes, Recurrent Ovarian Epithelial Cancer, and Secondary Myelodysplastic Syndromes, among others.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Rilonacept
+2. Groups:  Approved, Investigational
+3. Description:  Rilonacept is a dimeric fusion protein consisting of portions of IL-1R and the IL-1R accessory protein linked to the Fc portion of immunoglobulin G1. Rilonacept functions as an interleukin 1 inhibitor and is used in the treatment of CAPS, also known as cryopyrin-associated periodic syndromes, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells Syndrome (MWS), in adults and children greater than 12 years old. 
+4. Indication:  Rilonacept is currently used in the treatment of cryopyrin-associated periodic syndrome. In May 2012, an advisory panel for the FDA voted 11-0 against the use of Rilonacept for the treatment of gout. 
+DrugId:  9
+1. Name:  SR-123781A
+2. Groups:  Investigational
+3. Description:  SR-123781A is a synthetic hexadecasaccharide Factor IIa and Xa antagonist. It is under investigation by Sanofi-Aventis and Organon for the treatment of thrombosis and acute coronary syndromes (ACS).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, thrombosis, and venous thromboembolism.
+DrugId:  10
+1. Name:  Xylose
+2. Groups:  Approved
+3. Description:  Xylose is a monosaccharide of the aldopentose type consisted of five carbon atoms and an aldehyde functional group. With its free aldehyde group, it is a reducing sugar. Xylose is a sugar first isolated from wood. D-Xylose is a sugar widely used as diabetic sweetener in food and beverage. Xylose is also used as a diagnostic agent to observe malabsorption in veterinary medicine. Reduction of xylose by catalytic hydrogenation produces the sugar substitute Xylitol.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Pyroxamide
+2. Groups:  Investigational
+3. Description:  Pyroxamide has been used in trials studying the treatment of Leukemia, Lymphoma, Small Intestine Cancer, Precancerous Condition, and Myelodysplastic Syndromes, among others.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Canakinumab
+2. Groups:  Approved, Investigational
+3. Description:  Canakinumab is a recombinant, human anti-human-IL-1β monoclonal antibody that belongs to the IgG1/κ isotype subclass. It is expressed in a murine Sp2/0-Ag14 cell line and comprised of two 447- (or 448-) residue heavy chains and two 214-residue light chains, with a molecular mass of 145157 Daltons when deglycosylated. Both heavy chains of canakinumab contain oligosaccharide chains linked to the protein backbone at asparagine 298 (Asn 298). Canakinumab binds to human IL-1β and neutralizes its inflammatory activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1alpha or IL-1 receptor antagonist (IL-1ra). Canakinumab is marketed under the brand name Ilaris and indicated for patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). Clinical trials have established the administration of canakinumab every 2 weeks to be safe and effective, offering a considerable advantage over the existing treatment with the human IL-1 receptor antagonist, anakinra, which must be injected daily and which is often poorly tolerated by patients.
+4. Indication:  Used in patients 4 years of age and older to treat Familial Cold Autoinflammatory Syndrome (FCAS) and Muckle-Wells Syndrome (MWS), which are both part of the Cryopyrin-Associated Periodic Syndromes (CAPS) as well as for patients 2 years of age and older to treat systemic juvenile idiopathic arthritis (SJIA). 
+DrugId:  13
+1. Name:  Deferiprone
+2. Groups:  Approved
+3. Description:  Deferiprone is an oral iron chelator used as a second line agent in thalassemia syndromes when iron overload from blood transfusions occurs. Thalassemias are a type of hereditary anaemia due a defect in the production of hemoglobin. As a result, erythropoiesis, the production of new red blood cells, is impaired. FDA approved on October 14, 2011. 
+4. Indication:  Deferiprone is indicated in thalassemia syndromes when first line chelation agents are not adequate to treat transfusional iron overload.
+DrugId:  14
+1. Name:  Tavilermide
+2. Groups:  Investigational
+3. Description:  Tavilermide has been investigated for the treatment of Dry Eye Syndromes.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  Volasertib
+2. Groups:  Investigational
+3. Description:  Volasertib has been used in trials studying the treatment of Leukemia, Neoplasms, Leukemia, Myeloid, Acute, Myelodysplastic Syndromes, and Leukemia, Monocytic, Acute, among others.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  BMS-214662
+2. Groups:  Investigational
+3. Description:  BMS-214662 has been used in trials studying the treatment of Childhood Myelodysplastic Syndromes, Refractory Anemia With Excess Blasts, Recurrent Adult Acute Myeloid Leukemia, Relapsing Chronic Myelogenous Leukemia, and Adult Acute Promyelocytic Leukemia (M3), among others.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Pyridoxine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. [PubChem]
+4. Indication:  For the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy.
+DrugId:  18
+1. Name:  Hydroxypropyl cellulose
+2. Groups:  Approved
+3. Description:  Hydroxypropyl cellulose is an ether of cellulose where some of the hydroxyl groups of the cellulose have been hydroxypropylated forming -OCH2CH(OH)CH3 groups. Lacrisertis a formulation of hydroxypropyl cellulose that is used for artificial tears. It is used to treat syndromes characterized by insufficient tear production (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes. As a food additive, hydroxypropyl cellulose is used as a thickener and as an emulsion stabilizer.
+4. Indication:  Used to relieve dryness and irritation caused by reduced tear flow that occurs in certain eye diseases (keratoconjunctivitis sicca), recurrent corneal erosions, decreased corneal sensitivity, exposure and neuroparalytic keratitis, and as a lubricant for artificial eyes.
+DrugId:  19
+1. Name:  Decitabine
+2. Groups:  Approved, Investigational
+3. Description:  Decitabine is indicated for treatment of patients with myelodysplastic syndrome (MDS). It is a chemical analogue of cytidine, a nucleoside present in DNA and RNA. Cells in the presence of Decitabine incorporate it into DNA during replication and RNA during transcription. The incorporation of Decitabine into DNA or RNA inhibits methyltransferase thereby causing demethylation in that sequence. This adversely affects the way that cell regulatory proteins are able to bind to the DNA/RNA substrate.
+4. Indication:  For treatment of patients with myelodysplastic syndromes (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia) and intermediate-1, intermediate-2, and high-risk International Prognostic Scoring System groups (scores ≥0.5).
+DrugId:  20
+1. Name:  Ioflupane I-123
+2. Groups:  Approved
+3. Description:  Ioflupane (I-123) is a radiopharmaceutical used to image dopamine neurons and diagnose Parkinsonian syndromes.
+4. Indication:  Ioflupane I-123 is a SPECT (single photon emission computerized tomography) agent used to distinguish between Parkinson’s syndrome tremors and essential tremor. 
+DrugId:  21
+1. Name:  Ozagrel
+2. Groups:  Investigational
+3. Description:  Ozagrel has been used in trials studying the treatment of Dry Eye Syndromes.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Quisinostat
+2. Groups:  Investigational
+3. Description:  Quisinostat has been used in trials studying the treatment of Lymphoma, Neoplasms, Myelodysplastic Syndromes, and Advanced or Refractory Leukemia.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  24
+1. Name:  Thioproperazine
+2. Groups:  Approved
+3. Description:  Thioproperazine is a potent neuroleptic with antipsychotic properties. Thioproperazine has a marked cataleptic and antiapomorphine activity associated with relatively slight sedative, hypothermic and spasmolytic effects. It is virtually without antiserotonin and hypotensive action and has no antihistaminic property. It is used for the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.Overdosage may result in severe extrapyramidal symptoms with dysphagia, marked sialorrhea, persistent and rapidly increasing hyperthermia, pulmonary syndrome, state of shock with pallor and profuse sweating, which may be followed by collapse and coma. LD50 in mice is 70 mg/kg I.V., 120 mg/kg I.P., 500 mg/kg S.C. and 830 mg/kg P.O.
+4. Indication:  For the treatment of all types of acute and chronic schizophrenia, including those which did not respond to the usual neuroleptics; manic syndromes.
+DrugId:  25
+1. Name:  Laromustine
+2. Groups:  Investigational
+3. Description:  VNP40101M is a novel alkylating agent that has been used in trials studying the treatment of Leukemia, Lymphoma, Lung Cancer, Small Intestine Cancer, and Myelodysplastic Syndromes, among others.
+4. Indication:  Investigated for use/treatment in brain cancer, cancer/tumors (unspecified), colorectal cancer, leukemia (lymphoid), leukemia (myeloid), lung cancer, myelodysplastic syndrome, pediatric indications, and solid tumors.

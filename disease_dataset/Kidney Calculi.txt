@@ -1,0 +1,122 @@
+DrugId:  1
+1. Name:  Kidney bean
+2. Groups:  Approved
+3. Description:  Kidney bean allergenic extract is used in allergenic testing.
+4. Indication:  Not Available
+DrugId:  2
+1. Name:  Potassium Citrate
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Potassium citrate (also known as tripotassium citrate) is a potassium salt of citric acid. It is a white, hygroscopic crystalline powder. It is odorless with a saline taste. It contains 38.3% potassium by mass. In the monohydrate form it is highly hygroscopic and deliquescent.Potassium citrate is used to treat a kidney stone condition called renal tubular acidosis. Potassium Citrate is indicated also for the management of Hypocitraturic calcium oxalate nephrolithiasis.
+4. Indication:  For the management of renal tubular acidosis, hypocitraturic calcium oxalate nephrolithiasis, and uric acid lithiasis with or without calcium stones.
+DrugId:  3
+1. Name:  Magnesium sulfate
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A small colorless crystal used as an anticonvulsant, a cathartic, and an electrolyte replenisher in the treatment of pre-eclampsia and eclampsia. It causes direct inhibition of action potentials in myometrial muscle cells. Excitation and contraction are uncoupled, which decreases the frequency and force of contractions. (From AMA Drug Evaluations Annual, 1992, p1083)
+4. Indication:  Used for immediate control of life-threatening convulsions in the treatment of severe toxemias (pre-eclampsia and eclampsia) of pregnancy and in the treatment of acute nephritis in children. Also indicated for replacement therapy in magnesium deficiency, especially in acute hypomagnesemia accompanied by signs of tetany similar to those of hypocalcemia. Also used in uterine tetany as a myometriat relaxant.
+DrugId:  4
+1. Name:  Xanthine
+2. Groups:  Experimental
+3. Description:  A purine base found in most body tissues and fluids, certain plants, and some urinary calculi. It is an intermediate in the degradation of adenosine monophosphate to uric acid, being formed by oxidation of hypoxanthine. The methylated xanthine compounds caffeine, theobromine, and theophylline and their derivatives are used in medicine for their bronchodilator effects. (Dorland, 28th ed)
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Allopurinol
+2. Groups:  Approved
+3. Description:  A xanthine oxidase inhibitor that decreases uric acid production. It also acts as an antimetabolite on some simpler organisms. Allopurinol is considered a standard treatment of hyperuricemia associated with gout. In August 2017, an oral combination agent Duzallo was approved by FDA as a dual-mechanism treatment of hyperuricemia in patients with uncontrolled gout. Duzallo contains allopurinol and Lesinurad, a recently FDA-approved URAT1 inhibitor indicated for the treatment of hyperuricemia associated with gout.
+4. Indication:  For the treatment of hyperuricemia associated with primary or secondary gout. Also indicated for the treatment of primary or secondary uric acid nephropathy, with or without the symptoms of gout, as well as chemotherapy-induced hyperuricemia and recurrent renal calculi.
+DrugId:  6
+1. Name:  Gadolinium
+2. Groups:  Approved, Investigational
+3. Description:  Gadolinium is under investigation in Hypertension, ACUTE KIDNEY INJURY, and Chronic Kidney Disease. Gadolinium has been investigated for the basic science of CAD, Multiple Sclerosis, and Coronary Artery Disease.
+4. Indication:  Not Available
+DrugId:  7
+1. Name:  Ferric cation
+2. Groups:  Approved
+3. Description:  Ferric citrate (tetraferric tricitrate decahydrate) is a phosphate binder indicated for the control of serum phosphorus levels in patients with chronic kidney disease on dialysis.
+4. Indication:  For the control of serum phosphorus levels in patients with chronic kidney disease on dialysis.
+DrugId:  8
+1. Name:  Iron isomaltoside 1000
+2. Groups:  Approved, Investigational
+3. Description:  Iron isomaltoside 1000 is under investigation in Iron Deficiency Anaemia. Iron isomaltoside 1000 has been investigated for the treatment and basic science of Anemia, Gastric Cancer, Esophageal Cancer, Chronic Kidney Disease, and Anemia, Iron-Deficiency, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Vonapanitase
+2. Groups:  Investigational
+3. Description:  Vonapanitase is under investigation for the treatment of Chronic Kidney Disease.
+4. Indication:  Not Available
+DrugId:  10
+1. Name:  Glucarpidase
+2. Groups:  Approved, Investigational
+3. Description:  Glucarpidase is the recombinant form of the Pseudomonas sp. (strain RS-16) enzyme carboxypeptidase G2 that is produced in Escherichia coli. In patients, glucarpidase inactivates methotrexate, and other antifolates, by hydrolyzing glutamate on the carboxyl terminal of these compounds. Therefore since methotrexate is eliminated enzymatically and not by the kidneys, glucarpidase is indicated in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (>1 micromole per liter). Glucarpidase is marketed under the brand name Voraxaze®.
+4. Indication:  Used in patients on methotrexate treatment who have kidney dysfunction, and are experiencing an abnormally high plasma concentration of methotrexate (> 1 micromole per liter).
+DrugId:  11
+1. Name:  Tabalumab
+2. Groups:  Investigational
+3. Description:  Tabalumab has been used in trials studying the treatment of Autoimmune Disease, Rheumatoid Arthritis, Kidney Failure, Chronic, Connective Tissue Disease, and Systemic Lupus Erythematosus, among others.
+4. Indication:  Not Available
+DrugId:  12
+1. Name:  Edifoligide
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cardiac surgery, peripheral vascular disease, and kidney disease.
+DrugId:  13
+1. Name:  CR002
+2. Groups:  Investigational
+3. Description:  CR002 is a novel investigational fully human monoclonal antibody that blocks the activity of excess platelet-derived growth factor-D (PDGF-D), a target shown to play a role in kidney inflammation. This is a novel therapeutic approach to treat kidney inflammation.
+4. Indication:  Investigated for use/treatment in nephropathy.
+DrugId:  14
+1. Name:  Manitimus
+2. Groups:  Investigational
+3. Description:  FK778, a novel compound with multiple mechanisms of action, is efficacious, well tolerated and safe in kidney transplant patients, potentially offering a breakthrough in immunosuppressive therapy.
+4. Indication:  Investigated for use/treatment in immunosuppressive and transplant (rejection).
+DrugId:  15
+1. Name:  Abetimus
+2. Groups:  Investigational
+3. Description:  Abetimus is an immunosuppressant developed by La Jolla Pharmaceutical, who applied for marketing authorisations in the mid-2000s, but the drug was never marketed in the US or in Europe.
+4. Indication:  Investigated for use/treatment in kidney disease and systemic lupus erythematosus.
+DrugId:  16
+1. Name:  Pimagedine
+2. Groups:  Investigational
+3. Description:  Pimagedine has been developed by Synvista Therapeutics, Inc for the treatment of diabetic kidney disease. It is an advanced glycation end product inhibitor which manages diabetic nephropathy, either alone or in combination with other therapies. It is beneficial in treating patients with diabetic nephropathy.
+4. Indication:  Investigated for use/treatment in diabetic kidney disease.
+DrugId:  17
+1. Name:  Doxercalciferol
+2. Groups:  Approved
+3. Description:  Doxercalciferol is a synthetic vitamin D2 analog that undergoes metabolic activation in vivo to form 1α,25-dihydroxyvitamin D2 (1α,25-(OH)2D2), a naturally occurring, biologically active form of vitamin D2. Doxercalciferol is indicated for the treatment of secondary hyperparathyroidism in patients with chronic kidney disease on dialysis, as well as for the treatment of secondary hyperparathyroidism in patients with Stage 3 or Stage 4 chronic kidney disease. Doxercalciferol is marketed under the brand name Hectoral by Genzyme Corporation, and is manufactured by Catalent Pharma Solutions, Inc. 
+4. Indication:  Doxercalciferol is indicated for the treatment of secondary hyperparathyroidism in patients with chronic kidney disease on dialysis, as well as for the treatment of secondary hyperparathyroidism in patients with Stage 3 or Stage 4 chronic kidney disease. 
+DrugId:  18
+1. Name:  Methoxy polyethylene glycol-epoetin beta
+2. Groups:  Approved
+3. Description:  Methoxy polyethylene glycol-epoetin beta is a chemically synthesised Erythropoiesis Stimulating Agent (ESA) with a longer half-life than erythropoietin. ESA is used to increase synthesis of red blood cells to treat chronic kidney disease associated anemia.
+4. Indication:  For the treatment of patients with anaemia associated with chronic kidney disease. Not a substitute for RBC transfusion if immediate correction of anemia is required.
+DrugId:  19
+1. Name:  Technetium Tc-99m nofetumomab merpentan
+2. Groups:  Approved, Withdrawn
+3. Description:  Technetium Tc-99m nofetumomab merpentan (Tc-99m nm) consists of a Fab fragment of an IgG2b of the pancarcinoma murine antibody NR-LU-10.[1] The NR-LU-10 antibody is directed against a 40 kDa glycoprotein antigen expressed in a variety of cancers and some normal tissues.[FDA Label] Tc-99m nm was developed by Boehringer Ingelheim Pharma KG and FDA approved on September 14, 1992. It was after discontinued on August 13, 2013, but in the 2018 FDA submission list, it can be found as a substance type II (Drug substance) with an active status.[8, 9]
+4. Indication:  Tc-99m nm is one of the technetium-labeled antibodies and it is indicated for the detection of small-cell lung cancer.[3] The small cell lung cancer is a syndrome characterized by the abnormal and uncontrolled cell growth and it is characterized by a shorter doubling time, higher growth fraction and earlier development of metastases.[4]
+DrugId:  20
+1. Name:  Ferric Citrate
+DrugId:  21
+1. Name:  Etelcalcetide
+2. Groups:  Approved, Investigational
+3. Description:  Etelcalcetide is a calcimimetic drug for the treatment of secondary hyperparathyroidism in patients undergoing hemodialysis. Etelcalcetide was approved (trade name Parsabiv) for the treatment of secondary hyperparathyroidism (HPT) in adult patients with chronic kidney disease (CKD) on hemodialysis in February, 2017.
+4. Indication:  Etelcalcetide is a calcium-sensing receptor agonist indicated for:Secondary hyperparathyroidism (HPT) in adult patients with chronic kidney disease (CKD) on hemodialysis.
+DrugId:  22
+1. Name:  Parathyroid hormone
+2. Groups:  Approved, Investigational
+3. Description:  Parathyroid hormone (PTH) is a single-chain polypeptide composed of 84 amino acids. As Preotact, it contains recombinant human parathyroid hormone which is identical to the full-length native 84-amino acid polypeptide. It is produced as a fusion protein. Post-translational processing involves the cleavage of the OmpA leader sequence, leaving the mature protein as a single-chain 84 amino-acids polypeptide (9.4 kDa) whose sequence is identical to that of the full-length native endogenous human PTH. It has no disulfide bonds and no glycosylation sites.Preotact is used in the treatment of osteoporosis in postmenopausal women at high risk of osteoporotic fractures. Preotact is marketed in Europe by Nycomed. Preos is a registered trade mark owned by NPS Pharmaceuticals, Inc. The name Preos and the New Drug Application is pending approval by the U.S. Food and Drug Administration (FDA).
+4. Indication:  For use/treatment in osteoporosis.
+DrugId:  23
+1. Name:  Ferumoxytol
+2. Groups:  Approved, Investigational
+3. Description:  Ferumoxytol is an iron replacement product indicated for the treatment of iron deficiency anemia in adult patients with chronic kidney disease (CKD). As a non-stoichiometric magnetite (superparamagnetic iron oxide), it isolates the bioactive iron from plasma components to enter the intracellular storage iron pool and later be incorporated into hemglobin. It is available as an intravenous injection under the market name Feraheme.
+4. Indication:  Investigated for use/treatment in anemia, kidney disease, and cardiovascular disorders.
+DrugId:  24
+1. Name:  Paricalcitol
+2. Groups:  Approved, Investigational
+3. Description:  Paricalcitol is a synthetic vitamin D analog. Paricalcitol has been used to reduce parathyroid hormone levels. Paricalcitol is indicated for the prevention and treatment of secondary hyperparathyroidism associated with chronic renal failure.
+4. Indication:  For treatment of secondary hyperparathyroidism associated with chronic kidney disease (CKD) Stage 3 and 4
+DrugId:  25
+1. Name:  Cysteamine
+2. Groups:  Approved, Investigational
+3. Description:  Cysteamine is a radiation-protective agent that oxidizes in air to form cystamine. It can be given intravenously or orally to treat radiation sickness. The bitartrate and hydrochloride salt forms are indicated for the treatment of neuropathic cystinosis in patients 6 years old and older. [PubChem]. Cysteamine is marketed under several brand names such as Cystaran™, Procysbi, and Cystagon®.
+4. Indication:  Given intravenously or orally to treat radiation sickness. The bitartrate salts (Cystagon® and Procysbi) have been used for the oral treatment of nephropathic cystinosis and cystinurea. The hydrochloride salt (Cystaran™) is indicated for the treatment of corneal cystine crystal accumulation in cystinosis patients.

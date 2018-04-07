@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pelitinib
+2. Groups:  Investigational
+3. Description:  Pelitinib (EKB-569) is a potent, low molecular weight, selective, and irreversible inhibitor of epidermal growth factor receptor (EGFR) that is being developed as an anticancer agent.
+4. Indication:  Investigated for use/treatment in colorectal cancer and lung cancer.
+DrugId:  2
+1. Name:  INCB7839
+2. Groups:  Investigational
+3. Description:  INCB7839 is a novel, orally available ADAM metalloprotease inhibitor that is designed to block activation of the epidermal growth factor (EGFR) pathways. It represents a potentially important new class of targeted breast cancer therapy. It has shown promising clinical activity in heavily pretreated, refractory breast cancer patients.
+4. Indication:  Investigated for use/treatment in breast cancer.
+DrugId:  3
+1. Name:  Necitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Necitumumab is an intravenously administered recombinant monoclonal IgG1 antibody used in the treatment of non-small cell lung cancer (NSCLC) as an EGFR antagonist. It functions by binding to epidermal growth factor receptor (EGFR) and prevents binding of its ligands, a process that is involved in cell proliferation, metastasis, angiogenesis, and malignant progression. Binding of necitumumab to EGFR induces receptor internalization and degradation, thereby preventing further activation of EGFR which is beneficial in NSCLC as many patients have increased protein expression of EGFR. Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC).
+4. Indication:  Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC). It is not indicated for treatment of non-squamous NSCLC. 
+DrugId:  4
+1. Name:  Zalutumumab
+2. Groups:  Investigational
+3. Description:  Zalutumumab (proposed trade name HuMax-EGFR) is a fully human IgG1 monoclonal antibody (mAb) directed towards the epidermal growth factor receptor (EGFR). Zalutumumab has been investigated for the treatment of Squamous Cell Cancer and Head and Neck Cancer.
+4. Indication:  Not Available
+DrugId:  5
+1. Name:  Cetuximab
+2. Groups:  Approved
+3. Description:  Cetuximab is an epidermal growth factor receptor binding FAB. Cetuximab is composed of the Fv (variable; antigen-binding) regions of the 225 murine EGFr monoclonal antibody specific for the N-terminal portion of human EGFr with human IgG1 heavy and kappa light chain constant (framework) regions. Cetuximab is marketed under the brand Erbitux® by Eli Lilly and Company. In the United States, a regimen of cetuximab costs approximately $30,790 for an eight-week course.
+4. Indication:  Cetuximab, used in combination with irinotecan, is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are refractory to irinotecan-based chemotherapy. Cetuximab administered as a single agent is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are intolerant to irinotecan-based chemotherapy.
+DrugId:  6
+1. Name:  Panitumumab
+2. Groups:  Approved, Investigational
+3. Description:  Panitumumab (ABX-EGF) is a recombinant human IgG2 monoclonal antibody that binds specifically to the human epidermal growth factor receptor (EGFR). This drug is an antineoplastic agent.
+4. Indication:  For the treatment of EGFR-expressing, metastatic colorectal carcinoma that is refractory to fluoropyrimidine-, oxaliplatin-, and irinotecan- containing chemotherapy regimens.
+DrugId:  7
+1. Name:  Diloxanide
+2. Groups:  Approved
+3. Description:  Diloxanide furoate is an anti-protozoal drug used in the treatment of Entamoeba histolytica and some other protozoal infections. Although it is not currently approved for use in the United States, it was approved by a CDC study in the treatment of 4,371 cases of Entamoeba histolytica from 1977 to 1990.
+4. Indication:  Diloxanide is used alone as a primary agent in the treatment of asymptomatic (cyst passers) intestinal amebiasis caused by Entamoeba histolytica. Diloxanide may also be used concurrently, or sequentially, with other agents such as the nitroimidazoles (eg. metronidazole) in the treatment of invasive or extraintestinal forms of amebiasis.
+DrugId:  8
+1. Name:  Naquotinib
+2. Groups:  Investigational
+3. Description:  Naquotinib has been used in trials studying the treatment of Solid Tumors, Non-small Cell Lung Cancer, Non-Small-Cell Lung Cancer (NSCLC), Epidermal Growth Factor Receptor Mutations, and Epidermal Growth Factor Receptor (EGFR) Mutations, among others.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Matuzumab
+2. Groups:  Investigational
+3. Description:  Matuzumab (formerly EMD 72000) is a humanized monoclonal antibody for the treatment of cancer. It binds to EGFR (epithelial growth factor receptor) with high affinity.
+4. Indication:  Investigated for use/treatment in cervical dysplasia/cancer, colorectal cancer, gastric cancer, and lung cancer.
+DrugId:  10
+1. Name:  AEE-788
+2. Groups:  Investigational
+3. Description:  AEE788 has been used in trials studying the treatment of Cancer, Glioblastoma Multiforme, and Brain and Central Nervous System Tumors.
+4. Indication:  Not Available
+DrugId:  11
+1. Name:  Gefitinib
+2. Groups:  Approved, Investigational
+3. Description:  Gefitinib (originally coded ZD1839) is a drug used in the treatment of certain types of cancer. Acting in a similar manner to erlotinib (marketed as Tarceva), gefitinib selectively targets the mutant proteins in malignant cells. It is marketed by AstraZeneca under the trade name Iressa. [Wikipedia]
+4. Indication:  For the continued treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of either platinum-based or docetaxel chemotherapies.
+DrugId:  12
+1. Name:  Lapatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lapatinib is an anti-cancer drug developed by GlaxoSmithKline (GSK) as a treatment for solid tumours such as breast and lung cancer. It was approved by the FDA on March 13, 2007, for use in patients with advanced metastatic breast cancer in conjunction with the chemotherapy drug Capecitabine. Lapatinib is human epidermal growth factor receptor type 2 (HER2/ERBB2) and epidermal growth factor receptor (HER1/EGFR/ERBB1) tyrosine kinases inhibitor. It binds to the intracellular phosphorylation domain to prevent receptor autophosphorylation upon ligand binding.
+4. Indication:  Indicated in combination with capecitabine for the treatment of patients with advanced or metastatic breast cancer whose tumors overexpress the human epidermal receptor type 2 (HER2) protein and who have received prior therapy including an anthracycline, a taxane, and trastuzuma.
+DrugId:  13
+1. Name:  Icotinib
+2. Groups:  Approved, Investigational
+3. Description:  Icotinib is a potent and specific epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)Icotinib was approved in China by the SFDA in June, 2011 and in January 2014, Beta Pharma, Inc. was given a “May Proceed” from the US FDA to conduct a Phase I study for the evaluation of icotinib as a treatment of EGFR+ Non-Small Cell Lung Cancer (NSCLC).
+4. Indication:  Icotinib hydrochloride is a novel epidermal growth factor receptor (EGFR)–tyrosine kinase inhibitor, exhibits encouraging efficacy and tolerability in patients with advanced non-small-cell lung cancer (NSCLC) who failed previous chemotherapy.
+DrugId:  14
+1. Name:  Neratinib
+2. Groups:  Approved, Investigational
+3. Description:  Neratinib was approved in July 2017 for use as an extended adjuvant therapy in Human Epidermal Growth Factor Receptor 2 (HER2) positive breast cancer. Approval was granted to Puma Biotechnology Inc. for the tradename Nerlynx. Neratinib is currently under investigation for use in many other forms of cancer.
+4. Indication:  For use as an extended adjuvant treatment in adult patients with early stage HER2-overexpressed/amplified breast cancer, to follow adjuvant trastuzumab-based therapy [FDA Label].
+DrugId:  15
+1. Name:  Olmutinib
+2. Groups:  Approved, Investigational
+3. Description:  Olmutinib is an orally active epidermal growth factor receptor inhibitor used in the treatment of T790M mutation positive non-small cell lung cancer. It is available under the brand name Olita made by Hanmi Pharmaceuticals [4]. Olmutinib was developed by Hanmi Pharmaceuticals and Boehringer Ingelheim. Olmutinib recieved breakthrough therapy designation in the United States in December 2015 and was approved for use in Korea in May 2016.
+4. Indication:  For use in treatment of metastatic T790M mutation positive non-small cell lung cancer [4].
+DrugId:  16
+1. Name:  Becocalcidiol
+2. Groups:  Investigational
+3. Description:  Becocalcidiol is a vitamin D(3) analogue which has not caused hypercalcaemia or significant irritation in preclinical trials.
+4. Indication:  For topical treatment of psoriasis and psoriatic disorders.
+DrugId:  17
+1. Name:  BMS-599626
+2. Groups:  Investigational
+3. Description:  BMS-599626 has been used in trials studying the treatment of Cancer, Metastases, and HER2 or EGFR Expressing Advanced Solid Malignancies.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Rindopepimut
+2. Groups:  Investigational
+3. Description:  Rindopepimut (CDX-110) is an injectable peptide cancer vaccine which targets a mutant protein called EGFRvIII present in about 25% to 30% of glioblastoma cases. The vaccine consists of the EGFRv3-specific peptide (a 13-amino acid mutant vIII epitope) conjugated to the non-specific immunomodulator keyhole limpet hemocyanin (KLH). The US FDA granted it Breakthrough Therapy Designation for glioblastoma in Feb 2015.
+4. Indication:  Investigated for use/treatment in brain cancer.
+DrugId:  19
+1. Name:  Osimertinib
+2. Groups:  Approved
+3. Description:  Osimertinib is an oral, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) drug developed by AstraZeneca Pharmaceuticals. Its use is indicated for the treatment of metastatic non-small cell lung cancer (NSCLC) in cases where tumour EGFR expression is positive for the T790M mutation as detected by FDA-approved testing and which has progressed following therapy with a first-generation EGFR tyrosine kinase inhibitor. Approximately 10% of patients with NSCLC have a rapid and clinically effective response to EGFR-TKIs due to the presence of specific activating EGFR mutations within the tumour cells. More specifically, deletions around the LREA motif in exon 19 and exon 21 L858R point mutations are correlated with response to therapy. Development of third-generation EGFR-TKIs, such as osimertinib, has been in response to altered tumour resistance patterns following treatment and toxic side effects that impact patient quality of life. Treatment with first-generation EGFR-TKIs (gefitinib and erlotinib) has been associated with the development of resistance through activating mutations in the EGFR gene. Second-generation EGFR-TKIs (afatinib and dacomitinib) were then developed to be more potent inhibitors, although their use is associated with increased toxicity through nonspecific targeting of wild-type EGFR. In contrast, third-generation inhibitors are specific for the gate-keeper T790M mutations which increases ATP binding activity to EGFR and result in poor prognosis for late-stage disease. Furthermore, osimertinib has been shown to spare wild-type EGFR during therapy, thereby reducing non-specific binding and limiting toxicity. 
+4. Indication:  Osimertinib is indicated for the treatment of patients with metastatic epidermal growth factor receptor (EGFR) T790M mutation-positive non-small cell lung cancer (NSCLC), as detected by an FDA- approved test, who have progressed on or after EGFR-TKI therapy.
+DrugId:  20
+1. Name:  Follitropin
+2. Groups:  Approved
+3. Description:  Follitropin is a human follicle stimulating hormone (FSH) preparation of recombinant DNA origin, which consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Follitropin beta is produced in genetically engineered Chinese hamster cell lines (CHO). The nomenclature “beta” differentiates it from another recombinant human FSH product that was marketed earlier as follitropin alpha. Follitropin is important in the development of follicles produced by the ovaries. Given by subcutaneous injection, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF). Numerous physio-chemical tests and bioassays indicate that follitropin beta and follitropin alpha are indistinguishable. However, a more recent study showed there is may be a slight clinical difference, with the alpha form tending towards a higher pregnancy rate and the beta form tending towards a lower pregnancy rate, but with significantly higher estradiol (E2) levels. Structural analysis shows that the amino acid sequence of follitropin beta is identical to that of natural human follicle stimulating hormone (FSH). Further, the ogliosaccharide side chains are very similar, but not completely identical to that of natural FSH. However, these small differences do not affect the bioactivity compared to natural FSH.
+4. Indication:  In women having been diagnosed with primary ovarian failure, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. In men with hypogonadotrophic hypogonadism, it is used to induce spermatogenesis. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).
+DrugId:  21
+1. Name:  Erlotinib
+2. Groups:  Approved, Investigational
+3. Description:  Erlotinib hydrochloride (trade name Tarceva, Genentech/OSIP, originally coded as OSI-774) is a drug used to treat non-small cell lung cancer, pancreatic cancer and several other types of cancer.Similar to gefitinib, erlotinib specifically targets the epidermal growth factor receptor (EGFR) tyrosine kinase. It binds in a reversible fashion to the adenosine triphosphate (ATP) binding site of the receptor. Erlotinib has recently been shown to be a potent inhibitor of JAK2V617F activity. JAK2V617F is a mutant of tyrosine kinase JAK2, is found in most patients with polycythemia vera (PV) and a substantial proportion of patients with idiopathic myelofibrosis or essential thrombocythemia. The study suggests that erlotinib may be used for treatment of JAK2V617F-positive PV and other myeloproliferative disorders.
+4. Indication:  For the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen. Also for use, in combination with gemcitabine, as the first-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer.
+DrugId:  22
+1. Name:  CTA018
+2. Groups:  Investigational
+3. Description:  CTA018 is a member of a new class of vitamin D analogues with a dual mechanism of action, called Vitamin D Signal Amplifiers. This proprietary new drug is both a potent inhibitor of CYP24 (the enzyme responsible for the breakdown of vitamin D) and a potent activator of vitamin D signaling pathways. CTA018 will be the first drug with this novel dual mechanism of action to enter clinical development. Preclinical studies have shown that CTA018 inhibits the proliferation of rapidly dividing cells such as human epidermal keratinocytes (skin cells) and is also effective in inhibiting pro-inflammatory cytokine secretion which may be involved in the etiology of psoriasis. Cytochroma anticipates that CTA018 will be more potent than currently marketed vitamin D analogues such as calcitriol and calcipotriol and it is expected to have a greater safety index.
+4. Indication:  Investigated for use/treatment in kidney disease and psoriasis and psoriatic disorders.
+DrugId:  23
+1. Name:  Varlitinib
+2. Groups:  Investigational
+3. Description:  Varlitinib is an oral, selective, reversible, small molecule tyrosine kinase inhibitor of both ErbB-2 (Her-2/neu) and EGFR. Over-expression of ErbB-2 and EGFR receptors in tumors is predictive of poor prognosis in cancer patients. Varlitinib has shown significant anti-tumor activity in preclinical models of human breast, lung, and epidermal carcinoma tumors.
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  24
+1. Name:  AV-412
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in cancer/tumors (unspecified).
+DrugId:  25
+1. Name:  Pertuzumab
+2. Groups:  Approved
+3. Description:  Pertuzumab is a recombinant humanized monoclonal antibody that targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2). It consists of two heavy chains and two lights chains that have 448 and 214 residues respectively. FDA approved June 8, 2012.
+4. Indication:  Pertuzumab is indicated for use in combination with trastuzumab and docetaxel for the treatment of patients with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease.

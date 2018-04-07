@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Protein C
+2. Groups:  Approved
+3. Description:  Protein C is an endogenously occurring plasma protein that plays a key role within the coagulation cascade. Also known as blood coagulation factor XIV, Protein C is a zymogen, or enzyme precursor, of a vitamin K-dependent anticoagulant glycoprotein (serine protease) that is synthesized in the liver. It is converted by the thrombin/thrombomodulin-complex on the endothelial cell surface to Activated Protein C (APC). Once in its activated form, APC functions as a serine protease with potent anticoagulant effects, especially in the presence of its cofactor protein S. APC exerts its effect by inactivating essential components of the coagulation cascade (specifically factors V and VIII), which leads to a decrease in thrombin formation, and therefore a reduction in clot formation. The Protein C pathway provides a natural mechanism for control of the coagulation system and prevention of excessive procoagulant responses to activating stimuli. A lack of Protein C in the body would lead to unchecked coagulation activation, resulting in thrombin generation and intravascular clot formation with thrombosis. Protein C is available in concentrated form as the product Ceptrotin, which is indicated foruse in pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+4. Indication:  Protein C Concentrate is indicated for pediatric and adult patients with severe congenital Protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.
+DrugId:  2
+1. Name:  Protein S human
+2. Groups:  Approved
+3. Description:  Protein S human is a vitamin K-dependent plasma glycoprotein which has antcoagulant properties [1]. It serves as a negative feedback mechanism in the coagulation cascade.
+4. Indication:  For use in the emergency reversal of coagulation factor deficiency in patients recieving vitamin K antagonist therapy [FDA Label]. Protein S is administered as part of a cocktail containing several other coagulation factors.
+DrugId:  3
+1. Name:  Sebelipase alfa
+2. Groups:  Approved, Investigational
+3. Description:  Sebelipase alfa is a recombinant form of the enzyme lysosomal acid lipase (LAL) approved for the treatment of lysosomal acid lipase deficiency (LAL-D). The amino acid sequence for sebelipase alfa is the same as the amino acid sequence for human LAL. Sebelipase alfa is an orphan drug which is expected to cost about $310,000 for annual treatment in the United States. Sebelipase alfa is marketed under the brand name Kanuma™ by Alexion Pharmaceuticals, Inc.
+4. Indication:  Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. 
+DrugId:  4
+1. Name:  Menadione
+2. Groups:  Approved, Nutraceutical
+3. Description:  A synthetic naphthoquinone without the isoprenoid side chain and biological activity, but can be converted to active vitamin K2, menaquinone, after alkylation in vivo. [PubChem]
+4. Indication:  The primary known function of vitamin K is to assist in the normal clotting of blood, but it may also play a role in normal bone calcification.
+DrugId:  5
+1. Name:  Aprinocarsen
+2. Groups:  Investigational
+3. Description:  Aprinocarsen is a specific antisense oligonucleotide inhibitor of protein kinase C-alpha.
+4. Indication:  Investigated for use/treatment in lung cancer.
+DrugId:  6
+1. Name:  Alpha-1-proteinase inhibitor
+2. Groups:  Approved
+3. Description:  Human alpha-1 proteinase inhibitor or alpha-1-antitrypsin, prepared from human plasma via Cohn alcohol fractionation followed by PEG and zinc chloride fractionation.
+4. Indication:  For chronic augmentation and maintenance therapy in individuals with alpha1-proteinase inhibitor (A1-PI) deficiency and clinical evidence of emphysema.
+DrugId:  7
+1. Name:  Neisseria meningitidis group c capsular polysaccharide diphtheria toxoid conjugate antigen
+2. Groups:  Approved
+3. Description:  Neisseria meningitidis group c capsular polysaccharide diphtheria toxoid conjugate antigen is an active intramuscular immunization for the prophylaxis of invasive meningococcal disease caused by Neisseria meningitidis serogroup c. The vaccine contains N. meningitis serogroup c capsular polysaccharide antigens that are purified and individually conjugated to diphtheria toxoid protein that are extracted from Corynebacterium diphtheriae grown in another culture.
+4. Indication:  Not Available
+DrugId:  8
+1. Name:  Mecasermin
+2. Groups:  Approved, Investigational
+3. Description:  Mecasermin contains recombinant-DNA-engineered human insulin-like growth factor-1 (rhIGF-1). IGF-1 consists of 70 amino acids in a single chain with three intramolecular disulfide bridges and a molecular weight of 7649 daltons. The amino acid sequence of the product is identical to that of endogenous human IGF-1. The rhIGF-1 protein is synthesized in bacteria (E. coli) that have been modified by the addition of the gene for human IGF-1.
+4. Indication:  For the long-term treatment of growth failure in pediatric patients with Primary IGFD or with GH gene deletion who have developed neutralizing antibodies to GH. It is not indicated to treat Secondary IGFD resulting from GH deficiency, malnutrition, hypothyroidism or other causes; it is not a substitute for GH therapy.
+DrugId:  9
+1. Name:  Metreleptin
+2. Groups:  Approved
+3. Description:  Metreleptin, a recombinant analog of the human hormone leptin, is an orphan drug used to treat complications of leptin deficiency in people with congenital or acquired lipodystrophy. Affecting less than 500 people worldwide, lipodystrophy is characterized by a lack of adipose tissue, fat deposition in the muscles and liver, and metabolic complications such as hypertriglyceridemia, insulin resistance, diabetes mellitus, and fatty liver disease. These metabolic abnormalities are often aggravated by excessive food intake, which is further aggravated by leptin deficiency, a protein secreted by adipose tissue. Administration of Metreleptin results in improvement of metabolic symptoms including improvements in insulin resistance, reduced HbA1c and fasting glucose, reduced triglycerides, and reductions in food intake. Metreleptin is produced in E. coli and differs from native human leptin by the addition of a methionine residue at its amino terminus. It is administered as a once daily subcutaneous injection. On Feb. 24, 2014, Metreleptin was approved by the FDA for the treatment of complications of leptin deficiency, in addition to diet, in patients with congenital generalized or acquired generalized lipodystrophy. Metreleptin is marketed under the brand Myalept® by Aegerion Pharmaceuticals, Inc.
+4. Indication:  Metreleptin is indicated as an adjunct to diet as replacement therapy to treat the complications of leptin deficiency in patients with congenital or acquired generalized lipodystrophy.
+DrugId:  10
+1. Name:  XTL-6865
+2. Groups:  Investigational
+3. Description:  XTL-6865 is a combination of two fully human monoclonal antibodies (Ab68 and Ab65) against the hepatitis C virus E2 envelope protein. It is being developed to prevent HCV re-infection following a liver transplant and for the treatment of chronic HCV disease.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  11
+1. Name:  Agalsidase beta
+2. Groups:  Approved, Investigational
+3. Description:  Recombinant human alpha-galactosidase A. The mature protein is composed of 2 subunits of 398 residues. Protein is glycosylated and produced by CHO cells
+4. Indication:  For treatment of Fabry's disease (alpha-galactosidase A deficiency)
+DrugId:  12
+1. Name:  Vitamin C
+2. Groups:  Approved, Nutraceutical
+3. Description:  A six carbon compound related to glucose. It is found naturally in citrus fruits and many vegetables. Ascorbic acid is an essential nutrient in human diets, and necessary to maintain connective tissue and bone. Its biologically active form, vitamin C, functions as a reducing agent and coenzyme in several metabolic pathways. Vitamin C is considered an antioxidant.
+4. Indication:  Used to treat vitamin C deficiency, scurvy, delayed wound and bone healing, urine acidification, and in general as an antioxidant. It has also been suggested to be an effective antiviral agent.
+DrugId:  13
+1. Name:  Beractant
+2. Groups:  Approved
+3. Description:  Beractant is a pulmonary surfactant used for the treatment of Respiratory Distress Syndrome (RDS) in premature infants. Considered a natural source of surfactant as it is made from bovine lung extract, beractant contains a mixture of phospholipids, neutral lipids, fatty acids, and surfactant-associated proteins such as SP-B and SP-C. The final composition provides 25 mg/mL phospholipids (including 11.0-15.5 mg/mL disaturated phosphatidylcholine), 0.5-1.75 mg/mL triglycerides, 1.4-3.5 mg/mL free fatty acids, and less than 1.0 mg/mL protein. It is suspended in 0.9% sodium chloride solution, and heat-sterilized. In anticipation of birth, endogenous lung surfactant is produced to lower the surface tension on alveolar surfaces and to stabilize the alveoli against collapse at resting transpulmonary pressures. However, in Respiratory Distress Syndrome, developmental deficiency of surfactant results collapse of the alveoli causing fast breathing, increased heart rate, apoxia, and sometimes death. Administration of lung surfactant remains the cornerstone of therapy in this condition that is currently the leading cause of death in preterm infants. In comparison to synthetic forms of surfacant, natural forms such as Beractant have been found to have a reduced incidence of pneumothorax and reduced mortality.
+4. Indication:  Beractant is indicated for prevention and treatment of Respiratory Distress Syndrome (RDS) in premature infants.
+DrugId:  14
+1. Name:  Delcasertib
+2. Groups:  Investigational
+3. Description:  Not Available
+4. Indication:  Investigated for use/treatment in myocardial infarction.
+DrugId:  15
+1. Name:  Antihemophilic factor human
+2. Groups:  Approved
+3. Description:  Antihemophilic factor human, also known as Coagulation Factor VIII or Anti-Hemophilic Factor (AHF), is a non-recombinant, lyophilized concentrate of coagulation factor VIII, an endogenous protein and essential component of the coagulation cascade. Antihemophilic factor is manufactured with reduced amounts of von Willebrand Factor antigen (VWF:Ag) and purified from extraneous plasma-derived protein by affinity chromatography. The small amount of VWF:Ag is used to purify factor VIII complex and then removed from the final preparation. The final purified concentrate contains albumin as a stabilizer.[11]. The complex was developed by CSL Behring or Baxter Healthcare Corporation and approved in the 90s.Endogenous Factor VIII is essential to the clotting process in the body due to its involvement in the clotting cascade where it is responsible for acting as a co-factor to Factor IX. Activation of Factor IX leads to a cascade of signals that results in activation of Factor X, which then results in the conversion of prothrombin to thrombin, and as a result, leads to the conversion of fibrinogen to fibrin, the fibrous protein that creates the scaffold of the clot. Replacement of Factor VIII is essential for the treatment of Hemophilia A, which is caused by mutations in the Factor VIII gene, leading to a functional deficiency or complete loss of protein. Congenital loss or deficiency of Factor VIII results in the physiologic impairment of the coagulation clotting cascade, and as a result, leads to easy bruising and bleeding. Bleeding can range in severity from minor concerns, such as nosebleeds, to more serious events such as hemorrhaging in the joints, brain, or digestive tract [6].Exogenous replacement of Factor VIII is currently the cornerstone of Hemophilia treatment and is used for the prophylaxis and control of bleeding episodes. Treatment has drastically improved since the 1960s when Factor VIII protein was primarily purified from human plasma, rather than being produced through recombinant DNA technology. Unfortunately, purification of protein from human plasma carries an increased risk of transmission of blood-borne diseases such as HIV and Hepatitis, which in part contributed to the Tainted Blood Scandal in the 1980s and 1990s [7, 8].Other drug products with similar structure and function to Antihemophilic factor human include Moroctocog alfa, which is produced by recombinant DNA technology and is identical in sequence to endogenously produced Factor VIII, but does not contain the B-domain, which has no known biological function and Efmoroctocog alfa, which is a fully recombinant factor VIII-Fc fusion protein which has an extended half-life compared with conventional factor VIII due to conjugation to the dimeric Fc domain of human immunoglobulin G1, a long-lived plasma protein [7].Antihemophilic factor human is approved by the Food and Drug Administration for use in hemophilia A (classical hemophilia) for the prevention and control of hemorrhagic episodes [FDA Label].
+4. Indication:  The human antihemophilic factor is indicated for the cases of hemophilia A, also known as classical hemophilia for the prevention and control of hemorrhagic episodes.[12] If surgery is needed in patients with hemophilia A there is a need of correction of the clotting abnormality. In this cases, the human antihemophilic factor may be administered followed by intermittent maintenance doses.[11] The hemophilia A is characterized by the deficiency of the coagulation factor VIII that results in prolonged blood flow after injury or surgery as well as recurrent bleeding.[9]
+DrugId:  16
+1. Name:  Copper
+2. Groups:  Approved, Investigational
+3. Description:  Copper is a transition metal and a trace element in the body. It is important to the function of many enzymes including cytochrome c oxidase, monoamine oxidase and superoxide dismutase [FDA Label]. Copper is commonly used in contraceptive intrauterine devices (IUD) [5].
+4. Indication:  For use in the supplementation of total parenteral nutrition and in contraception with intrauterine devices [FDA Label] [5].
+DrugId:  17
+1. Name:  Thiamine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Thiamine or thiamin, also known as vitamin B1, is a colorless compound with the chemical formula C12H17N4OS. It is soluble in water and insoluble in alcohol. Thiamine decomposes if heated. Thiamine was first discovered by Umetaro Suzuki in Japan when researching how rice bran cured patients of Beriberi. Thiamine plays a key role in intracellular glucose metabolism and it is thought that thiamine inhibits the effect of glucose and insulin on arterial smooth muscle cell proliferation. Thiamine plays an important role in helping the body convert carbohydrates and fat into energy. It is essential for normal growth and development and helps to maintain proper functioning of the heart and the nervous and digestive systems. Thiamine cannot be stored in the body; however, once absorbed, the vitamin is concentrated in muscle tissue.
+4. Indication:  For the treatment of thiamine and niacin deficiency states, Korsakov's alcoholic psychosis, Wernicke-Korsakov syndrome, delirium, and peripheral neuritis.
+DrugId:  18
+1. Name:  Thrombomodulin Alfa
+2. Groups:  Approved, Investigational
+3. Description:  Thrombomodulin Alfa is a novel, recombinant and soluble thrombomodulin (ART-123). It is a human protein with both thrombin inhibiting and protein C stimulating activities, for the potential treatment of thromboembolism and blood clotting disorders, such as disseminated intravascular thromboembolism. [5]
+4. Indication:  Investigated for use/treatment in blood preservative, blood (blood forming organ disorders, unspecified), sepsis and septicemia, and thrombosis.
+DrugId:  19
+1. Name:  Drotrecogin alfa
+2. Groups:  Approved, Investigational, Withdrawn
+3. Description:  Drotrecogin alfa is activated human protein C that is synthesized by recombinant DNA technology. It is a glycoprotein of approximately 55 kilodalton molecular weight, consisting of a heavy chain and a light chain linked by a disulfide bond. Drotrecogin alfa was withdrawn from the market after a major study indicated that it was not effective in improving outcomes in patients with sepsis. 
+4. Indication:  For reduction of mortality in patients with severe sepsis.
+DrugId:  20
+1. Name:  Albusomatropin
+2. Groups:  Investigational
+3. Description:  Albusomatropin has been used in trials studying the treatment of Growth Hormone-Deficiency and Growth Hormone Deficiency.
+4. Indication:  Not Available
+DrugId:  21
+1. Name:  Coagulation Factor IX Human
+2. Groups:  Approved
+3. Description:  Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system; it belongs to peptidase family S1. Deficiency of this protein causes hemophilia B.
+4. Indication:  Factor IX is used to treat Christmas disease. Factor IX deficiency is treated by injection factor IX produced from human plasma. Tranexamic acid may be of value in patients undergoing surgery who have inherited factor IX deficiency in order to reduce the perioperative risk of bleeding.
+DrugId:  22
+1. Name:  Sacrosidase
+2. Groups:  Approved
+3. Description:  Sacrosidase is a liquid enzyme preparation from S.cerevisiae used for the treatment of congenital sucrose-isomaltase deficiency (CSID). People with CSID have variable amounts of sucrose-isomaltase enzyme activity and therefore have issues metabolizing dietary disaccharide sucrose causing chronic or intermittent watery diarrhea in infants and children. Treatment options for these patients are limited and usually consists of a lifelong sucrose-free diet; therefore, sacrosidase offers a potential alternative for symptom relief. 
+4. Indication:  For the treatment of congenital sucrose-isomaltase deficiency (CSID).
+DrugId:  23
+1. Name:  Imiglucerase
+2. Groups:  Approved
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)
+DrugId:  24
+1. Name:  ISIS 14803
+2. Groups:  Investigational
+3. Description:  ISIS 14803 is a 20-unit antisense phosphorothioate oligodeoxynucleotide that binds to hepatitis C virus (HCV) RNA at the translation initiation region of the internal ribosome entry site (IRES) and inhibits protein expression in cell culture.
+4. Indication:  Investigated for use/treatment in hepatitis (viral, C).
+DrugId:  25
+1. Name:  Alglucerase
+2. Groups:  Approved, Investigational
+3. Description:  Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues.
+4. Indication:  For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)

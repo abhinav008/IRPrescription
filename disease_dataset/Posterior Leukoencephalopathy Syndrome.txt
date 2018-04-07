@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Ramucirumab
+2. Groups:  Approved, Investigational
+3. Description:  Ramucirumab is a human monoclonal antibody (IgG1) against vascular endothelial growth factor receptor 2 (VEGFR2), a type II trans-membrane tyrosine kinase receptor expressed on endothelial cells. By binding to VEGFR2, ramucirumab prevents binding of its ligands (VEGF-A, VEGF-C, and VEGF-D), thereby preventing VEGF-stimulated receptor phosphorylation and downstream ligand-induced proliferation, permeability, and migration of human endothelial cells. VEGFR stimulation also mediates downstream signalling required for angiogenesis and is postulated to be heavily involved in cancer progression, making it a highly likely drug target. In contrast to other agents directed against VEGFR-2, ramucirumab binds a specific epitope on the extracellular domain of VEGFR-2, thereby blocking all VEGF ligands from binding to it. Ramucirumab is indicated for us in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+4. Indication:  For use in advanced gastric or gastro-esophageal junction adenocarcinoma as a single agent or in combination with paclitaxel after prior fluoropyrimidine- or platinum-containing chemotherapy.
+DrugId:  2
+1. Name:  Brentuximab vedotin
+2. Groups:  Approved, Investigational
+3. Description:  Brentuximab vedotin, also known as Adcetris®, is an antibody-drug conjugate that combines an anti-CD30 antibody with the drug monomethyl auristatin E (MMAE). It is an anti-neoplastic agent used in the treatment of Hodgkin's lymphoma and systemic anaplastic large cell lymphoma. Brentuximab vedotin was initially approved in 2011. In January 2012, the drug label was revised with a boxed warning of a condition known as progressive multifocal leukoencephalopathy and death due to opportunistic JC virus infection post treatment [5]. The U.S. Food and Drug Administration approved Adcetris in March 2018 to treat adult patients with previously untreated stage III or IV classical Hodgkin lymphoma (cHL) in combination with chemotherapy [5].Adcetris has also been previously approved by the FDA to treat Hodgkin's lymphoma after relapse, Hodgkin's lymphoma after stem cell transplantation when a patient has a high risk of relapse or progression, systemic anaplastic large cell lymphoma (ALCL) after the failure of other treatment regimens, and primary cutaneous ALCL after failure of other treatment regimens [5].Lymphoma is a malignancy that begins in the lymphatic system, which helps to combat infection and disease. Lymphoma may begin anywhere in the body and can spread to nearby lymph nodes. The two main types of lymphoma are Hodgkin lymphoma (also called Hodgkin disease) and non-Hodgkin lymphoma. Most individuals with Hodgkin's lymphoma have the classical type. In this type of lymphoma, large, abnormal lymphocytes (a type of white blood cell) are found in the lymph nodes called Reed-Sternberg cells. With early diagnosis and intervention, patients with Hodgkin lymphoma normally experience long-term remission [5].The ECHELON-1 study results demonstrated superior efficacy of the drug combined with a chemotherapy regimen when it is compared to the previous standard of care. Importantly, removing the drug bleomycin, a highly toxic agent, was completely removed from the regimen. This demonstrates meaningful progress in treatment for patients affected by this disease [6].
+4. Indication:  Seattle Genetics Announced FDA Approval of ADCETRIS® (Brentuximab Vedotin) in combination with chemotherapy for adults with previously untreated stage III or IV Classical Hodgkin Lymphoma in March 2018 [5, 6].Hodgkin lymphoma after failure of autologous stem cell transplant (ASCT) or after failure of at least two prior multi-agent chemotherapy regimens in patients who are not ASCT candidates [FDA Label], [5].Systemic anaplastic large cell lymphoma after failure of at least one prior multi-agent chemotherapy regimen [FDA Label].
+DrugId:  3
+1. Name:  Obinutuzumab
+2. Groups:  Approved, Investigational
+3. Description:  Obinutuzumab is a humanized monoclonal antibody used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia. It was approved by the FDA in November 2013 and is marketed under the brand name Gazyva. There is a black box warning of fatal Hepatitis B Virus (HBV) reactivation and fatal Progressive Multifocal Leukoencephalopathy (PML).
+4. Indication:  Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
+DrugId:  4
+1. Name:  Blinatumomab
+2. Groups:  Approved, Investigational
+3. Description:  Blinatumomab is a BiTE-class (bi-specific T-cell engagers) constructed monoclonal antibody indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL). Blinatumomab is manufactured by Amgen Inc. and marketed under the brand Blincyto™. A full treatment regimen consisting of two cycles of four weeks each, is priced at $178 000 USD. Blinatumomab was approved in December 2014 under the FDA’s accelerated approval program, which allows approval of a drug to treat a serious or life-threatening disease based on clinical data showing the drug has an effect on a surrogate endpoint reasonably likely to predict clinical benefit to patients.
+4. Indication:  Indicated for the treatment of Philadelphia chromosome-negative relapsed or refractory B-cell precursor acute lymphoblastic leukemia (ALL).
+DrugId:  5
+1. Name:  Tesidolumab
+2. Groups:  Investigational
+3. Description:  Tesidolumab has been used in trials studying the treatment of Geographic Atrophy, Non-infectious Panuveitis, Exudative Macular Degeneration, Non-infectious Posterior Uveitis, and Age-related Macular Degeneration, among others.
+4. Indication:  Not Available
+DrugId:  6
+1. Name:  Prednisone
+2. Groups:  Approved, Vet approved
+3. Description:  A synthetic anti-inflammatory glucocorticoid derived from cortisone. It is biologically inert and converted to prednisolone in the liver. [PubChem]
+4. Indication:  For the treatment of drug-induced allergic reactions, perennial or seasonal allergic rhinitis, serum sickness, giant cell arteritis acute rheumatic or nonrheumatic carditis, systemic dermatomyositis, systemic lupus erythematosus, atopic dermatitis, contact dermatitis, exfoliative dermatitis, bullous dermatitis herpetiformis, severe seborrheic dermatitis, severe (Stevens-Johnson syndrome) erythema multiforme, mycosis fungoides, pemphigus, severe psoriasis, acute adrenocortical insufficiency, Addison's disease, secondary adrenocortical insufficiency, congenital adrenal hyperplasia, hypercalcemia associated with neoplasms, nonsuppurative thyroiditis, ulceratice colitis, Crohn's disease, acquired hemolytic anemia, congenital hypoplastic anemia, erythroblastopenia, adult secondary thrombocytopenia, adult idiopathic thrombocytopenia purpura, acute or subacute bursitis, epicondylitis, acute nonspecific tenosynovitis, acute or chronic lymphocytic leukemia, Hodgkin's or non-Hodgkin's lynphomas, Waldenstrom's macroglobulinemia, primary brain tumors (adjunct), nephrotic syndrome, tuberculous meningitis, multiple sclerosis, myasthenia gravis. cerebral edema, chorioretinitis, diffuse posterior choroiditis, aleergic conjunctivitis, Herpes zoster ophthalmicus, anterior segment inflammation, iridocyclitis, iritis, keratitis, optoc neuritis, sympathetic ophthalmia, corneal marginal allergic ulcers, symptomatic sarcoidosis, Loeffler's syndrome not manageable by other means, berylliosis, fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculous chemotherapy and aspiration pneumonitis.
+DrugId:  7
+1. Name:  Lenvatinib
+2. Groups:  Approved, Investigational
+3. Description:  Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFRα), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers.Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.
+4. Indication:  Lenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer.
+DrugId:  8
+1. Name:  Carmofur
+2. Groups:  Withdrawn
+3. Description:  Carmofur is a derivative of fluorouracil, and is an antineoplastic agent that has been used in the treatment of breast and colorectal cancer. Carmofur has been known to induce leukoencephalopathy.
+4. Indication:  Not Available
+DrugId:  9
+1. Name:  Vasopressin
+2. Groups:  Approved
+3. Description:  Antidiuretic hormone, also known as vasopressin, is a nine amino acid peptide secreted from the posterior pituitary. Antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation
+4. Indication:  For the treatment of enuresis, polyuria, diabetes insipidus, polydipsia and oesophageal varices with bleeding
+DrugId:  10
+1. Name:  Natalizumab
+2. Groups:  Approved, Investigational
+3. Description:  Humanized IgG4k monoclonal antibody produced in murine myeloma cells. Natalizumab contains human framework regions and the complementarity-determining regions of a murine antibody that binds to a4-integrin. Natalizumab was voluntarily withdrawn from U.S. market because of risk of Progressive multifocal leukoencephalopathy (PML). It was returned to market July, 2006.
+4. Indication:  For treatment of multiple sclerosis.
+DrugId:  11
+1. Name:  Felypressin
+2. Groups:  Approved
+3. Description:  A synthetic nonapeptide comprising cysteinyl, phenylalanyl, phenylalanyl, glutaminyl, asparaginyl, cysteinyl, prolyl, lysyl, and glycinamide residues in sequence, with a disulfide bridge joining the two cysteine residues. Its antidiuretic effects are less than those of vasopressin. It is used as a vasoconstrictor in local anaesthetic injections for dental use, and is an ingredient of preparations that have been used for treatment of pain and inflammation of the mouth.
+4. Indication:  For use as an alternative to adrenaline as a localising agent, provided that local ischaemia is not essential.
+DrugId:  12
+1. Name:  Diclofenamide
+2. Groups:  Approved, Investigational
+3. Description:  A carbonic anhydrase inhibitor that is used in the treatment of glaucoma. [PubChem]
+4. Indication:  For adjunctive treatment of: chronic simple (open-angle) glaucoma, secondary glaucoma, and preoperatively in acute angle-closure glaucoma where delay of surgery is desired in order to lower intraocular pressure
+DrugId:  13
+1. Name:  Carbetocin
+2. Groups:  Approved, Investigational
+3. Description:  Carbetocin is a drug used to control postpartum hemorrhage, bleeding after giving birth. It is an analogue of oxytocin, and its action is similar to that of oxytocin -- it causes contraction of the uterus.
+4. Indication:  Used to control postpartum hemorrhage and bleeding after giving birth.
+DrugId:  14
+1. Name:  Selepressin
+2. Groups:  Investigational
+3. Description:  Selepressin has been used in trials studying the treatment of Septic Shock.
+4. Indication:  Not Available
+DrugId:  15
+1. Name:  N-sulfoglucosamine sulfohydrolase recombinant
+2. Groups:  Investigational
+3. Description:  N-sulfoglucosamine sulfohydrolase recombinant is under investigation for the treatment of Mucopolysaccharidosis III and Sanfilippo Syndrome Type A (MPS IIIA).
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  TD-2749
+2. Groups:  Investigational
+3. Description:  TD-2749 is selective 5-HT4 agonists discovered by Theravance through the application of multivalent drug design in a drug discovery program dedicated to finding new medicines for GI motility disorders such as chronic constipation, constipation-predominant irritable bowel syndrome (C-IBS), opioid-induced constipation, functional dyspepsia and diabetic gastroparesis.
+4. Indication:  Investigated for use/treatment in constipation, gastrointestinal diseases and disorders (miscellaneous), gastroparesis, and irritable bowel syndrome (IBS).
+DrugId:  17
+1. Name:  SR 121463
+2. Groups:  Investigational
+3. Description:  SR 121463 is a nonpeptide aquaretic compound with potent selective antagonism of the vasopressin V2 (V1b) receptor subtype. It is a candidate for control of hyponatremia and in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH).
+4. Indication:  Investigated for use/treatment in cardiovascular disorders, in the treatment of syndrome of inappropriate secretion of anti-diuretic hormone (SIADH) and in hyponatremia. 
+DrugId:  18
+1. Name:  Vedolizumab
+2. Groups:  Approved
+3. Description:  Vedolizumab is a recombinant humanized IgG1 monoclonal antibody directed against the human lymphocyte α4β7 integrin, a key mediator of gastrointestinal inflammation. It is used in the treatment of moderate to severe active ulcerative colitis and Crohn's disease for patients who have had an inadequate response with, lost response to, or were intolerant to inhibitors of tumor necrosis factor-alpha (TNF-alpha) or other conventional therapies. By blocking its primary target, α4β7 integrin, vedolizumab reduces inflammation in the gut. Vedolizumab is administered by IV infusion over a period of 30 minutes; after the first dose, it is given again at two and six weeks and then every 8 weeks thereafter.
+4. Indication:  Vedolizumab is indicated for adult patients with moderately to severely active UC or CD who have had an inadequate response with, lost response to, or were intolerant to a tumor necrosis factor (TNF) blocker or immunomodulator; or had an inadequate response with, were intolerant to, or demonstrated dependence on corticosteroids. 
+DrugId:  19
+1. Name:  Oxytocin
+2. Groups:  Approved, Vet approved
+3. Description:  Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.
+4. Indication:  Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. 
+DrugId:  20
+1. Name:  Terlipressin
+2. Groups:  Approved, Investigational
+3. Description:  Terlipressin is an analogue of vasopressin used as a vasoactive drug in the management of hypotension. It has been found to be effective when norepinephrine does not help. [Wikipedia]
+4. Indication:  Commonly used to stop bleeding of varices in the food pipe (oesophagus).
+DrugId:  21
+1. Name:  Vadastuximab Talirine
+2. Groups:  Investigational
+3. Description:  Vadastuximab Talirine has been used in trials studying the treatment of Acute myeloid leukemia, Myelodysplastic Syndrome, Acute Myelogenous Leukemia, and Acute Promyelocytic Leukemia.
+4. Indication:  Not Available
+DrugId:  22
+1. Name:  Eleclazine
+2. Groups:  Investigational
+3. Description:  Eleclazine has been used in trials studying the treatment of LQT2 Syndrome, Long QT Syndrome, Ischemic Heart Disease, Ventricular Arrhythmia, and Long QT Syndrome Type 3, among others.
+4. Indication:  Not Available
+DrugId:  23
+1. Name:  Glucagon-like peptide II
+2. Groups:  Investigational
+3. Description:  Glucagon-like peptide II is under investigation for the basic science of Short Bowel Syndrome.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  DDP733
+2. Groups:  Investigational
+3. Description:  DDP733 is an oral prokinetic drug which Dynogen is developing as a treatment for both Irritable Bowel Syndrome with constipation (IBS-c) and nocturnal gastroesophageal reflux disease (NGERD). It is a partial agonist of the serotonin type 3 receptor (5-HT3). Serotonin is a neurotransmitter that is known to be involved in the control of the gastrointestinal (GI) system. Preclinical studies of DDP733 established the compound’s prokinetic properties (the ability to promote the motility of the GI tract).
+4. Indication:  Investigated for use/treatment in constipation, gastroesophageal reflux disease (GERD), gastrointestinal diseases and disorders (miscellaneous), and irritable bowel syndrome (IBS).
+DrugId:  25
+1. Name:  TC-5231
+2. Groups:  Investigational
+3. Description:  TC-5231 is a small molecule that has been under investigation as an oral treatment for ADHD (Attention Deficit/Hyperactivity Disorder). TC-5231 is mecamylamine hydrochloride, the active ingredient in FDA-approved product, Inversine, but in a lower dose than Inversine. 
+4. Indication:  Investigated for use/treatment in attention deficit/hyperactivity disorder (ADHD), neurologic disorders, and tourette's syndrome.

@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Dulaglutide
+2. Groups:  Approved, Investigational
+3. Description:  Dulaglutide is a novel glucagon-like peptide-1 agonist (GLP-1) biologic drug consisting of a dipeptidyl peptidase-IV-protected GLP-1 analogue covalently linked to a human IgG4-Fc heavy chain by a small peptide linker. Dulaglutide is indicated in the treatment of type 2 diabetes and can be used once a week. It was approved by the FDA in September 2014. Dulaglutide is manufactured and marketed by Eli Lily under the brand Trulicity™. It is not known if dulaglutide can increase the risk of medullary thyroid carcinoma or multiple endocrine neoplasia syndrome type 2, and is thus not recommended for use in populations with a personal or family history of these conditions. 
+4. Indication:  Indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+DrugId:  2
+1. Name:  Albiglutide
+2. Groups:  Approved
+3. Description:  Albiglutide is a glucagon-like peptide-1 agonist (GLP-1) biologic drug indicated in the treatment of type 2 diabetes. It is marketed under the brands Eperzan and Tanzeum by GSK (GlaxoSmithKline). It is a dipeptidyl peptidase-4-resistant glucagon-like peptide-1 dimer fused to human albumin. Albiglutide was approved on April 15, 2014 by the FDA.
+4. Indication:  Indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+DrugId:  3
+1. Name:  Toremifene
+2. Groups:  Approved, Investigational
+3. Description:  A first generation nonsteroidal selective estrogen receptor modulator (SERM) that is structurally related to tamoxifen. Like tamoxifen, it is an estrogen agonist for bone tissue and cholesterol metabolism but is antagonistic on mammary and uterine tissue. [PubChem]
+4. Indication:  For the treatment of metastatic breast cancer in postmenopausal women with estrogen receptor-positive or receptor-unknown tumors. Toremifene is currently under investigation as a preventative agent for prostate cancer in men with high-grade prostatic intraepithelial neoplasia and no evidence of prostate cancer.
+DrugId:  4
+1. Name:  Peginterferon alfa-2a
+2. Groups:  Approved, Investigational
+3. Description:  Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a. Peginterferon alfa-2a is derived from the alfa-2a moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2a is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2a has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2a for the treatment of Hepatitis C [1]. Peginterferon alfa-2a was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [2].Peginterferon alfa-2a is available as a fixed dose injector (tradename Pegasys) used for the treatment of chronic Hepatitis C. Approved in 2002 by the FDA, Pegasys is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2a and Ribavirin have been shown to achieve a SVR between 36% for genotype 1 and 59% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who havecompensated liver disease and evidence of viral replication and liver inflammation [FDA Label].
+DrugId:  5
+1. Name:  CCX915
+2. Groups:  Investigational
+3. Description:  CCX915 is developed by ChemoCentryx which targets the chemokine receptor CCR2 and is in phase 1 of clinical trial for the treatment of Multiple Sclerosis and Neurologic Disorders. The CCR2 receptor is thought to be of central importance to inflammatory diseases, such as multiple sclerosis (MS), Type II diabetes and atherosclerosis.
+4. Indication:  Investigated for use/treatment in multiple sclerosis and neurologic disorders.
+DrugId:  6
+1. Name:  Peginterferon alfa-2b
+2. Groups:  Approved
+3. Description:  Peginterferon alfa-2b is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [3]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2b. Peginterferon alfa-2b is derived from the alfa-2b moeity of recombinant human interferon and acts by binding to human type 1 interferon receptors. Activation and dimerization of this receptor induces the body's innate antiviral response by activating the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway. Use of Peginterferon alfa-2b is associated with a wide range of severe adverse effects including the aggravation and development of endocrine and autoimmune disorders, retinopathies, cardiovascular and neuropsychiatric complications, and increased risk of hepatic decompensation in patients with cirrhosis. The use of Peginterferon alfa-2b has largely declined since newer interferon-free antiviral therapies have been developed.In a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) no longer recommend Peginterferon alfa-2b for the treatment of Hepatitis C [2]. Peginterferon alfa-2b was used alongside Ribavirin with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [1].Peginterferon alfa-2b is available as a variable dose injectable product (tradename Pegintron) used for the treatment of chronic Hepatitis C. Approved in 2001 by the FDA, Pegintron is indicated for the treatment of HCV with Ribavirin or other antiviral drugs [FDA Label]. When combined together, Peginterferon alfa-2b and Ribavirin have been shown to achieve a SVR between 41% for genotype 1 and 75% for genotypes 2-6 after 48 weeks of treatment.
+4. Indication:  Peginterferon alfa-2b is indicated for the treatment of HCV in combination with Ribavirin and a NS3/4A protease inhibitor for genotype 1 or without a NS3/4A protease inhibitor for genotypes 2-6 [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.
+DrugId:  7
+1. Name:  INCB13739
+2. Groups:  Investigational
+3. Description:  INCB13739 is developed as a new treatment for type 2 diabetes.It is an orally available small molecule inhibitor of 11beta-HSD1 (11-beta hydroxysteroid dehydrogenase type 1). 11beta-HSD1 is an enzyme that appears to be critical to the development of type 2 diabetes.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2 and diabetes prevention.
+DrugId:  8
+1. Name:  Abemaciclib
+2. Groups:  Approved, Investigational
+3. Description:  Abemaciclib is an antitumor agent and dual inhibitor of cyclin-dependent kinases 4 (CDK4) and 6 (CDK6) that are involved in the cell cycle and promotion of cancer cell growth in case of unregulated activity. On September 28, 2017, FDA granted approval of abemaciclib treatment under the market name Verzenio for the treatment of HR-positive and HER2-negative advanced or metastatic breast cancer that has progressed after unsuccessful endocrine therapy. It is either given alone in patients who has undergone endocrine therapy and chemotherapy after the metastasis of cancer, or in combination with Fulvestrant. Following oral treatment in patients with HR-positive, HER2-negative breast cancer, abemaciclib demonstrated increased progression-free survival rates and objective response rates. Abemaciclib has been used in trials studying the treatment of melanoma, lymphoma, neoplasm, solid tumor, and glioblastoma.
+4. Indication:  Indicated in combination with fulvestrant for the treatment of women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer with disease progression following endocrine therapy. Inidicated as monotherapy for the treatment of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting. 
+DrugId:  9
+1. Name:  Goserelin
+2. Groups:  Approved
+3. Description:  Goserelin is a synthetic hormone. In men, it stops the production of the hormone testosterone, which may stimulate the growth of cancer cells. In women, goserelin decreases the production of the hormone estradiol (which may stimulate the growth of cancer cells) to levels similar to a postmenopausal state. When the medication is stopped, hormone levels return to normal.
+4. Indication:  Used to treat hormone-sensitive cancers of the breast (in pre- and peri- menopausal women) and prostate, and some benign gynaecological disorders (endometriosis, uterine fibroids and endometrial thinning). In addition, goserelin is used in assisted reproduction and in the treatment of precocious puberty.
+DrugId:  10
+1. Name:  Phylloquinone
+2. Groups:  Approved, Investigational
+3. Description:  Phylloquinone is often called vitamin K1. It is a fat-soluble vitamin that is stable to air and moisture but decomposes in sunlight. It is found naturally in a wide variety of green plants. Phylloquinone is also an antidote for coumatetralyl. Vitamin K is needed for the posttranslational modification of certain proteins, mostly required for blood coagulation.
+4. Indication:  For the treatment of haemorrhagic conditions in infants, antidote for coumarin anticoagulants in hypoprothrombinaemia.
+DrugId:  11
+1. Name:  rGLP-1
+2. Groups:  Investigational
+3. Description:  rGLP-1 is a continuous infusion of glucagon-like peptide 1, or GLP-1, targeted for the treatment of congestive heart failure (CHF) in patients ineligible for transplant. GLP-1 is a naturally occurring hormone produced in the intestines in response to food intake.
+4. Indication:  Investigated for use/treatment in congestive heart failure and diabetes mellitus type 2.
+DrugId:  12
+1. Name:  Interferon beta-1a
+2. Groups:  Approved, Investigational
+3. Description:  Human interferon beta (166 residues), glycosylated, MW=22.5kD. It is produced by mammalian cells (Chinese Hamster Ovary cells) into which the human interferon beta gene has been introduced. The amino acid sequence is identical to that of natural human interferon beta.
+4. Indication:  For treatment of relapsing/remitting multiple sclerosis, also for condyloma acuminatum
+DrugId:  13
+1. Name:  Enzalutamide
+2. Groups:  Approved
+3. Description:  Enzalutamide is an androgen receptor inhibitor for the treatment of castration-resistant prostate cancer. FDA approved on August 31, 2012.
+4. Indication:  Enzalutamide is indicated for the treatment of patients with metastatic castration-resistant prostate cancer who have previously received docetaxel.
+DrugId:  14
+1. Name:  Peginterferon beta-1a
+2. Groups:  Approved
+3. Description:  Peginterferon beta-1a is an interferon beta-1a to which a single, linear 20,000 dalton (Da) methoxy poly(ethyleneglycol)-O-2-methylpropionaldehyde (PEG) molecule is covalently attached to the alpha amino group of the N-terminal amino acid residue. The amino acid sequence of the recombinant interferon beta-1a is identical to that of the human interferon beta counterpart. Although it's mechanism of action is unknown, peginterferon beta-1a is indicated for use in relapsing forms of Multiple Sclerosis (MS).Interferon beta was the first drug to alter the course of MS, however multiple side effects and the need for weekly subcutaneous injection make it difficult to use. Interferon beta was subsequently PEGylated (covalently attached to polyethylene glycol) to extend its duration of action to every 14 days. It is currently available as peginterferon beta-1a as the FDA-approved product Plegridy.
+4. Indication:  For the treatment of patients with relapsing forms of multiple sclerosis.
+DrugId:  15
+1. Name:  Promazine
+2. Groups:  Approved, Vet approved
+3. Description:  A phenothiazine with actions similar to chlorpromazine but with less antipsychotic activity. It is primarily used in short-term treatment of disturbed behavior and as an antiemetic. Promazine is not approved for use in the United States.
+4. Indication:  Used as an adjunct for short term treatment of moderate and severe psychomotor agitation. Also used to treat agitation or restlessness in the elderly.
+DrugId:  16
+1. Name:  Ertiprotafib
+2. Groups:  Investigational
+3. Description:  Ertiprotafib belongs to a novel class of insulin sensitizers developed for treatment of type 2 diabetes. In insulin-resistant rodent models, ertiprotafib and a close analog lowered both fasting blood glucose and insulin levels and improved glycemic excursion during an oral glucose tolerance test.
+4. Indication:  Investigated for use/treatment in diabetes mellitus type 2.
+DrugId:  17
+1. Name:  Cyanocobalamin
+2. Groups:  Approved, Nutraceutical
+3. Description:  Cyanocobalamin (commonly known as Vitamin B12) is the most chemically complex of all vitamins. Its chemical structure is based on a corrin ring, which, although quite similar to the porphyrin ring found in heme, chlorophyll, and cytochrome, has two of the pyrrole rings directly bonded. The central metal ion in cyanocobalamin is Co (cobalt). Cyanocobalamin (Vitamin B12) is not produced by plants or by animals. The only organisms that have the enzymes required for the synthesis of cyanocobalamin are bacteria and archaea [10].Higher plants do not utilize cyanocobalamin from the soil, and are therefore a poor source of the substance as compared with animal tissues, which are potent in cyanocobalamin [10].Vitamin B12 is naturally found in animal products, including fish, meat, poultry, eggs, milk, and milk products. Vitamin B12 is generally not present in plant foods, but fortified breakfast cereals are a readily available source of vitamin B12 with high bioavailability for vegetarian consumers. Various nutritional yeast products also contain vitamin B12 [12].The main causes of vitamin B12 deficiency include vitamin B12 malabsorption, pernicious anemia, postsurgical malabsorption, and lastly, dietary deficiency. In many cases, however, the cause of deficiency is unknown [12].
+4. Indication:  For treatment of pernicious anemia (due to lack of or inhibition of intrinsic factor) and for prevention and treatment of vitamin B 12 deficiency [12], [15].Values below approximately 170–250 pg/mL (120–180 picomol/L) for adults suggest a vitamin B12 deficiency. Despite this, evidence suggests that serum vitamin B12 concentrations may not accurately reflect intracellular concentrations of the vitamin [12]. It is therefore difficult to diagnose vitamin B12 deficiency.
+DrugId:  18
+1. Name:  Aminoglutethimide
+2. Groups:  Approved, Investigational
+3. Description:  An aromatase inhibitor that produces a state of "medical" adrenalectomy by blocking the production of adrenal steroids. It also blocks the conversion of androgens to estrogens. Aminoglutethimide has been used in the treatment of advanced breast and prostate cancer. It was formerly used for its weak anticonvulsant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p454)
+4. Indication:  For the suppression of adrenal function in selected patients with Cushing's syndrome, malignant neoplasm of the female breast, and carcinoma in situ of the breast.
+DrugId:  19
+1. Name:  Pyridoxine
+2. Groups:  Approved, Investigational, Nutraceutical, Vet approved
+3. Description:  Pyridoxine is the 4-methanol form of vitamin B6 and is converted to pyridoxal 5-phosphate in the body. Pyridoxal 5-phosphate is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. Although pyridoxine and vitamin B6 are still frequently used as synonyms, especially by medical researchers, this practice is erroneous and sometimes misleading. [PubChem]
+4. Indication:  For the treatment of vitamin B6 deficiency and for the prophylaxis of isoniazid-induced peripheral neuropathy.
+DrugId:  20
+1. Name:  Durvalumab
+2. Groups:  Approved, Investigational
+3. Description:  Durvalumab is a a human monoclonal antibody that blocks programmed death ligand 1 (PD-L1), or CD 274. In May, 2017 it received FDA approval for previously treated patients with locally advanced or metastatic cancer in the urinary system (as Imfinzi). It is shown to be effective in patients with continued disease progression after the platinum-based chemotherapy. This drug has a relatively tolerable safety profile and its structural modification advantageously prevents the induction of antibody-dependent cytotoxicity (ADCC) or complement-dependent cytotoxicity (CDC) [5].
+4. Indication:  Durvalumab is indicated for patients with urothelial carcinoma, such as urinary bladder, urethra or ureter cancer. Patients with prolonged disease progression due to failed platinum-based chemotherapy such as cisplatin and carboplatin are most likely to benefit from durvalumab treatment. Its clinical effectiveness is especially enhanced in PD-L1-positive patient groups [1]. 
+DrugId:  21
+1. Name:  Flutamide
+2. Groups:  Approved, Investigational
+3. Description:  An antiandrogen with about the same potency as cyproterone in rodent and canine species.
+4. Indication:  For the management of locally confined Stage B2-C and Stage D2 metastatic carcinoma of the prostate
+DrugId:  22
+1. Name:  Nilutamide
+2. Groups:  Approved, Investigational
+3. Description:  Nilutamide is an antineoplastic hormonal agent primarily used in the treatment of prostate cancer. Nilutamide is a pure, nonsteroidal anti-androgen with affinity for androgen receptors (but not for progestogen, estrogen, or glucocorticoid receptors). Consequently, Nilutamide blocks the action of androgens of adrenal and testicular origin that stimulate the growth of normal and malignant prostatic tissue. Prostate cancer is mostly androgen-dependent and can be treated with surgical or chemical castration. To date, antiandrogen monotherapy has not consistently been shown to be equivalent to castration.
+4. Indication:  For use in combination with surgical castration for the treatment of metastatic prostate cancer involving distant lymph nodes, bone, or visceral organs (Stage D2).
+DrugId:  23
+1. Name:  Ponesimod
+2. Groups:  Investigational
+3. Description:  Ponesimod has been used in trials studying the treatment of Psoriasis, Chronic GVHD, Pharmacokinetics, Plaque Psoriasis, and Multiple sclerosis, among others.
+4. Indication:  Not Available
+DrugId:  24
+1. Name:  Propericiazine
+2. Groups:  Approved, Investigational
+3. Description:  Propericiazine is a phenothiazine of the piperidine group. It has been shown to reduce pathologic arousal and affective tension in some psychotic patients, while the symptoms of abnormal mental integration are relatively unaffected. It is a sedative phenothiazine with weak antipsychotic properties. It also has adrenolytic, anticholinergic, metabolic and endocrine effects and an action on the extrapyramidal system. It is used as an adjunctive medication in some psychotic patients, for the control of residual prevailing hostility, impulsiveness and aggressiveness. Pericyazine, like other phenothiazines, is presumed to act principally in the subcortical areas, by producing what has been described as a central adrenergic blockade. 
+4. Indication:  For use as adjunctive medication in some psychotic patients. Propericiazine (Pericyazine)is used for the control of residual prevailing hostility, impulsiveness and aggressiveness. 
+DrugId:  25
+1. Name:  Borage oil
+2. Groups:  Approved, Investigational
+3. Description:  Borage oil, or borage seed oil, is a rich source of gamma-linolenic acid (GLA) that is obtained from the seeds of the Borago officinalis (borage). Borage oil is used as an herbal treatment of skin disorders including eczema, seborrheic dermatitis, and neurodermatitis as well as other inflammatory, cardiovascular and endocrine disorders, although its clinical efficacy and long-term effects are not fully elucidated yet. GLA, which accounts for approximately 24% of the oil, is converted to dihomo-γ-linolenic acid (DGLA) which acts as a precursor to anti-inflammatory mediators such as 1-series prostaglandins and the 3-series leukotrienes. Borage oil may be found in foods or in skin care products.
+4. Indication:  Not Available

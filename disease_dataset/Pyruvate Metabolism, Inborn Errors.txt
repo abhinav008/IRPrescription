@@ -1,0 +1,125 @@
+DrugId:  1
+1. Name:  Pyruvic acid
+2. Groups:  Approved, Investigational, Nutraceutical
+3. Description:  An intermediate compound in the metabolism of carbohydrates, proteins, and fats. In thiamine deficiency, its oxidation is retarded and it accumulates in the tissues, especially in nervous structures. (From Stedman, 26th ed)
+4. Indication:  For nutritional supplementation, also for treating dietary shortage or imbalance
+DrugId:  2
+1. Name:  Glycine betaine
+2. Groups:  Approved, Nutraceutical
+3. Description:  Betaine is a methyl group donor that functions in the normal metabolic cycle of methionine and reduces homocystinuria in patients with inborn errors of methionine metabolism. In the United States, betaine is distributed under the brand name Cystadane® by Rare Disease Therapeutics. Many reports have shown that betaine's therapeutic effectiveness is limited, and does not lower tHcy levels or prevent clinical symptoms [2].
+4. Indication:  Betaine is indicated for the treatment of homocystinuria to decrease elevated homocysteine blood levels. Included within the category of homocystinuria are deficiencies or defects in: 1. cystathionine beta-synthase (CBS), 2. 5,10-methylenetetrahydrofolate reductase (MTHFR), 3. cobalamin cofactor metabolism (cbl). 
+DrugId:  3
+1. Name:  Pantethine
+2. Groups:  Approved, Investigational
+3. Description:  Pantethine is a naturally occurring compound synthesized in the body from pantothenic acid (vitamin B5) via addition of cysteamine. It consists of two molecules of pantetheine that form a dimer via disufide linkages, and acts as an intermediate in the production of Coenzyme A. Coenzyme A plays an essential role as a cofactor in the metabolism of lipids and carbohydrates including fatty acid oxidation, carbohydrate metabolism, pyruvate degradation, and amino acid catabolism [2]. Pantethine is available as a dietary supplement for lowering blood cholesterol and triglycerides.
+4. Indication:  Not Available
+DrugId:  4
+1. Name:  Nitisinone
+2. Groups:  Approved, Investigational
+3. Description:  Nitisinone is a synthetic reversible inhibitor of 4-hydroxyphenylpyruvate dioxygenase. It is used in the treatment of hereditary tyrosinemia type 1. It is sold under the brand name Orfadin.
+4. Indication:  Used as an adjunct to dietary restriction of tyrosine and phenylalanine in the treatment of hereditary tyrosinemia type 1.
+DrugId:  5
+1. Name:  Stiripentol
+2. Groups:  Approved
+3. Description:  Stiripentol is an anticonvulsant drug used in the treatment of epilepsy as an adjunct therapy along with Clobazam and Valproic Acid. Unrelated to other anticonvulsants, stitipentol belongs to the group of aromatic allylic alcohols and may potentiate the effect of other antiepileptic drugs (AEDs) due to pharmacokinetic interactions. It elevates the levels of gamma-aminobutyric acid (GABA), a major inhibitory neurotransmitter that regulates electrical activity in the central nervous system. Use of stiripentol is approved for infants with Dravet syndrome, or Severe Myoclonic Epilepsy in Infancy (SMEI) that commonly occurs at the first year of life. Stiripentol is not FDA-approved but approved in Canada and European countries as oral tablets marketed as Diacomit.
+4. Indication:  Indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet’s syndrome) whose seizures are not adequately controlled with clobazam and valproate.
+DrugId:  6
+1. Name:  L-Alanine
+2. Groups:  Approved, Nutraceutical
+3. Description:  A non-essential amino acid that occurs in high levels in its free state in plasma. It is produced from pyruvate by transamination. It is involved in sugar and acid metabolism, increases immunity, and provides energy for muscle tissue, brain, and the central nervous system.
+4. Indication:  Used for protein synthesis.
+DrugId:  7
+1. Name:  Nitazoxanide
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Nitazoxanide belongs to the class of drugs known as thiazolides. Nitazoxanide (NTZ) is a broad-spectrum anti-infective drug that markedly modulates the survival, growth, and proliferation of a range of extracellular and intracellular protozoa, helminths, anaerobic and microaerophilic bacteria, in addition to viruses. This drug is effective in the treatment of gastrointestinal infections including Cryptosporidium parvum or Giardia lamblia in healthy subjects. It is generally well tolerated. Nitazoxanide is a first-line, standard treatment for illness caused by C. parvum or G. lamblia infection in healthy (not immunosuppressed) adults and children and may also be considered in the treatment of illnesses caused by other protozoa or helminths [2]. Recently, this drug has been studied as a broad-spectrum antiviral agent due to its ability to inhibit the replication of several RNA and DNA viruses [3].
+4. Indication:  For the treatment of diarrhea in adults and children caused by the protozoa Giardia lamblia, and for the treatment of diarrhea in children caused by the protozoan, Cryptosporidium parvum [FDA Label].Nitazoxanide has not been shown to be superior to placebo medication for the management of diarrhea caused by Cryptosporidium parvum in patients with HIV/immunodeficiency [FDA Label]. 
+DrugId:  8
+1. Name:  L-Carnitine
+2. Groups:  Approved, Investigational
+3. Description:  Constituent of striated muscle and liver. It is used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias.
+4. Indication:  For treatment of primary systemic carnitine deficiency, a genetic impairment of normal biosynthesis or utilization of levocarnitine from dietary sources, or for the treatment of secondary carnitine deficiency resulting from an inborn error of metabolism such as glutaric aciduria II, methyl malonic aciduria, propionic acidemia, and medium chain fatty acylCoA dehydrogenase deficiency. Used therapeutically to stimulate gastric and pancreatic secretions and in the treatment of hyperlipoproteinemias. Parenteral levocarnitine is indicated for the prevention and treatment of carnitine deficiency in patients with end-stage renal disease.
+DrugId:  9
+1. Name:  Hydralazine
+2. Groups:  Approved
+3. Description:  A direct-acting vasodilator that is used as an antihypertensive agent.
+4. Indication:  For the treatment of essential hypertension, alone or as an adjunct. Also for the management of severe hypertension when the drug cannot be given orally or when blood pressure must be lowered immediately, congestive heart failure (in combination with cardiac glycosides and diuretics and/or with isosorbide dinitrate), and hypertension secondary to pre-eclampsia/eclampsia.
+DrugId:  10
+1. Name:  Selenium
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  Selenium is a trace metal in the human body particularly important as a component of glutathione peroxidase, an important enzyme in the prevention of cellular damage by free radicals and reactive oxygen species [FDA Label]
+4. Indication:  For the supplementation of total parenteral nutrition to prevent hyposelenemia [FDA Label].
+DrugId:  11
+1. Name:  Etoposide
+2. Groups:  Approved
+3. Description:  A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Etoposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent entry into the mitotic phase of cell division, and lead to cell death. Etoposide acts primarily in the G2 and S phases of the cell cycle. [PubChem]
+4. Indication:  For use in combination with other chemotherapeutic agents in the treatment of refractory testicular tumors and as first line treatment in patients with small cell lung cancer. Also used to treat other malignancies such as lymphoma, non-lymphocytic leukemia, and glioblastoma multiforme.
+DrugId:  12
+1. Name:  Ethyl pyruvate
+2. Groups:  Investigational
+3. Description:  CTI-01 (ethyl pyruvate) is a novel anti-inflammatory agent for the treatment of critical inflammatory conditions. CTI-01 shows a potent anti-inflammatory and tissue protection activity in multiple animal models of disease including pancreatitis, ischemia-reperfusion injury, sepsis, renal injury and endotoxemia.
+4. Indication:  Investigated for use/treatment in burns and burn infections, cardiac surgery, inflammatory disorders (unspecified), ischemic reperfusion injury, and sepsis and septicemia.
+DrugId:  13
+1. Name:  Nitrofural
+2. Groups:  Approved, Investigational, Vet approved
+3. Description:  A topical anti-infective agent effective against gram-negative and gram-positive bacteria. It is used for superficial wounds, burns, ulcers, and skin infections. Nitrofurazone has also been administered orally in the treatment of trypanosomiasis. [PubChem]
+4. Indication:  For the treatement of bacterial skin infections including pyodermas, infected dermatoses and infections of cuts, wounds, burns and ulcers due to susceptible organisms.
+DrugId:  14
+1. Name:  Tropicamide
+2. Groups:  Approved, Investigational
+3. Description:  One of the muscarinic antagonists with pharmacologic action similar to atropine and used mainly as an ophthalmic parasympatholytic or mydriatic. [PubChem]
+4. Indication:  Indicated to induce mydriasis (dilation of the pupil) and cycloplegia (paralysis of the ciliary muscle of the eye) in diagnostic procedures, such as measurement of refractive errors and examination of the fundus of the eye.
+DrugId:  15
+1. Name:  Cocarboxylase
+2. Groups:  Approved, Experimental
+3. Description:  The coenzyme form of Vitamin B1 present in many animal tissues. It is a required intermediate in the pyruvate dehydrogenase complex and the ketoglutarate dehydrogenase complex.
+4. Indication:  Not Available
+DrugId:  16
+1. Name:  Dichloroacetic Acid
+2. Groups:  Approved, Investigational
+3. Description:  Dichloroacetic acid, often abbreviated DCA, is an acid analogue of acetic acid in which two of the three hydrogen atoms of the methyl group have been replaced by chlorine atoms. The salts and esters of dichloroacetic acid are called dichloroacetates. Salts of DCA are used as drugs since they inhibit the enzyme pyruvate dehydrogenase kinase. Early reports of its activity against brain cancer cells led patients to treat themselves with DCA, which is commercially available in non-pharmaceutical grade. A phase 1 study in 5 patients concluded that DCA was safe, but wasn't designed to establish effectiveness.DCA was approved for use in Canada in 1989 (as a topical formulation for treatment of warts and for cauterization and removal of a wide variety of skin and tissue lesions), but was cancelled post market.
+4. Indication:  Not Available
+DrugId:  17
+1. Name:  Coenzyme A
+2. Groups:  Investigational, Nutraceutical
+3. Description:  Coenzyme A (CoA, CoASH, or HSCoA) is a coenzyme, notable for its role in the synthesis and oxidation of fatty acids, and the oxidation of pyruvate in the citric acid cycle. All genomes sequenced to date encode enzymes that use coenzyme A as a substrate, and around 4% of cellular enzymes use it (or a thioester, such as acetyl-CoA) as a substrate. In humans, CoA biosynthesis requires cysteamine, pantothenate, and adenosine triphosphate. [Wikipedia]. It is used as a supplement for the hypothetical treatment of acne.
+4. Indication:  Not Available
+DrugId:  18
+1. Name:  Pantothenic acid
+2. Groups:  Approved, Nutraceutical, Vet approved
+3. Description:  Pantothenic acid, also called pantothenate or vitamin B5 (a B vitamin), is a water-soluble vitamin discovered by Roger J. Williams in 1919. For many animals, pantothenic acid is an essential nutrient. Animals require pantothenic acid to synthesize coenzyme-A (CoA), as well as to synthesize and metabolize proteins, carbohydrates, and fats.Pantothenic acid is the amide between pantoic acid and β-alanine. Small quantities of pantothenic acid are found in nearly every food, with high amounts in whole-grain cereals, legumes, eggs, meat, royal jelly, avocado, and yogurt. It is commonly found as its alcohol analog, the provitamin panthenol, and as calcium pantothenate. Pantothenic acid is an ingredient in some hair and skin care products. Only the dextrorotatory (D) isomer of pantothenic acid possesses biologic activity. The levorotatory (L) form may antagonize the effects of the dextrorotatory isomer. [Wikipedia]
+4. Indication:  Studied for the treatment of many uses such as treatment of testicular torsion, diabetic ulceration, wound healing, acne, obesity, diabetic peripheral polyneuropathy. It has also been investigated for its hypolipidemic effects and as cholesterol lowering agent.
+DrugId:  19
+1. Name:  Glucose
+2. Groups:  Approved, Vet approved
+3. Description:  Glucose is a simple sugar (monosaccharide) generated during phosynthesis involving water, carbon and sunlight in plants. It is produced in humans via hepatic gluconeogenesis and breakdown of polymeric glucose forms (glycogenolysis). It circulates in human circulation as blood glucose and acts as an essential energy source for many organisms through aerobic or anaerobic respiration and fermentation. It is primarily stored as starch in plants and glycogen in animals to be used in various metabolic processes in the cellular level. Its aldohexose stereoisomer, dextrose or D-glucose, is the most commonly occurring isomer of glucose in nature. L-glucose is a synthesized enantiomer that is used as a low-calorie sweetener and laxative. The unspecified form of glucose is commonly supplied as an injection for nutritional supplementation or metabolic disorders where glucose levels are improperly regulated. Glucose is listed on the World Health Organization's List of Essential Medicines, the most important medications needed in a basic health system.
+4. Indication:  Glucose pharmaceutical formulations (oral tablets, injections) are indicated for caloric supply and carbohydrate supplementation in case of nutrient deprivation. It is also used in metabolic disorders such as hypoglycemia.
+DrugId:  20
+1. Name:  AVI-4557
+2. Groups:  Investigational
+3. Description:  AVI-4557 is an oral antisense compound that selectively inhibits the metabolic enzyme cytochrome P450 3A4 (CYP), a liver enzyme responsible for the metabolism or breakdown of approximately half of currently marketed drugs. Studies indicate that AVI-4557 can successfully reduce the rate of metabolism for certain drugs, therefore allowing greater and longer availability of the drug in the patient's system through a decrease in clearance and an increase in maximal blood concentration (Cmax). AVI-4557 is therefore indicated to limit toxicity for patients receiving highly-toxic therapeutic drugs for treatment of anxiety, cancer, and a number of other serious conditions.
+4. Indication:  Investigated for use/treatment in adverse effects (chemotherapy) and adverse effects (drug).
+DrugId:  21
+1. Name:  RG2417
+2. Groups:  Investigational
+3. Description:  RG2417 is a proprietary formulation of uridine, a biological compound essential for the synthesis of DNA and RNA, the basic hereditary material found in all cells, and numerous other factors essential for cell metabolism. Uridine is synthesized by the mitochondria, the power plant of the human cell responsible for energy metabolism. The rationale for uridine therapy in neuropsychiatric disorders is supported by preclinical and clinical research. Recent reports indicate that certain genes that encode for mitochondrial proteins are significantly down regulated in the brains of bipolar patients. This new insight suggests that the symptoms of bipolar disorder may be linked to dysregulation of energy metabolism of the brain. 
+4. Indication:  Investigated for use/treatment in bipolar disorders and manic disorders.
+DrugId:  22
+1. Name:  Aciclovir
+2. Groups:  Approved
+3. Description:  A guanosine analog antiviral drug that acts as an antimetabolite. Aciclovir is used for the treatment of herpes simplex virus infections, varicella zoster (chickenpox) and herpes zoster (shingles).Aciclovir has also been investigated for the treatment of herpes labialis applied using an iontophoretic device. Currently approved drugs for the treatment of herpes labialis (cold sores) exhibit low levels of efficacy due to the limited ability of the drugs to penetrate the skin to the site where the herpes virus is replicating. Iontophoresis uses electric current to enhance the delivery of drugs through the skin.
+4. Indication:  For the treatment and management of herpes zoster (shingles), genital herpes, and chickenpox. 
+DrugId:  23
+1. Name:  L-Leucine
+2. Groups:  Approved, Nutraceutical
+3. Description:  An essential branched-chain amino acid important for hemoglobin formation. [PubChem]
+4. Indication:  Indicated to assist in the prevention of the breakdown of muscle proteins that sometimes occur after trauma or severe stress.
+DrugId:  24
+1. Name:  Magnesium aspartate
+2. Groups:  Experimental
+3. Description:  Magnesium aspartate is a magnesium salt of aspartic acid that is commonly used as a mineral supplement. It displays high oral bioavailability and water solubiltiy compared to other magnesium salts such as magnesium citrate, magnesium carbonate and magnesium oxide.
+4. Indication:  Not Available
+DrugId:  25
+1. Name:  Dipropyl-4-hydroxytryptamine
+2. Groups:  Experimental
+3. Description:  Dipropyl-4-hydroxytryptamine is the 4-hydroxyl analog of dipropyltryptamine (DPT). Dipropyl-4-hydroxytryptamine was first synthesized by Alexander Shulgin. Very little data exists about the pharmacological properties, metabolism, and toxicity of dipropyl-4-hydroxytryptamine.
+4. Indication:  Not Available
