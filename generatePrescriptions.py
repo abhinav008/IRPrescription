@@ -47,7 +47,18 @@ def generatePrescription(retrievedDiseaseTuples, query):
 			# Output Disease
 			htmlLines.append("\t<h2>\n\t\tIdentified Disease: </h2>\n\t<div class=\"box\">\n\t"+diseaseTuple[0]+"\n\t</div>\n\t<hr>")
 			# Output Symptom
-			htmlLines.append("\t<h2>More Symptoms: </h2>\n\t<div class=\"box\">\n\tOTHER_SYMPTOMS\n\t</div>\n\t\t<hr>")
+			otherSymptomList = open("diseaseSym_dataset/" + diseaseTuple[0] + ".txt", "r")
+			lines = otherSymptomList.readlines()
+			lines = sorted(lines, key=operator.itemgetter(2))[:5]
+			otherSymptomList.close()
+			otherSymptoms = ""
+			lineIdx = 0
+			while (lineIdx < (len(lines) - 1)):
+				otherSymptoms += lines[lineIdx].split(", ")[0]
+				otherSymptoms += ", "
+				lineIdx += 1
+			otherSymptoms += lines[lineIdx].split(", ")[0]
+			htmlLines.append("\t<h2>More Symptoms: </h2>\n\t<div class=\"box\">\n\t"+otherSymptoms+"\n\t</div>\n\t\t<hr>")
 			# Output Medication
 			htmlLines.append("<h2>\nMedication:</h2>\n<table>\n\t<tr>\n\t\t<th>Serial No</th>\n\t\t<th>Drug Name</th>\n\t\t<th>Group</th>\n\t\t<th>Indication</th>\n\t</tr>")
 			drugsList = []
@@ -55,6 +66,7 @@ def generatePrescription(retrievedDiseaseTuples, query):
 			# illicitDrugs = []
 			drugs = open("disease_dataset/" + diseaseTuple[0] + ".txt", "r")
 			lines = drugs.readlines()
+			drugs.close()
 			linesCount = len(lines)
 			lineIdx = 0
 			while (lineIdx < linesCount):
@@ -74,11 +86,11 @@ def generatePrescription(retrievedDiseaseTuples, query):
 			sorted_drugsList.reverse()
 			for drug in sorted_drugsList:
 				# Output Drug
-				htmlLines.append("\t<tr>\n\t\t<td>"+str(sorted_drugsList.index(drug))+".</td>\n\t\t<td>"+drug[0]["Name"]+"</td>\n\t\t<td>"+drug[0]["Group"]+"</td>\n\t\t<td>"+drug[0]["Indication"]+"</td>\n\t</tr>")
+				htmlLines.append("\t<tr>\n\t\t<td>"+str(sorted_drugsList.index(drug)+1)+".</td>\n\t\t<td>"+drug[0]["Name"]+"</td>\n\t\t<td>"+drug[0]["Group"]+"</td>\n\t\t<td>"+drug[0]["Indication"]+"</td>\n\t</tr>")
 			htmlLines.append("</table>\n<div class=\"footer\"> Copyright &copy : IIT Kanpur\n</div>\t\n</div>\n</body>\n</html>")
 			f.writelines(htmlLines)
 
-N = 2
-sympList = query.split(" ")
+N = 5
+sympList = query.split(", ")
 retrievedDiseaseTuples = getDiseaseScores(sympList, N)
 generatePrescription(retrievedDiseaseTuples, query)
