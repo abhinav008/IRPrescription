@@ -11,7 +11,7 @@ regex_ind = re.compile(r"4. Indication:  (.*)\n")
 
 groupScore = {"Approved":"5", "Experimental":"-3", "Nutraceutical":"0", "Investigational":"-1", "Withdrawn":"-2", "Illicit":"-6", "Vet approved":"-4"}
 
-def getDiseaseScores(sympList, N):
+def getDiseaseScores(sympList, N, alpha):
 	diseaseScoreList = {}
 	diseaseList = os.listdir("diseaseSym_dataset/")
 	for filename in diseaseList:
@@ -20,14 +20,20 @@ def getDiseaseScores(sympList, N):
 			with open("diseaseSym_dataset/" + filename) as disease:
 				symptomList = disease.readlines()
 				# print(symptomList[:5])
+				symMatched = 0
 				for symptom in symptomList:
 					symptom = symptom.split(",")
 					# print(symptom)
 					if symptom[0].lower() in sympList:
+						symMatched += 1 
 						try:
 							diseaseScoreList[diseaseName] += float(symptom[2])
 						except:
 							diseaseScoreList[diseaseName] = float(symptom[2])
+				try :
+					diseaseScoreList[diseaseName] += alpha*(float(symMatched)/len(sympList))
+				except :
+					pass	
 		except:
 			print(filename)
 			print(diseaseList.index(filename))
@@ -91,6 +97,7 @@ def generatePrescription(retrievedDiseaseTuples, query):
 			f.writelines(htmlLines)
 
 N = 5
+alpha = 1000
 sympList = query.split(", ")
-retrievedDiseaseTuples = getDiseaseScores(sympList, N)
+retrievedDiseaseTuples = getDiseaseScores(sympList, N, alpha)
 generatePrescription(retrievedDiseaseTuples, query)
