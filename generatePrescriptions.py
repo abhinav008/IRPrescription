@@ -4,6 +4,7 @@ import sys
 import operator
 
 query = sys.argv[1]
+sys.stdout.write(query)
 
 regex_name = re.compile(r"1. Name:  (.*)\n")
 regex_group = re.compile(r"2. Groups:  (.*)\n")
@@ -13,11 +14,11 @@ groupScore = {"Approved":"5", "Experimental":"-3", "Nutraceutical":"0", "Investi
 
 def getDiseaseScores(sympList, N, alpha):
 	diseaseScoreList = {}
-	diseaseList = os.listdir("diseaseSym_dataset/")
+	diseaseList = os.listdir("diseaseSym_dataset_2.0/")
 	for filename in diseaseList:
 		diseaseName = filename.split('.')[0]
 		try:
-			with open("diseaseSym_dataset/" + filename) as disease:
+			with open("diseaseSym_dataset_2.0/" + filename) as disease:
 				symptomList = disease.readlines()
 				# print(symptomList[:5])
 				symMatched = 0
@@ -53,7 +54,7 @@ def generatePrescription(retrievedDiseaseTuples, query):
 			# Output Disease
 			htmlLines.append("\t<h2>\n\t\tIdentified Disease: </h2>\n\t<div class=\"box\">\n\t"+diseaseTuple[0]+"\n\t</div>\n\t<hr>")
 			# Output Symptom
-			otherSymptomList = open("diseaseSym_dataset/" + diseaseTuple[0] + ".txt", "r")
+			otherSymptomList = open("diseaseSym_dataset_2.0/" + diseaseTuple[0] + ".txt", "r")
 			lines = otherSymptomList.readlines()
 			lines = sorted(lines, key=operator.itemgetter(2))[:5]
 			otherSymptomList.close()
@@ -98,6 +99,6 @@ def generatePrescription(retrievedDiseaseTuples, query):
 
 N = 5
 alpha = 1000
-sympList = query.split(", ")
+sympList = query.split(";")
 retrievedDiseaseTuples = getDiseaseScores(sympList, N, alpha)
 generatePrescription(retrievedDiseaseTuples, query)
