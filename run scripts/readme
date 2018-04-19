@@ -1,0 +1,6 @@
+#run.sh,parse.awk,py.py should be inside terrier-core-4.2 
+#also add files generatePresciptions.py genfinalhtml.py and an empty folder "prescription" there
+#inorder to run a search query type  { ./run.sh "query_inside_quotes" } in terminal.
+#Results can be found at gnefinal.html 
+
+#Also ,you need to slightly tweek genfinalhtml.py by changing the url that is system-dependent , because it is hosted on the system itself.
