@@ -16,7 +16,7 @@ def main():
 			p = prescription.split('.')[0]		
 			print(p)
 			html.append("<li>\n<a href=\"file:///home/ankush/terrier-core-4.2/prescription/"+str(p)+".html\">"+str(p)+"</a>\n<hr>\n</li>\n")		
-	print(prescriptionList)
+	#print(prescriptionList)
 	html.append("</table>\n<div class=\"footer\"> Copyright &copy : IIT Kanpur\n</div>\t\n</div>\n</body>\n</html>")
 	f.writelines(html)
 if __name__== "__main__":
