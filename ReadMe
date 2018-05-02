@@ -1,0 +1,6 @@
+Steps:
+1. Indexing : Use terrier.properties file for indexing. Make sure that symptom.trec is there in the parent directory of terrier-core-4.2.
+2. Run.sh,parse.awk,py.py should be inside terrier-core-4.2 
+3. Also add files generatePresciptions.py genfinalhtml.py and an empty folder "prescription" there. All prescriptions will be generated inside this folder.
+4. Inorder to run a search query type  { ./run.sh "query_inside_quotes" } in terminal. Results can be found at gnefinal.html.
+5. You have to slightly tweek gnefinal.html because the webpages are hosted by local machine.
